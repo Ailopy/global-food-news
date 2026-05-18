@@ -1,0 +1,96 @@
+# ============================================================
+# GitHub Actions — 自动抓取 + 部署
+# 触发时间：UTC 00:00 和 12:00（北京时间 08:00 和 20:00）
+# ============================================================
+
+name: 每日资讯更新
+
+on:
+  schedule:
+    # 北京时间 08:00 → UTC 00:00
+    - cron: "0 0 * * *"
+    # 北京时间 20:00 → UTC 12:00
+    - cron: "0 12 * * *"
+
+  # 允许手动触发（在 GitHub Actions 页面点击 Run workflow）
+  workflow_dispatch:
+
+# 设置 GITHUB_TOKEN 权限，允许写入内容和 Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. 拉取代码 ──────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ── 2. 配置 Python ───────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # ── 3. 安装依赖 ───────────────────────────────────────
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 4. 运行抓取脚本 ──────────────────────────────────
+      - name: Fetch news
+        id: fetch
+        run: python scripts/main.py
+        continue-on-error: false   # 失败时停止，后续步骤不执行
+
+      # ── 5. 检查是否有数据更新 ─────────────────────────────
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --quiet web/data/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      # ── 6. 提交更新的数据文件 ─────────────────────────────
+      - name: Commit and push data
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/data/
+          git commit -m "chore: 自动更新资讯数据 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          git push
+
+      # ── 7. 部署到 GitHub Pages ────────────────────────────
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./web
+          publish_branch: gh-pages
+          force_orphan: false
+          commit_message: "deploy: 更新页面 $(date '+%Y-%m-%d %H:%M')"
+
+      # ── 8. 输出结果摘要 ──────────────────────────────────
+      - name: Summary
+        if: always()
+        run: |
+          echo "## 抓取结果" >> $GITHUB_STEP_SUMMARY
+          if [ -f web/data/news_latest.json ]; then
+            COUNT=$(python -c "import json; d=json.load(open('web/data/news_latest.json')); print(d.get('total',0))")
+            SOURCES=$(python -c "import json; d=json.load(open('web/data/news_latest.json')); print(len(d.get('sources',[])))")
+            echo "- 最新资讯条数：$COUNT" >> $GITHUB_STEP_SUMMARY
+            echo "- 活跃来源数量：$SOURCES" >> $GITHUB_STEP_SUMMARY
+            echo "- 更新时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- 数据文件未生成，请检查日志" >> $GITHUB_STEP_SUMMARY
+          fi

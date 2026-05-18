@@ -1,0 +1,529 @@
+# =============================================================
+# 全球食品资讯聚合 - 资讯源配置
+# 来源：用户 Excel《新素材矩阵》，共 46 个网站
+# RSS状态：✅ 已验证可用 | ⚠️ 暂无RSS（待扩展） 
+# =============================================================
+
+settings:
+  keep_days: 7          # 保留最近N天资讯
+  max_per_source: 50    # 每个来源最多保留条数
+  fetch_timeout: 15     # 抓取超时秒数
+  output_dir: web/data  # JSON 输出目录
+  retry_times: 3        # 失败重试次数
+
+# ─────────────────────────────────────────
+# 🇯🇵 日本来源
+# ─────────────────────────────────────────
+sources:
+
+  # ✅ 日本 - Mognavi（新品&评测&大赏）
+  - name: Mognavi
+    url: https://mognavi.jp/do/whats_new/show
+    rss: https://mognavi.jp/blog/feed
+    region: 日本
+    category: 综合
+    level: A
+    language: ja
+    enabled: true
+
+  # ✅ 日本 - 日本食粮新闻
+  - name: 日本食粮新聞
+    url: https://news.nissyoku.co.jp/archives/news-cat/08
+    rss: https://news.nissyoku.co.jp/rss
+    region: 日本
+    category: 综合
+    level: A
+    language: ja
+    enabled: true
+
+  # ✅ 日本 - 食品産業新聞社
+  - name: 食品産業新聞社
+    url: https://www.ssnp.co.jp/
+    rss: https://www.ssnp.co.jp/rss
+    region: 日本
+    category: 综合
+    level: B
+    language: ja
+    enabled: true
+
+  # ✅ 日本 - 食品新聞
+  - name: 食品新聞
+    url: https://shokuhin.net/
+    rss: https://shokuhin.net/rss
+    region: 日本
+    category: 综合
+    level: A
+    language: ja
+    enabled: true
+
+  # ⚠️ 日本 - Shin-shouhin（无RSS，标记待抓取）
+  - name: Shin-shouhin
+    url: http://www.shin-shouhin.com/
+    rss: ""
+    region: 日本
+    category: 综合
+    level: A
+    language: ja
+    enabled: false
+    note: "无RSS，需页面抓取"
+
+  # ⚠️ 日本 - Foods news
+  - name: Foods news
+    url: http://foodsnews.com
+    rss: ""
+    region: 日本
+    category: 综合
+    level: A
+    language: ja
+    enabled: false
+    note: "无RSS"
+
+  # ⚠️ 日本 - 日経クロストレンド
+  - name: 日経クロストレンド
+    url: https://xtrend.nikkei.com/atcl/contents/new/
+    rss: ""
+    region: 日本
+    category: 综合
+    level: A
+    language: ja
+    enabled: false
+    note: "付费媒体，无公开RSS"
+
+  # ⚠️ 日本 - Prtimes（食品饮料分类）
+  - name: PR Times（食品飲料）
+    url: https://prtimes.jp/main/html/searchbiscate/busi_cate_id/013/lv2/41
+    rss: ""
+    region: 日本
+    category: 综合
+    level: A+
+    language: ja
+    enabled: false
+    note: "无分类RSS，需页面抓取"
+
+# ─────────────────────────────────────────
+# 🇺🇸 北美来源
+# ─────────────────────────────────────────
+
+  # ✅ 北美 - Food Dive（A+）
+  - name: Food Dive
+    url: https://www.fooddive.com
+    rss: https://www.fooddive.com/feeds/news
+    region: 北美
+    category: 综合
+    level: A+
+    language: en
+    enabled: true
+
+  # ✅ 北美 - Nosh
+  - name: NOSH
+    url: https://www.nosh.com
+    rss: https://www.nosh.com/rss
+    region: 北美
+    category: 综合
+    level: A
+    language: en
+    enabled: true
+
+  # ✅ 北美 - New Hope Network (nutrition)
+  - name: New Hope Network
+    url: https://www.newhope.com/products-and-trends
+    rss: https://www.newhope.com/rss.xml
+    region: 北美
+    category: 功能性食品
+    level: A
+    language: en
+    enabled: true
+
+  # ✅ 北美 - BevNET（饮料）
+  - name: BevNET
+    url: https://www.bevnet.com
+    rss: https://www.bevnet.com/rss
+    region: 北美
+    category: 饮料
+    level: A
+    language: en
+    enabled: true
+
+  # ✅ 全球 - Food Safety News（补充可用源）
+  - name: Food Safety News
+    url: https://www.foodsafetynews.com
+    rss: https://www.foodsafetynews.com/feed/
+    region: 北美
+    category: 综合
+    level: A
+    language: en
+    enabled: true
+
+  # ✅ 全球 - The Food Institute
+  - name: The Food Institute
+    url: https://foodinstitute.com
+    rss: https://foodinstitute.com/feed/
+    region: 北美
+    category: 综合
+    level: A
+    language: en
+    enabled: true
+
+  # ⚠️ 北美 - Food Business News（A+，403封锁）
+  - name: Food Business News
+    url: http://www.foodbusinessnews.net/
+    rss: https://www.foodbusinessnews.net/rss/news
+    region: 北美
+    category: 综合
+    level: A+
+    language: en
+    enabled: false
+    note: "RSS被403封锁，可尝试代理或页面抓取"
+
+  # ⚠️ 北美 - Food Navigator USA（A+，连接被阻断）
+  - name: Food Navigator USA
+    url: https://www.foodnavigator-usa.com/
+    rss: https://www.foodnavigator-usa.com/rss/news
+    region: 北美
+    category: 综合
+    level: A+
+    language: en
+    enabled: false
+    note: "SSL/连接被阻断，需代理或其他方式"
+
+  # ⚠️ 北美 - Foodbev
+  - name: Foodbev
+    url: http://www.foodbev.com
+    rss: ""
+    region: 北美
+    category: 综合
+    level: A+
+    language: en
+    enabled: false
+    note: "无公开RSS"
+
+  # ⚠️ 北美 - Prepared Foods（A+，403）
+  - name: Prepared Foods
+    url: https://www.preparedfoods.com
+    rss: https://www.preparedfoods.com/rss/news
+    region: 北美
+    category: 综合
+    level: A+
+    language: en
+    enabled: false
+    note: "403封锁"
+
+  # ⚠️ 北美 - Dairy Foods（403）
+  - name: Dairy Foods
+    url: https://www.dairyfoods.com
+    rss: https://www.dairyfoods.com/rss/news
+    region: 北美
+    category: 乳制品
+    level: A
+    language: en
+    enabled: false
+    note: "403封锁"
+
+  # ⚠️ 北美 - Cision PR Newswire
+  - name: PR Newswire
+    url: https://www.prnewswire.com/news-releases/
+    rss: ""
+    region: 北美
+    category: 综合
+    level: A
+    language: en
+    enabled: false
+    note: "无分类RSS"
+
+  # ⚠️ 北美 - Beverage Industry（403）
+  - name: Beverage Industry
+    url: https://www.bevindustry.com/
+    rss: https://www.bevindustry.com/rss/news
+    region: 北美
+    category: 饮料
+    level: B
+    language: en
+    enabled: false
+    note: "403封锁"
+
+  # ⚠️ 北美 - Dairy Reporter（连接超时）
+  - name: Dairy Reporter
+    url: http://www.dairyreporter.com/
+    rss: https://www.dairyreporter.com/rss/news
+    region: 北美
+    category: 乳制品
+    level: B
+    language: en
+    enabled: false
+    note: "连接超时"
+
+  # ⚠️ 北美 - Snack Food & Wholesale Bakery（403）
+  - name: Snack Food & Wholesale Bakery
+    url: https://www.snackandbakery.com
+    rss: https://www.snackandbakery.com/rss/news
+    region: 北美
+    category: 烘焙&零食
+    level: A
+    language: en
+    enabled: false
+    note: "403封锁"
+
+  # ⚠️ 北美 - Candy & Snack Today
+  - name: Candy & Snack Today
+    url: https://candyusa.com/cst/cst-product-category/spotlight-2020/
+    rss: ""
+    region: 北美
+    category: 糖巧&零食
+    level: A
+    language: en
+    enabled: false
+    note: "无公开RSS"
+
+  # ⚠️ 北美 - Food Ingredients First
+  - name: Food Ingredients First
+    url: http://www.foodingredientsfirst.com/key-trends.html
+    rss: https://www.foodingredientsfirst.com/rss/news
+    region: 北美
+    category: 原辅料
+    level: A
+    language: en
+    enabled: false
+    note: "404，RSS路径不存在"
+
+  # ⚠️ 北美 - Nutra Ingredients USA（连接被阻断）
+  - name: Nutra Ingredients USA
+    url: https://www.nutraingredients-usa.com/
+    rss: https://www.nutraingredients-usa.com/rss/news
+    region: 北美
+    category: 功能性食品
+    level: B
+    language: en
+    enabled: false
+    note: "连接被阻断"
+
+  # ⚠️ 北美 - Thrillist
+  - name: Thrillist
+    url: https://www.thrillist.com/food-and-drink
+    rss: ""
+    region: 北美
+    category: 综合
+    level: B
+    language: en
+    enabled: false
+    note: "无公开RSS"
+
+  # ⚠️ 北美 - Packaging Digest（403）
+  - name: Packaging Digest
+    url: https://www.packagingdigest.com/food-beverage
+    rss: https://www.packagingdigest.com/rss/news
+    region: 北美
+    category: 综合
+    level: B
+    language: en
+    enabled: false
+    note: "403封锁"
+
+# ─────────────────────────────────────────
+# 🌍 欧洲来源
+# ─────────────────────────────────────────
+
+  # ✅ 欧洲 - Just Food
+  - name: Just Food
+    url: https://www.just-food.com
+    rss: https://www.just-food.com/feed
+    region: 欧洲
+    category: 综合
+    level: A
+    language: en
+    enabled: true
+
+  # ✅ 欧洲 - Fab News
+  - name: Fab News
+    url: https://fabnews.live/
+    rss: https://fabnews.live/rss
+    region: 欧洲
+    category: 综合
+    level: A
+    language: en
+    enabled: true
+
+  # ✅ 欧洲 - Sweets & Savoury Snacks World
+  - name: Sweets & Snacks World
+    url: https://www.sweetsandsnacksworld.com/news/
+    rss: https://www.sweetsandsnacksworld.com/news/rss
+    region: 欧洲
+    category: 糕点糖巧
+    level: B
+    language: en
+    enabled: true
+
+  # ✅ 欧洲 - Confectionery Production
+  - name: Confectionery Production
+    url: https://www.confectioneryproduction.com
+    rss: https://www.confectioneryproduction.com/rss
+    region: 欧洲
+    category: 糕点糖巧
+    level: A
+    language: en
+    enabled: true
+
+  # ✅ 欧洲 - Nutraceutical Business Review
+  - name: Nutraceutical Business Review
+    url: https://nutraceuticalbusinessreview.com
+    rss: https://nutraceuticalbusinessreview.com/rss
+    region: 欧洲
+    category: 功能性食品
+    level: B
+    language: en
+    enabled: true
+
+  # ⚠️ 欧洲 - Food Navigator EU（连接被阻断）
+  - name: Food Navigator EU
+    url: http://www.foodnavigator.com/
+    rss: https://www.foodnavigator.com/rss/news
+    region: 欧洲
+    category: 综合
+    level: A+
+    language: en
+    enabled: false
+    note: "连接被阻断（同FoodNavigator集团）"
+
+  # ⚠️ 欧洲 - Food Navigator Asia（连接被阻断）
+  - name: Food Navigator Asia
+    url: https://www.foodnavigator-asia.com/
+    rss: https://www.foodnavigator-asia.com/rss/news
+    region: 亚太
+    category: 综合
+    level: B
+    language: en
+    enabled: false
+    note: "连接被阻断（同FoodNavigator集团）"
+
+  # ⚠️ 欧洲 - Pure NPD
+  - name: Pure NPD
+    url: https://pure-npd.co.uk/
+    rss: ""
+    region: 欧洲
+    category: 综合
+    level: B
+    language: en
+    enabled: false
+    note: "无公开RSS"
+
+  # ⚠️ 欧洲 - Food & Drink International
+  - name: Food & Drink International
+    url: https://www.fdiforum.net
+    rss: ""
+    region: 欧洲
+    category: 综合
+    level: B
+    language: en
+    enabled: false
+    note: "无公开RSS"
+
+  # ⚠️ 欧洲 - New Nutrition Business（付费）
+  - name: New Nutrition Business
+    url: https://www.new-nutrition.com/
+    rss: ""
+    region: 全球
+    category: 功能性食品
+    level: A
+    language: en
+    enabled: false
+    note: "付费订阅，无公开RSS"
+
+  # ⚠️ 欧洲 - Natural Products News（连接超时）
+  - name: Natural Products News
+    url: https://www.naturalproductsonline.co.uk/
+    rss: https://www.naturalproductsonline.co.uk/feed/
+    region: 欧洲
+    category: 综合
+    level: B
+    language: en
+    enabled: false
+    note: "连接超时"
+
+  # ⚠️ 欧洲 - Nutra Ingredients EU（连接被阻断）
+  - name: Nutra Ingredients EU
+    url: https://www.nutraingredients.com/
+    rss: https://www.nutraingredients.com/rss/news
+    region: 欧洲
+    category: 功能性食品
+    level: B
+    language: en
+    enabled: false
+    note: "连接被阻断"
+
+  # ⚠️ 欧洲 - Nutra Ingredients Asia（连接断开）
+  - name: Nutra Ingredients Asia
+    url: https://www.nutraingredients-asia.com/
+    rss: https://www.nutraingredients-asia.com/rss/news
+    region: 亚太
+    category: 功能性食品
+    level: B
+    language: en
+    enabled: false
+    note: "连接断开"
+
+  # ⚠️ 欧洲 - Ingredients Network
+  - name: Ingredients Network
+    url: https://www.ingredientsnetwork.com/news/all.html
+    rss: ""
+    region: 欧洲
+    category: 原辅料
+    level: B
+    language: en
+    enabled: false
+    note: "无公开RSS"
+
+  # ⚠️ 欧洲 - Bakery & Snacks
+  - name: Bakery & Snacks
+    url: https://www.bakeryandsnacks.com/
+    rss: https://www.bakeryandsnacks.com/rss/news
+    region: 欧洲
+    category: 烘焙&零食
+    level: B
+    language: en
+    enabled: false
+    note: "404，RSS路径不存在"
+
+# ─────────────────────────────────────────
+# 🌐 全球/多区域来源
+# ─────────────────────────────────────────
+
+  # ✅ 欧美 - The Spoon（食品科技）
+  - name: The Spoon
+    url: https://thespoon.tech/
+    rss: https://thespoon.tech/rss
+    region: 欧美
+    category: 综合
+    level: A
+    language: en
+    enabled: true
+
+  # ✅ 意大利 - Italian Food Net
+  - name: Italian Food Net
+    url: https://news.italianfood.net
+    rss: https://news.italianfood.net/feed
+    region: 欧洲
+    category: 综合
+    level: B
+    language: en
+    enabled: true
+
+  # ⚠️ 全球 - Trend Hunter（无RSS）
+  - name: Trend Hunter
+    url: http://www.trendhunter.com
+    rss: ""
+    region: 全球
+    category: 综合
+    level: A
+    language: en
+    enabled: false
+    note: "无公开RSS，需API或页面抓取"
+
+  # ⚠️ 全球 - Nutrition Insight
+  - name: Nutrition Insight
+    url: https://www.nutritioninsight.com/key-trends.html
+    rss: ""
+    region: 全球
+    category: 功能性食品
+    level: A
+    language: en
+    enabled: false
+    note: "无公开RSS"
