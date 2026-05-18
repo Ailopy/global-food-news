@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>全球食品资讯·每日速览</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌿</text></svg>" />
+</head>
+<body>
+
+<!-- ════════ 顶部导航 ════════ -->
+<header id="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="brand-icon">🌿</span>
+      <div>
+        <h1 class="brand-title">全球食品资讯</h1>
+        <p class="brand-sub">每日速览 · Daily Digest</p>
+      </div>
+    </div>
+    <div class="topbar-controls">
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <input id="searchInput" type="text" placeholder="搜索标题或摘要…" autocomplete="off" />
+        <button id="clearSearch" class="clear-btn" title="清除搜索">✕</button>
+      </div>
+      <div id="updateTime" class="update-time" title="数据最后更新时间">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14">
+          <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+        </svg>
+        <span id="updateTimeText">加载中…</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 来源筛选栏 -->
+  <div class="filter-bar" id="filterBar">
+    <div class="filter-inner">
+      <span class="filter-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14">
+          <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
+        </svg>
+        来源
+      </span>
+      <div id="sourceFilters" class="filter-chips"></div>
+      <button id="selectAll" class="btn-pill btn-active">全选</button>
+      <button id="clearAll" class="btn-pill">清空</button>
+    </div>
+  </div>
+
+  <!-- 地区筛选栏 -->
+  <div class="filter-bar filter-bar-secondary" id="filterBarRegion">
+    <div class="filter-inner">
+      <span class="filter-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14">
+          <circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/>
+          <path d="M12 2a15.3 15.3 0 010 20M12 2a15.3 15.3 0 000 20"/>
+        </svg>
+        地区
+      </span>
+      <div id="regionFilters" class="filter-chips"></div>
+    </div>
+  </div>
+
+  <!-- 品类筛选栏 -->
+  <div class="filter-bar filter-bar-secondary" id="filterBarCat">
+    <div class="filter-inner">
+      <span class="filter-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14">
+          <path d="M3 6h18M3 12h18M3 18h12"/>
+        </svg>
+        品类
+      </span>
+      <div id="categoryFilters" class="filter-chips"></div>
+    </div>
+  </div>
+</header>
+
+<!-- ════════ 主内容 ════════ -->
+<main id="main">
+
+  <!-- 统计面板 -->
+  <div id="summaryPanel" class="summary-panel"></div>
+
+  <!-- 统计栏 -->
+  <div class="stats-bar" id="statsBar">
+    <span id="statsText">加载资讯中…</span>
+    <div class="stats-right">
+      <button class="view-btn active" id="viewGrid" title="网格视图">
+        <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
+          <rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/>
+          <rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/>
+        </svg>
+      </button>
+      <button class="view-btn" id="viewList" title="列表视图">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
+          <line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/>
+          <line x1="8" y1="18" x2="21" y2="18"/>
+          <circle cx="3" cy="6" r="1" fill="currentColor"/><circle cx="3" cy="12" r="1" fill="currentColor"/>
+          <circle cx="3" cy="18" r="1" fill="currentColor"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- 文章卡片容器 -->
+  <div id="articlesGrid" class="articles-grid"></div>
+
+  <!-- 空状态 -->
+  <div id="emptyState" class="empty-state hidden">
+    <div class="empty-icon">🔍</div>
+    <p class="empty-title">没有找到相关资讯</p>
+    <p class="empty-sub">尝试调整搜索关键词、来源或地区筛选</p>
+    <button onclick="resetFilters()" class="btn-reset">重置所有筛选</button>
+  </div>
+
+  <!-- 加载状态 -->
+  <div id="loadingState" class="loading-state">
+    <div class="spinner"></div>
+    <p>正在加载最新资讯…</p>
+  </div>
+
+  <!-- 加载更多 -->
+  <div id="loadMoreWrap" class="load-more-wrap hidden">
+    <button id="loadMoreBtn" class="btn-loadmore">加载更多</button>
+  </div>
+</main>
+
+<!-- ════════ 底部 ════════ -->
+<footer>
+  <p>全球食品资讯聚合 · 涵盖日本 🇯🇵 / 北美 🇺🇸 / 欧洲 🇪🇺 等多地区来源 · 每日自动更新</p>
+  <p class="footer-sub">数据仅供参考，请以原文为准 · <a href="https://github.com/Ailopy/global-food-news" target="_blank" rel="noopener">GitHub 开源</a></p>
+</footer>
+
+<button id="backToTop" class="back-to-top hidden" title="回到顶部">↑</button>
+
+<script src="app.js"></script>
+</body>
+</html>
