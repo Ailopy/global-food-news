@@ -18,8 +18,15 @@ def load_config() -> dict:
 
 
 def get_sources(cfg: dict) -> list:
-    """返回所有 enabled=true 的来源列表"""
-    return [s for s in cfg.get("sources", []) if s.get("enabled", True)]
+    """返回所有 enabled=true 的来源列表，按优先级倒序排列（A+ > A > B > C）"""
+    sources = [s for s in cfg.get("sources", []) if s.get("enabled", True)]
+    level_order = {"A+": 0, "A": 1, "B": 2, "C": 3, "D": 4}
+    def sort_key(s):
+        lvl = s.get("level", "B")
+        # 未定义 level 排在 B 之后
+        return (level_order.get(lvl, 2), s.get("name", ""))
+    sources.sort(key=sort_key)
+    return sources
 
 
 def get_settings(cfg: dict) -> dict:

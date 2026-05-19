@@ -680,3 +680,201 @@ footer {
 
 /* ── Filter label icon alignment ─────────────────────── */
 .filter-label svg { flex-shrink: 0; }
+
+/* ── Tab Bar ─────────────────────────────────────────── */
+.tab-bar {
+  border-top: 1px solid var(--c-border);
+  background: var(--c-surface-alt);
+}
+.tab-bar-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 8px 24px;
+  display: flex;
+  gap: 8px;
+}
+.tab-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 34px;
+  padding: 0 16px;
+  border-radius: 17px;
+  border: 1.5px solid var(--c-border);
+  background: var(--c-surface);
+  font-size: .82rem;
+  font-weight: 600;
+  color: var(--c-text-2);
+  cursor: pointer;
+  transition: var(--transition);
+}
+.tab-btn:hover {
+  border-color: var(--c-primary);
+  color: var(--c-primary);
+  background: var(--c-primary-bg);
+}
+.tab-btn.active {
+  background: var(--c-primary);
+  border-color: var(--c-primary);
+  color: #fff;
+  box-shadow: 0 2px 10px rgba(45,125,70,.3);
+}
+
+/* ── Topics View ─────────────────────────────────────── */
+.articles-grid.topics-view {
+  display: block;
+  gap: 0;
+}
+.topics-intro {
+  margin-bottom: 28px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid var(--c-border);
+}
+.topics-heading {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--c-text);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.topics-sub {
+  font-size: .85rem;
+  color: var(--c-text-3);
+  margin: 0;
+}
+.topics-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  margin-bottom: 32px;
+}
+@media (max-width: 900px) {
+  .topics-grid { grid-template-columns: 1fr; }
+}
+.topic-card {
+  background: var(--c-surface);
+  border: 1.5px solid var(--c-border);
+  border-radius: 20px;
+  overflow: hidden;
+  transition: var(--transition);
+  animation: card-in .4s cubic-bezier(.4,0,.2,1) both;
+  border-top: 4px solid var(--topic-color, var(--c-primary));
+}
+.topic-card:hover {
+  box-shadow: 0 8px 32px rgba(0,0,0,.1);
+  transform: translateY(-3px);
+}
+.topic-card-header {
+  padding: 20px 20px 16px;
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  background: var(--topic-bg, var(--c-bg));
+  border-bottom: 1px solid var(--c-border);
+}
+.topic-icon {
+  font-size: 2rem;
+  flex-shrink: 0;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,.12));
+}
+.topic-title {
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--topic-color, var(--c-primary));
+  margin: 0 0 4px;
+}
+.topic-desc {
+  font-size: .78rem;
+  color: var(--c-text-2);
+  margin: 0;
+  line-height: 1.5;
+}
+.topic-arts {
+  padding: 0;
+}
+.topic-art-item {
+  display: block;
+  padding: 14px 20px;
+  text-decoration: none;
+  color: inherit;
+  border-bottom: 1px solid var(--c-border);
+  transition: background .18s;
+}
+.topic-art-item:last-child { border-bottom: none; }
+.topic-art-item:hover { background: var(--topic-bg, var(--c-bg)); }
+.topic-art-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+.topic-art-time {
+  font-size: .68rem;
+  color: var(--c-text-3);
+  white-space: nowrap;
+}
+.topic-art-title {
+  font-size: .88rem;
+  font-weight: 700;
+  color: var(--c-text);
+  margin: 0 0 4px;
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.topic-art-item:hover .topic-art-title { color: var(--topic-color, var(--c-primary)); }
+.topic-art-summary {
+  font-size: .78rem;
+  color: var(--c-text-2);
+  margin: 0;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.topic-empty {
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.topic-empty span {
+  font-size: .82rem;
+  color: var(--c-text-3);
+  font-weight: 500;
+}
+.topic-empty small {
+  font-size: .72rem;
+  color: var(--c-text-3);
+  opacity: .7;
+}
+.topic-footer {
+  padding: 10px 20px;
+  background: var(--topic-bg, var(--c-bg));
+  border-top: 1px solid var(--c-border);
+}
+.topic-count {
+  font-size: .72rem;
+  color: var(--topic-color, var(--c-primary));
+  font-weight: 600;
+}
+.topics-note {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 16px 20px;
+  background: var(--c-surface-alt);
+  border-radius: 12px;
+  font-size: .78rem;
+  color: var(--c-text-3);
+  line-height: 1.6;
+  margin-top: 8px;
+}
+.topics-note svg { flex-shrink: 0; margin-top: 1px; }
