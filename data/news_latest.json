@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-20T18:38:54.181279+08:00",
+  "last_updated": "2026-05-20T20:41:43.185068+08:00",
   "retention_days": 7,
-  "total": 431,
+  "total": 436,
   "sources": [
     "BevNET",
     "Fab News",
@@ -20,6 +20,66 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "e270d67817326181",
+      "title": "Is ‘GLP-1 Friendly’ the New ‘Natural’? The Latest F&B Buzzword Is Here",
+      "summary": "GLP-1 drugs are reshaping consumer behavior as shoppers eat less, cook less, and seek convenient, small-portion meals marketed as GLP-1 friendly. Food companies are racing to protect revenue by…",
+      "url": "https://foodinstitute.com/focus/is-glp-1-friendly-the-new-natural-the-latest-fb-buzzword-is-here/?utm_source=rss&utm_medium=rss&utm_campaign=is-glp-1-friendly-the-new-natural-the-latest-fb-buzzword-is-here",
+      "published_at": "2026-05-20T20:37:22+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "76619853da4b8744",
+      "title": "“People still want to indulge” – Toms Group CEO Annette Zeipel surveys GLP-1 wave as confectionery grapples with cocoa volatility",
+      "summary": "Toms Group CEO Annette Zeipel discusses how, against a challenging backdrop, the Danish confectioner is plotting a course for growth. The post “People still want to indulge” – Toms Group CEO Annette…",
+      "url": "https://www.just-food.com/interviews/people-still-want-to-indulge-toms-group-ceo-annette-zeipel-surveys-glp-1-wave-as-confectionery-grapples-with-cocoa-volatility/",
+      "published_at": "2026-05-20T20:26:09+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "ff6548ab71e985a2",
+      "title": "Best Beverage Formulation Companies",
+      "summary": "Companies like BevSource are positioning themselves as essential partners for brands chasing faster, smarter beverage development. Such companies offer deep formulation expertise and scale advantages…",
+      "url": "https://foodinstitute.com/sponsored/best-beverage-formulation-companies/?utm_source=rss&utm_medium=rss&utm_campaign=best-beverage-formulation-companies",
+      "published_at": "2026-05-20T20:00:41+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8bd7e9244ddc8647",
+      "title": "UK government’s ‘call’ for food price caps sparks criticism",
+      "summary": "The UK government’s reported push for the country’s retailers to cap the prices of staple food products has been met with fierce criticism. The post UK government’s ‘call’ for food price caps sparks…",
+      "url": "https://www.just-food.com/news/uk-government-call-food-price-cap-criticism/",
+      "published_at": "2026-05-20T19:39:55+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "059754b781c0af93",
+      "title": "Arla venture buys Australian cottage-cheese firm Brancourts",
+      "summary": "Arla Foods has struck a deal to acquire Australian cottage cheese producer Brancourts. The post Arla venture buys Australian cottage-cheese firm Brancourts appeared first on Just Food .",
+      "url": "https://www.just-food.com/news/arla-venture-buys-cheese-firm-brancourts/",
+      "published_at": "2026-05-20T18:38:18+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "e931e92b17862901",
       "title": "Fox’s Chocolatey reveals new limited edition matcha cream biscuit",
@@ -43,6 +103,18 @@
       "category": "综合",
       "level": "B",
       "language": "ja"
+    },
+    {
+      "id": "ffc36d3c03cec2bb",
+      "title": "Jenerise launches new creatine monohydrate Cr.01",
+      "summary": "With each batch of Cr.01 independently verified by SGS, Jenerise said it wants to build the \"GORE-TEX of creatine,\" aiming to establish its name as a trusted quality mark in the nutraceutical sector",
+      "url": "https://nutraceuticalbusinessreview.com/jenerise-launches-new-creatine-monohydrate-cr-01",
+      "published_at": "2026-05-20T18:15:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "94908e044ed06255",
@@ -5177,18 +5249,6 @@
       "source": "BevNET",
       "region": "北美",
       "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "859dabb056714ecb",
-      "title": "Marketing: Quaker Scores with FIFA World Cup 26; LUNA Bar Taps Jessica Alba",
-      "summary": "Quaker is stepping onto the global stage as the Official Breakfast of the FIFA World Cup 26. The partnership centers on bringing people together while celebrating the routines that fuel fans and…",
-      "url": "https://www.nosh.com/news/2026/marketing-quaker-scores-with-fifa-world-cup-26-luna-bar-taps-jessica-alba",
-      "published_at": "2026-05-13T18:55:01+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
       "level": "A",
       "language": "en"
     }
