@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-20T20:41:43.185068+08:00",
+  "last_updated": "2026-05-21T02:05:43.132248+08:00",
   "retention_days": 7,
-  "total": 436,
+  "total": 477,
   "sources": [
     "BevNET",
     "Fab News",
@@ -20,6 +20,258 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "e1a89109dba33bd6",
+      "title": "Ya Ya Foods Owner Wins Grant to Open Michigan Plant Milk Facility",
+      "summary": "Fenton Food and Beverage, a company formed by Yahya Abbas, the founder of Toronto-based Ya Ya Foods Corp., has secured a grant to begin building a roughly 100,000 sq. ft. plant-based milk factory in…",
+      "url": "https://www.nosh.com/news/2026/ya-ya-foods-owner-wins-grant-to-open-michigan-plant-milk-facility",
+      "published_at": "2026-05-21T01:03:06+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "49cfb0ca6e8e2bfa",
+      "title": "Martin Starr, The Potash Twins Expand Sweet Stash Candy Brand with Two New SKUS",
+      "summary": "Sweet Stash - a new gummy candy brand founded by actor Martin Starr and influencers Ezra and Adeev Potash (a.k.a. “The Potash Twins”) - is expanding its lineup with two new products: Sour Jams and…",
+      "url": "https://www.nosh.com/news/2026/martin-starr-the-potash-twins-expand-sweet-stash-candy-brand-with-two-new-skus",
+      "published_at": "2026-05-21T00:55:40+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "557c0fb11dfead7b",
+      "title": "Messi, No Más: World Cup Winner’s Hydration Brand Phased Out After Objectives Missed",
+      "summary": "After making a splashy debut in 2024, Más+ By Messi, the hydration drink brand co-launched by global soccer superstar Lionel Messi and Mark Anthony Brands, is officially out of the game.",
+      "url": "https://www.bevnet.com/news/2026/messi-no-mas-world-cup-winners-hydration-brand-phased-out-after-objectives-missed",
+      "published_at": "2026-05-21T00:32:30+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "dfebd5bc76669602",
+      "title": "Perfect Purée Acquires Strongwater, Expands Premium Bar Ingredients Portfolio",
+      "summary": "The Perfect Purée of Napa Valley, a leading producer of premium fruit products for culinary and beverage professionals, is expanding into the elevated bar ingredients category with its acquisition of…",
+      "url": "https://www.bevnet.com/spirits/2026/perfect-puree-acquires-strongwater-expands-premium-bar-ingredients-portfolio",
+      "published_at": "2026-05-21T00:11:57+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "206c96deeb81a985",
+      "title": "BevNET Live NYC on June 10 + 11: Meet the New Beverage Showdown Semifinalists",
+      "summary": "It’s time to reveal the semifinalists for BevNET’s signature pitch competition, the New Beverage Showdown, taking place at BevNET Live NYC on June 10 + 11.",
+      "url": "https://www.bevnet.com/news/events/bevnetlivesummer26/bevnet-live-nyc-on-june-10-11-meet-the-new-beverage-showdown-semifinalists",
+      "published_at": "2026-05-20T23:48:16+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "7f976bf47a4b891a",
+      "title": "Di Marco Launches First National Pinsa Day in the U.S.",
+      "summary": "The Italian bakery company celebrates a new annual observance honoring the growing popularity and authentic heritage of the light, crispy Roman-style specialty L'articolo Di Marco Launches First…",
+      "url": "https://news.italianfood.net/2026/05/20/di-marco-launches-first-national-pinsa-day-in-the-u-s/",
+      "published_at": "2026-05-20T23:45:00+08:00",
+      "source": "Italian Food Net",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "961824cdae01237f",
+      "title": "FoodStory Brands, UFC Enter Protein Bar Arena with Main Event",
+      "summary": "FoodStory Brands is stepping into the protein bar ring with one of its most ambitious launches yet: Main Event, a co-owned, co-developed brand created in partnership with UFC.",
+      "url": "https://www.nosh.com/news/2026/foodstory-brands-ufc-enter-protein-bar-arena-with-main-event",
+      "published_at": "2026-05-20T23:40:26+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "f8aee5b7be4f2a7f",
+      "title": "Tailor-made private label strategies for authentic EVO Oil and tomato sauces",
+      "summary": "At PLMA 2026, the group showcases its dual Euro-US bottling footprint and sustainable partnerships designed to bring traceable Italian excellence to global tables L'articolo Tailor-made private label…",
+      "url": "https://news.italianfood.net/2026/05/20/tailor-made-private-label-strategies-for-authentic-evo-oil-and-tomato-sauces/",
+      "published_at": "2026-05-20T23:36:10+08:00",
+      "source": "Italian Food Net",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "3ac9bf82c7a81546",
+      "title": "Seafood innovations and extended shelf life: driving global private label growth",
+      "summary": "At PLMA 2026, the group presents its premium seafood lines under the Medusa brand and private label, eyeing expansion in Central Europe ahead of SIAL Paris L'articolo Seafood innovations and extended…",
+      "url": "https://news.italianfood.net/2026/05/20/seafood-innovations-and-extended-shelf-life-driving-global-private-label-growth/",
+      "published_at": "2026-05-20T23:33:55+08:00",
+      "source": "Italian Food Net",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "fc1f0db1743534e9",
+      "title": "Polenghi celebrates 50 years: bringing iconic Sicilian lemon juice to the world",
+      "summary": "At PLMA 2026, the group marks its half-century anniversary by showcasing the Spinagallo farm supply chain, from the slopes of Mount Etna to global retail shelves L'articolo Polenghi celebrates 50…",
+      "url": "https://news.italianfood.net/2026/05/20/polenghi-celebrates-50-years-bringing-iconic-sicilian-lemon-juice-to-the-world/",
+      "published_at": "2026-05-20T23:31:10+08:00",
+      "source": "Italian Food Net",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "9db31fc46c78fdbd",
+      "title": "Brami’s Velocities Surge 58% As VMG, Legacy Pasta Makers Buy In",
+      "summary": "Brami’s lupini bean pasta is surging with velocities increasing 58% year-over-year, outpacing distribution growth by 30 points, according to Nielsen data for the year-long period ending April 18,…",
+      "url": "https://www.nosh.com/news/2026/bramis-velocities-surge-58-as-vmg-legacy-pasta-makers-buy-in",
+      "published_at": "2026-05-20T23:27:00+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "6b83015bc4575ca8",
+      "title": "Consumer Backlash Looming as Food Prices Rise, Quality Falls",
+      "summary": "Consumers are pushing back as food prices climb and product quality slips, forcing brands to prove their value instead of relying on loyalty. Experts warn that transparency, experience and truly…",
+      "url": "https://foodinstitute.com/focus/consumer-backlash-looming-as-food-prices-rise-quality-falls/?utm_source=rss&utm_medium=rss&utm_campaign=consumer-backlash-looming-as-food-prices-rise-quality-falls",
+      "published_at": "2026-05-20T23:26:53+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5a5b501f75ea1ce6",
+      "title": "Seppic unveils trend-aligned tasting bar & new nootropic launch",
+      "summary": "Explore Seppic’s Social Media Tasting Bar: a collection of innovative formula concepts designed to bridge clinical science with modern digital aesthetics. Plus, discover Sepibright, our new upcycled…",
+      "url": "https://nutraceuticalbusinessreview.com/seppic-unveils-trend-aligned-tasting-bar-new",
+      "published_at": "2026-05-20T23:20:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "f87059742f7f78eb",
+      "title": "PLMA 2026: the unstoppable rise of private label",
+      "summary": "In Amsterdam, PLMA President Peggy Davies highlights the boom of Italian food, space optimization at the show, and the growth of the Chicago event L'articolo PLMA 2026: the unstoppable rise of…",
+      "url": "https://news.italianfood.net/2026/05/20/plma-2026-the-unstoppable-rise-of-private-label/",
+      "published_at": "2026-05-20T23:06:55+08:00",
+      "source": "Italian Food Net",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "3d60452b3507756b",
+      "title": "Steakholder Foods Brings 3D-Printed Plant-Based Meat to U.S. Retail",
+      "summary": "The Israeli startup today announced the launch of Perfecta Premium Plant-Based Meat, a line of products using a proprietary process designed to mimic the complex textures of traditional animal…",
+      "url": "https://www.nosh.com/news/2026/steakholder-foods-brings-3d-printed-plant-based-meat-to-u-s-retail",
+      "published_at": "2026-05-20T22:56:27+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "7c3ce4c877b6d4cc",
+      "title": "Ferrero to revive Wonka candy brand with Netflix",
+      "summary": "The candy giant is collaborating with the streaming platform on 10 seasonal and limited-edition products this fall, spanning categories including chocolate, cereal and ice cream.",
+      "url": "https://www.fooddive.com/news/ferrero-netflix-wonka-candy-collaboration/820721/",
+      "published_at": "2026-05-20T22:47:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "c552842de78bf46b",
+      "title": "Independent grocers make up nearly 40% of US food retail sales, report says",
+      "summary": "An NGA analysis found that every $1 in indie grocery sales generates an additional 58 cents in supply chain and household spending nationwide.",
+      "url": "https://www.fooddive.com/news/nga-national-grocers-association-economic-impact-analysis-independent-grocers/820247/",
+      "published_at": "2026-05-20T22:14:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "379caa3d312235d8",
+      "title": "The Natural List: The dairy industry is booming, what's next?",
+      "summary": "Co-hosts Meredith Kaufman and Adrienne Smith sit down with Clover Sonoma CEO John Coletta to discuss dairy's massive growth and innovation. Listen now.",
+      "url": "https://www.newhope.com/food-and-beverage/the-natural-list-dairy-industry-booming-what-future-holds",
+      "published_at": "2026-05-20T22:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "eb8d109ea348d8dc",
+      "title": "Distribution: Juni Adds Kroger Banners, BRĒZ Takes On Mass",
+      "summary": "In beverage distribution news, sparkling adaptogenic tea brand Juni is now available at Kroger banner stores, as Magic Mind takes to the skies with Fiji Airways.",
+      "url": "https://www.bevnet.com/news/2026/distribution-juni-adds-kroger-banners-brez-takes-on-mass",
+      "published_at": "2026-05-20T21:50:22+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "149e55d058506541",
+      "title": "Once Upon a Farm soars as parents seek healthier kids’ foods despite inflation",
+      "summary": "John Foraker, the company’s CEO and co-founder, said consumer demand for better-for-you offerings remains robust even as rising prices prompt shoppers to cut back on spending in other areas.",
+      "url": "https://www.fooddive.com/news/once-upon-a-farm-soars-as-parents-seek-healthier-kids-foods-despite-inflat/819748/",
+      "published_at": "2026-05-20T21:30:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "cc7395fd6e6a34a8",
+      "title": "Acquisitive pet-food group Nutriment swoops again in Germany",
+      "summary": "The Nutriment Company is to acquire German pet-food businesses Frostfutter Perleberg and eBarf from K&K Petfood. The post Acquisitive pet-food group Nutriment swoops again in Germany appeared first…",
+      "url": "https://www.just-food.com/news/acquisitive-pet-food-group-nutriment-swoops-again-in-germany/",
+      "published_at": "2026-05-20T20:40:37+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "e270d67817326181",
       "title": "Is ‘GLP-1 Friendly’ the New ‘Natural’? The Latest F&B Buzzword Is Here",
@@ -54,6 +306,18 @@
       "region": "北美",
       "category": "综合",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "13650d2e46b1a06c",
+      "title": "INSTYTUTUM launches liposomal NMN supplement and at-home biological age test for longevity market",
+      "summary": "The company has introduced a liposomal NMN and trans-resveratrol supplement claiming 60% greater absorption and an 84% increase in blood NAD⁺ after four weeks, alongside an at-home epigenetic saliva…",
+      "url": "https://nutraceuticalbusinessreview.com/instytutum-launches-liposomal-nmn-supplement-age-test-longevity",
+      "published_at": "2026-05-20T19:53:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
@@ -105,6 +369,18 @@
       "language": "ja"
     },
     {
+      "id": "296682629f915a5e",
+      "title": "Jenerise debuts new creatine monohydrate Cr.01",
+      "summary": "With each batch of Cr.01 independently verified by SGS, Jenerise said it wants to build the \"GORE-TEX of creatine,\" aiming to establish its name as a trusted quality mark in the nutraceutical sector",
+      "url": "https://nutraceuticalbusinessreview.com/jenerise-debuts-new-creatine-monohydrate-cr-01",
+      "published_at": "2026-05-20T18:15:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
       "id": "ffc36d3c03cec2bb",
       "title": "Jenerise launches new creatine monohydrate Cr.01",
       "summary": "With each batch of Cr.01 independently verified by SGS, Jenerise said it wants to build the \"GORE-TEX of creatine,\" aiming to establish its name as a trusted quality mark in the nutraceutical sector",
@@ -129,11 +405,35 @@
       "language": "en"
     },
     {
+      "id": "a2c1c45cc59c4b99",
+      "title": "スポーツドリンクのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「スポーツドリンク」の最新・注目度ランキングです♪（2026年5月15日更新）食品クチコミサイト「もぐナビ」に投稿された…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-21001/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "d4a209d4a5cbef7f",
       "title": "スポーツドリンクのトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「スポーツドリンク」の最新・注目度ランキングです♪（2026年5月15日更新）食品クチコミサイト「もぐナビ」に投稿された…",
       "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-21001/?utm_source=rss&utm_medium=mognavinews_20260520",
       "published_at": "2026-05-20T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b81aad0b3d0d399a",
+      "title": "今週新発売の北海道まとめ！『山形県産つや姫おむすび　北海道産生たらこ』、『北海道じゃがチーズてりやき』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！北海道の新商品情報をお届けします。今週新発売の#北海道セブン-イレブン 山形県産つや姫おむすび 北海道産生たらこ凍る直前の氷温…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052008/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -249,6 +549,18 @@
       "language": "ja"
     },
     {
+      "id": "d477d62e3159c370",
+      "title": "今週新発売のボリュームのある食べものまとめ！『厚切りハムカツサンド』、『チキンタルタル巻』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ボリュームの新商品情報をお届けします。今週新発売の#ボリュームファミリーマート 厚切りハムカツサンドボリューム満点の厚切りハム…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052007/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "88d964fbc67a9153",
       "title": "今週新発売のボリュームのある食べものまとめ！『厚切りハムカツサンド』、『チキンタルタル巻』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ボリュームの新商品情報をお届けします。今週新発売の#ボリュームファミリーマート 厚切りハムカツサンドボリューム満点の厚切りハム…",
@@ -333,6 +645,18 @@
       "language": "en"
     },
     {
+      "id": "ea4586ea6f844383",
+      "title": "今週新発売のトマトまとめ！『トマトとレタスのイタリアンサラダ』、『スパイシーチリトマト　ポテト＆ソーセージ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！トマトの新商品情報をお届けします。今週新発売の#トマトセブン-イレブン トマトとレタスのイタリアンサラダ旬のトマトをたっぷりと…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052006/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "77ccc945b9e8abba",
       "title": "今週新発売のトマトまとめ！『トマトとレタスのイタリアンサラダ』、『スパイシーチリトマト　ポテト＆ソーセージ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！トマトの新商品情報をお届けします。今週新発売の#トマトセブン-イレブン トマトとレタスのイタリアンサラダ旬のトマトをたっぷりと…",
@@ -375,6 +699,30 @@
       "url": "https://shokuhin.net/145054/2026/05/20/kakou/kandume/",
       "published_at": "2026-05-20T13:04:45+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c59970def185570d",
+      "title": "今週新発売のトマト料理まとめ！『１／２日分の野菜　トマトソースグラタン』、『トマトとレタスのイタリアンサラダ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！トマト料理の新商品情報をお届けします。今週新発売の#トマト料理セブン-イレブン 1／2日分の野菜 トマトソースグラタン複数の野…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052005/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "67401659e1c6efaf",
+      "title": "【2026年5月下旬】チョコミントの新商品！ポッピングシャワー風味やザクザクチョコミントアイスなど話題作まとめ",
+      "summary": "チョコミントの季節がやってきました！今年も爽やかな風味が楽しめる新商品が一斉に登場し、コンビニやスーパーの棚を彩っています。定番から新顔まで、2026年5月の…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-20968/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T12:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -465,6 +813,18 @@
       "language": "ja"
     },
     {
+      "id": "a61d0635b3c214ee",
+      "title": "【2026年5月下旬】抹茶味の新商品！JINROマッコリ・さいさい緑茶割・ミニストップクレープなどまとめ",
+      "summary": "今週は抹茶好きにはたまらない新商品が勢ぞろい！コンビニスイーツからマッコリまで、バラエティ豊かな抹茶フレーバーの新顔が続々と登場します。爽やかな初夏の季節にぴ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-20940/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T12:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "4d14e8bb5a9aeea7",
       "title": "【2026年5月下旬】抹茶味の新商品！JINROマッコリ・さいさい緑茶割・ミニストップクレープなどまとめ",
       "summary": "今週は抹茶好きにはたまらない新商品が勢ぞろい！コンビニスイーツからマッコリまで、バラエティ豊かな抹茶フレーバーの新顔が続々と登場します。爽やかな初夏の季節にぴ…",
@@ -549,6 +909,18 @@
       "language": "ja"
     },
     {
+      "id": "3ba74faff9ef6088",
+      "title": "【2026年5月下旬】アイス・コンビニアイスの新商品！チョコミント続々登場まとめ",
+      "summary": "5月後半の新商品ラインナップが出揃いました！今週はチョコミントが大豊作で、コンビニ限定品からプレミアムブランドまでバラエティ豊かな顔ぶれです。ミントの爽快感が…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-20939/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T11:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "7d267b8afd9a8ff1",
       "title": "【2026年5月下旬】アイス・コンビニアイスの新商品！チョコミント続々登場まとめ",
       "summary": "5月後半の新商品ラインナップが出揃いました！今週はチョコミントが大豊作で、コンビニ限定品からプレミアムブランドまでバラエティ豊かな顔ぶれです。ミントの爽快感が…",
@@ -561,11 +933,35 @@
       "language": "ja"
     },
     {
+      "id": "f95ac30450d5ffa2",
+      "title": "今週新発売のセブンイレブンパンまとめ！『ポン・デ・セサミチーズ』、『ガツンとガリチキサンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ポン・デ・セサミチーズ 5本入…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052004/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "af0383507054892d",
       "title": "今週新発売のセブンイレブンパンまとめ！『ポン・デ・セサミチーズ』、『ガツンとガリチキサンド』など♪",
       "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ポン・デ・セサミチーズ 5本入…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052004/?utm_source=rss&utm_medium=mognavinews_20260520",
       "published_at": "2026-05-20T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "120ef660c22d1a3b",
+      "title": "【2026年5月下旬】飴・キャラメルの新商品！ピュレグミプレミアム沖縄産パイナップル・塩ライチなど夏フレーバーまとめ",
+      "summary": "5月後半の新商品情報をお届けします！今週はピュレグミの新フレーバーやロングセラーブランドの新作グミ・キャンディなど、思わず手に取りたくなるラインナップが揃いま…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-20938/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T11:15:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -618,6 +1014,30 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "5eecad2b33bfef2e",
+      "title": "【2026年5月下旬】ポテトチップス・スナックの新商品！堅あげ塩わさびやプリングルズ3倍濃厚など個性派ぞろいまとめ",
+      "summary": "2026年5月中旬〜下旬は、ポテトチップス・スナックの新商品が一気に出揃う注目の週です。定番ブランドの新フレーバーから、コラボ商品、コンビニ限定アイテムまで、…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-20937/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7f35e11844b4ddb7",
+      "title": "今週新発売のコンビニホットスナックまとめ！『揚げたこ焼き３個入り』、『じゅわっと香り立つ！若鶏のからあげ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。来週新発売のコンビニホットスナックセブン-イレブン 揚げたこ焼き3個入りとろ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052003/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -681,11 +1101,35 @@
       "language": "ja"
     },
     {
+      "id": "0651324ddb1fc107",
+      "title": "【2026年5月下旬】チョコレートの新商品！ポッピングシャワー風味やミントチョコなど話題作まとめ",
+      "summary": "5月後半のチョコレート売り場が、バラエティ豊かな新商品でにぎやかになってきました。定番ブランドの新フレーバーから、コラボ・限定アイテムまで全7品が続々登場。チ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-20936/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T10:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "ecba07ffbcad5d7e",
       "title": "【2026年5月下旬】チョコレートの新商品！ポッピングシャワー風味やミントチョコなど話題作まとめ",
       "summary": "5月後半のチョコレート売り場が、バラエティ豊かな新商品でにぎやかになってきました。定番ブランドの新フレーバーから、コラボ・限定アイテムまで全7品が続々登場。チ…",
       "url": "https://mognavi.jp/news/matome/gen-newProduct-20936/?utm_source=rss&utm_medium=mognavinews_20260520",
       "published_at": "2026-05-20T10:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9e4f2ea3522bfcf1",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『唐揚げ弁当』、『ごろっと煮物の幕の内弁当』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ミニストップ 唐揚げ弁当薄衣の唐揚…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052002/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T09:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -765,6 +1209,18 @@
       "language": "ja"
     },
     {
+      "id": "e8893fd75ffddd68",
+      "title": "【2026年5月第3週】ヨーグルトランキング1位は小岩井 生乳100％！新商品・久しぶりランクインも続々まとめ",
+      "summary": "2026年5月第3週のヨーグルトランキングが発表されました！今週は久しぶりの顔ぶれから新登場の注目商品まで、バリエーション豊かなラインナップが揃っています。ヨ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-20794/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "2aaee5f57621f57f",
       "title": "【2026年5月第3週】ヨーグルトランキング1位は小岩井 生乳100％！新商品・久しぶりランクインも続々まとめ",
       "summary": "2026年5月第3週のヨーグルトランキングが発表されました！今週は久しぶりの顔ぶれから新登場の注目商品まで、バリエーション豊かなラインナップが揃っています。ヨ…",
@@ -811,6 +1267,18 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "234dd6d2a912dece",
+      "title": "今週新発売のしっとりまとめ！『ＢＯＳＳ生コッペパン　ダブルカフェラテ』、『旨甘たれのしっとり鶏皮揚げ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！しっとりの新商品情報をお届けします。今週新発売の#しっとりファミリーマート ファミマルBakery BOSS生コッペパン ダブ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052001/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-20T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "4aead3f70244ea6a",
@@ -1185,6 +1653,18 @@
       "language": "en"
     },
     {
+      "id": "64b90d4aa4fb0c01",
+      "title": "スタバが気になる♪スコーンのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「スコーン」の最新・注目度ランキングです♪（2026年5月15日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-20902/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-19T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "d4e92125414e9abe",
       "title": "スタバが気になる♪スコーンのトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「スコーン」の最新・注目度ランキングです♪（2026年5月15日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
@@ -1231,6 +1711,18 @@
       "category": "综合",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "b036d688819b6c1c",
+      "title": "今週新発売の海老まとめ！『タルタル海老カツサンド』、『スーパー大麦　枝豆小えび』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！海老の新商品情報をお届けします。今週新発売の#海老セブン-イレブン タルタル海老カツサンド海老の剥き身を使用した食感の感じられ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026051908/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-19T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "d9ae198d332c82e6",
@@ -1341,6 +1833,18 @@
       "language": "ja"
     },
     {
+      "id": "440cbe663e3d7c55",
+      "title": "今週新発売の明太子味まとめ！『博多明太バターてりやき』、『明太チーズトースト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！明太子味の新商品情報をお届けします。今週新発売の#明太子味マクドナルド 博多明太バターてりやき「てりやきマックバーガー」に博多…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026051907/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-19T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "69b471b40610c25f",
       "title": "今週新発売の明太子味まとめ！『博多明太バターてりやき』、『明太チーズトースト』など♪",
       "summary": "こんにちは、もぐナビ編集部です！明太子味の新商品情報をお届けします。今週新発売の#明太子味マクドナルド 博多明太バターてりやき「てりやきマックバーガー」に博多…",
@@ -1395,6 +1899,18 @@
       "url": "https://shokuhin.net/145010/2026/05/19/nocategory/",
       "published_at": "2026-05-19T13:41:43+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "facea1c3fc60f996",
+      "title": "今週新発売のファミマ麺🍜まとめ！『お手軽！三陸産わかめの冷しうどん』、『十和田バラ焼きうどん』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマ麺の新商品情報をお届けします。今週新発売の#ファミマ麺ファミリーマート お手軽！三陸産わかめの冷しうどん手に取りやすい…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026051906/?utm_source=rss&utm_medium=mognavinews_20260521",
+      "published_at": "2026-05-19T13:30:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -5225,30 +5741,6 @@
       "source": "Food Safety News",
       "region": "北美",
       "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "331a673945939fab",
-      "title": "Box Store Battle at Bev Forum: Target, Walmart Sales Strategies",
-      "summary": "What should beverage brands think about when pitching the Minnesota-based macro-store, or the bosses in Bentonville?",
-      "url": "https://www.bevnet.com/news/2026/box-store-battle-at-bev-forum-target-walmart-sales-strategies",
-      "published_at": "2026-05-13T22:51:53+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "45afe48227a0bbf5",
-      "title": "Marketing: Hint Makes Water Something to ‘Crave’",
-      "summary": "Flavored water brand Hint is looking to turn hydration from a chore into something people can’t wait to do with its latest marketing campaign, MMMMM Water, a series of ads built around the slogan…",
-      "url": "https://www.bevnet.com/news/2026/marketing-hint-makes-water-something-to-crave",
-      "published_at": "2026-05-13T22:35:42+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
       "level": "A",
       "language": "en"
     }
