@@ -1,7 +1,103 @@
 {
-  "last_updated": "2026-05-21T22:24:10.399351+08:00",
-  "total": 1259,
+  "last_updated": "2026-05-22T01:35:40.294690+08:00",
+  "total": 1287,
   "articles": [
+    {
+      "id": "76d6ad439a433000",
+      "title": "Tractor Beverage Co. puts award-winning RTD Haymakers on retail shelves",
+      "summary": "Find out how Tractor Beverage Co.'s innovative Haymaker beverages blend organic traditions, bold flavors and unique packaging.",
+      "url": "https://www.newhope.com/food-and-beverage/tractor-beverage-co-expands-from-restaurant-to-retail-with-rtd-haymakers",
+      "published_at": "2026-05-22T02:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5302e025274f0a30",
+      "title": "Review: Little Sun Calimocho Shines Bright",
+      "summary": "Is this year going to be the summer of calimocho? This week, we taste a pair of new RTD versions from Little Sun.",
+      "url": "https://www.bevnet.com/news/2026/review-little-sun-calimocho-shines-bright",
+      "published_at": "2026-05-22T00:00:49+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "a331c19bf125ed81",
+      "title": "How retailers and brands can thrive as shopping moves everywhere",
+      "summary": "As grocery shopping fragments across dozens of channels, see how retailers and brands can align digital and physical strategies to keep the attention of shoppers.",
+      "url": "https://www.newhope.com/retailers/how-retailers-and-brands-can-win-in-the-age-of-anywhere-commerce",
+      "published_at": "2026-05-22T00:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "91d58342effdd7ad",
+      "title": "NIQ: No/Low Alcohol Hits $6 Billion Globally, But Soda and Water Are Winning",
+      "summary": "No/low alcohol reached $6 billion in worldwide off-premise sales, growing +11.8% versus a year ago and adding $737 million in incremental sales, according to a new moderation report from NIQ.",
+      "url": "https://www.bevnet.com/spirits/2026/niq-no-low-alcohol-hits-6-billion-globally-but-soda-and-water-are-winning",
+      "published_at": "2026-05-21T23:24:08+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "bb81825287b43f35",
+      "title": "Kraft Heinz launches Jell-O line without artificial dyes",
+      "summary": "The food giant is rejiggling the brand known for its bright colors as part of a broader innovation plan to return the company to growth.",
+      "url": "https://www.fooddive.com/news/kraft-heinz-jello-natural-colors-artificial-dyes/820864/",
+      "published_at": "2026-05-21T23:03:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "e5e073f144c76cbe",
+      "title": "The Uncanny Valley of Voice AI at the Drive-Thru",
+      "summary": "Though voice AI systems improve drive-thru speed and accuracy, many diners still find the experience unsettling. A concept called the ‘uncanny valley’ could offer insight into why diners say they’d…",
+      "url": "https://foodinstitute.com/focus/the-uncanny-valley-of-voice-ai-at-the-drive-thru/?utm_source=rss&utm_medium=rss&utm_campaign=the-uncanny-valley-of-voice-ai-at-the-drive-thru",
+      "published_at": "2026-05-21T23:00:16+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "affede86ecf6b6df",
+      "title": "4 ways Bazooka rethought its supplier strategy in face of tariffs",
+      "summary": "The candy maker scrapped its volume-for-price playbook and adopted a collaborative approach to sharing the pain.",
+      "url": "https://www.fooddive.com/news/4-ways-bazooka-rethought-its-supplier-strategy-in-face-of-tariffs/820357/",
+      "published_at": "2026-05-21T22:37:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "541f1b082781d872",
+      "title": "Target’s Food-Forward Focus Brings Top Line Momentum",
+      "summary": "Target’s grocery assortment overhaul is already showing promise as the retailer posted its stronger quarter in over a year while exceeding analyst expectations.",
+      "url": "https://www.nosh.com/news/2026/targets-food-forward-focus-brings-top-line-momentum",
+      "published_at": "2026-05-21T22:32:38+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "2afaecfc08dbe5d7",
       "title": "Inside Bel’s Plans To Create A Healthy Snacking Powerhouse In The U.S.",
@@ -183,6 +279,18 @@
       "language": "en"
     },
     {
+      "id": "9784b5ee7d6aaf48",
+      "title": "時短派も美味しく！シリアルのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「シリアル」の最新・注目度ランキングです♪（2026年5月15日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21034/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-21T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "bd420d79b3554b58",
       "title": "PLMA 2026: Private Labels Drive Innovation and Consumer Trends Worldwide",
       "summary": "Healthy products and circular economy solutions were the protagonists of the trade show held in Amsterdam L'articolo PLMA 2026: Private Labels Drive Innovation and Consumer Trends Worldwide proviene…",
@@ -231,6 +339,18 @@
       "language": "en"
     },
     {
+      "id": "d70cb819ba9d135a",
+      "title": "今週新発売のジューシーな食べものまとめ！『名古屋名物　手羽先風黒胡椒ジューシーチキン』、『ストロベリークラッシュミルク』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ジューシーの新商品情報をお届けします。今週新発売の#ジューシーマクドナルド 名古屋名物 手羽先風黒胡椒ジューシーチキン黒胡椒で…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052108/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-21T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "74ad1a7f18787328",
       "title": "今週新発売のジューシーな食べものまとめ！『名古屋名物　手羽先風黒胡椒ジューシーチキン』、『ストロベリークラッシュミルク』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ジューシーの新商品情報をお届けします。今週新発売の#ジューシーマクドナルド 名古屋名物 手羽先風黒胡椒ジューシーチキン黒胡椒で…",
@@ -264,6 +384,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "77ba9ea846433a75",
+      "title": "ローソンx森半まだまだ続く！　幸せ引き立つ抹茶の風味、ほろ苦さ！：今週のコンビニスイーツランキング",
+      "summary": "週間コンビニスイーツランキングTOP3：2026年5月第3週今週もやってまいりました。2026年5月第3週、コンビニスイーツランキングのコーナーです。それでは…",
+      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182321/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-21T17:00:55+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -375,6 +507,18 @@
       "language": "en"
     },
     {
+      "id": "3bb73460aed75b6f",
+      "title": "今週新発売のコンビニラーメンまとめ！『大盛ざるらーめん』、『コク旨豚骨焼ラーメン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニラーメンの新商品情報をお届けします。今週新発売の#コンビニラーメンファミリーマート 大盛ざるらーめんつるみと弾力のある…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052107/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-21T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "f436c4abd374d659",
       "title": "今週新発売のコンビニラーメンまとめ！『大盛ざるらーめん』、『コク旨豚骨焼ラーメン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！コンビニラーメンの新商品情報をお届けします。今週新発売の#コンビニラーメンファミリーマート 大盛ざるらーめんつるみと弾力のある…",
@@ -411,6 +555,18 @@
       "language": "en"
     },
     {
+      "id": "cc66cea311ddbea8",
+      "title": "今週新発売のおつまみまとめ！『おつまみビーノ　ガーリックバター味』、『カリッと香ばし　アーモンドフィッシュ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！おつまみの新商品情報をお届けします。今週新発売の#おつまみ東ハト おつまみビーノ ガーリックバター味硬めに仕上げたえんどう豆ス…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052106/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-21T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "7a6babf32059a309",
       "title": "今週新発売のおつまみまとめ！『おつまみビーノ　ガーリックバター味』、『カリッと香ばし　アーモンドフィッシュ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！おつまみの新商品情報をお届けします。今週新発売の#おつまみ東ハト おつまみビーノ ガーリックバター味硬めに仕上げたえんどう豆ス…",
@@ -432,6 +588,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "41b2597569589320",
+      "title": "今週新発売のうどんまとめ！『愛知県産大葉使用　冷し梅おろしうどん』、『国産野菜の冷しサラダうどん』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！うどんの新商品情報をお届けします。今週新発売の#うどんセブン-イレブン 愛知県産大葉使用 冷し梅おろしうどん愛知県産の大葉を使…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052105/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-21T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -519,11 +687,35 @@
       "language": "en"
     },
     {
+      "id": "3987939be3ddacfb",
+      "title": "今週新発売の塩◯◯まとめ！『ＧＩＮＺＡ　ＲＵＳＫ　至福の塩キャラメル』、『焼きあごだし仕立て塩ラーメンサラダ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。来週新発売の#塩◯◯ギンビス GINZA RUSK 至福の塩キャラメル 袋32gキャラメルパ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052104/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-21T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "6d2a970a5bd4f257",
       "title": "今週新発売の塩◯◯まとめ！『ＧＩＮＺＡ　ＲＵＳＫ　至福の塩キャラメル』、『焼きあごだし仕立て塩ラーメンサラダ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。来週新発売の#塩◯◯ギンビス GINZA RUSK 至福の塩キャラメル 袋32gキャラメルパ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052104/?utm_source=rss&utm_medium=mognavinews_20260521",
       "published_at": "2026-05-21T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "bc58f35c572feaf4",
+      "title": "今週新発売の醤油味まとめ！『手巻海老醤油海苔海老マヨおにぎり』、『いくら本膳　醤油仕込みおにぎり』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！醤油味の新商品情報をお届けします。今週新発売の#醤油味ニューデイズ ニュータス 手巻海老醤油海苔海老マヨおにぎり＜みちのく寒流…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052103/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-21T10:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -553,6 +745,18 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "37d82c025b3f95d9",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『洋風パック弁当　カレーチキン＆チーズソース』、『半熟煮玉子めしと油淋鶏』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン 洋風パック弁当 …",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052102/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-21T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "4bc9e4a3327caf7f",
@@ -637,6 +841,18 @@
       "category": "饮料",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "33edbab5146a9d6e",
+      "title": "今週新発売のコンビニホットスナックまとめ！『サクッとチキン　コンポタ味』、『ほくじゃが牛肉コロッケ　塩胡椒』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。今週新発売のコンビニホットスナックセブン-イレブン サクッとチキン コンポタ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052101/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-21T06:01:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "44e5635768e55ada",
@@ -1107,6 +1323,18 @@
       "language": "en"
     },
     {
+      "id": "28eed1d9df9d97a6",
+      "title": "スポーツドリンクのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「スポーツドリンク」の最新・注目度ランキングです♪（2026年5月15日更新）食品クチコミサイト「もぐナビ」に投稿された…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-21001/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-20T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "a2c1c45cc59c4b99",
       "title": "スポーツドリンクのトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「スポーツドリンク」の最新・注目度ランキングです♪（2026年5月15日更新）食品クチコミサイト「もぐナビ」に投稿された…",
@@ -1124,6 +1352,18 @@
       "summary": "もぐナビ編集部です！今回ご紹介するのは「スポーツドリンク」の最新・注目度ランキングです♪（2026年5月15日更新）食品クチコミサイト「もぐナビ」に投稿された…",
       "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-21001/?utm_source=rss&utm_medium=mognavinews_20260520",
       "published_at": "2026-05-20T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6dd2bd7c59883762",
+      "title": "今週新発売の北海道まとめ！『山形県産つや姫おむすび　北海道産生たらこ』、『北海道じゃがチーズてりやき』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！北海道の新商品情報をお届けします。今週新発売の#北海道セブン-イレブン 山形県産つや姫おむすび 北海道産生たらこ凍る直前の氷温…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052008/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-20T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -1251,6 +1491,18 @@
       "language": "ja"
     },
     {
+      "id": "a7c59e328c9861b6",
+      "title": "今週新発売のボリュームのある食べものまとめ！『厚切りハムカツサンド』、『チキンタルタル巻』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ボリュームの新商品情報をお届けします。今週新発売の#ボリュームファミリーマート 厚切りハムカツサンドボリューム満点の厚切りハム…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052007/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-20T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "d477d62e3159c370",
       "title": "今週新発売のボリュームのある食べものまとめ！『厚切りハムカツサンド』、『チキンタルタル巻』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ボリュームの新商品情報をお届けします。今週新発売の#ボリュームファミリーマート 厚切りハムカツサンドボリューム満点の厚切りハム…",
@@ -1347,6 +1599,18 @@
       "language": "en"
     },
     {
+      "id": "35743716d7194d1c",
+      "title": "今週新発売のトマトまとめ！『トマトとレタスのイタリアンサラダ』、『スパイシーチリトマト　ポテト＆ソーセージ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！トマトの新商品情報をお届けします。今週新発売の#トマトセブン-イレブン トマトとレタスのイタリアンサラダ旬のトマトをたっぷりと…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052006/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-20T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "ea4586ea6f844383",
       "title": "今週新発売のトマトまとめ！『トマトとレタスのイタリアンサラダ』、『スパイシーチリトマト　ポテト＆ソーセージ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！トマトの新商品情報をお届けします。今週新発売の#トマトセブン-イレブン トマトとレタスのイタリアンサラダ旬のトマトをたっぷりと…",
@@ -1401,6 +1665,30 @@
       "url": "https://shokuhin.net/145054/2026/05/20/kakou/kandume/",
       "published_at": "2026-05-20T13:04:45+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6a3aca5d78b957f9",
+      "title": "今週新発売のトマト料理まとめ！『１／２日分の野菜　トマトソースグラタン』、『トマトとレタスのイタリアンサラダ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！トマト料理の新商品情報をお届けします。今週新発売の#トマト料理セブン-イレブン 1／2日分の野菜 トマトソースグラタン複数の野…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052005/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-20T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "edaa8f11642f0333",
+      "title": "【2026年5月下旬】チョコミントの新商品！ポッピングシャワー風味やザクザクチョコミントアイスなど話題作まとめ",
+      "summary": "チョコミントの季節がやってきました！今年も爽やかな風味が楽しめる新商品が一斉に登場し、コンビニやスーパーの棚を彩っています。定番から新顔まで、2026年5月の…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-20968/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-20T12:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -1515,6 +1803,18 @@
       "language": "ja"
     },
     {
+      "id": "577c9c8feb162881",
+      "title": "【2026年5月下旬】抹茶味の新商品！JINROマッコリ・さいさい緑茶割・ミニストップクレープなどまとめ",
+      "summary": "今週は抹茶好きにはたまらない新商品が勢ぞろい！コンビニスイーツからマッコリまで、バラエティ豊かな抹茶フレーバーの新顔が続々と登場します。爽やかな初夏の季節にぴ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-20940/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-20T12:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "a61d0635b3c214ee",
       "title": "【2026年5月下旬】抹茶味の新商品！JINROマッコリ・さいさい緑茶割・ミニストップクレープなどまとめ",
       "summary": "今週は抹茶好きにはたまらない新商品が勢ぞろい！コンビニスイーツからマッコリまで、バラエティ豊かな抹茶フレーバーの新顔が続々と登場します。爽やかな初夏の季節にぴ…",
@@ -1611,6 +1911,18 @@
       "language": "ja"
     },
     {
+      "id": "5021edbdf904125e",
+      "title": "【2026年5月下旬】アイス・コンビニアイスの新商品！チョコミント続々登場まとめ",
+      "summary": "5月後半の新商品ラインナップが出揃いました！今週はチョコミントが大豊作で、コンビニ限定品からプレミアムブランドまでバラエティ豊かな顔ぶれです。ミントの爽快感が…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-20939/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-20T11:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "3ba74faff9ef6088",
       "title": "【2026年5月下旬】アイス・コンビニアイスの新商品！チョコミント続々登場まとめ",
       "summary": "5月後半の新商品ラインナップが出揃いました！今週はチョコミントが大豊作で、コンビニ限定品からプレミアムブランドまでバラエティ豊かな顔ぶれです。ミントの爽快感が…",
@@ -1635,6 +1947,18 @@
       "language": "ja"
     },
     {
+      "id": "3a59f3c547fd944b",
+      "title": "今週新発売のセブンイレブンパンまとめ！『ポン・デ・セサミチーズ』、『ガツンとガリチキサンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ポン・デ・セサミチーズ 5本入…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052004/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-20T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "f95ac30450d5ffa2",
       "title": "今週新発売のセブンイレブンパンまとめ！『ポン・デ・セサミチーズ』、『ガツンとガリチキサンド』など♪",
       "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ポン・デ・セサミチーズ 5本入…",
@@ -1652,6 +1976,18 @@
       "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ポン・デ・セサミチーズ 5本入…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052004/?utm_source=rss&utm_medium=mognavinews_20260520",
       "published_at": "2026-05-20T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7e114e4d8fd9299d",
+      "title": "【2026年5月下旬】飴・キャラメルの新商品！ピュレグミプレミアム沖縄産パイナップル・塩ライチなど夏フレーバーまとめ",
+      "summary": "5月後半の新商品情報をお届けします！今週はピュレグミの新フレーバーやロングセラーブランドの新作グミ・キャンディなど、思わず手に取りたくなるラインナップが揃いま…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-20938/?utm_source=rss&utm_medium=mognavinews_20260522",
+      "published_at": "2026-05-20T11:15:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
