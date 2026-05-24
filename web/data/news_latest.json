@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-24T17:09:54.635985+08:00",
+  "last_updated": "2026-05-24T18:21:17.269363+08:00",
   "retention_days": 7,
-  "total": 571,
+  "total": 569,
   "sources": [
     "BevNET",
     "Fab News",
@@ -20,6 +20,30 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "c4fd85643039626d",
+      "title": "ローソンのお弁当のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンのお弁当」の最新・注目度ランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿された…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21100/?utm_source=rss&utm_medium=mognavinews_20260524",
+      "published_at": "2026-05-24T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "2a81205f3d042260",
+      "title": "今週新発売の抹茶味まとめ！『×　森半　濃い抹茶クッキーシュー』、『×　森半　濃い抹茶クレープ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！抹茶味の新商品情報をお届けします。今週新発売の#抹茶味ローソン Uchi Cafe’ × 森半 濃い抹茶クッキーシュー森半コラ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052408/?utm_source=rss&utm_medium=mognavinews_20260524",
+      "published_at": "2026-05-24T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "ce976f462a22dada",
       "title": "Wellness Meets Multi-Sensory Flavor at NRA Show",
@@ -6823,54 +6847,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "2676b11def0ac8d7",
-      "title": "惣菜パンのおすすめTOP3！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「惣菜パン」のおすすめランキングです♪（2026年5月15日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基に…",
-      "url": "https://mognavi.jp/news/matome/gen-categoryRanking-20836/?utm_source=rss&utm_medium=mognavinews_20260519",
-      "published_at": "2026-05-17T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "e6327beb6852205a",
-      "title": "惣菜パンのおすすめTOP3！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「惣菜パン」のおすすめランキングです♪（2026年5月15日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基に…",
-      "url": "https://mognavi.jp/news/matome/gen-categoryRanking-20836/?utm_source=rss&utm_medium=mognavinews_20260518",
-      "published_at": "2026-05-17T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "2236a37e35b6cf32",
-      "title": "今週新発売のパスタまとめ！『プリプリ海老のパスタサラダ』、『照り焼きチキンパスタサラダ　たまごサラダ入り』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！パスタの新商品情報をお届けします。今週新発売の#パスタセブン-イレブン プリプリ海老のパスタサラダ海老がメイン具材の野菜と一緒…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026051708/?utm_source=rss&utm_medium=mognavinews_20260519",
-      "published_at": "2026-05-17T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "8b10904cab37ecb6",
-      "title": "今週新発売のパスタまとめ！『プリプリ海老のパスタサラダ』、『照り焼きチキンパスタサラダ　たまごサラダ入り』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！パスタの新商品情報をお届けします。今週新発売の#パスタセブン-イレブン プリプリ海老のパスタサラダ海老がメイン具材の野菜と一緒…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026051708/?utm_source=rss&utm_medium=mognavinews_20260518",
-      "published_at": "2026-05-17T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
