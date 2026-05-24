@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T18:21:17.269363+08:00",
+  "last_updated": "2026-05-24T20:13:29.281228+08:00",
   "retention_days": 7,
   "total": 569,
   "sources": [
@@ -20,6 +20,18 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "8098a8d4cfd5e4a7",
+      "title": "Sunday Edition: Reflecting",
+      "summary": "Today we revisit some of the topics we’ve covered in the past months.",
+      "url": "https://www.foodsafetynews.com/2026/05/sunday-edition-reflecting/",
+      "published_at": "2026-05-24T20:00:53+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "c4fd85643039626d",
       "title": "ローソンのお弁当のトレンド人気ランキング！",
@@ -6835,18 +6847,6 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
-    },
-    {
-      "id": "8131f5886cfec8e1",
-      "title": "The Sunday Edition: Food fraud",
-      "summary": "Food fraud losses range from $10 to $40 billion a year, affecting as much as 10 percent of food.",
-      "url": "https://www.foodsafetynews.com/2026/05/the-sunday-edition-food-fraud/",
-      "published_at": "2026-05-17T20:00:28+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
     }
   ]
 }
