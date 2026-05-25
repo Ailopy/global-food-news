@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-25T20:50:20.049310+08:00",
+  "last_updated": "2026-05-25T22:22:09.086308+08:00",
   "retention_days": 7,
-  "total": 543,
+  "total": 535,
   "sources": [
     "BevNET",
     "Fab News",
@@ -2757,10 +2757,10 @@
       "language": "en"
     },
     {
-      "id": "158229e94e665eed",
-      "title": "Wide gap between organic and conventional creates marketing puzzle",
-      "summary": "Learn how to appeal to potential organic shoppers with stock and pricing tailored by store format, while driving purchases with customer education.",
-      "url": "https://www.newhope.com/food-and-beverage/wide-disparities-between-conventional-and-organic-create-marketing-puzzle",
+      "id": "76d6ad439a433000",
+      "title": "Tractor Beverage Co. puts award-winning RTD Haymakers on retail shelves",
+      "summary": "Find out how Tractor Beverage Co.'s innovative Haymaker beverages blend organic traditions, bold flavors and unique packaging.",
+      "url": "https://www.newhope.com/food-and-beverage/tractor-beverage-co-expands-from-restaurant-to-retail-with-rtd-haymakers",
       "published_at": "2026-05-22T02:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
@@ -2769,10 +2769,10 @@
       "language": "en"
     },
     {
-      "id": "76d6ad439a433000",
-      "title": "Tractor Beverage Co. puts award-winning RTD Haymakers on retail shelves",
-      "summary": "Find out how Tractor Beverage Co.'s innovative Haymaker beverages blend organic traditions, bold flavors and unique packaging.",
-      "url": "https://www.newhope.com/food-and-beverage/tractor-beverage-co-expands-from-restaurant-to-retail-with-rtd-haymakers",
+      "id": "158229e94e665eed",
+      "title": "Wide gap between organic and conventional creates marketing puzzle",
+      "summary": "Learn how to appeal to potential organic shoppers with stock and pricing tailored by store format, while driving purchases with customer education.",
+      "url": "https://www.newhope.com/food-and-beverage/wide-disparities-between-conventional-and-organic-create-marketing-puzzle",
       "published_at": "2026-05-22T02:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
@@ -6438,102 +6438,6 @@
       "region": "欧洲",
       "category": "功能性食品",
       "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "67844ef36f1062f3",
-      "title": "Jimmy Tartufi unveils strategic rebranding, elevating Italian truffles to global premium status",
-      "summary": "At an exclusive gala event in Milan’s fashion district, the Umbrian company celebrated its new identity, corporate expansion, and stellar growth driven by major partnerships L'articolo Jimmy Tartufi…",
-      "url": "https://news.italianfood.net/2026/05/18/jimmy-tartufi-unveils-strategic-rebranding-elevating-italian-truffles-to-global-premium-status/",
-      "published_at": "2026-05-18T22:08:00+08:00",
-      "source": "Italian Food Net",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "bf43c55bcfa1f77e",
-      "title": "Grocery inflation hits highest level since mid-2023",
-      "summary": "Tomato prices were up nearly 40% year over year in April, the quickest rate of inflation among the food-at-home categories that the BLS tracks.",
-      "url": "https://www.fooddive.com/news/grocery-inflation-april-2026-tomatoes-beef-coffee/820465/",
-      "published_at": "2026-05-18T21:51:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "bdcbb9ec66d863a0",
-      "title": "Inside Utz’s rise from regional potato chip brand to salty snack juggernaut",
-      "summary": "The 105-year-old pretzel and chip maker is in the midst of a slow but steady national expansion as it competes with PepsiCo’s Frito-Lay and scores of smaller local brands.",
-      "url": "https://www.fooddive.com/news/utzs-regional-potato-chip-brand-salty-snack-giant/812739/",
-      "published_at": "2026-05-18T21:23:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "260e571329473d18",
-      "title": "JBS gears up for “more challenging year than 2025” in US beef",
-      "summary": "JBS faces another year of negative margins for US beef as the cattle shortage persists and a drought exacerbates the challenges. The post JBS gears up for “more challenging year than 2025” in US beef…",
-      "url": "https://www.just-food.com/news/jbs-gears-up-for-more-challenging-year-than-2025-in-us-beef/",
-      "published_at": "2026-05-18T21:13:08+08:00",
-      "source": "Just Food",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "3cb760849adfc00e",
-      "title": "Meat-alternatives production declines in Germany",
-      "summary": "The production of vegetarian and vegan alternatives to meat in Germany dipped in 2025 after years of steady expansion. The post Meat-alternatives production declines in Germany appeared first on Just…",
-      "url": "https://www.just-food.com/news/meat-alternatives-production-declines-in-germany-after-upsurge/",
-      "published_at": "2026-05-18T21:05:42+08:00",
-      "source": "Just Food",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "fae46c37f8a3cc26",
-      "title": "Orkla buys UK B2B biscuits supplier Phoenix Brands",
-      "summary": "Nordic group Orkla has acquired UK-based biscuits supplier Phoenix Brands through its ingredients division. The post Orkla buys UK B2B biscuits supplier Phoenix Brands appeared first on Just Food .",
-      "url": "https://www.just-food.com/news/orkla-buys-uk-b2b-biscuits-supplier-phoenix-brands/",
-      "published_at": "2026-05-18T21:02:54+08:00",
-      "source": "Just Food",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "61894b5b9d1c1bea",
-      "title": "Alvinesa Natural Ingredients announces new CEO",
-      "summary": "Olivier Lavaud (pictured) brings extensive experience in strategic growth, business transformation, operational excellence and the development of multicultural teams",
-      "url": "https://nutraceuticalbusinessreview.com/alvinesa-natural-ingredients-announces-new-ceo",
-      "published_at": "2026-05-18T21:01:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "dbd52b87d0a0b143",
-      "title": "Renamed Kerry Dairy Ireland outlines investment plans",
-      "summary": "The news came alongside a new name for the business – Kinisla, which Kerry Dairy Ireland said “draws inspiration from both kinship and island identity”. The post Renamed Kerry Dairy Ireland outlines…",
-      "url": "https://www.just-food.com/news/renamed-kerry-dairy-ireland-outlines-investment-plans/",
-      "published_at": "2026-05-18T21:00:32+08:00",
-      "source": "Just Food",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
       "language": "en"
     }
   ]
