@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-05-26T22:15:03.007577+08:00",
-  "total": 1601,
+  "last_updated": "2026-05-27T02:13:24.085298+08:00",
+  "total": 1636,
   "articles": [
+    {
+      "id": "96b9db0d799f1641",
+      "title": "Campo Grande Raises $4M to Build the ‘Wagyu of Pork’ in U.S. Grocery",
+      "summary": "Campo Grande is betting American consumers are ready to rethink pork – not as the “other white meat” as it’s been pitched in the past, but as a premium, chef-driven protein more akin to Wagyu beef.",
+      "url": "https://www.nosh.com/news/2026/campo-grande-raises-4m-to-build-the-wagyu-of-pork-in-u-s-grocery",
+      "published_at": "2026-05-27T01:11:45+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "57ca5b393b6f4c89",
+      "title": "Cargill is Using AI to Divert Thousand of Pounds of Meat Back on the Table",
+      "summary": "When most people talk about food waste, they’re usually referring to the food we throw into the garbage or food waste bin, whether that’s a wilting head of lettuce or […]",
+      "url": "https://thespoon.tech/cargill-is-using-ai-to-divert-thousand-of-pounds-of-meat-back-on-the-table/",
+      "published_at": "2026-05-27T00:52:44+08:00",
+      "source": "The Spoon",
+      "region": "欧美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "e05922e750b255ca",
+      "title": "RNDC Layoffs Continue in WA, SD Ahead of Potential Deals",
+      "summary": "Republic National Distributing Company (RNDC) plans to lay off 267 employees in Washington and 53 in South Dakota, as other distributors potentially prepare to take over RNDC’s distribution rights or…",
+      "url": "https://www.bevnet.com/spirits/2026/rndc-layoffs-continue-in-wa-sd-ahead-of-potential-deals",
+      "published_at": "2026-05-27T00:30:55+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "9c9a8c3ee278c071",
+      "title": "BevNET Live NYC 2026: Bill Shufelt on Scaling One of Beverage’s Most Disruptive Companies",
+      "summary": "As category definitions shift and consumers reconsider what they want to drink, when, and where, BevNET Live NYC 2026 on June 10 + 11 will feature a talk with one of the architects of that disruption…",
+      "url": "https://www.bevnet.com/news/events/bevnetlivesummer26/bevnet-live-nyc-2026-bill-shufelt-on-scaling-one-of-beverages-most-disruptive-companies",
+      "published_at": "2026-05-27T00:05:03+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "fc12573ac6a25293",
+      "title": "Looming THC Ban Has Retailers, Brands Searching For Alternative Buzzes",
+      "summary": "Hemp beverage retailers and non-alc brands are preparing to pivot into non-THC alternatives as the November ban looms.",
+      "url": "https://www.bevnet.com/news/2026/looming-thc-ban-has-retailers-brands-searching-for-alternative-buzzes",
+      "published_at": "2026-05-26T23:57:17+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "753f7e101b2f816d",
+      "title": "Zevia Taps Brian Bousley As New EVP, Chief Commercial Officer",
+      "summary": "Zevia has appointed Brian Bousley as its new executive vice president and chief commercial officer, bringing the former Yerba Madre leader in to help steer an ongoing strategic turnaround.",
+      "url": "https://www.bevnet.com/news/2026/zevia-taps-brian-bousley-as-new-evp-chief-commercial-officer",
+      "published_at": "2026-05-26T23:53:33+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "143ac6e404dc70f9",
+      "title": "Taste Radio: The Simple & Reliable Secret Behind Ithaca’s Success & Guillermo’s Hot Start",
+      "summary": "A relentless focus on product quality and operational discipline helped Chris Kirby build Ithaca Hummus into one of the most successful CPG brands of the past decade. With Guillermo’s Salsa, he’s…",
+      "url": "https://www.bevnet.com/news/2026/taste-radio-the-simple-reliable-secret-behind-ithacas-success-guillermos-hot-start",
+      "published_at": "2026-05-26T23:36:56+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8cd766f144e1dc41",
+      "title": "Phytolon Secures $23.6M to Commercialize Natural Food Colors in the U.S.",
+      "summary": "Israeli biotechnology company Phytolon has nabbed $23.6 million in fresh funding to commercialize its fermentation-based natural color solutions in the U.S. amid growing demand for alternatives to…",
+      "url": "https://www.nosh.com/news/2026/phytolon-secures-23-6m-to-commercialize-natural-food-colors-in-the-u-s",
+      "published_at": "2026-05-26T23:24:38+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "6f5fdc4ef991dbd5",
+      "title": "ATLAUA launches CBD botanical recovery drink for athletes in US market",
+      "summary": "New luxury recovery beverage combines CBD, ashwagandha and nootropic ingredients to offer athletes an alcohol-free recovery and relaxation alternative",
+      "url": "https://nutraceuticalbusinessreview.com/atlaua-launches-cbd-botanical-recovery-drink-for-athletes",
+      "published_at": "2026-05-26T23:01:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "cc766e44de89c242",
+      "title": "Report: Better-For-You Snacks Gaining Real Traction",
+      "summary": "Snacking is booming even as Americans chase healthier eating, with taste still driving most choices as better-for-you options gain ground. SPINS data shows that emerging flavors, functional…",
+      "url": "https://foodinstitute.com/consumerinsights/better-for-you-snacks-gaining-real-traction/?utm_source=rss&utm_medium=rss&utm_campaign=better-for-you-snacks-gaining-real-traction",
+      "published_at": "2026-05-26T23:00:22+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "19dc6898c1adc52d",
       "title": "WILDE Opens New Facility to Fuel Broader Snack Ambitions",
@@ -20,6 +140,18 @@
       "summary": "David Binder talks about the vodka maker’s controversial AI-generated Super Bowl debut and its future plans under Sazerac.",
       "url": "https://www.fooddive.com/news/svedkas-senior-brand-director-on-the-vodkas-future-forward-marketing/820581/",
       "published_at": "2026-05-26T22:01:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "526aa0c749bc0cec",
+      "title": "Cactus candies, protein donuts: 5 products highlighting the evolution of snacking",
+      "summary": "Nutrition and sustainability were key themes at the 2026 Sweets & Snacks Expo, where 1,000 exhibitors from around the world gathered to display their innovations.",
+      "url": "https://www.fooddive.com/news/cactus-candies-protein-donuts-5-products-highlighting-the-evolution-of-sn/820362/",
+      "published_at": "2026-05-26T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
       "category": "综合",
@@ -48,6 +180,30 @@
       "region": "北美",
       "category": "综合",
       "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "3eb89a8ddff911d8",
+      "title": "Loss-making Atlantic Sapphire secures funds as takeover offer proceeds",
+      "summary": "Loss-making Atlantic Sapphire has secured at least $20m of new funding as a takeover by Coral Holdco moves forward. The post Loss-making Atlantic Sapphire secures funds as takeover offer proceeds…",
+      "url": "https://www.just-food.com/news/loss-making-atlantic-sapphire-secures-funds-as-takeover-offer-proceeds/",
+      "published_at": "2026-05-26T20:41:21+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "fcb711d466359f72",
+      "title": "EU suspends imports duties on fertiliser",
+      "summary": "The EU has suspended duties on key nitrogen-based fertilisers, aiming to ease pressures for farmers amid global supply disruptions. The post EU suspends imports duties on fertiliser appeared first on…",
+      "url": "https://www.just-food.com/news/eu-suspends-fertiliser-imports-duties/",
+      "published_at": "2026-05-26T20:02:40+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
       "language": "en"
     },
     {
@@ -99,6 +255,18 @@
       "language": "en"
     },
     {
+      "id": "d869b171d69e7d57",
+      "title": "ローソンのおにぎりトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「おにぎり」の最新・注目度ランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21167/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "565300bdd14c7742",
       "title": "ローソンのおにぎりトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「おにぎり」の最新・注目度ランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
@@ -133,6 +301,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "3384c62f328b4010",
+      "title": "今週新発売のレモンまとめ！『ガリガリ君はちみつレモン』、『サプルット　レモン味』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！レモンの新商品情報をお届けします。今週新発売の#レモン赤城 ガリガリ君はちみつレモン 袋105ml暑くなる季節に向けて、爽やか…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052608/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "0a5cc211f7f96858",
@@ -267,6 +447,18 @@
       "language": "ja"
     },
     {
+      "id": "98d9f88023f6d44d",
+      "title": "今週新発売のチーズまとめ！『ｋｉｒｉクリームチーズサンドブルーベリー』、『生　チョコパイ　チーズケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！チーズの新商品情報をお届けします。今週新発売の#チーズロッテ kiriクリームチーズサンドブルーベリーkiriクリームチーズを…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052607/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "31d9acafde3b1c93",
       "title": "From cortisol to fibremaxxing: how social media wellness trends are reshaping the functional food opportunity",
       "summary": "As consumers turn to their feeds for nutrition guidance, viral trends around stress, gut health and nutrient density are translating into measurable shifts in purchasing behaviour — and opening new…",
@@ -375,6 +567,18 @@
       "language": "ja"
     },
     {
+      "id": "8f516d2c279c6f70",
+      "title": "今週新発売の寿司🍣まとめ！『ふっくらお揚げのいなり』、『手巻寿司　たくあん納豆』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！寿司の新商品情報をお届けします。今週新発売の#寿司セブン-イレブン ふっくらお揚げのいなり甘じょっぱい味付けに仕上げたいなり皮…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052606/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "6fe7ae3f8432d41b",
       "title": "今週新発売の寿司🍣まとめ！『ふっくらお揚げのいなり』、『手巻寿司　たくあん納豆』など♪",
       "summary": "こんにちは、もぐナビ編集部です！寿司の新商品情報をお届けします。今週新発売の#寿司セブン-イレブン ふっくらお揚げのいなり甘じょっぱい味付けに仕上げたいなり皮…",
@@ -399,11 +603,35 @@
       "language": "ja"
     },
     {
+      "id": "fac7df56a377bc87",
+      "title": "【2026年5月第4週】カップうどん・そばランキング1位は赤いきつねうどんでか盛！どん兵衛鬼かき揚げも急上昇まとめ",
+      "summary": "2026年5月第4週のカップうどん・そばランキングが出揃いました。定番の人気商品がしっかり上位に顔を揃えつつ、気になる急上昇商品も登場しています。さっそく今週…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21094/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "1d648a8a53288af5",
       "title": "【2026年5月第4週】カップうどん・そばランキング1位は赤いきつねうどんでか盛！どん兵衛鬼かき揚げも急上昇まとめ",
       "summary": "2026年5月第4週のカップうどん・そばランキングが出揃いました。定番の人気商品がしっかり上位に顔を揃えつつ、気になる急上昇商品も登場しています。さっそく今週…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21094/?utm_source=rss&utm_medium=mognavinews_20260526",
       "published_at": "2026-05-26T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ae0b968cc6ad759d",
+      "title": "今週新発売のごままとめ！『オクラとひじきのごま和え』、『わかめおむすびと白ごまいなりセット』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ごまの新商品情報をお届けします。今週新発売の#ごまファミリーマート オクラとひじきのごま和えオクラ、ひじき、人参が入ったごまと…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052605/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T12:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -471,6 +699,18 @@
       "language": "en"
     },
     {
+      "id": "9c4b59df1acab752",
+      "title": "【2026年5月第4週】カップ焼きそば・パスタランキング1位は日清ソース焼そば！新商品・急上昇商品まとめ",
+      "summary": "2026年5月第4週のカップ焼きそば・パスタランキングが出そろいました。ゴールデンウィークの余韻が冷めやらぬなか、定番の人気商品から気になる新顔まで、今週も個…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21093/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "41450a34917263e8",
       "title": "【2026年5月第4週】カップ焼きそば・パスタランキング1位は日清ソース焼そば！新商品・急上昇商品まとめ",
       "summary": "2026年5月第4週のカップ焼きそば・パスタランキングが出そろいました。ゴールデンウィークの余韻が冷めやらぬなか、定番の人気商品から気になる新顔まで、今週も個…",
@@ -483,11 +723,35 @@
       "language": "ja"
     },
     {
+      "id": "78658e6cc49130a5",
+      "title": "今週新発売の和風食品まとめ！『高菜と明太子と蒸し鶏の和風パスタ』、『４種のボリュームよくばりサンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風ニューデイズ 高菜と明太子と蒸し鶏の和風パスタ高菜と明太子、蒸し鶏をトッピン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052604/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "9ccd11f523b4311f",
       "title": "今週新発売の和風食品まとめ！『高菜と明太子と蒸し鶏の和風パスタ』、『４種のボリュームよくばりサンド』など♪",
       "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風ニューデイズ 高菜と明太子と蒸し鶏の和風パスタ高菜と明太子、蒸し鶏をトッピン…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052604/?utm_source=rss&utm_medium=mognavinews_20260526",
       "published_at": "2026-05-26T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5e084bd06c5b0f84",
+      "title": "【2026年5月第4週】スープ・カップ春雨・味噌汁・その他ランキング1位は宝幸 オニオンスープ！急上昇商品も見逃せないまとめ",
+      "summary": "5月も終わりに近づき、日差しが強くなってきた今週も、スープ・カップ春雨・味噌汁カテゴリに熱い視線が集まっています。定番の安心感から新鮮な驚きまで、バラエティ豊…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21092/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T11:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -516,6 +780,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "2a9c251d45b74479",
+      "title": "今週新発売のマヨネーズ味まとめ！『つぶつぶコーンマヨネーズ』、『直巻　サーモンマヨネーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！マヨネーズ味の新商品情報をお届けします。今週新発売の#マヨネーズ味セブン-イレブン つぶつぶコーンマヨネーズふんわりとしたパン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052603/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -579,6 +855,18 @@
       "language": "ja"
     },
     {
+      "id": "23b8d93cc15e052e",
+      "title": "【2026年5月第4週】インスタントラーメン・袋めんランキング1位はヴィーガンラーメン！注目の新定番まとめ",
+      "summary": "2026年5月第4週のインスタントラーメン・袋めんランキングが出揃いました！定番の人気商品から気になる新顔まで、今週もバラエティ豊かなラインナップが集まりまし…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21091/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "4d287b809a5472af",
       "title": "【2026年5月第4週】インスタントラーメン・袋めんランキング1位はヴィーガンラーメン！注目の新定番まとめ",
       "summary": "2026年5月第4週のインスタントラーメン・袋めんランキングが出揃いました！定番の人気商品から気になる新顔まで、今週もバラエティ豊かなラインナップが集まりまし…",
@@ -591,11 +879,35 @@
       "language": "ja"
     },
     {
+      "id": "80dec26eccd427b3",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『スパイシードライカレー』、『ねぎ塩グリルチキン弁当』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ミニストップ スパイシードライカレ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052602/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "05d11bade9ff0b92",
       "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『スパイシードライカレー』、『ねぎ塩グリルチキン弁当』など♪",
       "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ミニストップ スパイシードライカレ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052602/?utm_source=rss&utm_medium=mognavinews_20260526",
       "published_at": "2026-05-26T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "1fe0eb5d0da6c95a",
+      "title": "【2026年5月第4週】カップラーメンランキング1位はスーパーカップ博多とんこつ！麻辣系急上昇まとめ",
+      "summary": "2026年5月第4週のカップラーメンランキングが出そろいました！定番の人気商品から、じわじわ順位を上げてきた急上昇組まで、今週も目が離せないラインナップです。…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21090/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T09:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -651,11 +963,35 @@
       "language": "en"
     },
     {
+      "id": "f0e43126d12aa64f",
+      "title": "今週新発売の濃厚な食べものまとめ！『ポテトチップス　しょうゆＷマヨ』、『ケーキビスケット　レアチーズケーキ味』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚カルビー ポテトチップス しょうゆWマヨ 袋55g●2種のしょうゆと2倍にな…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052601/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-26T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e2c9f6f34ffed3a7",
       "title": "今週新発売の濃厚な食べものまとめ！『ポテトチップス　しょうゆＷマヨ』、『ケーキビスケット　レアチーズケーキ味』など♪",
       "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚カルビー ポテトチップス しょうゆWマヨ 袋55g●2種のしょうゆと2倍にな…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052601/?utm_source=rss&utm_medium=mognavinews_20260526",
       "published_at": "2026-05-26T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8274753bb55cefd7",
+      "title": "歴代もち食感ロール！トレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「もち食感ロール」の最新・注目度ランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21133/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-25T18:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -680,6 +1016,18 @@
       "summary": "もぐナビ編集部です！今回ご紹介するのは「もち食感ロール」の最新・注目度ランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
       "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21133/?utm_source=rss&utm_medium=mognavinews_20260525",
       "published_at": "2026-05-25T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8422a96a5dada334",
+      "title": "今週新発売のコンビニ焼菓子🍫まとめ！『チョコがけココアビスケット』、『鉄分とヒアルロン酸が摂れる　ビスケット　ハニーラテ味』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ焼菓子の新商品情報をお届けします。今週新発売の#コンビニ焼菓子ローソン チョコがけココアビスケットなめらかなチョコをか…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052508/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-25T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -747,6 +1095,18 @@
       "language": "ja"
     },
     {
+      "id": "f703b5ec71093a68",
+      "title": "Chianti Consortium Targets Asian Growth at Vinexpo Asia 2026",
+      "summary": "The renown Tuscan wine Protection Consortium has deployed a major institutional showcase in Hong Kong, featuring 19 individual producer desks, 66 selected labels, and a specialized masterclass…",
+      "url": "https://news.italianfood.net/2026/05/25/chianti-consortium-targets-asian-growth-at-vinexpo-asia-2026/",
+      "published_at": "2026-05-25T15:24:00+08:00",
+      "source": "Italian Food Net",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "B",
+      "language": "en"
+    },
+    {
       "id": "7f2649218fa23468",
       "title": "うめだ阪急ビアガーデン「旅する屋上ビアガーデン」を開催、選べるメインと旅するメニューで何度でも楽しめるビアガーデンに",
       "summary": "阪急阪神百貨店が運営する阪急うめだ本店は10月13日までの期間限定で、「うめだ阪急ビアガーデン 旅する屋上ビアガーデン」を開催している。また、同フロアで営業しているイタリアンレストラン「トラットリア アル･ポンピエーレ」...",
@@ -780,6 +1140,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "3d8489c4de77bb48",
+      "title": "今週新発売の菓子パン🍫まとめ！『ジャンボむしケーキ　ピーチティー』、『黒糖リングケーキドーナツ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パン木村屋 ジャンボむしケーキ ピーチティー 袋1個甘く、ジューシーな桃と…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052507/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-25T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -828,6 +1200,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "97077ffbea90cd8b",
+      "title": "【2026年5月第4週】コンビニ惣菜ランキング1位はブロッコリーチキンエッグ！ローソン急上昇＆新商品まとめ",
+      "summary": "2026年5月第4週のコンビニ惣菜ランキングをお届けします！ゴールデンウィークも明け、日々の食卓をちょっと豊かにしてくれるコンビニ惣菜への注目がますます高まっ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21089/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-25T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -915,6 +1299,18 @@
       "language": "ja"
     },
     {
+      "id": "7ff8be9e41b6e7e0",
+      "title": "今週新発売のアイスクリーム🍨🍦まとめ！『岡山育ちの白桃アイスバー』、『ＭＯＷ　宇治抹茶　抹茶×ミルク』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！アイスクリームの新商品情報をお届けします。今週新発売の#アイスクリームオハヨー 岡山育ちの白桃アイスバー岡山の名産品である白桃…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052506/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-25T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "58ed4007390bf4a5",
       "title": "今週新発売のアイスクリーム🍨🍦まとめ！『岡山育ちの白桃アイスバー』、『ＭＯＷ　宇治抹茶　抹茶×ミルク』など♪",
       "summary": "こんにちは、もぐナビ編集部です！アイスクリームの新商品情報をお届けします。今週新発売の#アイスクリームオハヨー 岡山育ちの白桃アイスバー岡山の名産品である白桃…",
@@ -948,6 +1344,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "7b224b41a5190fff",
+      "title": "【2026年5月第4週】コンビニ麺・コンビニパスタランキング1位はにんにくスタミナ焼そば！冷し麺・新商品続々まとめ",
+      "summary": "2026年5月第4週のコンビニ麺・コンビニパスタランキングが出揃いました！夏に向けて冷たい麺が増えてきた今週も、食べごたえ抜群のスタミナ系から爽やかな冷製パス…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21088/?utm_source=rss&utm_medium=mognavinews_20260527",
+      "published_at": "2026-05-25T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -2580,6 +2988,18 @@
       "region": "北美",
       "category": "综合",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "200e8f92d4a97804",
+      "title": "Aceto Balsamico di Modena PGI’s Exports Defy Global Turbulence",
+      "summary": "Despite intense geopolitical headwinds and supply chain pressures, balsamic vinegar of Modena secured a 2.57% export increase in 2025, reaching an estimated €1B in consumer value while pushing…",
+      "url": "https://news.italianfood.net/2026/05/22/aceto-balsamico-di-modena-pgis-exports-defy-global-turbulence/",
+      "published_at": "2026-05-22T22:05:00+08:00",
+      "source": "Italian Food Net",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "B",
       "language": "en"
     },
     {
