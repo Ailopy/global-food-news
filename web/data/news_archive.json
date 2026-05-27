@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-28T00:49:42.423344+08:00",
-  "total": 1739,
+  "last_updated": "2026-05-28T02:14:48.163760+08:00",
+  "total": 1741,
   "articles": [
+    {
+      "id": "361bd96298905d28",
+      "title": "Oishii Wants to Redefine Berry Shopping, and Prove Vertical Farming Can Scale",
+      "summary": "Consumers are shifting toward the perimeter of the store, in search of snackable, fresh and accessible offerings. After closing a $150 million Series C earlier this month, Oishii is working to meet…",
+      "url": "https://www.nosh.com/news/2026/oishii-wants-to-redefine-berry-shopping-and-prove-vertical-farming-can-scale",
+      "published_at": "2026-05-28T01:19:16+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "f794e271655304ed",
       "title": "PLEZi Rebuilds Around Steph Curry with Hydration Refresh",
@@ -1575,18 +1587,6 @@
       "language": "ja"
     },
     {
-      "id": "d8a6287596110188",
-      "title": "今週新発売のチーズまとめ！『ｋｉｒｉクリームチーズサンドブルーベリー』、『生　チョコパイ　チーズケーキ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！チーズの新商品情報をお届けします。今週新発売の#チーズロッテ kiriクリームチーズサンドブルーベリーkiriクリームチーズを…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052607/?utm_source=rss&utm_medium=mognavinews_20260528",
-      "published_at": "2026-05-26T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "31d9acafde3b1c93",
       "title": "From cortisol to fibremaxxing: how social media wellness trends are reshaping the functional food opportunity",
       "summary": "As consumers turn to their feeds for nutrition guidance, viral trends around stress, gut health and nutrient density are translating into measurable shifts in purchasing behaviour — and opening new…",
@@ -1597,6 +1597,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "d8a6287596110188",
+      "title": "今週新発売のチーズまとめ！『ｋｉｒｉクリームチーズサンドブルーベリー』、『生　チョコパイ　チーズケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！チーズの新商品情報をお届けします。今週新発売の#チーズロッテ kiriクリームチーズサンドブルーベリーkiriクリームチーズを…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052607/?utm_source=rss&utm_medium=mognavinews_20260528",
+      "published_at": "2026-05-26T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "98d9f88023f6d44d",
@@ -4175,6 +4187,18 @@
       "source": "Just Food",
       "region": "欧洲",
       "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "4bd42876cf47491a",
+      "title": "Checkout: The Genny revives and reimagines the Vermont general store",
+      "summary": "Find out how the team behind The Genny transformed a general store into a pillar of the community with natural and local initiatives.",
+      "url": "https://www.newhope.com/retailers/the-genny-revives-and-reimagines-the-vermont-general-store",
+      "published_at": "2026-05-22T23:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
       "level": "A",
       "language": "en"
     },
