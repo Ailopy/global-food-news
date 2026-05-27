@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T00:49:42.447571+08:00",
+  "last_updated": "2026-05-28T02:14:48.187739+08:00",
   "retention_days": 7,
   "total": 529,
   "sources": [
@@ -20,6 +20,18 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "361bd96298905d28",
+      "title": "Oishii Wants to Redefine Berry Shopping, and Prove Vertical Farming Can Scale",
+      "summary": "Consumers are shifting toward the perimeter of the store, in search of snackable, fresh and accessible offerings. After closing a $150 million Series C earlier this month, Oishii is working to meet…",
+      "url": "https://www.nosh.com/news/2026/oishii-wants-to-redefine-berry-shopping-and-prove-vertical-farming-can-scale",
+      "published_at": "2026-05-28T01:19:16+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "f794e271655304ed",
       "title": "PLEZi Rebuilds Around Steph Curry with Hydration Refresh",
@@ -1593,18 +1605,6 @@
       "language": "ja"
     },
     {
-      "id": "d8a6287596110188",
-      "title": "今週新発売のチーズまとめ！『ｋｉｒｉクリームチーズサンドブルーベリー』、『生　チョコパイ　チーズケーキ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！チーズの新商品情報をお届けします。今週新発売の#チーズロッテ kiriクリームチーズサンドブルーベリーkiriクリームチーズを…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052607/?utm_source=rss&utm_medium=mognavinews_20260528",
-      "published_at": "2026-05-26T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "31d9acafde3b1c93",
       "title": "From cortisol to fibremaxxing: how social media wellness trends are reshaping the functional food opportunity",
       "summary": "As consumers turn to their feeds for nutrition guidance, viral trends around stress, gut health and nutrient density are translating into measurable shifts in purchasing behaviour — and opening new…",
@@ -1615,6 +1615,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "d8a6287596110188",
+      "title": "今週新発売のチーズまとめ！『ｋｉｒｉクリームチーズサンドブルーベリー』、『生　チョコパイ　チーズケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！チーズの新商品情報をお届けします。今週新発売の#チーズロッテ kiriクリームチーズサンドブルーベリーkiriクリームチーズを…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052607/?utm_source=rss&utm_medium=mognavinews_20260528",
+      "published_at": "2026-05-26T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "98d9f88023f6d44d",
@@ -4197,6 +4209,18 @@
       "language": "en"
     },
     {
+      "id": "4bd42876cf47491a",
+      "title": "Checkout: The Genny revives and reimagines the Vermont general store",
+      "summary": "Find out how the team behind The Genny transformed a general store into a pillar of the community with natural and local initiatives.",
+      "url": "https://www.newhope.com/retailers/the-genny-revives-and-reimagines-the-vermont-general-store",
+      "published_at": "2026-05-22T23:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
       "id": "9ba794406b19faee",
       "title": "The Genny revives and reimagines the Vermont general store",
       "summary": "Find out how the team behind The Genny transformed a general store into a pillar of the community with natural and local initiatives.",
@@ -6341,30 +6365,6 @@
       "source": "BevNET",
       "region": "北美",
       "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "e1a89109dba33bd6",
-      "title": "Ya Ya Foods Owner Wins Grant to Open Michigan Plant Milk Facility",
-      "summary": "Fenton Food and Beverage, a company formed by Yahya Abbas, the founder of Toronto-based Ya Ya Foods Corp., has secured a grant to begin building a roughly 100,000 sq. ft. plant-based milk factory in…",
-      "url": "https://www.nosh.com/news/2026/ya-ya-foods-owner-wins-grant-to-open-michigan-plant-milk-facility",
-      "published_at": "2026-05-21T01:03:06+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "49cfb0ca6e8e2bfa",
-      "title": "Martin Starr, The Potash Twins Expand Sweet Stash Candy Brand with Two New SKUS",
-      "summary": "Sweet Stash - a new gummy candy brand founded by actor Martin Starr and influencers Ezra and Adeev Potash (a.k.a. “The Potash Twins”) - is expanding its lineup with two new products: Sour Jams and…",
-      "url": "https://www.nosh.com/news/2026/martin-starr-the-potash-twins-expand-sweet-stash-candy-brand-with-two-new-skus",
-      "published_at": "2026-05-21T00:55:40+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
       "level": "A",
       "language": "en"
     }
