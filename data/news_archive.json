@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-29T01:44:08.355031+08:00",
-  "total": 1847,
+  "last_updated": "2026-05-29T02:42:50.226404+08:00",
+  "total": 1849,
   "articles": [
+    {
+      "id": "891e6e1b38516442",
+      "title": "Infant formula recalled because of cereulide contamination",
+      "summary": "The a2 Milk Company (“a2MC”) has recalled three specific batches of its imported a2 Platinum Premium USA label infant formula 0-12 months because of the presence of cereulide. The product is sold…",
+      "url": "https://www.foodsafetynews.com/2026/05/infant-formula-recalled-because-of-cereulide-contamination/",
+      "published_at": "2026-05-29T02:41:49+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "7b5e7185efb367b2",
       "title": "BevNET Live NYC 2026: Meet the Beverage Entrepreneur Helping New Drinks Land in Walmart",
@@ -132,6 +144,18 @@
       "region": "北美",
       "category": "综合",
       "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "3dc0a290eca6c5f9",
+      "title": "Regenerative certifications vary widely in standards and consumer clarity, study finds",
+      "summary": "A new Friends of the Earth analysis finds sweeping disparities among regenerative certifications. See what these inconsistencies could mean for regenerative adoption.",
+      "url": "https://www.newhope.com/natural-product-trends/regenerative-certifications-vary-widely-in-standards-and-consumer-clarity-study-finds",
+      "published_at": "2026-05-28T22:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
       "language": "en"
     },
     {
