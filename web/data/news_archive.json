@@ -1,7 +1,187 @@
 {
-  "last_updated": "2026-05-28T20:49:39.819276+08:00",
-  "total": 1811,
+  "last_updated": "2026-05-29T01:44:08.355031+08:00",
+  "total": 1847,
   "articles": [
+    {
+      "id": "7b5e7185efb367b2",
+      "title": "BevNET Live NYC 2026: Meet the Beverage Entrepreneur Helping New Drinks Land in Walmart",
+      "summary": "BevNET Live will feature a discussion on the ways Walmart is trying to evolve the experience of entrepreneurial beverage brands in the world’s largest grocer. During the discussion, Dee Charlemagne,…",
+      "url": "https://www.bevnet.com/news/events/bevnetlivesummer26/bevnet-live-nyc-2026-meet-the-beverage-entrepreneur-helping-new-drinks-land-in-walmart",
+      "published_at": "2026-05-29T01:36:35+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "62fc2e4cd8c0d1b7",
+      "title": "Inside ADM’s reformulation hub powering better-for-you innovation",
+      "summary": "The flavors and ingredient giant is working to rapidly create solutions for food makers to address consumer demand for lower sugar, reduced sodium and more protein.",
+      "url": "https://www.fooddive.com/news/adm-reformulation-ingredients-solutions-erlanger-kentucky/821384/",
+      "published_at": "2026-05-29T01:06:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "ccb6349ef8b65616",
+      "title": "Could Conor McGregor’s MAC Energy Kickstart Ketones?",
+      "summary": "If the emerging ketone market could use a kick, who better to call than a mixed martial arts superstar?",
+      "url": "https://www.bevnet.com/news/2026/could-conor-mcgregors-mac-energy-could-kickstart-ketones",
+      "published_at": "2026-05-29T00:31:33+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "a3b7b9045172cdc6",
+      "title": "[Exclusive] Elavi Goes National with Whole Foods Market; Launches Exclusive SKU",
+      "summary": "Elavi is expanding nationwide at Whole Foods Market, less than a year after landing its high-protein, gluten-free, vegan brownies in select regions of the natural retailer.",
+      "url": "https://www.nosh.com/news/2026/exclusive-elavi-goes-national-with-whole-foods-market-launches-exclusive-sku",
+      "published_at": "2026-05-29T00:00:00+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d750a8815f709380",
+      "title": "Patti LaBelle’s Soul Food Brand Snags Strategic Investment",
+      "summary": "Factory Holdings announced this week a strategic investment in Patti’s Good Life, a soul food brand founded by singer and actress Patti LaBelle.",
+      "url": "https://www.nosh.com/news/2026/patti-labelles-soul-food-brand-snags-strategic-investment",
+      "published_at": "2026-05-28T23:15:12+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "6c6340283f4108b3",
+      "title": "Target Taps Celebrity Chef For Good & Gather Collab",
+      "summary": "Target is expanding its Good & Gather store brand with help from celebrity chef Roy Choi and his signature Korean-American flavors.",
+      "url": "https://www.nosh.com/news/2026/target-taps-celebrity-chef-for-good-gather-collab",
+      "published_at": "2026-05-28T23:08:56+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5ba0f60b965cc6fb",
+      "title": "Inside the Men’s ‘Looksmaxxing’ Trend, ‘Beauty From Within’ Movement",
+      "summary": "Men may not call it beauty, but they are increasingly looking for products promising better skin, hydration, and longevity. Two appearance-focused trends are presenting opportunities for brands to…",
+      "url": "https://foodinstitute.com/focus/inside-the-mens-looksmaxxing-trend-beauty-from-within-movement/?utm_source=rss&utm_medium=rss&utm_campaign=inside-the-mens-looksmaxxing-trend-beauty-from-within-movement",
+      "published_at": "2026-05-28T23:00:24+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "25b5327552bec73e",
+      "title": "Disproquima acquires polish company Enzym",
+      "summary": "Acquisition strengthens presence in central europe and expands personal care portfolio capabilities",
+      "url": "https://nutraceuticalbusinessreview.com/disproquima-acquires-polish-company-enzym-strengthening-its-presence",
+      "published_at": "2026-05-28T22:25:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "9d259fe4a59f8a23",
+      "title": "Reviews: Go Raw Snacking Crisps and Kodiak Mini Drizzle Bars",
+      "summary": "Go Raw has launched a line of organic whole-seed crackers. Kodiak recently introduced a new mini version of its chewy bars.",
+      "url": "https://www.nosh.com/news/2026/reviews-go-raw-snacking-crisps-and-kodiak-mini-drizzle-bars",
+      "published_at": "2026-05-28T22:15:25+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "dc814be4bc44274a",
+      "title": "CPG Week Podcast: Chicken In A Biscuit, Messi No Más, And a Can Of Cod",
+      "summary": "This week on the podcast, Nosh managing editor Monica Watrous and senior reporter Lukas Southard discuss WILDE Brands’ expansion into crackers made with chicken breast, the discontinuation of Lionel…",
+      "url": "https://www.nosh.com/news/2026/cpg-week-podcast-chicken-in-a-biscuit-messi-no-mas-and-a-can-of-cod",
+      "published_at": "2026-05-28T22:02:58+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d392f64cd5e9a124",
+      "title": "Tyson Foods hires Jeff Schomburger as CEO",
+      "summary": "The executive takes over for Donnie King, who has been with the meat and chicken processor for 43 years, including the last five as CEO.",
+      "url": "https://www.fooddive.com/news/tyson-foods-hires-jeff-schomburger-as-ceo/821351/",
+      "published_at": "2026-05-28T22:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "ad6414e57fcf7ea1",
+      "title": "Ingredion reports progress on sustainable sourcing and emissions targets in 2025 sustainability report",
+      "summary": "Ingredion's 2025 Sustainability Report highlights advances in sustainable sourcing, regenerative agriculture and emissions reduction, alongside major investments in speciality starch production and…",
+      "url": "https://nutraceuticalbusinessreview.com/ingredion-report-progress-sustainability-emissions-2025",
+      "published_at": "2026-05-28T21:28:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "156aa0b19cd9ccae",
+      "title": "Sam Adams channels Revolutionary Era with America 250 beer",
+      "summary": "Boston Beer is going back to the 1770s with brews inspired by the country’s Founding Fathers that use ingredients from the period.",
+      "url": "https://www.fooddive.com/news/samuel-adams-brewer-patriot-collection-america-250-boston-beer/821261/",
+      "published_at": "2026-05-28T21:16:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "bac354f04da0a505",
+      "title": "WK Kellogg adds on-pack nutrition guide to highlight cereal benefits",
+      "summary": "The SPOONS framework, which will debut on classic products such as Rice Krispies and Corn Flakes, provides information on fiber, protein and sugar content.",
+      "url": "https://www.fooddive.com/news/wk-kellogg-adds-on-pack-nutrition-guide-to-highlight/821267/",
+      "published_at": "2026-05-28T21:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "48cc7da196635bdb",
+      "title": "サントリー「ギルティ炭酸 NOPE」、発売50日で5500万本突破 令和史上最速の好発進",
+      "summary": "“甘くない時代”に挑んだ甘濃い炭酸、ギルティ消費に手応え サントリービバレッジ＆フードの新炭酸ブランド「ギルティ炭酸 NOPE(ノープ)」（600mlPET/自販機向け340ml缶）が、3月24日の発売から5...",
+      "url": "https://www.ssnp.co.jp/beverage/686644/",
+      "published_at": "2026-05-28T20:56:58+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
     {
       "id": "7a28deaebe61eac1",
       "title": "Tyson Foods hands CEO role to director",
@@ -63,6 +243,18 @@
       "language": "en"
     },
     {
+      "id": "74ab3e884fc6a6d0",
+      "title": "ローソンホットスナックのおすすめTOP3！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンホットスナック」のおすすめランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿され…",
+      "url": "https://mognavi.jp/news/matome/gen-tagRanking-21298/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "b9e0c3524c0d4578",
       "title": "ローソンホットスナックのおすすめTOP3！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンホットスナック」のおすすめランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿され…",
@@ -85,6 +277,18 @@
       "category": "糕点糖巧",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "1c202b2f6060a946",
+      "title": "今週新発売の惣菜パンまとめ！『マヨチーズのピザパン』、『コーンマヨパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。来週新発売の惣菜パンリョーユーパン マヨチーズのピザパン 袋1個ピザソースを塗った生地にマ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052808/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "5534e94554af481f",
@@ -132,6 +336,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "bee0d615f2aca7cc",
+      "title": "ローソン×森半極まる抹茶！　上位独占の勢いどこまで続くのか！？：今週のコンビニスイーツランキング",
+      "summary": "週間コンビニスイーツランキングTOP3：2026年5月第4週今週もやってまいりました。2026年5月第4週、コンビニスイーツランキングのコーナーです。それでは…",
+      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182339/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T17:00:23+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -231,11 +447,35 @@
       "language": "ja"
     },
     {
+      "id": "88c217ac1fff41db",
+      "title": "今週新発売の惣菜パンまとめ！『枝豆とベーコンのパン』、『スパイシーキーマの黒カレーパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。来週新発売の惣菜パン木村屋 枝豆とベーコンのパン 袋1個枝豆のつぶつぶとした食感にベーコン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052807/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "4b02164e481fc3d5",
       "title": "今週新発売の惣菜パンまとめ！『枝豆とベーコンのパン』、『スパイシーキーマの黒カレーパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。来週新発売の惣菜パン木村屋 枝豆とベーコンのパン 袋1個枝豆のつぶつぶとした食感にベーコン…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052807/?utm_source=rss&utm_medium=mognavinews_20260528",
       "published_at": "2026-05-28T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "cd098c57d4434980",
+      "title": "【2026年5月第4週】コンビニスイーツの新商品！ふわ濃チーズケーキや生どら焼きなど話題作まとめ",
+      "summary": "今週もコンビニ各社から気になるスイーツが続々と登場しています。抹茶やチーズ、フルーツ系まで幅広いラインナップが揃い、どれを選ぼうか迷ってしまいそうです。202…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21267/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T14:15:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -291,6 +531,18 @@
       "language": "ja"
     },
     {
+      "id": "a1354d9f7a1227bf",
+      "title": "今週新発売の菓子パン🍫まとめ！『ウエハースサンド　瀬戸内レモン』、『こだわりの味わいメロン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パンリョーユーパン ウエハースサンド 瀬戸内レモン 袋2個ウエハースとスポ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052806/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "a02ba880b471a890",
       "title": "今週新発売の菓子パン🍫まとめ！『ウエハースサンド　瀬戸内レモン』、『こだわりの味わいメロン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パンリョーユーパン ウエハースサンド 瀬戸内レモン 袋2個ウエハースとスポ…",
@@ -336,6 +588,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "2b80583ef0e649c3",
+      "title": "今週新発売の菓子パン🍫まとめ！『こだわりのホイップあんぱん』、『こだわりのコーヒーサンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パンリョーユーパン こだわりのホイップあんぱん 袋1個ルヴァン種を使用した…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052805/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -435,6 +699,18 @@
       "language": "ja"
     },
     {
+      "id": "f678024c2f4667c0",
+      "title": "【2026年5月第4週】コンビニ惣菜の新商品！ゴーヤーチャンプルーやほうれん草の胡麻和えなど旬の惣菜まとめ",
+      "summary": "5月下旬、コンビニ惣菜売り場に個性豊かな新商品が続々と登場しています。夏に向けて食欲をそそるスパイシーな一品から、さっぱりと楽しめる野菜系のメニューまで、今週…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21266/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T11:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "249a89924b4f82d1",
       "title": "【2026年5月第4週】コンビニ惣菜の新商品！ゴーヤーチャンプルーやほうれん草の胡麻和えなど旬の惣菜まとめ",
       "summary": "5月下旬、コンビニ惣菜売り場に個性豊かな新商品が続々と登場しています。夏に向けて食欲をそそるスパイシーな一品から、さっぱりと楽しめる野菜系のメニューまで、今週…",
@@ -456,6 +732,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "65b444f3cf1f4061",
+      "title": "今週新発売の菓子パン🍫まとめ！『こだわりのヤキリンゴ』、『オールドファッション　レモン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パンリョーユーパン こだわりのヤキリンゴ 袋1個りんごダイスとりんごジャム…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052804/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -507,6 +795,30 @@
       "language": "ja"
     },
     {
+      "id": "292f72035b6e6c25",
+      "title": "今週新発売の菓子パン🍫まとめ！『珈琲あんぱん』、『たんぱく質が摂れるむしケーキ　バナナ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パン木村屋 珈琲あんぱん 袋1個芳醇な香りと深みのある味わいにほんのりミル…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052803/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "fea568379be10929",
+      "title": "【2026年5月第4週】コンビニ麺・コンビニパスタの新商品！甘辛鶏唐揚げパスタサラダや三重県産舞茸のバター醤油パスタなどまとめ",
+      "summary": "2026年5月24日〜30日のコンビニ麺・パスタ新商品が出揃いました。今週はセブン-イレブンを中心に、パスタサラダ、焼ビーフン、ラーメン、グラタンなど、バラエ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21265/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "9b0a75300e4d2df6",
       "title": "今週新発売の菓子パン🍫まとめ！『珈琲あんぱん』、『たんぱく質が摂れるむしケーキ　バナナ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パン木村屋 珈琲あんぱん 袋1個芳醇な香りと深みのある味わいにほんのりミル…",
@@ -543,6 +855,18 @@
       "language": "ja"
     },
     {
+      "id": "b44391bcfab82ca6",
+      "title": "【2026年5月第4週】コンビニサンドイッチ・コンビニパンの新商品！揚げたてカレーパンやたまごサンドなどまとめ",
+      "summary": "今週のコンビニサンドイッチ・パンコーナーには、定番の安心感を進化させた新商品が勢ぞろいしました。セブン-イレブン、ローソン、ファミリーマートそれぞれから個性豊…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21234/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T10:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "4d53f88b6bc1ef48",
       "title": "【2026年5月第4週】コンビニサンドイッチ・コンビニパンの新商品！揚げたてカレーパンやたまごサンドなどまとめ",
       "summary": "今週のコンビニサンドイッチ・パンコーナーには、定番の安心感を進化させた新商品が勢ぞろいしました。セブン-イレブン、ローソン、ファミリーマートそれぞれから個性豊…",
@@ -576,6 +900,30 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "cadf10016bab4381",
+      "title": "【2026年5月第4週】コンビニ寿司・コンビニ弁当の新商品！鶏そぼろ御飯やチーズinハンバーグ焼きカレードリアなどまとめ",
+      "summary": "2026年5月24日〜30日のコンビニ新商品は、本格チャーハンからドリアやカツ丼まで、ボリューム感たっぷりなラインナップが揃いました。地域限定商品も多く、お近…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21233/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "30c9b2ce916baf96",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『蒸し野菜と豚しゃぶのサラダごはん』、『旨トマトチーズオムレツ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン 蒸し野菜と豚しゃ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052802/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -621,6 +969,18 @@
       "url": "https://shokuhin.net/145441/2026/05/28/kakou/kawaki/",
       "published_at": "2026-05-28T09:17:57+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d4b2a89974614487",
+      "title": "【2026年5月第4週】コンビニおにぎり・コンビニ手巻寿司の新商品！ふっくらいなりや梅おかかなど定番系まとめ",
+      "summary": "今週のコンビニおにぎり・手巻寿司コーナーに、セブン-イレブンとファミリーマートから個性豊かな新商品が勢揃いしました。定番の具材からちょっと珍しいラインナップま…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21232/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T09:15:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -759,6 +1119,18 @@
       "language": "en"
     },
     {
+      "id": "bc15f3914730b3d5",
+      "title": "今週新発売のセブンイレブンパンまとめ！『よくばりサンド　コロッケ＆マカロニチーズ』、『うんとおいしいナポリタンロール』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン よくばりサンド コロッケ＆マカ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052801/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-28T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "f1be1fc300164577",
       "title": "今週新発売のセブンイレブンパンまとめ！『よくばりサンド　コロッケ＆マカロニチーズ』、『うんとおいしいナポリタンロール』など♪",
       "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン よくばりサンド コロッケ＆マカ…",
@@ -839,6 +1211,18 @@
       "source": "BevNET",
       "region": "北美",
       "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "e92b74e4e99f1034",
+      "title": "Planet A Foods, Barry Callebaut Partnership Expands Cocoa-Free Chocolate Alternative",
+      "summary": "Rising cocoa costs and concerns about long-term supply resilience are accelerating interest in alternative chocolate ingredients. Manufacturer Barry Callebaut put the issue front and center at the…",
+      "url": "https://www.nosh.com/news/2026/planet-a-foods-barry-callebaut-partnership-expands-cocoa-free-chocolate",
+      "published_at": "2026-05-28T00:15:35+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
       "level": "A",
       "language": "en"
     },
@@ -1071,6 +1455,18 @@
       "language": "en"
     },
     {
+      "id": "ba6b8c65bcda00d0",
+      "title": "ローソンのパンのおすすめTOP3！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンのパン」のおすすめランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
+      "url": "https://mognavi.jp/news/matome/gen-tagRanking-21199/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-27T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "690ba7f31d46b977",
       "title": "ローソンのパンのおすすめTOP3！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンのパン」のおすすめランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
@@ -1088,6 +1484,18 @@
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンのパン」のおすすめランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
       "url": "https://mognavi.jp/news/matome/gen-tagRanking-21199/?utm_source=rss&utm_medium=mognavinews_20260527",
       "published_at": "2026-05-27T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "829ac8b7ef9419ab",
+      "title": "今週新発売のコンビニケーキまとめ！『レモン香る　レアチーズケーキ』、『能登かぼちゃのクレープケーキ仕立て』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニケーキの新商品情報をお届けします。来週新発売の#コンビニケーキセブン-イレブン レモン香る レアチーズケーキ濃厚なレア…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052708/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-27T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -1215,10 +1623,10 @@
       "language": "ja"
     },
     {
-      "id": "f764d24b0c835ae2",
+      "id": "6a135c5b7fd71d84",
       "title": "今週新発売の酢まとめ！『愛知県産新玉ねぎとツナのサラダ』、『手巻寿司　サーモンわさび』など♪",
       "summary": "こんにちは、もぐナビ編集部です！酢の新商品情報をお届けします。今週新発売の#酢ファミリーマート 愛知県産新玉ねぎとツナのサラダ愛知県産の新玉ねぎを使用したサラ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052707/?utm_source=rss&utm_medium=mognavinews_20260528",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052707/?utm_source=rss&utm_medium=mognavinews_20260529",
       "published_at": "2026-05-27T15:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
@@ -1237,6 +1645,18 @@
       "category": "综合",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "f764d24b0c835ae2",
+      "title": "今週新発売の酢まとめ！『愛知県産新玉ねぎとツナのサラダ』、『手巻寿司　サーモンわさび』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！酢の新商品情報をお届けします。今週新発売の#酢ファミリーマート 愛知県産新玉ねぎとツナのサラダ愛知県産の新玉ねぎを使用したサラ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052707/?utm_source=rss&utm_medium=mognavinews_20260528",
+      "published_at": "2026-05-27T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "37875bf0b621276d",
@@ -1272,6 +1692,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "fe978345ddc4d51b",
+      "title": "今週新発売のファミマ麺🍜まとめ！『焼津産鰹節使用　まぜそば』、『冷しちく玉天うどん』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマ麺の新商品情報をお届けします。今週新発売の#ファミマ麺ファミリーマート 焼津産鰹節使用 まぜそば焼津産のかつお節をトッ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026052706/?utm_source=rss&utm_medium=mognavinews_20260529",
+      "published_at": "2026-05-27T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -2319,18 +2751,6 @@
       "language": "en"
     },
     {
-      "id": "e9fa56a441d37b24",
-      "title": "The co-manufacturer’s dilemma: How MattPak learned to say yes to more business",
-      "summary": "Ninety-eight percent uptime, no temp labor, a facility doubling in size. MattPak's automation story.",
-      "url": "https://www.fooddive.com/spons/the-co-manufacturers-dilemma-how-mattpak-learned-to-say-yes-to-more-busin/820203/",
-      "published_at": "2026-05-26T17:00:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
       "id": "c32d0d00d4224ffa",
       "title": "Leading the shift in liquid dietary supplements through science and delivery",
       "summary": "Uroš Gotar, Chief Innovation Officer at TOSLA, explains how scientific validation, flavour engineering, and liquid delivery are shaping the next phase of growth in nutraceuticals",
@@ -2340,6 +2760,18 @@
       "region": "欧洲",
       "category": "功能性食品",
       "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "e9fa56a441d37b24",
+      "title": "The co-manufacturer’s dilemma: How MattPak learned to say yes to more business",
+      "summary": "Ninety-eight percent uptime, no temp labor, a facility doubling in size. MattPak's automation story.",
+      "url": "https://www.fooddive.com/spons/the-co-manufacturers-dilemma-how-mattpak-learned-to-say-yes-to-more-busin/820203/",
+      "published_at": "2026-05-26T17:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
