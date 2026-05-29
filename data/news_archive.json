@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-05-29T19:59:03.013644+08:00",
-  "total": 1907,
+  "last_updated": "2026-05-29T22:22:59.229324+08:00",
+  "total": 1914,
   "articles": [
+    {
+      "id": "29fbc6ce2857c33f",
+      "title": "Can Pizza Hut’s Push into Nostalgia Boost Sales?",
+      "summary": "Pizza Hut is betting on nostalgia to revive traffic as retro décor draws curiosity, but experts say long term gains hinge on consistent food, service and cultural relevance. The brand’s challenge is…",
+      "url": "https://foodinstitute.com/focus/can-pizza-huts-push-into-nostalgia-boost-sales/?utm_source=rss&utm_medium=rss&utm_campaign=can-pizza-huts-push-into-nostalgia-boost-sales",
+      "published_at": "2026-05-29T22:00:31+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8923483266eec42a",
+      "title": "Distribution: Shakeology Partners with KeHE, Adds Sprouts Locations",
+      "summary": "Shakeology, the premium protein mix brand launched by wellness company BODi, has partnered with broadline distributor KeHE and launched into 80 Sprouts Farmers Market locations across the country.",
+      "url": "https://www.bevnet.com/news/2026/distribution-shakeology-partners-with-kehe-adds-sprouts-locations",
+      "published_at": "2026-05-29T21:36:45+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "a39860b88b964293",
+      "title": "Kale Foods buys plant-based brand Färsodlarna",
+      "summary": "Stockholm-based Kale Foods has acquired Swedish plant-based brand Färsodlarna from investment company Novax. The post Kale Foods buys plant-based brand Färsodlarna appeared first on Just Food .",
+      "url": "https://www.just-food.com/news/kale-foods-buys-farsodlarna-brand/",
+      "published_at": "2026-05-29T20:52:25+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "aaca2c493161ac03",
+      "title": "UK fresh produce body argues SPS alignment with EU shifts costs elsewhere",
+      "summary": "The fresh produce sector has accused the UK of shifting the costly burden of SPS border checks onto imports from countries outside of the EU. The post UK fresh produce body argues SPS alignment with…",
+      "url": "https://www.just-food.com/news/uk-fresh-produce-body-argues-sps-alignment-with-eu-shifts-costs-elsewhere/",
+      "published_at": "2026-05-29T20:40:35+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "b57bd29de2799ea7",
+      "title": "Arla-DMK merger to proceed after EU green light",
+      "summary": "Denmark-headquartered Arla Foods and Germany’s DMK Group have secured all required regulatory clearances for their planned merger. The post Arla-DMK merger to proceed after EU green light appeared…",
+      "url": "https://www.just-food.com/news/arla-dmk-merger-approved-by-regulator/",
+      "published_at": "2026-05-29T20:14:05+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "1951aef427f91871",
+      "title": "US trade watchdog to examine Cibo Vita after Welch’s patent complaint",
+      "summary": "The US International Trade Commission has opened an investigation into certain Cibo Vita confectionery imports following a patent complaint. The post US trade watchdog to examine Cibo Vita after…",
+      "url": "https://www.just-food.com/news/cibo-vita-snack-imports-probe/",
+      "published_at": "2026-05-29T19:58:55+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "de7c8e33f56a5daa",
+      "title": "Will the EU press pause on PPWR?",
+      "summary": "Is the EU prepared to slide back on PPWR, a set of packaging laws that have been heralded as world-leading? The post Will the EU press pause on PPWR? appeared first on Just Food .",
+      "url": "https://www.just-food.com/features/will-the-eu-press-pause-on-ppwr/",
+      "published_at": "2026-05-29T19:19:23+08:00",
+      "source": "Just Food",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "28d1e05f643bd84d",
       "title": "今週新発売の醤油味まとめ！『醤油コーンマヨネーズパン』、『長芋わさび醤油仕立て』など♪",
