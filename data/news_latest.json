@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-31T17:58:50.227992+08:00",
+  "last_updated": "2026-05-31T19:08:51.582382+08:00",
   "retention_days": 7,
-  "total": 543,
+  "total": 541,
   "sources": [
     "BevNET",
     "Fab News",
@@ -20,6 +20,18 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "66e0bebede763312",
+      "title": "抹茶やチョコ！ファミマのパンのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマのパン」の最新・注目度ランキングです♪（2026年5月29日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21430/?utm_source=rss&utm_medium=mognavinews_20260531",
+      "published_at": "2026-05-31T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "46af6b9b08f37195",
       "title": "今週新発売の甘辛まとめ！『香ばしさと濃厚な甘辛だれ鮭ハラスの蒲焼き』、『甘辛だれのメンチカツコッペ』など♪",
@@ -6499,42 +6511,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "977cdecfe485cfbb",
-      "title": "ローソンのお弁当のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンのお弁当」の最新・注目度ランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21100/?utm_source=rss&utm_medium=mognavinews_20260526",
-      "published_at": "2026-05-24T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "1d66729d40f64140",
-      "title": "ローソンのお弁当のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンのお弁当」の最新・注目度ランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21100/?utm_source=rss&utm_medium=mognavinews_20260525",
-      "published_at": "2026-05-24T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "c4fd85643039626d",
-      "title": "ローソンのお弁当のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンのお弁当」の最新・注目度ランキングです♪（2026年5月22日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21100/?utm_source=rss&utm_medium=mognavinews_20260524",
-      "published_at": "2026-05-24T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
