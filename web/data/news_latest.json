@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T19:08:51.582382+08:00",
+  "last_updated": "2026-05-31T22:57:42.947610+08:00",
   "retention_days": 7,
   "total": 541,
   "sources": [
@@ -20,6 +20,18 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "cb7abf9df84afe5b",
+      "title": "Sunday Edition: Botulism",
+      "summary": "Homemade food canned or preserved by someone who is incompetent or lacks experience, or education, is the most common source of foodborne botulism.",
+      "url": "https://www.foodsafetynews.com/2026/05/sunday-edition-botulism/",
+      "published_at": "2026-05-31T20:00:48+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "66e0bebede763312",
       "title": "抹茶やチョコ！ファミマのパンのトレンド人気ランキング！",
@@ -6495,18 +6507,6 @@
       "url": "https://www.nosh.com/news/2026/brami-cooks-up-33m-sweets-snacks-expo-special-pringles-x-miller-lite-mk-ii-more",
       "published_at": "2026-05-25T04:30:19+08:00",
       "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "8098a8d4cfd5e4a7",
-      "title": "Sunday Edition: Reflecting",
-      "summary": "Today we revisit some of the topics we’ve covered in the past months.",
-      "url": "https://www.foodsafetynews.com/2026/05/sunday-edition-reflecting/",
-      "published_at": "2026-05-24T20:00:53+08:00",
-      "source": "Food Safety News",
       "region": "北美",
       "category": "综合",
       "level": "A",
