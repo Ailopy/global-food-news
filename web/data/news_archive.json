@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-03T02:25:10.422622+08:00",
-  "total": 2205,
+  "last_updated": "2026-06-03T04:23:13.203236+08:00",
+  "total": 2209,
   "articles": [
+    {
+      "id": "9032b430048699fd",
+      "title": "Newtopia Now",
+      "summary": "",
+      "url": "https://www.newhope.com/events/newtopia-now",
+      "published_at": "2026-08-18T14:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "7959ed6f5ff414d8",
+      "title": "Right Coast’s Italian Ice Heats Up as It Adds New Markets, Expands in Trader Joe’s",
+      "summary": "Right Coast Spirits’ Italian Ice is heating up at Trader Joe's and riding high as in enters its third summer.",
+      "url": "https://www.bevnet.com/spirits/2026/right-coasts-italian-ice-heats-up-as-it-adds-new-markets-expands-in-trader-joes",
+      "published_at": "2026-06-03T02:54:15+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "7ec1e95c73a0593e",
       "title": "Sweets & Snacks Gallery: Katjes Collabs with Jake Shane, 1UP Taps into Candy Salad Trend",
@@ -11,6 +35,18 @@
       "source": "NOSH",
       "region": "北美",
       "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d452398912a86d95",
+      "title": "Unboxed: 10 innovative treats spotted at Sweets &amp; Snacks Expo",
+      "summary": "Discover these new launches featuring elevated flavor profiles, clean ingredient formulations and functional indulgences.",
+      "url": "https://www.newhope.com/natural-product-trends/unboxed-10-innovative-treats-spotted-at-sweets-and-snacks-expo",
+      "published_at": "2026-06-03T02:05:16+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
       "level": "A",
       "language": "en"
     },
@@ -601,6 +637,18 @@
       "category": "综合",
       "level": "B",
       "language": "ja"
+    },
+    {
+      "id": "5ad9997d0b416f56",
+      "title": "FI Fast Break audio news: June 3, 2026",
+      "summary": "In this week's food industry news in 2 minutes, we break down America's growing 'K-shaped economy,' the latest in tariffs news, and more. The post FI Fast Break audio news: June 3, 2026 appeared…",
+      "url": "https://foodinstitute.com/podcast/fi-fast-break-audio-news-june-3-2026-2/?utm_source=rss&utm_medium=rss&utm_campaign=fi-fast-break-audio-news-june-3-2026-2",
+      "published_at": "2026-06-02T12:21:19+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
     },
     {
       "id": "9da79b8452590528",
