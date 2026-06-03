@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T02:38:09.861490+08:00",
-  "total": 2294,
+  "last_updated": "2026-06-04T04:41:06.611414+08:00",
+  "total": 2295,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -12,6 +12,18 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "2dd75b64a560f48b",
+      "title": "Nesté buys rest of ready-to-drink meals brand",
+      "summary": "The purchase of the remaining 51% of yfood Labs comes three years after the food giant’s initial investment, and will give Nestlé a bigger presence in healthier, portable offerings.",
+      "url": "https://www.fooddive.com/news/neste-buys-rest-of-ready-to-drink-meals-brand/821884/",
+      "published_at": "2026-06-04T04:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
