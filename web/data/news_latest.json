@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-04T02:38:09.891871+08:00",
+  "last_updated": "2026-06-04T04:41:06.643791+08:00",
   "retention_days": 7,
-  "total": 545,
+  "total": 543,
   "sources": [
     "BevNET",
     "Fab News",
@@ -30,6 +30,18 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "2dd75b64a560f48b",
+      "title": "Nesté buys rest of ready-to-drink meals brand",
+      "summary": "The purchase of the remaining 51% of yfood Labs comes three years after the food giant’s initial investment, and will give Nestlé a bigger presence in healthier, portable offerings.",
+      "url": "https://www.fooddive.com/news/neste-buys-rest-of-ready-to-drink-meals-brand/821884/",
+      "published_at": "2026-06-04T04:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
@@ -6518,42 +6530,6 @@
       "summary": "Non-alcoholic beverage sales maintained a steady growth curve in the first half of May, as dollar sales rose 2.5% in the 52-week period ending May 16, according to the latest analysis of NielsenIQ…",
       "url": "https://www.bevnet.com/news/2026/energy-drinks-slide-but-non-alc-sales-mostly-steady-in-early-may",
       "published_at": "2026-05-28T05:57:18+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "752b31cff48428aa",
-      "title": "BloxSnacks Brings Protein to Kids Fruit Snacks with Snackmode",
-      "summary": "With the upcoming launch of its Snackmode protein fruit snack line, kid-focused snack brand BloxSnacks is betting that protein will help define the next generation of better-for-you lunchbox treats.",
-      "url": "https://www.nosh.com/news/2026/bloxsnacks-brings-protein-to-kids-fruit-snacks-with-snackmode",
-      "published_at": "2026-05-28T04:12:08+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "5d99454091febbb1",
-      "title": "BevNET Live NYC is Just Two Weeks Away!",
-      "summary": "BevNET Live NYC is just two weeks away, and with more than 500 beverage industry professionals already registered for June 10+11, registrations are ramping up fast. Don’t wait to get a direct line to…",
-      "url": "https://www.bevnet.com/events/bevnetlive",
-      "published_at": "2026-05-28T03:15:17+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "47445cdb14f5f27c",
-      "title": "Marketing: Pepsi, Electrolit Celebrate Summer of Soccer",
-      "summary": "Pepsi and Electrolit are embracing the summer of soccer with new campaigns launching in partnership with national team players.",
-      "url": "https://www.bevnet.com/news/2026/marketing-pepsi-electrolit-celebrate-summer-of-soccer",
-      "published_at": "2026-05-28T02:58:00+08:00",
       "source": "BevNET",
       "region": "北美",
       "category": "饮料",
