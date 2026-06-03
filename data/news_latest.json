@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-04T02:08:36.983576+08:00",
+  "last_updated": "2026-06-04T02:38:09.891871+08:00",
   "retention_days": 7,
-  "total": 525,
+  "total": 545,
   "sources": [
     "BevNET",
     "Fab News",
@@ -273,6 +273,18 @@
       "language": "en"
     },
     {
+      "id": "79ec9c5ea6a9fa98",
+      "title": "限定モノが気になる！ファミマホットスナックのトレンド人気ランキング",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマホットスナック」の最新・注目度ランキングです♪（2026年5月29日更新）食品クチコミサイト「もぐナビ」に投稿…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21595/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5ea7e0057be00ad0",
       "title": "Wilmar forms agri-food JV with TGI Group",
       "summary": "Wilmar has agreed to form a JV with TGI Group, combining their operating businesses in Nigeria and the Republic of Benin. The post Wilmar forms agri-food JV with TGI Group appeared first on Just Food…",
@@ -291,6 +303,18 @@
       "url": "https://shokuhin.net/145950/2026/06/03/sonota/event/",
       "published_at": "2026-06-03T17:42:16+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e7442fad7897bcd1",
+      "title": "今週新発売の食パン・ロールパンまとめ！『宇治抹茶あんトースト』、『湯捏ね仕立てのカンパーニュ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。今週新発売の食パン・ロールパンリョーユーパン 宇治抹茶あんトースト 袋6枚宇治抹…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060308/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T17:30:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -345,6 +369,30 @@
       "language": "ja"
     },
     {
+      "id": "1e8c8aa5f84c925b",
+      "title": "【2026年6月第1週】コンビニドリンク・コンビニカップ飲料の新商品！ピンクグレープフルーツのスクイーズやライチジャスミンティーなどまとめ",
+      "summary": "2026年6月第1週は、ファミリーマートとローソンから個性豊かなドリンクが一斉に登場します。さわやかなフルーツ系から、ほっこり和テイスト、コーヒーの定番シリー…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21568/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T15:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "aa1649e62a2e29f4",
+      "title": "今週新発売の菓子パン🍫まとめ！『レーズン＆くるみ』、『プリキュアキャラメルメロンパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンタカキベーカリー レーズン＆くるみ 4枚入り包材デザインリニューアル！…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060307/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "684f07027f4d7644",
       "title": "果実氷シリーズ初!「ハロハロ 果実氷ゴールデンキウイ」発売【ミニストップ】",
       "summary": "ミニストップは、2017年に販売開始したハロハロ果実氷シリーズから、史上初となるゴールデンキウイを使った「ハロハロ 果実氷ゴールデンキウイ」を発売する。2026年6月5日から、国内のミニストップ店舗(2026年4月末現在...",
@@ -381,6 +429,18 @@
       "language": "ja"
     },
     {
+      "id": "a6faf035edf24528",
+      "title": "【2026年6月第1週】コンビニスイーツの新商品！盛りすぎロールケーキやとろけるコーヒーゼリーなどまとめ",
+      "summary": "6月最初の週、コンビニスイーツ売り場に注目の新商品が続々と登場します。ローソンのUchi Caféシリーズからもセブン-イレブンからも、この時期ならではのライ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21567/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T14:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "7256400a20e1bddb",
       "title": "【和食麺処サガミ】旬の国産フレッシュメロンデザート販売開始、国産メロン1/4サイズを使ったアイスなど",
       "summary": "和食麺処サガミは、2026年6月17日から、季節限定デザートとして『旬の国産フレッシュメロンデザート』を販売する。 旬を迎える国産メロンを使い、清涼感あふれる多彩なデザートメニューをラインアップした。その時期に最も美味し...",
@@ -390,6 +450,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "d554eac1edcea135",
+      "title": "今週新発売の菓子パン🍫まとめ！『ポケモンミニ蒸しケーキ　バナナ　鉄分入り』、『ポケモンボールドーナツ　メープル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パン第一パン ポケモンミニ蒸しケーキ バナナ 鉄分入り鉄分を加えたバナナ味…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060306/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -435,6 +507,18 @@
       "url": "https://shokuhin.net/145916/2026/06/03/%e8%be%b2%e6%b0%b4%e7%95%9c%e7%94%a3%e6%a5%ad/shokuniku/%e9%a3%9f%e8%82%89%e5%8a%a0%e5%b7%a5%e5%93%81/",
       "published_at": "2026-06-03T12:46:33+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9dc1cd65e7a9cc8f",
+      "title": "今週新発売の菓子パン🍫まとめ！『たっぷりアップルデニッシュ』、『たっぷりつぶあんデニッシュ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンYKベーキング たっぷりアップルデニッシュ 2個入デニッシュ生地にりん…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060305/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T12:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -513,6 +597,42 @@
       "language": "en"
     },
     {
+      "id": "ea05babc74e38052",
+      "title": "【2026年6月第1週】コンビニ惣菜の新商品！鶏の炭火焼や柚子こしょう、じゃがバター＆ソーセージなど夏にうれしい惣菜まとめ",
+      "summary": "5月最終週から6月第1週にかけて、コンビニ惣菜コーナーに気になる新商品が続々と登場しています。セブン-イレブンを中心に、サラダや副菜から炭火焼き・水餃子まで幅…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21566/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T11:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5a05704a5c7424bc",
+      "title": "今週新発売の菓子パン🍫まとめ！『丹念熟成愛媛いよかん』、『瀬戸内レモンクリームコロネ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンYKベーキング 丹念熟成愛媛いよかんしっとりやわらかい生地に、愛媛産い…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060304/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "15713cee88974062",
+      "title": "【2026年6月第1週】コンビニスープ・コンビニ味噌汁の新商品！千とせ本店監修の肉吸いやミネストローネなど続々まとめ",
+      "summary": "6月に入り、コンビニのスープ・汁物コーナーに気になる新顔が続々と登場しました。野菜たっぷりのミネストローネから、夏野菜を使ったみそ汁、ごはん入りのスープまで、…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21565/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T11:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "b272bbdd5b6436f1",
       "title": "セブン‐イレブン スムージー販促強化 6月10日限定で全品半額",
       "summary": "セブン‐イレブン・ジャパンは6月10日の「スムージーの日」に合わせ、「セブンカフェ スムージー」の販促キャンペーンを実施する。 6月10日限定で全品を半額で販売するほか、6月10日から30日まで、セブン‐イレブンア […] ソース",
@@ -585,6 +705,30 @@
       "language": "ja"
     },
     {
+      "id": "bc6e1ea6df83f493",
+      "title": "【2026年6月第1週】コンビニ麺・コンビニパスタの新商品！千とせ本店監修の浪花の肉うどんや冷しうどん、海老ペペロンチーノなどまとめ",
+      "summary": "コンビニ各社から、今週も麺・パスタジャンルの新商品が続々と登場しました。冷たい麺が涼しげなラインナップを引っ張りつつ、温かいうどんや焼そばも顔を見せ、食べ応え…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21564/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "129e0fb207d3f300",
+      "title": "今週新発売の菓子パン🍫まとめ！『ドーナツステーション　ダブルサンドドーナツ　チョコクリーム＆　ホイップ』、『イバラキングメロンジャム＆ホイップとクインシーメロンジャム＆ホイップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンヤマザキ ドーナツステーション ダブルサンドドーナツ チョコクリーム＆…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060303/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "7162f6ea0364c7a3",
       "title": "ローソン アイス・冷凍果実強化 果実高騰で代替需要取り込む",
       "summary": "ローソンは今夏、果汁・果肉を使用した氷菓や冷凍フルーツを強化する。5月26日から順次、アイス・氷菓など計14品を発売。果実価格高騰が続く中、「フルーツ代替需要」の取り込みを狙う。 東京都中央卸売市場によると、2025 […] ソース",
@@ -645,6 +789,18 @@
       "language": "ja"
     },
     {
+      "id": "5139eb9b9906ff9e",
+      "title": "【2026年6月第1週】コンビニサンドイッチ・コンビニパンの新商品！揚げたてカレーパンやクロワッサンサンドなどまとめ",
+      "summary": "今週のコンビニ・ベーカリーには、揚げたてのカレーパンからボリューム満点のサンドイッチまで、バラエティ豊かな新商品が登場しました。セブン-イレブン・ローソン・デ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21563/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T10:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5fc0cc6c7215812c",
       "title": "コメダ珈琲店「2026年サマーバッグ」予約開始　コーヒーチケット付き、保冷ポーチ初登場",
       "summary": "株式会社コメダは6月10日から、全国の「コメダ珈琲店」で「2026年サマーバッグ」の予約受付を開始する。価格は店舗によって異なり、5,200円、5,500円、5,800円、6,300円（各税込）。 毎年恒例となっているセ...",
@@ -669,6 +825,18 @@
       "language": "ja"
     },
     {
+      "id": "2b53544c7ef9a53d",
+      "title": "【2026年5月第5週】レトルトカレーランキング1位は宮城製粉の角煮カレー！久しぶりランクインも要注目まとめ",
+      "summary": "2026年5月第5週のレトルトカレーランキングが出そろいました。定番の人気商品から、久しぶりにランクインした注目作まで、今週もバラエティ豊かなラインナップとな…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21422/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5c113590b9178748",
       "title": "酒場に“赤星”あり 「サッポロラガービール」 瓶の魅力に再評価 吉祥寺で飲み歩きイベント",
       "summary": "“赤星”の愛称で酒場を中心に親しまれる瓶ビール「サッポロラガービール」。変わらない良さで新たなファンを惹きつけ、この10年で出荷数量は3.5倍。市場を大きく上回る異次元の成長を果たした。 「現存する、日本で最も歴史あ […] ソース",
@@ -681,12 +849,48 @@
       "language": "ja"
     },
     {
+      "id": "8fe871cbdb2cf898",
+      "title": "【2026年6月第1週】コンビニ寿司・コンビニ弁当の新商品！増量弁当やスパイスカレーなどまとめ",
+      "summary": "6月に入り、コンビニ各社から気になる新商品が一斉に登場しました。ボリュームアップした弁当やどんぶり、地域限定の個性派メニューなど、今週も幅広いラインナップが揃…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21562/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "380d16502d6d89c4",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『チャーハン赤ウインナー弁当』、『ぴょんぴょん舎監修　五穀入りビビンパおにぎり』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ローソン チャーハン赤ウインナー弁…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060302/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "728cbb6af611aaa4",
       "title": "世界No.1リモンチェッロ「パリーニ」 六本木でイタリアンフェスに初出展、試飲・販売も 6日から2日間",
       "summary": "販売量世界No.1の南イタリア産リモンチェッロ「パリーニ」。輸入販売を行う業務用酒類卸の榎本酒類では、この週末に東京・六本木の六本木ヒルズで開催される日本最大級のイタリアンフェスティバル「Italia,amoremio […] ソース",
       "url": "https://shokuhin.net/145928/2026/06/03/mimi/",
       "published_at": "2026-06-03T09:41:58+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "2ee053a2c05f9ccb",
+      "title": "【2026年6月第1週】コンビニおにぎり・コンビニ手巻寿司の新商品！海老マヨ手巻きや増量おにぎりなどまとめ",
+      "summary": "今週のコンビニおにぎり・手巻寿司コーナーには、定番の味から個性派まで、バラエティ豊かな新商品が登場しています。6月2日発売のラインナップは全部で10品。ぜひチ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-21529/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T09:15:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -714,6 +918,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "a22fdfd699b2b5f4",
+      "title": "【2026年5月第5週】ヨーグルトランキング1位は小岩井 生乳100％！ブルーベリー＆パインが急上昇まとめ",
+      "summary": "2026年5月第5週のヨーグルトランキングが出揃いました。定番の生乳系から飲むヨーグルト、プロテイン系まで、バラエティ豊かな顔ぶれが勢ぞろいです。今週はどんな…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21421/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -762,6 +978,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "e5ba2aefd6e3b0ca",
+      "title": "今週新発売の菓子パン🍫まとめ！『果実楽しむレーズン＆クランベリー』、『やわらか北海道ミルクロール』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンYKベーキング 果実楽しむレーズン＆クランベリーミルククリームを使用し…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060301/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-03T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -1074,6 +1302,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "c0a3c0bd30844ea4",
+      "title": "ファミマドリンクのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマドリンク」の最新・注目度ランキングです♪（2026年5月29日更新）食品クチコミサイト「もぐナビ」に投稿された…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21496/?utm_source=rss&utm_medium=mognavinews_20260604",
+      "published_at": "2026-06-02T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
