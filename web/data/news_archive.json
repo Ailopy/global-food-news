@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T19:36:28.471013+08:00",
-  "total": 2335,
+  "last_updated": "2026-06-04T22:16:06.279564+08:00",
+  "total": 2339,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -13,6 +13,54 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "312aeb4552e44dd7",
+      "title": "How 3 major food and beverage execs view the state of c-stores",
+      "summary": "Leaders from brands like PepsiCo and Athletic Brewing discussed growth opportunities and key challenges in convenience retail at the Wall Street Journal’s Global Food Forum.",
+      "url": "https://www.fooddive.com/news/c-stores-are-a-key-growth-channel-for-food-and-beverage-brands-but-not-an/821980/",
+      "published_at": "2026-06-04T21:55:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "206f75717a1ee022",
+      "title": "Long Weekend Bets Freeze-Dried Soup Can Revive Stagnant Set",
+      "summary": "Long Weekend is modernizing instant soup using freeze-dried technology as it positions itself as a better-for-you convenient meal option.",
+      "url": "https://www.nosh.com/news/2026/long-weekend-bets-freeze-dried-soup-can-revive-stagnant-set",
+      "published_at": "2026-06-04T21:47:55+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "27c60c8bd927bb87",
+      "title": "Sazerac enters Tennessee whiskey space with AJ Bond",
+      "summary": "The Buffalo Trace owner will release an inaugural spirit for the brand, marking a departure from its recent acquisition blitz.",
+      "url": "https://www.fooddive.com/news/sazerac-enters-tennessee-whiskey-aj-bond/821952/",
+      "published_at": "2026-06-04T21:22:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "d2c801a3e058fa5c",
+      "title": "伊藤園、緑茶原料高騰を受け構造改革加速 茶産地連携を強化、海外「お～いお茶」拡大へ",
+      "summary": "伊藤園は、緑茶原料価格の高騰を受け、国内事業の構造改革と茶産地との連携強化を進める。2026年4月期連結決算は、売上高が前年比5.3%増の4978億7700万円となり、2期連続で過去最高を更新した。一方、営業利益は5.6...",
+      "url": "https://www.ssnp.co.jp/beverage/687623/",
+      "published_at": "2026-06-04T20:23:48+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "0bdf16a297767a57",
