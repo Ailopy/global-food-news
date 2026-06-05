@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T19:51:12.672743+08:00",
-  "total": 2435,
+  "last_updated": "2026-06-05T22:07:22.684006+08:00",
+  "total": 2437,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -12,6 +12,30 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "441517547da7831e",
+      "title": "Snickers wins praise from Reeses for bigger push behind peanut butter",
+      "summary": "A spot digging at Reese’s shows a focus group composed of people named Reese who assess the flavor and texture of Snickers Peanut Butter.",
+      "url": "https://www.fooddive.com/news/snickers-wins-praise-from-reeses-for-bigger-push-behind-peanut-butter/822080/",
+      "published_at": "2026-06-05T21:45:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "528f87093a12e527",
+      "title": "Popeyes launches at-home biscuits | Tom Holland’s Bero expands into shandies",
+      "summary": "The fried chicken chain is making its first entry into the grocery aisle, while Cuervo Tequila cracks into ready-to-drink canned cocktails.",
+      "url": "https://www.fooddive.com/news/popeyes-retail-biscuits-tom-holland-bero-shandy-jose-cuervo-tequila-canned-cocktails/822107/",
+      "published_at": "2026-06-05T21:34:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
