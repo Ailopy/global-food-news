@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T22:07:22.684006+08:00",
-  "total": 2437,
+  "last_updated": "2026-06-06T01:24:24.133920+08:00",
+  "total": 2465,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -12,6 +12,102 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "21cf107c756721fa",
+      "title": "Spirits Distribution: Punch Club Lands at Total Wine; Oishii Signs With SGWS",
+      "summary": "This month's distribution moves see a sake ready-to-drink (RTD) brand make a landmark leap into the country's largest distribution network, a European cocktail company make its U.S. debut through…",
+      "url": "https://www.bevnet.com/spirits/2026/spirits-distribution-punch-club-lands-at-total-wine-oishii-signs-with-sgws",
+      "published_at": "2026-06-06T00:50:49+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "f3ca59ee6d596fe1",
+      "title": "New Beverages: Nurri Launches Shake For Kids; New From Saratoga, Slice, Starbucks",
+      "summary": "Summer drops from C4 and Slice highlight this week's new products gallery, which also see fast-rising Nurri launch a ultra-filtered milk shake for kids exclusively at Sam's Club.",
+      "url": "https://www.bevnet.com/news/2026/new-beverages-nurri-launches-shake-for-kids-new-from-saratoga-slice-starbucks",
+      "published_at": "2026-06-06T00:26:41+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8b81cd273c531f29",
+      "title": "New Products: Back To Nature Gets Cheezy; Boar’s Head Adds Pickle Snacks",
+      "summary": "In this week’s notable new products roundup, Back to Nature expands its Cheezy Crackers lineup, Boar’s Head hops on the pickle craze, and Belgian Boys kicks off soccer season.",
+      "url": "https://www.nosh.com/news/2026/new-products-back-to-nature-gets-cheezy-boars-head-adds-pickle-snacks",
+      "published_at": "2026-06-06T00:11:05+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "dabf45ba2ee3dc67",
+      "title": "Taste Radio: David’s Decadent Bet, AI Discovery & Austin’s Top Operators",
+      "summary": "Can protein be a decadent dessert? David is betting on it. We dig into the brand's new frozen desserts, unpack Smash Foods' $5 million funding round, examine how AI is changing the path to purchase…",
+      "url": "https://www.bevnet.com/news/2026/taste-radio-davids-decadent-bet-ai-discovery-austins-top-operators",
+      "published_at": "2026-06-05T23:46:42+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "2e4ab961d6867701",
+      "title": "Meat Snack Makers Cash In on America’s Protein Fix",
+      "summary": "Jerky and meat sticks have emerged as one of the fastest-growing segments in center store, fueled by consumers' increasing focus on protein, convenience and portion-controlled eating.",
+      "url": "https://www.nosh.com/news/2026/meat-snack-makers-cash-in-on-americas-protein-fix",
+      "published_at": "2026-06-05T23:41:07+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "e47cfcb4b559777b",
+      "title": "The Natural List: Sponsor Soundbyte with Bimbo Bakeries USA",
+      "summary": "Listen in as Nancy Coulter-Parker talks with Alicia Rosas, VP healthy products portfolio for North America, and Chris Wolfe, senior director of environmental and sustainability, about Bimbo Bakeries…",
+      "url": "https://www.newhope.com/retailers/the-natural-list-sponsor-soundbyte-with-bimbo-bakeries-usa",
+      "published_at": "2026-06-05T23:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "886b2dc571ff0180",
+      "title": "675+ Registered for BevNET Live NYC! Register Before We Sell Out",
+      "summary": "On June 10+11, more than 675 founders, operators, retailers, investors, suppliers and service providers will head to BevNET Live in NYC for two days of networking and industry insights. There isn't…",
+      "url": "https://www.bevnet.com/events/bevnetlive",
+      "published_at": "2026-06-05T22:40:55+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "a601b05ba6fa5961",
+      "title": "Celsius under investigation for marketing high-caffeine drinks to minors",
+      "summary": "Texas AG Ken Paxton’s review marks his latest crusade against a big CPG firm after previously targeting WK Kellogg, General Mills and Mars.",
+      "url": "https://www.fooddive.com/news/texas-ag-investigates-celsius-for-marketing-high-caffeine-energy-drinks-to/822047/",
+      "published_at": "2026-06-05T22:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
@@ -48,6 +144,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "10796e8c8cc65334",
+      "title": "今週新発売の惣菜パンまとめ！『マヨ好きのツナマヨパン』、『オニオン明太ポテトマヨパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンYKベーキング マヨ好きのツナマヨパンしっとりとした生地でツナサラダを…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060508/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -129,6 +237,18 @@
       "url": "https://shokuhin.net/146022/2026/06/05/topnews/",
       "published_at": "2026-06-05T15:00:55+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "851e3c1ef728dd32",
+      "title": "今週新発売の惣菜パンまとめ！『博多明太パン』、『照焼きチキン＆ポテト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンリョーユーパン 博多明太パン 袋1個博多明太フィリングとマヨネーズタイ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060507/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T15:00:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -255,6 +375,18 @@
       "language": "ja"
     },
     {
+      "id": "afd8087949c03bed",
+      "title": "今週新発売の惣菜パンまとめ！『スパイシーキーマの黒カレーパン』、『塩チーズクロワッサン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パン木村屋 スパイシーキーマの黒カレーパン 袋1個ほんのりスパイシーな黄色…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060506/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "f5bf51aad973d199",
       "title": "今週新発売の惣菜パンまとめ！『スパイシーキーマの黒カレーパン』、『塩チーズクロワッサン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パン木村屋 スパイシーキーマの黒カレーパン 袋1個ほんのりスパイシーな黄色…",
@@ -279,6 +411,18 @@
       "language": "en"
     },
     {
+      "id": "82ba6a690295ab5d",
+      "title": "【2026年6月第1週】コンビニドーナツランキング1位は抹茶のクロワッサンドーナツ！新商品・急上昇商品まとめ",
+      "summary": "今週のコンビニドーナツランキング、いよいよ発表です！抹茶スイーツが気になる季節、新商品も顔を出しながら、定番の実力派がしっかりと上位に食い込む結果となりました…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21696/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "0d67c9e18b81a84e",
       "title": "【2026年6月第1週】コンビニドーナツランキング1位は抹茶のクロワッサンドーナツ！新商品・急上昇商品まとめ",
       "summary": "今週のコンビニドーナツランキング、いよいよ発表です！抹茶スイーツが気になる季節、新商品も顔を出しながら、定番の実力派がしっかりと上位に食い込む結果となりました…",
@@ -301,6 +445,18 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "0d12748f988b03ed",
+      "title": "今週新発売の菓子パン🍫まとめ！『三角はちみつレモン蒸しケーキ』、『サークルクロワッサン　粒あんマーガリン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン 三角はちみつレモン蒸しケーキ 1個はちみつとレモン風味…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060505/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "f1d96cd84b919c77",
@@ -459,6 +615,18 @@
       "language": "en"
     },
     {
+      "id": "999f67d6042748ed",
+      "title": "【2026年6月第1週】コンビニコーヒーランキング1位はローソン チョコレートモカフラッペ！ファミマ新作フラッペ続々登場まとめ",
+      "summary": "2026年6月第1週のコンビニコーヒーランキングが出そろいました。フラッペ系がずらりと上位を占め、初夏の訪れを感じさせる顔ぶれです。定番のホットコーヒーもしっ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21695/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "c1eae727716f3970",
       "title": "【2026年6月第1週】コンビニコーヒーランキング1位はローソン チョコレートモカフラッペ！ファミマ新作フラッペ続々登場まとめ",
       "summary": "2026年6月第1週のコンビニコーヒーランキングが出そろいました。フラッペ系がずらりと上位を占め、初夏の訪れを感じさせる顔ぶれです。定番のホットコーヒーもしっ…",
@@ -507,6 +675,18 @@
       "language": "ja"
     },
     {
+      "id": "17f5495630b099e2",
+      "title": "今週新発売の菓子パン🍫まとめ！『こだわりの銀チョコ』、『もちもちリング　チョコとクランチ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン こだわりの銀チョコ 袋1個北海道練乳を使用したフィリン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060504/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e7d3d514b3bfacdf",
       "title": "今週新発売の菓子パン🍫まとめ！『こだわりの銀チョコ』、『もちもちリング　チョコとクランチ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン こだわりの銀チョコ 袋1個北海道練乳を使用したフィリン…",
@@ -543,6 +723,18 @@
       "language": "ja"
     },
     {
+      "id": "a09de5c787576de9",
+      "title": "【2026年6月第1週】コンビニドリンク・コンビニカップ飲料ランキング1位はミルクたっぷり キャラメルラテ！夏の白桃・マンゴー系ドリンク急上昇まとめ",
+      "summary": "今週もコンビニドリンクのランキングを発表します！ローソンやファミリーマート、セブン-イレブンから個性豊かなドリンクがずらりと揃い、見ているだけで飲みたくなって…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21694/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "98056ee36ce955fa",
       "title": "【2026年6月第1週】コンビニドリンク・コンビニカップ飲料ランキング1位はミルクたっぷり キャラメルラテ！夏の白桃・マンゴー系ドリンク急上昇まとめ",
       "summary": "今週もコンビニドリンクのランキングを発表します！ローソンやファミリーマート、セブン-イレブンから個性豊かなドリンクがずらりと揃い、見ているだけで飲みたくなって…",
@@ -573,6 +765,18 @@
       "url": "https://shokuhin.net/146077/2026/06/05/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
       "published_at": "2026-06-05T10:51:23+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "fca0b6e180144578",
+      "title": "今週新発売の菓子パン🍫まとめ！『クッキー生地をかぶせた塩パン』、『こだわりのヤキリンゴ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン クッキー生地をかぶせた塩パン 袋2個塩入りのチップ状マ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060503/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T10:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -675,11 +879,35 @@
       "language": "ja"
     },
     {
+      "id": "236d11d765667be7",
+      "title": "【2026年6月第1週】コンビニホットスナックランキング1位はささみ揚げ梅しそ！増量・定番が熱い注目まとめ",
+      "summary": "コンビニのホットスナックコーナーから目が離せない季節がやってきました。2026年6月第1週のランキングは、定番の王者から期間限定の話題作まで、食欲をそそる顔ぶ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21662/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "74f1b0b296b8507d",
       "title": "【2026年6月第1週】コンビニホットスナックランキング1位はささみ揚げ梅しそ！増量・定番が熱い注目まとめ",
       "summary": "コンビニのホットスナックコーナーから目が離せない季節がやってきました。2026年6月第1週のランキングは、定番の王者から期間限定の話題作まで、食欲をそそる顔ぶ…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21662/?utm_source=rss&utm_medium=mognavinews_20260605",
       "published_at": "2026-06-05T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "75d21f25419d9d8e",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『旨辛コチュジャンサムギョプサル　もち麦』、『蒸し野菜と豚しゃぶのサラダごはん』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン 旨辛コチュジャン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060502/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T09:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -708,6 +936,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "9a5c0dd446362a74",
+      "title": "【2026年6月第1週】コンビニスイーツランキング1位はふわっと生どら焼！抹茶新商品続々登場まとめ",
+      "summary": "2026年6月第1週のコンビニスイーツランキングが出そろいました。抹茶スイーツの充実ぶりが目を引く今週、フルーツ系・チーズ系・和スイーツ系と多彩なラインナップ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21661/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -793,6 +1033,18 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "b43c66ff844cb505",
+      "title": "今週新発売の菓子パン🍫まとめ！『珈琲あんぱん』、『カスタードメロンパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パン木村屋 珈琲あんぱん 袋1個芳醇な香りと深みのある味わいにほんのりミル…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060501/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "44d59437b2a2b6be",
@@ -987,6 +1239,18 @@
       "language": "ja"
     },
     {
+      "id": "6d6390e58227d1cb",
+      "title": "冷製が充実♪ファミマ麺のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマ麺」の最新・注目度ランキングです♪（2026年5月29日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21628/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-04T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "019af62b5b528758",
       "title": "冷製が充実♪ファミマ麺のトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマ麺」の最新・注目度ランキングです♪（2026年5月29日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
@@ -1011,6 +1275,18 @@
       "language": "ja"
     },
     {
+      "id": "7445066a034cc1bc",
+      "title": "今週新発売の惣菜パンまとめ！『ハムマヨネーズぱん』、『塩パン　ハムマヨネーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンヤマザキ ハムマヨネーズぱん 袋1個ふんわりとした生地にハムマヨネーズ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060408/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-04T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e06efc2e79fe5182",
       "title": "今週新発売の惣菜パンまとめ！『ハムマヨネーズぱん』、『塩パン　ハムマヨネーズ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンヤマザキ ハムマヨネーズぱん 袋1個ふんわりとした生地にハムマヨネーズ…",
@@ -1028,6 +1304,18 @@
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンヤマザキ ハムマヨネーズぱん 袋1個ふんわりとした生地にハムマヨネーズ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060408/?utm_source=rss&utm_medium=mognavinews_20260604",
       "published_at": "2026-06-04T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d8e00126a8a8d37b",
+      "title": "セブンがあの人気キャラとコラボ！　“ふわぁ～”とおいしい夢心地！：今週のコンビニスイーツランキング",
+      "summary": "週間コンビニスイーツランキングTOP3：2026年6月第1週今週もやってまいりました。2026年6月第1週、コンビニスイーツランキングのコーナーです。それでは…",
+      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182358/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-04T17:00:50+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -1119,6 +1407,18 @@
       "language": "en"
     },
     {
+      "id": "9195d3b9926d577e",
+      "title": "今週新発売の惣菜パンまとめ！『２色パン　カレー＆たまご』、『ハムカツとスクランブルエッグ風』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンヤマザキ 2色パン カレー＆たまご 袋1個カレーとたまごフィリング、２…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060407/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-04T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e9b3b7f442e26ae0",
       "title": "Magtein joins Arnold's Pump Club Hometown Event to champion science-led cognitive health",
       "summary": "The magnesium L-threonate ingredient, backed by five RCTs, takes its brain health message to Schwarzenegger's birthplace in Thal, Austria, on 14 June as part of its global Pump Club partnership",
@@ -1203,6 +1503,18 @@
       "language": "ja"
     },
     {
+      "id": "2b15b1879ffa8750",
+      "title": "今週新発売の惣菜パンまとめ！『よこすか海軍カレーパン』、『チーズカレーパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンヤマザキ よこすか海軍カレーパン 袋1個明治時代の「海軍割烹術参考書」…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060406/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-04T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "ab8d10ca8d2882b3",
       "title": "今週新発売の惣菜パンまとめ！『よこすか海軍カレーパン』、『チーズカレーパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンヤマザキ よこすか海軍カレーパン 袋1個明治時代の「海軍割烹術参考書」…",
@@ -1249,6 +1561,18 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "3b0573cd32ff4301",
+      "title": "今週新発売の惣菜パンまとめ！『ミニまるごとソーセージ』、『喫茶店風アラビアータピザトースト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンヤマザキ ミニまるごとソーセージ 袋4個「まるごとソーセージ」の味のミ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060405/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-04T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "9ed247a338ba3111",
@@ -1380,6 +1704,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "a73a4104a079a09f",
+      "title": "今週新発売の食パン・ロールパンまとめ！『デニッシュブレッドスイート』、『レーズンブレッド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。今週新発売の食パン・ロールパンタカキベーカリー デニッシュブレッドスイート 3枚…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060404/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-04T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -8367,10 +8703,10 @@
       "language": "en"
     },
     {
-      "id": "75e72fac6981df2d",
-      "title": "Editor's Take: Practitioner channel navigates omnichannel credibility",
-      "summary": "Learn more about a seismic shift in the practitioner channel as legacy brands navigate the tension between omnichannel growth and practitioner credibility.",
-      "url": "https://www.newhope.com/market-data-and-analysis/editors-take-practitioner-channel-grows-despite-omnichannel-tensions",
+      "id": "4373cd742fc8b1ad",
+      "title": "The Natural List: Breaking down the $75B supplement industry",
+      "summary": "Bill Giebler, NBJ's content and insights director, joins The Natural List host Adrienne Smith to share a free preview of the highly anticipated Supplement Business Report.",
+      "url": "https://www.newhope.com/industry-insights/the-natural-list-breaking-down-75-billion-dollar-supplement-industry",
       "published_at": "2026-05-27T22:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
@@ -8379,10 +8715,10 @@
       "language": "en"
     },
     {
-      "id": "4373cd742fc8b1ad",
-      "title": "The Natural List: Breaking down the $75B supplement industry",
-      "summary": "Bill Giebler, NBJ's content and insights director, joins The Natural List host Adrienne Smith to share a free preview of the highly anticipated Supplement Business Report.",
-      "url": "https://www.newhope.com/industry-insights/the-natural-list-breaking-down-75-billion-dollar-supplement-industry",
+      "id": "75e72fac6981df2d",
+      "title": "Editor's Take: Practitioner channel navigates omnichannel credibility",
+      "summary": "Learn more about a seismic shift in the practitioner channel as legacy brands navigate the tension between omnichannel growth and practitioner credibility.",
+      "url": "https://www.newhope.com/market-data-and-analysis/editors-take-practitioner-channel-grows-despite-omnichannel-tensions",
       "published_at": "2026-05-27T22:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
