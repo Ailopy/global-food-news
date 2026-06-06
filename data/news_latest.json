@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-06T17:13:33.136675+08:00",
+  "last_updated": "2026-06-06T18:58:52.034948+08:00",
   "retention_days": 7,
-  "total": 499,
+  "total": 497,
   "sources": [
     "BevNET",
     "Fab News",
@@ -30,6 +30,18 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "936fe2220a2b4d3a",
+      "title": "今週新発売の濃厚な食べものまとめ！『レモン香る　レアチーズケーキ』、『ギリシャヨーグルト　パルテノ　マンゴー＆パインソース入』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚セブン-イレブン レモン香る レアチーズケーキ濃厚なレアチーズケーキに、レモ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060608/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-06T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "4c22ff6a0495f846",
@@ -5965,42 +5977,6 @@
       "summary": "キリンビバレッジは5月25日、アパホテル＆リゾート横浜ベイタワー（神奈川県横浜市）で法人企業向け熱中症対策セミナーを実施してCSV経営を推し進める。 熱中症対策セミナーはアパホテルとしては初の試み。キリンビバレッジと […] ソース",
       "url": "https://shokuhin.net/145687/2026/05/30/inryou/inryou-inryou/",
       "published_at": "2026-05-30T20:36:35+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "6f0aad4aad18c5ec",
-      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　Ｗ北海道牛乳』、『スナックサンド　コーヒーミルク味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パンフジパン スナックサンド W北海道牛乳 袋2個北海道牛乳を使用したクリ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026053008/?utm_source=rss&utm_medium=mognavinews_20260531",
-      "published_at": "2026-05-30T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "9d423a9d8dae1690",
-      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　Ｗ北海道牛乳』、『スナックサンド　コーヒーミルク味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パンフジパン スナックサンド W北海道牛乳 袋2個北海道牛乳を使用したクリ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026053008/?utm_source=rss&utm_medium=mognavinews_20260530",
-      "published_at": "2026-05-30T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "c097088c08384933",
-      "title": "ファミマ起点に広がるLGBTQ理解促進の輪　コカ・コーラボトラーズジャパンら3社にキリンビールとブルックリン・ブルワリーが参画",
-      "summary": "ファミリーマートは、性の多様性やLGBTQなどを意味する6色のレインボーカラーのパッケージの商品や販促物を展開する「We are “Rainbow”」キャンペーンを開始し、企業間の垣根を越えてLGBTQへの理解促進の輪 […] ソース",
-      "url": "https://shokuhin.net/145682/2026/05/30/nocategory/",
-      "published_at": "2026-05-30T17:19:55+08:00",
       "source": "食品新聞",
       "region": "日本",
       "category": "综合",
