@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-06T18:58:52.034948+08:00",
+  "last_updated": "2026-06-06T20:58:44.178369+08:00",
   "retention_days": 7,
-  "total": 497,
+  "total": 494,
   "sources": [
     "BevNET",
     "Fab News",
@@ -512,6 +512,18 @@
       "language": "ja"
     },
     {
+      "id": "851e3c1ef728dd32",
+      "title": "今週新発売の惣菜パンまとめ！『博多明太パン』、『照焼きチキン＆ポテト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンリョーユーパン 博多明太パン 袋1個博多明太フィリングとマヨネーズタイ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060507/?utm_source=rss&utm_medium=mognavinews_20260606",
+      "published_at": "2026-06-05T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "d67ad2fab1573895",
       "title": "Can a sun-free tan become a science-backed beauty staple?",
       "summary": "As nutricosmetics move from niche to mainstream, Finnish start-up Zephyrian is betting that carotenoids are the next collagen — but the real challenge will be turning a “sun-free tan\" into a credible…",
@@ -534,18 +546,6 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
-    },
-    {
-      "id": "851e3c1ef728dd32",
-      "title": "今週新発売の惣菜パンまとめ！『博多明太パン』、『照焼きチキン＆ポテト』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンリョーユーパン 博多明太パン 袋1個博多明太フィリングとマヨネーズタイ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060507/?utm_source=rss&utm_medium=mognavinews_20260606",
-      "published_at": "2026-06-05T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     },
     {
       "id": "f92cf1a938234b8c",
@@ -5941,42 +5941,6 @@
       "summary": "ホッピービバレッジの石渡美奈社長が「ホッピー屋ならではの、恐らく我々でしか作れない炭酸飲料」と自信をのぞかせる新商品「HPY ホップウォーター」（以下、ホップウォーター）が5月21日、調布工場（東京都調布市）でお披露目 […] ソース",
       "url": "https://shokuhin.net/145704/2026/05/30/topnews/",
       "published_at": "2026-05-30T21:03:31+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "784fd3530a9a99d6",
-      "title": "「コカ・コーラ」200円→220円　コカ・コーラボトラーズジャパン165品を価格改定　9月1日出荷分から",
-      "summary": "コカ・コーラボトラーズジャパンは5月25日、「コカ・コーラ」「ジョージア」「爽健美茶」「紅茶花伝」など165品を9月1日出荷分から価格改定すると発表した。165品の中には、3月1日出荷分に価格改定した「綾鷹」は含まれな […] ソース",
-      "url": "https://shokuhin.net/145700/2026/05/30/nocategory/",
-      "published_at": "2026-05-30T20:53:08+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "670a5c6ce991191d",
-      "title": "米菓、原料米高騰の爪痕深く　コメ下落傾向も高値掴み抱え「予想しがたい事態が発生する」　全国米菓工業組合・星野理事長が懸念",
-      "summary": "コメ下落傾向も米菓業界にはこれまでの原料米高騰の爪痕が残る。 5月20日、全国米菓工業組合第65回通常総代会で現職に再任された星野一郎理事長(越後製菓会長)は、国産米を使用する多くの米菓メーカーが高値掴みの原料米を在 […] ソース",
-      "url": "https://shokuhin.net/145695/2026/05/30/kakou/kashi/",
-      "published_at": "2026-05-30T20:48:04+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "934dd5d855fe6d39",
-      "title": "キリンビバレッジ、アパホテルで熱中症対策セミナーを実施　室内での対策の1つとして28℃の室温を推奨",
-      "summary": "キリンビバレッジは5月25日、アパホテル＆リゾート横浜ベイタワー（神奈川県横浜市）で法人企業向け熱中症対策セミナーを実施してCSV経営を推し進める。 熱中症対策セミナーはアパホテルとしては初の試み。キリンビバレッジと […] ソース",
-      "url": "https://shokuhin.net/145687/2026/05/30/inryou/inryou-inryou/",
-      "published_at": "2026-05-30T20:36:35+08:00",
       "source": "食品新聞",
       "region": "日本",
       "category": "综合",
