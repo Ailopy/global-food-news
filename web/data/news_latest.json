@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-07T19:17:49.859210+08:00",
+  "last_updated": "2026-06-07T23:12:16.104634+08:00",
   "retention_days": 7,
-  "total": 493,
+  "total": 494,
   "sources": [
     "BevNET",
     "Fab News",
@@ -28,6 +28,30 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "a1599a8b3e781f39",
+      "title": "Publisher's Platform: World Food Safety Day 2026: From Burden to Solutions — If We Don't Look Away",
+      "summary": "Today is World Food Safety Day, and this year the World Health Organization and the Food and Agriculture Organization have given us a theme that sounds almost like it was written for the work I have…",
+      "url": "https://www.foodsafetynews.com/2026/06/publishers-platform-world-food-safety-day-2026-from-burden-to-solutions-if-we-dont-look-away/",
+      "published_at": "2026-06-07T20:59:25+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0587e929865b1152",
+      "title": "Sunday Edition: MCOOL",
+      "summary": "The U.S. market is dominated by four major packers controlling roughly 85 percent of U.S. beef processing.",
+      "url": "https://www.foodsafetynews.com/2026/06/sunday-edition-mcool/",
+      "published_at": "2026-06-07T20:00:08+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
       "level": "A",
       "language": "en"
     },
@@ -5918,18 +5942,6 @@
       "url": "https://www.nosh.com/news/2026/smash-foods-raises-5m-mas-by-messi-no-more-lager-luggage-more",
       "published_at": "2026-06-01T04:02:48+08:00",
       "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "cb7abf9df84afe5b",
-      "title": "Sunday Edition: Botulism",
-      "summary": "Homemade food canned or preserved by someone who is incompetent or lacks experience, or education, is the most common source of foodborne botulism.",
-      "url": "https://www.foodsafetynews.com/2026/05/sunday-edition-botulism/",
-      "published_at": "2026-05-31T20:00:48+08:00",
-      "source": "Food Safety News",
       "region": "北美",
       "category": "综合",
       "level": "A",

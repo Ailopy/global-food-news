@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-07T19:17:49.828465+08:00",
-  "total": 2510,
+  "last_updated": "2026-06-07T23:12:16.078229+08:00",
+  "total": 2512,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -11,6 +11,30 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "a1599a8b3e781f39",
+      "title": "Publisher's Platform: World Food Safety Day 2026: From Burden to Solutions — If We Don't Look Away",
+      "summary": "Today is World Food Safety Day, and this year the World Health Organization and the Food and Agriculture Organization have given us a theme that sounds almost like it was written for the work I have…",
+      "url": "https://www.foodsafetynews.com/2026/06/publishers-platform-world-food-safety-day-2026-from-burden-to-solutions-if-we-dont-look-away/",
+      "published_at": "2026-06-07T20:59:25+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0587e929865b1152",
+      "title": "Sunday Edition: MCOOL",
+      "summary": "The U.S. market is dominated by four major packers controlling roughly 85 percent of U.S. beef processing.",
+      "url": "https://www.foodsafetynews.com/2026/06/sunday-edition-mcool/",
+      "published_at": "2026-06-07T20:00:08+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
       "level": "A",
       "language": "en"
     },
