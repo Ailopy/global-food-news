@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T00:58:05.865812+08:00",
+  "last_updated": "2026-06-09T02:14:34.164599+08:00",
   "retention_days": 7,
   "total": 512,
   "sources": [
@@ -28,6 +28,30 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d8c27ab5b288a5fa",
+      "title": "BevNET Live NYC Takes Place This Week! Join More Than 700 Beverage Professionals",
+      "summary": "In just two days, New York City becomes the center of gravity for the beverage industry! Brands who missed out previous years told us the same thing: they wished they'd gone. This year, you don’t…",
+      "url": "https://www.bevnet.com/events/bevnetlive",
+      "published_at": "2026-06-09T01:39:24+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "27c7f764b01ea1f4",
+      "title": "Tom Brady Teams With Gopuff to Launch Good Nut Premium Coconut Water",
+      "summary": "NFL legend Tom Brady continues to push further into the beverage industry, announcing a collaboration with gopuff on a new line of premium coconut water.",
+      "url": "https://www.bevnet.com/news/2026/tom-brady-teams-with-gopuff-to-launch-good-nut-premium-coconut-water",
+      "published_at": "2026-06-09T01:11:28+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
       "level": "A",
       "language": "en"
     },
@@ -136,6 +160,18 @@
       "source": "NOSH",
       "region": "北美",
       "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "7574cebaed48cbd5",
+      "title": "Protein power play: Redefining the craze with smarter nutrition",
+      "summary": "The protein supplement market surged to $12 billion in 2025 as the macronutrient expanded beyond sports nutrition into mainstream foods and beverages. Read more to see why experts are concerned.",
+      "url": "https://www.newhope.com/industry-insights/protein-power-play-redefining-the-craze-with-smarter-nutrition",
+      "published_at": "2026-06-08T22:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
       "level": "A",
       "language": "en"
     },
@@ -6124,42 +6160,6 @@
       "source": "NOSH",
       "region": "北美",
       "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "aa0ed95d06b13262",
-      "title": "Columbia Distributing Makes Strategic Investment in Hayden Beverage in Idaho, Expanding PNW Business",
-      "summary": "Columbia Distributing and Hayden Beverage are officially teaming up in the Pacific Northwest.",
-      "url": "https://www.bevnet.com/spirits/2026/columbia-distributing-makes-strategic-investment-in-hayden-beverage-in-idaho-expanding-pnw-business",
-      "published_at": "2026-06-02T02:08:56+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "a0c4dd4b83b0d76b",
-      "title": "Uncle Nearest Moves Closer To Possible New Ownership",
-      "summary": "Uncle Nearest Premium Whiskey is possibly closer to new ownership after its court-appointed receiver announced today he has signed a non-binding letter of intent (LOI) to sell nearly all of the…",
-      "url": "https://www.bevnet.com/spirits/2026/uncle-nearest-moves-closer-to-possible-new-ownership",
-      "published_at": "2026-06-02T01:13:44+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "667515ec207973e2",
-      "title": "Museum preserves 50 years of supplement industry history",
-      "summary": "Learn about David Meinz's International Museum of Supplement History, which documents how vitamin discoveries between 1910 and 1960 built today's $200 billion supplement industry.",
-      "url": "https://www.newhope.com/industry-insights/museum-preserves-50-years-of-supplement-industry-history",
-      "published_at": "2026-06-02T01:00:00+08:00",
-      "source": "New Hope Network",
-      "region": "北美",
-      "category": "功能性食品",
       "level": "A",
       "language": "en"
     }
