@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T00:58:05.830145+08:00",
-  "total": 2626,
+  "last_updated": "2026-06-09T02:14:34.130448+08:00",
+  "total": 2629,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -11,6 +11,30 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d8c27ab5b288a5fa",
+      "title": "BevNET Live NYC Takes Place This Week! Join More Than 700 Beverage Professionals",
+      "summary": "In just two days, New York City becomes the center of gravity for the beverage industry! Brands who missed out previous years told us the same thing: they wished they'd gone. This year, you don’t…",
+      "url": "https://www.bevnet.com/events/bevnetlive",
+      "published_at": "2026-06-09T01:39:24+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "27c7f764b01ea1f4",
+      "title": "Tom Brady Teams With Gopuff to Launch Good Nut Premium Coconut Water",
+      "summary": "NFL legend Tom Brady continues to push further into the beverage industry, announcing a collaboration with gopuff on a new line of premium coconut water.",
+      "url": "https://www.bevnet.com/news/2026/tom-brady-teams-with-gopuff-to-launch-good-nut-premium-coconut-water",
+      "published_at": "2026-06-09T01:11:28+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
       "level": "A",
       "language": "en"
     },
@@ -119,6 +143,18 @@
       "source": "NOSH",
       "region": "北美",
       "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "7574cebaed48cbd5",
+      "title": "Protein power play: Redefining the craze with smarter nutrition",
+      "summary": "The protein supplement market surged to $12 billion in 2025 as the macronutrient expanded beyond sports nutrition into mainstream foods and beverages. Read more to see why experts are concerned.",
+      "url": "https://www.newhope.com/industry-insights/protein-power-play-redefining-the-craze-with-smarter-nutrition",
+      "published_at": "2026-06-08T22:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
       "level": "A",
       "language": "en"
     },
@@ -10635,10 +10671,10 @@
       "language": "en"
     },
     {
-      "id": "4373cd742fc8b1ad",
-      "title": "The Natural List: Breaking down the $75B supplement industry",
-      "summary": "Bill Giebler, NBJ's content and insights director, joins The Natural List host Adrienne Smith to share a free preview of the highly anticipated Supplement Business Report.",
-      "url": "https://www.newhope.com/industry-insights/the-natural-list-breaking-down-75-billion-dollar-supplement-industry",
+      "id": "75e72fac6981df2d",
+      "title": "Editor's Take: Practitioner channel navigates omnichannel credibility",
+      "summary": "Learn more about a seismic shift in the practitioner channel as legacy brands navigate the tension between omnichannel growth and practitioner credibility.",
+      "url": "https://www.newhope.com/market-data-and-analysis/editors-take-practitioner-channel-grows-despite-omnichannel-tensions",
       "published_at": "2026-05-27T22:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
@@ -10647,10 +10683,10 @@
       "language": "en"
     },
     {
-      "id": "75e72fac6981df2d",
-      "title": "Editor's Take: Practitioner channel navigates omnichannel credibility",
-      "summary": "Learn more about a seismic shift in the practitioner channel as legacy brands navigate the tension between omnichannel growth and practitioner credibility.",
-      "url": "https://www.newhope.com/market-data-and-analysis/editors-take-practitioner-channel-grows-despite-omnichannel-tensions",
+      "id": "4373cd742fc8b1ad",
+      "title": "The Natural List: Breaking down the $75B supplement industry",
+      "summary": "Bill Giebler, NBJ's content and insights director, joins The Natural List host Adrienne Smith to share a free preview of the highly anticipated Supplement Business Report.",
+      "url": "https://www.newhope.com/industry-insights/the-natural-list-breaking-down-75-billion-dollar-supplement-industry",
       "published_at": "2026-05-27T22:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
