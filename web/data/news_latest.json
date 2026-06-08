@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-08T22:40:54.126876+08:00",
+  "last_updated": "2026-06-09T00:58:05.865812+08:00",
   "retention_days": 7,
-  "total": 491,
+  "total": 512,
   "sources": [
     "BevNET",
     "Fab News",
@@ -29,6 +29,90 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "63aceeda80598403",
+      "title": "Profile: Swinger Tees Up Golf As Next Frontier for ‘Leisure’ Energy",
+      "summary": "Over the past year, the Ojai, Calif.- based brand has been slowly cultivating its audiences on the links, betting that a golf-oriented approach and aesthetic can eventually make it a household name.",
+      "url": "https://www.bevnet.com/news/2026/profile-swinger-tees-up-golf-as-next-frontier-for-leisure-energy",
+      "published_at": "2026-06-09T00:41:37+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "ad50638828cf102f",
+      "title": "Ingredion to Buy U.K. Competitor Tate & Lyle in $3.6B Deal",
+      "summary": "Food and beverage ingredients producer Ingredion will acquire competing U.K. manufacturer Tate & Lyle in a $3.6 billion (2.7 billion pound) cash deal.",
+      "url": "https://www.bevnet.com/news/2026/ingredion-to-buy-u-k-competitor-tate-lyle-in-3-6b-deal",
+      "published_at": "2026-06-09T00:41:31+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5b3d609c9f31f674",
+      "title": "Ingredion to Buy U.K. Competitor Tate & Lyle in $3.6B Deal",
+      "summary": "According to the Wall Street Journal, Ingredion will pay £5.95 (roughly $7.94) per share of Tate & Lyle, representing a 59% premium to the British company’s last closing price before the M&A…",
+      "url": "https://www.nosh.com/news/2026/ingredion-to-buy-u-k-competitor-tate-lyle-in-3-6b-deal",
+      "published_at": "2026-06-09T00:39:37+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "08b971c683ad2ba0",
+      "title": "SPI Pharma completes Elementis Pharma acquisition to strengthen digestive health API portfolio",
+      "summary": "The deal adds a Ludwigshafen antacid API manufacturing site to SPI Pharma's network, expanding its gastrointestinal ingredients offer as consumer demand for gut health solutions accelerates globally",
+      "url": "https://nutraceuticalbusinessreview.com/spi-pharma-elementis-pharma-acquisition-digestive-health-api",
+      "published_at": "2026-06-08T23:33:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "8f1936545ec2cf88",
+      "title": "Kindling Scales Retail Reach And Mission Through Target Partnership",
+      "summary": "Kindling Snacks rolled out its protein pretzels to Target stores nationwide with a new exclusive Peach Barbecue flavor and a multipack format designed for family-friendly snacking.",
+      "url": "https://www.nosh.com/news/2026/kindling-scales-retail-reach-and-mission-through-target-partnership",
+      "published_at": "2026-06-08T23:21:16+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "fd20b7f89c259ea1",
+      "title": "Planters releases new Ranch Seasoned Peanuts and Sweet Cayenne BBQ Seasoned Peanuts",
+      "summary": "Planters is marking America's 250th anniversary with two limited-time peanut varieties inspired by American flavour traditions: Planters Ranch Seasoned Peanuts and Planters Sweet Cayenne BBQ Seasoned…",
+      "url": "https://www.sweetsandsnacksworld.com/news/30676/planters-releases-new-ranch-seasoned-peanuts-and-sweet-cayenne-bbq-seasoned-peanuts/",
+      "published_at": "2026-06-08T23:04:11+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "7230ff35fa88076e",
+      "title": "Ingredion acquires Tate & Lyle in £2.7bn deal to build functional ingredients powerhouse",
+      "summary": "The £2.7bn cash acquisition unites complementary portfolios in sweetening, texture and fortification, creating a $9.9bn ingredient solutions giant positioned for the GLP-1 era",
+      "url": "https://nutraceuticalbusinessreview.com/ingredion-acquires-tate-lyle-2-7bn-deal-functional-ingredients",
+      "published_at": "2026-06-08T22:41:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
@@ -61,6 +145,18 @@
       "summary": "The brand’s “Undairy the Craving” campaign attempts to combat preconceived ideas surrounding the taste and quality of vegan cheeses.",
       "url": "https://www.fooddive.com/news/violife-slices-through-dairy-free-cheese-misconceptions-with-social-series/822209/",
       "published_at": "2026-06-08T21:40:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "b5d10aaca214116d",
+      "title": "Ingredion strikes deal to buy Tate & Lyle for $3.6B",
+      "summary": "The combined company will generate nearly $10 billion in annual revenue and have a broad portfolio to address more consumer needs, such as clean label and lower sugar.",
+      "url": "https://www.fooddive.com/news/ingredion-strikes-deal-to-buy-tate-lyle-for-36b/822213/",
+      "published_at": "2026-06-08T21:08:03+08:00",
       "source": "Food Dive",
       "region": "北美",
       "category": "综合",
@@ -104,11 +200,35 @@
       "language": "en"
     },
     {
+      "id": "b0fa2f20c6988175",
+      "title": "セブンイレブンのホットスナックトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ホットスナック」の最新・注目度ランキングです♪（2026年6月5日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21892/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "20673f11591c612f",
       "title": "セブンイレブンのホットスナックトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ホットスナック」の最新・注目度ランキングです♪（2026年6月5日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
       "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-21892/?utm_source=rss&utm_medium=mognavinews_20260608",
       "published_at": "2026-06-08T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "dc8ef3be9493382b",
+      "title": "今週新発売の期間限定まとめ！『夏ポテト　紀州の南高梅味』、『ギンザワッフル　アップル＆シナモン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定カルビー 夏ポテト 紀州の南高梅味 袋60g●「夏ポテト」は穫れたて…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060807/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -296,6 +416,18 @@
       "language": "en"
     },
     {
+      "id": "b4f6d42835f6bff4",
+      "title": "今週新発売の惣菜パンまとめ！『チーズフォンデュフランス』、『スナックサンド　大豆ミートのタコス＆チーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン チーズフォンデュフランス 袋1個チーズパウダーをトッピングしたソ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060806/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "7d10a69b08f50900",
       "title": "今週新発売の惣菜パンまとめ！『チーズフォンデュフランス』、『スナックサンド　大豆ミートのタコス＆チーズ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン チーズフォンデュフランス 袋1個チーズパウダーをトッピングしたソ…",
@@ -452,6 +584,18 @@
       "language": "ja"
     },
     {
+      "id": "fb1c3b1a36a2a509",
+      "title": "【2026年6月第1週】コンビニ惣菜ランキング1位はあつあつオーブン焼き国産ブロッコリー！セブン急上昇＆新商品続々まとめ",
+      "summary": "コンビニ惣菜ランキング、2026年6月第1週の結果が出ました！ヘルシー志向の商品から個性派フレーバーまで、今週もバラエティ豊かな顔ぶれがそろっています。さっそ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21827/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5570e9a3b98123a4",
       "title": "【2026年6月第1週】コンビニ惣菜ランキング1位はあつあつオーブン焼き国産ブロッコリー！セブン急上昇＆新商品続々まとめ",
       "summary": "コンビニ惣菜ランキング、2026年6月第1週の結果が出ました！ヘルシー志向の商品から個性派フレーバーまで、今週もバラエティ豊かな顔ぶれがそろっています。さっそ…",
@@ -482,6 +626,18 @@
       "url": "https://shokuhin.net/148046/2026/06/08/kakou/kawaki/",
       "published_at": "2026-06-08T13:31:22+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "bb6031b5650cb7f7",
+      "title": "今週新発売のアイスクリーム🍨🍦まとめ！『フルーツ盛りだくさん白くまバー』、『ザクット　抹茶』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！アイスクリームの新商品情報をお届けします。今週新発売の#アイスクリーム丸永 フルーツ盛りだくさん白くまバー微細氷入りマンゴー風…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060805/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T13:30:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -546,6 +702,18 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "353f56e91f190609",
+      "title": "【2026年6月第1週】コンビニ麺・コンビニパスタランキング1位はすず鬼監修にんにくスタミナ焼そば！冷し麺新商品続々まとめ",
+      "summary": "蒸し暑い日が続く6月、コンビニの麺コーナーがますます目が離せない季節になってきました。スタミナ系から冷麺系まで、今週もバラエティ豊かな顔ぶれが揃いましたよ。そ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21826/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "df5e4dff4497fbc1",
@@ -632,6 +800,18 @@
       "language": "en"
     },
     {
+      "id": "e6d4f962a54a544b",
+      "title": "【2026年6月第1週】コンビニスープ・コンビニ味噌汁ランキング1位は鶏つくねの和風生姜スープ！新商品ミートボールのクリームスープも登場まとめ",
+      "summary": "6月に入り、じめじめとした季節がやってくる前に、ほっとあたたかいスープで体の内側から整えたくなりますよね。今週のコンビニスープ・味噌汁ランキングも、各コンビニ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21797/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "af9ce32b66701d09",
       "title": "【2026年6月第1週】コンビニスープ・コンビニ味噌汁ランキング1位は鶏つくねの和風生姜スープ！新商品ミートボールのクリームスープも登場まとめ",
       "summary": "6月に入り、じめじめとした季節がやってくる前に、ほっとあたたかいスープで体の内側から整えたくなりますよね。今週のコンビニスープ・味噌汁ランキングも、各コンビニ…",
@@ -680,11 +860,35 @@
       "language": "ja"
     },
     {
+      "id": "70719b41569a5e04",
+      "title": "今週新発売のファミマスイーツ🍰まとめ！『でか～いイタリア栗のモンブランプリン』、『かじるガトーショコラ　チョコミント』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマスイーツの新商品情報をお届けします。今週新発売の#ファミマスイーツファミリーマート ファミマルSweets でか～いイ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060804/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "7ef53150b9e40c55",
       "title": "今週新発売のファミマスイーツ🍰まとめ！『でか～いイタリア栗のモンブランプリン』、『かじるガトーショコラ　チョコミント』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ファミマスイーツの新商品情報をお届けします。今週新発売の#ファミマスイーツファミリーマート ファミマルSweets でか～いイ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060804/?utm_source=rss&utm_medium=mognavinews_20260608",
       "published_at": "2026-06-08T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "2aed9e6ead8a11f3",
+      "title": "【2026年6月第1週】コンビニサンドイッチ・コンビニパンランキング1位はチョコクリームのふわもちちぎりパン！新商品・急上昇まとめ",
+      "summary": "2026年6月第1週のコンビニサンドイッチ・コンビニパンランキングが出揃いました。チョコ系やバター系の新商品が上位に並んだ今週、気になる一品はすぐに見つかるは…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21796/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T11:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -713,6 +917,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "0d1bc73f2b59e5a7",
+      "title": "今週新発売のセブンイレブンスイーツ🍰まとめ！『もっちもち食感クレープ　マンゴーココナッツ』、『ぷるもち水まんじゅう　抹茶あん』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンスイーツの新商品情報をお届けします。今週新発売の#セブンイレブンスイーツセブン-イレブン もっちもち食感クレープ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060803/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -788,6 +1004,18 @@
       "language": "ja"
     },
     {
+      "id": "f8552ada325791d1",
+      "title": "【2026年6月第1週】コンビニ寿司・コンビニ弁当ランキング1位はローソン海鮮かき揚げ丼！新商品ワンボウルサラダも登場まとめ",
+      "summary": "2026年6月第1週のコンビニ寿司・コンビニ弁当ランキングが出そろいました。梅雨入り前のこの時期、ガッツリ系からさっぱり系まで個性豊かなラインナップが顔を揃え…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21795/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "792c0c4c72e4940d",
       "title": "【2026年6月第1週】コンビニ寿司・コンビニ弁当ランキング1位はローソン海鮮かき揚げ丼！新商品ワンボウルサラダも登場まとめ",
       "summary": "2026年6月第1週のコンビニ寿司・コンビニ弁当ランキングが出そろいました。梅雨入り前のこの時期、ガッツリ系からさっぱり系まで個性豊かなラインナップが顔を揃え…",
@@ -848,11 +1076,35 @@
       "language": "ja"
     },
     {
+      "id": "c260f1e4a9c1f07b",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『ねぎ塩豚カルビ丼　麦入りご飯』、『和風幕の内弁当』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ローソン ねぎ塩豚カルビ丼 麦入り…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060802/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "c8498a4475261074",
       "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『ねぎ塩豚カルビ丼　麦入りご飯』、『和風幕の内弁当』など♪",
       "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ローソン ねぎ塩豚カルビ丼 麦入り…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060802/?utm_source=rss&utm_medium=mognavinews_20260608",
       "published_at": "2026-06-08T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6ea36020e5b9b754",
+      "title": "【2026年6月第1週】コンビニおにぎり・コンビニ手巻寿司ランキング1位はシーチキン炊き込みごはんおむすび！新商品・急上昇商品まとめ",
+      "summary": "2026年6月第1週のコンビニおにぎり・手巻寿司ランキングが出揃いました！今週は炊き込みごはん系おむすびの新顔が上位を賑わせるなど、じっくり味わいたい一品が揃…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21794/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T09:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -968,6 +1220,18 @@
       "language": "ja"
     },
     {
+      "id": "3f7bd614f4f854cd",
+      "title": "今週新発売の菓子パン🍫まとめ！『じゅわっとバターデニッシュ』、『ロングスティック　ミルクキャラメル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンフジパン じゅわっとバターデニッシュ 袋1個じゅわっとバター入りマーガリン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060801/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-08T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "16e7bc82596cb432",
       "title": "今週新発売の菓子パン🍫まとめ！『じゅわっとバターデニッシュ』、『ロングスティック　ミルクキャラメル』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンフジパン じゅわっとバターデニッシュ 袋1個じゅわっとバター入りマーガリン…",
@@ -1016,6 +1280,18 @@
       "language": "en"
     },
     {
+      "id": "63a6ec57e74b79c6",
+      "title": "セブンのお弁当おすすめTOP3！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「セブンのお弁当」のおすすめランキングです♪（2026年6月5日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
+      "url": "https://mognavi.jp/news/matome/gen-tagRanking-21859/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-07T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "61c9dcf0b9a372f3",
       "title": "セブンのお弁当おすすめTOP3！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「セブンのお弁当」のおすすめランキングです♪（2026年6月5日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
@@ -1033,6 +1309,18 @@
       "summary": "もぐナビ編集部です！今回ご紹介するのは「セブンのお弁当」のおすすめランキングです♪（2026年6月5日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
       "url": "https://mognavi.jp/news/matome/gen-tagRanking-21859/?utm_source=rss&utm_medium=mognavinews_20260607",
       "published_at": "2026-06-07T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f02e2b35f44f79cb",
+      "title": "今週新発売のレモンまとめ！『ＦＲＵＢＩ　ｂｙ果汁グミ　レモン＆キウイ』、『ウィルキンソン　ドライジンジャエール　シャープレモン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！レモンの新商品情報をお届けします。今週新発売の#レモン明治 FRUBI by果汁グミ レモン＆キウイ 袋57g1.コラーゲン、…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060708/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-07T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -1064,6 +1352,18 @@
       "language": "ja"
     },
     {
+      "id": "318c18b6b22a1376",
+      "title": "今週新発売のチョコレート味🍫まとめ！『生　チョコパイ　チーズケーキ』、『レモンホワイトチョコチップクッキー』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！チョコレート味の新商品情報をお届けします。今週新発売の#チョコレート味ロッテ 生 チョコパイ チーズケーキ 袋1個夏に食べる片…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060707/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-07T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "0b35da6d53b4b4db",
       "title": "今週新発売のチョコレート味🍫まとめ！『生　チョコパイ　チーズケーキ』、『レモンホワイトチョコチップクッキー』など♪",
       "summary": "こんにちは、もぐナビ編集部です！チョコレート味の新商品情報をお届けします。今週新発売の#チョコレート味ロッテ 生 チョコパイ チーズケーキ 袋1個夏に食べる片…",
@@ -1081,6 +1381,18 @@
       "summary": "こんにちは、もぐナビ編集部です！チョコレート味の新商品情報をお届けします。今週新発売の#チョコレート味ロッテ 生 チョコパイ チーズケーキ 袋1個夏に食べる片…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060707/?utm_source=rss&utm_medium=mognavinews_20260607",
       "published_at": "2026-06-07T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7671668dd8a5fea4",
+      "title": "今週新発売のセブンイレブンパンまとめ！『ソーセージエッグマフィン』、『チョコクリームのふわもちちぎりパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ソーセージエッグマフィンジュー…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060706/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-07T13:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -1112,6 +1424,18 @@
       "language": "ja"
     },
     {
+      "id": "f7c662e488fba6c9",
+      "title": "【2026年6月第1週】ポテトチップス・スナックランキング1位はベビースター！新商品＆急上昇注目商品まとめ",
+      "summary": "2026年6月第1週のポテトチップス・スナックランキングが出揃いました。新発売の話題商品からロングセラーの実力派まで、今週もバラエティ豊かな顔ぶれが揃っていま…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21793/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-07T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e5548b6f47cbc7df",
       "title": "【2026年6月第1週】ポテトチップス・スナックランキング1位はベビースター！新商品＆急上昇注目商品まとめ",
       "summary": "2026年6月第1週のポテトチップス・スナックランキングが出揃いました。新発売の話題商品からロングセラーの実力派まで、今週もバラエティ豊かな顔ぶれが揃っていま…",
@@ -1129,6 +1453,18 @@
       "summary": "2026年6月第1週のポテトチップス・スナックランキングが出揃いました。新発売の話題商品からロングセラーの実力派まで、今週もバラエティ豊かな顔ぶれが揃っていま…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-21793/?utm_source=rss&utm_medium=mognavinews_20260607",
       "published_at": "2026-06-07T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "291bf9384bafa283",
+      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　チョコバナナ』、『オールドファッション　レモン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン スナックサンド チョコバナナ 袋2個もったいないバナナ使用の…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026060705/?utm_source=rss&utm_medium=mognavinews_20260609",
+      "published_at": "2026-06-07T12:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -5824,90 +6160,6 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "7d79cc66437ad8f2",
-      "title": "IFF sells food ingredients business to private equity firm CVC",
-      "summary": "The transaction sets the food ingredients business' value at $4.3 billion, but IFF will retain a minority interest. Get the details.",
-      "url": "https://www.newhope.com/industry-news/iff-sells-food-ingredients-business-to-private-equity-firm-cvc",
-      "published_at": "2026-06-02T00:32:27+08:00",
-      "source": "New Hope Network",
-      "region": "北美",
-      "category": "功能性食品",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "59966a6319a9c342",
-      "title": "Finance Focus: On Stage and In Meetings, BevNET Live NYC 2026 Connects Beverage Founders With Investors",
-      "summary": "Raising capital has become more difficult across beverage and CPG. Investors are writing fewer checks, diligence timelines have lengthened, and brands are facing greater pressure to prove not just…",
-      "url": "https://www.bevnet.com/news/events/bevnetlivesummer26/finance-focus-on-stage-and-in-meetings-bevnet-live-nyc-2026-connects-beverage-founders-with-investors",
-      "published_at": "2026-06-02T00:21:06+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "8b56e7b9a1484895",
-      "title": "Kevin Hart Supplement Brand Adds Strategic Investment",
-      "summary": "Kevin Hart’s protein shake and supplement brand VitaHustle has received an undisclosed equity investment from private equity firm Axum Capital Partners.",
-      "url": "https://www.bevnet.com/news/2026/kevin-hart-supplement-brand-adds-strategic-investment",
-      "published_at": "2026-06-02T00:05:00+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "89d1d551973cbbd3",
-      "title": "Kevin Hart Supplement Brand Adds Strategic Investment",
-      "summary": "Kevin Hart’s protein shake and supplement brand VitaHustle has received an undisclosed equity investment from private equity firm Axum Capital Partners.",
-      "url": "https://www.nosh.com/news/2026/kevin-hart-supplement-brand-adds-strategic-investment",
-      "published_at": "2026-06-02T00:03:10+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "3399c455f4d50dfb",
-      "title": "Reyes Adds 38M Cases as RNDC Deal Now Complete in 11 Markets",
-      "summary": "Reyes Beverage Group’s mega deal for 11 RNDC markets closed at the end of business on Friday, adding 38 million cases to its more than 360-million-case business.",
-      "url": "https://www.bevnet.com/news/2026/reyes-adds-38m-cases-as-rndc-deal-now-complete-in-11-markets",
-      "published_at": "2026-06-01T23:57:03+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "20393dd1f87d95d0",
-      "title": "Cedar’s Foods Certifies Entire Reserve Hommus Line as Seed-Oil-Free",
-      "summary": "As consumer scrutiny of ingredient labels intensifies, Cedar’s Foods is moving to strengthen its premium offerings with a new seed-oil-free certification across its entire Reserve portfolio.",
-      "url": "https://www.nosh.com/news/2026/cedars-foods-certifies-entire-reserve-hommus-line-as-seed-oil-free",
-      "published_at": "2026-06-01T23:11:13+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "b3ba962d063d2e19",
-      "title": "No Cow Acquired By Trek One Capital",
-      "summary": "Trek One Capital is expanding its holdings in plant-based CPG with a pair of acquisitions: flax milk brand Good Karma Foods and protein bar maker No Cow.",
-      "url": "https://www.nosh.com/news/2026/no-cow-acquired-by-trek-one-capital",
-      "published_at": "2026-06-01T22:57:51+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
       "level": "A",
       "language": "en"
     }
