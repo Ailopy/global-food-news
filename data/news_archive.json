@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T19:44:11.110407+08:00",
-  "total": 2663,
+  "last_updated": "2026-06-09T21:48:37.533682+08:00",
+  "total": 2665,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -12,6 +12,30 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0757f1fd5cf35068",
+      "title": "Bawi Closes $6M To Fuel West Coast Retail, Foodservice Expansion",
+      "summary": "Modern agua fresca maker Bawi has closed a $6 million investment as it sets its sights on the West Coast and moving into foodservice.",
+      "url": "https://www.bevnet.com/news/2026/bawi-closes-6m-to-fuel-west-coast-retail-foodservice-expansion",
+      "published_at": "2026-06-09T20:30:19+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "12939f9385178b0d",
+      "title": "Indena Phytosome®, the original multi-talented technology platform that enhances the power of natural and botanical nutrients",
+      "summary": "Natural ingredients have great potential for human wellbeing. Their beneficial effects are well known since centuries, through the traditional medicines, and have also been studied with scientific…",
+      "url": "https://nutraceuticalbusinessreview.com/indena-phytosome-the-original-multi-talented-technology-platform",
+      "published_at": "2026-06-09T20:01:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
