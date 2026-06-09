@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-09T19:44:11.146042+08:00",
+  "last_updated": "2026-06-09T21:48:37.567929+08:00",
   "retention_days": 7,
-  "total": 472,
+  "total": 465,
   "sources": [
     "BevNET",
     "Fab News",
@@ -29,6 +29,30 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0757f1fd5cf35068",
+      "title": "Bawi Closes $6M To Fuel West Coast Retail, Foodservice Expansion",
+      "summary": "Modern agua fresca maker Bawi has closed a $6 million investment as it sets its sights on the West Coast and moving into foodservice.",
+      "url": "https://www.bevnet.com/news/2026/bawi-closes-6m-to-fuel-west-coast-retail-foodservice-expansion",
+      "published_at": "2026-06-09T20:30:19+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "12939f9385178b0d",
+      "title": "Indena Phytosome®, the original multi-talented technology platform that enhances the power of natural and botanical nutrients",
+      "summary": "Natural ingredients have great potential for human wellbeing. Their beneficial effects are well known since centuries, through the traditional medicines, and have also been studied with scientific…",
+      "url": "https://nutraceuticalbusinessreview.com/indena-phytosome-the-original-multi-talented-technology-platform",
+      "published_at": "2026-06-09T20:01:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
@@ -5573,114 +5597,6 @@
       "region": "欧洲",
       "category": "功能性食品",
       "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "f3f81c6fb3cb5c93",
-      "title": "Athletic Brewing opens marketing tap to stand out in crowded summer",
-      "summary": "The nonalcoholic beer brand expects to hike its national media spend 120% over the year-ago period to capitalize on events like America250 celebrations.",
-      "url": "https://www.fooddive.com/news/athletic-brewing-pours-more-into-marketing-to-stand-out-in-crowded-summer/821222/",
-      "published_at": "2026-06-02T21:38:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "966aa7b65b4161e8",
-      "title": "The new rules: How functional foods are redefining CPG brand leadership",
-      "summary": "As nutrition becomes more important, companies will need to rethink their messaging on what actually makes their products better-for-you.",
-      "url": "https://www.fooddive.com/news/food-reformulation-better-for-you-opinion/821166/",
-      "published_at": "2026-06-02T21:34:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "95cf07857c31d346",
-      "title": "Standing Tall Takes Aim At Soy Myths and Menopause",
-      "summary": "An industry veteran launched Standing Tall earlier this year with a line of roasted soybean snacks designed to support women's health through midlife and beyond.",
-      "url": "https://www.nosh.com/news/2026/standing-tall-takes-aim-at-soy-myths-and-menopause",
-      "published_at": "2026-06-02T21:32:34+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "2efbf4b8a10cb209",
-      "title": "Andrea Benson promoted to president of Puresource Corp.",
-      "summary": "NOW Health Group announced today that Andrea Benson has been promoted to President of Puresource Corp.",
-      "url": "https://nutraceuticalbusinessreview.com/andrea-benson-promoted-to-president-of-puresource-corp",
-      "published_at": "2026-06-02T21:27:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "2821d7d5a12c2ff8",
-      "title": "PLT Health Solutions partners with Alethios to help consumer brands generate clinical validation of finished formulations",
-      "summary": "New collaboration elevates PLT’s capability as a science-driven commercialisation partner, giving customers access to faster, scalable clinical research designed to support science messaging",
-      "url": "https://nutraceuticalbusinessreview.com/plt-health-solutions-partners-with-alethios-to-help",
-      "published_at": "2026-06-02T21:16:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "1a3ea5f070512b58",
-      "title": "Crisp Power Opens $15M Texas Production Facility to Scale High-Protein, Low-Carb Snacks",
-      "summary": "Protein pretzel purveyor Crisp Power is planting deeper roots in the U.S. with a new $15 million production facility in Stafford, Texas, that will serve as its stateside hub after roughly two years…",
-      "url": "https://www.nosh.com/news/2026/crisp-power-opens-15m-texas-production-facility-to-scale-high-protein-low-carb-snacks",
-      "published_at": "2026-06-02T21:01:15+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "17b07dc84bdc5cff",
-      "title": "South Africa’s Tiger to sell chocolate brand Beacon",
-      "summary": "South Africa-based FMCG group Tiger Brands has struck a deal to sell its Beacon chocolate brand. The post South Africa’s Tiger to sell chocolate brand Beacon appeared first on Just Food .",
-      "url": "https://www.just-food.com/news/south-africas-tiger-to-sell-chocolate-brand-beacon/",
-      "published_at": "2026-06-02T20:39:52+08:00",
-      "source": "Just Food",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "bd9464f492f9be92",
-      "title": "The Nutriment Company buys Yorkshire Raw Feeds",
-      "summary": "The Nutriment Company has continued its acquisition spree with Yorkshire Raw Feeds, the UK-based raw pet food supplier. The post The Nutriment Company buys Yorkshire Raw Feeds appeared first on Just…",
-      "url": "https://www.just-food.com/news/the-nutriment-buys-yorkshire-raw-feeds/",
-      "published_at": "2026-06-02T20:10:59+08:00",
-      "source": "Just Food",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "caa65a52b2eaae7b",
-      "title": "“It’s not a linear exercise” – Libstar CEO Charl de Villiers on consolidation challenge for private-label and branded group",
-      "summary": "Under CEO Charl de Villiers, Libstar Holdings is nearing the completion of a strategy to be a pure-play, value-added, food-and-drinks company. The post “It’s not a linear exercise” – Libstar CEO…",
-      "url": "https://www.just-food.com/interviews/its-not-a-linear-exercise-libstar-ceo-charl-de-villiers-on-consolidation-challenge-for-private-label-and-branded-group/",
-      "published_at": "2026-06-02T19:59:32+08:00",
-      "source": "Just Food",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
       "language": "en"
     }
   ]
