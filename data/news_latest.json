@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-11T00:47:37.742447+08:00",
+  "last_updated": "2026-06-11T02:39:30.814049+08:00",
   "retention_days": 7,
-  "total": 506,
+  "total": 504,
   "sources": [
     "BevNET",
     "Fab News",
@@ -67,18 +67,6 @@
       "language": "en"
     },
     {
-      "id": "21414e8098f5e8a5",
-      "title": "Amano Enzymes to debut pea protein enhancer ProBoost Neutra at Bridge2Food Europe 2026",
-      "summary": "The new, advanced enzyme technology is designed to improve the functionality and flavour of pea protein ingredients without compromising their protein content, resulting in a lighter taste profile…",
-      "url": "https://nutraceuticalbusinessreview.com/amano-enzymes-pea-protein-enhancer-proboost-neutra-bridge2food",
-      "published_at": "2026-06-10T23:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "cdc73cd65e4faab9",
       "title": "Organic produce forecasting: Avoid shrink, boost sales with accurate demand predictions",
       "summary": "See how balancing organic produce inventory through accurate forecasting helps merchandisers avoid shrink, meet shopper needs and boost sales.",
@@ -88,6 +76,18 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "21414e8098f5e8a5",
+      "title": "Amano Enzymes to debut pea protein enhancer ProBoost Neutra at Bridge2Food Europe 2026",
+      "summary": "The new, advanced enzyme technology is designed to improve the functionality and flavour of pea protein ingredients without compromising their protein content, resulting in a lighter taste profile…",
+      "url": "https://nutraceuticalbusinessreview.com/amano-enzymes-pea-protein-enhancer-proboost-neutra-bridge2food",
+      "published_at": "2026-06-10T23:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
@@ -6064,30 +6064,6 @@
       "region": "北美",
       "category": "综合",
       "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "9e526dd79d4726bf",
-      "title": "When the rules change overnight: Navigating import chaos during wartime",
-      "summary": "War-related supply chain disruptions are clobbering imported natural products. Find out how buyers and brands can adjust.",
-      "url": "https://www.newhope.com/industry-insights/navigating-import-chaos-during-wartime",
-      "published_at": "2026-06-04T02:35:45+08:00",
-      "source": "New Hope Network",
-      "region": "北美",
-      "category": "功能性食品",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "d0365a28dd5739df",
-      "title": "The Daily Pour Acquires Whiskey Riot, Expanding Spirits Events Platform",
-      "summary": "The Daily Pour has acquired Whiskey Riot, a leading whiskey festival that travels the country. The deal marks The Daily Pour’s third major acquisition in 24 months as it aims to consolidate the…",
-      "url": "https://www.bevnet.com/spirits/2026/the-daily-pour-acquires-whiskey-riot-expanding-spirits-events-platform",
-      "published_at": "2026-06-04T01:03:53+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
       "language": "en"
     }
   ]
