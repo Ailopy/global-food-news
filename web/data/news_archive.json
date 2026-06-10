@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T00:47:37.706182+08:00",
+  "last_updated": "2026-06-11T02:39:30.777070+08:00",
   "total": 2808,
   "articles": [
     {
@@ -51,18 +51,6 @@
       "language": "en"
     },
     {
-      "id": "21414e8098f5e8a5",
-      "title": "Amano Enzymes to debut pea protein enhancer ProBoost Neutra at Bridge2Food Europe 2026",
-      "summary": "The new, advanced enzyme technology is designed to improve the functionality and flavour of pea protein ingredients without compromising their protein content, resulting in a lighter taste profile…",
-      "url": "https://nutraceuticalbusinessreview.com/amano-enzymes-pea-protein-enhancer-proboost-neutra-bridge2food",
-      "published_at": "2026-06-10T23:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "cdc73cd65e4faab9",
       "title": "Organic produce forecasting: Avoid shrink, boost sales with accurate demand predictions",
       "summary": "See how balancing organic produce inventory through accurate forecasting helps merchandisers avoid shrink, meet shopper needs and boost sales.",
@@ -72,6 +60,18 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "21414e8098f5e8a5",
+      "title": "Amano Enzymes to debut pea protein enhancer ProBoost Neutra at Bridge2Food Europe 2026",
+      "summary": "The new, advanced enzyme technology is designed to improve the functionality and flavour of pea protein ingredients without compromising their protein content, resulting in a lighter taste profile…",
+      "url": "https://nutraceuticalbusinessreview.com/amano-enzymes-pea-protein-enhancer-proboost-neutra-bridge2food",
+      "published_at": "2026-06-10T23:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
