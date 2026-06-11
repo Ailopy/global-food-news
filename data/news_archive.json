@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T21:04:52.929164+08:00",
-  "total": 2863,
+  "last_updated": "2026-06-12T01:46:39.167295+08:00",
+  "total": 2900,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -15,11 +15,227 @@
       "language": "en"
     },
     {
+      "id": "d94bd9b01e9d6dfd",
+      "title": "‘Fabricated Fear for Profit’: LMNT Sues Heath Scoring App Oasis Over False Lead Claims",
+      "summary": "LMNT is striking back against product rating app Oasis, filing a lawsuit on Wednesday accusing the company of publishing false information about dangerous levels of lead in its electrolyte powders.",
+      "url": "https://www.bevnet.com/news/2026/fabricated-fear-for-profit-lmnt-sues-heath-scoring-app-oasis-over-false-lead-claims",
+      "published_at": "2026-06-12T00:42:57+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "b70c1a116b778828",
+      "title": "Magic Spoon Extends into Oatmeal, Furthering Efforts to Build a Better Breakfast Aisle",
+      "summary": "Nostalgia-inspired better-for-you breakfast and snack products maker Magic Spoon is betting that the oatmeal category is ready for the same overhaul it brought to the cereal aisle several years ago.",
+      "url": "https://www.nosh.com/news/2026/magic-spoon-extends-into-oatmeal-furthering-efforts-to-build-a-better-breakfast-aisle",
+      "published_at": "2026-06-12T00:15:25+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8a611a51a02bb27d",
+      "title": "Red’s All Natural Enters Frozen Snacking Category",
+      "summary": "Rolling out to Kroger stores this month, Snackers is a line of smaller-format items made with simple ingredients including antibiotic-free meat and cage-free eggs.",
+      "url": "https://www.nosh.com/news/2026/reds-all-natural-enters-frozen-snacking-category",
+      "published_at": "2026-06-11T23:53:29+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8ff2889320751499",
+      "title": "BevNET Live Day One Recap: Sober Curious Founders Take the Stage",
+      "summary": "BevNET Live NYC 2026 kicked off with several sit-down interviews with entrepreneurs, including several in the low ABV and non-alcoholic beverage categories who discussed the rapidly changing consumer…",
+      "url": "https://www.bevnet.com/news/2026/bevnet-live-day-one-recap-sober-curious-founders-take-the-stage",
+      "published_at": "2026-06-11T23:43:22+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "ed1b564230e70d4f",
+      "title": "Why Molson Coors is betting on cheap beer",
+      "summary": "The brewer is reviving Keystone Light and expanding Miller High Life to reach younger drinkers and budget conscious consumers.",
+      "url": "https://www.fooddive.com/news/molson-coors-cheap-beer-value-miller-high-life-keystone-light/822646/",
+      "published_at": "2026-06-11T23:38:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "691a05390a56b927",
+      "title": "Study links Gnosis's MenaQ7 vitamin K2 to slower coronary artery calcification progression",
+      "summary": "A two-year placebo-controlled study published in JAMA Cardiology found that Gnosis's MenaQ7 ingredient was associated with significantly lower progression of coronary artery calcification in patients…",
+      "url": "https://nutraceuticalbusinessreview.com/study-gnosis-menaq7-vitamin-k2-coronary-artery-calcification",
+      "published_at": "2026-06-11T23:13:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "cee3821748d44785",
+      "title": "Are Restaurant QR Codes Still Relevant?",
+      "summary": "Most restaurant QR codes lead guests to the same generic page. Industry experts say that this is a missed opportunity for loyalty, data collection, and customer engagement. The post Are Restaurant QR…",
+      "url": "https://foodinstitute.com/focus/are-restaurant-qr-codes-still-relevant/?utm_source=rss&utm_medium=rss&utm_campaign=are-restaurant-qr-codes-still-relevant",
+      "published_at": "2026-06-11T23:00:53+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d1c900099bc87377",
+      "title": "Review: Ooso Sparkling Tea Impresses Again",
+      "summary": "Ooso’s latest Sparkling Tea flavor, Chamomile Peach Yuzu, continues the brand’s focus on premium non-alcoholic alternatives while showcasing a noticeably refined flavor profile.",
+      "url": "https://www.bevnet.com/news/2026/review-ooso-sparkling-tea-impresses-again",
+      "published_at": "2026-06-11T23:00:18+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "2140efc163fd38fb",
+      "title": "Why Nespresso diversified its delivery provider mix",
+      "summary": "The espresso and coffee company is tapping carriers like Jitsu in a bid to boost the end customer experience.",
+      "url": "https://www.fooddive.com/news/why-nespresso-diversified-its-delivery-provider-mix/822635/",
+      "published_at": "2026-06-11T22:55:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "8b510cca73a0cff9",
+      "title": "The Only Bean Bets on Target to Revitalize a Sleepy Snack Set",
+      "summary": "The launch marks a major milestone for the Las Vegas-based brand, which has rapidly expanded into thousands of stores across the club and grocery channels since its debut six years ago.",
+      "url": "https://www.nosh.com/news/2026/the-only-bean-bets-on-target-to-revitalize-a-sleepy-snack-set",
+      "published_at": "2026-06-11T22:31:10+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "e99a1d8cd7ad80cd",
+      "title": "Diamond Brew Closes Pre-Seed Round To Fuel Military Growth",
+      "summary": "Diamond Brew closed an oversubscribed pre-seed round to fuel innovation and support an expansion into the military channel.",
+      "url": "https://www.nosh.com/news/2026/diamond-brew-closes-pre-seed-round-to-fuel-military-growth",
+      "published_at": "2026-06-11T22:23:55+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "bb7db56c2d25069b",
+      "title": "Review: David Protein Expands Into Frozen Desserts",
+      "summary": "David Protein’s frozen dessert line includes four SKUs – Vanilla Bean, Cookie Dough, Triple Chocolate and Triple Peanut Butter – each delivering 30 grams of protein, 260 calories, and 2 grams of…",
+      "url": "https://www.nosh.com/news/2026/review-david-protein-frozen-desserts",
+      "published_at": "2026-06-11T22:16:21+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d6403667d4b7e6a5",
+      "title": "Suja Life Posts 22.5% Q1 Sales Growth in First Public Earnings",
+      "summary": "Fresh off its public debut in May, Suja Life reported strong first-quarter results fueled by distribution gains, promotional activity and continued momentum across its portfolio.",
+      "url": "https://www.bevnet.com/news/2026/suja-life-posts-22-5-q1-sales-growth-in-first-public-earnings",
+      "published_at": "2026-06-11T22:13:56+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d6c8b78e926c1e2e",
+      "title": "CPG Week Podcast: Meat Snack Mania, Celsius In Hot Water and Tom Brady’s Good Nut",
+      "summary": "This week on the podcast, Nosh managing editor Monica Watrous and senior reporter Brad Avery discuss why analysts are bullish on the meat snack category, plus a new premium coconut water brand…",
+      "url": "https://www.nosh.com/news/2026/cpg-week-podcast-meat-snack-mania-celsius-in-hot-water-and-tom-bradys-good-nut",
+      "published_at": "2026-06-11T22:01:37+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "bb615ef734204a4a",
+      "title": "Evonik launches Ecobiol PRO with accelerated spore germination to cut poultry antibiotic use",
+      "summary": "Optimised manufacturing delivers faster Bacillus velezensis activation in the small intestine — with broiler trials showing 50% better survival against C. perfringens versus standard market probiotics",
+      "url": "https://nutraceuticalbusinessreview.com/evonik-launches-ecobiol-pro-with-accelerated-spore-germination",
+      "published_at": "2026-06-11T21:39:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "f59692546e40d85d",
+      "title": "[Podcast] Cold Chain 2026 – Evolving Under Pressure Episode 2",
+      "summary": "This podcast series examines the forces reshaping cold chain operations, from trade volatility and tariffs to AI adoption and supply chain resilience.",
+      "url": "https://www.fooddive.com/spons/podcast-cold-chain-2026-evolving-under-pressure-episode-2/822633/",
+      "published_at": "2026-06-11T20:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "f2f02cc16306791d",
+      "title": "セブンのパンのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「セブンのパン」の最新・注目度ランキングです♪（2026年6月5日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22123/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "31b36e85696e521c",
       "title": "セブンのパンのトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「セブンのパン」の最新・注目度ランキングです♪（2026年6月5日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
       "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22123/?utm_source=rss&utm_medium=mognavinews_20260611",
       "published_at": "2026-06-11T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a5a11ae6bba3097f",
+      "title": "【2026年6月上旬】抹茶味の新商品！ぷるもち水まんじゅうや明治ザクットなど続々まとめ",
+      "summary": "梅雨の季節にぴったりな抹茶味の新商品が今週も続々と登場しています。和を感じる素材や食感にこだわったスイーツからパンまで、バラエティ豊かなラインナップをぜひチェ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22092/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T17:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -44,6 +260,18 @@
       "summary": "梅雨の季節にぴったりな抹茶味の新商品が今週も続々と登場しています。和を感じる素材や食感にこだわったスイーツからパンまで、バラエティ豊かなラインナップをぜひチェ…",
       "url": "https://mognavi.jp/news/matome/gen-newProduct-22092/?utm_source=rss&utm_medium=mognavinews_20260611",
       "published_at": "2026-06-11T17:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "666ad985b7d2124b",
+      "title": "今週新発売の食パン・ロールパンまとめ！『宇治抹茶あんトースト』、『湯捏ね仕立てのカンパーニュ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンリョーユーパン 宇治抹茶あんトースト 袋6枚宇治抹茶を…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061108/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -105,6 +333,18 @@
       "url": "https://shokuhin.net/151433/2026/06/11/kakou/reishoku/",
       "published_at": "2026-06-11T17:09:02+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "71e68860903c7fd1",
+      "title": "ローソン盛りすぎ！　人気すぎ！　おいしさ満点大ボリューム！：今週のコンビニスイーツランキング",
+      "summary": "週間コンビニスイーツランキングTOP3：2026年6月第2週今週もやってまいりました。2026年6月第2週、コンビニスイーツランキングのコーナーです。それでは…",
+      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182378/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T17:00:28+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -183,6 +423,18 @@
       "language": "ja"
     },
     {
+      "id": "0407fc3edffe6b74",
+      "title": "【2026年6月上旬】プリン・ゼリー・カップデザートの新商品！杏仁豆腐やメロンクリームソーダパフェなど涼しげスイーツまとめ",
+      "summary": "6月に入り、プリン・ゼリー・カップデザートの新商品が一気にそろいました。夏らしいフルーツフレーバーからほっとする和のテイストまで、バラエティ豊かなラインナップ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22091/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T15:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "a2389d613f242513",
       "title": "【2026年6月上旬】プリン・ゼリー・カップデザートの新商品！杏仁豆腐やメロンクリームソーダパフェなど涼しげスイーツまとめ",
       "summary": "6月に入り、プリン・ゼリー・カップデザートの新商品が一気にそろいました。夏らしいフルーツフレーバーからほっとする和のテイストまで、バラエティ豊かなラインナップ…",
@@ -207,6 +459,18 @@
       "language": "ja"
     },
     {
+      "id": "514dea2d8b78f890",
+      "title": "【2026年6月上旬】アイス・コンビニアイスの新商品！たべる牧場ミルク巨大サイズや白くまバーなど夏アイスまとめ",
+      "summary": "6月に入り、じりじりとした暑さを感じる日が増えてきました。そんな季節にぴったりな新作アイスが、コンビニやスーパーに続々と登場しています。今回は2026年6月1…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22090/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T15:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "807520bb411879ae",
       "title": "【2026年6月上旬】アイス・コンビニアイスの新商品！たべる牧場ミルク巨大サイズや白くまバーなど夏アイスまとめ",
       "summary": "6月に入り、じりじりとした暑さを感じる日が増えてきました。そんな季節にぴったりな新作アイスが、コンビニやスーパーに続々と登場しています。今回は2026年6月1…",
@@ -228,6 +492,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "25825060bfb3e6b5",
+      "title": "今週新発売の菓子パン🍫まとめ！『ポケモンボールドーナツ　メープル』、『プリキュアキャラメルメロンパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン ポケモンボールドーナツ メープル 4個入メープル味のボールドーナ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061107/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -279,6 +555,18 @@
       "language": "ja"
     },
     {
+      "id": "1b41712b3d4a9689",
+      "title": "【2026年6月上旬】ケーキ・洋菓子の新商品！生チョコパイや瀬戸内レモンタルトなど話題スイーツまとめ",
+      "summary": "6月に入り、夏を感じさせる新商品がケーキ・洋菓子コーナーに続々と登場しました。瀬戸内レモンを使ったさわやかな一品から、ホワイトチョコやチーズを使ったリッチなス…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22061/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T14:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "8466e15a2b6f4cca",
       "title": "【2026年6月上旬】ケーキ・洋菓子の新商品！生チョコパイや瀬戸内レモンタルトなど話題スイーツまとめ",
       "summary": "6月に入り、夏を感じさせる新商品がケーキ・洋菓子コーナーに続々と登場しました。瀬戸内レモンを使ったさわやかな一品から、ホワイトチョコやチーズを使ったリッチなス…",
@@ -303,6 +591,18 @@
       "language": "ja"
     },
     {
+      "id": "3f2600b81649184c",
+      "title": "【2026年6月上旬】飴・キャラメルの新商品！塩パインアメや塩ミルクキャンディなど塩味スイーツまとめ",
+      "summary": "2026年6月前半の飴・キャラメル・グミカテゴリには、シャリシャリ食感のソルベットグミから話題のキャラクターグミ、塩分補給にぴったりなミルクキャンディまで、バ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22060/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T13:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "1736ae53fc236124",
       "title": "【2026年6月上旬】飴・キャラメルの新商品！塩パインアメや塩ミルクキャンディなど塩味スイーツまとめ",
       "summary": "2026年6月前半の飴・キャラメル・グミカテゴリには、シャリシャリ食感のソルベットグミから話題のキャラクターグミ、塩分補給にぴったりなミルクキャンディまで、バ…",
@@ -315,11 +615,35 @@
       "language": "ja"
     },
     {
+      "id": "f49f90a457024bb2",
+      "title": "今週新発売の菓子パン🍫まとめ！『レモンの夏色ケーキ』、『チーズブレッド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング レモンの夏色ケーキレモン味のマフィンにレモン味グレーズをト…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061106/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5404d1a62f892e30",
       "title": "今週新発売の菓子パン🍫まとめ！『レモンの夏色ケーキ』、『チーズブレッド』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング レモンの夏色ケーキレモン味のマフィンにレモン味グレーズをト…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061106/?utm_source=rss&utm_medium=mognavinews_20260611",
       "published_at": "2026-06-11T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6bf6acca6a31e4e0",
+      "title": "【2026年6月上旬】ポテトチップス・スナックの新商品！夏ポテトや増量エアリアルなどまとめ",
+      "summary": "6月に入り、夏を感じさせる新フレーバーや地域素材を使ったこだわりのスナックが続々と登場しています。塩味、梅、わさび、レモンと、爽やかさを楽しめるラインナップが…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22059/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T13:15:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -349,6 +673,30 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "076825edbfad8b2d",
+      "title": "【2026年6月上旬】クッキー・パイ・ビスケットの新商品！レモンホワイトチョコや夕張メロン風味など話題作まとめ",
+      "summary": "2026年6月前半は、クッキー・パイ・ビスケットのカテゴリに個性豊かな新商品が10アイテム登場しました。定番ブランドの季節限定フレーバーから、コンビニ限定のス…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22058/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "158ed7c06dccb25f",
+      "title": "今週新発売の菓子パン🍫まとめ！『ディズニーキャラクター　クリーム＆ホイップパン』、『ぐるみんのいちごみるくクリームパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン ディズニーキャラクター クリーム＆ホイップパンカスタード風味のク…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061105/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "ef4a0df909cf9680",
@@ -396,6 +744,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "6aea8e76021097aa",
+      "title": "【2026年6月上旬】チョコレートの新商品！ベイク塩クッキーショコラや明治の沖縄塩シリーズなどまとめ",
+      "summary": "6月の新商品チョコレートが出揃いました。塩とチョコの組み合わせや、人気キャラクターとのコラボ、フルーティーな風味のアイテムなど、今回はバラエティ豊かなラインナ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22057/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T12:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -495,6 +855,18 @@
       "language": "ja"
     },
     {
+      "id": "c433754ace817afa",
+      "title": "今週新発売の菓子パン🍫まとめ！『丹念熟成愛媛いよかん』、『もっちりドーナツクリーム』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング 丹念熟成愛媛いよかんしっとりやわらかい生地に、愛媛産いよか…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061104/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "773bb62431f658cd",
       "title": "今週新発売の菓子パン🍫まとめ！『丹念熟成愛媛いよかん』、『もっちりドーナツクリーム』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング 丹念熟成愛媛いよかんしっとりやわらかい生地に、愛媛産いよか…",
@@ -543,6 +915,18 @@
       "language": "ja"
     },
     {
+      "id": "173867beab7f8229",
+      "title": "今週新発売の菓子パン🍫まとめ！『メープルクリームパン』、『ダブルクリームスティックケーキ　チョコ＆ホイップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンイトーパン メープルクリームパン 袋1個ブリオッシュ風生地でメープルフィリ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061103/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "bb05130265638953",
       "title": "今週新発売の菓子パン🍫まとめ！『メープルクリームパン』、『ダブルクリームスティックケーキ　チョコ＆ホイップ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンイトーパン メープルクリームパン 袋1個ブリオッシュ風生地でメープルフィリ…",
@@ -564,6 +948,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "36803d781ef44faf",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『蒸し野菜と豚しゃぶのサラダごはん』、『洋食プレート　ハンバーグ＆ナポリタン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン 蒸し野菜と豚しゃ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061102/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -613,6 +1009,18 @@
       "category": "饮料",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "d46abfa42d9a9976",
+      "title": "今週新発売の菓子パン🍫まとめ！『果実楽しむレーズン＆クランベリー』、『オレンジ＆レモンスティック』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング 果実楽しむレーズン＆クランベリーミルククリームを使用したも…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061101/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "3fd0aaf2cf49d672",
@@ -795,6 +1203,18 @@
       "language": "en"
     },
     {
+      "id": "0f8a0cecb5ee0347",
+      "title": "BevNET Live NYC 2026: Watch the Free Day 2 Livestream",
+      "summary": "Welcome to Day 2 of BevNET Live NYC 2026! Watch the free livestream from 8:30 AM to 1:00 PM ET. We'll hear from Trip, Morrison Seger VC Partners, Daizy's Social Soda, Habitat Partners, Owl's Brew,…",
+      "url": "https://www.bevnet.com/livestream/bevnet-live-summer-2026",
+      "published_at": "2026-06-10T21:55:52+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
       "id": "218d389f52a13fb0",
       "title": "BevNET Live NYC 2026: Watch the Free Day 1 Livestream",
       "summary": "Welcome to Day 1 of BevNET Live NYC 2026! Watch the free livestream from 10:00 AM to 4:30 PM ET. We'll hear from Swoon, Whole Foods Market, Culture Pop, The Vitamin Shoppe, New Fare Partners, Crooked…",
@@ -867,6 +1287,18 @@
       "language": "en"
     },
     {
+      "id": "de9f8a06227a3422",
+      "title": "セブンのおにぎりのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「セブンのおにぎり」の最新・注目度ランキングです♪（2026年6月5日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22024/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-10T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "4e5436d7e13e37e9",
       "title": "セブンのおにぎりのトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「セブンのおにぎり」の最新・注目度ランキングです♪（2026年6月5日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
@@ -884,6 +1316,18 @@
       "summary": "もぐナビ編集部です！今回ご紹介するのは「セブンのおにぎり」の最新・注目度ランキングです♪（2026年6月5日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
       "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22024/?utm_source=rss&utm_medium=mognavinews_20260610",
       "published_at": "2026-06-10T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "595317b72c987f9d",
+      "title": "今週新発売の菓子パン🍫まとめ！『ピスタチオクリーム＆ブルーベリージャム』、『果実楽しむ桃クリームパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンヤマザキ ランチパック ピスタチオクリーム＆ブルーベリージャムチョコチップ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061008/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-10T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
