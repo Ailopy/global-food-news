@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-12T01:46:39.206440+08:00",
+  "last_updated": "2026-06-12T03:20:42.538136+08:00",
   "retention_days": 7,
-  "total": 525,
+  "total": 526,
   "sources": [
     "BevNET",
     "Fab News",
@@ -27,6 +27,30 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "bd906475ef380f97",
+      "title": "More consumers checking nutrition labels for protein",
+      "summary": "Shoppers are increasingly looking for a broader range of information in labels beyond just ingredients to avoid, according to the International Food Information Council.",
+      "url": "https://www.fooddive.com/news/food-nutrition-labels-ingredient-list-consumer-study/822672/",
+      "published_at": "2026-06-12T02:31:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "30dd307b82921b5b",
+      "title": "Dad Grass Crowned Champion of New Beverage Showdown 31",
+      "summary": "Dad Grass was crowned the champion of New Beverage Showdown 31, joining an elite cohort of well-known beverage brands such as Health-Ade and Poppi that have previously claimed victory in the…",
+      "url": "https://www.bevnet.com/news/2026/dad-grass-crowned-champion-of-new-beverage-showdown-31",
+      "published_at": "2026-06-12T02:05:26+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
       "level": "A",
       "language": "en"
     },
@@ -247,18 +271,6 @@
       "language": "ja"
     },
     {
-      "id": "a5a11ae6bba3097f",
-      "title": "【2026年6月上旬】抹茶味の新商品！ぷるもち水まんじゅうや明治ザクットなど続々まとめ",
-      "summary": "梅雨の季節にぴったりな抹茶味の新商品が今週も続々と登場しています。和を感じる素材や食感にこだわったスイーツからパンまで、バラエティ豊かなラインナップをぜひチェ…",
-      "url": "https://mognavi.jp/news/matome/gen-newProduct-22092/?utm_source=rss&utm_medium=mognavinews_20260612",
-      "published_at": "2026-06-11T17:45:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "45c38a37aed34767",
       "title": "EFSA lowers safety threshold for dioxin exposure",
       "summary": "The regulatory body stressed that dioxins and PCBs \"continued to raise a health concern\" and that the WHO's updated calculations for assessing the toxicity of the chemicals had led to the revised TWI",
@@ -269,6 +281,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "a5a11ae6bba3097f",
+      "title": "【2026年6月上旬】抹茶味の新商品！ぷるもち水まんじゅうや明治ザクットなど続々まとめ",
+      "summary": "梅雨の季節にぴったりな抹茶味の新商品が今週も続々と登場しています。和を感じる素材や食感にこだわったスイーツからパンまで、バラエティ豊かなラインナップをぜひチェ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22092/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T17:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "e864156855a96af7",
@@ -511,18 +535,6 @@
       "language": "ja"
     },
     {
-      "id": "25825060bfb3e6b5",
-      "title": "今週新発売の菓子パン🍫まとめ！『ポケモンボールドーナツ　メープル』、『プリキュアキャラメルメロンパン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン ポケモンボールドーナツ メープル 4個入メープル味のボールドーナ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061107/?utm_source=rss&utm_medium=mognavinews_20260612",
-      "published_at": "2026-06-11T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "a401d683b0f57432",
       "title": "Made for Australia: engineering nutraceuticals within the TGA framework",
       "summary": "Regulatory compliance, formulation science and limited local manufacturing capacity are reshaping nutraceutical development in Australia. Dr Kevin Robinson spoke to experts at SIRIO Pharma to find…",
@@ -533,6 +545,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "25825060bfb3e6b5",
+      "title": "今週新発売の菓子パン🍫まとめ！『ポケモンボールドーナツ　メープル』、『プリキュアキャラメルメロンパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン ポケモンボールドーナツ メープル 4個入メープル味のボールドーナ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061107/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "fed19e33d2ead068",
@@ -6300,18 +6324,6 @@
       "summary": "Texas Attorney General Ken Paxton has launched an investigation into Celsius Holdings, Inc., alleging the Florida-based energy drink brand has improperly marketed Celsius and Alani Nu to minors.",
       "url": "https://www.bevnet.com/news/2026/texas-ag-opens-investigation-into-deceptive-celsius-marketing-practices",
       "published_at": "2026-06-05T04:35:40+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "c39547d2af5d4d45",
-      "title": "Why Saint Spritz Broke The Rules",
-      "summary": "Nearly every ready-to-drink (RTD) startup founder hears the same piece of advice: stay narrow, go deep, and prove velocity before you scale. But Saint Spritz went a different direction, and so far,…",
-      "url": "https://www.bevnet.com/spirits/2026/why-saint-spritz-broke-the-rules",
-      "published_at": "2026-06-05T02:00:29+08:00",
       "source": "BevNET",
       "region": "北美",
       "category": "饮料",
