@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T20:38:51.767801+08:00",
-  "total": 2966,
+  "last_updated": "2026-06-12T22:21:59.793804+08:00",
+  "total": 2970,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -36,6 +36,54 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "b0fa3c630d0739f5",
+      "title": "Children’s Snack Brand Cadootz! Charts Retail Expansion",
+      "summary": "Just six months after its direct-to-consumer debut, children’s snack brand cadootz! is launching nationwide at Target.",
+      "url": "https://www.nosh.com/news/2026/childrens-snack-brand-cadootz-charts-retail-expansion",
+      "published_at": "2026-06-12T22:13:17+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "302315c3ae4244c5",
+      "title": "How Jelly Belly is repositioning its brand for ‘social epicureans’",
+      "summary": "The new “Bean Appetit” campaign is meant to reintroduce the brand to consumers after its acquisition by confectioner Ferrara in 2023.",
+      "url": "https://www.fooddive.com/news/how-jelly-belly-is-repositioning-its-brand-for-social-epicureans/822774/",
+      "published_at": "2026-06-12T21:53:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "01fe538ad44574eb",
+      "title": "Jägermeister launches new global campaign for Jägermeister Orange, by The Midnight Club",
+      "summary": "Jägermeister is unveiling a new campaign and brand platform for the global launch of Jägermeister Orange, its new vibrant orange spirit. Created by The Midnight Club, the global campaign runs across…",
+      "url": "https://fabnews.live/jagermeister-launches-new-global-campaign-for-jagermeister-orange-by-the-midnight-club/",
+      "published_at": "2026-06-12T21:20:22+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0f5e391c0757c6a8",
+      "title": "Haleon commits ₹2000 crore to first India manufacturing facility targeting oral health growth",
+      "summary": "The greenfield Madhya Pradesh site, which will be operational by 2029-30, will serve domestic demand and Asian export markets, supporting Haleon's ambition to reach 300 million additional Indian…",
+      "url": "https://nutraceuticalbusinessreview.com/haleon-2000-crore-first-india-manufacturing-oral-health",
+      "published_at": "2026-06-12T19:16:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
@@ -159,18 +207,6 @@
       "language": "ja"
     },
     {
-      "id": "25b0ad1fbaf0a217",
-      "title": "Escaping the outsourcing trap: why end-to-end traceability and owned infrastructure are the ultimate strategic assets in a fragile global market",
-      "summary": "Kevin Soiseth, VP of Quality and Regulatory at Swanson Vitamins, discusses how supplement brands can regain control, reduce risk and ensure quality in a market where outsourcing has become a growing…",
-      "url": "https://nutraceuticalbusinessreview.com/escaping-the-outsourcing-trap-why-end-to-end",
-      "published_at": "2026-06-12T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "3ba30d7b70d3d79b",
       "title": "今週新発売の惣菜パンまとめ！『２色パン　カレー＆たまご』、『スパイシータコスチーズ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ 2色パン カレー＆たまご 袋1個カレーとたまごフィリング、２つの…",
@@ -181,6 +217,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "25b0ad1fbaf0a217",
+      "title": "Escaping the outsourcing trap: why end-to-end traceability and owned infrastructure are the ultimate strategic assets in a fragile global market",
+      "summary": "Kevin Soiseth, VP of Quality and Regulatory at Swanson Vitamins, discusses how supplement brands can regain control, reduce risk and ensure quality in a market where outsourcing has become a growing…",
+      "url": "https://nutraceuticalbusinessreview.com/escaping-the-outsourcing-trap-why-end-to-end",
+      "published_at": "2026-06-12T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "27894a59148a44eb",
@@ -1023,18 +1071,6 @@
       "language": "ja"
     },
     {
-      "id": "45c38a37aed34767",
-      "title": "EFSA lowers safety threshold for dioxin exposure",
-      "summary": "The regulatory body stressed that dioxins and PCBs \"continued to raise a health concern\" and that the WHO's updated calculations for assessing the toxicity of the chemicals had led to the revised TWI",
-      "url": "https://nutraceuticalbusinessreview.com/efsa-lowers-safety-threshold-dioxin-exposure-europe",
-      "published_at": "2026-06-11T17:45:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "a5a11ae6bba3097f",
       "title": "【2026年6月上旬】抹茶味の新商品！ぷるもち水まんじゅうや明治ザクットなど続々まとめ",
       "summary": "梅雨の季節にぴったりな抹茶味の新商品が今週も続々と登場しています。和を感じる素材や食感にこだわったスイーツからパンまで、バラエティ豊かなラインナップをぜひチェ…",
@@ -1045,6 +1081,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "45c38a37aed34767",
+      "title": "EFSA lowers safety threshold for dioxin exposure",
+      "summary": "The regulatory body stressed that dioxins and PCBs \"continued to raise a health concern\" and that the WHO's updated calculations for assessing the toxicity of the chemicals had led to the revised TWI",
+      "url": "https://nutraceuticalbusinessreview.com/efsa-lowers-safety-threshold-dioxin-exposure-europe",
+      "published_at": "2026-06-11T17:45:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "e864156855a96af7",
@@ -1287,18 +1335,6 @@
       "language": "ja"
     },
     {
-      "id": "a401d683b0f57432",
-      "title": "Made for Australia: engineering nutraceuticals within the TGA framework",
-      "summary": "Regulatory compliance, formulation science and limited local manufacturing capacity are reshaping nutraceutical development in Australia. Dr Kevin Robinson spoke to experts at SIRIO Pharma to find…",
-      "url": "https://nutraceuticalbusinessreview.com/made-for-australia-engineering-nutraceuticals-within-the-tga",
-      "published_at": "2026-06-11T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "25825060bfb3e6b5",
       "title": "今週新発売の菓子パン🍫まとめ！『ポケモンボールドーナツ　メープル』、『プリキュアキャラメルメロンパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン ポケモンボールドーナツ メープル 4個入メープル味のボールドーナ…",
@@ -1309,6 +1345,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "a401d683b0f57432",
+      "title": "Made for Australia: engineering nutraceuticals within the TGA framework",
+      "summary": "Regulatory compliance, formulation science and limited local manufacturing capacity are reshaping nutraceutical development in Australia. Dr Kevin Robinson spoke to experts at SIRIO Pharma to find…",
+      "url": "https://nutraceuticalbusinessreview.com/made-for-australia-engineering-nutraceuticals-within-the-tga",
+      "published_at": "2026-06-11T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "fed19e33d2ead068",
