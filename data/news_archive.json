@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T22:21:59.793804+08:00",
-  "total": 2970,
+  "last_updated": "2026-06-13T01:43:31.732214+08:00",
+  "total": 2978,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -39,12 +39,108 @@
       "language": "en"
     },
     {
+      "id": "25571d92edfea8e3",
+      "title": "Taste Radio: A ‘Live’ Take: In a Crowded Market, Clarity Wins",
+      "summary": "What separates the brands that break through from the ones that get left behind? At BevNET Live NYC 2026, founders, retailers, and investors pointed to a common answer: clarity. In this episode,…",
+      "url": "https://www.bevnet.com/news/2026/taste-radio-a-live-take-in-a-crowded-market-clarity-wins",
+      "published_at": "2026-06-13T00:55:13+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "490d79f1dff1404c",
+      "title": "Nature Made leads US News 2026 OTC rankings with 12 No. 1 category wins",
+      "summary": "Pharmacist-backed vitamin brand tops stress relief, omega-3, vitamin D and nine further categories in annual US News & World Report survey of 357 US pharmacists and dermatologists",
+      "url": "https://nutraceuticalbusinessreview.com/nature-made-leads-us-news-2026-otc-rankings",
+      "published_at": "2026-06-13T00:05:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "e38d2e7998085e45",
+      "title": "New Products: Veggies Made Great Does Frozen Pastries, Smash Kitchen Extends into Pasta Sauce",
+      "summary": "In this week’s notable new products roundup, Veggies Made Great brings hidden veggies to the frozen pastry aisle, Smash Kitchen makes its first foray into the pasta and pizza sauce category.",
+      "url": "https://www.nosh.com/news/2026/new-products-veggies-made-great-does-frozen-pastries-smash-kitchen-extends-into-pasta-sauce",
+      "published_at": "2026-06-12T23:38:30+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "43430e247d8f12e2",
+      "title": "BevNET Live Day Two Recap: Where Does Hemp Go Next?",
+      "summary": "BevNET Live Day Two featured insights from VC investors, conversations with entrepreneurs and deep dives into emerging drink categories.",
+      "url": "https://www.bevnet.com/news/2026/bevnet-live-day-two-recap-where-does-hemp-go-next",
+      "published_at": "2026-06-12T23:05:17+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c2ed54ae6685a77e",
+      "title": "AeroFarms Acquired By Palm Ventures Affiliate",
+      "summary": "Vertical farming company AeroFarms announced it has been acquired by an affiliate of Palm Ventures, an Austin- and Greenwich-based family investment office.",
+      "url": "https://www.nosh.com/news/2026/aerofarms-acquired-by-palm-ventures-affiliate",
+      "published_at": "2026-06-12T23:00:47+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "3b43caa541825642",
+      "title": "Americans unite on ultra-processed foods—and it's bad news for big food",
+      "summary": "A national survey finds bipartisan support for regulating ultra-processed foods. Find out what changes the majority of Americans are backing.",
+      "url": "https://www.newhope.com/regulatory/americans-agree-on-ultraprocessed-foods-and-its-bad-news-for-big-food",
+      "published_at": "2026-06-12T23:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "603dcffd3b2a1afa",
+      "title": "Leftovers: Svedka dips into vodka water | Magic Spoon expands with oatmeal",
+      "summary": "The alcohol maker said it's introduced a \"category-first innovation\" with a transparent can, while Italian gelato brand Sammontana grows its U.S. presence with a slate of new desserts.",
+      "url": "https://www.fooddive.com/news/svedka-vodka-water-magic-spoon-oatmeal-sammontana-gelato/822792/",
+      "published_at": "2026-06-12T22:44:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
       "id": "b0fa3c630d0739f5",
       "title": "Children’s Snack Brand Cadootz! Charts Retail Expansion",
       "summary": "Just six months after its direct-to-consumer debut, children’s snack brand cadootz! is launching nationwide at Target.",
       "url": "https://www.nosh.com/news/2026/childrens-snack-brand-cadootz-charts-retail-expansion",
       "published_at": "2026-06-12T22:13:17+08:00",
       "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "6e8c318a5ab44274",
+      "title": "3 Ways the World Cup Can Boost Business for Bars and Restaurants",
+      "summary": "The World Cup soccer tournament could fuel major foodservice traffic over the next five weeks. But, in order to take full advantage of fans’ fervor, operators will need to take careful steps like…",
+      "url": "https://foodinstitute.com/focus/3-ways-the-world-cup-can-boost-business-for-bars-and-restaurants/?utm_source=rss&utm_medium=rss&utm_campaign=3-ways-the-world-cup-can-boost-business-for-bars-and-restaurants",
+      "published_at": "2026-06-12T22:00:59+08:00",
+      "source": "The Food Institute",
       "region": "北美",
       "category": "综合",
       "level": "A",
@@ -207,18 +303,6 @@
       "language": "ja"
     },
     {
-      "id": "3ba30d7b70d3d79b",
-      "title": "今週新発売の惣菜パンまとめ！『２色パン　カレー＆たまご』、『スパイシータコスチーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ 2色パン カレー＆たまご 袋1個カレーとたまごフィリング、２つの…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061207/?utm_source=rss&utm_medium=mognavinews_20260612",
-      "published_at": "2026-06-12T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "25b0ad1fbaf0a217",
       "title": "Escaping the outsourcing trap: why end-to-end traceability and owned infrastructure are the ultimate strategic assets in a fragile global market",
       "summary": "Kevin Soiseth, VP of Quality and Regulatory at Swanson Vitamins, discusses how supplement brands can regain control, reduce risk and ensure quality in a market where outsourcing has become a growing…",
@@ -229,6 +313,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "3ba30d7b70d3d79b",
+      "title": "今週新発売の惣菜パンまとめ！『２色パン　カレー＆たまご』、『スパイシータコスチーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ 2色パン カレー＆たまご 袋1個カレーとたまごフィリング、２つの…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061207/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-12T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "27894a59148a44eb",
@@ -1071,18 +1167,6 @@
       "language": "ja"
     },
     {
-      "id": "a5a11ae6bba3097f",
-      "title": "【2026年6月上旬】抹茶味の新商品！ぷるもち水まんじゅうや明治ザクットなど続々まとめ",
-      "summary": "梅雨の季節にぴったりな抹茶味の新商品が今週も続々と登場しています。和を感じる素材や食感にこだわったスイーツからパンまで、バラエティ豊かなラインナップをぜひチェ…",
-      "url": "https://mognavi.jp/news/matome/gen-newProduct-22092/?utm_source=rss&utm_medium=mognavinews_20260612",
-      "published_at": "2026-06-11T17:45:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "45c38a37aed34767",
       "title": "EFSA lowers safety threshold for dioxin exposure",
       "summary": "The regulatory body stressed that dioxins and PCBs \"continued to raise a health concern\" and that the WHO's updated calculations for assessing the toxicity of the chemicals had led to the revised TWI",
@@ -1093,6 +1177,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "a5a11ae6bba3097f",
+      "title": "【2026年6月上旬】抹茶味の新商品！ぷるもち水まんじゅうや明治ザクットなど続々まとめ",
+      "summary": "梅雨の季節にぴったりな抹茶味の新商品が今週も続々と登場しています。和を感じる素材や食感にこだわったスイーツからパンまで、バラエティ豊かなラインナップをぜひチェ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22092/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T17:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "e864156855a96af7",
@@ -1335,18 +1431,6 @@
       "language": "ja"
     },
     {
-      "id": "25825060bfb3e6b5",
-      "title": "今週新発売の菓子パン🍫まとめ！『ポケモンボールドーナツ　メープル』、『プリキュアキャラメルメロンパン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン ポケモンボールドーナツ メープル 4個入メープル味のボールドーナ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061107/?utm_source=rss&utm_medium=mognavinews_20260612",
-      "published_at": "2026-06-11T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "a401d683b0f57432",
       "title": "Made for Australia: engineering nutraceuticals within the TGA framework",
       "summary": "Regulatory compliance, formulation science and limited local manufacturing capacity are reshaping nutraceutical development in Australia. Dr Kevin Robinson spoke to experts at SIRIO Pharma to find…",
@@ -1357,6 +1441,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "25825060bfb3e6b5",
+      "title": "今週新発売の菓子パン🍫まとめ！『ポケモンボールドーナツ　メープル』、『プリキュアキャラメルメロンパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン ポケモンボールドーナツ メープル 4個入メープル味のボールドーナ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061107/?utm_source=rss&utm_medium=mognavinews_20260612",
+      "published_at": "2026-06-11T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "fed19e33d2ead068",
