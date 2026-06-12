@@ -1,10 +1,10 @@
 # ============================================================
 # GitHub Actions — 自动抓取 + 部署
-# 触发时间：北京时间 08:00 / 12:00 / 17:00
-#   - 北京时间 08:00 → UTC 00:00  ★ A+ 来源优先批次
-#   - 北京时间 12:00 → UTC 04:00
-#   - 北京时间 17:00 → UTC 09:00
-# 优先逻辑：每次抓取时，A+ 级别来源优先处理，确保核心来源稳定更新
+# 触发时间：北京时间 08:00 / 09:00 / 12:00 / 17:00
+#   - 08:00 → RSS 资讯抓取（UTC 00:00）★ A+ 来源优先
+#   - 09:00 → 巨头官网爬虫（UTC 01:00）
+#   - 12:00 → RSS 资讯抓取（UTC 04:00）
+#   - 17:00 → RSS 资讯抓取（UTC 09:00）
 # ============================================================
 
 name: 每日资讯更新
@@ -20,70 +20,75 @@ on:
   schedule:
     # 北京时间 08:00（早间速报）
     - cron: "0 0 * * *"
+    # 北京时间 09:00（巨头官网爬虫）
+    - cron: "0 1 * * *"
     # 北京时间 12:00（午间补充）
     - cron: "0 4 * * *"
     # 北京时间 17:00（傍晚整理）
     - cron: "0 9 * * *"
 
-  # 允许手动触发（在 GitHub Actions 页面点击 Run workflow）
+  # 允许手动触发
   workflow_dispatch:
 
-# 设置 GITHUB_TOKEN 权限，允许写入内容和 Pages
+# 设置 GITHUB_TOKEN 权限
 permissions:
   contents: write
   pages: write
   id-token: write
 
 jobs:
-  fetch-and-deploy:
+  # ── Job 1: RSS 资讯抓取（08:00 / 12:00 / 17:00）────────
+  fetch-rss:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    # 只在 08:00 / 12:00 / 17:00 或手动/推送触发时运行
+    if: |
+      github.event_name == 'push' ||
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'schedule' && (
+        github.event.schedule == '0 0 * * *' ||
+        github.event.schedule == '0 4 * * *' ||
+        github.event.schedule == '0 9 * * *'
+      ))
 
     steps:
-      # ── 1. 拉取代码 ──────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # ── 2. 配置 Python ───────────────────────────────────
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
 
-      # ── 3. 安装依赖 ───────────────────────────────────────
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ── 4. 运行抓取脚本 ──────────────────────────────────
-      - name: Fetch news
+      - name: Fetch RSS news
         id: fetch
         run: python scripts/main.py
-        continue-on-error: false   # 失败时停止，后续步骤不执行
+        continue-on-error: false
 
-      # ── 5. 检查是否有数据更新 ─────────────────────────────
       - name: Check for changes
         id: check
         run: |
-          if git diff --quiet web/data/; then
+          if git diff --quiet web/data/news_latest.json web/data/news_archive.json; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
-      # ── 6. 提交更新的数据文件 ─────────────────────────────
       - name: Commit and push data
         if: steps.check.outputs.changed == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add web/data/
+          git add web/data/news_latest.json web/data/news_archive.json
           git commit -m "chore: 自动更新资讯数据 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
           git push
 
-      # ── 7. 部署到 GitHub Pages ────────────────────────────
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -93,16 +98,90 @@ jobs:
           force_orphan: false
           commit_message: "deploy: 更新页面 $(date '+%Y-%m-%d %H:%M')"
 
-      # ── 8. 输出结果摘要 ──────────────────────────────────
       - name: Summary
         if: always()
         run: |
-          echo "## 抓取结果" >> $GITHUB_STEP_SUMMARY
+          echo "## RSS 资讯抓取结果" >> $GITHUB_STEP_SUMMARY
           if [ -f web/data/news_latest.json ]; then
             COUNT=$(python -c "import json; d=json.load(open('web/data/news_latest.json')); print(d.get('total',0))")
             SOURCES=$(python -c "import json; d=json.load(open('web/data/news_latest.json')); print(len(d.get('sources',[])))")
             echo "- 最新资讯条数：$COUNT" >> $GITHUB_STEP_SUMMARY
             echo "- 活跃来源数量：$SOURCES" >> $GITHUB_STEP_SUMMARY
+            echo "- 更新时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- 数据文件未生成，请检查日志" >> $GITHUB_STEP_SUMMARY
+          fi
+
+  # ── Job 2: 巨头官网爬虫（09:00）────────────────────────
+  fetch-giants:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    # 只在 09:00 或手动触发时运行
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'schedule' && github.event.schedule == '0 1 * * *')
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape giant brand websites
+        run: |
+          cd scripts
+          python giant_brands_scraper.py
+        continue-on-error: false
+
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --quiet web/data/news_giant_brands.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push giant brands data
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/data/news_giant_brands.json
+          git commit -m "chore: 巨头官网资讯更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./web
+          publish_branch: gh-pages
+          force_orphan: false
+          commit_message: "deploy: 巨头资讯更新 $(date '+%Y-%m-%d %H:%M')"
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## 巨头官网爬取结果" >> $GITHUB_STEP_SUMMARY
+          if [ -f web/data/news_giant_brands.json ]; then
+            TOTAL=$(python -c "import json; d=json.load(open('web/data/news_giant_brands.json')); print(d.get('total',0))")
+            S_COUNT=$(python -c "import json; d=json.load(open('web/data/news_giant_brands.json')); print(d.get('s_count',0))")
+            A_COUNT=$(python -c "import json; d=json.load(open('web/data/news_giant_brands.json')); print(d.get('a_count',0))")
+            B_COUNT=$(python -c "import json; d=json.load(open('web/data/news_giant_brands.json')); print(d.get('b_count',0))")
+            BRANDS=$(python -c "import json; d=json.load(open('web/data/news_giant_brands.json')); print(len(d.get('brands',[])))")
+            echo "- 总条数：$TOTAL" >> $GITHUB_STEP_SUMMARY
+            echo "- S级：$S_COUNT | A级：$A_COUNT | B级：$B_COUNT" >> $GITHUB_STEP_SUMMARY
+            echo "- 活跃品牌数：$BRANDS" >> $GITHUB_STEP_SUMMARY
             echo "- 更新时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" >> $GITHUB_STEP_SUMMARY
           else
             echo "- 数据文件未生成，请检查日志" >> $GITHUB_STEP_SUMMARY

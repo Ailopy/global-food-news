@@ -982,3 +982,219 @@ footer {
   margin-top: 4px;
 }
 .topics-note svg { flex-shrink: 0; margin-top: 2px; }
+
+/* ════════════════════════════════════════════════════════════
+   巨头官网资讯视图
+════════════════════════════════════════════════════════════ */
+.giants-view { display: block; }
+
+.giants-intro {
+  padding: 20px 24px 12px;
+  border-bottom: 1px solid var(--c-border);
+  margin-bottom: 16px;
+}
+.giants-heading-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+.giants-heading {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--c-text);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+}
+.giants-update-time {
+  font-size: .76rem;
+  color: var(--c-text-3);
+  background: var(--c-surface-alt);
+  padding: 3px 10px;
+  border-radius: 20px;
+}
+.giants-sub {
+  font-size: .84rem;
+  color: var(--c-text-3);
+  margin: 6px 0 0;
+}
+
+/* 巨头筛选栏 */
+.giants-filter-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 24px;
+  flex-wrap: wrap;
+}
+.giants-filter-label {
+  font-size: .76rem;
+  font-weight: 600;
+  color: var(--c-text-3);
+  min-width: 32px;
+}
+.giants-filter-chips {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.giant-chip {
+  font-size: .74rem;
+  padding: 3px 10px;
+  border-radius: 20px;
+  border: 1px solid var(--c-border);
+  background: var(--c-surface);
+  color: var(--c-text-2);
+  cursor: pointer;
+  transition: all .15s;
+  white-space: nowrap;
+}
+.giant-chip.active {
+  background: var(--c-primary);
+  color: #fff;
+  border-color: var(--c-primary);
+}
+.giant-chip:hover { border-color: var(--c-primary-lt); }
+
+/* 巨头统计 */
+.giants-stats {
+  display: flex;
+  gap: 16px;
+  padding: 8px 24px 16px;
+  font-size: .82rem;
+  font-weight: 600;
+}
+.giants-stat-s { color: #dc2626; }
+.giants-stat-a { color: #d97706; }
+.giants-stat-b { color: var(--c-text-3); }
+.giants-stat-total { color: var(--c-text-3); margin-left: auto; font-weight: 400; }
+
+/* 巨头分区 */
+.giants-section {
+  padding: 0 24px 16px;
+}
+.giants-section-title {
+  font-size: .92rem;
+  font-weight: 700;
+  margin: 0 0 12px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid;
+}
+.giants-section-s { color: #dc2626; border-color: #fca5a5; }
+.giants-section-a { color: #d97706; border-color: #fcd34d; }
+.giants-section-b { color: var(--c-text-3); border-color: var(--c-border); }
+
+/* 巨头卡片网格 */
+.giants-grid {
+  display: grid;
+  gap: 12px;
+}
+.giants-grid-s { grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); }
+.giants-grid-ab { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+
+/* 巨头卡片 */
+.giant-card {
+  display: block;
+  background: var(--c-surface);
+  border-radius: 14px;
+  padding: 16px 18px;
+  text-decoration: none;
+  color: var(--c-text);
+  border: 1px solid var(--c-border);
+  transition: all .2s;
+  position: relative;
+  overflow: hidden;
+}
+.giant-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.08);
+}
+/* S级卡片左侧彩条 */
+.giant-card-s { border-left: 4px solid #dc2626; }
+.giant-card-a { border-left: 4px solid #d97706; }
+.giant-card-b { border-left: 4px solid var(--c-border); }
+
+.giant-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  gap: 8px;
+}
+.giant-card-brand {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: .78rem;
+  color: var(--c-text-2);
+}
+.giant-brand-icon { font-size: 1rem; }
+.giant-brand-name { font-weight: 600; }
+.giant-region-tag { color: var(--c-text-3); font-size: .72rem; }
+
+.giant-level-badge {
+  font-size: .68rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 10px;
+  white-space: nowrap;
+}
+.giant-level-s { background: #fef2f2; color: #dc2626; border: 1px solid #fca5a5; }
+.giant-level-a { background: #fffbeb; color: #d97706; border: 1px solid #fcd34d; }
+.giant-level-b { background: var(--c-surface-alt); color: var(--c-text-3); border: 1px solid var(--c-border); }
+
+.giant-card-title {
+  font-size: .92rem;
+  font-weight: 600;
+  line-height: 1.45;
+  margin: 0 0 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.giant-card-summary {
+  font-size: .78rem;
+  color: var(--c-text-3);
+  line-height: 1.5;
+  margin: 0 0 8px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.giant-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .72rem;
+  color: var(--c-text-3);
+}
+.giant-card-readmore {
+  color: var(--c-primary);
+  font-weight: 600;
+}
+.giant-card:hover .giant-card-readmore { text-decoration: underline; }
+
+.giants-empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 40px;
+  color: var(--c-text-3);
+}
+
+.giants-note {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 14px 18px;
+  background: var(--c-surface-alt);
+  border-radius: 12px;
+  font-size: .76rem;
+  color: var(--c-text-3);
+  line-height: 1.6;
+  margin: 4px 24px 24px;
+}
+.giants-note svg { flex-shrink: 0; margin-top: 2px; }

@@ -223,6 +223,7 @@ function topicMatchScore(art, config) {
 }
 
 const DATA_URL   = "./data/news_latest.json";
+const GIANTS_DATA_URL = "./data/news_giant_brands.json";
 const PAGE_SIZE  = 24;
 const DEBOUNCE_MS = 220;
 
@@ -264,7 +265,10 @@ let currentPage      = 1;
 let isListView       = false;
 let allRegions       = [];
 let allCategories    = [];
-let activeTab        = "all";   // "all" | "topics"
+let activeTab        = "all";   // "all" | "topics" | "giants"
+let allGiantArticles = [];
+let giantBrandsActive = new Set();
+let giantRegionsActive = new Set();
 
 // ── DOM ───────────────────────────────────────────────────────
 const grid           = document.getElementById("articlesGrid");
@@ -290,6 +294,7 @@ const categoryFilters= document.getElementById("categoryFilters");
 const tabBar       = document.getElementById("tabBar");
 const tabAllBtn    = document.getElementById("tabAll");
 const tabTopicsBtn = document.getElementById("tabTopics");
+const tabGiantsBtn = document.getElementById("tabGiants");
 const mainContent  = document.getElementById("main");
 
 // ── 时间格式化 ─────────────────────────────────────────────────
@@ -681,10 +686,255 @@ function renderTopicsView() {
   articlesGrid.classList.add("topics-view");
 }
 
+// ══════════════════════════════════════════════════════════
+// ── 巨头官网资讯视图 ──────────────────────────────────────
+// ══════════════════════════════════════════════════════════
+
+// 巨头品牌 emoji 映射
+const BRAND_ICON = {
+  "PepsiCo": "🥤", "Nestlé": "🐦", "Coca-Cola": "🥤", "Unilever": "🧴",
+  "AB InBev": "🍺", "Mars": "🍫", "Mondelez": "🥨", "Kraft Heinz": "🧀",
+  "General Mills": "🥣", "Danone": "🥛", "Ferrero": "🌰", "Suntory": "🍶",
+  "Asahi": "🍺", "Nissin": "🍜", "Kirin": "🍺", "Ajinomoto": "🧂",
+  "Meiji": "🍫", "Megmilk": "🧈", "Morinaga": "🍪", "Yakult": "🦠",
+  "Ito En": "🍵", "CJ": "🌽", "Lotte Chilsung": "🥤",
+  "Nestlé HS": "💊",
+};
+
+// S级原因中文映射
+const LEVEL_REASON_LABEL = {
+  "并购": "🔥 并购大动作", "新原料": "🧪 新原料", "新技术": "⚡ 新技术",
+  "新产品": "🆕 新产品", "营销创新": "🎯 营销创新", "重磅新政": "📋 重磅新政",
+  "常规新品/营销": "新品/营销", "企业动态": "企业动态",
+};
+
+async function loadGiantBrandsData() {
+  try {
+    const resp = await fetch(`${GIANTS_DATA_URL}?t=${Date.now()}`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    allGiantArticles = data.articles || [];
+    // 初始化筛选
+    if (data.brands) {
+      giantBrandsActive = new Set(data.brands);
+    } else {
+      giantBrandsActive = new Set(allGiantArticles.map(a => a.brand_cn));
+    }
+    if (data.regions) {
+      giantRegionsActive = new Set(data.regions);
+    } else {
+      giantRegionsActive = new Set(allGiantArticles.map(a => a.region));
+    }
+    return data;
+  } catch (err) {
+    console.error("巨头资讯加载失败:", err);
+    return null;
+  }
+}
+
+function renderGiantsView() {
+  const articlesGrid = document.getElementById("articlesGrid");
+  const emptyState   = document.getElementById("emptyState");
+  const loadMoreWrap = document.getElementById("loadMoreWrap");
+  const statsBar     = document.getElementById("statsBar");
+  if (statsBar) statsBar.style.display = "none";
+  emptyState.classList.add("hidden");
+  loadMoreWrap.classList.add("hidden");
+
+  if (allGiantArticles.length === 0) {
+    articlesGrid.innerHTML = `
+      <div style="grid-column:1/-1;text-align:center;padding:60px 24px;color:#7a9478;">
+        <div style="font-size:3rem;margin-bottom:16px;">🏢</div>
+        <p style="font-weight:600;font-size:1rem;">巨头资讯加载中…</p>
+        <p style="font-size:.875rem;margin-top:8px;opacity:.7;">数据加载完成后将显示巨头官网最新资讯</p>
+      </div>`;
+    articlesGrid.classList.add("giants-view");
+    return;
+  }
+
+  // 筛选
+  const filtered = allGiantArticles.filter(a =>
+    giantBrandsActive.has(a.brand_cn) && giantRegionsActive.has(a.region)
+  );
+
+  // 按级别分组
+  const sArts = filtered.filter(a => a.level === "S");
+  const aArts = filtered.filter(a => a.level === "A");
+  const bArts = filtered.filter(a => a.level === "B");
+
+  // 品牌筛选 chips
+  const allBrands = [...new Set(allGiantArticles.map(a => a.brand_cn))];
+  const allRegions = [...new Set(allGiantArticles.map(a => a.region))];
+
+  const brandChipsHTML = allBrands.map(b => {
+    const icon = Object.entries(BRAND_ICON).find(([k]) =>
+      allGiantArticles.some(a => a.brand_cn === b && a.brand.startsWith(k))
+    );
+    const isActive = giantBrandsActive.has(b);
+    return `<button class="giant-chip${isActive ? " active" : ""}" data-giant-brand="${b}" onclick="toggleGiantBrand(this,'${b}')">${icon ? icon[1] : ""} ${b}</button>`;
+  }).join("");
+
+  const regionChipsHTML = allRegions.map(r => {
+    const icon = REGION_ICON[r] || "🌐";
+    const isActive = giantRegionsActive.has(r);
+    return `<button class="giant-chip${isActive ? " active" : ""}" data-giant-region="${r}" onclick="toggleGiantRegion(this,'${r}')">${icon} ${r}</button>`;
+  }).join("");
+
+  // S 级卡片
+  function renderGiantCard(art) {
+    const icon = Object.entries(BRAND_ICON).find(([k]) => art.brand.startsWith(k));
+    const regionIcon = REGION_ICON[art.region] || "🌐";
+    const levelClass = art.level === "S" ? "giant-card-s" : art.level === "A" ? "giant-card-a" : "giant-card-b";
+    const levelBadge = art.level === "S"
+      ? `<span class="giant-level-badge giant-level-s">S级 · ${(LEVEL_REASON_LABEL[art.level_reason] || art.level_reason)}</span>`
+      : art.level === "A"
+        ? `<span class="giant-level-badge giant-level-a">A级</span>`
+        : `<span class="giant-level-badge giant-level-b">B级</span>`;
+    const timeStr = formatTime(art.published_at);
+    return `
+    <a href="${art.url}" target="_blank" rel="noopener noreferrer" class="giant-card ${levelClass}">
+      <div class="giant-card-header">
+        <div class="giant-card-brand">
+          <span class="giant-brand-icon">${icon ? icon[1] : "🏢"}</span>
+          <span class="giant-brand-name">${art.brand_cn}</span>
+          <span class="giant-region-tag">${regionIcon} ${art.region}</span>
+        </div>
+        ${levelBadge}
+      </div>
+      <h3 class="giant-card-title">${truncate(art.title || "（无标题）", 120)}</h3>
+      ${art.summary ? `<p class="giant-card-summary">${truncate(art.summary, 160)}</p>` : ""}
+      <div class="giant-card-footer">
+        <span class="giant-card-time">${timeStr}</span>
+        <span class="giant-card-readmore">阅读原文 →</span>
+      </div>
+    </a>`;
+  }
+
+  // 构建完整 HTML
+  let html = `
+  <div class="giants-intro">
+    <div class="giants-heading-row">
+      <h2 class="giants-heading">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+          <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
+        </svg>
+        全球巨头官网资讯
+      </h2>
+      <span class="giants-update-time">每日 09:00 自动更新 · S/A/B 分级</span>
+    </div>
+    <p class="giants-sub">直连全球 ${allBrands.length} 大巨头官方新闻源 · 投融资/新品类/新原料/新技术/营销创新 → S级重点</p>
+  </div>
+
+  <!-- 品牌筛选 -->
+  <div class="giants-filter-bar">
+    <span class="giants-filter-label">品牌</span>
+    <div class="giants-filter-chips">
+      <button class="giant-chip${giantBrandsActive.size === allBrands.length ? " active" : ""}" onclick="toggleAllGiantBrands()">全选</button>
+      ${brandChipsHTML}
+    </div>
+  </div>
+  <!-- 地区筛选 -->
+  <div class="giants-filter-bar">
+    <span class="giants-filter-label">地区</span>
+    <div class="giants-filter-chips">
+      <button class="giant-chip${giantRegionsActive.size === allRegions.length ? " active" : ""}" onclick="toggleAllGiantRegions()">全选</button>
+      ${regionChipsHTML}
+    </div>
+  </div>
+
+  <!-- 统计 -->
+  <div class="giants-stats">
+    <span class="giants-stat-s">🔥 S级 ${sArts.length}</span>
+    <span class="giants-stat-a">📦 A级 ${aArts.length}</span>
+    <span class="giants-stat-b">📋 B级 ${bArts.length}</span>
+    <span class="giants-stat-total">共 ${filtered.length} 条</span>
+  </div>`;
+
+  // S 级区域
+  if (sArts.length > 0) {
+    html += `<div class="giants-section"><h3 class="giants-section-title giants-section-s">🔥 S级 · 重大资讯</h3><div class="giants-grid giants-grid-s">`;
+    sArts.forEach(a => { html += renderGiantCard(a); });
+    html += `</div></div>`;
+  }
+
+  // A 级区域
+  if (aArts.length > 0) {
+    html += `<div class="giants-section"><h3 class="giants-section-title giants-section-a">📦 A级 · 常规新品/营销</h3><div class="giants-grid giants-grid-ab">`;
+    aArts.forEach(a => { html += renderGiantCard(a); });
+    html += `</div></div>`;
+  }
+
+  // B 级区域
+  if (bArts.length > 0) {
+    html += `<div class="giants-section"><h3 class="giants-section-title giants-section-b">📋 B级 · 企业动态</h3><div class="giants-grid giants-grid-ab">`;
+    bArts.forEach(a => { html += renderGiantCard(a); });
+    html += `</div></div>`;
+  }
+
+  if (filtered.length === 0) {
+    html += `<div class="giants-empty"><span>📭 当前筛选条件下没有资讯</span></div>`;
+  }
+
+  html += `
+  <div class="giants-note">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
+      <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+    </svg>
+    S级定义：行业巨头大动作（并购/合并）· 新原料/新技术 · 新产品（非新口味）· 创新营销联名 · 食品行业重磅新政。每日 09:00 自动抓取，保留近 10 天数据。
+  </div>`;
+
+  articlesGrid.innerHTML = html;
+  articlesGrid.classList.add("giants-view");
+}
+
+// 巨头品牌/地区筛选
+function toggleGiantBrand(btn, brand) {
+  if (giantBrandsActive.has(brand)) {
+    giantBrandsActive.delete(brand);
+    btn.classList.remove("active");
+  } else {
+    giantBrandsActive.add(brand);
+    btn.classList.add("active");
+  }
+  renderGiantsView();
+}
+
+function toggleGiantRegion(btn, region) {
+  if (giantRegionsActive.has(region)) {
+    giantRegionsActive.delete(region);
+    btn.classList.remove("active");
+  } else {
+    giantRegionsActive.add(region);
+    btn.classList.add("active");
+  }
+  renderGiantsView();
+}
+
+function toggleAllGiantBrands() {
+  const allBrands = [...new Set(allGiantArticles.map(a => a.brand_cn))];
+  if (giantBrandsActive.size === allBrands.length) {
+    giantBrandsActive.clear();
+  } else {
+    giantBrandsActive = new Set(allBrands);
+  }
+  renderGiantsView();
+}
+
+function toggleAllGiantRegions() {
+  const allRegions = [...new Set(allGiantArticles.map(a => a.region))];
+  if (giantRegionsActive.size === allRegions.length) {
+    giantRegionsActive.clear();
+  } else {
+    giantRegionsActive = new Set(allRegions);
+  }
+  renderGiantsView();
+}
+
 function switchTab(tab) {
   activeTab = tab;
   tabAllBtn.classList.toggle("active", tab === "all");
   tabTopicsBtn.classList.toggle("active", tab === "topics");
+  tabGiantsBtn.classList.toggle("active", tab === "giants");
 
   const statsBar = document.getElementById("statsBar");
   const filterBars = [
@@ -693,16 +943,28 @@ function switchTab(tab) {
     document.getElementById("filterBarCat")
   ];
 
+  const articlesGrid = document.getElementById("articlesGrid");
+
   if (tab === "topics") {
-    // 隐藏筛选栏，显示选题视图
     filterBars.forEach(el => { if (el) el.style.display = "none"; });
+    if (statsBar) statsBar.style.display = "none";
+    articlesGrid.classList.remove("giants-view");
     renderTopicsView();
+  } else if (tab === "giants") {
+    filterBars.forEach(el => { if (el) el.style.display = "none"; });
+    if (statsBar) statsBar.style.display = "none";
+    articlesGrid.classList.remove("topics-view");
+    // 加载巨头数据（如果还没加载）
+    if (allGiantArticles.length === 0) {
+      loadGiantBrandsData().then(() => renderGiantsView());
+    } else {
+      renderGiantsView();
+    }
   } else {
-    // 显示筛选栏，显示资讯列表
     filterBars.forEach(el => { if (el) el.style.display = ""; });
     if (statsBar) statsBar.style.display = "";
-    const articlesGrid = document.getElementById("articlesGrid");
     articlesGrid.classList.remove("topics-view");
+    articlesGrid.classList.remove("giants-view");
     applyFilters();
   }
 }
@@ -710,6 +972,7 @@ function switchTab(tab) {
 // ── Tab 事件 ───────────────────────────────────────────────────
 tabAllBtn.addEventListener("click",    () => switchTab("all"));
 tabTopicsBtn.addEventListener("click", () => switchTab("topics"));
+tabGiantsBtn.addEventListener("click", () => switchTab("giants"));
 
 // ── 搜索防抖 ───────────────────────────────────────────────────
 let searchTimer = null;
