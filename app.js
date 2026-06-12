@@ -1,123 +1,222 @@
 /**
- * app.js — 全球食品资讯聚合前端逻辑 v3
- * 新增：地区筛选、品类筛选、数据统计面板、推荐选题Tab
+ * app.js — 全球食品资讯聚合前端逻辑 v4
+ * 新增：地区筛选、品类筛选、数据统计面板、推荐选题Tab（视频栏目选题体系）
  */
 
-// ── 选题推荐配置 ─────────────────────────────────────────────
+// ── 视频栏目选题配置（对应 Foodaily 视频选题计划）─────────────
+// maxItems: 该方向展示的最多条数（权重越高展示越多）
+// priorityKeywords: 高权重词，命中 +10 分；keywords: 普通词，命中 +1 分
 const TOPIC_CONFIGS = [
+  // ══════════════════════════════════════════════════════════
+  // 栏目一：全球创新品鉴（占比 80%）—— 展示 5 条
+  // 子方向：①巨头新品爆品 ②国内新品渠道爆品 ③品牌潮趣营销 ④宝藏食材
+  // ══════════════════════════════════════════════════════════
   {
-    id: "head-companies",
-    icon: "🏢",
-    title: "头部企业动态",
-    desc: "全球/国内头部食品企业的新品创意、战略动向、收并购、渠道布局动作",
-    color: "#2d7d46",
-    bgColor: "#e8f5ec",
-    keywords: [
-      "nestle", "nestlé", "unilever", "pepsico", "coca-cola", "coca cola",
-      "mondelez", "kellogg", "general mills", "mars", "danone", "l'oreal",
-      "abbott", "campbell", "kraft heinz", "ADM", " Cargill", " Barry Callebaut",
-      "农夫山泉", "伊利", "蒙牛", "光明", "娃哈哈", "康师傅", "统一企业",
-      "旺旺", "良品铺子", "三只松鼠", "来伊份", "元气森林",
-      "acquisition", "merger", "m&a", "takeover", "战略", "扩张", "布局",
-      "收购", "并购", "新品上市", "new product", "launch", "expansion",
-      "strategic", "partnership", "collaboration", "joint venture"
+    id: "global-innovation",
+    icon: "🌟",
+    title: "全球创新品鉴",
+    badge: "每日必看 · 占比 80%",
+    desc: "新产品 · 新技术 · 新原料 · 新包装 · 新营销 ｜ 巨头爆品 / 国内爆品 / 品牌潮趣 / 宝藏食材",
+    color: "#c7521a",
+    bgColor: "#fff5ef",
+    maxItems: 5,
+    // ── ①巨头新品 & 爆品（日韩/北美/欧洲/澳洲/东南亚）
+    priorityKeywords: [
+      "new product", "new flavor", "new launch", "launches", "new range",
+      "limited edition", "limited-edition", "bestseller", "best seller",
+      "top selling", "record sales", "sold out",
+      "new formula", "reformulation", "new recipe",
+      // 巨头品牌
+      "nestle", "nestlé", "unilever", "pepsico", "pepsi", "coca-cola", "coca cola",
+      "mondelez", "kellogg", "kellanova", "general mills", "mars", "danone",
+      "campbell", "kraft heinz", "conagra", "tyson", "jbs",
+      "meiji", "morinaga", "glico", "calbee", "nissin", "kirin", "suntory",
+      "lotte", "orion", "ottogi", "nong shim", "nongshim", "cj cheiljedang",
+      "ferrero", "lindt", "haribo", "ritter sport", "bahlsen",
+      "arnotts", "fonterra", "sanitarium",
+      // 营销爆款
+      "collab", "collaboration", "limited", "co-branding", "联名",
+      "viral", "trending", "gone viral", "social media", "tiktok",
+      "brand campaign", "罪恶营销", "guilty", "indulgence",
+      // 宝藏食材 / 社媒爆品
+      "superfood", "trending ingredient", "exotic ingredient",
+      "yuzu", "柚子", "matcha", "抹茶", "miso", "味噌",
+      "butter mochi", "黄油年糕", "tahini", "芝麻酱", "ube", "紫薯",
+      "adaptogen", "mushroom coffee", "lion's mane", "chaga",
+      "moringa", "ashwagandha", "sea moss", "spirulina",
+      "trending food", "food trend", "hot product"
     ],
-    // 高权重关键词（匹配这些直接入选）
-    priorityKeywords: ["acquisition", "merger", "m&a", "收购", "并购", "新品", "launch", "new product", "收购", "战略"]
+    keywords: [
+      // 通用新品词
+      "launch", "introduce", "debut", "unveil", "release", "rollout",
+      "product innovation", "innovation", "ingredient innovation",
+      "new packaging", "new design", "rebrand", "relaunch",
+      // 国内渠道爆品
+      "sam's club", "sams club", "山姆", "costco", "盒马", "hema",
+      "aldi", "奥乐齐", "trader joe", "target", "walmart",
+      "抖音", "douyin", "小红书", "xiaohongshu", "直播带货",
+      // 包装 / 设计
+      "packaging", "package design", "new packaging", "packaging innovation",
+      "sustainable packaging", "eco-friendly", "biodegradable",
+      "refill", "recyclable", "clean label",
+      // 区域市场
+      "japan", "japanese", "korea", "korean", "australia", "australian",
+      "europe", "european", "uk", "southeast asia", "southeast asian",
+      // 产品形态
+      "snack", "beverage", "drink", "chocolate", "candy", "confectionery",
+      "dairy", "yogurt", "ice cream", "frozen", "bakery", "biscuit",
+      "noodle", "sauce", "condiment", "seasoning", "protein bar",
+      "energy drink", "functional drink", "health food", "organic",
+      // 技术 / 原料
+      "fermentation", "precision fermentation", "biotech",
+      "plant-based", "plant based", "alternative protein",
+      "probiotic", "prebiotic", "postbiotic", "gut health",
+      "collagen", "protein", "fiber", "omega", "vitamin",
+      "zero sugar", "no sugar", "low calorie", "natural flavor",
+      "non-gmo", "gluten-free", "vegan", "keto", "paleo"
+    ]
   },
+
+  // ══════════════════════════════════════════════════════════
+  // 栏目二：新XIU — 增长解构（占比 10%）—— 展示 2 条
+  // 企业/品牌商战 + 出海策略增长拆解
+  // ══════════════════════════════════════════════════════════
   {
-    id: "channel-innovation",
-    icon: "🛒",
-    title: "渠道新物种",
-    desc: "日韩药店、便利店、零食量贩、餐饮渠道等新兴零售/渠道形态的新案例",
+    id: "growth-decode",
+    icon: "📈",
+    title: "新XIU · 增长解构",
+    badge: "品牌增长拆解 · 占比 10%",
+    desc: "企业商战 · 出海策略 · 增长关键点拆解 · 国内市场可复制性分析",
     color: "#1a6b8a",
     bgColor: "#e0f4fb",
+    maxItems: 2,
+    priorityKeywords: [
+      // 商战 / 增长
+      "market share", "record revenue", "record sales", "fastest growing",
+      "overtake", "surpass", "number one", "market leader",
+      "turnaround", "comeback", "revival", "reinvention",
+      "brand strategy", "growth strategy", "success story",
+      // 出海
+      "export", "global expansion", "international", "overseas",
+      "enter market", "market entry", "cross-border", "go global",
+      "lotus biscoff", "lotus", "biscoff",
+      // 案例型词
+      "how", "why", "key to", "secret", "case study", "analysis",
+      "brand story", "behind the brand"
+    ],
     keywords: [
-      "pharmacy", "drugstore", "druggist", "convenience store", "convenience-store",
-      "conveni", " Lawson", "family mart", "seven-eleven", "7-eleven", "7 eleven",
-      "全家", "便利店", "药店", "药妆", "optical", "日域", "OWM",
-      "drugstore", "cosme", "松本清", "ain药局",
-      "零食量贩", "零食很忙", "赵一鸣", "零食门店", "snack chain",
-      "量贩零食", "discount store", "dollar store", "100円店", "百元店",
-      "fast fashion", "fast-casual", "ghost kitchen", "dark kitchen",
-      "virtual restaurant", "meal kit", "subscription box",
-      "auto-service", "自動販売機", "vending machine", "自助售货",
-      "OMNI", "omni-channel", "omnichannel", "全渠道", "D2C", "direct-to-consumer",
-      "折扣店", "临期食品", "奥特乐", "吉乐熊", "嗨特购",
-      "pop-up", "popup", "快闪店", "sample store"
+      "growth", "revenue", "profit", "sales", "performance", "earnings",
+      "expansion", "scale", "category", "penetration",
+      "rebranding", "repositioning", "pivot", "innovation strategy",
+      "consumer insight", "consumer behavior", "market trend",
+      "disruption", "disruptor", "challenger brand",
+      "partnership", "distribution", "retail expansion",
+      "japan expansion", "korea market", "china market",
+      "premium", "premiumization", "trading up", "value",
+      "subscription", "loyalty", "community", "brand equity"
     ]
   },
+
+  // ══════════════════════════════════════════════════════════
+  // 栏目三：赛道新物种（占比 5%）—— 展示 2 条
+  // 行业新品类、新赛道、新机遇
+  // ══════════════════════════════════════════════════════════
   {
-    id: "market-inspiration",
-    icon: "🌏",
-    title: "成熟市场启发",
-    desc: "日韩、欧美等成熟市场的创新产品、品牌、品类对中国市场的借鉴与启发",
+    id: "new-category",
+    icon: "🔬",
+    title: "赛道新物种",
+    badge: "新品类 · 新赛道 · 占比 5%",
+    desc: "行业潜力赛道 · 新品类机遇 · 清洁标签 / 康普茶 / 功能性食品等前沿方向",
     color: "#7c3aed",
-    bgColor: "#ede9fe",
+    bgColor: "#f0edfb",
+    maxItems: 2,
+    priorityKeywords: [
+      // 功能性 / 健康
+      "clean label", "clean-label", "kombucha", "kefir",
+      "functional food", "functional beverage", "nutraceutical",
+      "nootropic", "cognitive", "stress relief", "mood",
+      "sleep aid", "beauty from within", "skin health",
+      "immunity", "immune support", "longevity", "anti-aging",
+      "personalized nutrition", "precision nutrition",
+      // 新品类
+      "emerging category", "new category", "rising category",
+      "trending category", "white space", "niche market",
+      "category creator", "category disruptor",
+      // 植物基 / 替代蛋白
+      "cultivated meat", "lab-grown", "cell-based", "mycoprotein",
+      "insect protein", "single-cell protein"
+    ],
     keywords: [
-      "japan", "japanese", "korea", "korean", "k-beauty", "j-food",
-      "日本市场", "日式", "韩式", "韩国市场", "三得利", "明治", "森永",
-      "朝日", "麒麟", "日清", "龟甲万", "味之素", "kagome",
-      "ottogi", "农心", "bibigo", "大韩民国", "韩国",
-      "europe", "european", "uk", "germany", "france", "italy", "spain",
-      "欧洲市场", "北欧", "功能饮料", "plant-based", "plant based",
-      "oatly", "beyond meat", "impossible food", "瑞典燕麦",
-      "zero sugar", "no sugar", "low sugar", "减糖", "无糖",
-      "alternative protein", "替代蛋白", "precision fermentation",
-      "personalized nutrition", "个性化营养", "肠道健康",
-      "sleep", "功能性表示食品", "特定保健用食品", "FOSHU",
-      "nope", "guilt-free", "罪恶营销", "indulgence", "放纵营销",
-      "cocktail", "低酒精", "RTD", "ready-to-drink",
-      "shelf-stable", "常温", "long shelf life", "保质期",
-      "sustainability", "可持续", "plant forward", "素食",
-      "clean label", "clean label", "清洁标签", "天然",
-      "adaptogen", "适应原", "mushroom", "蘑菇", "CBD", "汉麻",
-      "blue zone", "长寿饮食", "地中海饮食", "mediterranean",
-      "social drinking", "无酒精社交", "non-alcoholic", "无醇"
+      "probiotic", "prebiotic", "postbiotic", "gut health",
+      "plant-based", "plant based", "vegan", "vegetarian",
+      "fermented", "fermentation", "live cultures",
+      "adaptogen", "ashwagandha", "rhodiola", "lion's mane",
+      "collagen", "peptide", "amino acid", "electrolyte",
+      "hydration", "sports nutrition", "performance",
+      "RTD", "ready to drink", "grab and go",
+      "organic", "natural", "non-gmo", "regenerative",
+      "sustainable", "carbon neutral", "zero waste",
+      "upcycled", "circular economy",
+      "trend report", "market report", "forecast", "future of food"
     ]
   },
+
+  // ══════════════════════════════════════════════════════════
+  // 栏目四：商业新知（占比 5%）—— 展示 2 条
+  // 政策、投融资、渠道变革、食品安全
+  // ══════════════════════════════════════════════════════════
   {
-    id: "packaging-innovation",
-    icon: "📦",
-    title: "包装设计创新",
-    desc: "聚焦包装结构、材料创新如何解决消费痛点或创造新体验，挖掘细分创新点",
-    color: "#b45309",
-    bgColor: "#fef3c7",
+    id: "biz-news",
+    icon: "📰",
+    title: "商业新知",
+    badge: "行业动态 · 占比 5%",
+    desc: "重磅政策 · 投融资 · 全球巨头并购 · 渠道变革 · 食品安全快讯",
+    color: "#374151",
+    bgColor: "#f3f4f6",
+    maxItems: 2,
+    priorityKeywords: [
+      // 并购 / 融资
+      "acquisition", "acquires", "acquired", "merger", "m&a",
+      "funding", "investment", "series a", "series b", "series c",
+      "ipo", "goes public", "listing", "valuation",
+      "raises", "secures funding", "venture capital", "private equity",
+      // 政策 / 监管
+      "regulation", "regulatory", "fda", "efsa", "food safety authority",
+      "ban", "recall", "warning", "violation", "penalty",
+      "new regulation", "policy", "legislation", "standard",
+      "approved", "approval", "authorized", "certified",
+      // 渠道变革
+      "don quijote", "donki", "唐吉坷德",
+      "trader joe", "缺德舅", "costco", "aldi", "lidl",
+      "convenience store", "drug store", "pharmacy",
+      "e-commerce", "online grocery", "delivery", "quick commerce",
+      // 食品安全
+      "food safety", "contamination", "outbreak", "listeria",
+      "salmonella", "recall notice", "allergen", "undeclared"
+    ],
     keywords: [
-      "packaging", "package design", "package", "packing",
-      "包装", "包装设计", "结构创新", "包装结构", "包装材料",
-      "sustainable packaging", "可持续包装", "eco-friendly", "环保包装",
-      "biodegradable", "可降解", "compostable", "植物基包装",
-      "paper packaging", "纸包装", "金属罐", "aluminum can",
-      "plastic reduction", "减塑", "plastic-free", "无塑",
-      "refill", "refillable", " refill", "补充装", "替换装",
-      "recyclable", "可回收", "recycled content", "再生塑料",
-      "mono-material", "单一材质", "pouch", "自立袋", "软包装",
-      "portion control", "小包装", "single serve", "一人份",
-      "smart packaging", "智能包装", "NFC tag", "AR packaging",
-      "QR code", "二维码", "interactive packaging", "互动包装",
-      "convenience", "易撕", "易开", "微波适用", "自热",
-      "on-the-go", "即食", "ready to eat", "RTE",
-      "gift packaging", "礼盒", "seasonal packaging", "节日包装",
-      "minimalist design", "极简包装", "design award", "包装大奖",
-      "worldstar", "pentaward", "if design award",
-      "shelf impact", "货架陈列", "point of sale", "POSM",
-      "brand identity", "品牌视觉", "typography", "字体设计",
-      "premium packaging", "高端包装", "luxury", "质感包装"
+      "invest", "deal", "transaction", "stake", "shares",
+      "revenue", "profit", "loss", "quarterly", "annual",
+      "ceo", "executive", "appoint", "resign", "leadership",
+      "partnership", "joint venture", "license", "franchise",
+      "export", "import", "tariff", "trade",
+      "supply chain", "shortage", "inflation", "cost",
+      "retail", "channel", "distribution", "wholesale",
+      "market", "industry", "sector", "category",
+      "report", "survey", "data", "statistics", "forecast",
+      "sustainability", "ESG", "carbon", "emission"
     ]
   }
 ];
 
-// 计算文章与选题方向的匹配分
+// ── 计算文章与选题方向的匹配分 ────────────────────────────────
 function topicMatchScore(art, config) {
   const text = ((art.title || "") + " " + (art.summary || "")).toLowerCase();
   let score = 0;
-  // 精确匹配高权重关键词
   for (const kw of (config.priorityKeywords || [])) {
     if (text.includes(kw.toLowerCase())) score += 10;
   }
-  // 匹配普通关键词
-  for (const kw of config.keywords) {
+  for (const kw of (config.keywords || [])) {
     if (text.includes(kw.toLowerCase())) score += 1;
   }
   return score;
@@ -458,17 +557,15 @@ function countToday(articles) {
 
 // ── 选题推荐渲染 ─────────────────────────────────────────────
 function renderTopicsView() {
-  // 清空并隐藏主内容区的统计和文章容器
-  const statsBar = document.getElementById("statsBar");
+  const statsBar    = document.getElementById("statsBar");
   const articlesGrid = document.getElementById("articlesGrid");
-  const emptyState = document.getElementById("emptyState");
+  const emptyState  = document.getElementById("emptyState");
   const loadMoreWrap = document.getElementById("loadMoreWrap");
   if (statsBar) statsBar.style.display = "none";
   articlesGrid.innerHTML = "";
   emptyState.classList.add("hidden");
   loadMoreWrap.classList.add("hidden");
 
-  // 如果还没加载数据
   if (allArticles.length === 0) {
     articlesGrid.innerHTML = `
       <div style="grid-column:1/-1;text-align:center;padding:60px 24px;color:#7a9478;">
@@ -479,75 +576,105 @@ function renderTopicsView() {
     return;
   }
 
-  // 选题推荐面板容器
+  // 今日资讯判断（用于加「今日」角标）
+  const todayStart = new Date(); todayStart.setHours(0,0,0,0);
+  function isToday(art) {
+    try { return new Date(art.published_at) >= todayStart; } catch { return false; }
+  }
+
+  // 更新时间展示
+  let lastUpdatedStr = "";
+  if (allArticles.length > 0) {
+    const times = allArticles.map(a => { try { return new Date(a.published_at).getTime(); } catch { return 0; }});
+    const maxTs = Math.max(...times);
+    if (maxTs > 0) {
+      const d = new Date(maxTs);
+      lastUpdatedStr = `${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")} ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}`;
+    }
+  }
+
   let topicsHTML = `
   <div class="topics-intro">
-    <h2 class="topics-heading">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="22" height="22">
-        <path d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
-      </svg>
-      选题方向严选
-    </h2>
-    <p class="topics-sub">基于近期资讯自动挖掘，每个方向精选 <strong>2 条</strong>最具代表性内容，供选题参考</p>
+    <div class="topics-heading-row">
+      <h2 class="topics-heading">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+        </svg>
+        视频选题推荐
+      </h2>
+      ${lastUpdatedStr ? `<span class="topics-update-time">资讯截至 ${lastUpdatedStr} · 每日 17:00 自动更新</span>` : ""}
+    </div>
+    <p class="topics-sub">基于当天抓取资讯自动匹配 Foodaily 视频栏目选题方向 · 每个方向取匹配分最高的内容，供选题参考</p>
   </div>
   <div class="topics-grid">`;
 
-  TOPIC_CONFIGS.forEach(config => {
-    // 找出匹配分最高的前 2 条文章
+  TOPIC_CONFIGS.forEach((config, cardIdx) => {
+    const maxItems = config.maxItems || 2;
     const scored = allArticles
-      .map(art => ({ art, score: topicMatchScore(art, config) }))
+      .map(art => ({ art, score: topicMatchScore(art, config), today: isToday(art) }))
       .filter(x => x.score > 0)
-      .sort((a, b) => b.score - a.score)
-      .slice(0, 2);
+      .sort((a, b) => {
+        // 今日资讯加权：同分时今日优先
+        const todayBonus = (b.today ? 3 : 0) - (a.today ? 3 : 0);
+        return (b.score - a.score) + todayBonus;
+      })
+      .slice(0, maxItems);
 
     const count = scored.length;
 
-    let articlesHTML = scored.map(({ art }, i) => {
+    const articlesHTML = scored.map(({ art, today }, i) => {
       const timeStr = formatTime(art.published_at);
+      const regionIcon = REGION_ICON[art.region] || "🌐";
       return `
-      <a href="${art.url}" target="_blank" rel="noopener noreferrer" class="topic-art-item" style="animation-delay:${i * 60}ms">
+      <a href="${art.url}" target="_blank" rel="noopener noreferrer" class="topic-art-item${today ? " topic-art-today" : ""}" style="animation-delay:${i * 50}ms">
         <div class="topic-art-header">
-          <span class="source-tag" style="background:${sourceColor(art.source)}20;color:${sourceColor(art.source)};border-color:${sourceColor(art.source)}40">${art.source}</span>
+          <div class="topic-art-meta">
+            <span class="source-tag" style="background:${sourceColor(art.source)}20;color:${sourceColor(art.source)};border-color:${sourceColor(art.source)}40">${art.source}</span>
+            <span class="region-tag">${regionIcon} ${art.region || ""}</span>
+            ${today ? `<span class="today-badge">今日</span>` : ""}
+          </div>
           <span class="topic-art-time">${timeStr}</span>
         </div>
-        <h3 class="topic-art-title">${highlight(truncate(art.title || "（无标题）", 80), "")}</h3>
-        ${art.summary ? `<p class="topic-art-summary">${highlight(truncate(art.summary, 120), "")}</p>` : ""}
+        <h3 class="topic-art-title">${truncate(art.title || "（无标题）", 90)}</h3>
+        ${art.summary ? `<p class="topic-art-summary">${truncate(art.summary, 130)}</p>` : ""}
+        <div class="topic-art-readmore">阅读原文 →</div>
       </a>`;
     }).join("");
 
     const emptyMsg = `
       <div class="topic-empty">
-        <span>暂未匹配到相关资讯</span>
-        <small>来源覆盖后将自动呈现</small>
+        <span>📭 今日暂未匹配到相关资讯</span>
+        <small>17:00 抓取后将自动呈现，或调整关键词覆盖</small>
       </div>`;
 
     topicsHTML += `
-    <div class="topic-card" style="--topic-color:${config.color};--topic-bg:${config.bgColor};animation-delay:${TOPIC_CONFIGS.indexOf(config) * 80}ms">
+    <div class="topic-card topic-card-${config.id}" style="--topic-color:${config.color};--topic-bg:${config.bgColor};animation-delay:${cardIdx * 80}ms">
       <div class="topic-card-header">
-        <span class="topic-icon">${config.icon}</span>
-        <div>
-          <h3 class="topic-title">${config.title}</h3>
-          <p class="topic-desc">${config.desc}</p>
+        <div class="topic-card-title-row">
+          <span class="topic-icon">${config.icon}</span>
+          <div class="topic-card-titles">
+            <h3 class="topic-title">${config.title}</h3>
+            ${config.badge ? `<span class="topic-badge">${config.badge}</span>` : ""}
+          </div>
         </div>
+        <p class="topic-desc">${config.desc}</p>
       </div>
       <div class="topic-arts">
         ${count > 0 ? articlesHTML : emptyMsg}
       </div>
       <div class="topic-footer">
-        <span class="topic-count">${count > 0 ? `${count} 条相关资讯` : "暂无匹配"}</span>
+        <span class="topic-count">${count > 0 ? `匹配到 ${count} 条相关资讯` : "暂无匹配"}</span>
+        <span class="topic-maxhint">最多展示 ${maxItems} 条</span>
       </div>
     </div>`;
   });
 
-  topicsHTML += `</div>`;
-
-  // 底部说明
-  topicsHTML += `
+  topicsHTML += `</div>
   <div class="topics-note">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
       <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
     </svg>
-    以上内容基于近7天资讯关键词自动匹配生成，选题方向供参考，具体报道请以原文为准。如需进一步筛选，请切换至「全部资讯」使用搜索和筛选功能。
+    以上内容由关键词算法自动匹配生成（每日 17:00 抓取后自动刷新），仅供选题参考，具体方向以团队判断为准。如需全量浏览，请切换「全部资讯」标签。
   </div>`;
 
   articlesGrid.innerHTML = topicsHTML;

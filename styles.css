@@ -726,98 +726,181 @@ footer {
   gap: 0;
 }
 .topics-intro {
-  margin-bottom: 28px;
-  padding-bottom: 20px;
+  margin-bottom: 24px;
+  padding-bottom: 18px;
   border-bottom: 2px solid var(--c-border);
 }
+.topics-heading-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 6px;
+}
 .topics-heading {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-weight: 800;
   color: var(--c-text);
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-bottom: 8px;
-}
-.topics-sub {
-  font-size: .85rem;
-  color: var(--c-text-3);
   margin: 0;
 }
+.topics-update-time {
+  font-size: .72rem;
+  color: var(--c-text-3);
+  padding: 3px 10px;
+  border-radius: 12px;
+  background: var(--c-border);
+  white-space: nowrap;
+}
+.topics-sub {
+  font-size: .82rem;
+  color: var(--c-text-3);
+  margin: 0;
+  line-height: 1.55;
+}
+
+/* 2-col 主布局，全局品鉴占满一行 */
 .topics-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 24px;
-  margin-bottom: 32px;
+  gap: 20px;
+  margin-bottom: 28px;
+}
+/* 全球创新品鉴（第一张）占满整行 */
+.topic-card-global-innovation {
+  grid-column: 1 / -1;
 }
 @media (max-width: 900px) {
   .topics-grid { grid-template-columns: 1fr; }
+  .topic-card-global-innovation { grid-column: auto; }
 }
+
+/* 卡片主体 */
 .topic-card {
   background: var(--c-surface);
   border: 1.5px solid var(--c-border);
-  border-radius: 20px;
+  border-radius: 18px;
   overflow: hidden;
   transition: var(--transition);
   animation: card-in .4s cubic-bezier(.4,0,.2,1) both;
   border-top: 4px solid var(--topic-color, var(--c-primary));
 }
 .topic-card:hover {
-  box-shadow: 0 8px 32px rgba(0,0,0,.1);
-  transform: translateY(-3px);
+  box-shadow: 0 8px 32px rgba(0,0,0,.09);
+  transform: translateY(-2px);
 }
+
+/* 卡片头部 */
 .topic-card-header {
-  padding: 20px 20px 16px;
-  display: flex;
-  gap: 14px;
-  align-items: flex-start;
+  padding: 16px 20px 14px;
   background: var(--topic-bg, var(--c-bg));
   border-bottom: 1px solid var(--c-border);
 }
+.topic-card-title-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
 .topic-icon {
-  font-size: 2rem;
+  font-size: 1.75rem;
   flex-shrink: 0;
   filter: drop-shadow(0 2px 4px rgba(0,0,0,.12));
+}
+.topic-card-titles {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
 }
 .topic-title {
   font-size: 1rem;
   font-weight: 800;
   color: var(--topic-color, var(--c-primary));
-  margin: 0 0 4px;
+  margin: 0;
+  line-height: 1.2;
+}
+.topic-badge {
+  font-size: .65rem;
+  font-weight: 600;
+  color: var(--topic-color, var(--c-primary));
+  background: color-mix(in srgb, var(--topic-color, var(--c-primary)) 12%, white);
+  padding: 1px 7px;
+  border-radius: 8px;
+  border: 1px solid color-mix(in srgb, var(--topic-color, var(--c-primary)) 25%, white);
+  white-space: nowrap;
+  letter-spacing: .03em;
 }
 .topic-desc {
-  font-size: .78rem;
+  font-size: .76rem;
   color: var(--c-text-2);
   margin: 0;
   line-height: 1.5;
 }
-.topic-arts {
-  padding: 0;
-}
+
+/* 文章列表 */
+.topic-arts { padding: 0; }
+
 .topic-art-item {
   display: block;
-  padding: 14px 20px;
+  padding: 12px 20px;
   text-decoration: none;
   color: inherit;
   border-bottom: 1px solid var(--c-border);
-  transition: background .18s;
+  transition: background .15s;
+  position: relative;
 }
 .topic-art-item:last-child { border-bottom: none; }
 .topic-art-item:hover { background: var(--topic-bg, var(--c-bg)); }
+
+/* 今日资讯高亮条纹 */
+.topic-art-today {
+  background: linear-gradient(to right, color-mix(in srgb, var(--topic-color,#2d7d46) 5%, transparent) 0%, transparent 60%);
+}
+.topic-art-today::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: var(--topic-color, var(--c-primary));
+  border-radius: 0 2px 2px 0;
+}
+
 .topic-art-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 8px;
-  margin-bottom: 6px;
+  gap: 6px;
+  margin-bottom: 5px;
+  flex-wrap: wrap;
+}
+.topic-art-meta {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex-wrap: wrap;
 }
 .topic-art-time {
-  font-size: .68rem;
+  font-size: .67rem;
   color: var(--c-text-3);
   white-space: nowrap;
+  flex-shrink: 0;
+}
+.today-badge {
+  display: inline-block;
+  font-size: .62rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  color: #fff;
+  background: var(--topic-color, var(--c-primary));
+  padding: 1px 6px;
+  border-radius: 6px;
+  line-height: 1.4;
 }
 .topic-art-title {
-  font-size: .88rem;
+  font-size: .9rem;
   font-weight: 700;
   color: var(--c-text);
   margin: 0 0 4px;
@@ -829,21 +912,31 @@ footer {
 }
 .topic-art-item:hover .topic-art-title { color: var(--topic-color, var(--c-primary)); }
 .topic-art-summary {
-  font-size: .78rem;
+  font-size: .77rem;
   color: var(--c-text-2);
-  margin: 0;
+  margin: 0 0 6px;
   line-height: 1.5;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+.topic-art-readmore {
+  font-size: .7rem;
+  font-weight: 600;
+  color: var(--topic-color, var(--c-primary));
+  opacity: 0;
+  transition: opacity .15s;
+}
+.topic-art-item:hover .topic-art-readmore { opacity: 1; }
+
+/* 空状态 */
 .topic-empty {
-  padding: 20px;
+  padding: 24px 20px;
   text-align: center;
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  gap: 5px;
 }
 .topic-empty span {
   font-size: .82rem;
@@ -851,30 +944,41 @@ footer {
   font-weight: 500;
 }
 .topic-empty small {
-  font-size: .72rem;
+  font-size: .71rem;
   color: var(--c-text-3);
   opacity: .7;
 }
+
+/* 卡片底部 */
 .topic-footer {
-  padding: 10px 20px;
+  padding: 8px 20px;
   background: var(--topic-bg, var(--c-bg));
   border-top: 1px solid var(--c-border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .topic-count {
-  font-size: .72rem;
+  font-size: .71rem;
   color: var(--topic-color, var(--c-primary));
   font-weight: 600;
 }
+.topic-maxhint {
+  font-size: .68rem;
+  color: var(--c-text-3);
+}
+
+/* 底部说明 */
 .topics-note {
   display: flex;
   gap: 10px;
   align-items: flex-start;
-  padding: 16px 20px;
+  padding: 14px 18px;
   background: var(--c-surface-alt);
   border-radius: 12px;
-  font-size: .78rem;
+  font-size: .76rem;
   color: var(--c-text-3);
   line-height: 1.6;
-  margin-top: 8px;
+  margin-top: 4px;
 }
-.topics-note svg { flex-shrink: 0; margin-top: 1px; }
+.topics-note svg { flex-shrink: 0; margin-top: 2px; }
