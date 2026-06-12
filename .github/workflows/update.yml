@@ -10,6 +10,13 @@
 name: 每日资讯更新
 
 on:
+  # 当 web/ 目录或工作流文件有变更时自动部署
+  push:
+    branches: [master]
+    paths:
+      - "web/**"
+      - ".github/workflows/**"
+
   schedule:
     # 北京时间 08:00（早间速报）
     - cron: "0 0 * * *"
