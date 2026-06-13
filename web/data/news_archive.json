@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T18:13:35.197419+08:00",
+  "last_updated": "2026-06-13T19:29:13.694140+08:00",
   "total": 3016,
   "articles": [
     {
@@ -711,18 +711,6 @@
       "language": "ja"
     },
     {
-      "id": "4a434ddcf879088e",
-      "title": "今週新発売の惣菜パンまとめ！『２色パン　カレー＆たまご』、『スパイシータコスチーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ 2色パン カレー＆たまご 袋1個カレーとたまごフィリング、２つの…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061207/?utm_source=rss&utm_medium=mognavinews_20260613",
-      "published_at": "2026-06-12T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "25b0ad1fbaf0a217",
       "title": "Escaping the outsourcing trap: why end-to-end traceability and owned infrastructure are the ultimate strategic assets in a fragile global market",
       "summary": "Kevin Soiseth, VP of Quality and Regulatory at Swanson Vitamins, discusses how supplement brands can regain control, reduce risk and ensure quality in a market where outsourcing has become a growing…",
@@ -733,6 +721,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "4a434ddcf879088e",
+      "title": "今週新発売の惣菜パンまとめ！『２色パン　カレー＆たまご』、『スパイシータコスチーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ 2色パン カレー＆たまご 袋1個カレーとたまごフィリング、２つの…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061207/?utm_source=rss&utm_medium=mognavinews_20260613",
+      "published_at": "2026-06-12T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "3ba30d7b70d3d79b",
