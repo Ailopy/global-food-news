@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-14T19:46:42.848734+08:00",
-  "total": 3059,
+  "last_updated": "2026-06-14T23:28:36.794851+08:00",
+  "total": 3080,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -27,11 +27,47 @@
       "language": "en"
     },
     {
+      "id": "453549de433be928",
+      "title": "Sunday Edition: Shrooms",
+      "summary": "Quick bites from around the food safety arena this week Another new outbreak of Salmonella Enteritidis is under investigation by the FDA. Although the source has not been identified, there are…",
+      "url": "https://www.foodsafetynews.com/2026/06/sunday-edition-shrooms/",
+      "published_at": "2026-06-14T20:00:43+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "b3163efefcae17f8",
+      "title": "コンビニプリンのおすすめTOP3！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニプリン」のおすすめランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
+      "url": "https://mognavi.jp/news/matome/gen-tagRanking-22222/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "cd5cb572cf633b01",
       "title": "コンビニプリンのおすすめTOP3！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニプリン」のおすすめランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
       "url": "https://mognavi.jp/news/matome/gen-tagRanking-22222/?utm_source=rss&utm_medium=mognavinews_20260614",
       "published_at": "2026-06-14T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "95076f4afbfac4fe",
+      "title": "今週新発売の卵料理まとめ！『やみつき香味ダレのとろっと韓国風煮たまご』、『盛りすぎ！具！おにぎり　ポーク玉子　シーチキン　マヨネーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！卵料理の新商品情報をお届けします。今週新発売の#卵料理セブン-イレブン やみつき香味ダレのとろっと韓国風煮たまご醤油に胡麻油、…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061408/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -63,11 +99,35 @@
       "language": "ja"
     },
     {
+      "id": "bde10fe52b983ffe",
+      "title": "今週新発売の濃厚な食べものまとめ！『バー　洋梨＆ミルク』、『かじるニューヨークチーズケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚ハーゲンダッツ バー 洋梨＆ミルク 箱69ml果実感あふれる洋梨とコク深いミ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061407/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5fad2e9ef77acad3",
       "title": "今週新発売の濃厚な食べものまとめ！『バー　洋梨＆ミルク』、『かじるニューヨークチーズケーキ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚ハーゲンダッツ バー 洋梨＆ミルク 箱69ml果実感あふれる洋梨とコク深いミ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061407/?utm_source=rss&utm_medium=mognavinews_20260614",
       "published_at": "2026-06-14T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b1612e25664627c2",
+      "title": "今週新発売の塩◯◯まとめ！『大粒ラムネ　ソルティライチ』、『アーモンドチョコレート沖縄塩＆ミルク』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯森永製菓 大粒ラムネ ソルティライチ 袋30g・ぶどう糖90％※、塩分(…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061406/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T13:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -87,11 +147,35 @@
       "language": "ja"
     },
     {
+      "id": "5571d50161b4d90e",
+      "title": "【2026年6月第2週】ポテトチップス・スナックランキング1位はベビースター ドデカイラーメン BBQステーキ味！新商品・急上昇続々まとめ",
+      "summary": "2026年6月第2週のポテトチップス・スナックランキングが出揃いました。新発売の話題商品から、久しぶりにランクインした懐かしのあの味まで、バラエティ豊かな顔ぶ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22200/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "bf059f2a95302457",
       "title": "【2026年6月第2週】ポテトチップス・スナックランキング1位はベビースター ドデカイラーメン BBQステーキ味！新商品・急上昇続々まとめ",
       "summary": "2026年6月第2週のポテトチップス・スナックランキングが出揃いました。新発売の話題商品から、久しぶりにランクインした懐かしのあの味まで、バラエティ豊かな顔ぶ…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22200/?utm_source=rss&utm_medium=mognavinews_20260614",
       "published_at": "2026-06-14T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "97e52e880c0d7d09",
+      "title": "今週新発売のお弁当🍱まとめ！『イカフライおかか御飯　麦飯』、『スパカツ＆バターライス』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！お弁当の新商品情報をお届けします。今週新発売の#お弁当セブン-イレブン イカフライおかか御飯 麦飯麦ごはんにイカフライ、タルタ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061405/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T12:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -123,11 +207,35 @@
       "language": "en"
     },
     {
+      "id": "33b37266c45e4f4f",
+      "title": "【2026年6月第2週】せんべい・駄菓子ランキング1位は亀田の柿の種 梅しそ！新商品・急上昇商品まとめ",
+      "summary": "2026年6月第2週のせんべい・駄菓子ランキングをお届けします！梅しその爽やかな風味から、驚きの堅さで話題のあられ、濃厚チーズ味の新作まで、今週もバラエティ豊…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22199/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "1473cdc02542bbf2",
       "title": "【2026年6月第2週】せんべい・駄菓子ランキング1位は亀田の柿の種 梅しそ！新商品・急上昇商品まとめ",
       "summary": "2026年6月第2週のせんべい・駄菓子ランキングをお届けします！梅しその爽やかな風味から、驚きの堅さで話題のあられ、濃厚チーズ味の新作まで、今週もバラエティ豊…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22199/?utm_source=rss&utm_medium=mognavinews_20260614",
       "published_at": "2026-06-14T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "279cfae03bdfa14f",
+      "title": "今週新発売の塩味まとめ！『ベイク　塩クッキーショコラ』、『マカダミアチョコレート沖縄塩＆バニラ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩味の新商品情報をお届けします。今週新発売の#塩味森永製菓 ベイク 塩クッキーショコラ 箱10粒・外はこんがり、中はなめらかな…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061404/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T11:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -147,6 +255,18 @@
       "language": "ja"
     },
     {
+      "id": "3787a38c6662a19b",
+      "title": "【2026年6月第2週】クッキー・パイ・ビスケットランキング1位はムーンライト！急上昇アイテムも注目のまとめ",
+      "summary": "2026年6月第2週のクッキー・パイ・ビスケットランキングが出そろいました。夏に向けてさっぱりした風味のものからリッチなチョコ系まで、バラエティ豊かなラインナ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22198/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e87fb0d8d35cb37c",
       "title": "【2026年6月第2週】クッキー・パイ・ビスケットランキング1位はムーンライト！急上昇アイテムも注目のまとめ",
       "summary": "2026年6月第2週のクッキー・パイ・ビスケットランキングが出そろいました。夏に向けてさっぱりした風味のものからリッチなチョコ系まで、バラエティ豊かなラインナ…",
@@ -159,11 +279,35 @@
       "language": "ja"
     },
     {
+      "id": "f888035f5be5beb9",
+      "title": "今週新発売のホイップまとめ！『も～っちり食感チョコクリームパン』、『静岡茶仕立てのコロコロようかん』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ホイップの新商品情報をお届けします。今週新発売の#ホイップファミリーマート ファミマルBakery も～っちり食感チョコクリー…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061403/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "4de16948fcebed50",
       "title": "今週新発売のホイップまとめ！『も～っちり食感チョコクリームパン』、『静岡茶仕立てのコロコロようかん』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ホイップの新商品情報をお届けします。今週新発売の#ホイップファミリーマート ファミマルBakery も～っちり食感チョコクリー…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061403/?utm_source=rss&utm_medium=mognavinews_20260614",
       "published_at": "2026-06-14T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c685926e18bcf726",
+      "title": "【2026年6月第2週】チョコレートランキング1位はトッポ ザ・ストロベリー！新商品・急上昇商品まとめ",
+      "summary": "2026年6月第2週のチョコレートランキングが出そろいました。いちご系からポテチ×チョコの名コンビ、チーズ系まで、今週もバラエティ豊かな顔ぶれとなっています。…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22197/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T10:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -195,11 +339,35 @@
       "language": "ja"
     },
     {
+      "id": "738f24de101b5599",
+      "title": "今週新発売の惣菜パンまとめ！『ベーコンピザパン』、『黒いメガレックウザのハム＆マヨパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンイトーパン ベーコンピザパン 袋1個トマトオニオンフィリングとベーコンをト…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061402/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "46470b4e210915a6",
       "title": "今週新発売の惣菜パンまとめ！『ベーコンピザパン』、『黒いメガレックウザのハム＆マヨパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンイトーパン ベーコンピザパン 袋1個トマトオニオンフィリングとベーコンをト…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061402/?utm_source=rss&utm_medium=mognavinews_20260614",
       "published_at": "2026-06-14T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "abada82a2f76a3f0",
+      "title": "【2026年6月第2週】飴・キャラメルランキング1位はピュレグミプレミアム 沖縄産パイナップル！新商品・急上昇商品まとめ",
+      "summary": "2026年6月第2週、飴・キャラメルカテゴリのランキングが出そろいました。初夏らしいフルーツ系グミから懐かしのキャンディまで、バラエティ豊かなラインナップに思…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22196/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T09:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -255,6 +423,18 @@
       "language": "ja"
     },
     {
+      "id": "975936daba32a349",
+      "title": "今週新発売の惣菜パンまとめ！『キーマカレー』、『バジルチキンパニーニ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック キーマカレースパイスが香るキーマカレーをサンド。カ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061401/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-14T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "df62b526cfff8794",
       "title": "今週新発売の惣菜パンまとめ！『キーマカレー』、『バジルチキンパニーニ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック キーマカレースパイスが香るキーマカレーをサンド。カ…",
@@ -297,6 +477,18 @@
       "url": "https://shokuhin.net/151614/2026/06/13/kakou/kashi/",
       "published_at": "2026-06-13T20:06:30+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "92753206b93d01a9",
+      "title": "今週新発売のセブンイレブンお弁当🍱まとめ！『海老チリチャーハン』、『チーズｉｎハンバーグ　焼きカレードリア』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンお弁当の新商品情報をお届けします。今週新発売の#セブンイレブンお弁当セブン-イレブン 海老チリチャーハン中華料理…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061308/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-13T17:30:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -435,6 +627,30 @@
       "language": "ja"
     },
     {
+      "id": "f4427007ab70e78d",
+      "title": "今週新発売の惣菜パンまとめ！『もちもち明太チーズ』、『オニオン明太ポテトマヨパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン もちもち明太チーズ 袋1個もちもちとした生地で、やまやの辛…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061307/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-13T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "64c4a0c7e7c3be2a",
+      "title": "【2026年6月第2週】和菓子・その他ランキング1位はヤマザキ生どら まるごとチョコ大福！新商品・急上昇商品まとめ",
+      "summary": "2026年6月第2週の和菓子・その他ランキングが出そろいました。山崎製パンの「生どら」シリーズが上位を独占する形となり、今週もバラエティ豊かな顔ぶれが揃ってい…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22195/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-13T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "878b6d255e925ce4",
       "title": "今週新発売の惣菜パンまとめ！『もちもち明太チーズ』、『オニオン明太ポテトマヨパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン もちもち明太チーズ 袋1個もちもちとした生地で、やまやの辛…",
@@ -483,6 +699,18 @@
       "language": "ja"
     },
     {
+      "id": "eeeca8cfde9ede82",
+      "title": "【2026年6月第2週】アイス・コンビニアイスランキング1位はガリガリ君リッチ フルーツフェスティバル！新商品・急上昇注目商品まとめ",
+      "summary": "じめじめした暑さが続く今週、コンビニやスーパーのアイスコーナーに足が向きがちな季節になってきました。2026年6月第2週のアイス・コンビニアイスランキング、今…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22194/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-13T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e4d63a21d1a6d304",
       "title": "【2026年6月第2週】アイス・コンビニアイスランキング1位はガリガリ君リッチ フルーツフェスティバル！新商品・急上昇注目商品まとめ",
       "summary": "じめじめした暑さが続く今週、コンビニやスーパーのアイスコーナーに足が向きがちな季節になってきました。2026年6月第2週のアイス・コンビニアイスランキング、今…",
@@ -507,6 +735,18 @@
       "language": "ja"
     },
     {
+      "id": "1e20b08ae41b43bd",
+      "title": "今週新発売の惣菜パンまとめ！『トリュフ風味デミグラスハンバーグとラタトゥイユ風』、『マヨ好きのツナマヨパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック トリュフ風味デミグラスハンバーグとラタトゥイユ風食…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061306/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-13T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "91196a09c69f3dab",
       "title": "今週新発売の惣菜パンまとめ！『トリュフ風味デミグラスハンバーグとラタトゥイユ風』、『マヨ好きのツナマヨパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック トリュフ風味デミグラスハンバーグとラタトゥイユ風食…",
@@ -524,6 +764,18 @@
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック トリュフ風味デミグラスハンバーグとラタトゥイユ風食…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061306/?utm_source=rss&utm_medium=mognavinews_20260613",
       "published_at": "2026-06-13T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "43c5250607cd93e5",
+      "title": "【2026年6月第2週】プリン・ゼリー・カップデザートランキング1位はモンテール北海道ソフトのプリン！新商品・急上昇商品まとめ",
+      "summary": "じめじめとした季節にも、甘いデザートがあれば気分も上がりますよね。今週のプリン・ゼリー・カップデザートランキングは、懐かしの定番から話題の新商品まで、バラエテ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22193/?utm_source=rss&utm_medium=mognavinews_20260615",
+      "published_at": "2026-06-13T13:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
