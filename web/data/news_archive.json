@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T03:09:22.743846+08:00",
-  "total": 3151,
+  "last_updated": "2026-06-16T04:38:31.112526+08:00",
+  "total": 3153,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -23,6 +23,30 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "f3de30ecb71d8157",
+      "title": "DryWater Finds Everyday Hydration Niche, Expands To 41K Doors",
+      "summary": "DryWater is expecting to hit 41,000 doors by the end of 2026 as it targets a growing demand for clean-label, daily hydration powders.",
+      "url": "https://www.bevnet.com/news/2026/drywater-finds-everyday-hydration-niche-expands-to-41k-doors",
+      "published_at": "2026-06-16T04:17:01+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "3fbee1b7ef92e1b0",
+      "title": "As NASA Eyes Mars, It’s Rethinking How Astronauts Will Eat",
+      "summary": "Most people probably haven’t taken a bite out of a raw onion. Why would you? And even fewer have done so and considered it delicious. But if you’re an astronaut […]",
+      "url": "https://thespoon.tech/as-nasa-eyes-mars-its-rethinking-how-astronauts-will-eat/",
+      "published_at": "2026-06-16T03:09:39+08:00",
+      "source": "The Spoon",
+      "region": "欧美",
+      "category": "综合",
       "level": "A",
       "language": "en"
     },
@@ -375,18 +399,6 @@
       "language": "ja"
     },
     {
-      "id": "300b7498a146112a",
-      "title": "今週新発売の菓子パン🍫まとめ！『ミルクさん』、『スナックサンド　沖縄県産紅いも＆ホイップ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンフジパン ミルクさん 袋1個クロワッサン生地を焼き上げ、北海道練乳使用のク…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061507/?utm_source=rss&utm_medium=mognavinews_20260616",
-      "published_at": "2026-06-15T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "e6e6c2f368df51d3",
       "title": "Pycnogenol: a powerful extracellular matrix activator for skin, joint, eye care and more (part II)",
       "summary": "In part two of this article, Dr Franziska Weichmann, Manager of Scientific Communications and Product Development at Horphag Research, explores the beneficial effects of French maritime pine bark…",
@@ -397,6 +409,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "300b7498a146112a",
+      "title": "今週新発売の菓子パン🍫まとめ！『ミルクさん』、『スナックサンド　沖縄県産紅いも＆ホイップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンフジパン ミルクさん 袋1個クロワッサン生地を焼き上げ、北海道練乳使用のク…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061507/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "bdb8d9624c462177",
