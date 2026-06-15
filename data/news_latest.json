@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-16T02:09:20.521744+08:00",
+  "last_updated": "2026-06-16T03:09:22.785147+08:00",
   "retention_days": 7,
-  "total": 496,
+  "total": 514,
   "sources": [
     "BevNET",
     "Fab News",
@@ -271,6 +271,30 @@
       "language": "en"
     },
     {
+      "id": "d612d84c9361d27f",
+      "title": "爽やか系に注目！クッキーのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「クッキー」の最新・注目度ランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-22256/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b230cfd9a61a3b33",
+      "title": "今週新発売の菓子パン🍫まとめ！『生がとー　ぐらっせ』、『生がとー　しょこら』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンフジパン 生がとー ぐらっせ 袋1個生クリームを練り込んだラム酒香る生地に…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061508/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "4d281a944f48fd29",
       "title": "Natural red colour solutions are stepping up as Red Dye No. 40 scrutiny intensifies",
       "summary": "California Natural Color is positioning its plant-derived red colour portfolio as a high-performance clean label alternative for food and beverage manufacturers navigating the shift away from…",
@@ -367,6 +391,18 @@
       "language": "ja"
     },
     {
+      "id": "300b7498a146112a",
+      "title": "今週新発売の菓子パン🍫まとめ！『ミルクさん』、『スナックサンド　沖縄県産紅いも＆ホイップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンフジパン ミルクさん 袋1個クロワッサン生地を焼き上げ、北海道練乳使用のク…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061507/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e6e6c2f368df51d3",
       "title": "Pycnogenol: a powerful extracellular matrix activator for skin, joint, eye care and more (part II)",
       "summary": "In part two of this article, Dr Franziska Weichmann, Manager of Scientific Communications and Product Development at Horphag Research, explores the beneficial effects of French maritime pine bark…",
@@ -415,6 +451,18 @@
       "language": "ja"
     },
     {
+      "id": "bd277567dadec572",
+      "title": "【2026年6月第2週】コンビニ惣菜ランキング1位はブロッコリーチキンエッグ！新商品・久しぶりランクインも続々まとめ",
+      "summary": "2026年6月第2週のコンビニ惣菜ランキングが出揃いました。今週はセブン-イレブン、ファミリーマート、ローソンの三つ巴の戦いが繰り広げられ、個性豊かな惣菜がず…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22206/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "308c4e717e091e29",
       "title": "丸源ラーメン、創業25周年で人気メニュー増量祭　チャーシュー無料追加や替え玉1.5倍も",
       "summary": "物語コーポレーションが全国241店舗を展開する「丸源ラーメン」は、創業25周年を記念した「丸源ラーメン25周年特別企画」を6月26日から実施する。 企画の第1弾として、「お値段そのまま‼増量キャンペーン」を開催。期間中は...",
@@ -439,6 +487,18 @@
       "language": "ja"
     },
     {
+      "id": "8899005098851a2a",
+      "title": "今週新発売のアイスクリーム🍨🍦まとめ！『パリパリバー　バニラ　ノベルティ』、『アイスキャンデー　ミルク』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！アイスクリームの新商品情報をお届けします。今週新発売の#アイスクリーム森永製菓 パリパリバー バニラ ノベルティ 袋90ml・…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061506/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e2685d0828ac3677",
       "title": "How Can the New World Screwworm Be Contained? Education, and an End to Illegal Trafficking",
       "summary": "New World screwworm threats continue to tighten livestock supplies, as sterile fly shortages and weakened federal biosecurity strain U.S. agriculture – raising risks for supply chains. Experts say a…",
@@ -449,6 +509,30 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "2fe8cac659b2edb3",
+      "title": "【2026年6月第2週】コンビニ麺・コンビニパスタランキング1位はセブン町中華の冷し味噌ラーメン！冷し麺新商品続々まとめ",
+      "summary": "夏の足音が近づいてきた2026年6月第2週、コンビニ麺・コンビニパスタのランキングに冷たい麺が続々と登場しています。各チェーンが個性豊かなラインナップをそろえ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22205/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "aea3e572402734df",
+      "title": "今週新発売のローソンスイーツ🍰まとめ！『ふわ生２層のチーズタルト』、『しっとりビスケットサンド　レアチーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ローソンスイーツの新商品情報をお届けします。今週新発売の#ローソンスイーツローソン Uchi Cafe’ ふわ生2層のチーズタ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061505/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "d747d1764556249a",
@@ -523,6 +607,42 @@
       "language": "ja"
     },
     {
+      "id": "630d394268cab029",
+      "title": "【2026年6月第2週】コンビニスープ・コンビニ味噌汁ランキング1位は鶏つくね生姜スープ！夏に嬉しい健康系・麻辣湯も登場まとめ",
+      "summary": "6月の蒸し暑さが増してきたこの時期、コンビニのスープ・味噌汁コーナーもにぎわっています。今週はどんな商品がみなさんのクチコミに支えられてランクインしたのでしょ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22204/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a842c27f7bfb0efe",
+      "title": "今週新発売のファミマスイーツ🍰まとめ！『Ａｆｔｅｒｎｏｏｎ　Ｔｅａ監修　窯出しとろけるミルクティープリン』、『Ａｆｔｅｒｎｏｏｎ　Ｔｅａ監修　アールグレイ香るザクほろシュー　紅茶クリーム』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマスイーツの新商品情報をお届けします。今週新発売の#ファミマスイーツファミリーマート ファミマルSweets After…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061504/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f2f6dfcd1502bf24",
+      "title": "【2026年6月第2週】コンビニパンランキング1位はチョコクリームのふわもちちぎりパン！新商品・急上昇続々まとめ",
+      "summary": "今週のコンビニサンドイッチ・コンビニパンランキングが出そろいました。新商品が多数ランクインした今週は、チョコ系・塩バター・抹茶など旬のフレーバーが勢ぞろい。ど…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22203/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "bc4371134652db3c",
       "title": "しゃぶしゃぶどん亭、父の日期間限定で「黒毛和牛リブロース」を販売 / 飲み放題550円キャンペーンも実施",
       "summary": "しゃぶしゃぶチェーンのしゃぶしゃぶどん亭は、6月19日から6月22日までの4日間限定で、父の日向け特別メニュー「黒毛和牛リブロース」を販売する。また、「黒毛和牛リブロース食べ放題」を注文した人を対象に、「全部飲み放題」を...",
@@ -571,6 +691,18 @@
       "language": "ja"
     },
     {
+      "id": "305194e2a2138cf4",
+      "title": "今週新発売のセブンイレブンスイーツ🍰まとめ！『もっちもち食感クレープ　マンゴーココナッツ』、『パキっとティラミス足柄茶使用』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンスイーツの新商品情報をお届けします。今週新発売の#セブンイレブンスイーツセブン-イレブン もっちもち食感クレープ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061503/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "0475617e54b60736",
       "title": "資さんうどん、人気おにぎり4種を期間限定で100円提供【資おに100円キャンペーン】",
       "summary": "うどんチェーンの資さんうどんは、6月18日から7月1日までの期間限定で「資おに100円キャンペーン」を開催する。期間中は「白おにぎり」「明太子おにぎり」「梅かつおおにぎり」「高菜おにぎり」の4商品を税込100円で提供する...",
@@ -595,6 +727,18 @@
       "language": "ja"
     },
     {
+      "id": "d1fdc8d72b1bb4a5",
+      "title": "【2026年6月第2週】コンビニ寿司・コンビニ弁当ランキング1位はまちかど厨房 海鮮かき揚げ丼！新商品・久しぶりランクインも続々まとめ",
+      "summary": "コンビニグルメが盛りだくさんの2026年6月第2週のランキングが発表されました！今週はローソン、セブン-イレブン、ファミリーマートの三つ巴の争いとなり、どの商…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22202/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "1d034d123934abfd",
       "title": "【マーガリン市場動向】家庭用はバターの高騰でグルメタイプが代替需要の受け皿に",
       "summary": "25年度家庭用マーガリン市場は、インテージSRI+によると、金額ベースで前年比3%増となった。バターが値上げされたことで、代替需要が高まった。米の高騰により食パンの需要が高まったことも寄与した。 カテゴリー別では、プレー...",
@@ -604,6 +748,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "c76cbb0b1bf4e0ca",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『おかズドン！甘辛ダレ鶏唐揚弁当』、『若鶏のチキン南蛮弁当』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ローソン おかズドン！甘辛ダレ鶏唐…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061502/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -619,6 +775,18 @@
       "language": "ja"
     },
     {
+      "id": "35da8e57f497cf4a",
+      "title": "【2026年6月第2週】コンビニおにぎり・コンビニ手巻寿司ランキング1位はシーチキン炊き込みごはんおむすび！新商品・久しぶりランクインも続々まとめ",
+      "summary": "コンビニおにぎりファンのみなさん、今週はどんな顔ぶれがランクインしているのかワクワクしますよね。炊き込みごはんにプレミアム系、だしおにぎりと、この週はバリエー…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22201/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "08da7f5ddb15092c",
       "title": "サントリーBF、「フルーツ×ティー×ミルク」の新ドリンクシリーズ発売「スターバックス FRUITY CHEERS TORORI」2品",
       "summary": "サントリービバレッジ＆フードは6月16日、スターバックス・コーポレーションとともに、スターバックスブランドの新シリーズ「スターバックス FRUITY CHEERS TORORI ストロベリーベリーベルガモット」と「同 マ...",
@@ -628,6 +796,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "92e7f66e70bf78a5",
+      "title": "今週新発売の菓子パン🍫まとめ！『生しおあんぱん　ほいっぷ』、『生めろんぱん　クラウンメロン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンフジパン 生しおあんぱん ほいっぷ 袋1個生地に生クリームを練り込んだ、塩…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061501/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-15T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -655,6 +835,18 @@
       "language": "en"
     },
     {
+      "id": "e51e5d7034dd69ad",
+      "title": "コンビニプリンのおすすめTOP3！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニプリン」のおすすめランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
+      "url": "https://mognavi.jp/news/matome/gen-tagRanking-22222/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-14T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "b3163efefcae17f8",
       "title": "コンビニプリンのおすすめTOP3！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニプリン」のおすすめランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
@@ -672,6 +864,18 @@
       "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニプリン」のおすすめランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
       "url": "https://mognavi.jp/news/matome/gen-tagRanking-22222/?utm_source=rss&utm_medium=mognavinews_20260614",
       "published_at": "2026-06-14T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "cb6b492ec7c793e5",
+      "title": "今週新発売の卵料理まとめ！『やみつき香味ダレのとろっと韓国風煮たまご』、『盛りすぎ！具！おにぎり　ポーク玉子　シーチキン　マヨネーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！卵料理の新商品情報をお届けします。今週新発売の#卵料理セブン-イレブン やみつき香味ダレのとろっと韓国風煮たまご醤油に胡麻油、…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061408/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-14T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -715,6 +919,18 @@
       "language": "ja"
     },
     {
+      "id": "f0b3e61d6cd3714b",
+      "title": "今週新発売の濃厚な食べものまとめ！『バー　洋梨＆ミルク』、『かじるニューヨークチーズケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚ハーゲンダッツ バー 洋梨＆ミルク 箱69ml果実感あふれる洋梨とコク深いミ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061407/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-14T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "bde10fe52b983ffe",
       "title": "今週新発売の濃厚な食べものまとめ！『バー　洋梨＆ミルク』、『かじるニューヨークチーズケーキ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚ハーゲンダッツ バー 洋梨＆ミルク 箱69ml果実感あふれる洋梨とコク深いミ…",
@@ -739,6 +955,18 @@
       "language": "ja"
     },
     {
+      "id": "de5fb7036b953424",
+      "title": "今週新発売の塩◯◯まとめ！『大粒ラムネ　ソルティライチ』、『アーモンドチョコレート沖縄塩＆ミルク』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯森永製菓 大粒ラムネ ソルティライチ 袋30g・ぶどう糖90％※、塩分(…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061406/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-14T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "b1612e25664627c2",
       "title": "今週新発売の塩◯◯まとめ！『大粒ラムネ　ソルティライチ』、『アーモンドチョコレート沖縄塩＆ミルク』など♪",
       "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯森永製菓 大粒ラムネ ソルティライチ 袋30g・ぶどう糖90％※、塩分(…",
@@ -756,6 +984,18 @@
       "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯森永製菓 大粒ラムネ ソルティライチ 袋30g・ぶどう糖90％※、塩分(…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061406/?utm_source=rss&utm_medium=mognavinews_20260614",
       "published_at": "2026-06-14T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e1dbd23c32beb238",
+      "title": "【2026年6月第2週】ポテトチップス・スナックランキング1位はベビースター ドデカイラーメン BBQステーキ味！新商品・急上昇続々まとめ",
+      "summary": "2026年6月第2週のポテトチップス・スナックランキングが出揃いました。新発売の話題商品から、久しぶりにランクインした懐かしのあの味まで、バラエティ豊かな顔ぶ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22200/?utm_source=rss&utm_medium=mognavinews_20260616",
+      "published_at": "2026-06-14T13:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -5944,30 +6184,6 @@
       "region": "北美",
       "category": "综合",
       "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "9775aa4083374470",
-      "title": "JuneShine Refreshes, Ramps Up Willie’s as November Hemp-Derived THC Ban Looms",
-      "summary": "JuneShine co-founder Forrest Dein paraphrased Willie’s namesake, country music icon Willie Nelson, in a conversation with Brewbound: “Stress is the biggest killer on the planet; cannabis is the best…",
-      "url": "https://www.bevnet.com/news/2026/juneshine-refreshes-ramps-up-willies-as-november-hemp-derived-thc-ban-looms",
-      "published_at": "2026-06-09T03:00:08+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "8d45e2ff8f9597c8",
-      "title": "Brownie Brittle owner buys meat snack maker Tillamook Country Smoker",
-      "summary": "The acquisition by Second Nature gives it a presence in the fast-growing protein snacks space, which had been missing from its portfolio.",
-      "url": "https://www.fooddive.com/news/brownie-brittle-owner-buys-meat-snack-maker-tillamook-country-smoker/822285/",
-      "published_at": "2026-06-09T02:56:29+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
       "language": "en"
     }
   ]
