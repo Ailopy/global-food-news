@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-14T19:16:50",
+  "last_updated": "2026-06-16T02:20:28",
   "retention_days": 10,
-  "total": 241,
+  "total": 253,
   "s_count": 15,
   "a_count": 1,
-  "b_count": 225,
+  "b_count": 237,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -211,6 +211,127 @@
       "level_reason": "常规新品/营销"
     },
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "飲食業界の課題解決に向けた新たな取り組み デジタルを活用した開業支援コミュニティ「CHEERS FRONTIER」始動",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0615_03.html",
+      "published_at": "2026-06-15T08:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "原料用アルコールの価格改定について",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0615_04.pdf",
+      "published_at": "2026-06-15T06:30:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "新規診断AMLにおけるziftomenib／7+3併用療法の長期追跡試験に関する良好な臨床試験データを2026年EHA年次総会で口頭発表",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260612_01.pdf",
+      "published_at": "2026-06-15T02:01:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "プラズマ乳酸菌入りベトナムオリジナル商品「KIRIN iMUSE」を6月15日（月）より刷新！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0615_01.html",
+      "published_at": "2026-06-15T02:00:10",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「パシフィック・リンク・プロジェクト」第四弾となる「シャトー・メルシャン 甲州 アミシス 2025」「シャトー・メルシャン 日本のあわ 甲州 アミシス トラディショナル・メソッド 2024」を7月14日（火）に新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0615_02.html",
+      "published_at": "2026-06-15T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-06-15T00:00:00",
+      "summary": "2025年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.15日清食品「日清の最強どん兵衛 博多ごぼ天うどん」(6月29日発売)",
+      "url": "https://www.nissin.com/jp/news/13786/",
+      "published_at": "2026-06-15T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.15日清食品チルドチルド製品 価格改定のお知らせ  〜 2026年9月1日(火) 納品分から 〜",
+      "url": "https://www.nissin.com/jp/news/13790/",
+      "published_at": "2026-06-15T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.15湖池屋「揚げたて直送便 ながさき黄金 うすしお味 / 九州の醤油」(6月15日より予約受注開始)",
+      "url": "https://www.nissin.com/jp/news/13787/",
+      "published_at": "2026-06-15T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.15湖池屋「湖池屋ストロング」3品 (6月15日先行発売)",
+      "url": "https://www.nissin.com/jp/news/13788/",
+      "published_at": "2026-06-15T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, ‘육상양식 김 상업화 시설’ 착공… “상용화 박차”2026.06.15",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1775",
+      "published_at": "2026-06-15T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
@@ -218,6 +339,17 @@
       "url": "https://www.asahigroup-holdings.com/company/statement/",
       "published_at": "2026-06-12T00:00:00",
       "summary": "2025年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, ‘2026 베스트 코리아 브랜드’ 선정…  소비재 기업 중 1위, 14년 연속 국내 50대 ...2026.06.12",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1774",
+      "published_at": "2026-06-12T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
