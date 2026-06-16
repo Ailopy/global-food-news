@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-16T02:20:28",
+  "last_updated": "2026-06-17T02:27:31",
   "retention_days": 10,
-  "total": 253,
+  "total": 256,
   "s_count": 15,
   "a_count": 1,
-  "b_count": 237,
+  "b_count": 240,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -209,6 +209,39 @@
       "summary": "",
       "level": "A",
       "level_reason": "常规新品/营销"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.16明星食品「明星 中華三昧カップ 四川飯店 汁なし四川麻辣麺」(6月29日発売)",
+      "url": "https://www.nissin.com/jp/news/13791/",
+      "published_at": "2026-06-16T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "햇반 저단백밥이 넓히는 식탁의 범위FoodESG2026.06.16",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/103",
+      "published_at": "2026-06-16T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "“드라마 속 화제의 음식이 편의점 도시락으로!” CJ제일제당, 인기 드라마 ‘취사병 전설이 되다’와 손잡고...2026.06.16",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1776",
+      "published_at": "2026-06-16T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Kirin",
