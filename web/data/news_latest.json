@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-17T02:56:34.727410+08:00",
+  "last_updated": "2026-06-17T04:21:55.405893+08:00",
   "retention_days": 7,
-  "total": 531,
+  "total": 533,
   "sources": [
     "BevNET",
     "Fab News",
@@ -40,6 +40,18 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c599c6d014b94863",
+      "title": "Chobani sued by Danone over high-protein yogurt claims",
+      "summary": "The Oikos maker said its rival is engaging in “unfair competition and consumer deception” to make its product more appealing to shoppers.",
+      "url": "https://www.fooddive.com/news/danone-sues-chobani-high-protein-yogurt-claims-oikos/823033/",
+      "published_at": "2026-06-17T03:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
@@ -223,6 +235,18 @@
       "language": "en"
     },
     {
+      "id": "165bb01b595079f4",
+      "title": "FI Fast Break audio news: June 16, 2026",
+      "summary": "The latest FI Fast Break news podcast touches on meatpacker JBS's recent cuts, which impacted nearly 2,000 jobs. The post FI Fast Break audio news: June 16, 2026 appeared first on The Food Institute .",
+      "url": "https://foodinstitute.com/podcast/fi-fast-break-audio-news-june-16-2026-2/?utm_source=rss&utm_medium=rss&utm_campaign=fi-fast-break-audio-news-june-16-2026-2",
+      "published_at": "2026-06-16T18:06:41+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
       "id": "23bebe5651703969",
       "title": "ドンキのPPIH 加食・生鮮とも個性派ぞろい 「お得」「エコ」「海外トレンド」",
       "summary": "パン・パシフィック・インターナショナルホールディングス（PPIH）は、主力業態のドン・キホーテ等でオリジナル食品をさらに充実させる。キーワードは「お得」「エコ」「海外トレンド」など。このほど都内で報道関係者向けに商品体 […] ソース",
@@ -355,18 +379,6 @@
       "language": "ja"
     },
     {
-      "id": "772e18bed0e39003",
-      "title": "Probe Industries launches market-first odour elimination and enhancement technology for food and nutraceutical processing plant",
-      "summary": "AiroVive builds on Probe Industries’ patented AiroPure technology, a non-hazardous, non-toxic and ISO14001-compliant solution that destroys odours and harmful compounds at the molecular level",
-      "url": "https://nutraceuticalbusinessreview.com/probe-industries-launches-market-first-odour-elimination-and",
-      "published_at": "2026-06-16T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "f0cb70a890b5e5dd",
       "title": "今週新発売のさっぱり味の食べものまとめ！『海老カツ瀬戸内レモンタルタルサンド』、『冷し辛麺』など♪",
       "summary": "こんにちは、もぐナビ編集部です！さっぱりの新商品情報をお届けします。今週新発売の#さっぱりセブン-イレブン 海老カツ瀬戸内レモンタルタルサンドプリプリとした海…",
@@ -377,6 +389,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "772e18bed0e39003",
+      "title": "Probe Industries launches market-first odour elimination and enhancement technology for food and nutraceutical processing plant",
+      "summary": "AiroVive builds on Probe Industries’ patented AiroPure technology, a non-hazardous, non-toxic and ISO14001-compliant solution that destroys odours and harmful compounds at the molecular level",
+      "url": "https://nutraceuticalbusinessreview.com/probe-industries-launches-market-first-odour-elimination-and",
+      "published_at": "2026-06-16T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "11607f279685106e",
@@ -1147,18 +1171,6 @@
       "language": "ja"
     },
     {
-      "id": "e6e6c2f368df51d3",
-      "title": "Pycnogenol: a powerful extracellular matrix activator for skin, joint, eye care and more (part II)",
-      "summary": "In part two of this article, Dr Franziska Weichmann, Manager of Scientific Communications and Product Development at Horphag Research, explores the beneficial effects of French maritime pine bark…",
-      "url": "https://nutraceuticalbusinessreview.com/pycnogenol-a-powerful-extracellular-matrix-activator-for-skin-1",
-      "published_at": "2026-06-15T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "9f21d3553494b0ab",
       "title": "今週新発売の菓子パン🍫まとめ！『ミルクさん』、『スナックサンド　沖縄県産紅いも＆ホイップ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンフジパン ミルクさん 袋1個クロワッサン生地を焼き上げ、北海道練乳使用のク…",
@@ -1169,6 +1181,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "e6e6c2f368df51d3",
+      "title": "Pycnogenol: a powerful extracellular matrix activator for skin, joint, eye care and more (part II)",
+      "summary": "In part two of this article, Dr Franziska Weichmann, Manager of Scientific Communications and Product Development at Horphag Research, explores the beneficial effects of French maritime pine bark…",
+      "url": "https://nutraceuticalbusinessreview.com/pycnogenol-a-powerful-extracellular-matrix-activator-for-skin-1",
+      "published_at": "2026-06-15T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "300b7498a146112a",
