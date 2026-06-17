@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T00:46:19.094232+08:00",
-  "total": 3335,
+  "last_updated": "2026-06-18T02:04:42.868698+08:00",
+  "total": 3336,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -23,6 +23,18 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0752d1ed18f93d0e",
+      "title": "Marketing: La Colombe, Niagara Bottling Hit The Soccer Pitch",
+      "summary": "The World Cup is in full swing in North America, and brands like La Colombe, Naigara Bottling and KA_EX are jumping into a summer of soccer.",
+      "url": "https://www.bevnet.com/news/2026/marketing-la-colombe-niagara-bottling-hit-the-soccer-pitch",
+      "published_at": "2026-06-18T00:51:30+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
       "level": "A",
       "language": "en"
     },
