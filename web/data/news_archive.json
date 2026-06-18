@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T02:04:42.868698+08:00",
-  "total": 3336,
+  "last_updated": "2026-06-18T11:35:36.091697+08:00",
+  "total": 3344,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -23,6 +23,102 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0caf0305e1cb7f46",
+      "title": "夏限定「白くまプリン」「クラウンメロンのプリン」「完熟マンゴーのプリン」の3品発売【モロゾフ】",
+      "summary": "洋菓子メーカー『モロゾフ』は、九州の夏の風物詩のかき氷をイメージした「白くまプリン」や、旬を迎えるフルーツを使用した「クラウンメロンのプリン」「完熟マンゴーのプリン」を、全国の洋生菓子販売店舗で発売する。 【夏限定プリン...",
+      "url": "https://www.ssnp.co.jp/snack/689419/",
+      "published_at": "2026-06-18T11:26:53+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "ab6d3131b87daf52",
+      "title": "【フジワラテクノアート】小規模で再現性の高い培養実験可能な「小型通気式個体培養装置」",
+      "summary": "「日本の誇る醸造･発酵の技術を世界に普及していく、夢のある機械」と評価されたのが、フジワラテクノアートの「小型通気式個体培養装置」だ。「第5回FOOMA アワード2026経済産業省製造産業局長賞」の最優秀賞を受賞した際、...",
+      "url": "https://www.ssnp.co.jp/soy/689413/",
+      "published_at": "2026-06-18T10:51:56+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "ef0a41857bb6c319",
+      "title": "菓子「数量減を価格で補う構造が鮮明に」　きめ細かな価格設定が今後一層重要　菓子卸最大手・山星屋の猪忠孝社長が見解",
+      "summary": "5月20日、第69回ARISTA山星屋プロス会(プロス会)で猪忠孝社長は、直近の菓子市場について、全日本菓子協会や外部データを引き「数量のマイナスを価格で補うという構造が一層鮮明になっている」と述べ、きめ細かな価格設定 […] ソース",
+      "url": "https://shokuhin.net/151816/2026/06/18/kakou/kashi/",
+      "published_at": "2026-06-18T10:44:46+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "771c36703556685e",
+      "title": "メッシュ素材のポーチに焼菓子が入った「メッシュスイーツポーチ」、全6色を販売【紀ノ国屋】",
+      "summary": "紀ノ国屋は、選べる6色のオリジナルポーチに人気の焼き菓子を詰め合わせた「メッシュスイーツポーチ」を、6月15日から紀ノ国屋各店(一部店舗を除く)で発売している。 【「メッシュスイーツポーチ」全6色の画像はこちら】 ◆「メ...",
+      "url": "https://www.ssnp.co.jp/distribution/689398/",
+      "published_at": "2026-06-18T10:26:06+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "027cbc8b5d964d53",
+      "title": "【ステーキのあさくま】2日間限定「父の日シェアステーキ」を販売、サーロインやテンダーロインをシェアして楽しめる",
+      "summary": "「ステーキのあさくま」は、2026年6月20日･21日の2日間限定で、家族で囲んで分け合う「父の日シェアメニュー」を販売する。特典として、シェアメニューを注文した人にカップアイスを、お父さんには花火付きアイスをプレゼント...",
+      "url": "https://www.ssnp.co.jp/foodservice/689391/",
+      "published_at": "2026-06-18T09:54:56+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "2f31accd1b207148",
+      "title": "業界初、飲料自販機に景品当たり付き ルーレットがそろえばお宝ゲット 「ワクワク・ドキドキ体験」で市場活性化",
+      "summary": "飲料自販機と景品が当たるデジタルルーレットを融合させた新自動販売機「ガチャえもん C（コラボレーション）」がデビューする。 開発したSDRS社（旧サンデン・リテールシステム）によると業界初の試み。景品はカプセルトイに […] ソース",
+      "url": "https://shokuhin.net/151812/2026/06/18/sonota/kikai/",
+      "published_at": "2026-06-18T08:30:51+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4979e7fe93b298d8",
+      "title": "ニチレイフーズ 初のキッチンカー始動 全国で出来立ての炒飯・唐揚げ・今川焼など提供 「冷食の価値を新たな体験で」",
+      "summary": "ニチレイフーズは、冷凍食品の価値訴求を推進する一環で、同社初となるキッチンカー「TERRACE NICHIREI（テラスニチレイ）」の運用をスタートする。まずは6月19～21日の「ニチレイレディス」（千葉県）に初出店。 […] ソース",
+      "url": "https://shokuhin.net/151807/2026/06/18/kakou/reishoku/",
+      "published_at": "2026-06-18T08:22:37+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "713b5df7af5c54d4",
+      "title": "Culture Pop Founder Tom First’s Challenger Mindset",
+      "summary": "Culture Pop CEO Tom First, a longtime entrepreneur, investor, and board member, shares strategies for keeping brands nimble and lean, with a focus on catching category leaders over the long term.",
+      "url": "https://www.bevnet.com/news/2026/culture-pop-founder-tom-firsts-challenger-mindset",
+      "published_at": "2026-06-18T03:37:51+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
       "level": "A",
       "language": "en"
     },
@@ -19155,10 +19251,10 @@
       "language": "en"
     },
     {
-      "id": "75e72fac6981df2d",
-      "title": "Editor's Take: Practitioner channel navigates omnichannel credibility",
-      "summary": "Learn more about a seismic shift in the practitioner channel as legacy brands navigate the tension between omnichannel growth and practitioner credibility.",
-      "url": "https://www.newhope.com/market-data-and-analysis/editors-take-practitioner-channel-grows-despite-omnichannel-tensions",
+      "id": "4373cd742fc8b1ad",
+      "title": "The Natural List: Breaking down the $75B supplement industry",
+      "summary": "Bill Giebler, NBJ's content and insights director, joins The Natural List host Adrienne Smith to share a free preview of the highly anticipated Supplement Business Report.",
+      "url": "https://www.newhope.com/industry-insights/the-natural-list-breaking-down-75-billion-dollar-supplement-industry",
       "published_at": "2026-05-27T22:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
@@ -19167,10 +19263,10 @@
       "language": "en"
     },
     {
-      "id": "4373cd742fc8b1ad",
-      "title": "The Natural List: Breaking down the $75B supplement industry",
-      "summary": "Bill Giebler, NBJ's content and insights director, joins The Natural List host Adrienne Smith to share a free preview of the highly anticipated Supplement Business Report.",
-      "url": "https://www.newhope.com/industry-insights/the-natural-list-breaking-down-75-billion-dollar-supplement-industry",
+      "id": "75e72fac6981df2d",
+      "title": "Editor's Take: Practitioner channel navigates omnichannel credibility",
+      "summary": "Learn more about a seismic shift in the practitioner channel as legacy brands navigate the tension between omnichannel growth and practitioner credibility.",
+      "url": "https://www.newhope.com/market-data-and-analysis/editors-take-practitioner-channel-grows-despite-omnichannel-tensions",
       "published_at": "2026-05-27T22:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
