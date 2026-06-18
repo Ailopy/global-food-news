@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-17T22:22:16",
+  "last_updated": "2026-06-18T13:28:05",
   "retention_days": 10,
-  "total": 257,
+  "total": 259,
   "s_count": 15,
   "a_count": 1,
-  "b_count": 241,
+  "b_count": 243,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -216,8 +216,19 @@
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-06-17T00:00:00",
+      "published_at": "2026-06-18T00:00:00",
       "summary": "2025年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.18湖池屋「湖池屋ぽてっとシール」(6月18日より受注販売開始)",
+      "url": "https://www.nissin.com/jp/news/13794/",
+      "published_at": "2026-06-18T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -282,6 +293,17 @@
       "region": "日本",
       "title": "原料用アルコールの価格改定について",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0615_04.pdf",
+      "published_at": "2026-06-15T06:30:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "原料用アルコールの価格改定について",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0615_04.html",
       "published_at": "2026-06-15T06:30:05",
       "summary": "",
       "level": "B",
