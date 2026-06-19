@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-18T13:28:05",
+  "last_updated": "2026-06-19T14:06:20",
   "retention_days": 10,
-  "total": 259,
+  "total": 263,
   "s_count": 15,
-  "a_count": 1,
-  "b_count": 243,
+  "a_count": 2,
+  "b_count": 246,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -211,13 +211,46 @@
       "level_reason": "常规新品/营销"
     },
     {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Sustainability",
+      "url": "https://www.generalmills.com/how-we-make-it/healthier-planet/sustainability",
+      "published_at": "",
+      "summary": "",
+      "level": "A",
+      "level_reason": "常规新品/营销"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「SPRING VALLEY BREWERY」がビールをきっかけに人と人をつなぐ全国ファンイベント「LOVERS MEET by SPRING VALLEY BREWERY」を初めて開催",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0619_01.html",
+      "published_at": "2026-06-19T03:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-06-18T00:00:00",
+      "published_at": "2026-06-19T00:00:00",
       "summary": "2025年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.19日清食品「日清ソース焼そばカップ チキンスープ付き」の回収に関するお詫びとお知らせ",
+      "url": "https://www.nissin.com/jp/news/13795/",
+      "published_at": "2026-06-19T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -2878,6 +2911,17 @@
       "region": "韩国",
       "title": "동아일보CJ제일제당, 업계 최초 김밥 자동화 생산시설 구축",
       "url": "https://www.donga.com/news/Economy/article/all/20260325/133603767/1",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Coca-Cola",
+      "brand_cn": "可口可乐",
+      "region": "中国",
+      "title": "从烟火街巷到世界杯看台，可口可乐把舞台留给一线奋斗者",
+      "url": "https://www.coca-cola.com/cn/zh/media-center/Coke_2026FIFA",
       "published_at": "",
       "summary": "",
       "level": "B",
