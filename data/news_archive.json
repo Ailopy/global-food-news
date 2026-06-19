@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T17:08:40.240595+08:00",
-  "total": 3471,
+  "last_updated": "2026-06-19T20:40:39.665397+08:00",
+  "total": 3473,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -27,6 +27,18 @@
       "language": "en"
     },
     {
+      "id": "e9c6dd13a04239a4",
+      "title": "Nextin Research named market intelligence provider for IFT FIRST, delivering ingredient trend data",
+      "summary": "The partnership brings co-branded consumer insights on colours, flavours, sweeteners, protein and fibre to IFT FIRST attendees, alongside strategy ideation sessions for Startup Pavilion competitors…",
+      "url": "https://nutraceuticalbusinessreview.com/nextin-research-named-market-intelligence-provider-ift-first",
+      "published_at": "2026-06-19T17:47:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
       "id": "965809ab5cd0bcd1",
       "title": "寿がきや食品 業務用商品7月から値上げ",
       "summary": "寿がきや食品は、業務用商品について、7月1日出荷分から価格改定を実施する。原材料費や包装資材費をはじめ、あらゆるコストの上昇が背景。現行出荷価格の10％以上の値上げとなる。 同社では、今回の業務用商品に先立ち、市販用 […] ソース",
@@ -37,6 +49,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "07c552e0099626df",
+      "title": "Nuritas to showcase heat-stable peptide hydrolysates at IFT FIRST",
+      "summary": "PeptiStrong and PeptiSleep demonstrate proven bioavailability across retort and UHT processing, giving formulators a commercially de-risked path to functional food integration with FDA GRAS status…",
+      "url": "https://nutraceuticalbusinessreview.com/nuritas-heat-stable-peptide-hydrolysates-ift-first",
+      "published_at": "2026-06-19T16:46:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "ef7a6185b2bc27ae",
@@ -915,10 +939,10 @@
       "language": "en"
     },
     {
-      "id": "f4f4d675813d7cf4",
-      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
-      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
-      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
+      "id": "77bdad4a6fcef80f",
+      "title": "Better together: Hershey’s combined sweets and snacks business pays off for retailers, consumers",
+      "summary": "The merging of the company’s sweet, salty and protein brands under one umbrella called “One Hershey” allows the Reese’s maker to boost sales and help stores plan for big events.",
+      "url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
       "published_at": "2026-06-18T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
@@ -927,10 +951,10 @@
       "language": "en"
     },
     {
-      "id": "77bdad4a6fcef80f",
-      "title": "Better together: Hershey’s combined sweets and snacks business pays off for retailers, consumers",
-      "summary": "The merging of the company’s sweet, salty and protein brands under one umbrella called “One Hershey” allows the Reese’s maker to boost sales and help stores plan for big events.",
-      "url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
+      "id": "f4f4d675813d7cf4",
+      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
+      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
+      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
       "published_at": "2026-06-18T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",

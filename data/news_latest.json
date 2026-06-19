@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-19T17:08:40.285998+08:00",
+  "last_updated": "2026-06-19T20:40:39.710003+08:00",
   "retention_days": 7,
-  "total": 504,
+  "total": 498,
   "sources": [
     "BevNET",
     "Fab News",
@@ -43,6 +43,18 @@
       "language": "en"
     },
     {
+      "id": "e9c6dd13a04239a4",
+      "title": "Nextin Research named market intelligence provider for IFT FIRST, delivering ingredient trend data",
+      "summary": "The partnership brings co-branded consumer insights on colours, flavours, sweeteners, protein and fibre to IFT FIRST attendees, alongside strategy ideation sessions for Startup Pavilion competitors…",
+      "url": "https://nutraceuticalbusinessreview.com/nextin-research-named-market-intelligence-provider-ift-first",
+      "published_at": "2026-06-19T17:47:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
       "id": "965809ab5cd0bcd1",
       "title": "寿がきや食品 業務用商品7月から値上げ",
       "summary": "寿がきや食品は、業務用商品について、7月1日出荷分から価格改定を実施する。原材料費や包装資材費をはじめ、あらゆるコストの上昇が背景。現行出荷価格の10％以上の値上げとなる。 同社では、今回の業務用商品に先立ち、市販用 […] ソース",
@@ -53,6 +65,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "07c552e0099626df",
+      "title": "Nuritas to showcase heat-stable peptide hydrolysates at IFT FIRST",
+      "summary": "PeptiStrong and PeptiSleep demonstrate proven bioavailability across retort and UHT processing, giving formulators a commercially de-risked path to functional food integration with FDA GRAS status…",
+      "url": "https://nutraceuticalbusinessreview.com/nuritas-heat-stable-peptide-hydrolysates-ift-first",
+      "published_at": "2026-06-19T16:46:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "ef7a6185b2bc27ae",
@@ -931,10 +955,10 @@
       "language": "en"
     },
     {
-      "id": "f4f4d675813d7cf4",
-      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
-      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
-      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
+      "id": "77bdad4a6fcef80f",
+      "title": "Better together: Hershey’s combined sweets and snacks business pays off for retailers, consumers",
+      "summary": "The merging of the company’s sweet, salty and protein brands under one umbrella called “One Hershey” allows the Reese’s maker to boost sales and help stores plan for big events.",
+      "url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
       "published_at": "2026-06-18T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
@@ -943,10 +967,10 @@
       "language": "en"
     },
     {
-      "id": "77bdad4a6fcef80f",
-      "title": "Better together: Hershey’s combined sweets and snacks business pays off for retailers, consumers",
-      "summary": "The merging of the company’s sweet, salty and protein brands under one umbrella called “One Hershey” allows the Reese’s maker to boost sales and help stores plan for big events.",
-      "url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
+      "id": "f4f4d675813d7cf4",
+      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
+      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
+      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
       "published_at": "2026-06-18T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
@@ -5969,102 +5993,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "de86b299447b83bc",
-      "title": "Farm Rich Recalls Thousands of Pounds of Pizza Cheese Crunchers",
-      "summary": "Rich Products’ recall of 160,200 pounds of Farm Rich Pizza Cheese Crunchers is yet another CPG food‑safety alert in 2026, with metal‑fragments feared to be in products spread across 21 states. The…",
-      "url": "https://foodinstitute.com/focus/farm-rich-recall-thousands-pound-pizza-cheese-crunchers/?utm_source=rss&utm_medium=rss&utm_campaign=farm-rich-recall-thousands-pound-pizza-cheese-crunchers",
-      "published_at": "2026-06-12T20:00:38+08:00",
-      "source": "The Food Institute",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "0f5e391c0757c6a8",
-      "title": "Haleon commits ₹2000 crore to first India manufacturing facility targeting oral health growth",
-      "summary": "The greenfield Madhya Pradesh site, which will be operational by 2029-30, will serve domestic demand and Asian export markets, supporting Haleon's ambition to reach 300 million additional Indian…",
-      "url": "https://nutraceuticalbusinessreview.com/haleon-2000-crore-first-india-manufacturing-oral-health",
-      "published_at": "2026-06-12T19:16:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "fee32d93054c832b",
-      "title": "ベイシア 新ディスカウント業態「ココトク！」 安さと楽しさでワクワク体験を提供 即食・簡便のおトクな惣菜など強化",
-      "summary": "ベイシアは6月12日、新ディスカウント業態「劇安ワンダーランド ココトク！ふかや花園店」を埼玉県深谷市にオープンした。既存店を全面改装したもの。屋号にはあえてベイシアの名称を使わず、新たな発想で価格の安さと買い物の楽し […] ソース",
-      "url": "https://shokuhin.net/151535/2026/06/12/ryutu/kouri/",
-      "published_at": "2026-06-12T18:41:16+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "c4929eb372a5b41a",
-      "title": "腸活、ブームのその先へ",
-      "summary": "「腸活」は健康法として浸透した。味噌や納豆など日本伝統の発酵食品は日本人だけでなく外国人観光客からも関心を集め、発酵ツーリズムも広がった。 ▼発酵食品から乳酸菌やビフィズス菌、酪酸菌などを摂取するだけでなく、菌のエサと […] ソース",
-      "url": "https://shokuhin.net/151451/2026/06/12/gyakukousen/",
-      "published_at": "2026-06-12T18:28:46+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "95ee29758e81fc7a",
-      "title": "Glucosamine linked to 25% faster Alzheimer's progression in major new study",
-      "summary": "Research published in Nature Metabolism has associated the popular joint health supplement with accelerated cognitive decline, which raises urgent questions for formulators and brands in a…",
-      "url": "https://nutraceuticalbusinessreview.com/glucosamine-linked-25-faster-alzheimer-progression-study",
-      "published_at": "2026-06-12T17:33:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "0233337b920830bd",
-      "title": "今週新発売の惣菜パンまとめ！『ハムカツとスクランブルエッグ風』、『ハムマヨネーズぱん』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック ハムカツとスクランブルエッグ風たまごマークのパンに…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061208/?utm_source=rss&utm_medium=mognavinews_20260614",
-      "published_at": "2026-06-12T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "4e50d5cc8a7c6a4c",
-      "title": "今週新発売の惣菜パンまとめ！『ハムカツとスクランブルエッグ風』、『ハムマヨネーズぱん』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック ハムカツとスクランブルエッグ風たまごマークのパンに…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061208/?utm_source=rss&utm_medium=mognavinews_20260613",
-      "published_at": "2026-06-12T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "e411c1c4f97080ec",
-      "title": "今週新発売の惣菜パンまとめ！『ハムカツとスクランブルエッグ風』、『ハムマヨネーズぱん』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック ハムカツとスクランブルエッグ風たまごマークのパンに…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061208/?utm_source=rss&utm_medium=mognavinews_20260612",
-      "published_at": "2026-06-12T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
