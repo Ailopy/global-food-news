@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T15:55:04.840945+08:00",
-  "total": 3525,
+  "last_updated": "2026-06-20T19:07:27.515460+08:00",
+  "total": 3528,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -25,6 +25,18 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "59f20b4458351dba",
+      "title": "今週新発売の増量タイプの食品まとめ！『チェダーチーズの旨みを感じる　チーズ鱈　５１％増量』、『盛りすぎ！ＢＬＴＥサンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！増量の新商品情報をお届けします。今週新発売の#増量ローソン チェダーチーズの旨みを感じる チーズ鱈 51％増量チーズの旨みと鱈…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062008/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-20T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "f09e31814a0b577c",
@@ -99,12 +111,36 @@
       "language": "ja"
     },
     {
+      "id": "fb6b56c2bb414362",
+      "title": "サントリー「GREEN DA・KA・RA」がノンカフェイン茶系飲料開拓　麦茶を軸足にルイボス・コーン茶・黒豆茶へと領域拡大",
+      "summary": "サントリービバレッジ&フードの「GREEN DA・KA・RA」ブランドがノンカフェイン茶系飲料市場を開拓している。 同ブランドは「大人から子どもまで安心して飲める、心とカラダにやさしい水分補給飲料」というコン […] ソース",
+      "url": "https://shokuhin.net/152025/2026/06/20/inryou/inryou-inryou/",
+      "published_at": "2026-06-20T12:18:27+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "eeca9fe319b3d97e",
       "title": "【2026年6月第3週】ケーキ・洋菓子ランキング1位はドンレミー マカロン チョコミント！新商品・急上昇続々まとめ",
       "summary": "2026年6月第3週のケーキ・洋菓子ランキングが出揃いました！今週は新商品ラッシュで、食べてみたいスイーツが目白押しです。気になる1位から10位まで、さっそく…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22429/?utm_source=rss&utm_medium=mognavinews_20260620",
       "published_at": "2026-06-20T12:00:00+08:00",
       "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "838ce3b6874777b0",
+      "title": "ブルーマチックジャパンの新時代コーヒーマシン戦略　アイスコーヒーや60℃抽出のライトブリューなどの新しい価値を創造",
+      "summary": "コーヒーマシンの輸入販売会社・ブルーマチックジャパン社は、昨年末に掲げた新経営理念「コーヒーマシンで共に未来をつくる」のもと、各メーカー、ブランドの総代理店という従来のスタンスから脱却する。 河口雅明社長は「お客さま […] ソース",
+      "url": "https://shokuhin.net/152022/2026/06/20/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-06-20T11:59:18+08:00",
+      "source": "食品新聞",
       "region": "日本",
       "category": "综合",
       "level": "A",
