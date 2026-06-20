@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T10:59:10.699128+08:00",
-  "total": 3516,
+  "last_updated": "2026-06-20T15:55:04.840945+08:00",
+  "total": 3525,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -25,6 +25,114 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "f09e31814a0b577c",
+      "title": "今週新発売の惣菜パンまとめ！『マヨ好きのたまごマヨパン』、『チーズカレーパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンYKベーキング マヨ好きのたまごマヨパンしっとりとした生地でタマゴフィリン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062007/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-20T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "59c9c93b8ba664a7",
+      "title": "【2026年6月第3週】和菓子・その他ランキング1位はヤマザキ生どら！新商品・急上昇アイテムも続々まとめ",
+      "summary": "2026年6月第3週の和菓子・その他ランキングが出そろいました。今週はもちもち食感の生どらシリーズや、気になる新商品がランクインするなど、見どころたっぷりの顔…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22432/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-20T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a711cae25a7e2adc",
+      "title": "【2026年6月第3週】アイス・コンビニアイスランキング1位は赤城 Sof' 岩泉ヨーグルト味！新商品・急上昇アイスまとめ",
+      "summary": "6月の陽ざしがじりじりと照りつけるこの季節、冷たいアイスが恋しくてたまらない！今週もアイス・コンビニアイスカテゴリには魅力的な新商品がずらりと顔をそろえました…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22431/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-20T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "bb14eb9a7a800ca8",
+      "title": "今週新発売の惣菜パンまとめ！『２色パン　カレー＆たまご』、『喫茶店風アラビアータピザトースト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ 2色パン カレー＆たまご 袋1個カレーとたまごフィリング、２つの…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062006/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-20T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ca12db2b57c310a0",
+      "title": "【2026年6月第3週】プリン・ゼリー・カップデザートランキング1位はモンテール北海道ソフトのプリン！ドンレミー新商品＆メイトー急上昇まとめ",
+      "summary": "今週もプリン・ゼリー・カップデザートのランキングが出揃いました！初夏らしい抹茶フレーバーの新顔から、長く愛され続けるロングセラーまで、食べたくなる顔ぶれが並ん…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22430/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-20T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "dd524042ca1c8636",
+      "title": "今週新発売の惣菜パンまとめ！『旨辛タコス風パン』、『ふっくらバーガー　とろ～りチーズ＆ケチャップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンワンハンドで食べやすい！夏のスポーツ観戦のおともにも！！Pasco 旨辛タ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062005/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-20T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "eeca9fe319b3d97e",
+      "title": "【2026年6月第3週】ケーキ・洋菓子ランキング1位はドンレミー マカロン チョコミント！新商品・急上昇続々まとめ",
+      "summary": "2026年6月第3週のケーキ・洋菓子ランキングが出揃いました！今週は新商品ラッシュで、食べてみたいスイーツが目白押しです。気になる1位から10位まで、さっそく…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22429/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-20T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "23d337bd79b6e783",
+      "title": "今週新発売の惣菜パンまとめ！『カレーコロッケドッグ　カレーソース』、『たっぷりコーンマヨパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ カレーコロッケドッグ カレーソースフランスパンにスティック状のカ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062004/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-20T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5295de3b7a605b80",
+      "title": "【2026年6月第3週】惣菜パンランキング1位はスナックサンド ポテト＆チーズ！新商品・急上昇商品まとめ",
+      "summary": "2026年6月第3週の惣菜パンランキングが出ました！チーズ系からコーン、ハムマヨ、さらには個性派ドーナツまで、今週も食欲をそそるラインナップが揃っています。ど…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22428/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-20T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "1e4a9a11cdb61ab0",
@@ -543,18 +651,6 @@
       "language": "ja"
     },
     {
-      "id": "3981bb8c400bd6df",
-      "title": "今週新発売の菓子パン🍫まとめ！『ポケモンミニ蒸しケーキ　バナナ　鉄分入り』、『ポケモンボールドーナツ　メープル』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン ポケモンミニ蒸しケーキ バナナ 鉄分入り鉄分を加えたバナナ味のふ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061907/?utm_source=rss&utm_medium=mognavinews_20260620",
-      "published_at": "2026-06-19T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "6e3a48b200672b83",
       "title": "Beyond performance claims: understanding the biological response to nitrate supplementation",
       "summary": "A pilot study in amateur endurance athletes highlights how beetroot-derived nitrate may activate nitric oxide pathways alongside redox and inflammatory signalling, reports Dr Simona Mrakic-Sposta,…",
@@ -565,6 +661,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "3981bb8c400bd6df",
+      "title": "今週新発売の菓子パン🍫まとめ！『ポケモンミニ蒸しケーキ　バナナ　鉄分入り』、『ポケモンボールドーナツ　メープル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン ポケモンミニ蒸しケーキ バナナ 鉄分入り鉄分を加えたバナナ味のふ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061907/?utm_source=rss&utm_medium=mognavinews_20260620",
+      "published_at": "2026-06-19T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "40a6b64a80bf15f4",
@@ -1431,10 +1539,10 @@
       "language": "en"
     },
     {
-      "id": "77bdad4a6fcef80f",
-      "title": "Better together: Hershey’s combined sweets and snacks business pays off for retailers, consumers",
-      "summary": "The merging of the company’s sweet, salty and protein brands under one umbrella called “One Hershey” allows the Reese’s maker to boost sales and help stores plan for big events.",
-      "url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
+      "id": "f4f4d675813d7cf4",
+      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
+      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
+      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
       "published_at": "2026-06-18T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
@@ -1443,10 +1551,10 @@
       "language": "en"
     },
     {
-      "id": "f4f4d675813d7cf4",
-      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
-      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
-      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
+      "id": "77bdad4a6fcef80f",
+      "title": "Better together: Hershey’s combined sweets and snacks business pays off for retailers, consumers",
+      "summary": "The merging of the company’s sweet, salty and protein brands under one umbrella called “One Hershey” allows the Reese’s maker to boost sales and help stores plan for big events.",
+      "url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
       "published_at": "2026-06-18T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
