@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-19T14:06:20",
+  "last_updated": "2026-06-20T13:03:36",
   "retention_days": 10,
-  "total": 263,
+  "total": 264,
   "s_count": 15,
   "a_count": 2,
-  "b_count": 246,
+  "b_count": 247,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -249,6 +249,17 @@
       "region": "日本",
       "title": "2026.06.19日清食品「日清ソース焼そばカップ チキンスープ付き」の回収に関するお詫びとお知らせ",
       "url": "https://www.nissin.com/jp/news/13795/",
+      "published_at": "2026-06-19T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.19湖池屋一部製品の価格・規格改定に関するお知らせ",
+      "url": "https://www.nissin.com/jp/news/13793/",
       "published_at": "2026-06-19T00:00:00",
       "summary": "",
       "level": "B",
