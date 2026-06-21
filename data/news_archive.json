@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T11:50:39.833511+08:00",
-  "total": 3551,
+  "last_updated": "2026-06-21T16:38:16.733503+08:00",
+  "total": 3559,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -25,6 +25,102 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "a0ff30cad4f68545",
+      "title": "今週新発売の惣菜パンまとめ！『もちもち明太チーズ』、『チャーシューチーズマヨパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン もちもち明太チーズ 袋1個もちもちとした生地で、やまやの辛…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062107/?utm_source=rss&utm_medium=mognavinews_20260621",
+      "published_at": "2026-06-21T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3d35837783a429f8",
+      "title": "栗山米菓「星たべよ」発売40周年　新キャラクター「ほしほし」が誕生　日本一の星空・長野県阿智村で期間限定コラボショップ開催",
+      "summary": "栗山米菓は、米菓のロングセラーブランド「星たべよ」が発売40周年を迎えたことを記念して4月からパッケージを順次リニューアルし、新キャラクター「ほしほし」を誕生させた。 以降、「ほしほし」がかわいらしく動く新CMを公開 […] ソース",
+      "url": "https://shokuhin.net/152042/2026/06/21/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-06-21T14:52:59+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5cd9a7c51414141e",
+      "title": "キリン、価値を感じられにくくなった緑茶飲料市場へ「生茶」から新提案　  「生茶ジャスミン香る緑茶」を期間限定発売",
+      "summary": "キリンビバレッジは、緑茶飲料市場に向けた「生茶」からの新提案として「キリン 生茶ジャスミン香る緑茶」を6月30日に期間限定で新発売する。 5月19日、取材に応じた山中進マーケティング部ブランド担当主務は「緑茶飲料市場 […] ソース",
+      "url": "https://shokuhin.net/152043/2026/06/21/inryou/inryou-inryou/",
+      "published_at": "2026-06-21T14:45:15+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "01b58ccb8daad871",
+      "title": "キーコーヒー、ミニチュアサイズの回転看板でブランド露出増と関係構築に手応え",
+      "summary": "キーコーヒーは今期（3月期）、さらなるブランド力向上を目指す。 その一手となるのが、喫茶店の店頭で親しまれてきた「キーコーヒー」のロゴの回転看板。今期は新たに、ミニチュアサイズの看板を用意しレジ横などに置いてもらうこ […] ソース",
+      "url": "https://shokuhin.net/152035/2026/06/21/inryou/inryou-inryou/",
+      "published_at": "2026-06-21T14:40:01+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "1600dd8bda2b7dbd",
+      "title": "今週新発売の惣菜パンまとめ！『トリュフ風味デミグラスハンバーグとラタトゥイユ風』、『マヨ好きのツナマヨパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック トリュフ風味デミグラスハンバーグとラタトゥイユ風食…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062106/?utm_source=rss&utm_medium=mognavinews_20260621",
+      "published_at": "2026-06-21T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ba428b9b516142c2",
+      "title": "【2026年6月第3週】ポテトチップス・スナックランキング1位はベビースター！新商品・急上昇商品まとめ",
+      "summary": "2026年6月第3週のポテトチップス・スナックランキングが出揃いました。新商品から定番の人気商品まで、今週もバラエティ豊かなラインナップです。さっそく結果を見…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22437/?utm_source=rss&utm_medium=mognavinews_20260621",
+      "published_at": "2026-06-21T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ea514eb54d8e550a",
+      "title": "今週新発売の惣菜パンまとめ！『スパイシーキーマの黒カレーパン』、『枝豆とベーコンのパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン木村屋 スパイシーキーマの黒カレーパン 袋1個ほんのりスパイシーな黄色いカ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062105/?utm_source=rss&utm_medium=mognavinews_20260621",
+      "published_at": "2026-06-21T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f5178ed1526b77e4",
+      "title": "【2026年6月第3週】せんべい・駄菓子ランキング1位は亀田の柿の種 梅しそ！新商品・急上昇商品まとめ",
+      "summary": "今週も「せんべい・駄菓子」カテゴリのランキングが更新されました！定番人気のロングセラー商品から気になる新顔まで、バラエティ豊かなラインナップが揃っています。サ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22436/?utm_source=rss&utm_medium=mognavinews_20260621",
+      "published_at": "2026-06-21T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "fdeb34ddc60d5e91",
