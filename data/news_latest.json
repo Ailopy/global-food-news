@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-21T16:38:16.780511+08:00",
+  "last_updated": "2026-06-21T19:39:07.863231+08:00",
   "retention_days": 7,
-  "total": 482,
+  "total": 476,
   "sources": [
     "BevNET",
     "Fab News",
@@ -1963,10 +1963,10 @@
       "language": "en"
     },
     {
-      "id": "f4f4d675813d7cf4",
-      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
-      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
-      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
+      "id": "77bdad4a6fcef80f",
+      "title": "Better together: Hershey’s combined sweets and snacks business pays off for retailers, consumers",
+      "summary": "The merging of the company’s sweet, salty and protein brands under one umbrella called “One Hershey” allows the Reese’s maker to boost sales and help stores plan for big events.",
+      "url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
       "published_at": "2026-06-18T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
@@ -1975,10 +1975,10 @@
       "language": "en"
     },
     {
-      "id": "77bdad4a6fcef80f",
-      "title": "Better together: Hershey’s combined sweets and snacks business pays off for retailers, consumers",
-      "summary": "The merging of the company’s sweet, salty and protein brands under one umbrella called “One Hershey” allows the Reese’s maker to boost sales and help stores plan for big events.",
-      "url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
+      "id": "f4f4d675813d7cf4",
+      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
+      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
+      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
       "published_at": "2026-06-18T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
@@ -5729,78 +5729,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "e51e5d7034dd69ad",
-      "title": "コンビニプリンのおすすめTOP3！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニプリン」のおすすめランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
-      "url": "https://mognavi.jp/news/matome/gen-tagRanking-22222/?utm_source=rss&utm_medium=mognavinews_20260616",
-      "published_at": "2026-06-14T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "b3163efefcae17f8",
-      "title": "コンビニプリンのおすすめTOP3！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニプリン」のおすすめランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
-      "url": "https://mognavi.jp/news/matome/gen-tagRanking-22222/?utm_source=rss&utm_medium=mognavinews_20260615",
-      "published_at": "2026-06-14T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "cd5cb572cf633b01",
-      "title": "コンビニプリンのおすすめTOP3！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニプリン」のおすすめランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
-      "url": "https://mognavi.jp/news/matome/gen-tagRanking-22222/?utm_source=rss&utm_medium=mognavinews_20260614",
-      "published_at": "2026-06-14T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "cb6b492ec7c793e5",
-      "title": "今週新発売の卵料理まとめ！『やみつき香味ダレのとろっと韓国風煮たまご』、『盛りすぎ！具！おにぎり　ポーク玉子　シーチキン　マヨネーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！卵料理の新商品情報をお届けします。今週新発売の#卵料理セブン-イレブン やみつき香味ダレのとろっと韓国風煮たまご醤油に胡麻油、…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061408/?utm_source=rss&utm_medium=mognavinews_20260616",
-      "published_at": "2026-06-14T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "95076f4afbfac4fe",
-      "title": "今週新発売の卵料理まとめ！『やみつき香味ダレのとろっと韓国風煮たまご』、『盛りすぎ！具！おにぎり　ポーク玉子　シーチキン　マヨネーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！卵料理の新商品情報をお届けします。今週新発売の#卵料理セブン-イレブン やみつき香味ダレのとろっと韓国風煮たまご醤油に胡麻油、…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061408/?utm_source=rss&utm_medium=mognavinews_20260615",
-      "published_at": "2026-06-14T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "efbfe32c8a332003",
-      "title": "今週新発売の卵料理まとめ！『やみつき香味ダレのとろっと韓国風煮たまご』、『盛りすぎ！具！おにぎり　ポーク玉子　シーチキン　マヨネーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！卵料理の新商品情報をお届けします。今週新発売の#卵料理セブン-イレブン やみつき香味ダレのとろっと韓国風煮たまご醤油に胡麻油、…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061408/?utm_source=rss&utm_medium=mognavinews_20260614",
-      "published_at": "2026-06-14T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
