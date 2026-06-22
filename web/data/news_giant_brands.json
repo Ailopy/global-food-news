@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-21T13:52:26",
+  "last_updated": "2026-06-22T14:18:19",
   "retention_days": 10,
-  "total": 264,
+  "total": 266,
   "s_count": 15,
   "a_count": 2,
-  "b_count": 247,
+  "b_count": 249,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -222,6 +222,39 @@
       "level_reason": "常规新品/营销"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-06-22T00:00:00",
+      "summary": "2025年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.22湖池屋ジェラードン×ドンタコス 「ジェラードンタコス」(6月22日より開始)",
+      "url": "https://www.nissin.com/jp/news/13792/",
+      "published_at": "2026-06-22T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "マレーシア味の素社に対する完全子会社化に向けた提案に関するお知らせ[適時開示]",
+      "url": "https://news.ajinomoto.co.jp/2026/06/2026_06_22_03.pdf",
+      "published_at": "2026-06-22T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -229,17 +262,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0619_01.html",
       "published_at": "2026-06-19T03:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-06-19T00:00:00",
-      "summary": "2025年12月期 第3四半期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
