@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22T15:13:31.733003+08:00",
-  "total": 3626,
+  "last_updated": "2026-06-22T17:52:01.120114+08:00",
+  "total": 3634,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -25,6 +25,90 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "339640d36b4944a9",
+      "title": "今週新発売の塩◯◯まとめ！『ミニ濃厚チョコブラウニー塩ミルク』、『エリーゼ　塩ミルク』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯ブルボン ミニ濃厚チョコブラウニー塩ミルク 袋106gチョコレートのおい…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062208/?utm_source=rss&utm_medium=mognavinews_20260622",
+      "published_at": "2026-06-22T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "dc26e078ce8489a2",
+      "title": "From formula to label: Why connected product data matters more than ever",
+      "summary": "Disconnected product data slows innovation. Here's why leading teams are connecting it.",
+      "url": "https://www.fooddive.com/spons/from-formula-to-label-why-connected-product-data-matters-more-than-ever/822873/",
+      "published_at": "2026-06-22T17:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "ad334780bd040bed",
+      "title": "Vanilla profiles that drive ice cream experience: Where sensory meets market demand",
+      "summary": "New sensory research identifies three vanilla flavor profiles & their connection to ice cream consumers.",
+      "url": "https://www.fooddive.com/spons/vanilla-profiles-that-drive-ice-cream-experience-where-sensory-meets-marke/822714/",
+      "published_at": "2026-06-22T17:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "46bc4d5680a58c7c",
+      "title": "【セブン-イレブン】既存店日販は70万円を突破、2030年に日販80万円目指す【コンビニ各社動向 #1】",
+      "summary": "長引く物価高騰などで消費者の節約志向はより一層強まっている。その中でコンビニ各社は、来店客の確保に向けて値ごろ感や楽しさを打ち出した企画を行っているほか、強みを活かしたコンテンツの展開なども進めている。 〈セブン‐イレブ...",
+      "url": "https://www.ssnp.co.jp/distribution/690302/",
+      "published_at": "2026-06-22T16:18:26+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "08aeedb87d8b8f24",
+      "title": "ミニストップ「北海道フェア」開催、エスカロップの弁当や北海道メロンシュークリームなどをラインアップ",
+      "summary": "ミニストップは、2026年6月23日から「北海道フェア」を実施する。店内加工ファストフードをはじめ、お弁当、おにぎり、スイーツ、菓子パン、北海道のお菓子など、北海道の食材を使った商品を、ミニストップ全店で発売する。 【北...",
+      "url": "https://www.ssnp.co.jp/distribution/690227/",
+      "published_at": "2026-06-22T16:00:31+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "3b0c1603115cc84e",
+      "title": "〈こだわりのヒミツ〉エスエスケイフーズ「SSK 休日のガツンとにんにくタレッシング」 3種のニンニクでやみつきに",
+      "summary": "きざみにんにく、おろしにんにく、ガーリックパウダーの3種を使用し、食欲をそそる香りとパンチのある味わいがやみつきになる。タレとしてもドレッシングとしても活用できる。 ソース",
+      "url": "https://shokuhin.net/152079/2026/06/22/himitsu/",
+      "published_at": "2026-06-22T15:58:04+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "22c4cf1f1d3613d5",
+      "title": "【4日間限定】対象の「冷たい麺」が50円引き　冷し中華やざるそば、冷製パスタなど / セブン‐イレブン",
+      "summary": "セブン‐イレブン･ジャパンは、6月25日～28日の4日間限定で、「冷たい麺」を対象とした50円引きセールを全国のセブン‐イレブン店舗で実施する。 冷し中華などの「調理麺」のほか「スパゲティ･パスタ」カテゴリの冷製パスタ、...",
+      "url": "https://www.ssnp.co.jp/distribution/690266/",
+      "published_at": "2026-06-22T15:53:14+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "16752001cf935edd",
@@ -193,6 +277,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "7f880cea3c69e5d6",
+      "title": "CurcuVail: A clinically validated curcumin solution for Europe's growing NAFLD challenge",
+      "summary": "Liver health has rapidly emerged as one of the most important areas within the European nutraceutical market. This growing health concern has intensified demand for scientifically validated…",
+      "url": "https://nutraceuticalbusinessreview.com/curcuvail-a-clinically-validated-curcumin-solution-for-europe-s",
+      "published_at": "2026-06-22T12:08:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "f93450d6380159c9",
@@ -2751,10 +2847,10 @@
       "language": "en"
     },
     {
-      "id": "f4f4d675813d7cf4",
-      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
-      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
-      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
+      "id": "77bdad4a6fcef80f",
+      "title": "Better together: Hershey’s combined sweets and snacks business pays off for retailers, consumers",
+      "summary": "The merging of the company’s sweet, salty and protein brands under one umbrella called “One Hershey” allows the Reese’s maker to boost sales and help stores plan for big events.",
+      "url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
       "published_at": "2026-06-18T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
@@ -2763,10 +2859,10 @@
       "language": "en"
     },
     {
-      "id": "77bdad4a6fcef80f",
-      "title": "Better together: Hershey’s combined sweets and snacks business pays off for retailers, consumers",
-      "summary": "The merging of the company’s sweet, salty and protein brands under one umbrella called “One Hershey” allows the Reese’s maker to boost sales and help stores plan for big events.",
-      "url": "https://www.fooddive.com/news/hersheys-combines-candy-snacking-units-paying-off-for-retailers/821217/",
+      "id": "f4f4d675813d7cf4",
+      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
+      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
+      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
       "published_at": "2026-06-18T22:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
