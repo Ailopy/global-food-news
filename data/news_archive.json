@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22T17:52:01.120114+08:00",
-  "total": 3634,
+  "last_updated": "2026-06-22T22:25:34.654812+08:00",
+  "total": 3644,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -24,6 +24,126 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "06bea04509e3ecab",
+      "title": "Ocean Spray Taps Former Nestlé Health Science Exec as CEO",
+      "summary": "Ocean Spray has appointed Abigail Buckwalter, a former executive at Nestlé Health Sciences, as president and CEO.",
+      "url": "https://www.nosh.com/news/2026/ocean-spray-taps-former-nestle-health-science-exec-as-ceo",
+      "published_at": "2026-06-22T22:20:59+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "67b8d9945c5362f6",
+      "title": "A Bite With Cameron Smith, Kindling Snacks Founder and CEO",
+      "summary": "Cameron Smith was slinging whole-food, protein-forward products before terms like “protein-maxxing” and concerns over nutrition for GLP-1 users came into existence.",
+      "url": "https://www.nosh.com/news/2026/a-bite-with-cameron-smith-kindling-snacks-founder-and-ceo",
+      "published_at": "2026-06-22T22:19:24+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "9675b4e394cacc61",
+      "title": "Beef tallow takeover? Big food companies begin to embrace MAHA ingredient",
+      "summary": "Major food companies, such as Conagra and Utz, are making products with the rendered animal fat, which has seen its popularity soar under RFK Jr.’s recent dietary guideline changes.",
+      "url": "https://www.fooddive.com/news/beef-tallow-takeover-big-food-companies-begin-to-embrace-maha-ingredient/815598/",
+      "published_at": "2026-06-22T22:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "320ea6efc158f15f",
+      "title": "Clinical trial finds enzyme blend eases joint pain in 92% of dogs",
+      "summary": "Specialty Enzymes & Probiotics has published a double-blind dog study showing its Exclzyme Pet reduces pain and lameness, as joint health emerges as a fast-growing pet supplement category",
+      "url": "https://nutraceuticalbusinessreview.com/clinical-trial-enzyme-blend-eases-joint-pain-dogs",
+      "published_at": "2026-06-22T21:58:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "324eb101a7be2364",
+      "title": "Stars + Honey Makes Retail Debut at Target Following $24M Investment",
+      "summary": "After tripling sales over the past year and securing a $24 million growth equity investment from VMG Partners, collagen protein bar brand Stars + Honey is making its brick-and-mortar debut with a…",
+      "url": "https://www.nosh.com/news/2026/stars-honey-makes-retail-debut-at-target-following-24m-investment",
+      "published_at": "2026-06-22T21:56:02+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "f468f4c487c3bba1",
+      "title": "How Mars and Mondelēz fared on 2025 packaging targets",
+      "summary": "The snacking giants’ most recent sustainability reports show progress, though both companies fell short on some goals.",
+      "url": "https://www.fooddive.com/news/mars-mondelez-sustainability-reports-packaging-targets-2025/823294/",
+      "published_at": "2026-06-22T21:41:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "3a32af4cd41a6cb9",
+      "title": "Health Canada authorises multiple skin health claims for OVOLUX",
+      "summary": "Stratum Nutrition is pleased to announce that Health Canada has authorised multiple skin health claims for OVOLUX, the company's innovative eggshell membrane ingredient for beauty-from-within…",
+      "url": "https://nutraceuticalbusinessreview.com/health-canada-authorises-multiple-skin-health-claims-for",
+      "published_at": "2026-06-22T19:58:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "036bb150928dcd3f",
+      "title": "Fi Europe 2026 opens registration with new Pet Food and Nutrition Forum in Frankfurt",
+      "summary": "The 17-19 November event expects 1650+ exhibitors and 27,000 visitors, spotlighting GLP-1's impact on food innovation, healthspan and gut health alongside an expanded pet nutrition programme",
+      "url": "https://nutraceuticalbusinessreview.com/fi-europe-2026-opens-registration-pet-nutrition-frankfurt",
+      "published_at": "2026-06-22T19:02:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "fcfe57b5d464a665",
+      "title": "健康に！美容に！トマトジュースのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「トマトジュース」の最新・注目度ランキングです♪（2026年6月19日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22519/?utm_source=rss&utm_medium=mognavinews_20260622",
+      "published_at": "2026-06-22T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "390f26bb9929c16d",
+      "title": "Sun Pharma acquires Innovcare Lifesciences to expand nutraceutical portfolio in India",
+      "summary": "Sun Pharma will pay $28.73m for full ownership of Innovcare Lifesciences, broadening its OTC, nutraceutical and cosmeceutical offerings as India's wellness sector grows",
+      "url": "https://nutraceuticalbusinessreview.com/sun-pharma-acquires-innovcare-lifesciences-nutraceutical-india",
+      "published_at": "2026-06-22T17:53:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
