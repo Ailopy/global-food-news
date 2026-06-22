@@ -1197,4 +1197,244 @@ footer {
   line-height: 1.6;
   margin: 4px 24px 24px;
 }
+
+/* ════════════════════════════════════════════════════════════
+   S级选题网站 Tab 按钮特殊样式
+════════════════════════════════════════════════════════════ */
+.tab-btn-splus {
+  position: relative;
+}
+.tab-btn-splus.active {
+  background: linear-gradient(135deg, #92400e, #b45309) !important;
+  border-color: #92400e !important;
+  color: #fff !important;
+}
+.tab-btn-splus:not(.active):hover {
+  border-color: #b45309 !important;
+  color: #92400e !important;
+}
+
+/* ════════════════════════════════════════════════════════════
+   S级选题视图
+════════════════════════════════════════════════════════════ */
+.stopics-view { display: block; }
+
+/* 头部介绍 */
+.stopics-intro {
+  padding: 20px 24px 12px;
+  border-bottom: 1px solid var(--c-border);
+  margin-bottom: 8px;
+}
+.stopics-heading-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 6px;
+}
+.stopics-heading {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--c-text);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+}
+.stopics-update-badge {
+  font-size: .75rem;
+  color: #92400e;
+  background: #fff7ed;
+  border: 1px solid #fed7aa;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+.stopics-sub {
+  font-size: .84rem;
+  color: var(--c-text-3);
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* 统计栏 */
+.stopics-stats-bar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 24px 16px;
+  font-size: .82rem;
+  font-weight: 600;
+  flex-wrap: wrap;
+}
+.stopics-stat-splus { color: #92400e; }
+.stopics-stat-normal { color: var(--c-text-2); }
+.stopics-stat-total  { color: var(--c-text-3); font-weight: 400; }
+.stopics-cat-stats {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-left: auto;
+}
+.stopics-cat-stat {
+  font-size: .73rem;
+  font-weight: 400;
+  color: var(--c-text-3);
+  background: var(--c-surface-alt);
+  padding: 2px 8px;
+  border-radius: 10px;
+}
+.stopics-cat-stat em { font-style: normal; font-weight: 700; color: var(--c-text-2); }
+
+/* 分区标题 */
+.stopics-section { padding: 0 24px 16px; }
+.stopics-section-title {
+  font-size: .92rem;
+  font-weight: 700;
+  margin: 0 0 12px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid;
+}
+.stopics-section-splus { color: #92400e; border-color: #fed7aa; }
+.stopics-section-normal { color: var(--c-text-2); border-color: var(--c-border); }
+
+/* 卡片网格 */
+.stopics-grid { display: grid; gap: 12px; }
+.stopics-grid-splus  { grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); }
+.stopics-grid-normal { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+
+/* 卡片 */
+.stopics-card {
+  display: block;
+  background: var(--c-surface);
+  border-radius: 14px;
+  padding: 16px 18px;
+  text-decoration: none;
+  color: var(--c-text);
+  border: 1px solid var(--c-border);
+  transition: all .2s;
+  position: relative;
+  overflow: hidden;
+  border-left: 4px solid var(--c-border);
+}
+.stopics-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.08);
+}
+/* S+ 卡片特殊样式 */
+.stopics-card-splus {
+  border-left: 4px solid #f59e0b;
+  background: linear-gradient(135deg, #fffbeb 0%, var(--c-surface) 60%);
+}
+.stopics-splus-glow {
+  position: absolute;
+  top: -40px;
+  right: -40px;
+  width: 100px;
+  height: 100px;
+  background: radial-gradient(circle, rgba(251,191,36,.15) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+/* 卡片头部：网站名/地区/定位 */
+.stopics-card-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.stopics-card-site {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.stopics-site-name {
+  font-size: .78rem;
+  font-weight: 700;
+  color: var(--c-text-2);
+}
+.stopics-region-tag {
+  font-size: .72rem;
+  color: var(--c-text-3);
+}
+.stopics-pos-tag {
+  font-size: .68rem;
+  padding: 1px 7px;
+  border-radius: 10px;
+  font-weight: 500;
+}
+.stopics-badge-row {
+  flex-shrink: 0;
+}
+.stopics-splus-badge {
+  font-size: .7rem;
+  font-weight: 700;
+  padding: 2px 9px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #fef3c7, #fde68a);
+  color: #92400e;
+  border: 1px solid #fcd34d;
+  white-space: nowrap;
+}
+
+/* 标题 */
+.stopics-card-title {
+  font-size: .92rem;
+  font-weight: 600;
+  line-height: 1.45;
+  margin: 0 0 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+/* 摘要 */
+.stopics-card-summary {
+  font-size: .78rem;
+  color: var(--c-text-3);
+  line-height: 1.5;
+  margin: 0 0 8px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* 卡片底部 */
+.stopics-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.stopics-cat-tags {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+.stopics-cat-tag {
+  font-size: .67rem;
+  padding: 2px 7px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.stopics-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: .72rem;
+  color: var(--c-text-3);
+  flex-shrink: 0;
+}
+.stopics-readmore {
+  color: var(--c-primary);
+  font-weight: 600;
+}
+.stopics-card:hover .stopics-readmore { text-decoration: underline; }
 .giants-note svg { flex-shrink: 0; margin-top: 2px; }

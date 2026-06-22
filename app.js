@@ -222,8 +222,9 @@ function topicMatchScore(art, config) {
   return score;
 }
 
-const DATA_URL   = "./data/news_latest.json";
+const DATA_URL        = "./data/news_latest.json";
 const GIANTS_DATA_URL = "./data/news_giant_brands.json";
+const STOPICS_DATA_URL = "./data/news_s_topics.json";
 const PAGE_SIZE  = 24;
 const DEBOUNCE_MS = 220;
 
@@ -265,10 +266,13 @@ let currentPage      = 1;
 let isListView       = false;
 let allRegions       = [];
 let allCategories    = [];
-let activeTab        = "all";   // "all" | "topics" | "giants"
+let activeTab        = "all";   // "all" | "topics" | "giants" | "stopics"
 let allGiantArticles = [];
 let giantBrandsActive = new Set();
 let giantRegionsActive = new Set();
+let allSTopicsArticles = [];
+let sTopicsSitesActive = new Set();
+let sTopicsRegionsActive = new Set();
 
 // ── DOM ───────────────────────────────────────────────────────
 const grid           = document.getElementById("articlesGrid");
@@ -291,10 +295,11 @@ const regionFilters  = document.getElementById("regionFilters");
 const categoryFilters= document.getElementById("categoryFilters");
 
 // Tab DOM
-const tabBar       = document.getElementById("tabBar");
-const tabAllBtn    = document.getElementById("tabAll");
-const tabTopicsBtn = document.getElementById("tabTopics");
-const tabGiantsBtn = document.getElementById("tabGiants");
+const tabBar         = document.getElementById("tabBar");
+const tabAllBtn      = document.getElementById("tabAll");
+const tabTopicsBtn   = document.getElementById("tabTopics");
+const tabGiantsBtn   = document.getElementById("tabGiants");
+const tabSTopicsBtn  = document.getElementById("tabSTopics");
 const mainContent  = document.getElementById("main");
 
 // ── 时间格式化 ─────────────────────────────────────────────────
@@ -935,6 +940,7 @@ function switchTab(tab) {
   tabAllBtn.classList.toggle("active", tab === "all");
   tabTopicsBtn.classList.toggle("active", tab === "topics");
   tabGiantsBtn.classList.toggle("active", tab === "giants");
+  tabSTopicsBtn.classList.toggle("active", tab === "stopics");
 
   const statsBar = document.getElementById("statsBar");
   const filterBars = [
@@ -949,22 +955,34 @@ function switchTab(tab) {
     filterBars.forEach(el => { if (el) el.style.display = "none"; });
     if (statsBar) statsBar.style.display = "none";
     articlesGrid.classList.remove("giants-view");
+    articlesGrid.classList.remove("stopics-view");
     renderTopicsView();
   } else if (tab === "giants") {
     filterBars.forEach(el => { if (el) el.style.display = "none"; });
     if (statsBar) statsBar.style.display = "none";
     articlesGrid.classList.remove("topics-view");
-    // 加载巨头数据（如果还没加载）
+    articlesGrid.classList.remove("stopics-view");
     if (allGiantArticles.length === 0) {
       loadGiantBrandsData().then(() => renderGiantsView());
     } else {
       renderGiantsView();
+    }
+  } else if (tab === "stopics") {
+    filterBars.forEach(el => { if (el) el.style.display = "none"; });
+    if (statsBar) statsBar.style.display = "none";
+    articlesGrid.classList.remove("topics-view");
+    articlesGrid.classList.remove("giants-view");
+    if (allSTopicsArticles.length === 0) {
+      loadSTopicsData().then(() => renderSTopicsView());
+    } else {
+      renderSTopicsView();
     }
   } else {
     filterBars.forEach(el => { if (el) el.style.display = ""; });
     if (statsBar) statsBar.style.display = "";
     articlesGrid.classList.remove("topics-view");
     articlesGrid.classList.remove("giants-view");
+    articlesGrid.classList.remove("stopics-view");
     applyFilters();
   }
 }
@@ -973,6 +991,7 @@ function switchTab(tab) {
 tabAllBtn.addEventListener("click",    () => switchTab("all"));
 tabTopicsBtn.addEventListener("click", () => switchTab("topics"));
 tabGiantsBtn.addEventListener("click", () => switchTab("giants"));
+tabSTopicsBtn.addEventListener("click", () => switchTab("stopics"));
 
 // ── 搜索防抖 ───────────────────────────────────────────────────
 let searchTimer = null;
@@ -1049,3 +1068,240 @@ window.resetFilters = function() {
 
 // ── 启动 ──────────────────────────────────────────────────────
 loadData();
+
+// ════════════════════════════════════════════════════════════
+// S级选题网站 — 数据加载 + 渲染
+// ════════════════════════════════════════════════════════════
+
+const SITE_REGION_ICON = {
+  "日本": "🇯🇵", "北美": "🇺🇸", "北美&欧洲": "🌍", "欧洲": "🇪🇺",
+  "全球": "🌐", "中国": "🇨🇳",
+};
+
+const POSITIONING_BADGE = {
+  "综合&分析": { color: "#2563eb", bg: "#eff6ff" },
+  "新品&新闻": { color: "#059669", bg: "#f0fdf4" },
+  "新闻&新品": { color: "#059669", bg: "#f0fdf4" },
+  "新品发布":  { color: "#c2410c", bg: "#fff7ed" },
+  "行业分析":  { color: "#7c3aed", bg: "#faf5ff" },
+  "包装&设计": { color: "#9333ea", bg: "#fdf4ff" },
+};
+
+async function loadSTopicsData() {
+  try {
+    const resp = await fetch(`${STOPICS_DATA_URL}?t=${Date.now()}`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    allSTopicsArticles = data.articles || [];
+    if (data.sites) sTopicsSitesActive = new Set(data.sites);
+    else sTopicsSitesActive = new Set(allSTopicsArticles.map(a => a.site_name));
+    if (data.regions) sTopicsRegionsActive = new Set(data.regions);
+    else sTopicsRegionsActive = new Set(allSTopicsArticles.map(a => a.region));
+    return data;
+  } catch (err) {
+    console.error("S级选题数据加载失败:", err);
+    return null;
+  }
+}
+
+function renderSTopicsView() {
+  const articlesGrid = document.getElementById("articlesGrid");
+  const emptyState   = document.getElementById("emptyState");
+  const loadMoreWrap = document.getElementById("loadMoreWrap");
+  const statsBar     = document.getElementById("statsBar");
+  if (statsBar) statsBar.style.display = "none";
+  emptyState.classList.add("hidden");
+  loadMoreWrap.classList.add("hidden");
+
+  if (allSTopicsArticles.length === 0) {
+    articlesGrid.innerHTML = `
+      <div style="grid-column:1/-1;text-align:center;padding:60px 24px;color:#7a9478;">
+        <div style="font-size:3rem;margin-bottom:16px;">⭐</div>
+        <p style="font-weight:600;font-size:1rem;">S级选题数据加载中…</p>
+        <p style="font-size:.875rem;margin-top:8px;opacity:.7;">每日 09:00 自动抓取，保留最近30天资讯</p>
+      </div>`;
+    articlesGrid.classList.add("stopics-view");
+    return;
+  }
+
+  // 筛选
+  const filtered = allSTopicsArticles.filter(a =>
+    sTopicsSitesActive.has(a.site_name) && sTopicsRegionsActive.has(a.region)
+  );
+
+  const allSites = [...new Set(allSTopicsArticles.map(a => a.site_name))];
+  const allRegionsList = [...new Set(allSTopicsArticles.map(a => a.region))];
+
+  // S+ 和普通分组
+  const sPlusArts = filtered.filter(a => a.is_s_plus);
+  const normalArts = filtered.filter(a => !a.is_s_plus);
+
+  // 品类统计
+  const catStats = {};
+  filtered.forEach(a => {
+    const cat = (a.categories && a.categories[0]) ? a.categories[0].name : "其他";
+    catStats[cat] = (catStats[cat] || 0) + 1;
+  });
+  const catStatHTML = Object.entries(catStats)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 6)
+    .map(([k, v]) => `<span class="stopics-cat-stat">${k} <em>${v}</em></span>`)
+    .join("");
+
+  // 网站 chips
+  const siteChipsHTML = allSites.map(s => {
+    const isActive = sTopicsSitesActive.has(s);
+    return `<button class="giant-chip${isActive ? " active" : ""}" onclick="toggleSTopicsSite(this,'${s.replace(/'/g, "\\'")}')">${s}</button>`;
+  }).join("");
+
+  const regionChipsHTML = allRegionsList.map(r => {
+    const icon = SITE_REGION_ICON[r] || "🌐";
+    const isActive = sTopicsRegionsActive.has(r);
+    return `<button class="giant-chip${isActive ? " active" : ""}" onclick="toggleSTopicsRegion(this,'${r}')">${icon} ${r}</button>`;
+  }).join("");
+
+  // 卡片渲染函数
+  function renderSTopicCard(art) {
+    const regionIcon = SITE_REGION_ICON[art.region] || "🌐";
+    const posStyle   = POSITIONING_BADGE[art.positioning] || { color: "#6b7280", bg: "#f9fafb" };
+    const timeStr    = art.published_at
+      ? formatTime(art.published_at)
+      : (art.scraped_at ? "已抓取" : "");
+
+    // 品类标签 (最多2个)
+    const cats = art.categories || [];
+    const catTagsHTML = cats.slice(0, 2).map(c =>
+      `<span class="stopics-cat-tag" style="color:${c.color};background:${c.color}18;border-color:${c.color}33">${c.icon} ${c.name}</span>`
+    ).join("");
+
+    const sPlusBadge = art.is_s_plus
+      ? `<span class="stopics-splus-badge">⭐ S+选题</span>`
+      : "";
+
+    const cardClass = art.is_s_plus ? "stopics-card stopics-card-splus" : "stopics-card";
+
+    return `
+    <a href="${art.url}" target="_blank" rel="noopener noreferrer" class="${cardClass}">
+      ${art.is_s_plus ? '<div class="stopics-splus-glow"></div>' : ''}
+      <div class="stopics-card-header">
+        <div class="stopics-card-site">
+          <span class="stopics-site-name">${art.site_name}</span>
+          <span class="stopics-region-tag">${regionIcon} ${art.region}</span>
+          <span class="stopics-pos-tag" style="color:${posStyle.color};background:${posStyle.bg}">${art.positioning}</span>
+        </div>
+        <div class="stopics-badge-row">
+          ${sPlusBadge}
+        </div>
+      </div>
+      <h3 class="stopics-card-title">${art.title}</h3>
+      ${art.summary ? `<p class="stopics-card-summary">${art.summary}</p>` : ""}
+      <div class="stopics-card-footer">
+        <div class="stopics-cat-tags">${catTagsHTML}</div>
+        <div class="stopics-card-meta">
+          <span class="stopics-time">${timeStr}</span>
+          <span class="stopics-readmore">阅读原文 →</span>
+        </div>
+      </div>
+    </a>`;
+  }
+
+  let html = `
+  <div class="stopics-intro">
+    <div class="stopics-heading-row">
+      <h2 class="stopics-heading">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="22" height="22">
+          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+        </svg>
+        S级选题网站
+      </h2>
+      <span class="stopics-update-badge">每日 09:00 · 近30天 · 自动品类分析</span>
+    </div>
+    <p class="stopics-sub">跟踪 ${allSites.length} 个精选选题网站 · <strong style="color:#b45309">⭐ S+选题</strong> = 全球首创 / 首款 / 爆品 / 卖爆 等明显创新或爆品属性</p>
+  </div>
+
+  <!-- 网站筛选 -->
+  <div class="giants-filter-bar">
+    <span class="giants-filter-label">网站</span>
+    <div class="giants-filter-chips">
+      <button class="giant-chip${sTopicsSitesActive.size === allSites.length ? " active" : ""}" onclick="toggleAllSTopicsSites()">全选</button>
+      ${siteChipsHTML}
+    </div>
+  </div>
+  <!-- 地区筛选 -->
+  <div class="giants-filter-bar">
+    <span class="giants-filter-label">地区</span>
+    <div class="giants-filter-chips">
+      <button class="giant-chip${sTopicsRegionsActive.size === allRegionsList.length ? " active" : ""}" onclick="toggleAllSTopicsRegions()">全选</button>
+      ${regionChipsHTML}
+    </div>
+  </div>
+
+  <!-- 统计 -->
+  <div class="stopics-stats-bar">
+    <span class="stopics-stat-splus">⭐ S+选题 ${sPlusArts.length}</span>
+    <span class="stopics-stat-normal">📰 普通 ${normalArts.length}</span>
+    <span class="stopics-stat-total">共 ${filtered.length} 条</span>
+    <div class="stopics-cat-stats">${catStatHTML}</div>
+  </div>`;
+
+  // S+ 区域
+  if (sPlusArts.length > 0) {
+    html += `<div class="stopics-section"><h3 class="stopics-section-title stopics-section-splus">⭐ S+选题 · 全球首创 / 爆品</h3><div class="stopics-grid stopics-grid-splus">`;
+    sPlusArts.forEach(a => { html += renderSTopicCard(a); });
+    html += `</div></div>`;
+  }
+
+  // 普通资讯区域（按品类分组）
+  if (normalArts.length > 0) {
+    // 按主品类分组
+    const catGroups = {};
+    normalArts.forEach(a => {
+      const cat = (a.categories && a.categories[0]) ? a.categories[0].name : "其他";
+      if (!catGroups[cat]) catGroups[cat] = [];
+      catGroups[cat].push(a);
+    });
+    // 合并为统一列表（保持按时间排序）
+    html += `<div class="stopics-section"><h3 class="stopics-section-title stopics-section-normal">📰 全部资讯 · 已自动分类</h3><div class="stopics-grid stopics-grid-normal">`;
+    normalArts.forEach(a => { html += renderSTopicCard(a); });
+    html += `</div></div>`;
+  }
+
+  if (filtered.length === 0) {
+    html += `<div class="giants-empty"><span>📭 当前筛选条件下没有资讯</span></div>`;
+  }
+
+  html += `
+  <div class="giants-note" style="margin:4px 24px 24px;">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
+      <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+    </svg>
+    <strong>⭐ S+选题</strong>定义：命中"全球首创/首款/世界初/大ヒット/sold out/viral/爆品"等关键词。品类由AI自动分析，仅供参考。每日09:00抓取，保留近30天数据。
+  </div>`;
+
+  articlesGrid.innerHTML = html;
+  articlesGrid.classList.add("stopics-view");
+}
+
+// S级选题筛选函数
+function toggleSTopicsSite(btn, site) {
+  if (sTopicsSitesActive.has(site)) { sTopicsSitesActive.delete(site); btn.classList.remove("active"); }
+  else { sTopicsSitesActive.add(site); btn.classList.add("active"); }
+  renderSTopicsView();
+}
+function toggleSTopicsRegion(btn, region) {
+  if (sTopicsRegionsActive.has(region)) { sTopicsRegionsActive.delete(region); btn.classList.remove("active"); }
+  else { sTopicsRegionsActive.add(region); btn.classList.add("active"); }
+  renderSTopicsView();
+}
+function toggleAllSTopicsSites() {
+  const all = [...new Set(allSTopicsArticles.map(a => a.site_name))];
+  if (sTopicsSitesActive.size === all.length) sTopicsSitesActive.clear();
+  else sTopicsSitesActive = new Set(all);
+  renderSTopicsView();
+}
+function toggleAllSTopicsRegions() {
+  const all = [...new Set(allSTopicsArticles.map(a => a.region))];
+  if (sTopicsRegionsActive.size === all.length) sTopicsRegionsActive.clear();
+  else sTopicsRegionsActive = new Set(all);
+  renderSTopicsView();
+}

@@ -1,0 +1,718 @@
+{
+  "total": 30,
+  "s_plus_count": 4,
+  "sites": [
+    "日経xTrend"
+  ],
+  "regions": [
+    "日本"
+  ],
+  "category_stats": {
+    "新产品": 5,
+    "新包装": 2,
+    "其他": 10,
+    "品牌故事": 2,
+    "营销创新": 10,
+    "新技术": 1
+  },
+  "last_updated": "2026-06-22 15:12",
+  "last_updated_iso": "2026-06-22T15:12:21.953279+08:00",
+  "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "“突き抜け”売り場のつくりかた",
+      "url": "https://xtrend.nikkei.com/info/podcast/19/00410/?n_cid=nbpnxr_rss",
+      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の最新トレンドをチェックする「WEEKLY TREND KEYWORDS」では、サントリーが2026年7月に発売する「猛暑限定」のアイコンをあしらった「サントリー生ビール〈夏生〉」をピックアップ。後半は「“突き抜け”売り場のつくりかた」をお送りします。顧客を集める繁盛店には、そのニーズを徹底的に捉え、独自の手法で磨き上げた「強い売り場」があります。今回は好調な小売りの事例をもとに、店舗やメーカーが目指すべき売り場づくりを紹介します。解説は日経クロストレンドの中村勇介編集長。",
+      "published_at": "2026-06-22T05:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "サントリー「NOPE」のパッケージ戦略 強烈なカラーで想像力を刺激",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01394/00002/?n_cid=nbpnxr_rss",
+      "summary": "日経デザイン発の特集「売れるパッケージデザイン」第2回は、サントリー約14年ぶりの大型飲料ブランド「NOPE」を取り上げる。「ギルティー」という社会の潮流とは逆行するコンセプトを立て、顔マークや配色もそれに沿ったものを開発した。飲料のパッケージでは珍しいマゼンタカラーを押し出したのには、明確な狙いが存在した。",
+      "published_at": "2026-06-22T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "酷暑でほんだし離れの味の素 夏の需要減食い止める秘策とは",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02908/?n_cid=nbpnxr_rss",
+      "summary": "猛暑が長期化するにつれ、体力や気力も減退し、火を使う面倒な調理は避けたい……。夏場にそう敬遠する消費者が増えることは、ほんだしや丸鶏がらスープなどを展開する味の素にとって死活問題だ。そこで同社は、昨今の麻辣湯ブームに絡めた独自レシピを考案し、夏に落ち込む需要を食い止めようと策を講じる。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「おじ」像は令和に劇的変化 モテよりリスク回避で清潔感を意識",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00401/00074/?n_cid=nbpnxr_rss",
+      "summary": "「おじさん」のイメージは時代と共にどう変わったのか、変わっていないのか。2026年1月に公開して話題を集めた40・50代女性のイメージ分析に続き、今回は同年代の男性について調査データを基に徹底分析。博報堂生活総合研究所の40代女性研究員が、同じく40代の男性研究員と共に、令和の「おじ」像をひもといた。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "初の女優賞、日本IPに熱視線――カンヌで見えた日本映画界の課題と次なる一手",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01409/00001/?n_cid=nbpnxr_rss",
+      "summary": "2026年5月12日から23日までの12日間、南仏カンヌの地で開催された第79回カンヌ国際映画祭は、例年以上に「日本」というキーワードが響き渡る映画祭となった。数多くの日本作品が各部門で上映され、さらに併設の映画マーケット「マルシェ・デュ・フィルム」では、カントリー・オブ・オナー（Country of Honor）として、大規模な「日本特集」が組まれた。特集の第1回では、ファイナンスやオリジナルの製作など、現地取材から見えた日本映画の課題と次なる一手を解説していく。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ナフサショックの影響を35社調査 ファミマはPBパッケージの白黒化検討",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01394/00001/?n_cid=nbpnxr_rss",
+      "summary": "カルビーの白黒包装をきっかけに話題沸騰の「ナフサショック」の影響を、大手企業35社に緊急アンケート。大半の企業が慎重な姿勢の一方、ファミリーマートは簡素化を具体的に検討していることが判明。さらに大胆な簡素化に取り組んでいるのが、ドン・キホーテやイオンなどが販売するPBだ。日経デザイン発の特集「売れるパッケージデザイン」では、ナフサショックの影響や先手を打つPBの取り組みを詳説する。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アイリスオーヤマのサブ冷凍庫が売上1.5倍 「スキマ家電」にヒットの芽",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00151/00075/?n_cid=nbpnxr_rss",
+      "summary": "横幅が約35.6cmのセカンド冷凍庫や、約9分で洗濯が完了する洗濯機、時短機能を備えた電子レンジなど、スペパやタイパをウリにした製品を多く投入しているアイリスオーヤマ。新生活シーズンには、自社ECサイト「アイリスプラザ」で新生活商品セットにも力を入れている。スペパ・タイパ推しの家電製品と新生活マーケットについて小口氏が直撃した。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ブランド力に「下げ止まり」の兆候 サントリー首位躍進が示す復活の条件",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01406/00008/?n_cid=nbpnxr_rss",
+      "summary": "買い物にAIが活用される時代、生活者に“選ばれる”ために重要になるのがブランド力だ。日経BPコンサルティングが毎年公開しているブランドの価値評価調査「ブランド・ジャパン」の2026年版がついに公開。一般消費者への調査で判明したブランドの「総合力」でトップになったのがサントリーだ。本特集では、サントリー躍進の理由を探っていく。特集1本目では、データから見えるブランドの栄枯盛衰の理由について専門家と共にひもといていく。※「サントリー躍進のわけ ブランド成長の法則」（2026年4月公開）を一部改訂して再掲載。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "JR普通列車グリーン車は最大67％オフ JRE POINTの得する“出口戦略”",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01391/00010/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月4日発売の「日経トレンディ2026年7月号」では、「得する鉄道 最新案内」を特集。JRE POINTは「1P＝1円」でSuicaにチャージするだけではもったいない。交換先を工夫すれば、同じポイントでも価値は数倍に跳ね上がる。新幹線eチケットや、行き先がランダムに指定される人気サービス「どこかにビューーン！」、さらにグリーン券やコンビニクーポンまで、保有ポイント別の“出口戦略”を徹底解説。ポイントを賢く使い切るヒントを示す。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「セブンは「値上げで高い」 1000人調査で見えた“正しい値上げ”の作法」 ちょうど1年前振り返りランキング",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00120/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年6月22日～7月19日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「ヨドバシカメラ マルチメディア池袋」開業 未来消費カレンダー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00237/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年6月30日「『ヨドバシカメラ マルチメディア池袋』開業」ほか19件の情報を追加した。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "生成AIでアイデアを磨く 明日から使えるプロンプト",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01404/00006/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドの新刊『コンペ荒らしが実践する生成AI「超」企画術』は、広告代理店、インターネットメディア、コンサルティングファームにおける著者の経験から、企画という仕事の一連のプロセスに、生成AIをどのように組み込むかを解説。企画の現場ですぐに使えるプロンプトも豊富に紹介しています。本書籍から第2章「アイデアを磨く──企画をとがらせる『仮説破壊』」を抜粋・再編集してお届けします。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "42％のマーケターが知識不足と回答 成果を語るには自席を離れよ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00894/00017/?n_cid=nbpnxr_rss",
+      "summary": "高精度なマーケティング分析が可能になってきた昨今においても、日々の施策をどう成果につなげるのかを十分に理解できていないと自覚しているマーケターは多い。経営陣が投げかける「成長とリターンにどう結びつくのか」という問いに答えられないことが、いかに危機的状況であるか。マーケティングリーダーシップの専門家であるトーマス・バルタ氏が警鐘を鳴らす。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「作る」の先につなぐ、ガンプラの参加型SNSマーケ戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01408/00007/?n_cid=nbpnxr_rss",
+      "summary": "バンダイナムコホールディングスの26年3月期決算によれば、バンダイナムコグループにおける「ガンダムシリーズ」関連の売上高は前年比65.6％増の2543億円に達した。その柱の1つであるトイホビー事業の中核商品が、「ガンプラ」と呼ばれるプラモデルだ。",
+      "published_at": "2026-06-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "大企業に届かぬWeb広告の限界 ネットプロテクションズがPRで大手開拓",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01392/00008/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「BtoBマーケティング大賞2026」ブランディング部門で、中堅・中小企業の部を受賞したのがネットプロテクションズだ。企業間決済サービスを手掛ける同社が、大手企業の顧客開拓でぶつかったのは、「会社が知られていない」という認知の壁だった。この壁を乗り越えるためにWeb広告を中心としたデジタルマーケティングから、書籍を起点としたブランディングに舵を切った。その結果、メディアでの露出が増加し、社名とサービス名の認知度が向上。大手企業の案件獲得も増加した。",
+      "published_at": "2026-06-19T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「楽天ショックで『広告内製化』一挙加速 代理店の役割が大転換」【広告・宣伝】お薦め記事10選",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00958/00112/?n_cid=nbpnxr_rss",
+      "summary": "2026年5月に公開した記事の中から、有料会員の訪問者数（ユニークユーザー、UU）などを参考に、広告・宣伝業界の皆さんにお薦め記事10本をピックアップ！ 1位は「楽天ショックで『広告内製化』一挙加速 代理店の役割が大転換」でした。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【PR】流入単価を22％改善 ビースタイルグループが証明した運用型テレビCMの効果",
+      "url": "https://xtrend.nikkei.com/info/09/00070/060800133/?n_cid=nbpnxr_rss",
+      "summary": "メディア環境の変化に伴い、テレビCMにもより精緻な効果検証と最適化が求められている。そうした中、日本テレビとHakuhodo DY ONEは、テレビCMをデジタル広告のように運用できる仕組みを構築。「しゅふＪＯＢ」を運営するビースタイルグループはこの運用型テレビCMの仕組みを活用し、番組単位での出稿制御や入札調整を通じて、サイト流入単価を約22％改善した。運用する広告メディアへと進化しつつあるテレビCMの最前線について、ビースタイルグループ、広告戦略を担うグローバーズ、「WISE Ads」を展開するHakuhodo DY ONE、そして日本テレビのキーパーソンが語り合った。聞き手は、日経クロストレンド発行人の勝俣哲生。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "若者に刺さるアナログ体験 キヤノン試作カメラの何が好評だったのか",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02910/?n_cid=nbpnxr_rss",
+      "summary": "「CP＋2026」でキヤノンが出展した「アナログコンセプトカメラ」は、同社の「新規アイデア創出活動」から生まれた試作モデル。フィルムカメラや古いコンパクトデジタルカメラが若い世代に人気の理由を分析して作り上げたカメラだ。後編ではアナログコンセプトカメラを提案したイメージング事業本部の上田晴久氏、水谷将馬氏、そして「新規アイデア創出活動」を統括するイメージング事業本部の渕上太郎氏に、CP＋2026での反響と、今後の展開について聞いた。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「ひとりモード」が主流に 令和消費者を動かす4つの価値と新ビジネス",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01406/00007/?n_cid=nbpnxr_rss",
+      "summary": "その消費者像は、昭和もしくは平成のものではないだろうか――。多様化する社会において、消費者像はブラッシュアップを余儀なくされている。世代論の限界に迫った日経クロストレンドの特集「進む『消齢化』 世代マーケの限界」からほぼ1年、本特集では多様なデータを基に顕在化しつつある新たな消費者像とその価値観、行動に迫っていく。第1回は、「ひとりモード」を使いこなす消費者が主役だ。※「データで見る 令和の新・消費者像」（2024年6月公開）を一部改訂して再掲載。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Suica定期券は「重役出勤」で16％還元に？ JRE POINT“ポイ鉄”虎の巻",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01391/00009/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月4日発売の「日経トレンディ2026年7月号」では、「得する鉄道 最新案内」を特集。通勤定期や新幹線、駅ビルでの買い物など、JR東日本エリアでの日常の移動と消費がJRE POINTの“狩り場”になる。モバイルSuica定期券とビューカードを組み合わせれば還元率は最大16％に達し、えきねっとやJRE MALLなどでの還元や、各種キャンペーンも見逃せない。ポイントを荒稼ぎする実践テクニックを徹底解説する。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「虎ノ門広告祭」継続開催が決定 今、広告業界に「祭」が必要な理由",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01393/00001/?n_cid=nbpnxr_rss",
+      "summary": "「あえて、広告のこと。あえて、今やる。」というキャッチコピーを掲げ、2025年10月に初めて開催された「虎ノ門広告祭」。第2回の開催が決定した。会期は、2026年10月9日～17日。場所は前年と同じ、虎ノ門ヒルズ「TOKYO NODE」だ。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "細田守監督インタビュー 『スカーレット』を超えて『時かけ』20周年の原点",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01241/00015/?n_cid=nbpnxr_rss",
+      "summary": "『時をかける少女』の公開20周年を機に、2026年6月20日からCREATIVE MUSEUM TOKYO（東京・京橋）で、アニメーション映画監督・細田守の原点に迫る展示が開催される。『時かけ』から『サマーウォーズ』『おおかみこどもの雨と雪』までの制作資料300点以上を公開。25年に『果てしなきスカーレット』が公開された最新状況も踏まえ、挑戦を続ける細田監督の創作の核心を、『日経エンタエンタテインメント！』独自取材で迫る。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Netflix、ゲームに注力 『KPOPガールズ！ デーモン・ハンターズ』も展開",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00084/?n_cid=nbpnxr_rss",
+      "summary": "Netflixがゲームに本腰を入れ始めた。強みとして押し出すのが子供向け、家族層向けのゲーム群だ。広告やゲーム内課金がない、安心してプレーできるコンテンツだとアピール。2026年6月20日には、グローバルで人気を集めた韓国発のNetflixアニメ『KPOPガールズ！ デーモン・ハンターズ』のゲームの配信を開始する。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "生成AIで本当の「差別化」を再設計 「捨てる」決断ができるか",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01404/00005/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドの新刊『コンペ荒らしが実践する生成AI「超」企画術』は、広告代理店、インターネットメディア、コンサルティングファームにおける著者の経験から、企画という仕事の一連のプロセスに、生成AIをどのように組み込むかを解説。企画の現場ですぐに使えるプロンプトも豊富に紹介しています。本書籍から第2章「アイデアを磨く──企画をとがらせる『仮説破壊』」を抜粋・再編集してお届けします。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ヤマハ子会社がリード止まりの構造を改革 売り上げ2.9倍を実現した逆転劇",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01392/00007/?n_cid=nbpnxr_rss",
+      "summary": "「日経クロストレンド BtoBマーケティング大賞」のストラテジー部門中堅・中小企業の部を受賞したのが、ヤマハファインテックだ。同社は、ヤマハグループらしい「音」を使った新技術を活用した検査機などを企業向けに販売するBtoB企業だ。技術の革新性で、順調にリードを獲得してきたが、実績不足や販売体制の未整備により受注に至らない「売れない構造」が課題となった。そこで、単体販売から大手包装機メーカーである大森機械工業の設備へ組み込むパートナー戦略へと転換し、販売プロセスを再設計。その結果、売り上げは前年度比2.9倍に急増。大手顧客への全ライン導入や業界賞の受賞など、持続的に売れる仕組みへの再構築を実現した。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新技术",
+          "icon": "⚡",
+          "color": "#0891b2",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新技术",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アインシュタインやゴッホも異脳だった 天才と発達障害の深い関係",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01398/00007/?n_cid=nbpnxr_rss",
+      "summary": "イーロン・マスク、スティーブ・ジョブズ、ジェフ・ベゾス……。天才イノベーターに共通する、第一原理思考、アナロジー思考、パラノイア思考、物語思考、反逆思考、情熱思考、SF思考などの思考法を解剖した書籍『天才思考 世界を変えるイノベーションを生む10の思考法』から一部を抜粋・再編集してお届けする連載の第7回では、アルベルト・アインシュタインやフィンセント・ファン・ゴッホら歴史に名を残す天才と発達障害の関係を取り上げます。",
+      "published_at": "2026-06-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "JR東日本の新幹線が4割引きに ビューカード＆JRE BANKで得する条件",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01391/00008/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月4日発売の「日経トレンディ2026年7月号」では、「得する鉄道 最新案内」を特集。JR東日本のJRE POINTを本格的にためる“ポイ鉄”に欠かせないのがクレカ「ビューカード」だ。ライフスタイルに応じて最適なカードを選べば、ポイント獲得の効率を飛躍的に高められる。さらに、見逃せないのがネット銀行「JRE BANK」。ビューカードの引き落としなど一定の条件を満たすことで東北新幹線などのJR東日本線に4割引きで乗れる優待券まで獲得できる。ここでは、カード×銀行で得する仕組みの構築方法を徹底解説する。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-06-18T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ミスミのYouTubeに10カ月で登録者10万人 BtoBでも人気動画に内製化の妙",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01891/?n_cid=nbpnxr_rss",
+      "summary": "機械部品調達サービス「meviy」をYouTubeで広め、内製でコストを抑えながら費用対効果を可視化した実績が評価されて、日経クロストレンド「BtoBマーケティング大賞2024」のコンテンツ部門賞に輝いたミスミ。今では3つのYouTubeチャンネルを役割ごとに使い分ける。そのうちの1つは、開設から1年足らずで登録者10万人を突破した。動画にはmeviyをほとんど登場させず、まずは「愛着」を持ってもらう戦略だ。一見遠回りに見えるが、計測できる範囲に限っても、年間の新規利用の約1割に動画が寄与しているという。",
+      "published_at": "2026-06-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "生成AIを飼い慣らす 企画をダメ出しする「最強の敵」として",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01404/00004/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドの新刊『コンペ荒らしが実践する生成AI「超」企画術』は、広告代理店、インターネットメディア、コンサルティングファームにおける著者の経験から、企画という仕事の一連のプロセスに、生成AIをどのように組み込むかを解説。企画の現場ですぐに使えるプロンプトも豊富に紹介しています。本書籍から第2章「アイデアを磨く──企画をとがらせる『仮説破壊』」を抜粋・再編集してお届けします。",
+      "published_at": "2026-06-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "キヤノン、アナログコンセプトカメラの舞台裏 アナログ人気3つの理由",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02909/?n_cid=nbpnxr_rss",
+      "summary": "2026年2月末から3月初めに開催された「CP＋2026」にキヤノンが出展して話題を呼んだのが「アナログコンセプトカメラ」だ。この企画は同社の「新規アイデア創出活動」という取り組みから生まれたものだという。プロジェクトを統括するイメージング事業本部の渕上太郎氏、アナログコンセプトカメラを提案したイメージング事業本部の上田晴久氏、水谷将馬氏に話を聞いた。2回に分けてお届けする。",
+      "published_at": "2026-06-18T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-22T15:12:01+08:00"
+    }
+  ]
+}
