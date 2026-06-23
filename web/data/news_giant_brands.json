@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-22T14:18:19",
+  "last_updated": "2026-06-23T12:54:12",
   "retention_days": 10,
-  "total": 266,
-  "s_count": 15,
+  "total": 270,
+  "s_count": 16,
   "a_count": 2,
-  "b_count": 249,
+  "b_count": 252,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -34,6 +34,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "世界で人気のクラフトビール「ブルックリン・ブルワリー」から「ブルックリンサマーエール」を数量限定発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0623_01.html",
+      "published_at": "2026-06-23T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
@@ -220,6 +231,17 @@
       "summary": "",
       "level": "A",
       "level_reason": "常规新品/营销"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, ‘소바바 치킨 성수점’ 스페셜 팝업 성료2026.06.23",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1781",
+      "published_at": "2026-06-23T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Asahi",
@@ -2955,6 +2977,28 @@
       "region": "中国",
       "title": "从烟火街巷到世界杯看台，可口可乐把舞台留给一线奋斗者",
       "url": "https://www.coca-cola.com/cn/zh/media-center/Coke_2026FIFA",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "Asia Food Journalbibigo™ brings the bold taste of Korea to Thailand with exciting new product lineup",
+      "url": "https://asiafoodjournal.com/bibigo-brings-the-bold-taste-of-korea-to-thailand-with-exciting-new-product-lineup/",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "FOOD DIVEBibigo owner to build cultivated seaweed plant to fuel Korean food demand",
+      "url": "https://www.fooddive.com/news/bibigo-cj-foods-seaweed-cultivation-plant/823293/",
       "published_at": "",
       "summary": "",
       "level": "B",
