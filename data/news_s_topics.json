@@ -1,23 +1,389 @@
 {
-  "total": 30,
-  "s_plus_count": 4,
+  "total": 101,
+  "s_plus_count": 11,
   "sites": [
-    "日経xTrend"
+    "日経xTrend",
+    "Food Dive",
+    "Packaging Digest"
   ],
   "regions": [
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "新产品": 5,
-    "新包装": 2,
-    "其他": 10,
-    "品牌故事": 2,
-    "营销创新": 10,
-    "新技术": 1
+    "其他": 43,
+    "新产品": 14,
+    "营销创新": 12,
+    "行业政策": 13,
+    "新包装": 5,
+    "品牌故事": 7,
+    "新技术": 1,
+    "新原料": 2,
+    "联名营销": 2,
+    "并购融资": 1,
+    "渠道新物种": 1
   },
-  "last_updated": "2026-06-22 15:12",
-  "last_updated_iso": "2026-06-22T15:12:21.953279+08:00",
+  "last_updated": "2026-06-23 12:54",
+  "last_updated_iso": "2026-06-23T12:54:26.896521+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ラベルライターを再構築 ブラザー「P-TOUCH CUBE」デザインの裏側",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01103/00005/?n_cid=nbpnxr_rss",
+      "summary": "ブラザー工業の「P-TOUCH CUBE」は、スマホアプリで操作するラベルライターだ。10周年を迎える今も現役で、幅の広いラベルに対応した商品を増やしている。画面やキーボードなどをそぎ落とし、ラベルライターの再構築に成功した。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "JR西日本「J-WESTカード」は最大3％還元 年会費1万円超の元を取るには",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01391/00011/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月4日発売の「日経トレンディ2026年7月号」では、「得する鉄道 最新案内」を特集。JR西日本の共通ポイント「WESTERポイント」を最大化する鍵は、クレジットカードの選択とアプリ活用にある。J-WESTカードのゴールドと一般では還元率が大きく異なり、年間利用額次第で数千ポイント以上の差も生じる。さらに「モバイルICOCA」や「Wesmo！」、「WESTER」、「WESPO」の各アプリを組み合わせれば、日常の移動や買い物が“稼げる行動”へと変わる。複雑な仕組みを効率的に使いこなすコツを指南する。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "米VisaがAI時代の「賢いクレカ」 エージェント型EC最大の障壁は信用",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00079/00355/?n_cid=nbpnxr_rss",
+      "summary": "AIエージェントが消費者に代わって買い物をする時代が到来しつつある中、米Visaは、クレジットカードが消滅せず、むしろ今より重要になると確信している。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "BTS発掘のキム・ミジョン氏が日本で新ボーイズをつくった理由",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00581/00195/?n_cid=nbpnxr_rss",
+      "summary": "韓国のエンタテインメント企業HYBEで、16年にわたってグローバルアーティストの開発の最前線を歩んできたキム・ミジョン氏。BTSやTXTといったアーティストの発掘・新人開発にも携わるなど、その実績は折り紙付きだ。そんな彼女が、2022年に活動拠点を日本に移し、ゼロから新人開発システムの構築をはじめ、アーティストプロデュースに至るまで、すべての仕組みを備えた「Rii.MJ」を立ち上げた。そしてその成果として、2026年春に新たなボーイズグループ・VIBYを世に送り出した。次なる挑戦の場として、日本を選び、なぜ今、日本でボーイズグループを手がけるのだろうか？",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "イーロン・マスクは「百科事典」 猛烈な読書がイノベーションの源泉",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01398/00008/?n_cid=nbpnxr_rss",
+      "summary": "イーロン・マスク、スティーブ・ジョブズ、ジェフ・ベゾス……。天才イノベーターに共通する、第一原理思考、アナロジー思考、パラノイア思考、物語思考、反逆思考、情熱思考、SF思考などの思考法を解剖した書籍『天才思考 世界を変えるイノベーションを生む10の思考法』から一部を抜粋・再編集してお届けする連載の第8回では、マスクやベゾスがビジネスで実践するアナロジー思考とその基盤となる読書を取り上げます。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "“消えない”「フリクションボール」好調 消せると間違えない機能性",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02906/?n_cid=nbpnxr_rss",
+      "summary": "今から20年前に登場した、ボールペンなのに書いた字が消せる「フリクションボール」。その新製品である「フリクションボールスイッチ」は、消せる芯3色に、消せない黒芯を加えたモデルだ。多色のボールペンなら、どれか1つの芯を「消えない」ものに変えるだけですむように思えるが、開発には時間がかかったという。登場までのプロセスを担当者に聞いた。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "カンヌがアニメで新部門 日本の「ANIME」で進む国際共同制作",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01409/00002/?n_cid=nbpnxr_rss",
+      "summary": "2026年の第79回カンヌ国際映画祭の併設マーケットで、日本は「マルシェ・ドゥ・フィルム」のカントリー・オブ・オナー（名誉国）に選ばれ、各所で日本作品の露出が目立った。なかでも印象的だったのが「日本アニメ」の伸長だ。様々な表現手法で、オリジナリティーあふれる若い才能が台頭。また、パネルでは新海誠監督のコミックス・ウェーブ・フィルム、米クランチロールの劇場担当、東映アニメーションのグローバル担当らが登壇。多くのビジネスパーソンを集めた。第2回は「アニメ」にスポットライトを当て、グローバル・ビジネスにおける日本アニメの現在地を確認していく。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "金子一馬が語る 生成AI時代のゲームクリエイターには「邪念」が必要",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00070/?n_cid=nbpnxr_rss",
+      "summary": "キャリアの中で数々の人気ゲームを生み出し、2023年にコロプラに入社したゲームクリエイターの金子一馬氏。2026年4月には、コロプラ初となる『KAZUMA KANEKO'S ツクヨミ』をリリースした。同作が生まれる過程でモバイルゲームの制作や生成AIの活用といった新たな挑戦をした同氏は、今、大きく変化するゲーム業界でのクリエイターのあり方、活躍し続けるために必要なことをどう考えているのか。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "利益・意思決定・顧客の声 本気のCRMが事業を変える3つの理由",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01227/00021/?n_cid=nbpnxr_rss",
+      "summary": "CRMに取り組んでも、経営から「何が変わったのか」と問われ、答えに窮する。あるいは重要性は分かっていても、何から手をつけるか決まらず先送りが続く。一見正反対に見えるが、実はどちらも同じ課題を抱えている。本稿では、300Bridge代表の藤原義昭氏が、設計の整った「本気のCRM」が事業にもたらす3つの変化を解説。利益、意思決定の速さ、顧客の声の届き方がどう動くのか、そしてその変化を起こすのは誰なのかを明らかにする。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "『九条の大罪』『地獄に堕ちるわよ』…話題の日本ドラマを推す人は？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02904/?n_cid=nbpnxr_rss",
+      "summary": "現在では多くの人が当たり前のように利用している定額制動画配信サービス。個々のサービスでしか見られないオリジナル作品のなかで、人気を集めているのはどんな作品か。調査会社GEM Partnersによる「エンタメリーチトラッカー」をもとにデータを集計し、上位10作品のランキングを算出した。今月の対象は2026年4月、調査期間は26年3月30日～5月3日。ワールド・ベースボール・クラシックも終了し、独占配信したNetflixへの新規加入者急増の動きも一区切り。GW前半が調査期間に当たったなかでのランキングになっている。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「ボンカレー」に属人的商品づくりの限界 おいしさ予測AIで再現性担保",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01892/?n_cid=nbpnxr_rss",
+      "summary": "発売から58年を迎えた「ボンカレー」――。多くの人が親しんできた“いつもの味”の裏側には熟練研究員の経験と感覚があった。だが、世代交代や原材料環境の変化により、技術継承と品質維持は難度を増している。こうした課題に対し、大塚食品は味とレシピを予測するAI「おいしさLENS」を開発。暗黙知のデータ化と開発プロセスの再設計により、品質維持と開発スピード向上の両立を図るとともに、他の商品開発にも同システムを導入していく。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "広告費・クーポンなしでも急成長 しんぱち食堂、口コミを呼ぶ体験設計",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01882/?n_cid=nbpnxr_rss",
+      "summary": "広告費はゼロ、クーポンもなし――。それでも急成長している飲食チェーンがある。「炭火焼干物定食 しんぱち食堂」を運営するしんぱちだ。強みは、品目を絞り、一つの調理工程をひたすら磨き上げることで、再現性の高い感動体験をつくり出すという設計思想にある。これが口コミを誘発し、販促費をかけずともリピーターが続出している。2026年4月にはすかいらーくホールディングスによる約110億円買収が話題を呼んだばかり。オープンから20年積み重ねてきた「また店舗にきたくなる極意」を読み解く。",
+      "published_at": "2026-06-23T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-23T12:54:13+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "How Packaging Design Succeeds, from Smartphone Click to Store Shelf",
+      "url": "https://www.packagingdigest.com/packaging-design/how-omnichannel-packaging-designs-can-bridge-digital-and-retail-realities",
+      "summary": "Today's packages must attract digital shoppers, survive shipping, and stand out in stores — all while delivering a consistent brand experience. Here's how.",
+      "published_at": "2026-06-22T19:47:37Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Patriotic Packaging Designs for America’s 250th Birthday",
+      "url": "https://www.packagingdigest.com/food-beverage/patriotic-packaging-designs-for-america-s-250th-birthday",
+      "summary": "How leading consumer brands are embracing America250 and capitalizing on new merchandising and marketing opportunities.",
+      "published_at": "2026-06-22T16:50:30Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "EO Changes Could Signal Win for Sterilization Capacity",
+      "url": "https://www.packagingdigest.com/medical-packaging/eo-changes-could-signal-win-for-sterilization-capacity",
+      "summary": "If finalized, the EPA’s race to reversal of 2024 ethylene oxide sterilization rules could create a more balanced framework for medtech manufacturers and packagers — expanding throughput while maintaining critical safety measures.",
+      "published_at": "2026-06-22T13:41:25Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "7 Packaging Cost Reduction Strategies for Pharma and Medtech",
+      "url": "https://www.packagingdigest.com/pharma-medical/7-packaging-cost-reduction-strategies-for-pharma-and-medtech",
+      "summary": "Packaging costs can represent up to 20% of product spend. A holistic approach spanning design, procurement, supply chain, and operations can unlock major savings.",
+      "published_at": "2026-06-22T13:39:37Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -615,6 +981,28 @@
       "scraped_at": "2026-06-22T15:12:01+08:00"
     },
     {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Flexible Packaging Updates: 5 Things to Know",
+      "url": "https://www.packagingdigest.com/flexible-packaging/flexible-packaging-5-things-to-know",
+      "summary": "Check the innovative, sustainable pulse of this high-efficiency format through five curated posts that spotlight a better BOPP, superior cellulose films, PCR-powered PP flow-wrap packaging, a snack brand’s pivot to monochrome packaging, and a new R&amp;D hub for flexibles.",
+      "published_at": "2026-06-18T18:01:10Z",
+      "is_s_plus": true,
+      "s_plus_reason": "innovative",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
       "region": "日本",
@@ -713,6 +1101,1242 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-06-22T15:12:01+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "12 Healthcare Packaging Influencers Who Raise the Bar",
+      "url": "https://www.packagingdigest.com/medical-packaging/12-healthcare-packaging-influencers-who-raise-the-bar",
+      "summary": "Their posts challenge the status quo and ignite meaningful conversations. These LinkedIn leaders are driving healthcare packaging toward a safer, more sustainable future.",
+      "published_at": "2026-06-17T19:53:31Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "FDA's 12-Digit NDC Drives Pharma Packaging Overhaul",
+      "url": "https://www.packagingdigest.com/pharmaceutical-packaging/fda-s-12-digit-ndc-drives-pharma-packaging-overhaul",
+      "summary": "Barcode strategy, label redesign, and equipment upgrades emerge as top challenges as pharma manufacturers prepare for FDA's 12-digit National Drug Code deadline.",
+      "published_at": "2026-06-17T19:25:58Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 2
+        },
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "New Battery-Powered Strapping Tool Offers Ergonomic, Sustainable Option",
+      "url": "https://www.packagingdigest.com/optimization/new-battery-powered-strapping-tool-offers-ergonomic-sustainable-option",
+      "summary": "This handheld plastic strapping device secures and unitizes pallet loads for a range of mid-level packaging and logistics operations.",
+      "published_at": "2026-06-16T20:35:33Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "How Café Bustelo Is Winning the World Cup Marketing Movement",
+      "url": "https://www.packagingdigest.com/food-beverage/how-caf-bustelo-is-winning-the-world-cup-marketing-movement",
+      "summary": "By turning its iconic coffee can into a collectible fan experience, the brand uses World Cup excitement to drive engagement and celebrate cultural pride.",
+      "published_at": "2026-06-16T19:38:34Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Dan Ackroyd’s Crystal Head Vodka Dons Limited-Edition Camo Design",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/dan-ackroyd-s-crystal-head-vodka-dons-limited-edition-camo-design",
+      "summary": "Known for its skull-shaped bottle and the ultra-premium vodka inside, the brand’s camouflage design is the latest in a long line of attention-getters.",
+      "published_at": "2026-06-16T17:58:33Z",
+      "is_s_plus": true,
+      "s_plus_reason": "limited-edition",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Medtech Packaging Trends: Sustainability, Simulation &amp; Supply Chain",
+      "url": "https://www.packagingdigest.com/medical-packaging/medtech-packaging-trends-sustainability-simulation-supply-chain",
+      "summary": "Feeling extra squeezed right now trying to deal with all these trends? You’re not alone. Many medical packaging pros struggle to find enough time and resources to accomplish their day-to-day tasks. Here are a few ideas to help.",
+      "published_at": "2026-06-15T23:25:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Long Trail Brewing Maps Its Brand on a 168-Can Multipack",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/long-trail-brewing-maps-its-brand-on-a-168-can-multipack",
+      "summary": "Six-foot package doubles as a detailed trail guide with elevations, landmarks, and brand storytelling.",
+      "published_at": "2026-06-12T15:17:41Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Lytt Electric Coolers Shine with Glow-in-the-Dark Packaging",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/lytt-electric-coolers-in-glow-in-the-dark-packaging",
+      "summary": "But will these glowing, lightbulb-shaped coolers from Boston Beer beat BuzzBallz Chillers' own sales success and strong visual packaging punnery?",
+      "published_at": "2026-06-11T20:55:30Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "EPR is Turning Packaging Decisions into a Financial Play",
+      "url": "https://www.packagingdigest.com/extended-producer-responsibility/epr-is-turning-packaging-decisions-into-a-financial-play",
+      "summary": "But as long as economic choices are aligned with ecologic benefits — and shouldn’t they be anyway? — you can still make some good gains in sustainability.",
+      "published_at": "2026-06-09T22:25:26Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Beer Canned with CO2 from On-Site Air — and Other Unusual Ingredients",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/beer-canned-with-co2-from-on-site-air-and-other-strange-brews",
+      "summary": "Strange brews make news, from Almanac Beer's use of CO2 from fresh air to beers with recycled shower water and edible glitter.",
+      "published_at": "2026-06-09T19:22:22Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        }
+      ],
+      "primary_category": "新原料",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Craft Brewery Cans Iconic Desserts",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/craft-brewery-cans-iconic-desserts",
+      "summary": "Other Half Brewing transforms cheesecake, egg cream, and black-and-white cookies into eye-catching canned collaborations with Junior’s Restaurant and Bakery.",
+      "published_at": "2026-06-09T19:15:41Z",
+      "is_s_plus": true,
+      "s_plus_reason": "collab",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 2
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "5 Packaging Impacts of the Medical Device Miniaturization Trend",
+      "url": "https://www.packagingdigest.com/medical-packaging/5-packaging-impacts-of-the-medical-device-miniaturization-trend",
+      "summary": "As medical devices become smaller and more sophisticated, their packaging must adjust to ensure safe handling, sterility, and clinical deployment. And that doesn’t mean just shrinking too.",
+      "published_at": "2026-06-05T19:25:52Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "FDA Issues First Update to 510(k) Exemption Guidance Since 2019",
+      "url": "https://www.packagingdigest.com/medical-packaging/fda-issues-first-update-to-510-k-exemption-guidance-since-2019",
+      "summary": "FDA updates its 2015 guidance for the first time since 2019, adding five product codes to the premarket notification exemption list for certain low-risk class I and class II unclassified medical devices.",
+      "published_at": "2026-06-05T16:52:29Z",
+      "is_s_plus": true,
+      "s_plus_reason": "first time",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Curiosity in Packaging Design Surges",
+      "url": "https://www.packagingdigest.com/packaging-design/curiosity-in-packaging-design-surges",
+      "summary": "Packaging design trends, ideas, regulations, and execution dominate our list of top stories from last month.",
+      "published_at": "2026-06-03T19:56:44Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Private Label Products Shine in a Downturned Economy",
+      "url": "https://www.packagingdigest.com/packaging-design/private-label-products-shine-in-a-downturned-economy",
+      "summary": "Consumers are making tough decisions about where they spend their money. Here’s how private label brands are uniquely poised and packaged for value.",
+      "published_at": "2026-06-02T18:49:58Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Standing Out in the Protein Packaging Boom",
+      "url": "https://www.packagingdigest.com/packaging-design/standing-out-in-the-protein-packaging-boom",
+      "summary": "When every product is “high protein,” packaging design becomes the differentiator.",
+      "published_at": "2026-06-02T16:45:21Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Gen Z’s Role in Sustainable Packaging Evolution",
+      "url": "https://www.packagingdigest.com/sustainability/gen-z-s-role-in-sustainable-packaging-evolution",
+      "summary": "Insights from our exclusive survey about packaging preferences of young adults can help you align your sustainability strategies for the future.",
+      "published_at": "2026-06-02T14:12:48Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "FDA Adds New Submission Category in Human Factors Guidance Shake-Up",
+      "url": "https://www.packagingdigest.com/medical-packaging/fda-adds-new-submission-category-in-human-factors-guidance-shake-up",
+      "summary": "FDA's updated human factors guidance adds new risk-based submission categories, expanded examples for modified devices.",
+      "published_at": "2026-06-01T21:36:53Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 2
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Flag-Wrapped Coffee Lawsuit Claims Misleading Patriotic Labeling",
+      "url": "https://www.packagingdigest.com/labeling/flag-wrapped-coffee-lawsuit-claims-misleading-patriotic-labeling",
+      "summary": "Consumers claim that patriotic coffee packaging deceived them into believing the product was 100% domestic — but did the label claim it was?",
+      "published_at": "2026-05-29T21:33:35Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "CSB Launches Investigation Into Fatal Chemical Tank Implosion",
+      "url": "https://www.packagingdigest.com/packaging-business/csb-launches-investigation-into-fatal-chemical-tank-implosion",
+      "summary": "The incident, which occurred at a paper mill, killed 11 people.",
+      "published_at": "2026-05-29T21:22:37Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Smart Pharma Plants Must Balance Reliability and Cyber Risk",
+      "url": "https://www.packagingdigest.com/pharmaceutical-packaging/smart-pharma-plants-must-balance-reliability-and-cyber-risk",
+      "summary": "Digitally connected systems improve packaging and production efficiency but require proper maintenance and vigilance to ensure safe operation.",
+      "published_at": "2026-05-29T16:34:44Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Tyson Foods Appoints New CEO",
+      "url": "https://www.packagingdigest.com/food-packaging/tyson-foods-appoints-new-ceo",
+      "summary": "The meat processing giant selects one of its board members to take the helm.",
+      "published_at": "2026-05-28T19:23:46Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "3 Secrets of China’s Packaging, Hiding in Plain Sight",
+      "url": "https://www.packagingdigest.com/packaging-design/3-secrets-of-china-s-packaging-hiding-in-plain-sight",
+      "summary": "Observations from China reveal how smallness reduces purchase risk, texture creates sensory predictions, and angular geometry signals taste intensity — demonstrating that effective packaging design must reflect the cultural habits and consumption patterns of its market.",
+      "published_at": "2026-05-27T22:05:17Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "13 Packaging Documentaries That Tell the Hard Truth",
+      "url": "https://www.packagingdigest.com/trends-issues/13-packaging-documentaries-that-tell-the-hard-truth",
+      "summary": "Experts across the packaging spectrum recommend the documentaries that have affected them the most and why. These shows are influencing public perception of packaging, too — but often not in a good way.",
+      "published_at": "2026-05-27T18:14:32Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "A Close Look at the Packaging Evolution of Decoy Wines",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/a-close-look-at-the-packaging-evolution-of-decoy-wines",
+      "summary": "Before and After photos show how the changes elevate the products through four packaging expressions.",
+      "published_at": "2026-05-27T15:11:13Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Material Advances Helping to Drive Medical Device Development",
+      "url": "https://www.packagingdigest.com/medical-packaging/material-advances-helping-to-drive-medical-device-development",
+      "summary": "Breakthrough developments in medical-grade bioplastics, PEEK polymers, and PFAS-free materials are shifting the paradigm in medical device manufacturing.",
+      "published_at": "2026-05-27T12:16:55Z",
+      "is_s_plus": true,
+      "s_plus_reason": "breakthrough",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "What Constitutes Unnecessary EO Exposure?",
+      "url": "https://www.packagingdigest.com/medical-packaging/what-constitutes-unnecessary-eo-exposure-",
+      "summary": "EPA seeks to define “Unnecessary Exposure“ as it revisits the science behind 2024's strict ethylene oxide emissions — and balance public health protections against medical device supply chain disruptions.",
+      "published_at": "2026-05-26T18:20:27Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Gen Z’s Top Sustainable Packaging Priorities",
+      "url": "https://www.packagingdigest.com/sustainability/gen-z-s-top-sustainable-packaging-priorities",
+      "summary": "What matters most to these staunch environmentalists? Recyclable? Refillable? Compostable? Plastic free? You might be surprised at what our exclusive survey shows.",
+      "published_at": "2026-05-26T18:13:47Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "A Packaging Redesign for Smucker’s Fruit Spreads",
+      "url": "https://www.packagingdigest.com/food-packaging/a-packaging-redesign-for-smucker-s-fruit-spreads",
+      "summary": "More vibrant color, bolder graphics, and a &quot;flavor forward&quot; label refresh are designed to improve shelf presence.",
+      "published_at": "2026-05-26T15:19:20Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 2
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-06-23T12:54:26+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Chobani sued by Danone over high-protein yogurt claims",
+      "url": "https://www.fooddive.com/news/danone-sues-chobani-high-protein-yogurt-claims-oikos/823033/",
+      "summary": "The Oikos maker said its rival is engaging in “unfair competition and consumer deception” to make its product more appealing to shoppers.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Anheuser-Busch invests $20M in Michelob Ultra production in bet on beer rebound",
+      "url": "https://www.fooddive.com/news/anheuser-busch-michelob-ultra-manufacturing-investment-st-louis-20m/823134/",
+      "summary": "The Bud Light owner will upgrade brewery and packaging equipment at facilities across Missouri after executives expressed optimism that the worst is over for the industry.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Why Fiji Water temporarily operated its own shipping network",
+      "url": "https://www.fooddive.com/news/why-fiji-water-temporarily-operated-its-own-shipping-network/823080/",
+      "summary": "The COVID-19 pandemic pushed the company to run a dedicated route until capacity improved.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Campbell’s launches gluten-free chicken noodle soup in partnership with Banza",
+      "url": "https://www.fooddive.com/news/soup-campbells-banza-partner-gluten-free-condensed/822629/",
+      "summary": "The offering comes as big snack brands like Cheez-It and Oreo lean into the gluten-free market, which is forecast to reach $14 billion by 2032.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Bill in Congress targets ‘forever chemicals’ in food packaging",
+      "url": "https://www.fooddive.com/news/no-toxics-in-food-packaging-act-2026/822803/",
+      "summary": "The No Toxics in Food Packaging Act seeks to ban PFAS, phthalates, BPA and certain other substances from food packaging and food processing materials.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 2
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Former Red Bull exec tapped to lead turnaround at Zevia",
+      "url": "https://www.fooddive.com/news/red-bull-coca-cola-celsius-executive-CEO-zevia/822996/",
+      "summary": "The better-for-you beverage company said Alexandre Ruberti will replace Amy Taylor, who resigned to run a National Women’s Soccer League team, as president and CEO.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nestlé USA removes artificial colors in all food and beverages",
+      "url": "https://www.fooddive.com/news/Nestle-artificial-colors-dyes-fda-General-mills-cheerios-kraft-heinz/822661/",
+      "summary": "The Nesquik maker joined other food manufacturers last year in pledging to eliminate synthetic dyes from the rest of its portfolio following pressure from the Trump administration.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "JBS to close meat plants in manufacturing reshuffle",
+      "url": "https://www.fooddive.com/news/jbs-beef-plant-closures-layoffs-pilgrims-manufacturing/822910/",
+      "summary": "The company plans to lay off at least 2,000 workers as it shutters a Pennsylvania beef processing facility and makes changes at majority-owned Pilgrim’s Pride.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "PepsiCo expanding autonomous truck use in its supply chain",
+      "url": "https://www.fooddive.com/news/pepsico-autonomous-trucks-supply-chain/822732/",
+      "summary": "The multiyear deal with Gatik will help the food and beverage giant increase capacity in \"hard to staff\" areas of its transportation network.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Leftovers: Svedka dips into vodka water | Magic Spoon expands with oatmeal",
+      "url": "https://www.fooddive.com/news/svedka-vodka-water-magic-spoon-oatmeal-sammontana-gelato/822792/",
+      "summary": "The alcohol maker said it's introduced a \"category-first innovation\" with a transparent can, while Italian gelato brand Sammontana grows its U.S. presence with a slate of new desserts.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Why Molson Coors is betting on cheap beer",
+      "url": "https://www.fooddive.com/news/molson-coors-cheap-beer-value-miller-high-life-keystone-light/822646/",
+      "summary": "The brewer is reviving Keystone Ice and expanding Miller High Life to reach younger drinkers and budget conscious consumers.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How Jelly Belly is repositioning its brand for ‘social epicureans’",
+      "url": "https://www.fooddive.com/news/how-jelly-belly-is-repositioning-its-brand-for-social-epicureans/822774/",
+      "summary": "The new “Bean Appetit” campaign is meant to reintroduce the brand to consumers after its acquisition by confectioner Ferrara in 2023.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "More consumers checking nutrition labels for protein",
+      "url": "https://www.fooddive.com/news/food-nutrition-labels-ingredient-list-consumer-study/822672/",
+      "summary": "Shoppers are increasingly looking for a broader range of information beyond a list of ingredients to avoid, a new report finds.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        }
+      ],
+      "primary_category": "新原料",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Tom Brady, Gopuff launch exclusive coconut water",
+      "url": "https://www.fooddive.com/news/tom-brady-good-nut-coconut-water-gopuff/822552/",
+      "summary": "Good Nut comes in original, chocolate and sparkling varieties and will be available only through the delivery service, which has seen a 115% increase in sales for coconut water.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Campbell’s CEO: ‘Tough decisions’ loom for struggling snack business",
+      "url": "https://www.fooddive.com/news/campbells-tough-snacking-business-decisions-loom/822367/",
+      "summary": "While the Goldfish maker is making progress to improve the operation, its top executive warned the turnaround will “take some time” amid a challenging environment.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Why Nespresso diversified its delivery provider mix",
+      "url": "https://www.fooddive.com/news/why-nespresso-diversified-its-delivery-provider-mix/822635/",
+      "summary": "The espresso and coffee company is tapping carriers like Jitsu in a bid to boost the end customer experience.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Tyson promotes company insider to COO",
+      "url": "https://www.fooddive.com/news/tyson-wes-morris-chief-operating-officer/822484/",
+      "summary": "Wes Morris will oversee the company’s chicken, beef and pork businesses as it battles record cattle prices.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How grocers are catering to GLP-1 users",
+      "url": "https://www.fooddive.com/news/glp1-weight-loss-drugs-grocers-efforts-health-wellness/822490/",
+      "summary": "Weight loss medications have changed the game of health and wellness. From protein-focused private label to wellness guides, here’s how grocers are keeping up.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Lavazza launches single-serve coffee pods without packaging",
+      "url": "https://www.fooddive.com/news/lavazza-coffee-pods-no-packaging-tabli/822359/",
+      "summary": "Tablì brings a first-to-market product to the U.S. and is a key point of the Italian company’s growth strategy in North America.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Brownie Brittle owner buys meat snack maker Tillamook Country Smoker",
+      "url": "https://www.fooddive.com/news/brownie-brittle-owner-buys-meat-snack-maker-tillamook-country-smoker/822285/",
+      "summary": "The acquisition by Second Nature gives it a presence in the fast-growing protein snacks space, which had been missing from its portfolio.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "HowGood, Sweep partner to track carbon footprint of food, agriculture products",
+      "url": "https://www.fooddive.com/news/howgood-sweep-partner-to-track-carbon-footprint-of-food-agriculture-products/822233/",
+      "summary": "The carbon accounting companies' partnership aims to help food and agriculture businesses incorporate ingredient- and product-level emissions data into broader sustainability reporting efforts.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 2
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "A $395 pineapple? How innovation is upending the popular tropical fruit",
+      "url": "https://www.fooddive.com/news/will-consumers-pay-395-for-a-pineapple-how-innovation-is-upending-the-pop/813672/",
+      "summary": "Fresh Del Monte and Dole have spent years developing premium pineapples featuring different flavors and colors to drive growth and meet demand by consumers and retailers for variety.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Ingredion strikes deal to buy Tate & Lyle for $3.6B",
+      "url": "https://www.fooddive.com/news/ingredion-strikes-deal-to-buy-tate-lyle-for-36b/822213/",
+      "summary": "The combined company will generate nearly $10 billion in annual revenue and have a broad portfolio to address more consumer needs such as clean label and lower sugar.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Celsius under investigation for marketing high-caffeine drinks to minors",
+      "url": "https://www.fooddive.com/news/texas-ag-investigates-celsius-for-marketing-high-caffeine-energy-drinks-to/822047/",
+      "summary": "Texas AG Ken Paxton’s review marks his latest crusade against a big CPG firm after previously targeting WK Kellogg, General Mills and Mars.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Violife slices through dairy-free cheese misconceptions with social series",
+      "url": "https://www.fooddive.com/news/violife-slices-through-dairy-free-cheese-misconceptions-with-social-series/822209/",
+      "summary": "The brand’s “Undairy the Craving” campaign attempts to combat preconceived ideas surrounding the taste and quality of vegan cheeses.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-23T12:54:24+08:00"
     }
   ]
 }
