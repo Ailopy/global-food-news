@@ -1,31 +1,463 @@
 {
-  "total": 101,
-  "s_plus_count": 11,
+  "total": 123,
+  "s_plus_count": 13,
   "sites": [
-    "日経xTrend",
+    "Packaging Digest",
     "Food Dive",
-    "Packaging Digest"
+    "日経xTrend"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "其他": 43,
-    "新产品": 14,
-    "营销创新": 12,
-    "行业政策": 13,
-    "新包装": 5,
-    "品牌故事": 7,
-    "新技术": 1,
+    "其他": 50,
+    "新包装": 7,
+    "新产品": 19,
+    "营销创新": 14,
+    "联名营销": 4,
+    "品牌故事": 8,
+    "新技术": 2,
+    "行业政策": 14,
     "新原料": 2,
-    "联名营销": 2,
-    "并购融资": 1,
+    "并购融资": 2,
     "渠道新物种": 1
   },
-  "last_updated": "2026-06-23 12:54",
-  "last_updated_iso": "2026-06-23T12:54:26.896521+08:00",
+  "last_updated": "2026-06-24 12:58",
+  "last_updated_iso": "2026-06-24T12:58:19.991053+08:00",
   "articles": [
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "How to Convince Americans to Reuse Packaging",
+      "url": "https://www.packagingdigest.com/sustainability/how-to-convince-americans-to-reuse-packaging",
+      "summary": "Convenience and cost are key, but so are awareness, access, and instructions. That’s why I support the new “Reuse” symbol.",
+      "published_at": "2026-06-24T00:52:50Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-24T12:58:19+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ビオレ子ども向け日焼け止めが28万個突破 「嫌」を肉球で「楽しい」に",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01394/00004/?n_cid=nbpnxr_rss",
+      "summary": "NDデザイン発の特集「売れるパッケージデザイン」第４回は、花王の「ビオレ キッズスタンプUV」。液体が「肉球」の形で出てくる、ユニークなスタンプ式の子ども向け日焼け止めだ。親子で楽しめる仕掛けも用意し、紫外線対策の習慣化を目指す。",
+      "published_at": "2026-06-24T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "JR西日本「WESTERポイント」をためる技 Ponta経由の“裏ルート”も",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01391/00012/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月4日発売の「日経トレンディ2026年7月号」では、「得する鉄道 最新案内」を特集。ためたポイントを「束ねて強くする」──その発想で注目を集めるのがJR西日本のWESTERポイントだ。他社ポイントからの交換ルートを駆使すれば、日常の消費を効率よく移し替えられる。中でも上級者が使うPonta→Sポイント→はぴeポイント経由の“裏ルート”は必見。目減りを補う使い方や、毎月の高還元施策をどう組み合わせるか。賢いポイ活の実像に迫る。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "“父・妻夫木聡”の花王「ハミング」 巧みな替え歌で5月CM注視度1位",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00340/?n_cid=nbpnxr_rss",
+      "summary": "東京だけでも、毎日数千本が放映されるテレビCM。企業の広告・宣伝活動には欠かせないが、その中でも人々の視線を引き付けたCMはどれか。関東と関西の2600世帯にカメラを設置し、「実際に見られたCM」を計測するREVISIOのデータを用いて、2026年5月に“刺さった”CMを分析する。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「行列なのに赤字」だった群馬の“幻バナナ”、ジレンマ解消の秘策",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00616/00040/?n_cid=nbpnxr_rss",
+      "summary": "年間約400万人が訪れる「道の駅まえばし赤城」で販売されている「まえばしバナナ」。1本約500円という高価格帯ながら、発売以来、販売分はすべて完売で売れ行きは好調だ。一方で、黒字化したのはごく最近だという。なぜ、これほど売れる商品が当初は赤字だったのか。そして、いかにしてこのジレンマを乗り越えたのか。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "完売",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "クラシコム×ヘラルボニー、両代表が語るブランド・文化づくりの本質",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01405/00004/?n_cid=nbpnxr_rss",
+      "summary": "「フィットする暮らし、つくろう。」を掲げ、理念経営を貫くクラシコム。「異彩を、放て。」をミッションに、福祉を起点に新たな文化創出を目指すヘラルボニー。どのようにして両社はビジネスという資本主義の領域で、理念を貫き、文化づくりに挑んでいるのか。2026年7月28日（火）～30日（木）に開催する「日経クロストレンドFORUM 2026」では、クラシコム青木耕平氏とヘラルボニー松田崇弥氏の両代表が初めて本格対談を実施。AI時代のブランドづくり、文化創出への挑戦から見えてくる企業・ブランドの新たな在り方とは。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アマゾン創業者ベゾスが実践 異業種の最強の型を盗むアナロジー思考",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01398/00009/?n_cid=nbpnxr_rss",
+      "summary": "イーロン・マスク、スティーブ・ジョブズ、ジェフ・ベゾス……。天才イノベーターに共通する、第一原理思考、アナロジー思考、パラノイア思考、物語思考、反逆思考、情熱思考、SF思考などの思考法を解剖した書籍『天才思考 世界を変えるイノベーションを生む10の思考法』から一部を抜粋・再編集してお届けする連載の第9回では、アマゾン創業者のベゾスがアナロジー思考をどのように実践していたのかを取り上げます。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "コンデナストCEOが検索流入と“決別宣言” AI時代は「生身の熱量」が価値",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01388/00002/?n_cid=nbpnxr_rss",
+      "summary": "検索エンジンからの流入増減やアルゴリズム変更の有利・不利に一喜一憂する――。そんなメディア運営のあり方が根底から覆ろうとしている。2025年以降、世界のメディア企業は、検索流入を狙った従来のメディア運営から明確に距離を置き始めた。彼らは目下、読者との間に強固で分断されない直接的なつながりをつくり出す方向へ方針を転換している。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アジアで拡大「新しいオムニチャネル」 AI時代に変わる店舗の役割",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01888/?n_cid=nbpnxr_rss",
+      "summary": "シンガポールで開催されたリテール関連イベント「NRF 2026 APAC」で浮上した議論は、「AI対リアル店舗」という単純な対立ではなかった。AIが顧客との接点や体験に入り込むほど、店舗そのものの役割も変わるという新しいオムニチャネルの追求が広がりつつある。リテールの専門家、伴大二郎氏が解説する。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "注目度を高めるインディーゲーム 新規も大手も熱視線",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01403/00003/?n_cid=nbpnxr_rss",
+      "summary": "インディーゲームに参入する企業が増えている。まるでIPやクリエイターの争奪戦だ。エントリーするのはゲーム業界の企業だけにとどまらない。では、どんな企業が参戦しているのか。京都で開催された「BitSummit PUNCH」に出展していた企業ブースを紹介する。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "カルビー白黒包装で購入意向が激減 3000人調査で判明、湖池屋を下回る",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01394/00003/?n_cid=nbpnxr_rss",
+      "summary": "カルビーのパッケージ白黒化を消費者はどう受け止めているのか。パッケージ簡素化による消費者の購入意向の変化について、デザイン会社のプラグが10～60代の男女計3000人を対象に調査。その結果、購入意向が激減していることが明らかになった。データで詳細に検証した。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "『ブランディングの科学』監訳者の初著書 『マーケティングの真実』6月29日発売",
+      "url": "https://xtrend.nikkei.com/info/18/00006/00428/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドは、インサイト代表取締役の加藤巧氏の初の著書『マーケティングの真実 P＆G・グリコで学んだ失敗と成長の法則』を2026年6月29日に発刊します。同氏は『ブランディングの科学』（朝日新聞出版）シリーズの企画、監訳を務めるなど、最新のマーケティング理論の日本国内での普及に努めてきました。P＆Gジャパン、江崎グリコでの30年以上での実務経験を基に、“本当の”マーケティング理論実践法を解説します。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「認知・発信」不足に悩むBtoB企業 パナソニック、オンワードの逆転策",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01392/00009/?n_cid=nbpnxr_rss",
+      "summary": "「認知不足」と「情報の発信不足」――。BtoB企業が抱える2つの「不足」をどう突破すべきか。その参考になる2つの事例を紹介したい。1社はパナソニック コネクトで、採用活動をマーケティングとして再設計して成果につなげた。もう1社のオンワードコーポレートデザインは“発信ゼロ”から価値提供モデルを転換した。方法は異なりながらも人事×マーケ連携と社内外一体の変革によって成果を生んだ、両社の取り組みを追う。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "P＆Gで挫折、辞表提出直前から逆転 リサーチャー転身で築いたマーケ論",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01416/00001/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月29日発刊の『マーケティングの真実 P＆G・グリコで学んだ失敗と成長の法則』。本書籍から序文を全文公開。著者の加藤巧氏はP＆G、江崎グリコで、リサーチを中心としたキャリアを歩んできた。当初、P＆Gに入社した際に配属されたのはマーケティング部。リサーチ部門へと転身したのには、ある挫折経験があった。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "涙の居残り練習も…VIBYが語るデビューへの絆",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00581/00196/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月24日に1st CDシングル『Miracle : The First Light』で正式デビューを果たした、日本人5人組ボーイズグループ・VIBY。メンバーはIO、RENKI、AKITO、RYOHA、KOTARO。プロデューサーを務めるのは、K-POPシーンでBTSやTOMORROW X TOGETHERなどの発掘・新人開発を手掛けてきたキム・ミジョン氏だ。3月18日にプレデビュー曲としてCrystal Kay『恋におちたら』をリメイク。4月8日にデビュー曲『Mi*light』、5月13日に最新曲『HANAMARU』と、デジタルシングルを連続リリース。ABEMAでは彼らの発掘から育成までを追ったドキュメンタリー『VIBY 1329 The night before debut』も公開中だ。そして、8月31日には日本武道館で行うデビューショーケースが控えるなど、異例のスピードで",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "CES＆NRFから見えた小売りのAI活用トレンド 「納得の購買」つくるには？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00385/00061/?n_cid=nbpnxr_rss",
+      "summary": "毎年1月に米国で開催される「CES」と「NRF：Retail's Big Show」が、2026年も開催された。最先端テクノロジーや小売業界のキーパーソンが集まる世界最大級の2大展示会で、今年は何が語られ、どんな変化の兆しが示されたのか。継続的に両イベントを取材するLazuli Chief Evangelistの伴大二郎氏と、IBAカンパニーの射場瞬氏がその潮流を読み解いた。",
+      "published_at": "2026-06-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新技术",
+          "icon": "⚡",
+          "color": "#0891b2",
+          "score": 1
+        }
+      ],
+      "primary_category": "新技术",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Lawmakers Challenge EPA Plan to Ease Sterilizer Emissions",
+      "url": "https://www.packagingdigest.com/medical-packaging/lawmakers-challenge-epa-plan-to-ease-sterilizer-emissions",
+      "summary": "Congressional opponents of EPA's ethylene oxide reversal argue it abandons science-based protections and increases carcinogen exposure for nearby communities.",
+      "published_at": "2026-06-23T16:07:57Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 2
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-24T12:58:19+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Voicyで配信、日経クロストレンド音声編集部 （6月23日配信分まで）",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00681/00174/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドでは、音声配信サービス「Voicy」で、ポッドキャスト番組「日経クロストレンド音声編集部」も提供しています。最短3分で分かる、をコンセプトに、つい誰かに話したくなる、マーケティング最前線の話題を毎回ご紹介しています。編集部員がこちらのコンテンツづくりにも力を入れておりますので、 記事と合わせてぜひお聞きください。【こんなコーナーが聞けます】＜話題のネタ、ヒットのタネ＞＜今週のリリース情報、総まくり＞＜取材現場の裏、記者が生トーク＞",
+      "published_at": "2026-06-23T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-24T12:58:07+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -2337,6 +2769,100 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-06-23T12:54:24+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Kraft Heinz overhauls operating structure to accelerate growth",
+      "url": "https://www.fooddive.com/news/turnaround-kraft-heinz-overhauls-operating-structure-to-accelerate-growth/823247/",
+      "summary": "The Kool-Aid maker is reorganizing into three units and cutting senior leadership in a bid to turn around declining sales.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-24T12:58:16+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "From formula to label: Why connected product data matters more than ever",
+      "url": "https://www.fooddive.com/spons/from-formula-to-label-why-connected-product-data-matters-more-than-ever/822873/",
+      "summary": "Disconnected product data slows innovation. Here's why leading teams are connecting it.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-24T12:58:16+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Bibigo owner to build cultivated seaweed plant to fuel Korean food demand",
+      "url": "https://www.fooddive.com/news/bibigo-cj-foods-seaweed-cultivation-plant/823293/",
+      "summary": "The land-based facility will allow CJ Foods to secure consistent supply of gim, an ingredient threatened by rising ocean temperatures.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-24T12:58:16+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Mars taps new digital chief for snacking unit",
+      "url": "https://www.fooddive.com/news/mars-snacking-tech-chief-kemal-cetin/823263/",
+      "summary": "Kemal Cetin will lead the division's technology agenda as the company continues to absorb the Kellanova acquisition completed last year.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-06-24T12:58:16+08:00"
     }
   ]
 }
