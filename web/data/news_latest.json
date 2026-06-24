@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-24T15:49:59.820914+08:00",
+  "last_updated": "2026-06-24T19:38:10.397639+08:00",
   "retention_days": 7,
-  "total": 490,
+  "total": 494,
   "sources": [
     "BevNET",
     "Fab News",
@@ -41,6 +41,126 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "7ceac7a5f43e15cf",
+      "title": "ADM expands Hungary innovation centre to fast-track functional beverage development in Europe",
+      "summary": "The expanded facility supports faster product development for low-sugar, functional and RTD drinks as Hungary's non-alcoholic beverage market grows, building on ADM's broader global flavour network…",
+      "url": "https://nutraceuticalbusinessreview.com/adm-hungary-innovation-centre-functional-beverage-development",
+      "published_at": "2026-06-24T19:14:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "e290ee566fccba07",
+      "title": "Shatavari and the future of women's health support",
+      "summary": "How tradition, science and ingredient integrity are shaping modern women's wellness solutions",
+      "url": "https://nutraceuticalbusinessreview.com/shatavari-and-the-future-of-women-s-health-support",
+      "published_at": "2026-06-24T19:10:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "d6d0cc663662504e",
+      "title": "HARIOのコーヒードリッパーに新色 空間や気分に寄り添う",
+      "summary": "HARIO社は、昨年9月に発売した「V60 ドリッパー NEO」に新色となる「クリア」「アンバー」を追加し、インテリアやライフスタイルに合わせてドリッパーを選ぶ楽しさを提供する。 「V60 ドリッパー NEO」は、同 […] ソース",
+      "url": "https://shokuhin.net/152205/2026/06/24/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-06-24T18:53:43+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "947de9cbcdedb041",
+      "title": "パインのデザートのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「パインのデザート」の最新・注目度ランキングです♪（2026年6月19日更新）食品クチコミサイト「もぐナビ」に投稿された…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22651/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "04fd8417c4d95717",
+      "title": "猛暑にこそスープ！　「じっくりコトコト」で冷製缶スープとそうめんのアレンジレシピの提案を強化　ポッカサッポロ",
+      "summary": "ポッカサッポロフード＆ビバレッジは、猛暑・酷暑が続くことが予想される夏に向けて、スープの飲用機会増加を図るべく、冷たいスープの提案として「じっくりコトコト」ブランドの冷製缶スープと箱入りスープのアレンジレシピの提案を強 […] ソース",
+      "url": "https://shokuhin.net/152262/2026/06/24/kakou/kandume/",
+      "published_at": "2026-06-24T17:40:29+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "bb2be0bcdf7d131e",
+      "title": "大塚製薬が「ポカリスエット」で温浴施設に着目して「2026 お風呂の年プロジェクト」に参画した理由",
+      "summary": "大塚製薬は「2026 お風呂の年プロジェクト」に参画し、3月26日から温浴施設での「ポカリスエット」の飲用体験などを通じて、入浴前後の水分・電解質補給を提案する「ポカリお風呂プロジェクト」を開始した。 発売以来、入浴 […] ソース",
+      "url": "https://shokuhin.net/152256/2026/06/24/inryou/inryou-inryou/",
+      "published_at": "2026-06-24T17:31:06+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ff2427f119d15453",
+      "title": "今週新発売のレモンまとめ！『こだわり酒場のレモンサワー　レモキンサワー』、『ニッポンのシン・レモンサワー　爽やか香るレモン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！レモンの新商品情報をお届けします。今週新発売の#レモンサントリー こだわり酒場のレモンサワー レモキンサワー 缶500ml中味…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062408/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3d878119c7fdbd46",
+      "title": "RelaxPLX secures Health Canada licence and South Korean sleep claim approval",
+      "summary": "SuanNutra's lemon verbena ingredient RelaxPLX has gained regulatory approvals in Canada and South Korea, enabling authorised sleep quality and stress-related claims in two key nutraceutical markets",
+      "url": "https://nutraceuticalbusinessreview.com/relaxplx-health-canada-licence-south-korean-sleep-claim",
+      "published_at": "2026-06-24T17:04:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "906bd219c4c94882",
+      "title": "雪印メグミルクG、初のバター専門カフェをオープン　“作りたてバター”を味わえる新業態",
+      "summary": "雪印メグミルクと雪印パーラーは、グループ初となるバター専門カフェ「THE BUTTER(ザ バター)」を、7月25日に北海道札幌市の商業施設「赤れんが テラス」内にオープンする。6月23日に明らかにした。 新業態店舗「T...",
+      "url": "https://www.ssnp.co.jp/milk/690690/",
+      "published_at": "2026-06-24T16:31:23+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "75a21db02ef13509",
+      "title": "【不二家レストラン】うなぎやハンバーグ、貫目氷かき氷などを揃えた「夏のごちそうフェア」開催、割引キャンペーンも",
+      "summary": "不二家は、全国の不二家レストラン29店舗で「夏のごちそうフェア」を6月25日(木)から8月末頃まで開催する。鹿児島県産うなぎを使用したスタミナメニューや冷製パスタ、夏限定ハンバーグ、注文ごとに貫目氷を削って仕上げる不二家...",
+      "url": "https://www.ssnp.co.jp/foodservice/690674/",
+      "published_at": "2026-06-24T16:20:17+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "1a623ba5548101cf",
@@ -91,6 +211,30 @@
       "language": "en"
     },
     {
+      "id": "adc4cf77eb487e7d",
+      "title": "今週新発売のしっとりまとめ！『クリスピーチキン　麻辣湯味』、『和歌山県産すもも　ひとくちドライフルーツ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！しっとりの新商品情報をお届けします。今週新発売の#しっとりファミリーマート クリスピーチキン 麻辣湯味唐辛子、花椒など12種類…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062407/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9f0ae6accbf0c3be",
+      "title": "【2026年6月第4週】コンビニスイーツの新商品！塩豆大福もち食感ロールや抹茶わらび餅など和スイーツまとめ",
+      "summary": "今週（2026年6月21日〜27日）は、ローソン・セブン-イレブン・ファミリーマートからバラエティ豊かなコンビニスイーツが続々登場します。もちっとした食感系か…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22624/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T14:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "6873f75614d71e46",
       "title": "サンマルクカフェ、『ミニオンズ&モンスターズ』コラボ商品を7月3日より期間限定発売",
       "summary": "サンマルクカフェは、映画『ミニオンズ&モンスターズ』の全国ロードショー(8月7日)を記念し、2026年7月3日(金)～9月4日(金)の期間限定で、コラボレーションメニューおよびグッズ付きセットを数量限定で販売する...",
@@ -112,6 +256,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "df7f61f4bc2bff4f",
+      "title": "今週新発売の麺料理🍜まとめ！『盛りすぎ！１食分の野菜ちゃんぽん』、『爽やかな酸味のスープ　冷やし中華』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！麺料理の新商品情報をお届けします。今週新発売の#麺料理ローソン 盛りすぎ！1食分の野菜ちゃんぽん麺重量が51％増量！※1食分の…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062406/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -151,6 +307,18 @@
       "language": "en"
     },
     {
+      "id": "18dbebdfe919e562",
+      "title": "【2026年6月第3週】ドリンクランキング1位はスタバのメロンフラペチーノ！タリーズ新作シェイクも続々登場まとめ",
+      "summary": "じめじめとした梅雨の季節も、冷たいドリンクがあればちょっと元気になれそうですね。2026年6月第3週のドリンクランキングは、メロンのフラペチーノやティラミスシ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22555/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "88ac421491935c29",
       "title": "東洋水産 今年もスープコンテスト 東北の高校生が競う 7月から参加者募集",
       "summary": "東洋水産は、「食」に興味・関心のある東北地区の高校生を対象にしたスープのレシピコンテスト「スマイル“フード”プロジェクトin東北2026」を開催する。 2015年から継続し12回目。7月1日から9月4日の期間、3人1 […] ソース",
@@ -172,6 +340,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "7bf4a39d6a7d253b",
+      "title": "今週新発売のさっぱり味の食べものまとめ！『ゼロサワー　スイカに塩』、『出汁おろしで食べる　大阪なすの揚げびたし』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！さっぱりの新商品情報をお届けします。今週新発売の#さっぱりサンガリア ゼロサワー スイカに塩 350ml爽やかなスイカの風味と…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062405/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -295,12 +475,60 @@
       "language": "ja"
     },
     {
+      "id": "8313fa66190a1fc1",
+      "title": "【2026年6月第3週】ドーナツ・パンランキング1位はドら抹茶 栗あん抹茶ホイップ！新商品・久しぶりランクイン続々まとめ",
+      "summary": "2026年6月第3週のドーナツ・パンランキングが発表されました！今週はどんな商品がランクインしているのか、さっそく見ていきましょう。旬の味わいが光る商品から定…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22553/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "81097da5fa582ad0",
       "title": "マルヤナギ小倉屋 須磨寺のイベントに出展 「コリコリきくちゃん」など新商品が完売",
       "summary": "マルヤナギ小倉屋はこのほど、須磨寺（神戸市）で開かれた日本文化を発信するイベントに出展。主力商品や新商品を限定価格で販売した。 神戸で活躍する音楽ユニット、CHONMAGE JAPANが主催する初開催のイベントで、日 […] ソース",
       "url": "https://shokuhin.net/152219/2026/06/24/ryutu/souzai/",
       "published_at": "2026-06-24T11:57:27+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "498441e831f314ce",
+      "title": "【2026年6月第4週】コンビニ惣菜の新商品！カニかまマカロニサラダやレモンソース和えなど夏らしい惣菜まとめ",
+      "summary": "セブン-イレブンから、今週も個性豊かなコンビニ惣菜が続々と登場しています。夏らしい冷製メニューからボリューム感のあるサラダ、さらに晩酌にぴったりの一品まで、バ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22623/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T11:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6cc30b8c04ba49fc",
+      "title": "今週新発売のセブンイレブンパンまとめ！『スイートチリソースのバインミー』、『ツナ＆きゅうりサンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン スイートチリソースのバインミー…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062404/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "20961d342c65147c",
+      "title": "【2026年6月第4週】コンビニスープ・コンビニ味噌汁の新商品！野菜とベーコンのコンソメスープやごろごろ野菜の豚汁など旬の一杯まとめ",
+      "summary": "6月も後半に差しかかり、コンビニのスープ・味噌汁コーナーに新商品が続々と登場しています。今週は冷製スープやポタージュといった夏らしいラインナップから、豚汁やス…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22622/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T11:15:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -343,6 +571,18 @@
       "language": "ja"
     },
     {
+      "id": "7abd8e68f9592016",
+      "title": "【2026年6月第3週】スイーツ・デザートランキング1位はサーティワン さくら！味噌スイーツ新登場まとめ",
+      "summary": "2026年6月第3週のスイーツ・デザートランキングが出揃いました！今週はアイスクリームや和菓子、カフェスイーツなど、バラエティ豊かな顔ぶれがランクイン。それぞ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22552/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "published_at": "2026-06-24T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "65c51cf314f93565",
       "title": "缶が手元に届くまでを体験 大和製罐が子ども向けイベントにブース出展",
       "summary": "大和製罐は6月7日、子どもたちに「技術（TECH）」を「楽しく（FUN）」体験する場を提供するイベント「FUN＋TECH DAY！」にブース出展し、地域との交流を深めるとともに子どもたちにものづくりの楽しさを伝えた。 […] ソース",
@@ -367,10 +607,10 @@
       "language": "ja"
     },
     {
-      "id": "99447ee130f4074a",
-      "title": "今週新発売の惣菜パンまとめ！『旨い！焼きカレーパン』、『チーズウインナー焼きカレーパン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。来週新発売の惣菜パン木村屋 旨い！焼きカレーパン 袋1個旨みがありつつも、あと引く辛さのカ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062403/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "id": "ddf5de85ae8d2b18",
+      "title": "【2026年6月第4週】コンビニ麺・コンビニパスタの新商品！プリプリ海老パスタや旨辛台湾焼そばなどまとめ",
+      "summary": "今週のコンビニ麺・コンビニパスタコーナーには、セブン-イレブンから冷製パスタをはじめ、パスタサラダやラーメンサラダまで、バラエティ豊かな新商品が登場しています…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22621/?utm_source=rss&utm_medium=mognavinews_20260624",
       "published_at": "2026-06-24T10:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
@@ -379,10 +619,10 @@
       "language": "ja"
     },
     {
-      "id": "ddf5de85ae8d2b18",
-      "title": "【2026年6月第4週】コンビニ麺・コンビニパスタの新商品！プリプリ海老パスタや旨辛台湾焼そばなどまとめ",
-      "summary": "今週のコンビニ麺・コンビニパスタコーナーには、セブン-イレブンから冷製パスタをはじめ、パスタサラダやラーメンサラダまで、バラエティ豊かな新商品が登場しています…",
-      "url": "https://mognavi.jp/news/matome/gen-newProduct-22621/?utm_source=rss&utm_medium=mognavinews_20260624",
+      "id": "99447ee130f4074a",
+      "title": "今週新発売の惣菜パンまとめ！『旨い！焼きカレーパン』、『チーズウインナー焼きカレーパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。来週新発売の惣菜パン木村屋 旨い！焼きカレーパン 袋1個旨みがありつつも、あと引く辛さのカ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062403/?utm_source=rss&utm_medium=mognavinews_20260624",
       "published_at": "2026-06-24T10:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
@@ -5705,198 +5945,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "403a57efd6edbf27",
-      "title": "Vidya launches new website featuring enhanced ingredient discovery tools",
-      "summary": "The new site will highlight the company's rebrand and include a new articles platform that contains research, expert insights and industry perspectives",
-      "url": "https://nutraceuticalbusinessreview.com/vidya-launches-new-website-enhanced-ingredient-discovery",
-      "published_at": "2026-06-17T18:12:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "5949726276b45da2",
-      "title": "コンビニで買える！クロワッサンのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「クロワッサン」の最新・注目度ランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22354/?utm_source=rss&utm_medium=mognavinews_20260619",
-      "published_at": "2026-06-17T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "613f9a96d5552dd1",
-      "title": "コンビニで買える！クロワッサンのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「クロワッサン」の最新・注目度ランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22354/?utm_source=rss&utm_medium=mognavinews_20260618",
-      "published_at": "2026-06-17T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "2746d7b2e0b5434c",
-      "title": "コンビニで買える！クロワッサンのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「クロワッサン」の最新・注目度ランキングです♪（2026年6月12日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22354/?utm_source=rss&utm_medium=mognavinews_20260617",
-      "published_at": "2026-06-17T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "1e58be84c2397481",
-      "title": "新潟県漬物工業協同組合が通常総会 情報交換で難局打開 「PKTK」商品化も進める",
-      "summary": "新潟県漬物工業協同組合は5月15日、新潟市内で第57期通常総会を開き、令和7年度事業報告・決算、令和8年度事業計画・予算など全議案を原案通り承認した。漬物用大根不作や包材・エネルギー価格の高騰が続く中、組合員間の情報交 […] ソース",
-      "url": "https://shokuhin.net/151803/2026/06/17/kakou/tsukemono/",
-      "published_at": "2026-06-17T17:41:25+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "05e1018075706c3b",
-      "title": "カゴメ 青果売場ディスプレイコンテスト 全国42企業から780売場の応募",
-      "summary": "カゴメは、野菜の消費量拡大を目的に、流通と連携し、3月から4月にかけて「野菜を買いたくなる売場をつくる！青果売場ディスプレイコンテスト2026」を開催した。 これには全国42企業から780売場の応募が寄せられ、このほ […] ソース",
-      "url": "https://shokuhin.net/151798/2026/06/17/%e8%be%b2%e6%b0%b4%e7%95%9c%e7%94%a3%e6%a5%ad/%e9%87%8e%e8%8f%9c/",
-      "published_at": "2026-06-17T17:34:34+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "0c7a8e390454f156",
-      "title": "今週新発売のマヨネーズ味まとめ！『アボカドマヨチーズシュリンプ』、『おおきなおむすび　昆布ご飯とツナマヨネーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！マヨネーズ味の新商品情報をお届けします。今週新発売の#マヨネーズ味マクドナルド アボカドマヨチーズシュリンプザクザクの衣とぷり…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061708/?utm_source=rss&utm_medium=mognavinews_20260619",
-      "published_at": "2026-06-17T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "267d8919540b6a80",
-      "title": "今週新発売のマヨネーズ味まとめ！『アボカドマヨチーズシュリンプ』、『おおきなおむすび　昆布ご飯とツナマヨネーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！マヨネーズ味の新商品情報をお届けします。今週新発売の#マヨネーズ味マクドナルド アボカドマヨチーズシュリンプザクザクの衣とぷり…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061708/?utm_source=rss&utm_medium=mognavinews_20260618",
-      "published_at": "2026-06-17T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "de66d8c8c9f1890c",
-      "title": "今週新発売のマヨネーズ味まとめ！『アボカドマヨチーズシュリンプ』、『おおきなおむすび　昆布ご飯とツナマヨネーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！マヨネーズ味の新商品情報をお届けします。今週新発売の#マヨネーズ味マクドナルド アボカドマヨチーズシュリンプザクザクの衣とぷり…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061708/?utm_source=rss&utm_medium=mognavinews_20260617",
-      "published_at": "2026-06-17T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "35006a86518a3e20",
-      "title": "ガスト、創業当時の「初代和風さらだうどん」を約20年ぶりに復刻 / 白桃デザート3種も発売",
-      "summary": "ガストは6月18日から、期間限定で夏の新メニューを販売する。1992年の創業当時に提供していた「和風お食事サラダ」を再現した「初代和風さらだうどん」が約20年ぶりに復刻するほか、白桃を使用したデザート3品も登場する。 「...",
-      "url": "https://www.ssnp.co.jp/foodservice/689381/",
-      "published_at": "2026-06-17T17:11:16+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "c938426815c10947",
-      "title": "東京都漬物事業協同組合が総会 適正価格実現へ理解醸成 東京の漬物文化発信も強化",
-      "summary": "東京都漬物事業協同組合は5月28日、都内で通常総会を開催し、令和7年度事業報告・決算、令和8年度事業計画・収支予算など全議案を原案通り承認した。 関口悟理事長（関口漬物食品社長）はあいさつで、中東情勢の緊迫化に伴う包 […] ソース",
-      "url": "https://shokuhin.net/151792/2026/06/17/kakou/tsukemono/",
-      "published_at": "2026-06-17T16:53:15+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "0ff63892f2131dd6",
-      "title": "TriNutra secures US patent for ThymoQuin and Astaxanthin combination",
-      "summary": "The patent will protect compositions that blend the pair together, as new research demonstrates the combination exhibits synergistic biological activity, supporting anti-inflammatory processes and…",
-      "url": "https://nutraceuticalbusinessreview.com/trinutra-secures-us-patent-for-thymoquin-astaxanthin-combination",
-      "published_at": "2026-06-17T16:43:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "4c5fc482704d99fe",
-      "title": "ゴンチャ、夏の定番ピーチティーの「ピーチフルピーチ」6月25日発売",
-      "summary": "ゴンチャ ジャパンは、桃の果実感を楽しめるデザートティー「ピーチフルピーチ」を2026年6月25日から期間限定で販売する。 ゴンチャの夏の定番となっているピーチシリーズが今年も登場。今年は「ピーチフルピーチ」として、福島...",
-      "url": "https://www.ssnp.co.jp/foodservice/689363/",
-      "published_at": "2026-06-17T16:33:13+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "e66356546e1c6d57",
-      "title": "【ドムドムハンバーガー】約10年ぶりに愛知県出店!限定メニューやオープン記念のオリジナルグッズなどを販売",
-      "summary": "ドムドムハンバーガーは、2026年7月28日に、愛知県名古屋市中区大須に新店舗「大須万松寺通店」を開業する。 愛知県への出店は、約10年ぶり。通常の店舗とは異なるメニューを展開し、「大須万松寺通店」限定メニューやオープン...",
-      "url": "https://www.ssnp.co.jp/foodservice/689352/",
-      "published_at": "2026-06-17T16:09:01+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "07eb4ea415ef1bc3",
-      "title": "スタバ、桃づくしの4品を発売　果肉たっぷり「ピーチ&ピーチミルク フラペチーノ」登場",
-      "summary": "スターバックスコーヒージャパンは6月24日から、桃を使用したドリンク3種とスイーツ1種を期間限定で販売する。 ドリンクは、食感や飲み心地の異なる3つのスタイルを提案。いずれも全国のスターバックス店舗（一部店舗を除く）で取...",
-      "url": "https://www.ssnp.co.jp/foodservice/689345/",
-      "published_at": "2026-06-17T16:03:53+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "381b8b70b451ddb9",
-      "title": "和歌山県漬物組合連合会が総会 梅3年連続不作に危機感 セーフティネット利用呼びかけ",
-      "summary": "和歌山県漬物組合連合会は5月26日、みなべ町で第66回通常総会を開催し、令和7年度事業報告・収支決算、令和8年度事業計画・収支予算などを承認した。 中田吉昭理事長（中田食品社長）は開会あいさつで、県の主要農産物であり […] ソース",
-      "url": "https://shokuhin.net/151788/2026/06/17/kakou/tsukemono/",
-      "published_at": "2026-06-17T16:00:12+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
