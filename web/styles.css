@@ -1438,3 +1438,104 @@ footer {
 }
 .stopics-card:hover .stopics-readmore { text-decoration: underline; }
 .giants-note svg { flex-shrink: 0; margin-top: 2px; }
+
+/* ── 产品盯梢紧急高亮 ─────────────────────────────────── */
+.stopics-card-watched {
+  border-left: 4px solid #e11d48;
+  background: linear-gradient(135deg, #fff1f2 0%, var(--c-surface) 60%);
+  animation: watched-pulse 3s ease-in-out infinite;
+}
+.stopics-watched-glow {
+  position: absolute;
+  top: -40px;
+  right: -40px;
+  width: 100px;
+  height: 100px;
+  background: radial-gradient(circle, rgba(225,29,72,.15) 0%, transparent 70%);
+  pointer-events: none;
+}
+.stopics-watched-badge {
+  font-size: .7rem;
+  font-weight: 700;
+  padding: 2px 9px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #ffe4e6, #fecdd3);
+  color: #9f1239;
+  border: 1px solid #fda4af;
+  white-space: nowrap;
+  animation: watched-badge-glow 2s ease-in-out infinite;
+}
+@keyframes watched-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(225,29,72,0); }
+  50% { box-shadow: 0 0 12px 2px rgba(225,29,72,.08); }
+}
+@keyframes watched-badge-glow {
+  0%, 100% { opacity: 1; }
+  50% { opacity: .85; }
+}
+.stopics-stat-watched {
+  font-size: .8rem;
+  font-weight: 700;
+  color: #e11d48;
+  background: #fff1f2;
+  padding: 4px 12px;
+  border-radius: 12px;
+  border: 1px solid #fda4af;
+}
+
+/* ── 紧急盯梢区域标题 ──────────────────────────────────── */
+.stopics-section-watched {
+  background: linear-gradient(135deg, #fff1f2 0%, #fecdd3 100%);
+  color: #9f1239;
+  border-bottom: 2px solid #fda4af;
+}
+.stopics-grid-watched {
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+/* ── YouTube 视频缩略图 ─────────────────────────────────── */
+.stopics-video-thumb {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 */
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px 10px 0 0;
+  overflow: hidden;
+  margin-bottom: 0;
+}
+.stopics-video-play-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity .2s ease;
+}
+.stopics-card:hover .stopics-video-play-overlay {
+  opacity: 1;
+}
+.stopics-video-badge {
+  font-size: .68rem;
+  padding: 1px 6px;
+  border-radius: 8px;
+  background: #fff1f2;
+  color: #e11d48;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* ── 有缩略图的卡片调整内边距 ──────────────────────────── */
+.stopics-card:has(.stopics-video-thumb) {
+  padding-top: 0;
+}
+.stopics-card:has(.stopics-video-thumb) .stopics-card-header {
+  padding-top: 12px;
+}
+

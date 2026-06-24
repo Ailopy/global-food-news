@@ -4,7 +4,7 @@
 #   - 08:00 → RSS 资讯抓取（UTC 00:00）★ A+ 来源优先
 #   - 09:00 → 巨头官网爬虫 + S级选题爬虫（UTC 01:00）
 #   - 12:00 → RSS 资讯抓取（UTC 04:00）
-#   - 17:00 → RSS 资讯抓取（UTC 09:00）
+#   - 17:00 → RSS 资讯抓取 + S级选题爬虫（UTC 09:00）
 # ============================================================
 
 name: 每日资讯更新
@@ -116,7 +116,7 @@ jobs:
   fetch-giants:
     runs-on: ubuntu-latest
     timeout-minutes: 20
-    # 只在 09:00 或手动触发时运行
+    # 只在 09:00 或手动触发时运行（巨头官网只需每天抓一次）
     if: |
       github.event_name == 'workflow_dispatch' ||
       (github.event_name == 'schedule' && github.event.schedule == '0 1 * * *')
@@ -192,5 +192,75 @@ jobs:
             ST_SITES=$(python -c "import json; d=json.load(open('web/data/news_s_topics.json')); print(len(d.get('sites',[])))")
             echo "### S级选题网站" >> $GITHUB_STEP_SUMMARY
             echo "- 总条数：$ST_TOTAL | S+选题：$ST_SPLUS | 活跃网站：$ST_SITES" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "- 更新时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" >> $GITHUB_STEP_SUMMARY
+
+  # ── Job 3: S级选题爬虫 17:00 专属（含YouTube监控）──────────
+  fetch-stopics-afternoon:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    # 只在 17:00（UTC 09:00）或手动触发时运行
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'schedule' && github.event.schedule == '0 9 * * *')
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape S-level topic websites (afternoon)
+        run: |
+          cd scripts
+          python s_topics_scraper.py
+        continue-on-error: true
+
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --quiet web/data/news_s_topics.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push S级选题 data
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/data/news_s_topics.json
+          git commit -m "chore: S级选题17:00更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./web
+          publish_branch: gh-pages
+          force_orphan: false
+          commit_message: "deploy: S级选题17:00更新 $(date '+%Y-%m-%d %H:%M')"
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## S级选题 17:00 抓取结果" >> $GITHUB_STEP_SUMMARY
+          if [ -f web/data/news_s_topics.json ]; then
+            ST_TOTAL=$(python -c "import json; d=json.load(open('web/data/news_s_topics.json')); print(d.get('total',0))")
+            ST_SPLUS=$(python -c "import json; d=json.load(open('web/data/news_s_topics.json')); print(d.get('s_plus_count',0))")
+            ST_WATCHED=$(python -c "import json; d=json.load(open('web/data/news_s_topics.json')); print(d.get('watched_product_count',0))")
+            ST_SITES=$(python -c "import json; d=json.load(open('web/data/news_s_topics.json')); print(len(d.get('sites',[])))")
+            echo "- 总条数：$ST_TOTAL | S+选题：$ST_SPLUS | 紧急盯梢：$ST_WATCHED | 活跃网站：$ST_SITES" >> $GITHUB_STEP_SUMMARY
           fi
           echo "- 更新时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" >> $GITHUB_STEP_SUMMARY

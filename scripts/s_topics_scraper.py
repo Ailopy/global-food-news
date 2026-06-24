@@ -17,7 +17,7 @@ import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 
-from s_topics_config import S_TOPIC_SITES, S_PLUS_KEYWORDS, CATEGORY_KEYWORDS
+from s_topics_config import S_TOPIC_SITES, S_PLUS_KEYWORDS, CATEGORY_KEYWORDS, PRODUCT_WATCH_LIST
 
 # ── 常量 ────────────────────────────────────────────────────────
 OUTPUT_DIR   = Path(__file__).resolve().parent.parent / "web" / "data"
@@ -34,6 +34,13 @@ HEADERS = {
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9,ja;q=0.8,zh-CN;q=0.7",
+}
+
+# YouTube RSS 需要更简洁的请求头（避免触发 YouTube 反爬）
+YOUTUBE_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "Accept": "application/rss+xml,application/xml;q=0.9,text/xml;q=0.7",
+    "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
 }
 
 logging.basicConfig(
@@ -130,6 +137,20 @@ def is_s_plus(title, summary=""):
     return False, ""
 
 
+# ── 重点产品盯梢检测 ─────────────────────────────────────────────
+def check_product_watch(title, summary=""):
+    """
+    检查是否命中重点产品盯梢清单。
+    返回 (watched: bool, product_info: dict or None)
+    """
+    text = (title + " " + summary).lower()
+    for pw in PRODUCT_WATCH_LIST:
+        for kw in pw["keywords"]:
+            if kw.lower() in text:
+                return True, pw
+    return False, None
+
+
 # ── RSS 抓取 ────────────────────────────────────────────────────
 def extract_real_url(url):
     """
@@ -161,7 +182,9 @@ def try_rss(site):
     """尝试 RSS 抓取，成功则返回文章列表，失败返回 None"""
     for rss_url in site.get("rss_candidates", []):
         try:
-            resp = requests.get(rss_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+            # YouTube RSS 使用专属请求头（减少反爬触发）
+            req_headers = YOUTUBE_HEADERS if site.get("type") == "youtube" else HEADERS
+            resp = requests.get(rss_url, headers=req_headers, timeout=REQUEST_TIMEOUT)
             if resp.status_code != 200:
                 continue
             feed = feedparser.parse(resp.content)
@@ -170,22 +193,72 @@ def try_rss(site):
             log.info(f"  [RSS OK] {site['name']} → {rss_url} ({len(feed.entries)} entries)")
             articles = []
             is_google_news = "news.google.com" in rss_url
+            is_youtube = site.get("type") == "youtube"
             for entry in feed.entries:
                 raw_title = clean_text(getattr(entry, "title", ""))
                 title = clean_google_news_title(raw_title) if is_google_news else raw_title
-                # 处理 Google News 中转链接
+                # 处理链接
                 raw_url = getattr(entry, "link", "")
                 url = extract_real_url(raw_url)
                 # Google News RSS 的 source 字段包含真实来源名
                 source_name = ""
                 if hasattr(entry, "source") and hasattr(entry.source, "title"):
                     source_name = entry.source.title
-                summary = clean_text(getattr(entry, "summary", ""))
+                # YouTube 特殊处理：提取视频描述和缩略图
+                summary = ""
+                video_thumbnail = ""
+                if is_youtube:
+                    # YouTube RSS 使用 media:group 结构
+                    media_group = getattr(entry, "media_group", None)
+                    if media_group:
+                        media_desc = getattr(media_group, "media_description", "")
+                        if media_desc:
+                            summary = clean_text(str(media_desc))
+                        media_thumbnails = getattr(media_group, "media_thumbnail", [])
+                        if media_thumbnails:
+                            video_thumbnail = media_thumbnails[0].get("url", "")
+                    # feedparser 也可能把 media:description 放在 entry 级别
+                    if not summary:
+                        media_desc = getattr(entry, "media_description", "")
+                        if media_desc:
+                            summary = clean_text(str(media_desc))
+                    # 从 entry.summary 提取
+                    if not summary:
+                        entry_summary = getattr(entry, "summary", "")
+                        if entry_summary:
+                            summary = clean_text(entry_summary)
+                    # 从 entry.content 提取
+                    if not summary and hasattr(entry, "content"):
+                        for content_item in entry.content:
+                            val = content_item.get("value", "")
+                            if val:
+                                summary = clean_text(val)
+                                break
+                    # 缩略图：feedparser 的 media_thumbnail
+                    if not video_thumbnail:
+                        media_thumbnails = getattr(entry, "media_thumbnail", [])
+                        if media_thumbnails:
+                            video_thumbnail = media_thumbnails[0].get("url", "")
+                    # YouTube 视频链接规范化
+                    if "watch?v=" not in url and url:
+                        # 某些YouTube RSS可能只返回 channel URL
+                        video_id = ""
+                        if hasattr(entry, "yt_videoid"):
+                            video_id = entry.yt_videoid
+                        elif "youtube.com/watch" in raw_url:
+                            import re as _re
+                            m = _re.search(r"v=([a-zA-Z0-9_-]+)", raw_url)
+                            if m:
+                                video_id = m.group(1)
+                        if video_id:
+                            url = f"https://www.youtube.com/watch?v={video_id}"
+                else:
+                    summary = clean_text(getattr(entry, "summary", ""))
                 # 解析发布时间
                 pub_dt = None
                 if hasattr(entry, "published"):
                     pub_dt = parse_date_fuzzy(entry.published)
-                if pub_dt is None and hasattr(entry, "updated"):
+                if pub_dt is None and hasattr(entry, "updated'):
                     pub_dt = parse_date_fuzzy(entry.updated)
                 # 过滤30天
                 if not is_within_days(pub_dt, RETENTION_DAYS):
@@ -193,13 +266,19 @@ def try_rss(site):
                 if not title or not url:
                     continue
                 published_at = pub_dt.strftime("%Y-%m-%dT%H:%M:%SZ") if pub_dt else ""
-                articles.append({
+                article = {
                     "title": title,
                     "url": url,
                     "summary": summary,
                     "published_at": published_at,
                     "source_name": source_name,
-                })
+                }
+                # YouTube 视频附加字段
+                if is_youtube:
+                    article["is_video"] = True
+                    article["video_thumbnail"] = video_thumbnail
+                    article["channel_name"] = site["name"]
+                articles.append(article)
             return articles if articles else None
         except Exception as e:
             log.debug(f"  RSS fail {rss_url}: {e}")
@@ -345,7 +424,7 @@ def scrape_site(site):
         log.warning(f"  [SKIP] {site['name']}: 没有获取到数据")
         return []
 
-    # ③ 品类分析 + S+ 判断
+    # ③ 品类分析 + S+ 判断 + 产品盯梢检测
     result = []
     for art in raw_articles:
         title   = art.get("title", "")
@@ -357,7 +436,10 @@ def scrape_site(site):
         # S+ 判断
         is_sp, sp_reason = is_s_plus(title, summary)
 
-        result.append({
+        # 重点产品盯梢检测
+        watched, product_info = check_product_watch(title, summary)
+
+        entry = {
             "site_name": site["name"],
             "site_name_en": site["name_en"],
             "region": site["region"],
@@ -371,7 +453,22 @@ def scrape_site(site):
             "categories": categories,          # [{"name","icon","color","score"}]
             "primary_category": categories[0]["name"],  # 主品类
             "scraped_at": now_cst().strftime("%Y-%m-%dT%H:%M:%S+08:00"),
-        })
+        }
+
+        # 产品盯梢标记
+        if watched:
+            entry["watched_product"] = True
+            entry["watched_product_name"] = product_info["product_name"]
+            entry["watched_priority"] = product_info["priority"]
+            log.info(f"  🔔 产品盯梢命中: {title} → {product_info['product_name']}")
+
+        # YouTube 视频附加字段
+        if art.get("is_video"):
+            entry["is_video"] = True
+            entry["video_thumbnail"] = art.get("video_thumbnail", "")
+            entry["channel_name"] = art.get("channel_name", site["name"])
+
+        result.append(entry)
 
     return result
 
@@ -453,6 +550,7 @@ def main():
 
     # 统计
     s_plus_count = sum(1 for a in merged if a.get("is_s_plus"))
+    watched_count = sum(1 for a in merged if a.get("watched_product"))
     sites_active = list({a["site_name"] for a in merged})
     regions_active = list({a["region"] for a in merged})
     cat_stats = {}
@@ -463,6 +561,7 @@ def main():
     output = {
         "total": len(merged),
         "s_plus_count": s_plus_count,
+        "watched_product_count": watched_count,
         "sites": sites_active,
         "regions": regions_active,
         "category_stats": cat_stats,
@@ -476,7 +575,7 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     log.info(f"✅ 写入 {OUTPUT_FILE}")
-    log.info(f"   S+级: {s_plus_count} | 活跃站点: {len(sites_active)} | 地区: {len(regions_active)}")
+    log.info(f"   S+级: {s_plus_count} | 产品盯梢: {watched_count} | 活跃站点: {len(sites_active)} | 地区: {len(regions_active)}")
     log.info(f"   品类分布: {cat_stats}")
 
 

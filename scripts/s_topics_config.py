@@ -2,8 +2,9 @@
 """
 s_topics_config.py — S级选题跟踪网站配置
 来源：用户Excel表（S级选题跟踪网站.xlsx）
-共 7 个网站：日本(4) / 北美(2) / 北美&欧洲(1)
+共 8 个网站：日本(4) / 北美(2) / 北美&欧洲(1) / YouTube(1)
 新增：日経新聞主站（www.nikkei.com）via Google News RSS
+新增：朝日グループ公式YouTubeチャンネル（产品广告监控）
 """
 
 # ── S级选题跟踪网站列表 ────────────────────────────────────────
@@ -93,6 +94,19 @@ S_TOPIC_SITES = [
             "https://www.packagingdigest.com/feed",
         ],
     },
+    {
+        "name": "朝日グループYouTube",
+        "name_en": "Asahi Group YouTube",
+        "region": "日本",
+        "positioning": "产品广告&视频",
+        "desc": "朝日集团官方YouTube频道，监控新产品广告/CM视频发布，特别关注「未来のレモンサワー」系列产品",
+        "url": "https://www.youtube.com/@AsahiGroupHoldings/videos",
+        "type": "youtube",
+        "channel_id": "UCsqyXuphJN_Msxuik8QOW5Q",
+        "rss_candidates": [
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCsqyXuphJN_Msxuik8QOW5Q",
+        ],
+    },
 ]
 
 # ── S+ 级判断关键词（命中任意一个 → S+）────────────────────────
@@ -131,6 +145,24 @@ S_PLUS_KEYWORDS = [
     # 特殊视觉/感官创新（如开盖浮起柠檬片这类）
     "食感", "浮き上がる", "見た目", "映える", "インパクト",
     "ビジュアル", "演出", "仕掛け", "仕様",
+]
+
+# ── 重点产品盯梢清单 ────────────────────────────────────────────
+# 命中任意关键词 → 标记为 watched_product（前端高亮+特殊标注）
+# 第一时间发现新产品广告/CM视频
+PRODUCT_WATCH_LIST = [
+    {
+        "product_name": "未来のレモンサワー 檸檬（レモン）コーラサワー",
+        "brand": "アサヒ",
+        "keywords": [
+            "レモンサワー", "檸檬コーラ", "コーラサワー",
+            "未来のレモン", "レモンコーラ", "檸檬サワー",
+            "ミライレモン", "レモンサワーCM", "レモンサワー広告",
+            "lemon sour", "cola sour", "mirai lemon",
+            "柠檬可乐", "柠檬沙瓦",
+        ],
+        "priority": "URGENT",   # 紧急盯梢 — 发现后第一时间通知
+    },
 ]
 
 # ── 品类分析关键词映射（10个品类）──────────────────────────────
