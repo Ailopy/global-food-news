@@ -131,6 +131,32 @@ def is_s_plus(title, summary=""):
 
 
 # ── RSS 抓取 ────────────────────────────────────────────────────
+def extract_real_url(url):
+    """
+    处理 Google News 中转链接。
+    Google News RSS 的链接是中转链接，点击会跳转到真实文章，直接保留即可。
+    """
+    if not url:
+        return url
+    # 如有 ?url= 参数（某些 Google News 旧格式），直接提取
+    if "news.google.com" in url and "?url=" in url:
+        import urllib.parse
+        parsed = urllib.parse.urlparse(url)
+        qs = urllib.parse.parse_qs(parsed.query)
+        if "url" in qs:
+            return qs["url"][0]
+    return url
+
+
+def clean_google_news_title(title):
+    """清理 Google News 标题后缀（如 '- 日本経済新聞'）"""
+    if " - " in title:
+        parts = title.rsplit(" - ", 1)
+        if len(parts) == 2 and len(parts[1]) < 30:
+            return parts[0].strip()
+    return title
+
+
 def try_rss(site):
     """尝试 RSS 抓取，成功则返回文章列表，失败返回 None"""
     for rss_url in site.get("rss_candidates", []):
@@ -143,9 +169,17 @@ def try_rss(site):
                 continue
             log.info(f"  [RSS OK] {site['name']} → {rss_url} ({len(feed.entries)} entries)")
             articles = []
+            is_google_news = "news.google.com" in rss_url
             for entry in feed.entries:
-                title = clean_text(getattr(entry, "title", ""))
-                url   = getattr(entry, "link", "")
+                raw_title = clean_text(getattr(entry, "title", ""))
+                title = clean_google_news_title(raw_title) if is_google_news else raw_title
+                # 处理 Google News 中转链接
+                raw_url = getattr(entry, "link", "")
+                url = extract_real_url(raw_url)
+                # Google News RSS 的 source 字段包含真实来源名
+                source_name = ""
+                if hasattr(entry, "source") and hasattr(entry.source, "title"):
+                    source_name = entry.source.title
                 summary = clean_text(getattr(entry, "summary", ""))
                 # 解析发布时间
                 pub_dt = None
@@ -164,6 +198,7 @@ def try_rss(site):
                     "url": url,
                     "summary": summary,
                     "published_at": published_at,
+                    "source_name": source_name,
                 })
             return articles if articles else None
         except Exception as e:

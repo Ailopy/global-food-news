@@ -2,11 +2,25 @@
 """
 s_topics_config.py — S级选题跟踪网站配置
 来源：用户Excel表（S级选题跟踪网站.xlsx）
-共 6 个网站：日本(3) / 北美(2) / 北美&欧洲(1)
+共 7 个网站：日本(4) / 北美(2) / 北美&欧洲(1)
+新增：日経新聞主站（www.nikkei.com）via Google News RSS
 """
 
 # ── S级选题跟踪网站列表 ────────────────────────────────────────
 S_TOPIC_SITES = [
+    {
+        "name": "日経新聞",
+        "name_en": "Nikkei News",
+        "region": "日本",
+        "positioning": "新品&产业",
+        "desc": "日本经济新闻主站，食品饮料新品发布/产业动态，通过Google News RSS抓取",
+        "url": "https://www.nikkei.com/",
+        "rss_candidates": [
+            # Google News RSS 是抓取 nikkei.com 食品新闻最稳定的方式
+            "https://news.google.com/rss/search?q=site:nikkei.com+%E9%A3%9F%E5%93%81+%E6%96%B0%E5%95%86%E5%93%81&hl=ja&gl=JP&ceid=JP:ja",
+            "https://news.google.com/rss/search?q=site:nikkei.com+%E9%A3%9F%E5%93%81&hl=ja&gl=JP&ceid=JP:ja",
+        ],
+    },
     {
         "name": "日経xTrend",
         "name_en": "Nikkei xTrend",
@@ -90,7 +104,7 @@ S_PLUS_KEYWORDS = [
     "pioneering", "unprecedented", "groundbreaking",
     # 日语首创
     "世界初", "業界初", "日本初", "初登場", "初披露", "史上初",
-    "世界で初", "国内初", "アジア初",
+    "世界で初", "国内初", "アジア初", "初の試み", "初めて",
     # 爆品/热卖
     "viral", "gone viral", "sold out", "sell out", "instant sellout",
     "best seller", "bestseller", "record sales", "record-breaking",
@@ -100,14 +114,23 @@ S_PLUS_KEYWORDS = [
     "大卖", "销售额破", "热卖", "超预期",
     # 日语爆品
     "大ヒット", "品切れ", "即完売", "完売", "爆発的", "売上記録",
-    "話題", "大人気", "バズ", "インスタ映え",
+    "話題", "大人気", "バズ", "インスタ映え", "話題沸騰",
+    "累計販売", "億本", "万本突破", "売れ筋",
     # 创新性
     "revolutionary", "breakthrough", "disruptive", "innovative",
     "game-changer", "game changer", "next generation", "next-gen",
     "cutting-edge", "state-of-the-art",
+    # 日语创新性
+    "ユニーク", "画期的", "革新的", "新感覚", "独自技術",
+    "新たな体験", "新しい飲み方", "新しい食べ方", "体験価値",
     # 特殊联名/合作
     "collab", "collaboration", "limited edition", "limited-edition",
     "co-branded", "co-creation",
+    # 日语联名（常见缩写和表达）
+    "コラボ", "コラボレーション", "タイアップ", "限定コラボ",
+    # 特殊视觉/感官创新（如开盖浮起柠檬片这类）
+    "食感", "浮き上がる", "見た目", "映える", "インパクト",
+    "ビジュアル", "演出", "仕掛け", "仕様",
 ]
 
 # ── 品类分析关键词映射（10个品类）──────────────────────────────
