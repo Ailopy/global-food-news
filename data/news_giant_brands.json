@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-24T12:58:06",
+  "last_updated": "2026-06-25T12:57:13",
   "retention_days": 10,
-  "total": 272,
-  "s_count": 17,
+  "total": 277,
+  "s_count": 18,
   "a_count": 2,
-  "b_count": 253,
+  "b_count": 257,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -34,6 +34,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "はじけるバレンシアオレンジのおいしさ！大人の心浮き立つノンアルコール「キリン 氷ゼロ スパークリング バレンシアオレンジ（期間限定）」新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0625_01.html",
+      "published_at": "2026-06-25T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -247,9 +258,64 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
+      "title": "“こころ舞いあがる、はれやかな味わい”の新ブランド、「メルシャン・ワインズ ダンデライオン レッド」「メルシャン・ワインズ ダンデライオン ホワイト」を8月25日（火）に新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0625_02.html",
+      "published_at": "2026-06-25T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "FGFR1-3阻害薬KK8398（infigratinib）が骨端線閉鎖を伴わない軟骨無形成症を対象に日本で希少疾病用医薬品指定を取得",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260624_02.pdf",
+      "published_at": "2026-06-24T03:00:10",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "軟骨無形成症を対象とした経口薬infigratinibの第3相臨床試験「PROPEL 3」主要データをICCBH 2026で発表",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260624_01.pdf",
+      "published_at": "2026-06-24T03:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
       "title": "海外初輸出！「KIRIN iMUSE-乳酸菌檸檬水」を台湾で販売開始",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0624_02.html",
       "published_at": "2026-06-24T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-06-24T00:00:00",
+      "summary": "2025年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.24日清食品ホールディングス連結子会社からの配当金受領に関するお知らせ",
+      "url": "https://cdn.nissin.com/gr-documents/attachments/news_posts/13796/352158f7bdc5ac13/original/20260624-1_ja.pdf",
+      "published_at": "2026-06-24T00:00:00",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
@@ -262,17 +328,6 @@
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1781",
       "published_at": "2026-06-23T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-06-23T00:00:00",
-      "summary": "2025年12月期 第3四半期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
