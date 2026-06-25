@@ -17,7 +17,10 @@ import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 
-from s_topics_config import S_TOPIC_SITES, S_PLUS_KEYWORDS, CATEGORY_KEYWORDS, PRODUCT_WATCH_LIST
+from s_topics_config import (
+    S_TOPIC_SITES, S_PLUS_KEYWORDS, CATEGORY_KEYWORDS,
+    PRODUCT_WATCH_LIST, FOOD_BEV_RELEVANCE_KEYWORDS, FOOD_BEV_EXCLUDE_KEYWORDS,
+)
 
 # ── 常量 ────────────────────────────────────────────────────────
 OUTPUT_DIR   = Path(__file__).resolve().parent.parent / "web" / "data"
@@ -151,6 +154,53 @@ def check_product_watch(title, summary=""):
     return False, None
 
 
+# ── 食品饮料行业过滤 ─────────────────────────────────────────────
+def is_food_beverage_related(title, summary=""):
+    """
+    判断文章是否属于食品饮料行业。
+    逻辑：
+      ① 标题或摘要命中至少1个食品饮料关键词 → 初步判定相关
+      ② 如果同时命中排除关键词（药品/IT/汽车/房产等） → 过滤掉
+      ③ 未命中任何食品饮料关键词 → 过滤掉
+    返回 (bool, reason)
+    """
+    text = (title + " " + summary).lower()
+
+    # ① 检查是否有食品饮料关键词命中
+    hit_food_kws = []
+    for kw in FOOD_BEV_RELEVANCE_KEYWORDS:
+        kw_lower = kw.lower()
+        if kw_lower in text:
+            hit_food_kws.append(kw)
+
+    if not hit_food_kws:
+        return False, "无食品饮料关键词命中"
+
+    # ② 检查是否有排除关键词命中（排除关键词优先级更高）
+    hit_exclude_kws = []
+    for kw in FOOD_BEV_EXCLUDE_KEYWORDS:
+        kw_lower = kw.lower()
+        if kw_lower in text:
+            hit_exclude_kws.append(kw)
+
+    # 如果排除关键词命中数 >= 食品关键词命中数，判定为非食品文章
+    # 但食品关键词远多于排除关键词时（如"食品"在"医薬品含食品添加剂"中）仍保留
+    if hit_exclude_kws and len(hit_exclude_kws) >= len(hit_food_kws):
+        return False, f"排除关键词命中({hit_exclude_kws}) ≥ 食品关键词({hit_food_kws})"
+
+    # ③ 特殊豁免：如果标题明确包含食品行业强信号词，即使有1个排除关键词也保留
+    strong_food_signals = [
+        "食品", "飲料", "food", "beverage", "食品業界", "食品産業",
+        "飲料業界", "新商品", "新製品", "発売",
+    ]
+    title_lower = title.lower()
+    for signal in strong_food_signals:
+        if signal in title_lower:
+            return True, f"标题强信号词({signal})+食品关键词({hit_food_kws[:3]})"
+
+    return True, f"食品关键词命中({hit_food_kws[:3]})"
+
+
 # ── RSS 抓取 ────────────────────────────────────────────────────
 def extract_real_url(url):
     """
@@ -258,7 +308,7 @@ def try_rss(site):
                 pub_dt = None
                 if hasattr(entry, "published"):
                     pub_dt = parse_date_fuzzy(entry.published)
-                if pub_dt is None and hasattr(entry, "updated'):
+                if pub_dt is None and hasattr(entry, "updated"):
                     pub_dt = parse_date_fuzzy(entry.updated)
                 # 过滤30天
                 if not is_within_days(pub_dt, RETENTION_DAYS):
@@ -424,11 +474,19 @@ def scrape_site(site):
         log.warning(f"  [SKIP] {site['name']}: 没有获取到数据")
         return []
 
-    # ③ 品类分析 + S+ 判断 + 产品盯梢检测
+    # ③ 食品饮料行业过滤 + 品类分析 + S+ 判断 + 产品盯梢检测
     result = []
+    filtered_out = 0
     for art in raw_articles:
         title   = art.get("title", "")
         summary = art.get("summary", "")
+
+        # 食品饮料行业过滤（核心过滤层）
+        is_fbv, fbv_reason = is_food_beverage_related(title, summary)
+        if not is_fbv:
+            filtered_out += 1
+            log.debug(f"  [过滤] {title[:50]} → {fbv_reason}")
+            continue
 
         # 品类分析
         categories = analyze_category(title, summary)
@@ -469,6 +527,9 @@ def scrape_site(site):
             entry["channel_name"] = art.get("channel_name", site["name"])
 
         result.append(entry)
+
+    if filtered_out:
+        log.info(f"  [食品饮料过滤] {site['name']}: 保留 {len(result)} 条 / 过滤 {filtered_out} 条非食品资讯")
 
     return result
 
@@ -577,6 +638,7 @@ def main():
     log.info(f"✅ 写入 {OUTPUT_FILE}")
     log.info(f"   S+级: {s_plus_count} | 产品盯梢: {watched_count} | 活跃站点: {len(sites_active)} | 地区: {len(regions_active)}")
     log.info(f"   品类分布: {cat_stats}")
+    log.info(f"   ⭐ 食品饮料行业过滤已启用：仅收录与食品饮料行业相关的资讯")
 
 
 if __name__ == "__main__":

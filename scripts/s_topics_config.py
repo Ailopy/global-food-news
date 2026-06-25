@@ -165,6 +165,99 @@ PRODUCT_WATCH_LIST = [
     },
 ]
 
+# ── 食品饮料行业过滤关键词 ──────────────────────────────────────
+# 判断文章是否属于食品饮料行业：标题或摘要命中任意关键词 → 保留
+# 未命中任何关键词 → 过滤掉（非食品饮料资讯不收录）
+FOOD_BEV_RELEVANCE_KEYWORDS = [
+    # ── 英文：食品饮料品类 ──
+    "food", "beverage", "drink", "snack", "meal", "dining", "restaurant",
+    "cuisine", "cooking", "bakery", "bread", "chocolate", "candy",
+    "confectionery", "meat", "poultry", "seafood", "vegetable", "fruit",
+    "grain", "rice", "wheat", "cereal", "pasta", "noodle", "soup", "sauce",
+    "condiment", "seasoning", "flavor", "flavour", "taste", "texture",
+    "aroma", "recipe",
+    # ── 英文：饮料品类 ──
+    "soda", "juice", "water", "beer", "wine", "spirits", "coffee", "tea",
+    "milk", "dairy", "cocktail", "smoothie", "energy drink", "soft drink",
+    "brewery", "brewing", "distillery", "alcohol", "alcoholic",
+    "carbonated", "sparkling water", "mineral water", "fermented",
+    # ── 英文：食品行业术语 ──
+    "food industry", "beverage industry", "food tech", "food innovation",
+    "food safety", "food regulation", "food processing", "food manufacturing",
+    "food packaging", "ingredient", "ingredients", "nutrition", "nutritional",
+    "functional food", "health food", "organic food", "plant-based",
+    "vegan", "vegetarian", "alternative protein", "lab-grown",
+    "cultivated meat", "cell-based", "fmcg", "cpg", "supply chain",
+    "sustainable packaging", "e-commerce", "dtc", "retail", "grocery",
+    "supermarket", "convenience store", "vending",
+    # ── 英文：食品饮料品牌名（行业新闻高频提及）──
+    "asahi", "suntory", "kirin", "coca-cola", "pepsi", "nestle", "nestlé",
+    "mondelez", "kraft", "unilever", "mars", "danone", "ab inbev",
+    "heineken", "carlsberg", "mcdonald", "starbucks", "kfc",
+    "cargill", "adm", "dsm", "fonterra", "ingredion",
+    # ── 日文：食品核心词 ──
+    "食品", "飲料", "飲食", "お菓子", "菓子", "和菓子", "洋菓子",
+    "チョコレート", "キャンディ", "パン", "調味料", "スープ", "カレー",
+    "米", "麺", "麦", "肉", "魚", "野菜", "果物", "豆", "乳",
+    "缶詰", "冷凍食品", "レトルト", "弁当",
+    # ── 日文：饮料品类 ──
+    "清涼飲料", "ビール", "サワー", "ワイン", "カクテル",
+    "コーヒー", "紅茶", "緑茶", "牛乳", "乳製品",
+    "ソフトドリンク", "アルコール", "酒", "日本酒", "焼酎",
+    "ハイボール", "缶コーヒー", "炭酸", "発泡",
+    "スポーツドリンク", "ミネラルウォーター",
+    # ── 日文：食品行业高频词 ──
+    "食品業界", "食品産業", "飲料業界", "食品安全", "食品規制",
+    "食品加工", "食品製造", "食材", "栄養", "健康食品",
+    "有機", "オーガニック", "プラントベース", "ヴィーガン",
+    "代替肉", "大豆肉", "食感", "外食", "中食", "コンビニ",
+    "フードテック", "新商品", "新製品", "新飲料", "新フレーバー",
+    "発売", "コラボ", "限定", "キャンペーン", "パッケージ",
+    "機能性表示", "特定保健用食品",
+    # ── 中文：食品饮料核心词 ──
+    "食品行业", "饮料行业", "餐饮", "零食", "甜品", "糕点",
+    "面包", "巧克力", "糖果", "调味料", "方便食品", "冷冻食品",
+    "啤酒", "白酒", "红酒", "茶饮", "咖啡", "牛奶", "酒类",
+    "果汁", "碳酸饮料", "乳制品", "饮品", "原料", "营养",
+    "健康食品", "有机食品", "植物基", "代餐", "外卖",
+    "便利店", "新品", "联名", "限定", "包装", "配方",
+    # ── 食品饮料品类大词 ──
+    "sour", "cola", "lemon", "orange", "apple", "berry", "mango",
+    "strawberry", "peach", "grape", "vanilla", "caramel", "matcha",
+    "抹茶", "レモン", "オレンジ", "マンゴー", "イチゴ", "もも",
+    "葡萄", "バニラ", "キャラメル", "コーラ",
+]
+
+# ── 食品饮料行业排除关键词 ──────────────────────────────────────
+# 即使命中食品关键词，如果同时命中排除关键词 → 过滤掉
+# （避免把"药品含食品添加剂"这类非食品文章收录）
+FOOD_BEV_EXCLUDE_KEYWORDS = [
+    # 药品/医疗（除非是功能性食品/保健品）
+    "医薬品", "医薬", "処方", "診療", "病院", "患者", "治療",
+    "clinical", "prescription", "pharmaceutical", "drug", "medicine",
+    "hospital", "patient", "treatment", "diagnosis",
+    # IT/科技（非食品领域）
+    "software", "app store", "ai model", "cloud computing",
+    "semiconductor", "chip design", "blockchain", "crypto",
+    "半導体", "ブロックチェーン", "暗号資産",
+    # 汽车/交通
+    "automotive", "car model", "vehicle", "electric vehicle", "ev",
+    "自動車", "車種", "電気自動車", "ev車",
+    # 房产/建筑
+    "real estate", "property market", "housing", "construction",
+    "不動産", "住宅", "建設", "マンション",
+    # 金融/投资（纯金融不涉及食品企业）
+    "stock market", "interest rate", "bond", "currency",
+    "株式市場", "金利", "債券", "為替",
+    # 体育/娱乐
+    "olympic", "world cup", "football", "soccer", "baseball",
+    "オリンピック", "ワールドカップ", "サッカー", "野球",
+    "映画", "ドラマ", "アニメ", "music", "concert",
+    # 服装/时尚
+    "fashion", "apparel", "clothing", "luxury brand",
+    "ファッション", "アパレル", "服", "ハイブランド",
+]
+
 # ── 品类分析关键词映射（10个品类）──────────────────────────────
 # 每个品类有主关键词和辅助关键词，命中得分最高的品类胜出
 CATEGORY_KEYWORDS = {
