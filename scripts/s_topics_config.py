@@ -165,9 +165,215 @@ PRODUCT_WATCH_LIST = [
     },
 ]
 
+# ── 食品饮料行业企业名称列表 ──────────────────────────────────────
+# 文章标题或摘要命中这些企业名称 → 直接判定为食品饮料行业相关
+# （即使不包含食品饮料品类关键词，只要提到食品饮料公司也保留）
+FOOD_BEV_COMPANY_NAMES = [
+    # ── 全球巨头 ──
+    # 百事 PepsiCo
+    "pepsico", "pepsi", "百事", "ペプシ",
+    # 可口可乐 Coca-Cola
+    "coca-cola", "cocacola", "コカ・コーラ", "可口可乐", "コカコーラ",
+    # 雀巢 Nestlé
+    "nestle", "nestlé", "雀巢", "ネスレ",
+    # 联合利华 Unilever
+    "unilever", "联合利华", "ユニリーバ",
+    # 亿滋 Mondelez
+    "mondelez", "亿滋", "モンデリーズ",
+    # 玛氏 Mars
+    "mars inc", "mars incorporated", "玛氏", "マース",
+    # 卡夫亨氏 Kraft Heinz
+    "kraft heinz", "kraft", "heinz", "卡夫亨氏", "亨氏", "クラフト", "ハインツ",
+    # 百威英博 AB InBev
+    "ab inbev", "anheuser-busch", "百威英博", "アンハイザー・ブッシュ",
+    "budweiser", "百威", "バドワイザー",
+    # 达能 Danone
+    "danone", "达能", "ダノン",
+    # 通用磨坊 General Mills
+    "general mills", "通用磨坊", "ゼネラルミルズ",
+    # 费列罗 Ferrero
+    "ferrero", "费列罗", "フェレロ",
+    # 嘉吉 Cargill
+    "cargill", "嘉吉", "カーギル",
+    # ADM
+    "adm", "archer daniels", "アーチャー・ダニエルズ",
+    # DSM (帝斯曼-芬美意)
+    "dsm", "dsm-firmenich", "帝斯曼", "芬美意",
+    # 恒天然 Fonterra
+    "fonterra", "恒天然", "フォンテラ",
+    # Ingredion
+    "ingredion", "宜瑞安",
+    # JBS
+    "jbs", "jbs usa",
+    # 泰森 Tyson
+    "tyson foods", "tyson", "泰森", "タイソン",
+    # 凯洛格 Kellanova (原Kellogg's)
+    "kellanova", "kellogg", "kelloggs", "家乐氏", "ケロッグ",
+    # ── 日本巨头 ──
+    # 朝日 Asahi
+    "asahi", "アサヒ", "朝日", "asahi group",
+    # 麒麟 Kirin
+    "kirin", "キリン", "麒麟",
+    # 三得利 Suntory
+    "suntory", "サントリー", "三得利",
+    # 日清食品 Nissin
+    "nissin", "日清食品", "日清", "ニッスイ", "ニッシン",
+    # 味之素 Ajinomoto
+    "ajinomoto", "味之素", "アジノモト",
+    # 明治 Meiji
+    "meiji", "明治", "meiji holdings",
+    # 雪印 Megmilk
+    "megmilk", "雪印", "メグミルク", "雪印メグミルク",
+    # 森永 Morinaga
+    "morinaga", "森永", "モリナガ", "森永乳業", "morinaga milk",
+    # 养乐多 Yakult
+    "yakult", "养乐多", "ヤクルト",
+    # 伊藤园 Ito En
+    "ito en", "伊藤园", "伊藤園",
+    # 江崎グリコ Ezaki Glico
+    "glico", "グリコ", "江崎グリコ",
+    # 卡乐比 Calbee
+    "calbee", "カールビー", "カルビー",
+    # 不二家 Fujiya
+    "fujiya", "不二家", "フジヤ",
+    # 永旺 Aeon
+    "aeon", "イオン", "永旺",
+    # 龟田 Kameda
+    "kameda", "龟田", "亀田", "亀田製菓",
+    # ロッテ Lotte (日本)
+    "lotte", "ロッテ",
+    # ── 韩国巨头 ──
+    # 希杰 CJ
+    "cj cheiljedang", "cj group", "希杰", "cj제일제당",
+    # 乐天七星 Lotte Chilsung
+    "lotte chilsung", "乐天七星", "롯데칠성",
+    # 农心 Nongshim
+    "nongshim", "农心", "농심",
+    # ── 中国巨头 ──
+    # 康师傅
+    "康师傅", "master kong", "ティンイー",
+    # 统一
+    "统一企业", "uni-president",
+    # 伊利
+    "伊利", "yili",
+    # 蒙牛
+    "蒙牛", "mengniu",
+    # 光明
+    "光明乳业", "bright dairy",
+    # 华润啤酒
+    "华润啤酒", "china resources beer",
+    # 青岛啤酒
+    "青岛啤酒", "tsingtao", "チンタオ",
+    # 农夫山泉
+    "农夫山泉", "nongfu spring",
+    # 娃哈哈
+    "娃哈哈", "wahaha",
+    # 飞鹤
+    "飞鹤", "feihe",
+    # 益海嘉里
+    "益海嘉里", "wilmar", "丰益国际",
+    # 双汇
+    "双汇", "shineway",
+    # ── 欧美其他 ──
+    # 喜力 Heineken
+    "heineken", "喜力", "ハイネケン",
+    # 嘉士伯 Carlsberg
+    "carlsberg", "嘉士伯", "カールスバーグ",
+    # 星巴克 Starbucks
+    "starbucks", "星巴克", "スターバックス",
+    # 麦当劳 McDonald's
+    "mcdonald", "麦当劳", "マクドナルド",
+    # 肯德基 KFC
+    "kfc", "肯德基", "ケンタッキー",
+    # 汉堡王 Burger King
+    "burger king", "汉堡王", "バーガーキング",
+    # 红牛 Red Bull
+    "red bull", "红牛", "レッドブル",
+    # 怪兽 Monster
+    "monster beverage", "monster energy", "モンスター",
+    # 汉高 Henkel（部分食品业务）
+    # 金宝汤 Campbell's
+    "campbell", "campbell soup", "金宝汤", "キャンベル",
+    # 家乐 Home/Knorr (Unilever旗下)
+    "knorr", "家乐",
+    # 好时 Hershey
+    "hershey", "好时", "ハーシー",
+    # 王子饼干 Yamazaki
+    "yamazaki", "王子", "ヤマザキ", "山崎製パン",
+    # 乐事 Lay's (PepsiCo旗下) — 注意必须带引号避免子串误匹配
+    "lay's", "乐事",
+    # 多芬 Dove (Unilever旗下食品)
+    # 宝洁 P&G（部分食品业务已出售）
+    # 惠氏 Wyeth (Nestlé旗下)
+    # 雅培 Abbott（营养品业务）
+    "abbott", "雅培", "アボット",
+    # GSK 营养品
+    # 美赞臣 Mead Johnson (Reckitt旗下)
+    # 惠灵顿 Wellington
+    # ── 食品配料/原料巨头 ──
+    # Chr. Hansen (现在属于Novonesis)
+    "chr. hansen", "chr hansen", "科汉森", "novonesis",
+    # Givaudan 奇华顿
+    "givaudan", "奇华顿", "ジヴァダン",
+    # IFF 国际香精香料
+    "iff", "international flavors", "国际香精香料",
+    # Tate & Lyle 泰特莱尔
+    "tate & lyle", "泰特莱尔",
+    # Puratos 焙乐道
+    "puratos", "焙乐道",
+    # Kerry 凯瑞
+    "kerry group", "kerry", "凯瑞",
+    # Lesaffre 乐斯福
+    "lesaffre", "乐斯福",
+    # ── 餐饮连锁 ──
+    # 味千拉面 Ajisen
+    "ajisen", "味千",
+    # 吉野家 Yoshinoya
+    "yoshinoya", "吉野家", "よしのや",
+    # 松屋 Matsuya
+    "matsuya", "松屋", "マツヤ",
+    # 鼎泰丰 Din Tai Fung
+    "din tai fung", "鼎泰丰",
+    # 海底捞 Haidilao
+    "haidilao", "海底捞", "ハイディラオ",
+    # 喜茶 Heytea
+    "heytea", "喜茶",
+    # 奈雪的茶 Nayuki
+    "nayuki", "奈雪",
+    # 蜜雪冰城 Mixue
+    "mixue", "蜜雪冰城",
+    # 瑞幸 Luckin
+    "luckin", "瑞幸", "ラッキン",
+    # ── 超市/渠道（食品零售巨头）──
+    # 沃尔玛 Walmart
+    "walmart", "沃尔玛", "ウォルマート",
+    # 7-Eleven
+    "7-eleven", "7-11", "セブン-イレブン",
+    # 全家 FamilyMart
+    "familymart", "全家", "ファミリーマート",
+    # LAWSON 罗森
+    "lawson", "罗森", "ローソン",
+    # Amazon Fresh
+    "amazon fresh",
+    # Aldi
+    "aldi",
+    # Lidl
+    "lidl",
+    # Costco
+    "costco", "好市多",
+    # Trader Joe's
+    "trader joe",
+    # Carrefour 家乐福
+    "carrefour", "家乐福", "カルフール",
+    # 永旺 Aeon（已在日本列表）
+    # 伊藤洋华堂 Ito-Yokado
+    "ito-yokado", "イトーヨーカドー",
+]
+
 # ── 食品饮料行业过滤关键词 ──────────────────────────────────────
 # 判断文章是否属于食品饮料行业：标题或摘要命中任意关键词 → 保留
-# 未命中任何关键词 → 过滤掉（非食品饮料资讯不收录）
+# 或者命中食品饮料企业名称 → 保留
+# 未命中任何关键词或企业名称 → 过滤掉（非食品饮料资讯不收录）
 FOOD_BEV_RELEVANCE_KEYWORDS = [
     # ── 英文：食品饮料品类 ──
     "food", "beverage", "drink", "snack", "meal", "dining", "restaurant",
@@ -240,6 +446,7 @@ FOOD_BEV_EXCLUDE_KEYWORDS = [
     "software", "app store", "ai model", "cloud computing",
     "semiconductor", "chip design", "blockchain", "crypto",
     "半導体", "ブロックチェーン", "暗号資産",
+    "iphone", "ipad", "macbook", "ios", "mac os", "apple watch",
     # 汽车/交通
     "automotive", "car model", "vehicle", "electric vehicle", "ev",
     "自動車", "車種", "電気自動車", "ev車",

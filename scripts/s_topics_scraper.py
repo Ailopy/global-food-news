@@ -20,6 +20,7 @@ from dateutil import parser as dateparser
 from s_topics_config import (
     S_TOPIC_SITES, S_PLUS_KEYWORDS, CATEGORY_KEYWORDS,
     PRODUCT_WATCH_LIST, FOOD_BEV_RELEVANCE_KEYWORDS, FOOD_BEV_EXCLUDE_KEYWORDS,
+    FOOD_BEV_COMPANY_NAMES,
 )
 
 # ── 常量 ────────────────────────────────────────────────────────
@@ -159,36 +160,71 @@ def is_food_beverage_related(title, summary=""):
     """
     判断文章是否属于食品饮料行业。
     逻辑：
-      ① 标题或摘要命中至少1个食品饮料关键词 → 初步判定相关
-      ② 如果同时命中排除关键词（药品/IT/汽车/房产等） → 过滤掉
-      ③ 未命中任何食品饮料关键词 → 过滤掉
+      ① 标题或摘要命中食品饮料企业名称 → 直接判定相关（企业名优先）
+      ② 标题或摘要命中至少1个食品饮料关键词 → 初步判定相关
+      ③ 如果同时命中排除关键词（药品/IT/汽车/房产等） → 过滤掉
+      ④ 未命中任何关键词或企业名称 → 过滤掉
     返回 (bool, reason)
+
+    注意：英文关键词使用 word boundary 匹配（避免子串误匹配如 "lays"→"PlayStation"）
+          中日关键词使用子串匹配（中日文无空格分词）
     """
     text = (title + " " + summary).lower()
 
-    # ① 检查是否有食品饮料关键词命中
+    # ① 优先检查企业名称命中（食品饮料企业名 = 行业相关性最强信号）
+    hit_companies = []
+    for company in FOOD_BEV_COMPANY_NAMES:
+        company_lower = company.lower()
+        # 英文关键词：使用 word boundary 匹配
+        if company_lower.encode('ascii', 'replace').decode() == company_lower:
+            # 纯ASCII → word boundary
+            import re as _re
+            if _re.search(r'\b' + _re.escape(company_lower) + r'\b', text):
+                hit_companies.append(company)
+        else:
+            # 包含中日韩字符 → 子串匹配
+            if company_lower in text:
+                hit_companies.append(company)
+
+    if hit_companies:
+        # 企业名命中 → 直接判定相关，不受排除关键词影响
+        return True, f"食品饮料企业名命中({hit_companies[:3]})"
+
+    # ② 检查是否有食品饮料关键词命中
     hit_food_kws = []
     for kw in FOOD_BEV_RELEVANCE_KEYWORDS:
         kw_lower = kw.lower()
-        if kw_lower in text:
-            hit_food_kws.append(kw)
+        # 英文关键词：word boundary 匹配
+        if kw_lower.encode('ascii', 'replace').decode() == kw_lower:
+            import re as _re
+            if _re.search(r'\b' + _re.escape(kw_lower) + r'\b', text):
+                hit_food_kws.append(kw)
+        else:
+            # 中日关键词：子串匹配
+            if kw_lower in text:
+                hit_food_kws.append(kw)
 
     if not hit_food_kws:
-        return False, "无食品饮料关键词命中"
+        return False, "无食品饮料关键词或企业名命中"
 
-    # ② 检查是否有排除关键词命中（排除关键词优先级更高）
+    # ③ 检查是否有排除关键词命中（排除关键词优先级更高）
     hit_exclude_kws = []
     for kw in FOOD_BEV_EXCLUDE_KEYWORDS:
         kw_lower = kw.lower()
-        if kw_lower in text:
-            hit_exclude_kws.append(kw)
+        # 英文排除关键词也用 word boundary 匹配
+        if kw_lower.encode('ascii', 'replace').decode() == kw_lower:
+            import re as _re
+            if _re.search(r'\b' + _re.escape(kw_lower) + r'\b', text):
+                hit_exclude_kws.append(kw)
+        else:
+            if kw_lower in text:
+                hit_exclude_kws.append(kw)
 
     # 如果排除关键词命中数 >= 食品关键词命中数，判定为非食品文章
-    # 但食品关键词远多于排除关键词时（如"食品"在"医薬品含食品添加剂"中）仍保留
     if hit_exclude_kws and len(hit_exclude_kws) >= len(hit_food_kws):
         return False, f"排除关键词命中({hit_exclude_kws}) ≥ 食品关键词({hit_food_kws})"
 
-    # ③ 特殊豁免：如果标题明确包含食品行业强信号词，即使有1个排除关键词也保留
+    # ④ 特殊豁免：如果标题明确包含食品行业强信号词，即使有1个排除关键词也保留
     strong_food_signals = [
         "食品", "飲料", "food", "beverage", "食品業界", "食品産業",
         "飲料業界", "新商品", "新製品", "発売",
