@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-26T15:58:54.357410+08:00",
+  "last_updated": "2026-06-26T19:38:52.297907+08:00",
   "retention_days": 7,
-  "total": 517,
+  "total": 510,
   "sources": [
     "BevNET",
     "Fab News",
@@ -43,6 +43,78 @@
       "language": "en"
     },
     {
+      "id": "a133296f1d5dfc68",
+      "title": "Tate & Lyle receives Innovation in Health Technology Product Award",
+      "summary": "The award celebrates innovations that demonstrate meaningful scientific advancement, strong validation and the ability to deliver measurable health benefits in real-world food and beverage…",
+      "url": "https://nutraceuticalbusinessreview.com/tate-lyle-receives-innovation-in-health-technology",
+      "published_at": "2026-06-26T18:30:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "a5ed27afb9c377d0",
+      "title": "今週新発売のジューシーな食べものまとめ！『ピーチ　＆　ピーチミルク　フラペチーノ』、『白桃＆アールグレイタルト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ジューシーの新商品情報をお届けします。今週新発売の#ジューシースターバックス ピーチ ＆ ピーチミルク フラペチーノ2015年…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062608/?utm_source=rss&utm_medium=mognavinews_20260626",
+      "published_at": "2026-06-26T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ae0599fe98c56c25",
+      "title": "Sabinsa announces Brandon Prenger as Director of Business Development",
+      "summary": "Sabinsa, the multi-national health science company known for providing sustainable, natural, well-researched ingredients, is pleased to announce Brandon Prenger as Director of Business Development",
+      "url": "https://nutraceuticalbusinessreview.com/sabinsa-announces-brandon-prenger-as-director-of-business",
+      "published_at": "2026-06-26T17:17:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "65fc6437049d8e7c",
+      "title": "Alkemist labs announces Mo Lababidi as Director of Botanical Identity",
+      "summary": "Alkemist Labs is pleased to announce that Mo Lababidi has joined the company as Director of Botanical Identity",
+      "url": "https://nutraceuticalbusinessreview.com/alkemist-labs-announces-mo-lababidi-as-director-of",
+      "published_at": "2026-06-26T16:21:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "42f3869be542602c",
+      "title": "“塩茹でとうもろこし”の味わいをイメージ　「ベビースターラーメン丸」に夏季限定の新味登場【おやつカンパニー】",
+      "summary": "おやつカンパニーは6月29日、「ベビースターラーメン丸」シリーズから、夏季限定の新フレーバー「しおコーン味」を全国のコンビニで発売する。 ビッツ形状の「ベビースターラーメン丸」にフリーズドライコーンを加え、とうもろこしの...",
+      "url": "https://www.ssnp.co.jp/snack/691101/",
+      "published_at": "2026-06-26T16:16:49+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "3c4dfaf69b9a860b",
+      "title": "東海漬物「キューちゃん かける！肉みそラー油味」が好調 “ギルティ消費”追い風に濃い味提案広がる漬物業界",
+      "summary": "東海漬物のロングセラー品「きゅうりのキューちゃん」の春夏限定品「かける！肉みそラー油味」（8月末まで販売）が好調だという。 同商品は、刻み胡瓜と大豆ミートで肉みその食べ応えを再現し、信州赤味噌と濃口醤油をベースに青唐 […] ソース",
+      "url": "https://shokuhin.net/152390/2026/06/26/kakou/tsukemono/",
+      "published_at": "2026-06-26T16:10:59+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "74d33d350d4c19ac",
       "title": "シャトレーゼ「ももフェア」開催　山梨県産“完熟桃”1/2個使用タルトなど登場、店舗で仕上げる限定ケーキも",
       "summary": "株式会社シャトレーゼ(本社:山梨県甲府市)は7月3日から、全国の菓子専門店「シャトレーゼ」で毎年恒例の「ももフェア」を順次開催する。 フェアでは、日本一の桃の名産地･山梨県産の“完熟桃”を使ったスイーツを展開する。シャト...",
@@ -79,18 +151,6 @@
       "language": "ja"
     },
     {
-      "id": "e8556fca296585ab",
-      "title": "ClonBio Foods builds commercial-scale facility for native arabinoxylan fibre FibAX",
-      "summary": "The Hungary site, operational Q2 2027, scales up a low-dose, well-tolerated prebiotic shown to produce three times more short-chain fatty acids than inulin — targeting premium gut health and…",
-      "url": "https://nutraceuticalbusinessreview.com/clonbio-foods-builds-commercial-scale-facility-fibre-fibax",
-      "published_at": "2026-06-26T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "cefcb999a476d9aa",
       "title": "今週新発売のボリュームのある食べものまとめ！『わかめオールスター　わかめラーメン　しょうゆ』、『ちぎれるスイートブレッド』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ボリュームの新商品情報をお届けします。今週新発売の#ボリュームエースコック わかめオールスター わかめラーメン しょうゆ198…",
@@ -101,6 +161,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "e8556fca296585ab",
+      "title": "ClonBio Foods builds commercial-scale facility for native arabinoxylan fibre FibAX",
+      "summary": "The Hungary site, operational Q2 2027, scales up a low-dose, well-tolerated prebiotic shown to produce three times more short-chain fatty acids than inulin — targeting premium gut health and…",
+      "url": "https://nutraceuticalbusinessreview.com/clonbio-foods-builds-commercial-scale-facility-fibre-fibax",
+      "published_at": "2026-06-26T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "95de4977ef7c0921",
@@ -1303,18 +1375,6 @@
       "language": "ja"
     },
     {
-      "id": "429d98422cd603e8",
-      "title": "Gum arabic: the natural ingredient the US better-for-you market is ready for",
-      "summary": "Something structural is happening in the American food and beverage industry. It is not simply a trend, but a broader shift in how consumers define value, reports Isabelle Jaouen, R&D Director at…",
-      "url": "https://nutraceuticalbusinessreview.com/gum-arabic-the-natural-ingredient-the-us-better",
-      "published_at": "2026-06-25T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "3e08e9401ebbba29",
       "title": "今週新発売のトマト料理まとめ！『トマトとレタスのイタリアンサラダ』、『ミニトマトとチーズのカプレーゼ仕立て』など♪",
       "summary": "こんにちは、もぐナビ編集部です！トマト料理の新商品情報をお届けします。今週新発売の#トマト料理セブン-イレブン トマトとレタスのイタリアンサラダたっぷりのトマ…",
@@ -1325,6 +1385,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "429d98422cd603e8",
+      "title": "Gum arabic: the natural ingredient the US better-for-you market is ready for",
+      "summary": "Something structural is happening in the American food and beverage industry. It is not simply a trend, but a broader shift in how consumers define value, reports Isabelle Jaouen, R&D Director at…",
+      "url": "https://nutraceuticalbusinessreview.com/gum-arabic-the-natural-ingredient-the-us-better",
+      "published_at": "2026-06-25T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "fc32bead3b5d0f29",
@@ -6065,162 +6137,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "18ae9d24e31568d9",
-      "title": "Prosur to showcase clean-label ingredient toolbox for MAHA-driven reformulation at IFT First",
-      "summary": "The Get It Natural Toolbox is positioned to help manufacturers eliminate synthetic additives and ultra-processed components through fermentation and chemical-elimination technologies, addressing…",
-      "url": "https://nutraceuticalbusinessreview.com/prosur-showcase-clean-label-ingredient-maha-ift-first",
-      "published_at": "2026-06-19T19:24:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "e9c6dd13a04239a4",
-      "title": "Nextin Research named market intelligence provider for IFT FIRST, delivering ingredient trend data",
-      "summary": "The partnership brings co-branded consumer insights on colours, flavours, sweeteners, protein and fibre to IFT FIRST attendees, alongside strategy ideation sessions for Startup Pavilion competitors…",
-      "url": "https://nutraceuticalbusinessreview.com/nextin-research-named-market-intelligence-provider-ift-first",
-      "published_at": "2026-06-19T17:47:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "cab08674ea75648c",
-      "title": "今週新発売の食パン・ロールパンまとめ！『宇治抹茶あんトースト』、『湯捏ね仕立てのカンパーニュ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンリョーユーパン 宇治抹茶あんトースト 袋6枚宇治抹茶を…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026061908/?utm_source=rss&utm_medium=mognavinews_20260620",
-      "published_at": "2026-06-19T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "965809ab5cd0bcd1",
-      "title": "寿がきや食品 業務用商品7月から値上げ",
-      "summary": "寿がきや食品は、業務用商品について、7月1日出荷分から価格改定を実施する。原材料費や包装資材費をはじめ、あらゆるコストの上昇が背景。現行出荷価格の10％以上の値上げとなる。 同社では、今回の業務用商品に先立ち、市販用 […] ソース",
-      "url": "https://shokuhin.net/151902/2026/06/19/kakou/sokuseki/",
-      "published_at": "2026-06-19T16:58:31+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "07c552e0099626df",
-      "title": "Nuritas to showcase heat-stable peptide hydrolysates at IFT FIRST",
-      "summary": "PeptiStrong and PeptiSleep demonstrate proven bioavailability across retort and UHT processing, giving formulators a commercially de-risked path to functional food integration with FDA GRAS status…",
-      "url": "https://nutraceuticalbusinessreview.com/nuritas-heat-stable-peptide-hydrolysates-ift-first",
-      "published_at": "2026-06-19T16:46:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "ef7a6185b2bc27ae",
-      "title": "オレンジジュース販売再開へ 果汁調達難で休止から復活 ヤクルト本社",
-      "summary": "ヤクルト本社は7月6日、「オレンジジュース（200㎖）」の販売を再開する。天候不順を主因とするオレンジ果汁の調達難により、2024年3月から販売を休止していた。 同商品はオレンジ濃縮果汁を使用した100％オレンジジュ […] ソース",
-      "url": "https://shokuhin.net/151915/2026/06/19/inryou/inryou-inryou/",
-      "published_at": "2026-06-19T16:41:42+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "da41c0160fb66905",
-      "title": "ローソン 値引き購入でおにぎり寄付 食品ロス削減と子ども支援",
-      "summary": "ローソンは6月9日から8月31日まで、全国約1万4000店舗（ローソンストア100除く）で食品ロス削減プログラム「FOOD GOOD SMILE」の寄付施策第3弾を実施している。値引きシールが貼付されたおにぎり、寿司、 […] ソース",
-      "url": "https://shokuhin.net/151912/2026/06/19/ryutu/kouri/%ef%bd%83%ef%bd%96%ef%bd%93/",
-      "published_at": "2026-06-19T16:38:37+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "442640e00fdc80b9",
-      "title": "日本アイスクリーム協会 創立60周年迎える 「市場1兆円へ挑戦」中島会長",
-      "summary": "日本アイスクリーム協会は6月9日、都内で創立60周年記念式典を開催した。祝賀会には業界関係者260人が出席し、60年の歩みを振り返るとともに、今後の発展に向けた決意を新たにした。 中島英樹会長は、1966年の協会設立 […] ソース",
-      "url": "https://shokuhin.net/151889/2026/06/19/kakou/nyu/",
-      "published_at": "2026-06-19T16:32:14+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "a7b763b2f3b319ec",
-      "title": "シリアル需要拡大へ 乳業との共創に期待 「ミルクの未来を考える会」で講演",
-      "summary": "日本乳業協会は6月8日、第7回「ミルクの未来を考える会」を都内で開催した。日本スナック・シリアルフーズ協会専務理事の岩片弘信氏が講演し、市場の現状や課題、牛乳・乳製品との連携による需要拡大の可能性について語った。 同 […] ソース",
-      "url": "https://shokuhin.net/151885/2026/06/19/kakou/nyu/",
-      "published_at": "2026-06-19T16:29:18+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "c015d77c64ffee2f",
-      "title": "〈これで売れました！〉「明治ブルガリアヨーグルトLB81プレーンHOME MADE STORY」 贅沢なコクで支持拡大",
-      "summary": "本場ブルガリアの素焼きの壺で作る伝統をヒントにした「くちどけ芳醇発酵」で、濃厚なコクとなめらかな食感を実現。乳脂肪分5％のリッチな味わいとやさしい酸味のバランスが支持されている。 ソース",
-      "url": "https://shokuhin.net/151879/2026/06/19/uremashita/",
-      "published_at": "2026-06-19T16:24:27+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "078bd2c09f7aebf7",
-      "title": "キッコーマン食品とネスレ日本が物流連携 関東～関西間で海上輸送",
-      "summary": "キッコーマン食品は、主要物流拠点のキッコーマン食品N-DC（千葉県流山市）から出荷する「濃いだし本つゆ」などの調味料製品について、6月5日からネスレ日本と連携した海上輸送を開始した。ネスレ日本と往復で貨物を組み合わせる […] ソース",
-      "url": "https://shokuhin.net/151876/2026/06/19/ryutu/%e7%89%a9%e6%b5%81/",
-      "published_at": "2026-06-19T16:21:57+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "cd375423f97bfa88",
-      "title": "梅田最大級672席、時間無制限の食べ飲み放題　「阪急トップビアガーデン」開幕、ビール8銘柄を提供",
-      "summary": "阪急阪神ホテルズは、ホテル阪急インターナショナル直営の「阪急トップビアガーデン」(阪急トップ)を6月25日から9月12日までの期間で営業する。 席数は672席と梅田エリア最大級、時間無制限で食べ飲み放題が楽しめるビアガー...",
-      "url": "https://www.ssnp.co.jp/foodservice/689973/",
-      "published_at": "2026-06-19T16:21:10+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "7d44a507721194cf",
-      "title": "桃屋「味付榨菜」レシピを紹介 インフルエンサー招き都内でイベント",
-      "summary": "桃屋は「味付搾菜」の訴求を強化している。5月28日に都内でインフルエンサーを対象にした「MOMOフェス」カレッジ編を開催。調理実演と試食提供を交えながら「かんたんレシピ」を提案した。翌5月29日から新CMのテレビ放映を […] ソース",
-      "url": "https://shokuhin.net/151896/2026/06/19/kakou/kandume/",
-      "published_at": "2026-06-19T16:11:39+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
