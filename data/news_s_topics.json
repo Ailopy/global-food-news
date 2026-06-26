@@ -1,32 +1,1502 @@
 {
-  "total": 240,
-  "s_plus_count": 16,
+  "total": 316,
+  "s_plus_count": 21,
   "sites": [
-    "Food Dive",
-    "日経新聞",
     "日経xTrend",
-    "Packaging Digest"
+    "日経新聞",
+    "Packaging Digest",
+    "Food Dive"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "其他": 132,
-    "品牌故事": 13,
-    "营销创新": 19,
-    "新产品": 35,
-    "并购融资": 5,
-    "新包装": 8,
-    "联名营销": 5,
-    "新技术": 2,
-    "行业政策": 14,
+    "其他": 186,
+    "新产品": 39,
+    "新包装": 11,
+    "营销创新": 22,
+    "品牌故事": 17,
+    "并购融资": 10,
+    "联名营销": 6,
+    "新技术": 3,
+    "行业政策": 15,
     "渠道新物种": 5,
     "新原料": 2
   },
-  "last_updated": "2026-06-25 12:57",
-  "last_updated_iso": "2026-06-25T12:57:27.622186+08:00",
+  "last_updated": "2026-06-26 13:02",
+  "last_updated_iso": "2026-06-26T13:02:33.828818+08:00",
   "articles": [
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ゲオHD、家具専門店を関東初出店 10年で30店舗へ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3YwUjBXcW9BeFdqcmphQnJ3ZTBud0thaTQtSDJzV2hwUmFWblJxQkRWNFJ6aDh6MFd4NjVKeWN4Q09UODg1cENlNDZnSVctTWtVVV82bW85RXpNUTFpUENRdEVhM3FveVV2SVVJcEhaOThZYkNNSXA4WlBNQ0NvWWl3emRNX2tOczhiek1nSmhZbmlzRk5OVzZ0UXc2aFZPR3l3ZzNCTU8?oc=5",
+      "summary": "ゲオHD、家具専門店を関東初出店 10年で30店舗へ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-26T04:29:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "適時開示速報 プレスリリース 有価証券報告書",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjlCd2NyNFFtM1RyRE1SblBXYVMxa0pDd1Z4TjFyaElrVUo0SEp4VmlRYm92NXJfelBJMFVaNXpFV1k1NlRSdWYwSmZnOFlZcDR2YzBVZjk1ZGY5eldxUjZwWnlwRTFNTHFKaEVyblFUZm5ielYxT1o1QzhzZ1dzaXVPNA?oc=5",
+      "summary": "適時開示速報 プレスリリース 有価証券報告書&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-26T03:53:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "マツダ、小型オープンスポーツカー「マツダ ロードスター」を商品改良し予約受付開始",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lMGlSTUFjZmZ4NXlMT1Y0c3BtVjhyZnFnMmlNLTJQWkd5VExMQTJ6bWhRT2kxcW0wQndlNmgxMnVTWi01cC1kYVpPSzRXRWxSdDNqblI2aERHbGkxX01sWGJBQTA3M0R2WFZEVA?oc=5",
+      "summary": "マツダ、小型オープンスポーツカー「マツダ ロードスター」を商品改良し予約受付開始&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-26T03:21:25Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "中国、新エネルギー車の平均車齢1.8年",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14TFg1T2sybC01RG81V002NzlkeVlLbG5GdjN1SDBLbkJxeDZKaV94eVNpb1V2WTBpckhZYnpfYllsNFM1WVl5V3c5QlZ4VmphVTg4dGRxWmJQUXNnb056Tnk5SGpNdElPb1FSOQ?oc=5",
+      "summary": "中国、新エネルギー車の平均車齢1.8年&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-26T01:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ヤマキ「だし巻き卵の素」好調 レンチンの利便性をパッケージで表現",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01394/00006/?n_cid=nbpnxr_rss",
+      "summary": "ヤマキ「レンジで作るだし巻き卵の素」の2025年度の売り上げが目標の3倍以上と絶好調だ。卵をパッケージに入れて電子レンジで加熱すると、だし巻き卵が簡単にできる。成功した理由は、過去の経験の積み重ねにあった。",
+      "published_at": "2026-06-26T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "『メタルスラッグ』30周年 多世代で挑む「ミッション リブート」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00069/?n_cid=nbpnxr_rss",
+      "summary": "SNKのアクションゲーム『メタルスラッグ』が1996年のリリースから30周年を迎えた。同シリーズはリブートに向けて新作を準備中。その前段階としてグローバルでのマーケティングに乗り出している。コアメンバーは20代、40代、60代と多世代で構成。今後の展開とシリーズのリブートにかける意気込みを聞いた。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ハウステンボスでエヴァ始動 世界的ブームの“ライド”仕掛ける台湾企業",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01413/00001/?n_cid=nbpnxr_rss",
+      "summary": "ハウステンボスが2026年4月から始めたアトラクションが話題だ。モーションシミュレーターの一種である、「フライングシアター」と呼ばれるアトラクションに分類される。国内を見渡すと、例えば東京ディズニーシーは19年に「ソアリン：ファンタスティック・フライト」をオープン。空中散歩を楽しめるアトラクションと聞けば、「ああ、シーのあれか」とぴんとくる読者が多いのではないか。このフライングシアターが、現在、世界的なブームになりつつあるという。その注目すべき魅力を、テーマパークに精通する専門家が解説する。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "トップデザイナーに聞くカルビー「白黒包装」 色数よりシズル感",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01394/00005/?n_cid=nbpnxr_rss",
+      "summary": "カルビーの“白黒包装”など、ナフサショックで注目を集める食品パッケージ。色数が制限されるなど、デザインが直面する難局をどのように捉え、乗り越えるべきか。食品のパッケージデザインを多く手掛ける、グラフィックデザイナーの佐藤卓氏に聞いた。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ももクロ玉井詩織 フェスで感じた「曲がつなげてくれた絆」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00590/00046/?n_cid=nbpnxr_rss",
+      "summary": "「日経エンタテインメント！」での連載「ももクロ61分3本勝負」は、ももいろクローバーZのメンバーが登場する人気コラムです。日経エンタテインメント！ Webでは、その“延長戦”を掲載しています。本誌2026年7月号には玉井詩織さんが登場。延長戦ではももクロが出演した音楽フェス「JAPAN JAM」、そして玉井さんが南野陽子さんと共演した野外ライブについて聞きました。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "山田杏奈「この仕事をしている間はずっと先が見えない」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01313/00005/?n_cid=nbpnxr_rss",
+      "summary": "若手実力派として存在感を増す山田杏奈が、主演映画『NEW GROUP』で集団行動に立ち向かう高校生を演じる。デビューから15年、多彩な作品に挑む山田のモチベーションはどこにあるのか。25歳を迎えた今、先が見えない俳優業とどう向き合い、どんな価値観で役を選び続けているのか。現在の心境に迫る。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【7月特集予告】カンヌライオンズに見る広告新潮流、事例と理論で学ぶ「想起」の実践法、カインズの「デジタル戦略」大解剖",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00553/00055/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド7月の特集は世界的な広告祭の速報、先進小売りのデジタル戦略、ブランドの顧客価値の最大化など、注目テーマが目白押しです。毎年恒例の「カンヌライオンズ」特集では、現地仏カンヌでの取材から明らかになった、マーケティングの最新潮流をお届けします。「IT小売業」を標榜するホームセンター大手のカインズからは、次世代小売りのつくりかたを学びます。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "トニー賞 ブロードウェイの新陳代謝は止まらない（井上芳雄）",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00752/00072/?n_cid=nbpnxr_rss",
+      "summary": "井上芳雄です。2026年6月8日(日本時間）に第79回トニー賞授賞式が開催されました。その模様を生中継・ライブ配信したWOWOWのスタジオから宮澤エマさんと一緒にナビゲーターを務めました。今回は対象となる作品数が例年より大幅に少なく、製作費の高騰などで新作が作りにくくなった状況を反映しているという報道がありました。そんな「ブロードウェイの危機」を心配したのですが、授賞式を見る限り、新作はエネルギーに満ちていて、リバイバルも新しい解釈による斬新な作品がどんどん生まれています。ブロードウェイの新陳代謝は止まらないと感じました。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "中国で直面した「ポッキー」のブランド混在問題 STPは必要不可欠",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01416/00002/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月29日発刊（Amazonなど一部サイトでは6月26日発刊予定）の『マーケティングの真実 P＆G・グリコで学んだ失敗と成長の法則』から、注目トピックを抜粋。江崎グリコの中国支社に赴任した筆者は、旗艦ブランドをすべて「ポッキー」と認識している消費者の声を聞き、衝撃を受ける。このエピソードを基に、STPの重要性を語る。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "デニーズが30〜50代の女性ソロ客にリーチ あえて席数を間引く勝算",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02911/?n_cid=nbpnxr_rss",
+      "summary": "ファミリーレストランといえば、その名の通り家族で訪れるもの――。そんな定説を、デニーズジャパンが崩しつつある。同社が昨今メインターゲットに据えるのは、30～50代の女性層、その中でもおひとりさまだ。ファミレス御三家と称され、創業50周年を超えたいま、デニーズはどこに向かうのか。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「マーケターこそClaude Codeを使うべき理由 有効活用の「5ステップ」」【小売り】お薦め記事10選",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00958/00113/?n_cid=nbpnxr_rss",
+      "summary": "2026年5月に公開した記事の中から、有料会員の訪問者数（ユニークユーザー、UU）などを参考に、小売り業界の皆さんにお薦め記事10本をピックアップ！ 1位は「マーケターこそClaude Codeを使うべき理由 有効活用の「5ステップ」」でした。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "ユニーク",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アース製薬と塩野香料、売上大幅増に2つの共通点 技術を顧客価値で定義",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01392/00010/?n_cid=nbpnxr_rss",
+      "summary": "優れた技術や資産を十分に伝えることで、売り上げを倍増させている企業がある。アース製薬と塩野香料だ。アース製薬は、独自技術「MA-T」を軸に市場の捉え方そのものを再設計し、介護業界という難市場で事業成長を実現した。塩野香料は、自社の蓄積してきた独自調査を営業起点の提案ツールへと転換し、成果につなげている。分野もアプローチも異なるが、両社に共通するのは「価値の定義」と「伝え方」を見直し、事業として成立させるところまで踏み込んだ点だ。マーケティングを単なる発信にとどめず、構造そのものを変革した取り組みを追う。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "独自技術",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "軒先カメラが山火事延焼を防ぐ一助に 非常時に街を守る我が家の設備",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00105/00244/?n_cid=nbpnxr_rss",
+      "summary": "釣り船、井戸、軒先のカメラ。いずれも、平時には持ち主のレジャーや防犯のために使われている私的な設備だ。しかしこれらを、非常時には公的な資源として人命救助に役立てる取り組みがある。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ダイエット成功者の医師が提唱 “認知のゆがみ”を正せば勝手にやせる",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00341/?n_cid=nbpnxr_rss",
+      "summary": "やせたいのに、やせられない･･････そんな悩みを抱える人は多いはずだ。「ダイエットがうまくいかないのはその人のせいではなく、“認知のゆがみ”に原因がある」と語るのは、糖尿病や高血圧症、脂質異常症、肥満症などの生活習慣病の患者を担当してきた医師の工藤孝文氏。2026年6月26日に出版した新著『食事の我慢も運動も必要ない 勝手にやせる思考』（日経BP）は、ダイエットの本質に迫る一冊で、従来の食事制限や運動ではなぜやせられず、認知のゆがみを正せば無理なくやせられる理由やその方法を解説している。今回はその一部を抜粋して紹介する。",
+      "published_at": "2026-06-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "短命に終わった新ミーム株相場 個人投資家の意外な慎重ぶり映す",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54Qmk4S25iUGljaGEwNzA1VGhPd25lQnNGT0lzd3otQ1BacktUSm9hc19WSC1qVVF5SUs1UnloTkVYM3oxU1RieEhSaTN1Nnp2N0czZmpma3BNWmxRd1hqWmYwbEFtQjFZaHRlNg?oc=5",
+      "summary": "短命に終わった新ミーム株相場 個人投資家の意外な慎重ぶり映す&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T21:06:18Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "マクセルの中村社長、全固体電池「まずは産業機械向け開拓」",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejBRdXk0eldmRUdySk9oUmxwSHVGUDFrWlhFXzRwQ21ZZUtYaWJlVlRONnQxSWluQ011VnNxYTMzVmRWMHF4SGN1Vm4wVFplRGR6b0x5Uzc1R3ZISS0zcDdIcWgxS0NNUXQzSG1EVVkwZ0RUaENTcEdscFVDNGFIcFpCS1E3azlYc3pSWkswaERhRHJucU9jU3hfT0hhRUZYOVBZLUN3?oc=5",
+      "summary": "マクセルの中村社長、全固体電池「まずは産業機械向け開拓」&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "東和銀行前頭取「収益改善し成長を」 新頭取「リスク取り中小支える」",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQmxRRXpROU1pUk5EWDJrRDJVU2pEdXNWYUxWTm1ITXdkM2w1RFBCMTR2dDVQYktNd0x2VFdMZlVMR1QyZFBOM1hBOEJLdEZLYmdWTFJlcmNxUXp6aW94b3BWVFYxelpQLVZleG5qclpzN3l4dzNFbEhZRlJrTUUyNU14M183S2wyREpfQ1ROXzlyQWdGd0p3aUxKQjd5SE1OY1JvMXBn?oc=5",
+      "summary": "東和銀行前頭取「収益改善し成長を」 新頭取「リスク取り中小支える」&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ロイヤルホテル、客層拡大へ新ブランド続々 運営特化で期す再成長",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUJFQUhUNnRscXg0eEpuUGg2amdUYmk1SzVVeWdwWVQtU3kyd1Nyem9mZVNRUUZBWG9BTHRieDFWRlVLZ1U0R0t2d3ZhYmNCeUlXSzlsamNka21HdHk5ZGdDTnp2SHNGem9hNWlDVXl6a25BeTNVZUVYdUZyTTdsamN4QVF3RjlQNmhfZEFQSGtfc0JSV0ZoQ1B5a0lRLXdsMlRsQmpn?oc=5",
+      "summary": "ロイヤルホテル、客層拡大へ新ブランド続々 運営特化で期す再成長&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ファミマのコラボ・コーラ「飾るために買う」、コレクション需要喚起",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzc3QlBfOHZQcVVIMmRrc3FjQjZOWlljSzdQOWM1Q2lNN0ZERHJOX3dRNWRjbW04NmJMdGpUUTNiZFdNdkNKeHNaeUZqRjhoa2dVMExyM2h6aXlrUGhBbHBaeVVVUWVoN29KY3Boa1haYnBka3F3VXNhdWsxSldGUFJJckFRVHZ6cmxvRHlVOG00TGJWT2NTaA?oc=5",
+      "summary": "ファミマのコラボ・コーラ「飾るために買う」、コレクション需要喚起&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T20:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ロイヤルホテル、客層拡大へ新ブランド続々 運営特化で期す再成長",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95QWp4cWdGYjY4enk5SzdFRkh4dG5XUjhMenhqdG5FNnhDUmN4TGhCd0ZWUUVsU1BQdW8wby1heFFTVzVsSUZhY1pKNnRsaUNIWTFReVVIMVNfZ1BhU3ZQM21jUUhIVjN3X2RmOA?oc=5",
+      "summary": "ロイヤルホテル、客層拡大へ新ブランド続々 運営特化で期す再成長&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "エネ多角化の新計画 原油調達分散や原発活用 首相指示へ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVJS2xQa01zeDRxemJEYnlMblBZRy14OG1KSWhhWXdsZ1FySThucmFqa3FJcEwxNkhYX2QtQTFaNC1yQzNONzZGMkJ0RzJheUhST0xWMW92WGFOalQ3R3RhblU1aXBSYnAxTmVpRDR0LXBfbjBQN1JCOVRNQkRWQ0djS3c5aWpRTi12VHVhckt3NzdYTVBfY1dYMHdpckVHaEV2VkpB?oc=5",
+      "summary": "エネ多角化の新計画 原油調達分散や原発活用 首相指示へ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:15:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "（人事・保険）フコクしんらい生命保険",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmtIcFl1cGEydDMzTnJ0WkFuSUNUbTlHcHlveElXVjFKMjdpeXdiN3B2YTBwLTRiRW9QcUtuaHlFVTRZazNoY3FQUG93bGVMTFFfTWlGMGcxUi0tX01JUnFPcVB1UkpxQjdGX29Obld2aVhTUVN4N0RXLVJudEdEaG1LTjZDaDAtVDFjbjhvMHlaUG11N2d4OEZmNl9EUUJsbC1GcGRR?oc=5",
+      "summary": "（人事・保険）フコクしんらい生命保険&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:08:28Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "（新トップ）東京金融取引所社長 山下伸一氏",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOE1IckJZQ2UyUDNwM2gxMXNscHdhNy1zN3lNdDNqOUtuWFg4dDhDVUlzRkVSbkFVVUUwZ2ZUcXloMktsaE91VWktWTQ2S09yQTU3akZHam92NmFZVzFoZ3dmWWJNZ3ZxY0g3QndZZWlmNWNNSm5nOVNiWk1aSUYzVkpYVWJwM2pkVUhnR2ljdFhkT3MtcUNqeEVOcWJtZ1lzSEVucU9R?oc=5",
+      "summary": "（新トップ）東京金融取引所社長 山下伸一氏&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:08:26Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "安土桃山ルーツのタマノイ酢 ブーム引き寄せる創造的保守",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVG1MUEh5SksxSGh4Sk9UZG1OVzFyTVVhUXZZUkFJeXB0bnQ1RU5Xc21CZDRUMm5KblRUMC1LREthOENHY1pRcDEzRDZPQVhiMkpMaUk3UUhiUWNkakdMYW13OUpTMTN6WmU2VGZMbmJtQlpjbGdRUkthaXhvUDBRVU9FX0dYc3owZGxVQmhDU2ZSOEpGNVlZRWFrRFJrb3dONlpWc3RR?oc=5",
+      "summary": "安土桃山ルーツのタマノイ酢 ブーム引き寄せる創造的保守&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:08:25Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "OTC類似薬、がん・通年処方は追加負担「対象外」 厚労省が案提示",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0l5MnhNZVVJWFJTd3FrdGppcGF3aWgwaVp3emstSUJlQ3pXczJNOEloTVVpdXZYQmkxMWJLaGFIMGlXU3gwZU9iQ3NrU21ob3pwLVRsRzUtZnFKcVpBN1E4eldYTXpHWHFjazkxdXRnT3I0enZJTWtSNWxJRkZqVnhiVXp6aTl2WTMwZVZjM3RrQnpicUpCcDhZYmZvb2xQRmRvRkpn?oc=5",
+      "summary": "OTC類似薬、がん・通年処方は追加負担「対象外」 厚労省が案提示&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:08:23Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "富裕層マネー、国内循環狙う ユニゾンが新ファンド 中堅・中小を買収 産業再編促す",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOalRJYUxXR2l1SHQtLUZ5b1ZOa3lnQXU3WDF6d3FURWJyOVdCNGNMNUUtWGs4aEh3b05ZcW85dkxhWWRDQ2xlSlF1WURlVjRfVTdxZWpIREt1RjREUldBeVBRaHNVOXdPTkRaZ0wtc0Q2Njl0eFQ1WjkxcnM0LUFSLUpxRmNXcjlIV3J3cWJrWUxkVTBkdkNGQTFQU1V1dk1IeGZidVNR?oc=5",
+      "summary": "富裕層マネー、国内循環狙う ユニゾンが新ファンド 中堅・中小を買収 産業再編促す&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:08:20Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "グーグル手数料下げ アプリ事業者向け25%に",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1Q4TGthbk1iV0NUYmdXVV9RelgtSjNFZC1sN3ladWdNaDdSNlIwTG1oUEFfS0lIOXRiZWYxVm1STXJ4UzQzRUl5WWo2LU4wNGNGdGQ3YjVLdlpJMkt1dU90eVBZekNQdVdNaGhTYlNTa25RdGFoMGo4MU1SeGFHOTdOT2xQa1Jab08wd1c0bEkyWVRJb1BuR2RJaFUwUzFmRnR0ckJR?oc=5",
+      "summary": "グーグル手数料下げ アプリ事業者向け25%に&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:08:20Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "低温物流 熱おびる投資 AZ丸和、埼玉に大型倉庫 冷食市場の成長にらむ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOV9oOExNcU91UkRwVGlHWjNEYU80VERHMDhoZ2wzYmhmaGRfQzZCb0U1aUpqTE9TVVVlR1RqR1hvdWpnUm5qX2lzel9POHdKVHIxSFhadDFsUnN5VlU5X3lDZW15aDRjcm5VTjRjTHlpNHF3cmZPUXN5U2ZuRUZRaDZRN1ZRZl9jeUM4d3BGdVhURFN3bDFVSlNBOVVIZVZqUTB4TkJ3?oc=5",
+      "summary": "低温物流 熱おびる投資 AZ丸和、埼玉に大型倉庫 冷食市場の成長にらむ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:04:18Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "（人事・食品・アグリ）ライフドリンクカンパニー",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SVXl2TnVDN0NIcVdOV0V1SHAyY0FJQUxmS3pJOVk1b2N5Z0xjUE1SMFBVMUNXaWNPNW9nOVg4R0xUdHBrdzZwVWZXRlhtazlkR2tINktsSU9ETDU2cVBGQ0J1NXRkWGtmYUJRYw?oc=5",
+      "summary": "（人事・食品・アグリ）ライフドリンクカンパニー&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「外咲きソニー」が技術リレー 古巣から継承・独立、さらに進化",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jckFxeXBMTWdLM2lndi1ybjIteHRGTW8yZFMyb0JMX1RjQmpPdzJrQjg2dEFGVi1VUEFILUpVbXh4b0VyRHV1NGRKQ2hUeGR1MDQ5RWdPaEtQbVZraENBN2N0YU5tSG5SOE5iZg?oc=5",
+      "summary": "「外咲きソニー」が技術リレー 古巣から継承・独立、さらに進化&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "テーブルマーク、幼稚園にアレルギー対応の冷食 豆乳カップケーキも",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjFRamFpeUxYS2NjYW1CSmVhYVU2OUtnSUUzUkZUTGhRQmNVcHRFU0FaSkxnWGQwZzJrOTB5RWMyWjhRSEsyVXduNm9Fa1ZZNXA1cE1JR09aeDQwWTQ5WnMzMVcxbHBqSl9iQU9rMW45Y2xyRUFLUlRmYnF6UTZxc3JmaUxtNnY5ZS02WG1HcnpZbkJlZWFidUhR?oc=5",
+      "summary": "テーブルマーク、幼稚園にアレルギー対応の冷食 豆乳カップケーキも&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "任天堂が新開発拠点 29年3月に完成 建設費1210億円",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51eVh6MWVMTGVvcmx1d0RWeTJfWUF4SmZDd09YSXJQMU9VMjJUQnBqdmI0TkZHckVRRzM3UC1tWGt0aDZfRi1zWlJLSHRtRWZ4cklDRl8ySGhKRjVQLVA1UW1sOHAzbjVKN29lNA?oc=5",
+      "summary": "任天堂が新開発拠点 29年3月に完成 建設費1210億円&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T17:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ヤマキ「だし巻き卵の素」好調 レンチンの利便性をパッケージで表現",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVpLTUkwQkMxUHZqRDFUVklrSjZBcnNJYnRhaTZKTVV2clhpVC1CTEVQSEtsWFlBMktBR2p6RlZXNWdGU0ZVNDVBbmdPTXhsaUVWT0d1MzdzamxCRmNJc3AxQ2tyV3FuVkM1dEtraE5GT1RCUUdjdHhzNlNMcVZ6YW5RMXBFNjYxUHMw?oc=5",
+      "summary": "ヤマキ「だし巻き卵の素」好調 レンチンの利便性をパッケージで表現&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-06-25T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "トップデザイナーに聞くカルビー「白黒包装」 色数よりシズル感",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52Si10d3Z2T0gzaE42Mmd2MGNwY3FWaFhJcng5cUxHTzY4VHlkYy04T1Fld2pkbTNFS2RqNzRBSGhxdEdKZ0tEdndFd1cxVWRrOEh4ZGFNMUdxU0ozNVRKYlZwU0xtZw?oc=5",
+      "summary": "トップデザイナーに聞くカルビー「白黒包装」 色数よりシズル感&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-06-25T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "1位は「マーケターこそClaude Codeを使うべき理由 有効活用の「5ステップ」」【小売り】お薦め記事10選",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZZVRaYUViX3lkM1dSR3ltdzdCNFowNkJZR1R5bFAxdEdYT0Q2TnZpLXJ6cERBZmtRZVF4VEhuVVNoeTlGd1NCSElmWlItYzNlQjNPZGVCYldPS1RNM0J4N2M5SUpaQQ?oc=5",
+      "summary": "1位は「マーケターこそClaude Codeを使うべき理由 有効活用の「5ステップ」」【小売り】お薦め記事10選&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-06-25T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "デニーズが30〜50代の女性ソロ客にリーチ あえて席数を間引く勝算",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zaVB6RmVCRXRTQjBwdDJhRTExRWl1VC1oTkxkZXZXQkxiM0k1cnhYa3hBSFh2dGVYVmw5clZFX1ZDOFF3WnB1RXFYd3lPNHN1Tk5lM3p3VWtNMGhnYkxHMzhIdThvLUFONmc?oc=5",
+      "summary": "デニーズが30〜50代の女性ソロ客にリーチ あえて席数を間引く勝算&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-06-25T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "アース製薬と塩野香料、売上大幅増に2つの共通点 技術を顧客価値で定義",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IY0tYSHQ4a050bjdWLTdyNHI3bEY3Ylo2SmtiOGo5blIyRmZ4Rk9lNVN0OVlaTUpzdl9sa2Z3TjNGV3R2S3BhMGFqOWttXzhWZzdZdkJGR0lBM0F5Qm95WS1wTW5qZw?oc=5",
+      "summary": "アース製薬と塩野香料、売上大幅増に2つの共通点 技術を顧客価値で定義&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-06-25T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "トニー賞 ブロードウェイの新陳代謝は止まらない（井上芳雄）",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBobkxKMUhNdlFUNmowT3Vicm11MVpUdEZNcE5WbER0SWY5NHMzTFE0NWpQNm5nNW9YSWlTeG0zWGhZRlVIbThkNXB4anNIRkphZVM0OUVwLWpqNEZNMEU4a2h4Z25vZw?oc=5",
+      "summary": "トニー賞 ブロードウェイの新陳代謝は止まらない（井上芳雄）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-06-25T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "中国で直面した「ポッキー」のブランド混在問題 STPは必要不可欠",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsamotOGxDOF9CQ0w0SmVwazZpeG9ucDhMWDE4VUVwVjhQeFE2NkxxRkwtT0Fua1g0WW9sU05TankteUN5STJIOWRWQTQ3eU9EMmtHb0R0ekx5R21UcC1RRjRGN2hPZw?oc=5",
+      "summary": "中国で直面した「ポッキー」のブランド混在問題 STPは必要不可欠&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-06-25T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "6月25日の商品主要相場（紙面イメージ）",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SYm90ZW1vMGRZSXU1b01OTGdDMU0zTEUta083cmxOUWp4WXpFQ1ZlUmRhM2w1bmRrcFV2OGRtS3FHc1p6bmRIbWxmSXhtMjJ6SldoUEhRY2VoTW5GcER0QV8yMEd3Y2FjVGhLRw?oc=5",
+      "summary": "6月25日の商品主要相場（紙面イメージ）&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T11:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "決算:長野・オリオン機械の26年３月期、純利益12％減",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfR09salY0MDVnekxOV2RUNE5meGNwSkF0OVg1TTJlejdLRVc3cG10SndhRzBMOFVDTVMwYjJjVjZ4QmpkVDJQaXhzMzBqWEtHR3EwNzFQa3p1MEdkWjZULWRvVTNBSFp6clhzcg?oc=5",
+      "summary": "決算:長野・オリオン機械の26年３月期、純利益12％減&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T11:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "USBメモリーとは 機密システムに根強い需要",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1heTNIV1Axa2ItVEl2Qm1EdkpMRHZGV1g2NEdadGRNb0FQNVZOcHltV1hKSWJhdVVkSWtta3laejhCWEN1S1dRclNBTG1hemVvdXBkREJJVUtGWnlwcndjT1o1R1FWYzRxN0FNNw?oc=5",
+      "summary": "USBメモリーとは 機密システムに根強い需要&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T10:44:56Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "象印、27年園芸博でスタッフらにマイボトル提供 1万4000本",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xX3ZfTGsxMnhDeFdNMjNBSTJQaWp3dEo4R2hMRHk2cVBrbmxtWWFCN29vbVZkVEd0QUVJd185aF9NeFg3eUNzeWNoV3czUWFJYUVVNkxlaVltdkw2M0Z1S09EUVhXNTg4VWxSRA?oc=5",
+      "summary": "象印、27年園芸博でスタッフらにマイボトル提供 1万4000本&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T10:37:06Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "エネルギー多角化の新計画、首相指示へ 原油分散調達や原子力活用",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96MmJpVzBRWHlpTWpHNU5XOEJLdmFNUTh3amZSQWlHRExNMU9pM1Nyb0xnVVdVWmV1SFE4Y2Z6dk53WVFFR0QzRlFOR2cwNjQzalN2SWpoVFh4M0k3X2s1ZVVPSi1vN29IUWxUZg?oc=5",
+      "summary": "エネルギー多角化の新計画、首相指示へ 原油分散調達や原子力活用&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T10:32:53Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ANA、上級会員扱いクレカ「SFC」特典の改定内容見直しへ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2hLczRQMEhGQW5iYjJSZHc1V2xEbVBIalZKNEtZTUZEVWxRR1J1ZFdQSkRHTmNsUFliY1VoWEpmQXpiUFpsZ2FBRTFMUGFDMktIOUwtVUJYSU55Rk91cUVFNTlqeDlRaEthbWRxcE1uZXNfOEhGcTZScWRUOUpkRl9ZZXIyTjVnNXIxSG5JbGJnWHc1ZWFYSEJkRE5uQi1tTExKYWtn?oc=5",
+      "summary": "ANA、上級会員扱いクレカ「SFC」特典の改定内容見直しへ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T09:58:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ナッツ卸の谷貝食品社長に地頭所紘一氏 ハークスレイ子会社",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82QnpnOXMtZFZFQmlVX19rY0VZMXVOUTFvUzhFTHBCTzVtTzFnQWk3VkF4UTBEalpGWUVDaGN6WENLbF9JSGR3R2xqaGRXQXNIdm43eWtkb2xpVGJyTlVpQmxNSVIyTzJtOUE0Yw?oc=5",
+      "summary": "ナッツ卸の谷貝食品社長に地頭所紘一氏 ハークスレイ子会社&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T09:51:02Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "サッポロ、ビール仕様に 第三の「GOLD STAR」",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYlpja0xya3V5dk5DY1ZUdHQ1VXBOcy1TNmRyVEd4YWc3WTV4V3JKLWdPcDJlOEI5VGRLVWpNUW04UTFjU282Yzh1OTdaODZabDVac01tRlhCSHkxQjJWQThnb3JZem1RTEhyYnktMjQwVXdMN0hzaEJYY2FRQVh4T1pIVWF2Qk5WY3RTX0ZTcHFNZlRVM0hHdUpLYVA2UUFhT1NER25B?oc=5",
+      "summary": "サッポロ、ビール仕様に 第三の「GOLD STAR」&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T09:36:29Z",
+      "is_s_plus": true,
+      "s_plus_reason": "仕様",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "新来島どっく、26年3月期の税引き利益46%増 円安が追い風に",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTzk4RUpSMEFCb1k0bXlKVS1jR1g4ZHF3cy1USmhHbVNoWkRWdlUtdFVuU3V5OVdpMElKT3QwRWdBNHhEdFR5RW9aU002enZiZDVFcHdWdDdaVzdGNG1fSHc5dXp1dmpmRnR5NmZHRHVBaWJzVmlVRC1YckYtRDduX0dVVm5KSXNTMDlUMDFOWWYySzJxbGt4cS1vMDFxUktDci1iR2Zn?oc=5",
+      "summary": "新来島どっく、26年3月期の税引き利益46%増 円安が追い風に&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T09:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "決算:新来島どっく、26年3月期の税引き利益46％増 円安が追い風に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ubmxTWS1UcTBtTmNSZXVuWnZTUkQwRWY0U01ZY2xGb1NqU3ZEUE1ITzNPSS15eE1iTVdOYWNzOEt5NDNLR2tFT2FYMHFidUhRd1pzVm9GNUVFRXdCTmo4NXk3UVJlMWpMcGZZNw?oc=5",
+      "summary": "決算:新来島どっく、26年3月期の税引き利益46％増 円安が追い風に&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T09:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "JR西日本、新幹線車掌の接客力向上にAI アバター相手に研修",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DaW5jamFRRUNUYjlSUHJuSGlRWmM4NmxuWEVEVWxXcXJLODRETS01TjRYYUcteHNhZlpnbjhRZTRvMHF6SG9qNURHSzlIYzI4VlM5V2tHY05PSEdFY295emo2RnVvY21pN1ZqVg?oc=5",
+      "summary": "JR西日本、新幹線車掌の接客力向上にAI アバター相手に研修&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T09:24:40Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新技术",
+          "icon": "⚡",
+          "color": "#0891b2",
+          "score": 1
+        }
+      ],
+      "primary_category": "新技术",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "人事、中山福",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBISUQ5LVc5Vmg4bGhiLWU4ZURfRk1GejVlSkVrZTRyQ2FQRjBiRnRfUDFTTjk4SWRQREIxZEd1dldmS1Jnb3YwamtJcGN2OG55NjVfRVhQemJEVENCN0NxcDVrTWlwZERlMC1mRQ?oc=5",
+      "summary": "人事、中山福&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T09:05:30Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "武田薬品、キム新CEO流改革で筋肉質に 「AI活用の最先端へ」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnTDVZWnl4Q3BieDA5bEFvdU1qeFFKUGdNNFcwLWVoa2p0VU5rU0FYaW1aNE83MElaM0xDdmtLUGZXOW1JS2N1YXR4TjN0aVhiODZXMk9jOFUwQnprZm03WXRLRS1tMVMxLW43SQ?oc=5",
+      "summary": "武田薬品、キム新CEO流改革で筋肉質に 「AI活用の最先端へ」&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T08:51:38Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "任天堂の新開発拠点、29年3月完成 建設費1210億円で京都の本社隣に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11QkVxY0RGR0hNVW1JMnFKYWI3R0trOE5CMXVkQ19LUUF1YjFhRHU1WnY5dFcwMUlkSVlwMWNyNGJXQmd0REpJTXBWSjFHLVFvOVhIcEgybzBnTjhhLTNGaEJLTm5xZFE1ZGdkSw?oc=5",
+      "summary": "任天堂の新開発拠点、29年3月完成 建設費1210億円で京都の本社隣に&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T08:25:26Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "Amazon配送のAZ丸和、850億円で初の低温物流倉庫 冷凍食品狙う",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhPajdYQkE5Y3BMVXkyUnFQeXNoOEl6SmUzWHJfQ21kMWhQRU9TTnc2UWZJQkRteEJ5d3BBNkk5ZTFGdlk1MEl5X09Uem1Yekg5MmtYVkNTYVdXRGNHMmxDTEg2dEtrQWViNjFTNFRJMkFtSk4xWVBsY0t3d0RUb0NoM2FtUTJQSUFoOGJ4RVlmNm84VUdPV05sM3hBV29weWVTZUhR?oc=5",
+      "summary": "Amazon配送のAZ丸和、850億円で初の低温物流倉庫 冷凍食品狙う&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T08:22:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ニチレイフーズが千葉市と連携協定 動物園へ冷凍野菜供給",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFJ0OVlCYlZVWERKY0kyNW9lVmlsd1pMaHZYbVg0TV82QzJzV05GSmpZTHFjT0p3eWxKLVJwTDllb1dFR29uNGpYM0FOS2IzamlrWnhZU0kxRTVmSlFVME91R3JMWkY0dTNjUm5YYzdxZWpFRDdqTktoZ3M2S2ZrNldYUFNrYTdYR3h5MkFCaWNQLXFuTkFIZUc2RE9LN19vUFJ2WFZB?oc=5",
+      "summary": "ニチレイフーズが千葉市と連携協定 動物園へ冷凍野菜供給&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T08:09:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "フルフラットバスで「0泊3日」大阪弾丸ツアー 高知の旅行会社",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSEtwQnp1SUxyNkg3Z0NzdHZOQ3p1Zm80UUpwUmMzQnVGWVFubFY0NUlMclJsZ1BEZXc4VlVPX1VGYUZpY0N3QkdLakpoRmNHa2YxZE11TU1MNW03eW11RkxoNW9VNlhYd1kzNkEteUd6MUV0eGhpYXhJTlk3WklZNzgyZnFQaVc0eVNpODJzOEJHaU9DeVZRRnd1dF9Kb2JPY2pFaWx3?oc=5",
+      "summary": "フルフラットバスで「0泊3日」大阪弾丸ツアー 高知の旅行会社&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T08:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "弓削多醤油、素材と製法で差別化した醤油で勝負 海外も注目する木桶造り",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2eFVSUW11MVdUaV9ldGdkNmFJX2JPcTMtSTJyVWYyRXAyb2VBX2dtYzhDb3VJZDd1Tk1mZkZwWW9BbU9fc1B1YjlHakJwNFJ5VlRYcFB2elhEN2s3anEzM3hVOW1hTDA4QXBudFFhTThsSkpq?oc=5",
+      "summary": "弓削多醤油、素材と製法で差別化した醤油で勝負 海外も注目する木桶造り&nbsp;&nbsp;日経ビジネス電子版",
+      "published_at": "2026-06-25T08:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "敷島製パン、「ホイップメロンパン ジャージー牛乳」を関東・中部・関西・中国・四国・九州地区で発売",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KdHZrUzJiY1lRcmowRFlBSzdrWlN3SG5uYjlKS2VQRUpudFVMdThIRUlqT3hHVmVUT0JuR2hLWmg0OEpMTl80cEFKaFZwcW5vLW5yVndGMUt5NVI0UTdCR0NfSTVIWTR0UDhNcg?oc=5",
+      "summary": "敷島製パン、「ホイップメロンパン ジャージー牛乳」を関東・中部・関西・中国・四国・九州地区で発売&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T07:59:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "堀場製作所、UAEの販売代理店買収 30年に中東売上高30億円めざす",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWEdwQjNxT1c3aThQX0hvRkRPdnA4dmd6MW42cmhkeUhPTDczVXJEcWl6a0wxTUI4djA0anRuM3VHUU9NcGphOTRzdldBbXo1ZkJjZzJmVVFPa0NoTlJ0NEZyX1JwT0xRRnhraTBmMVk0M3JOUUZPLXZFQUszSTF3a2lfMFVaaVYtRE5PVmpTdHhtN0lEUWVuaUZxcGdwYXZ2dXRQMi13?oc=5",
+      "summary": "堀場製作所、UAEの販売代理店買収 30年に中東売上高30億円めざす&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T07:35:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ラーメンの熱々スープ､10分で冷却 新潟･新越ワークスと東北大開発",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45OUV0ekkya3d5Ry1LSU1BWVRRaExPd2paZnZoZWJQcGNfM05aWkw0RWdQRnd5Wm9yeVNzYVZwN1kza2tCZVZNeHRtTmlPWnh5cHB6dlFoVTFWM3VVX1NCeWI0RHdkeE9TblRYZg?oc=5",
+      "summary": "ラーメンの熱々スープ､10分で冷却 新潟･新越ワークスと東北大開発&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T07:34:40Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "アシアナ航空、スターアライアンス脱退へ 韓国の空はスカイチーム1強に",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHBpVkh5SFd0SGw5aEUxSU5NRG1RVDliVXZHTUxzemttdVl6QVJ6Z0E5WFBpSzYydmt0cUhRbFFuMEREbEdMbFFuTG9jSTVLTWdfRXotckRlZUlfNllHTzNsNkR2bDNDblN2SVFYWFJUdE93WGJOVWE1MFVhLTJVMEtrb19IVFI1MkhWQ3kzRkRtcFU0TEVfeHd1SHRYUHY4NU5pYy1B?oc=5",
+      "summary": "アシアナ航空、スターアライアンス脱退へ 韓国の空はスカイチーム1強に&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T07:27:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "三菱自、クロスオーバーSUV「アウトランダーPHEV」を一部改良し販売開始",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UU3M2YWZ6dS1uLUwwWHYzWXdzaGROX2VkLUhsYjJmcVdycGhURXIzS1BGeDBQc1h0Q1lISlNDUVRaR1B3dGppSFJyNlFIa2czdnpqM1F3c3lubGJ4bHZ0bFBNSkJmVkVINVJVTw?oc=5",
+      "summary": "三菱自、クロスオーバーSUV「アウトランダーPHEV」を一部改良し販売開始&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-25T06:51:18Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
     {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
@@ -2088,6 +3558,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "外食7割、食品減税で打撃 日経調査 割高感増し、客離れ危惧 配達・持ち帰りを拡大",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RQVE2SEdmODMzZ0VRUUprUnNHcFIxRnRaSHJQRk0yS3JwdkdZUXRPSF9UUHplUU00ZEFrWU1WeWVRS1E5VlZod0ZlUzY3SWF1QURLNDhlUWdFZWhBRnRBam9IVEgwOWVzNHBkUg?oc=5",
+      "summary": "外食7割、食品減税で打撃 日経調査 割高感増し、客離れ危惧 配達・持ち帰りを拡大&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-23T17:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "ナフサ不足、福岡でも影響 リョーユーパン 新商品のパン包装袋薄く/マルタイ 麺結束、色テープ供給不安",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONjFJczlRNlRYMS02QzlTNWZVSnNSaHdfMkNTZ3VnMGFfc0VobF81dDBsSUUtd3pWWUdmdmFPM2QwbWtiUzBQZVo3a21vaWtGaW9YaWUySGhxbTJNeUZPUGJCZlZPaGM2MlgxeDNTYXdpWmRLOFVjb1J0NHhQS1RCUUtXQWxBeXA0MlhndXJqRi1TM2dJc1M1d3pxWC1IR3prOHc?oc=5",
       "summary": "ナフサ不足、福岡でも影響 リョーユーパン 新商品のパン包装袋薄く/マルタイ 麺結束、色テープ供給不安&nbsp;&nbsp;日本経済新聞",
@@ -2392,6 +3884,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "紀文食品社長に国松浩氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uRE9pNTFKRG9vNzF4d245SV9PRlMtSkk4V0lob2ttanlSSjh6eW41R3REdlRGX1ljOWhCV2d5VXlzRTE3aDlNVEc5QlJpaHJlVF9TMldJNzhHUmlOUWwxOERrRDBMbUllaHZiUQ?oc=5",
+      "summary": "紀文食品社長に国松浩氏&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-23T09:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "アサヒ飲料、「ウィルキンソン」で塩分入り炭酸水 熱中症対策に",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFEyeHRHNmRYQzZVT0FkNWlJRUZpY0VjcG1XbE5YeFg3Q3hiZGUwZjB3VU1TamNXTWdSMkE4c3owRnRJV29tM1BIOVFUNEV5UF93WExmMHdpb1VSdTU5Y0Y0QlpEU3lURkR2Z1pUbEhMLVZJYVlfWE5WbnpZUkgxdGtud0lHVlhQbTFUejFSWUJkeGdrRjBxZFhCNWYxenFRTFhtTEh3?oc=5",
       "summary": "アサヒ飲料、「ウィルキンソン」で塩分入り炭酸水 熱中症対策に&nbsp;&nbsp;日本経済新聞",
@@ -2496,6 +4010,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-06-25T12:57:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "日本スーパー協会「8月まで店頭価格上昇続く」 ナフサ高や食品値上げで",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WZkw5TklkOXJITkdGZ2RRRnF1NzVaVjd6QjRRaW9PdFp1ejdoWnIzOWI5WU95MEdHTE05aG5ZVEtLbXlqUEl0bTNaMUttcDF5akZtb3FqaXJ1bmJ6OWdUQlVRNVMxM19ObVhFcA?oc=5",
+      "summary": "日本スーパー協会「8月まで店頭価格上昇続く」 ナフサ高や食品値上げで&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-23T07:24:47Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -2966,6 +4502,28 @@
       "scraped_at": "2026-06-25T12:57:13+08:00"
     },
     {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ナフサ不足でパンの袋5ミクロン薄く リョーユーパン、裏面は色なし",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YYXFIMFJqazNCaEs5bEdySV9WOHRic1VydU1RSUlSdFl2cVRsNHJWdVUwOHRodjFmVDNDd2lBT0xPSmtRV3BWOWh3Tm5tcURnZzdiNTZwSmE3N2Q5WFMyZVpLdmJlMUJ0YmdZVw?oc=5",
+      "summary": "ナフサ不足でパンの袋5ミクロン薄く リョーユーパン、裏面は色なし&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-22T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
+    },
+    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -3074,6 +4632,28 @@
       ],
       "primary_category": "渠道新物种",
       "scraped_at": "2026-06-25T12:57:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "余るコメ、「特売」急増 5月、販売個数の85% 食品スーパー、高値敬遠で消費者戻らず",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45M3JSc0liTzNrYzRYb3VWYXFXS094ZFJ5RWxWQnV0NTg2RWhob1cybUNnTEYtSTR3Yi1jcGZpWTFIcGdLS2FlQWZ3TDhIOC1RR0E2UE9HSjBSYk5ib3FlRmE4WU1taEhYaDhRNw?oc=5",
+      "summary": "余るコメ、「特売」急増 5月、販売個数の85% 食品スーパー、高値敬遠で消費者戻らず&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-06-22T17:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:18+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5474,6 +7054,122 @@
       ],
       "primary_category": "品牌故事",
       "scraped_at": "2026-06-25T12:57:25+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Judge blocks states from excluding soda and candy from SNAP",
+      "url": "https://www.fooddive.com/news/judge-blocks-state-waivers-snap-restrictions/823623/",
+      "summary": "A federal district court ruled that the USDA exceeded its legal authority when it approved five state waivers barring participants from buying certain foods through the food assistance program.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-06-26T13:02:31+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Sazerac launches 3 canned cocktail brands to reach young drinkers",
+      "url": "https://www.fooddive.com/news/sazerac-rtds-spirits-hard-cream-soda-whiskey-lemonade/823631/",
+      "summary": "The Fireball and BuzzBallz owner is introducing two whiskey lemonade brands and a hard cream soda to capitalize on demand for spirit-based cocktails with big flavors.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-06-26T13:02:31+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Heineken taps JDE Peet’s executive as its next CEO",
+      "url": "https://www.fooddive.com/news/heineken-taps-peets-executive-as-ceo-Keurig-dr-pepper-beer-alcohol/823492/",
+      "summary": "Rafael Oliveira will leave Keurig Dr Pepper for the beer giant, which is navigating a challenging economic environment and slowing alcohol consumption.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:31+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How Modelo wants to win younger consumers",
+      "url": "https://www.fooddive.com/news/modelo-young-drinkers-nonalcoholic-qa/823446/",
+      "summary": "After launching its first nonalcoholic drink, the beer brand's vice president of marketing says it is “no longer defined by a single segment.”",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-06-26T13:02:31+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nestlé ups automation use with latest distribution center",
+      "url": "https://www.fooddive.com/news/nestle-ups-automation-use-with-latest-distribution-center/823399/",
+      "summary": "The 700,000-square-foot facility features the Hot Pockets maker’s largest automated storage and retrieval system and is part of a $25 billion investment plan.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-06-26T13:02:31+08:00"
     }
   ]
 }
