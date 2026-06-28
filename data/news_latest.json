@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-28T15:54:46.246756+08:00",
+  "last_updated": "2026-06-28T18:58:47.989485+08:00",
   "retention_days": 7,
-  "total": 517,
+  "total": 519,
   "sources": [
     "BevNET",
     "Fab News",
@@ -41,6 +41,54 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "9b8f88e5b71efe60",
+      "title": "〈こだわりのヒミツ〉日清オイリオグループ「日清こめ油ドレッシング」 こめ油×こめ酢のハーモニー",
+      "summary": "素材にこだわり、ベースとなる食用油には人気の「こめ油」を使用。食用酢には「こめ酢」を配合し、おいしさと健康感、素材感を大切にやさしい味わいのドレッシングに仕上げた。和風と焙煎ごまの2種類。 ソース",
+      "url": "https://shokuhin.net/152330/2026/06/28/himitsu/",
+      "published_at": "2026-06-28T18:30:57+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b30a5e9e5c0754c6",
+      "title": "25年の缶びん詰国内生産量 原料悪化、コスト高で減産",
+      "summary": "日本缶詰びん詰レトルト食品協会がまとめた、2025年（1～12月）の缶びん詰国内生産量は185万t（2億9972万箱／実箱）、前年対比3.1％減となった。このうち、飲料缶詰を除いた一般食料缶びん詰は20万t（2881万 […] ソース",
+      "url": "https://shokuhin.net/152303/2026/06/28/topnews/",
+      "published_at": "2026-06-28T18:30:18+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "509f26e06174c1e8",
+      "title": "メロンが旬！コンビニフラッペのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニフラッペ」の最新・注目度ランキングです♪（2026年6月26日更新）食品クチコミサイト「もぐナビ」に投稿された…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22849/?utm_source=rss&utm_medium=mognavinews_20260628",
+      "published_at": "2026-06-28T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "eb35391c2a1aea24",
+      "title": "今週新発売のたまご味まとめ！『マフィンサンド　ハムたまご』、『ハムたまごドーナツ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！たまご味の新商品情報をお届けします。今週新発売の#たまご味ローソン マフィンサンド ハムたまご人気の具材ハム・たまごをはさんだ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062808/?utm_source=rss&utm_medium=mognavinews_20260628",
+      "published_at": "2026-06-28T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "183db5edfe45c2ea",
@@ -6197,30 +6245,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "533a95648ff242a1",
-      "title": "１位は発売前のアレ！マンゴーアイスのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「マンゴーアイス」の最新・注目度ランキングです♪（2026年6月19日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22486/?utm_source=rss&utm_medium=mognavinews_20260622",
-      "published_at": "2026-06-21T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "c4661d74eeb28f05",
-      "title": "今週新発売のセブンイレブンお弁当🍱まとめ！『銀座デリー監修バターチキンカレードリア』、『割って食べるふわとろ　玉子のオムライス』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンお弁当の新商品情報をお届けします。今週新発売の#セブンイレブンお弁当セブン-イレブン 銀座デリー監修バターチキン…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062108/?utm_source=rss&utm_medium=mognavinews_20260622",
-      "published_at": "2026-06-21T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
