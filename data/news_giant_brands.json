@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-28T13:11:22",
+  "last_updated": "2026-06-29T13:23:42",
   "retention_days": 10,
-  "total": 277,
-  "s_count": 18,
+  "total": 279,
+  "s_count": 19,
   "a_count": 2,
-  "b_count": 257,
+  "b_count": 258,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -34,6 +34,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "夏に飲みたい！宮崎産日向夏の爽やかな酸味と飲み心地 「キリン 氷結&reg;無糖 宮崎産日向夏 ALC.7％（期間限定）」新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0629_01.html",
+      "published_at": "2026-06-29T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -253,6 +264,17 @@
       "summary": "",
       "level": "A",
       "level_reason": "常规新品/营销"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.29湖池屋「湖池屋ストロング」フルリニューアル&新CM公開記念キャンペーン (6月29日より実施)",
+      "url": "https://www.nissin.com/jp/news/13802/",
+      "published_at": "2026-06-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Asahi",
