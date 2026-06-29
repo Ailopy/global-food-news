@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-29T17:03:28.205609+08:00",
+  "last_updated": "2026-06-29T20:57:28.682766+08:00",
   "retention_days": 7,
-  "total": 506,
+  "total": 501,
   "sources": [
     "BevNET",
     "Fab News",
@@ -41,6 +41,30 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "6cb37e204172321f",
+      "title": "GEM launches GEM Daily Bite, bringing whole food nutrition to the vitamin aisle",
+      "summary": "New product delivers broad-spectrum nutrition in a convenient bite-format built around recognisable, food-based ingredients and sustainable sourcing principles",
+      "url": "https://nutraceuticalbusinessreview.com/gem-launches-gem-daily-bite-bringing-whole-food",
+      "published_at": "2026-06-29T19:16:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "8ea3f941f56a0754",
+      "title": "ミキサードリンク、日本発の割り材文化を次世代へ　缶チューハイとの差別化や海外展開に期待",
+      "summary": "一般社団法人全国清涼飲料連合会(全清飲)は6月26日、全国ミキサードリンク協会とともに記者向け説明会を開き、日本発の「ミキサードリンク(割り材)」の歴史や価値を紹介した。缶チューハイ市場が拡大する一方、焼酎や炭酸水、シロ...",
+      "url": "https://www.ssnp.co.jp/beverage/691319/",
+      "published_at": "2026-06-29T17:15:21+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "0300dec81c698730",
@@ -6005,90 +6029,6 @@
       "category": "综合",
       "level": "A+",
       "language": "en"
-    },
-    {
-      "id": "3a32af4cd41a6cb9",
-      "title": "Health Canada authorises multiple skin health claims for OVOLUX",
-      "summary": "Stratum Nutrition is pleased to announce that Health Canada has authorised multiple skin health claims for OVOLUX, the company's innovative eggshell membrane ingredient for beauty-from-within…",
-      "url": "https://nutraceuticalbusinessreview.com/health-canada-authorises-multiple-skin-health-claims-for",
-      "published_at": "2026-06-22T19:58:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "036bb150928dcd3f",
-      "title": "Fi Europe 2026 opens registration with new Pet Food and Nutrition Forum in Frankfurt",
-      "summary": "The 17-19 November event expects 1650+ exhibitors and 27,000 visitors, spotlighting GLP-1's impact on food innovation, healthspan and gut health alongside an expanded pet nutrition programme",
-      "url": "https://nutraceuticalbusinessreview.com/fi-europe-2026-opens-registration-pet-nutrition-frankfurt",
-      "published_at": "2026-06-22T19:02:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "0e59269cf259a8af",
-      "title": "健康に！美容に！トマトジュースのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「トマトジュース」の最新・注目度ランキングです♪（2026年6月19日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22519/?utm_source=rss&utm_medium=mognavinews_20260623",
-      "published_at": "2026-06-22T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "fcfe57b5d464a665",
-      "title": "健康に！美容に！トマトジュースのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「トマトジュース」の最新・注目度ランキングです♪（2026年6月19日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22519/?utm_source=rss&utm_medium=mognavinews_20260622",
-      "published_at": "2026-06-22T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "390f26bb9929c16d",
-      "title": "Sun Pharma acquires Innovcare Lifesciences to expand nutraceutical portfolio in India",
-      "summary": "Sun Pharma will pay $28.73m for full ownership of Innovcare Lifesciences, broadening its OTC, nutraceutical and cosmeceutical offerings as India's wellness sector grows",
-      "url": "https://nutraceuticalbusinessreview.com/sun-pharma-acquires-innovcare-lifesciences-nutraceutical-india",
-      "published_at": "2026-06-22T17:53:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "ad68dee766c5dbfb",
-      "title": "今週新発売の塩◯◯まとめ！『ミニ濃厚チョコブラウニー塩ミルク』、『エリーゼ　塩ミルク』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯ブルボン ミニ濃厚チョコブラウニー塩ミルク 袋106gチョコレートのおい…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062208/?utm_source=rss&utm_medium=mognavinews_20260623",
-      "published_at": "2026-06-22T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "339640d36b4944a9",
-      "title": "今週新発売の塩◯◯まとめ！『ミニ濃厚チョコブラウニー塩ミルク』、『エリーゼ　塩ミルク』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯ブルボン ミニ濃厚チョコブラウニー塩ミルク 袋106gチョコレートのおい…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062208/?utm_source=rss&utm_medium=mognavinews_20260622",
-      "published_at": "2026-06-22T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
