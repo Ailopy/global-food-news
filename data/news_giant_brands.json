@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-29T13:23:42",
+  "last_updated": "2026-06-30T12:57:19",
   "retention_days": 10,
-  "total": 279,
+  "total": 287,
   "s_count": 19,
   "a_count": 2,
-  "b_count": 258,
+  "b_count": 266,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -266,11 +266,99 @@
       "level_reason": "常规新品/营销"
     },
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「メルシャン・ワインズ カンティアーモ パイナップル・フィズ」「メルシャン・ワインズ カンティアーモ マンゴー・フィズ」を7月28日（火）に新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0630_02.html",
+      "published_at": "2026-06-30T02:00:10",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「Decanter World Wine Award（デキャンタ・ワールド・ワイン・アワード）2026」にて「シャトー・メルシャン 山梨甲州 2023」が金賞を受賞",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0630_03.pdf",
+      "published_at": "2026-06-30T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "2026년 6월 신제품을 소개합니다Food2026.06.30",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/108",
+      "published_at": "2026-06-30T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
       "title": "2026.06.29湖池屋「湖池屋ストロング」フルリニューアル&新CM公開記念キャンペーン (6月29日より実施)",
       "url": "https://www.nissin.com/jp/news/13802/",
+      "published_at": "2026-06-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.29日清食品「日清謎うなぎ丼」(7月13日発売)",
+      "url": "https://www.nissin.com/jp/news/13801/",
+      "published_at": "2026-06-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.29日清食品2026年7月発売商品のご案内",
+      "url": "https://www.nissin.com/jp/news/13798/",
+      "published_at": "2026-06-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.29日清食品チルド「チルド 日清焼そばU.F.O. カップヌードルシーフード味焼そば 2人前」(7月1日発売)",
+      "url": "https://www.nissin.com/jp/news/13799/",
+      "published_at": "2026-06-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 전통 수제방식 살린 ‘비비고 김부각’ 3종 출시… “건강스낵 시장 공략”2026.06.29",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1782",
+      "published_at": "2026-06-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "조선비즈[인터뷰] 말차·들기름 햇반은 어떻게 탄생했나… CJ 마케터·연구원이 밝힌 '이색 즉석밥' 개발기",
+      "url": "https://biz.chosun.com/distribution/food/2026/06/29/VHIUA5QVWBCTTGT5T5VZEMVJVE/",
       "published_at": "2026-06-29T00:00:00",
       "summary": "",
       "level": "B",
