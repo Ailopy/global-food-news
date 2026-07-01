@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-01T16:18:10.361876+08:00",
+  "last_updated": "2026-07-01T19:51:08.277884+08:00",
   "retention_days": 7,
-  "total": 515,
+  "total": 513,
   "sources": [
     "BevNET",
     "Fab News",
@@ -29,6 +29,102 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "330e7a3d7eadf5e4",
+      "title": "DASH Unveils Largest-Ever National Media Campaign Following Success of ‘The Drink That Has It All’",
+      "summary": "Largest media investment in brand history will deliver more than 200 million impacts across TV, OOH and radio this July DASH, the disruptor brand known for its deliciously simple, real fruit-infused…",
+      "url": "https://fabnews.live/dash-unveils-largest-ever-national-media-campaign-following-success-of-the-drink-that-has-it-all/",
+      "published_at": "2026-07-01T19:18:38+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "53c5965e796ce094",
+      "title": "鰻の成瀬“第二章”始動　品質強化でブランド磨く　斎藤佑樹氏がCOO就任",
+      "summary": "うなぎチェーン「鰻の成瀬」を運営するフランチャイズビジネスインキュベーションは7月1日、東京都内で発表会を開催した。今年4月にAIフュージョンキャピタルグループの連結子会社となって以降初となるブランド刷新として、元プロ野...",
+      "url": "https://www.ssnp.co.jp/foodservice/691687/",
+      "published_at": "2026-07-01T18:06:44+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "206273c1b32b5603",
+      "title": "コンビニ・スーパーで買える和菓子！トレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「和菓子」の最新・注目度ランキングです♪（2026年6月26日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-22981/?utm_source=rss&utm_medium=mognavinews_20260701",
+      "published_at": "2026-07-01T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4b676ccbf59fd396",
+      "title": "「大切りびん長まぐろ」が110円、『年に一度の別格まぐろ祭』7月3日開始 / のどぐろも110円で登場【スシロー】",
+      "summary": "寿司チェーンのスシローは、静岡の鮪問屋「八洲水産」とタッグを組んだ『年に一度の別格まぐろ祭』を、7月3日から全国のスシローで開催する。 天然本鮪やびん長まぐろなど、厳選した鮪を使用した商品を販売するほか、7月15日(水)...",
+      "url": "https://www.ssnp.co.jp/foodservice/691667/",
+      "published_at": "2026-07-01T17:36:20+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "e83e19ef1ad87a59",
+      "title": "ネスレ日本、ボトルコーヒー4品を11月から価格改定 「ネスカフェ エクセラ」約9～25%上昇",
+      "summary": "ネスレ日本は11月2日納品分から、「ネスカフェ エクセラ ボトルコーヒー」4品の価格を改定する。対象は「無糖」「甘さひかえめ」「ゼロ」「カフェインレス無糖」の900mlペットボトル商品。7月1日に発表した。 店頭想定価格...",
+      "url": "https://www.ssnp.co.jp/beverage/691664/",
+      "published_at": "2026-07-01T17:30:07+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "178039f2cb76b7b9",
+      "title": "今週新発売の菓子パン🍫まとめ！『北海道クリームチーズケーキ』、『ふんわりホイップシフォン　ミルク』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンPasco 北海道クリームチーズケーキ 袋1個Luxeとのコラボ！ 冷…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070108/?utm_source=rss&utm_medium=mognavinews_20260701",
+      "published_at": "2026-07-01T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8bd432b2280dd834",
+      "title": "味の素 新オフィス稼働 オープン対話促し、内外との共創を 「熟考」「共鳴」「試行」コンセプトも",
+      "summary": "味の素社は、7月1日から東京都中央区京橋1-7-1(TODA BUILDING) に移転した。経営環境が変化する中、新価値創造には、人財の交わりや価値を生み出す「場」が重要と判断。新オフィスでは、こうした「場」を具現化 […] ソース",
+      "url": "https://shokuhin.net/152673/2026/07/01/sonota/%e4%bc%81%e6%a5%ad%e6%b4%bb%e5%8b%95/",
+      "published_at": "2026-07-01T16:29:55+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6db62e53f1337fbc",
+      "title": "食品卸 メーカー支援の新たな形 営業や物流を代行",
+      "summary": "食品卸がメーカーに代わり、営業や物流を担う動きが広がっている。人材不足による営業力の低下や物流費の高騰など、メーカーが抱える課題の解決につなげるとともに、卸にとっては新たなビジネスを創出する機会としても期待される。 […] ソース",
+      "url": "https://shokuhin.net/152570/2026/07/01/topnews/",
+      "published_at": "2026-07-01T16:23:29+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "d39113eb3ecaeab7",
@@ -187,18 +283,6 @@
       "language": "en"
     },
     {
-      "id": "8df5b94f7ac8919d",
-      "title": "今週新発売の菓子パン🍫まとめ！『３種のベリーデニッシュ』、『冷やしてもおいしいダブルカスタードクリームパン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンタカキベーカリー 3種のベリーデニッシュ3種のベリーフィリング（※）を…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070107/?utm_source=rss&utm_medium=mognavinews_20260701",
-      "published_at": "2026-07-01T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "c34e330f094f93fc",
       "title": "IMCD launches Food & Nutrition US Technical Hub in New Jersey",
       "summary": "IMCD has opened a new Food & Nutrition US Technical Hub in Allendale, New Jersey, featuring dedicated Application and Bakery Labs for formulation work across nutrition, bakery, beverage and savoury…",
@@ -221,6 +305,30 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "8df5b94f7ac8919d",
+      "title": "今週新発売の菓子パン🍫まとめ！『３種のベリーデニッシュ』、『冷やしてもおいしいダブルカスタードクリームパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンタカキベーカリー 3種のベリーデニッシュ3種のベリーフィリング（※）を…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070107/?utm_source=rss&utm_medium=mognavinews_20260701",
+      "published_at": "2026-07-01T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a65048d3a4648fb5",
+      "title": "ファミリーマート、熱中症対策で大塚製薬・全国47都道府県と連携　「ファミマTV」で都道府県ごとにオリジナル啓発動画の放映開始",
+      "summary": "ファミリーマートは6月30日、大塚製薬、全国47都道府県と連携した熱中症対策として、店内デジタルサイネージ「ファミマTV」で都道府県ごとにオリジナル啓発動画の放映を開始した。 新たな取り組みとしては、7～8月に開催す […] ソース",
+      "url": "https://shokuhin.net/152657/2026/07/01/inryou/inryou-inryou/",
+      "published_at": "2026-07-01T14:57:44+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "dac93833af8bca40",
@@ -1911,6 +2019,18 @@
       "source": "Nutraceutical Business Review",
       "region": "欧洲",
       "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "d14ec78ed5d7f7ba",
+      "title": "Lemme and [solidcore] debut new creatine gummy flavours",
+      "summary": "Lemme, the wellness brand co-founded by Kourtney Kardashian Barker, has expanded its Lemme Creatine Body Toning Gummies with two new flavours: Blue Raspberry and Sour Apple. The post Lemme and…",
+      "url": "https://www.sweetsandsnacksworld.com/news/30722/lemme-and-solidcore-debut-new-creatine-gummy-flavours/",
+      "published_at": "2026-06-29T18:33:57+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
       "level": "B",
       "language": "en"
     },
@@ -6053,150 +6173,6 @@
       "category": "糕点糖巧",
       "level": "B",
       "language": "en"
-    },
-    {
-      "id": "7ceac7a5f43e15cf",
-      "title": "ADM expands Hungary innovation centre to fast-track functional beverage development in Europe",
-      "summary": "The expanded facility supports faster product development for low-sugar, functional and RTD drinks as Hungary's non-alcoholic beverage market grows, building on ADM's broader global flavour network…",
-      "url": "https://nutraceuticalbusinessreview.com/adm-hungary-innovation-centre-functional-beverage-development",
-      "published_at": "2026-06-24T19:14:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "e290ee566fccba07",
-      "title": "Shatavari and the future of women's health support",
-      "summary": "How tradition, science and ingredient integrity are shaping modern women's wellness solutions",
-      "url": "https://nutraceuticalbusinessreview.com/shatavari-and-the-future-of-women-s-health-support",
-      "published_at": "2026-06-24T19:10:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "d6d0cc663662504e",
-      "title": "HARIOのコーヒードリッパーに新色 空間や気分に寄り添う",
-      "summary": "HARIO社は、昨年9月に発売した「V60 ドリッパー NEO」に新色となる「クリア」「アンバー」を追加し、インテリアやライフスタイルに合わせてドリッパーを選ぶ楽しさを提供する。 「V60 ドリッパー NEO」は、同 […] ソース",
-      "url": "https://shokuhin.net/152205/2026/06/24/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
-      "published_at": "2026-06-24T18:53:43+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "672bb2ae4b111180",
-      "title": "パインのデザートのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「パインのデザート」の最新・注目度ランキングです♪（2026年6月19日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22651/?utm_source=rss&utm_medium=mognavinews_20260625",
-      "published_at": "2026-06-24T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "947de9cbcdedb041",
-      "title": "パインのデザートのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「パインのデザート」の最新・注目度ランキングです♪（2026年6月19日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22651/?utm_source=rss&utm_medium=mognavinews_20260624",
-      "published_at": "2026-06-24T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "04fd8417c4d95717",
-      "title": "猛暑にこそスープ！　「じっくりコトコト」で冷製缶スープとそうめんのアレンジレシピの提案を強化　ポッカサッポロ",
-      "summary": "ポッカサッポロフード＆ビバレッジは、猛暑・酷暑が続くことが予想される夏に向けて、スープの飲用機会増加を図るべく、冷たいスープの提案として「じっくりコトコト」ブランドの冷製缶スープと箱入りスープのアレンジレシピの提案を強 […] ソース",
-      "url": "https://shokuhin.net/152262/2026/06/24/kakou/kandume/",
-      "published_at": "2026-06-24T17:40:29+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "bb2be0bcdf7d131e",
-      "title": "大塚製薬が「ポカリスエット」で温浴施設に着目して「2026 お風呂の年プロジェクト」に参画した理由",
-      "summary": "大塚製薬は「2026 お風呂の年プロジェクト」に参画し、3月26日から温浴施設での「ポカリスエット」の飲用体験などを通じて、入浴前後の水分・電解質補給を提案する「ポカリお風呂プロジェクト」を開始した。 発売以来、入浴 […] ソース",
-      "url": "https://shokuhin.net/152256/2026/06/24/inryou/inryou-inryou/",
-      "published_at": "2026-06-24T17:31:06+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "d020829833abeb5e",
-      "title": "今週新発売のレモンまとめ！『こだわり酒場のレモンサワー　レモキンサワー』、『ニッポンのシン・レモンサワー　爽やか香るレモン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！レモンの新商品情報をお届けします。今週新発売の#レモンサントリー こだわり酒場のレモンサワー レモキンサワー 缶500ml中味…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062408/?utm_source=rss&utm_medium=mognavinews_20260625",
-      "published_at": "2026-06-24T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "ff2427f119d15453",
-      "title": "今週新発売のレモンまとめ！『こだわり酒場のレモンサワー　レモキンサワー』、『ニッポンのシン・レモンサワー　爽やか香るレモン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！レモンの新商品情報をお届けします。今週新発売の#レモンサントリー こだわり酒場のレモンサワー レモキンサワー 缶500ml中味…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062408/?utm_source=rss&utm_medium=mognavinews_20260624",
-      "published_at": "2026-06-24T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "3d878119c7fdbd46",
-      "title": "RelaxPLX secures Health Canada licence and South Korean sleep claim approval",
-      "summary": "SuanNutra's lemon verbena ingredient RelaxPLX has gained regulatory approvals in Canada and South Korea, enabling authorised sleep quality and stress-related claims in two key nutraceutical markets",
-      "url": "https://nutraceuticalbusinessreview.com/relaxplx-health-canada-licence-south-korean-sleep-claim",
-      "published_at": "2026-06-24T17:04:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "906bd219c4c94882",
-      "title": "雪印メグミルクG、初のバター専門カフェをオープン　“作りたてバター”を味わえる新業態",
-      "summary": "雪印メグミルクと雪印パーラーは、グループ初となるバター専門カフェ「THE BUTTER(ザ バター)」を、7月25日に北海道札幌市の商業施設「赤れんが テラス」内にオープンする。6月23日に明らかにした。 新業態店舗「T...",
-      "url": "https://www.ssnp.co.jp/milk/690690/",
-      "published_at": "2026-06-24T16:31:23+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "75a21db02ef13509",
-      "title": "【不二家レストラン】うなぎやハンバーグ、貫目氷かき氷などを揃えた「夏のごちそうフェア」開催、割引キャンペーンも",
-      "summary": "不二家は、全国の不二家レストラン29店舗で「夏のごちそうフェア」を6月25日(木)から8月末頃まで開催する。鹿児島県産うなぎを使用したスタミナメニューや冷製パスタ、夏限定ハンバーグ、注文ごとに貫目氷を削って仕上げる不二家...",
-      "url": "https://www.ssnp.co.jp/foodservice/690674/",
-      "published_at": "2026-06-24T16:20:17+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
     }
   ]
 }
