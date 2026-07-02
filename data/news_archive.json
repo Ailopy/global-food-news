@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T15:37:57.655553+08:00",
-  "total": 4395,
+  "last_updated": "2026-07-02T19:26:17.856963+08:00",
+  "total": 4404,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -12,6 +12,90 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "b093988b8033a7b7",
+      "title": "夏の新作！スナック菓子のおすすめTOP3！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック菓子」のおすすめランキングです♪（2026年6月26日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
+      "url": "https://mognavi.jp/news/matome/gen-categoryRanking-23047/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "163d95692f97e0f2",
+      "title": "Toblerone looks for growth in premium chocolate",
+      "summary": "Toblerone is shaking up the premium chocolate sector with a highly anticipated trio of product innovations. The post Toblerone looks for growth in premium chocolate appeared first on Sweets & Savoury…",
+      "url": "https://www.sweetsandsnacksworld.com/news/30731/toblerone-looks-for-growth-in-premium-chocolate/",
+      "published_at": "2026-07-02T17:53:13+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "70f1a71344836d5e",
+      "title": "今週新発売の菓子パン🍫まとめ！『ずっしり黒糖ぱん　つぶあん』、『クァベギ　アップルカスタード』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンヤマザキ ずっしり黒糖ぱん つぶあん 袋1個沖縄県産の黒糖を使った生地…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070208/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "71aa9e80d83c7a3e",
+      "title": "セブンのバーガーはスイーツ仕立て！　ピンクのバンズにレアチーサンド！？：今週のコンビニスイーツランキング",
+      "summary": "週間コンビニスイーツランキングTOP3：2026年7月第1週今週もやってまいりました。2026年7月第1週、コンビニスイーツランキングのコーナーです。それでは…",
+      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182433/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T17:00:06+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "2cec2e6610f3b989",
+      "title": "「みりんシロップ」新発売 「九重櫻」使用“ぷれみあむ”も 九重味淋",
+      "summary": "愛知県碧南市の老舗みりんメーカー・九重味淋は6月30日、みりんを煮詰めてつくった「みりんシロップ」（200g、税込572円）と「みりんシロップ ぷれみあむ」（200g、同910円）を新たに発売した。 パンケーキやスイ […] ソース",
+      "url": "https://shokuhin.net/152634/2026/07/02/kakou/choumi/",
+      "published_at": "2026-07-02T16:52:31+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a4b5151c855f3bc5",
+      "title": "【なか卯】夏の風物詩「すだちおろしうどん」を発売　徳島県産すだちを丸ごと1個のせた爽やかな味わい",
+      "summary": "丼ぶりと京風うどんチェーンのなか卯は、7月8日(水)午前11時から「すだちおろしうどん」を販売する。価格は「すだちおろしうどん」並580円(税込)。447店舗で販売予定。 徳島県産すだちを丸ごと1個(小サイズは半個)のせ...",
+      "url": "https://www.ssnp.co.jp/foodservice/691838/",
+      "published_at": "2026-07-02T16:22:46+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "cf6d160d9f8c6ee1",
+      "title": "HTBA launches citrose ahead of IFT FIRST",
+      "summary": "Company is setting new standards for taste and clean labels in sugar reduction",
+      "url": "https://nutraceuticalbusinessreview.com/htba-launches-citrose-ahead-of-ift-first",
+      "published_at": "2026-07-02T16:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
@@ -121,6 +205,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "092d9333c9044e7e",
+      "title": "Standards for nutra supplements are being rewritten – but not by regulators",
+      "summary": "From dietary preferences to cultural concerns, a new class of expectations is quietly becoming non-negotiable as consumers are becoming increasingly conscious and aware. And for formulators, the…",
+      "url": "https://nutraceuticalbusinessreview.com/standards-for-nutra-supplements-are-being-rewritten",
+      "published_at": "2026-07-02T13:23:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "e8103dffda2bfc92",
@@ -661,6 +757,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "1cc6a8c971ed9f53",
+      "title": "Cold Stone Creamery reveals new ice cream waffle taco for National Ice Cream Month",
+      "summary": "Cold Stone Creamery is celebrating National Ice Cream Month with a new limited-time ice cream waffle taco. The new Cookies ‘n’ Peanut Butter Ice Cream Taco made with Oreo and Reese’s, featuring…",
+      "url": "https://www.sweetsandsnacksworld.com/news/30726/cold-stone-creamery-reveals-new-ice-cream-waffle-taco-for-national-ice-cream-month/",
+      "published_at": "2026-07-01T17:43:25+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "4b676ccbf59fd396",
