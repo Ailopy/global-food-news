@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-01T13:15:18",
+  "last_updated": "2026-07-02T12:52:01",
   "retention_days": 10,
-  "total": 294,
-  "s_count": 19,
+  "total": 298,
+  "s_count": 21,
   "a_count": 2,
-  "b_count": 273,
+  "b_count": 275,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -34,6 +34,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "セブン‐イレブン・ジャパン協働第2弾！果実のフードロス削減・農家支援を目指す 「キリン 氷結&reg;mottainai 富良野メロン（期間限定）／セブン‐イレブン等限定」発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0702_01.html",
+      "published_at": "2026-07-02T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "FDAが協和キリンをPreCheck パイロットプログラムに選定　製造タイムラインの加速とサプライチェーンの強靭化を推進",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260630_01.pdf",
+      "published_at": "2026-07-01T08:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "重磅新政"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -266,6 +288,17 @@
       "level_reason": "常规新品/营销"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-07-02T00:00:00",
+      "summary": "2025年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -273,17 +306,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0701_01.html",
       "published_at": "2026-07-01T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-01T00:00:00",
-      "summary": "2025年12月期 第3四半期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -304,6 +326,17 @@
       "region": "日本",
       "title": "味の素㈱、本社オフィスを「さらなる共創・共成長の場」へ",
       "url": "https://news.ajinomoto.co.jp/2026/07/20260701.html",
+      "published_at": "2026-07-01T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, ▲라이프스타일식품 ▲기술소재 ▲핵심소재 3대 부문으로 사업구조 대전환…  “파괴적 변화와 혁...2026.07.01",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1783",
       "published_at": "2026-07-01T00:00:00",
       "summary": "",
       "level": "B",
@@ -3263,6 +3296,17 @@
       "region": "欧洲",
       "title": "Inclusion and Respect at Ferrero",
       "url": "https://www.ferrero.com/int/en/people-planet/empower-people/inclusion-and-respect-at-ferrero",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ferrero",
+      "brand_cn": "费列罗",
+      "region": "欧洲",
+      "title": "Our Approach to Nutrition",
+      "url": "https://www.ferrero.com/int/en/people-planet/promote-responsible-consumption/our-approach-to-nutrition",
       "published_at": "",
       "summary": "",
       "level": "B",
