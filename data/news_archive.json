@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T10:54:43.199461+08:00",
-  "total": 4359,
+  "last_updated": "2026-07-02T15:37:57.655553+08:00",
+  "total": 4395,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -8,6 +8,258 @@
       "summary": "",
       "url": "https://www.newhope.com/events/newtopia-now",
       "published_at": "2026-08-18T14:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "f19336b5207abcd4",
+      "title": "W杯パブリックビューイングでスナック食べ放題 楽しい体験価値をアピール ジャパンフリトレー",
+      "summary": "「レイズ」「ドリトス」「チートス」「マイクポップコーン」などのフリトレーブランドのスナックを販売しているジャパンフリトレーは、6月21日に都内で「FIFAワールドカップ2026」グループステージ第2戦（チュニジアvs日 […] ソース",
+      "url": "https://shokuhin.net/152613/2026/07/02/kakou/kashi/",
+      "published_at": "2026-07-02T15:18:56+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a158a77980166725",
+      "title": "BioVivo celebrates one year of growth, manufacturing excellence and US-made botanical innovation at IFT FIRST",
+      "summary": "The company marks its first anniversary with multiple facility certifications, expanded production capabilities and an evolving portfolio of botanical ingredients for food and beverage innovation",
+      "url": "https://nutraceuticalbusinessreview.com/biovivo-celebrates-one-year-of-growth-manufacturing-excellence",
+      "published_at": "2026-07-02T15:15:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "d897c895186eda8e",
+      "title": "Affron Saffron to help improve mood and self-esteem in adult women",
+      "summary": "Clinical trial shows Pharmactive’s low-dose saffron extract could help to mitigate the interconnected challenges of low mood, poor sleep and low self-esteem",
+      "url": "https://nutraceuticalbusinessreview.com/affron-saffron-to-help-improve-mood-and-self",
+      "published_at": "2026-07-02T15:15:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "923724f6adaa3366",
+      "title": "BASF and Bota Biosciences introduce bioidentical collagen III powered by AI",
+      "summary": "BASF and Bota Biosciences jointly announced the market launch of BASF’s SkinNexus Collag3n",
+      "url": "https://nutraceuticalbusinessreview.com/basf-and-bota-biosciences-introduce-bioidentical-collagen-iii",
+      "published_at": "2026-07-02T15:10:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "8e034b453651ea02",
+      "title": "今週新発売の菓子パン🍫まとめ！『レモンスペシャル』、『エッセルスーパーカップチョコミント風味蒸しケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンヤマザキ レモンスペシャル 袋1個ふんわりと口どけの良いスポンジでレモ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070207/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4a53da2e52a9672a",
+      "title": "【紀ノ国屋】2種の全粒粉を配合したグラハムロール発売、博多明太子ポテト･和風ツナサラダ･ジャーマンポテトの全3種を展開",
+      "summary": "紀ノ国屋は、全粒粉を配合した香ばしい風味と具材の美味しさを楽しめる、惣菜パン「グラハムロール」3種(各税込313円)を、2026年7月1日から各店で販売している。 【紀ノ国屋 新作グラハムロールの画像はこちら】 パン生地...",
+      "url": "https://www.ssnp.co.jp/distribution/691828/",
+      "published_at": "2026-07-02T15:00:00+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "0946c10686e867d3",
+      "title": "バーガーキング、特製ガーリックマヨソース使った新作大型バーガー2品発売　「ダブルビーフ＆ハッシュ」「ビーフ＆チキン」",
+      "summary": "ビーケー・ジャパンが展開する「バーガーキング」は7月3日、期間限定商品「ダブルビーフ＆ハッシュ ビッグマウスダーティ」「ビーフ＆チキン ビッグマウスダーティ」を発売する。価格はいずれも単品1,490円（税込）。 新商品2...",
+      "url": "https://www.ssnp.co.jp/foodservice/691808/",
+      "published_at": "2026-07-02T14:18:35+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "a833a9c11910acce",
+      "title": "【和食麺処サガミ】厚切り牛たんやはらこ飯、笹かまぼこなど、仙台ゆかりの食材や名物料理が新登場",
+      "summary": "和食麺処サガミは、2026年7月8日から全164店舗で『厚切り牛たんと仙台味めぐり』フェアを開始する。 厳選した厚切り牛たんを使ったメニューのほか、はらこ飯や笹かまぼこなど、仙台ゆかりの食材や名物料理も豊富に取り揃えた。...",
+      "url": "https://www.ssnp.co.jp/foodservice/691795/",
+      "published_at": "2026-07-02T14:04:53+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "3b9a3cb7b704ff3d",
+      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　こしあん＆マーガリン』、『ほわいとロング　クラウンメロン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン スナックサンド こしあん＆マーガリン 袋2個なめらかなこしあ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070206/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e8103dffda2bfc92",
+      "title": "KFC、1週間で約100万個売れた「ケンタの鶏竜田バーガー」に新作　夏限定「柑橘 鶏竜田バーガー」登場",
+      "summary": "日本ケンタッキー・フライド・チキンは7月8日、全国のケンタッキーフライドチキン（KFC）店舗で、夏限定メニュー『夏の和風バーガーズ』2品を数量限定で発売する。 ラインアップは、毎年好評の「チキン南蛮フィレバーガー」(単品...",
+      "url": "https://www.ssnp.co.jp/foodservice/691787/",
+      "published_at": "2026-07-02T13:07:51+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "db2e47c26190c6e2",
+      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　たっぷりホイップ＆レモン』、『沖縄県産紅芋のあん＆ホイップと宮古島産塩入りバニラホイップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン スナックサンド たっぷりホイップ＆レモン 袋2個たっぷりミル…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070205/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "cb9919a3fd0d104a",
+      "title": "キリンビバレッジ 「貢茶 ジャスミンミルクティー」投入、人気店舗メニューをPETで再現【セブン-イレブン限定】",
+      "summary": "キリンビバレッジとゴンチャ ジャパンは、「貢茶 ジャスミンミルクティー」(400mlPET)を6月30日から全国のセブン-イレブン限定で順次発売している。 店舗で人気の「ジャスミングリーン ミルクティー」の味わいを参考に...",
+      "url": "https://www.ssnp.co.jp/beverage/691770/",
+      "published_at": "2026-07-02T12:32:23+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "dbdbb9070dbf6555",
+      "title": "Publisher's Platform: Nara, you knew what when?  And, your words matter!",
+      "summary": "As the company that imported this formula from Europe, Nara had specific, federally mandated duties to find this hazard and make sure its supplier controlled it.",
+      "url": "https://www.foodsafetynews.com/2026/07/publishers-platform-nara-you-knew-what-when-and-your-words-matter/",
+      "published_at": "2026-07-02T12:06:45+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c629b2a1bd318f57",
+      "title": "More than 100 sick in severe multi-country Salmonella outbreak",
+      "summary": "Epidemiological investigations have found that many of the patients consumed flavored instant noodle products before falling ill.",
+      "url": "https://www.foodsafetynews.com/2026/07/more-than-100-sick-in-severe-multi-country-salmonella-outbreak/",
+      "published_at": "2026-07-02T12:05:08+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "31c60168236b459e",
+      "title": "New E. coli outbreak detected; FDA begins onsite inspections in Nara infant formula botulism outbreak",
+      "summary": "Federal public health officials are investigating a new outbreak of E. coli O157:H7 infections. The Food and Drug Administration reports that there are 14 outbreak patients. The agency has not…",
+      "url": "https://www.foodsafetynews.com/2026/07/new-e-coli-outbreak-detected-fda-begins-onsite-inspections-in-nara-infant-formula-botulism-outbreak/",
+      "published_at": "2026-07-02T12:04:10+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "efa09bdff53bc4ee",
+      "title": "Food safety tips to keep America's 250th anniversary illness-free",
+      "summary": "As Americans prepare to celebrate the nation's 250th birthday this Fourth of July, millions of people will gather for backyard barbecues, picnics, parades and fireworks displays. Food safety experts…",
+      "url": "https://www.foodsafetynews.com/2026/07/food-safety-tips-to-keep-americas-250th-anniversary-illness-free/",
+      "published_at": "2026-07-02T12:02:51+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "9681fb3d53f41e72",
+      "title": "Belgian 2025 review includes deadly E. coli outbreak",
+      "summary": "The Belgian food agency’s annual report was released recently and highlighted a fatal E. coli outbreak and revealed food fraud cases. The Federal Agency for the Safety of the Food Chain (FASFC)…",
+      "url": "https://www.foodsafetynews.com/2026/07/belgian-2025-review-includes-deadly-e-coli-outbreak/",
+      "published_at": "2026-07-02T12:01:34+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "2a7c28be070f7f2d",
+      "title": "How Ribbonwire Ranch became an organic trailblazer in cattle country",
+      "summary": "Learn how the largest USDA Organic ranch in Texas, Ribbonwire Ranch, is building a resilient brand as the industry faces unprecedented challenges.",
+      "url": "https://www.newhope.com/newtopia-now/how-ribbonwire-ranch-became-an-organic-trailblazer-in-cattle-country",
+      "published_at": "2026-07-02T11:58:24+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "1b311dc3eff534b9",
+      "title": "今週新発売の菓子パン🍫まとめ！『喫茶店風小倉バタートースト』、『広島レモンケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンPasco 喫茶店風小倉バタートースト 袋1個もっとおいしくリニューア…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070204/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a38a29b0e3fb84d5",
+      "title": "【2026年夏】マンゴーの新商品！ほろよいトロピカルミックスや贅沢搾りプレミアムなど旬のフルーツ系チューハイまとめ",
+      "summary": "夏本番を迎え、マンゴーをはじめとするトロピカルフルーツ感あふれる新商品が続々と登場しています。飲み物からスイーツ、パンまで、ジャンルも豊富にそろった今回のライ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-23014/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T11:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "cd71de4c17356c59",
+      "title": "Klar Labs blends nootropics, adaptogens for clean energy focus",
+      "summary": "Klar Labs' functional beverages combine nootropics and adaptogens for sustained focus without the crash of traditional energy drinks. Find out how this brand came to be.",
+      "url": "https://www.newhope.com/newtopia-now/klar-labs-blends-nootropics-adaptogens-for-clean-energy-focus",
+      "published_at": "2026-07-02T11:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
@@ -36,6 +288,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "b00139abaf1aa520",
+      "title": "今週新発売の菓子パン🍫まとめ！『小倉あんコッペ』、『スナックサンド　たっぷりホイップ＆塩キャラメル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン 小倉あんコッペ 袋1個ソフトなコッペパンに小倉あんをサンドし…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070203/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -87,6 +351,18 @@
       "language": "ja"
     },
     {
+      "id": "0a84f14b0c28421a",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『麺屋一燈監修　魚介醤油仕立てのガリマヨ豚めし』、『彩り野菜のにぎわい弁当』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ローソン 麺屋一燈監修 魚介醤油仕…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070202/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "b822182469b674de",
       "title": "子どもの栄養補助食の確立に向けて メーカーが売場提案【MiL】",
       "summary": "冷凍幼児食「モグモ」などを展開するMiL(ミル、東京都港区)は、子ども向けの栄養補助食をそろえた売り場を展開している。自社以外の商品も置いており、このカテゴリーの認知拡大を狙っている。今年6月末時点では日本トイザらスと赤...",
@@ -96,6 +372,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "4ca7820b3c1a5db0",
+      "title": "今週新発売の菓子パン🍫まとめ！『むぎゅっと塩バターベーグル』、『うるおいサンド　イチゴ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン むぎゅっと塩バターベーグル 袋1個塩パン×ベーグル トースタ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070201/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-02T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -351,6 +639,18 @@
       "language": "ja"
     },
     {
+      "id": "4a4284c3dfa0aa5a",
+      "title": "コンビニ・スーパーで買える和菓子！トレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「和菓子」の最新・注目度ランキングです♪（2026年6月26日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-22981/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "206273c1b32b5603",
       "title": "コンビニ・スーパーで買える和菓子！トレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「和菓子」の最新・注目度ランキングです♪（2026年6月26日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基…",
@@ -384,6 +684,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "564b449fafa55fec",
+      "title": "今週新発売の菓子パン🍫まとめ！『北海道クリームチーズケーキ』、『ふんわりホイップシフォン　ミルク』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンPasco 北海道クリームチーズケーキ 袋1個Luxeとのコラボ！ 冷…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070108/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -543,6 +855,18 @@
       "language": "en"
     },
     {
+      "id": "e7e3667237dbabc3",
+      "title": "【2026年6月第5週】コンビニドリンク・コンビニカップ飲料の新商品！青い飲むソフトクリームやピーチティーフラッペなど夏ドリンクまとめ",
+      "summary": "2026年6月30日（火）、コンビニ各社から夏らしいドリンクが一斉に登場します。ひんやりスイーツ系からティー系、クラフトビールまで、個性豊かなラインナップに今…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22955/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T15:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "a36be567f78053ec",
       "title": "【2026年6月第5週】コンビニドリンク・コンビニカップ飲料の新商品！青い飲むソフトクリームやピーチティーフラッペなど夏ドリンクまとめ",
       "summary": "2026年6月30日（火）、コンビニ各社から夏らしいドリンクが一斉に登場します。ひんやりスイーツ系からティー系、クラフトビールまで、個性豊かなラインナップに今…",
@@ -577,6 +901,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "d6335f60887308c0",
+      "title": "今週新発売の菓子パン🍫まとめ！『３種のベリーデニッシュ』、『冷やしてもおいしいダブルカスタードクリームパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンタカキベーカリー 3種のベリーデニッシュ3種のベリーフィリング（※）を…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070107/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "c34e330f094f93fc",
@@ -651,6 +987,18 @@
       "language": "ja"
     },
     {
+      "id": "26e47e8580cfaed7",
+      "title": "【2026年6月第5週】コンビニスイーツの新商品！イタリア栗のモンブランやもちぷよ生チョコなどまとめ",
+      "summary": "今週（2026年6月28日〜7月4日）も、コンビニ各社から個性豊かなスイーツが続々と登場します。チーズケーキにモンブラン、もちもち食感のロールケーキなど、見て…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22954/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T14:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "c4d81d615fb1c98f",
       "title": "【2026年6月第5週】コンビニスイーツの新商品！イタリア栗のモンブランやもちぷよ生チョコなどまとめ",
       "summary": "今週（2026年6月28日〜7月4日）も、コンビニ各社から個性豊かなスイーツが続々と登場します。チーズケーキにモンブラン、もちもち食感のロールケーキなど、見て…",
@@ -696,6 +1044,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "4297876906ac9831",
+      "title": "今週新発売の菓子パン🍫まとめ！『ミニもっちもち食感ミルクロール』、『富良野産メロンパンケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンYKベーキング ミニもっちもち食感ミルクロール 4個入もっちり生地にミ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070106/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -759,11 +1119,35 @@
       "language": "ja"
     },
     {
+      "id": "fbeb4f9646c60849",
+      "title": "【2026年6月第4週】ドリンクランキング1位はスタバのメロンフラペチーノ！新商品・注目アイテムまとめ",
+      "summary": "2026年6月第4週のドリンクランキングが出揃いました。夏にぴったりのフルーツ系フラペチーノやリッチなシェイクなど、思わず飲みたくなるドリンクが顔を揃えていま…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22818/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "595721b66360a83e",
       "title": "【2026年6月第4週】ドリンクランキング1位はスタバのメロンフラペチーノ！新商品・注目アイテムまとめ",
       "summary": "2026年6月第4週のドリンクランキングが出揃いました。夏にぴったりのフルーツ系フラペチーノやリッチなシェイクなど、思わず飲みたくなるドリンクが顔を揃えていま…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22818/?utm_source=rss&utm_medium=mognavinews_20260701",
       "published_at": "2026-07-01T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "04707afe7c6b3ceb",
+      "title": "今週新発売の菓子パン🍫まとめ！『北海道クリームチーズパン』、『サマーフルーツブレッド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンPasco 北海道クリームチーズパン 袋1個Luxeとのコラボ！ 冷や…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070105/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T12:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -879,11 +1263,35 @@
       "language": "en"
     },
     {
+      "id": "809d945f6f665fd7",
+      "title": "【2026年6月第4週】ドーナツ・パンランキング1位はドら抹茶 栗あん抹茶ホイップ！新商品ロングドーナツシナモンも登場まとめ",
+      "summary": "2026年6月第4週のドーナツ・パンランキングが出揃いました。今週はミスタードーナツの抹茶シリーズが上位を席巻し、抹茶好きにはたまらないラインナップとなってい…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22817/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "c371021ed26c8a55",
       "title": "【2026年6月第4週】ドーナツ・パンランキング1位はドら抹茶 栗あん抹茶ホイップ！新商品ロングドーナツシナモンも登場まとめ",
       "summary": "2026年6月第4週のドーナツ・パンランキングが出揃いました。今週はミスタードーナツの抹茶シリーズが上位を席巻し、抹茶好きにはたまらないラインナップとなってい…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-22817/?utm_source=rss&utm_medium=mognavinews_20260701",
       "published_at": "2026-07-01T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "08ab84ff2e56bd36",
+      "title": "【2026年6月第5週】コンビニ惣菜の新商品！バジルパスタサラダやキッシュなど夏の新作まとめ",
+      "summary": "6月最終週から7月にかけて、コンビニ各社から個性豊かな惣菜・サラダが続々登場します。夏らしいさっぱり系から、スパイシーなチキン、地域限定のご当地グルメまで、今…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22953/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T11:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -909,6 +1317,18 @@
       "url": "https://shokuhin.net/152599/2026/07/01/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
       "published_at": "2026-07-01T11:36:32+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7e7152f70e9af6b9",
+      "title": "今週新発売の菓子パン🍫まとめ！『パインぱん』、『ポケモンＷキャラメルクリームパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン パインぱん 袋1個ドライパイン入りでパイン味を楽しめるコッペ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070104/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T11:30:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -948,6 +1368,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "a6c5cc6f649e7491",
+      "title": "【2026年7月第1週】コンビニスープ・コンビニ味噌汁の新商品！柚子胡椒香る和風スープや冷や汁など夏の新作まとめ",
+      "summary": "夏本番に向けて、コンビニのスープコーナーに冷たいスープや刺激的な一杯が続々と登場しています。今週は2026年6月30日発売の新商品が8アイテムと充実のラインナ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-22952/?utm_source=rss&utm_medium=mognavinews_20260702",
+      "published_at": "2026-07-01T11:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -31431,10 +31863,10 @@
       "language": "en"
     },
     {
-      "id": "4373cd742fc8b1ad",
-      "title": "The Natural List: Breaking down the $75B supplement industry",
-      "summary": "Bill Giebler, NBJ's content and insights director, joins The Natural List host Adrienne Smith to share a free preview of the highly anticipated Supplement Business Report.",
-      "url": "https://www.newhope.com/industry-insights/the-natural-list-breaking-down-75-billion-dollar-supplement-industry",
+      "id": "75e72fac6981df2d",
+      "title": "Editor's Take: Practitioner channel navigates omnichannel credibility",
+      "summary": "Learn more about a seismic shift in the practitioner channel as legacy brands navigate the tension between omnichannel growth and practitioner credibility.",
+      "url": "https://www.newhope.com/market-data-and-analysis/editors-take-practitioner-channel-grows-despite-omnichannel-tensions",
       "published_at": "2026-05-27T22:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
@@ -31443,10 +31875,10 @@
       "language": "en"
     },
     {
-      "id": "75e72fac6981df2d",
-      "title": "Editor's Take: Practitioner channel navigates omnichannel credibility",
-      "summary": "Learn more about a seismic shift in the practitioner channel as legacy brands navigate the tension between omnichannel growth and practitioner credibility.",
-      "url": "https://www.newhope.com/market-data-and-analysis/editors-take-practitioner-channel-grows-despite-omnichannel-tensions",
+      "id": "4373cd742fc8b1ad",
+      "title": "The Natural List: Breaking down the $75B supplement industry",
+      "summary": "Bill Giebler, NBJ's content and insights director, joins The Natural List host Adrienne Smith to share a free preview of the highly anticipated Supplement Business Report.",
+      "url": "https://www.newhope.com/industry-insights/the-natural-list-breaking-down-75-billion-dollar-supplement-industry",
       "published_at": "2026-05-27T22:00:00+08:00",
       "source": "New Hope Network",
       "region": "北美",
