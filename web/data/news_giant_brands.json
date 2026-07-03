@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-02T12:52:01",
+  "last_updated": "2026-07-03T12:34:53",
   "retention_days": 10,
-  "total": 298,
+  "total": 302,
   "s_count": 21,
   "a_count": 2,
-  "b_count": 275,
+  "b_count": 279,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -288,6 +288,39 @@
       "level_reason": "常规新品/营销"
     },
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "BridgeBioによる軟骨無形成症を対象とした経口薬infigratinibのグローバル第3相臨床試験「PROPEL 3」のデータについて「New England Journal of Medicine」 誌掲載のお知らせ",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260702_01.pdf",
+      "published_at": "2026-07-03T02:01:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「個の成長」と「事業戦略」をつなぐ人的資本DXを先駆的に実践し、BizReach Conferenceで「HR OF THE YEAR 2026」を受賞！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0703_01.html",
+      "published_at": "2026-07-03T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "味の素㈱、食とWell-beingの関係性のさらなるエビデンス構築に貢献",
+      "url": "https://news.ajinomoto.co.jp/2026/07/20260703.html",
+      "published_at": "2026-07-03T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
@@ -295,6 +328,17 @@
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
       "published_at": "2026-07-02T00:00:00",
       "summary": "2025年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.02日清食品ホールディングス会社人事について",
+      "url": "https://cdn.nissin.com/gr-documents/attachments/news_posts/13809/0fae61e8d1071a35/original/20260702-1.pdf",
+      "published_at": "2026-07-02T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
