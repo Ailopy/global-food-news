@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-03T15:30:19.975816+08:00",
+  "last_updated": "2026-07-03T19:25:51.715301+08:00",
   "retention_days": 7,
-  "total": 490,
+  "total": 487,
   "sources": [
     "BevNET",
     "Fab News",
@@ -28,6 +28,78 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "e3c97fd6818c0679",
+      "title": "Marketing Fails + Wins: Why ‘Edgy’ Works for Some Brands and Not Others",
+      "summary": "From Liquid Death to Pepsi, Burger King, and Starbucks South Korea, edgy campaigns can either build buzz or spark backlash. Marketing experts explain why brand permission often makes the difference.…",
+      "url": "https://foodinstitute.com/focus/marketing-fails-wins-why-edgy-works-for-some-brands-and-not-others/?utm_source=rss&utm_medium=rss&utm_campaign=marketing-fails-wins-why-edgy-works-for-some-brands-and-not-others",
+      "published_at": "2026-07-03T18:00:38+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "bb74bc0bb129ac69",
+      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　北海道産メロン＆ホイップ』、『もちふわパンケーキ　北海道産富良野メロン＆ホイップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン スナックサンド 北海道産メロン＆ホイップ 袋2個北海道産メロ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070308/?utm_source=rss&utm_medium=mognavinews_20260703",
+      "published_at": "2026-07-03T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a1116b5bd6ecaede",
+      "title": "ニップン、フラーゴラッド鹿児島とプリンシパル・パートナー契約 SVリーグ初参戦チームと共創",
+      "summary": "ニップンは7月3日、男子バレーボールチーム「フラーゴラッド鹿児島」とプリンシパル・パートナー契約を締結したと発表した。同チームは2026年10月に開幕する2026-27シーズンから、バレーボール国内最高峰リーグ「大同生命...",
+      "url": "https://www.ssnp.co.jp/rice/692012/",
+      "published_at": "2026-07-03T16:30:50+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "798da9f8c6bbbef5",
+      "title": "カルディ、人気「ネコバッグ」抽選申込スタート　かごバッグ風デザイン×ねこ柄インナーバッグ、食品4種入り",
+      "summary": "カルディコーヒーファームは7月3日から、毎回人気を集める「ネコバッグ」の事前抽選を受け付けている。 実店舗と公式オンラインストアでそれぞれ異なるセットを用意しており、両方に申し込むことも可能。価格は、実店舗販売の「ネコバ...",
+      "url": "https://www.ssnp.co.jp/distribution/691987/",
+      "published_at": "2026-07-03T15:46:42+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "2e24de96eabac6ab",
+      "title": "ココアクレープ×ミントクリーム×パリパリチョコの「チョコミントミルクレープ」、ミント感を向上して新発売!【銀座コージーコーナー】",
+      "summary": "銀座コージーコーナーは、7月10日から全国の生ケーキ取扱店で、「爽快チョコミントミルクレープ」を販売する。 ※北海道･九州地方と、福井県･京都府･滋賀県･鳥取県･島根県･山口県･愛媛県･高知県に生ケーキ取扱店はない。 4...",
+      "url": "https://www.ssnp.co.jp/snack/691981/",
+      "published_at": "2026-07-03T15:34:42+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "7c6cae10fcb7c428",
+      "title": "Probi celebrates 35 years of science and a new chapter with Symrise",
+      "summary": "Together, the companies are creating new opportunities to accelerate research, expand innovation and bring new and exciting biotic solutions to customers and consumers around the world",
+      "url": "https://nutraceuticalbusinessreview.com/probi-celebrates-35-years-of-science-and-a",
+      "published_at": "2026-07-03T15:30:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
@@ -1051,18 +1123,6 @@
       "language": "en"
     },
     {
-      "id": "d6f51d8b3e67edf4",
-      "title": "今週新発売の菓子パン🍫まとめ！『レモンスペシャル』、『エッセルスーパーカップチョコミント風味蒸しケーキ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンヤマザキ レモンスペシャル 袋1個ふんわりと口どけの良いスポンジでレモ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070207/?utm_source=rss&utm_medium=mognavinews_20260703",
-      "published_at": "2026-07-02T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "4a53da2e52a9672a",
       "title": "【紀ノ国屋】2種の全粒粉を配合したグラハムロール発売、博多明太子ポテト･和風ツナサラダ･ジャーマンポテトの全3種を展開",
       "summary": "紀ノ国屋は、全粒粉を配合した香ばしい風味と具材の美味しさを楽しめる、惣菜パン「グラハムロール」3種(各税込313円)を、2026年7月1日から各店で販売している。 【紀ノ国屋 新作グラハムロールの画像はこちら】 パン生地...",
@@ -1072,6 +1132,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "d6f51d8b3e67edf4",
+      "title": "今週新発売の菓子パン🍫まとめ！『レモンスペシャル』、『エッセルスーパーカップチョコミント風味蒸しケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンヤマザキ レモンスペシャル 袋1個ふんわりと口どけの良いスポンジでレモ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070207/?utm_source=rss&utm_medium=mognavinews_20260703",
+      "published_at": "2026-07-02T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -5789,114 +5861,6 @@
       "category": "饮料",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "a133296f1d5dfc68",
-      "title": "Tate & Lyle receives Innovation in Health Technology Product Award",
-      "summary": "The award celebrates innovations that demonstrate meaningful scientific advancement, strong validation and the ability to deliver measurable health benefits in real-world food and beverage…",
-      "url": "https://nutraceuticalbusinessreview.com/tate-lyle-receives-innovation-in-health-technology",
-      "published_at": "2026-06-26T18:30:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "095ff1cae9c8f11b",
-      "title": "今週新発売のジューシーな食べものまとめ！『ピーチ　＆　ピーチミルク　フラペチーノ』、『白桃＆アールグレイタルト』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！ジューシーの新商品情報をお届けします。今週新発売の#ジューシースターバックス ピーチ ＆ ピーチミルク フラペチーノ2015年…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062608/?utm_source=rss&utm_medium=mognavinews_20260627",
-      "published_at": "2026-06-26T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "a5ed27afb9c377d0",
-      "title": "今週新発売のジューシーな食べものまとめ！『ピーチ　＆　ピーチミルク　フラペチーノ』、『白桃＆アールグレイタルト』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！ジューシーの新商品情報をお届けします。今週新発売の#ジューシースターバックス ピーチ ＆ ピーチミルク フラペチーノ2015年…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062608/?utm_source=rss&utm_medium=mognavinews_20260626",
-      "published_at": "2026-06-26T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "ae0599fe98c56c25",
-      "title": "Sabinsa announces Brandon Prenger as Director of Business Development",
-      "summary": "Sabinsa, the multi-national health science company known for providing sustainable, natural, well-researched ingredients, is pleased to announce Brandon Prenger as Director of Business Development",
-      "url": "https://nutraceuticalbusinessreview.com/sabinsa-announces-brandon-prenger-as-director-of-business",
-      "published_at": "2026-06-26T17:17:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "65fc6437049d8e7c",
-      "title": "Alkemist labs announces Mo Lababidi as Director of Botanical Identity",
-      "summary": "Alkemist Labs is pleased to announce that Mo Lababidi has joined the company as Director of Botanical Identity",
-      "url": "https://nutraceuticalbusinessreview.com/alkemist-labs-announces-mo-lababidi-as-director-of",
-      "published_at": "2026-06-26T16:21:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "42f3869be542602c",
-      "title": "“塩茹でとうもろこし”の味わいをイメージ　「ベビースターラーメン丸」に夏季限定の新味登場【おやつカンパニー】",
-      "summary": "おやつカンパニーは6月29日、「ベビースターラーメン丸」シリーズから、夏季限定の新フレーバー「しおコーン味」を全国のコンビニで発売する。 ビッツ形状の「ベビースターラーメン丸」にフリーズドライコーンを加え、とうもろこしの...",
-      "url": "https://www.ssnp.co.jp/snack/691101/",
-      "published_at": "2026-06-26T16:16:49+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "3c4dfaf69b9a860b",
-      "title": "東海漬物「キューちゃん かける！肉みそラー油味」が好調 “ギルティ消費”追い風に濃い味提案広がる漬物業界",
-      "summary": "東海漬物のロングセラー品「きゅうりのキューちゃん」の春夏限定品「かける！肉みそラー油味」（8月末まで販売）が好調だという。 同商品は、刻み胡瓜と大豆ミートで肉みその食べ応えを再現し、信州赤味噌と濃口醤油をベースに青唐 […] ソース",
-      "url": "https://shokuhin.net/152390/2026/06/26/kakou/tsukemono/",
-      "published_at": "2026-06-26T16:10:59+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "74d33d350d4c19ac",
-      "title": "シャトレーゼ「ももフェア」開催　山梨県産“完熟桃”1/2個使用タルトなど登場、店舗で仕上げる限定ケーキも",
-      "summary": "株式会社シャトレーゼ(本社:山梨県甲府市)は7月3日から、全国の菓子専門店「シャトレーゼ」で毎年恒例の「ももフェア」を順次開催する。 フェアでは、日本一の桃の名産地･山梨県産の“完熟桃”を使ったスイーツを展開する。シャト...",
-      "url": "https://www.ssnp.co.jp/snack/691054/",
-      "published_at": "2026-06-26T15:43:04+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "bba5a8d08ab47b2e",
-      "title": "日本甜菜製糖 新コーポレートロゴ設定",
-      "summary": "日本甜菜製糖（東京都中央区・石栗秀社長）は、本年10月1日付で社名を「株式会社ニッテン（英文表記：Nitten Co., Ltd）」に変更するにあたり、新たなコーポレートロゴとタグラインを制定した。 同社の創業は19 […] ソース",
-      "url": "https://shokuhin.net/152386/2026/06/26/kakou/satou/",
-      "published_at": "2026-06-26T15:30:22+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
