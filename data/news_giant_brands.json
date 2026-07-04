@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-03T12:34:53",
+  "last_updated": "2026-07-04T12:27:39",
   "retention_days": 10,
-  "total": 302,
+  "total": 304,
   "s_count": 21,
   "a_count": 2,
-  "b_count": 279,
+  "b_count": 281,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -326,8 +326,19 @@
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-02T00:00:00",
+      "published_at": "2026-07-03T00:00:00",
       "summary": "2025年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.03湖池屋一部製品の価格改定に関するお知らせ",
+      "url": "https://www.nissin.com/jp/news/13810/",
+      "published_at": "2026-07-03T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -414,6 +425,17 @@
       "region": "日本",
       "title": "「Decanter World Wine Award（デキャンタ・ワールド・ワイン・アワード）2026」にて「シャトー・メルシャン 山梨甲州 2023」が金賞を受賞",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0630_03.pdf",
+      "published_at": "2026-06-30T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「Decanter World Wine Award（デキャンタ・ワールド・ワイン・アワード）2026」にて「シャトー・メルシャン 山梨甲州 2023」が金賞を受賞",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0630_03.html",
       "published_at": "2026-06-30T02:00:05",
       "summary": "",
       "level": "B",
