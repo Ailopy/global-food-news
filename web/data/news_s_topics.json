@@ -1,32 +1,540 @@
 {
-  "total": 885,
+  "total": 923,
   "s_plus_count": 41,
   "sites": [
-    "日経xTrend",
+    "日経新聞",
     "Packaging Digest",
     "Food Dive",
-    "日経新聞"
+    "日経xTrend"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "其他": 598,
-    "品牌故事": 40,
-    "新产品": 104,
+    "其他": 626,
+    "品牌故事": 43,
+    "行业政策": 25,
+    "并购融资": 29,
+    "营销创新": 31,
+    "新产品": 107,
     "渠道新物种": 10,
     "联名营销": 20,
-    "营销创新": 30,
-    "并购融资": 27,
     "新包装": 17,
     "新技术": 10,
-    "行业政策": 24,
     "新原料": 5
   },
-  "last_updated": "2026-07-03 12:35",
-  "last_updated_iso": "2026-07-03T12:35:09.893195+08:00",
+  "last_updated": "2026-07-04 12:27",
+  "last_updated_iso": "2026-07-04T12:27:54.382765+08:00",
   "articles": [
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ソニーのプレステ、新作ゲームのディスク販売終了 割を食うのは誰か",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rTENjTzlYVFUwSXFuWlREU0Y5UE1yUW1sTkRBWWFJZ2RQQnRRUVFFSnpGdmh3WnhWVGJGeVpKLWowYmRvbENTaFQtaXpnd2hmNFB0VnlhVW5EX3FjT1ZxWFduYi1adkVRc05kcg?oc=5",
+      "summary": "ソニーのプレステ、新作ゲームのディスク販売終了 割を食うのは誰か&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米セブン、ナイキを提訴 新スニーカー ブランドカラーと酷似",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzJ4ZllPeEJtay1JV2V2OG0tZDFVMXpVdEctTDVOODV4TzNSRHE0TU16ZDRFVEJId0pmenNLY0pWYXBZQk12aDVmcExyX0ZGcjd1V2ZPUElyTzJMamhDdnozRXVuTzhlV255d0FxUHNTY2FhYXo0ZXRhcnh6MXY3bVYtN0tTR2tsbFJ5TWoyV2VjeWJiZ3QyYVRWR2hicHRWMFJFTnFB?oc=5",
+      "summary": "米セブン、ナイキを提訴 新スニーカー ブランドカラーと酷似&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T17:06:40Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "タクシー呼べないインド新空港",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeVU5Nl9FWTZWOVdkM3hDYzg5d19rYjNWVVNDWTI3NVNfSG9HeHRYaVVoMXlISHphRjRTaXVpMnR3cVhhMTJOdFpxSXFwVDNnMUZLMzdaSER1Rll6cUczR3hSSGpLTmtkS0pTT1U0c1k3S0VaUXJwMjBMYlJDYnYyVUxpaXp0dkFrTmVNelNpaDFVWFVMajFzT3VIbG5SV0FSaFE5RGNB?oc=5",
+      "summary": "タクシー呼べないインド新空港&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T17:05:57Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "〈ビジネスTODAY〉離乳食後の「幼児食」に勝機 ハウスやグリコが参入 共働き増、子育てにもタイパ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3JxSEFEeEZYOE9rTjhIV3RfNG42ZkpUWm5WV1VDaFFqRU5BNDRTSXN6TEpIdXZzS1I0cEQtV2JybVR5WG5LMS1Oc2tHMHdMSWI1WHppeC1SMmZ3X0R2aUY1ekEyVDE1ZUJicHZRdnp1VHFtVGR2Nm5QZUhaamE0QmduT0tsQ1lBQ29OTFpzSFN6R2MyTUZQQk5Od09mNHJCTXdCSlVyOEw?oc=5",
+      "summary": "〈ビジネスTODAY〉離乳食後の「幼児食」に勝機 ハウスやグリコが参入 共働き増、子育てにもタイパ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T17:05:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "〈商品〉原油反発、持ち高調整の買い",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yQXJZazh0ZDgwMFBoZmNDY1BqbHRjaFROb0wxM1hNeGVmdXMtR191UHhMQ0c1TzZpVjQtblphWmtwWkZlVWxBZ0w5MUdpbXNQb3YxWmMwZWV5QVJ0TTFBNmVsZU5hbzYyaDhrcg?oc=5",
+      "summary": "〈商品〉原油反発、持ち高調整の買い&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T17:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "藤井聡太さんも食した｢ぴよりん｣、カフェやバルーンで名古屋席巻",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85UGJQRU1YSWdqdk1vNG5EcUlTa3ZJNVFqbVdvVGhCLW1XYnlySmFrRTRHVXV6NzVpMTlENFhuLU5kaHY5M2ttTDNlRVhKb21RU0J1TUczdjJTOHN6WmttS3NTVHFIOFJ4cU9GXw?oc=5",
+      "summary": "藤井聡太さんも食した｢ぴよりん｣、カフェやバルーンで名古屋席巻&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T17:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "GSX-R1000R 9年ぶりに刷新 スズキ、排ガス規制対応",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LSDIxX0tTSldHYVRrRXNVMHE2NXNCVi1EQnZLUWNoOVV4c1BsMU5XWXBfZTN6VVdZR0VVdlZwcmNjbC0waURXVDdSSG56TkJHZjdRcW9FMHFvRG5WTGd2WmNKNjY3ckhUa3JMWg?oc=5",
+      "summary": "GSX-R1000R 9年ぶりに刷新 スズキ、排ガス規制対応&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T16:49:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "営業推進（代理店部門 代理店営業推進部）",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FQU1BblZ2YjFKdlY5S1hZeE95VEVTNXoydnhxSThIZUFSVVk2bzVwR2dtdzhSeGVGYkJKbGFLaGhLNktsdEVSMFMtdkNFSWJad09ucWZLYnc3bS1JV2NlWDZUaw?oc=5",
+      "summary": "営業推進（代理店部門 代理店営業推進部）&nbsp;&nbsp;日経転職版",
+      "published_at": "2026-07-03T13:03:41Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "学校給食にスガキヤラーメン登場 寿がきや食品が愛知県豊明市で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IWDdsNGo1SUlLdEI1bi1Ha2hKSGRlbEd5RDFHMVdtVzBtMFg0N2p6RHFNNm41bkNSNmVYSUxld3FPNzRlYmJHTlVTbDIwaUtwTEZEVFRBa3VSOHltUlduMG1icHdmUTVqNFBkbg?oc=5",
+      "summary": "学校給食にスガキヤラーメン登場 寿がきや食品が愛知県豊明市で&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T11:07:17Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "JAグループ栃木、農業機械の展示会開催 メーカー26社が出展",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hR2hUOUxwa2N1RElXVUVhWE5hc09qZzNzY3piLVZLQW9BZFo3c3dWNWgtVkowMWt6M0RfMWRDdGduU3d2d1R6Z2dYVnpsdXZaaUR6dHZyc2ZtRjI3c3hNYVhJVVpxV2k2Ylk2dQ?oc=5",
+      "summary": "JAグループ栃木、農業機械の展示会開催 メーカー26社が出展&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T10:20:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "シャープ社長、国産AI新会社への出資「産業別モデルに期待」",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanJtbjNMWG0yWGwydjd5SXN0bC1vaUJDWjhQX0VqNzRuanY1NDNDMThlbnl6bmxTM1pDY1Vpa0c3dUIzWFljczBuQ0lKdDBmQWZPRUVmS1dOU1E5TnZKZzREQVRrR3Y5VmFpbGY0RFFRMUtBb3FGYkJSZHNEVkpCTHZkOEIwcUZsdU9QcnV0Rng1OVFhZ3FjdkRacGNIbE1FNjlLVGZ2V1A?oc=5",
+      "summary": "シャープ社長、国産AI新会社への出資「産業別モデルに期待」&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T10:07:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "北海道の苫小牧港開発、環境配慮の新工業団地 ラピダス需要取り込み",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQzgzLVB4Z1kwWmMtODlSVm1OeExsYjZoUEcxUzFLVXFMeS1DNExEZW5RVHZrTDBTd1dfdEswRWxCSWxrVW5tS1ZvYllqY0lWdUtsaDh2dVc0QURYcGNkV1h6RkdjSjhudzRjZw?oc=5",
+      "summary": "北海道の苫小牧港開発、環境配慮の新工業団地 ラピダス需要取り込み&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T09:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "セブン、米ナイキを提訴 新スニーカーがブランドカラーと酷似",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ER2NuLXRaTjV4Z29OdThtOVcxT2w5eTRzOXFVLS11U1ZYaG5lNkZ6dFpqMFNSamx1bEJsVzVkNWhZQnJzWHlsN2JRMXZDdnhfcnM0M08xTkVXRXpwTTk2amYzbC1VVGJLNGkzYw?oc=5",
+      "summary": "セブン、米ナイキを提訴 新スニーカーがブランドカラーと酷似&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T09:19:20Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "サッカー:J1セレッソ大阪、新監督にマチン氏 パパス監督退任",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuYmdiOTZ6RktiblN5ODVOTFdIc0tGdFExZWVTcHBvc1ZtU19URmZLaUtYZnFvWGg3eTBjdEZ1aFFQU0thaWExUzZXamFVeU1iRW1sTjhPaklqUGd0RDdfbUc4UktMLW8wMWd1Nw?oc=5",
+      "summary": "サッカー:J1セレッソ大阪、新監督にマチン氏 パパス監督退任&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T08:56:44Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "キオクシア、次世代メモリー出荷開始 韓中勢と競合｢技術優位は1年｣",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WVnlyVnN0TGpPaFVuUlJ6NlFqZmxfWlIwclR2ajVaRUtGNTU0czVuNUIwRWxoRFFrdHQzMUpwYW81S3RyZ25taTRQcnE3LUd2QUd1VVdwemM2Tms3SUJ1V3g4cG05ZmJlT2RpQg?oc=5",
+      "summary": "キオクシア、次世代メモリー出荷開始 韓中勢と競合｢技術優位は1年｣&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T08:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "セイコー、大谷翔平選手広告起用10周年イベント 限定商品展示",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XTWdoYm1QU0NIZUhDdl9NS0lfaTFIa095N0pILXZJMThwY3MyME1NWkFpYThnUUpmVVhkbmVweExpM2pQZV9xZzJndXd1Rks2d1BNazY1VGdDUXY0cWduRGFUVk56R25teFE4eg?oc=5",
+      "summary": "セイコー、大谷翔平選手広告起用10周年イベント 限定商品展示&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T07:37:55Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "パナソニックHD系、大阪府門真市と提携 地域図書館で技術実証",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CWExEVXhqZ19ONFdDT0tWNmR2QTB1RjFkS0c3OUMtM0c5b2JuOEV4UjdKdnpIeHhXQXFCaFRWQnRnb3FIMjlTWFdGVm5zbmd5MTBET00xM0YwWUNFeWQ3OTFmMjBYaWl5QTBoRQ?oc=5",
+      "summary": "パナソニックHD系、大阪府門真市と提携 地域図書館で技術実証&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T07:18:39Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "テルモ、安全性高めた閉鎖式薬物移送システム 抗がん剤の飛散防ぐ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Jd0huTTVreUhUYTE0SDItaFNRWVlvNXpuX1Y2RnYwYjF0czFLZ1ZmRDF6VENQaWJjMjBBcG90N09rNXRkOVh5VjBtMzVVcFY4Ymh3bFZyVlJqaWJITV90Rm5rY1pHYnprenEtUg?oc=5",
+      "summary": "テルモ、安全性高めた閉鎖式薬物移送システム 抗がん剤の飛散防ぐ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T07:10:27Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "大丸福岡地下にスイーツ8店 「バターステイツ」など九州初も3店",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXZDZaTGhUYjlvYk1NSTRmOFR4cnpCTzZ5dXNBUmdTMGgzRExzaV9HQVZLeFpMckN0QkFUeHVfYkpwamZBdkpUeWJwQ05kSmFYQm5jcTJhS3haSWJpZ0NIZTk2eG83QkhSdFM4Tg?oc=5",
+      "summary": "大丸福岡地下にスイーツ8店 「バターステイツ」など九州初も3店&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T06:33:55Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "カルビー、「じゃがりこ」ブランドより「じゃがりこ ジェノベーゼピザ味 Lサイズ」をコンビニで期間限定発売",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85Y2h4TWk4LXF3UklNODd6U0dqdjB4OThIZFFtU3p2Z2pGTWhGdEI1anptQmlnX20wYW9LTHN5dmgwN3ZNenZhZ1RWRkk5MkUzWUVwX0ZhdGUtTkdaRUJqa3hWRlRna2lRQUdhMw?oc=5",
+      "summary": "カルビー、「じゃがりこ」ブランドより「じゃがりこ ジェノベーゼピザ味 Lサイズ」をコンビニで期間限定発売&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T05:13:17Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "日焼けしたシナモロールたちお披露目 サンリオ・ハーモニーランドで",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iRFgtV3IxZU9zTWtrSGY1clR5RWlKN0xxTzdSUG4yR2tXejNucXA5UnlZWGRoWjczWTc4al85Y1g1M3RDNy1fZDdPckNZbjJ6dUUwbGlFYndNZko3S3U3bm1peVY1WldJNG1SSA?oc=5",
+      "summary": "日焼けしたシナモロールたちお披露目 サンリオ・ハーモニーランドで&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T04:18:30Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ライオン、「NANOX 深層浸透洗浄」を発売",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGRBYmlJVmlSbDI5UTRiTWROd2VseVNTRzJGc1BQRXQ2aW9NTllHUGIwemE1TXR3cFVKRmFUVjlKckN2c21QSXNRdDRkaW5OUGNXSHExMG5WSVotdTgta3paUTNZNlp2WEUyU2NuUEg4MTRrTlNCM0d5MkpfeUxSWVlCRi0zY1VBb3NpZnRUTmFlcGRGY0k2eTZZbUNKNnRlbUdmMU10QXVRZw?oc=5",
+      "summary": "ライオン、「NANOX 深層浸透洗浄」を発売&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T03:07:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "新技术",
+          "icon": "⚡",
+          "color": "#0891b2",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
     {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
@@ -158,6 +666,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-03T12:34:54+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "福岡「あまおう」、台湾やタイが新市場 大手農園は3年で輸出3倍",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FRlJvbWNyVVZhQU5KMGQtdjhmZERFNE9zcHJ5aWhKbVY2b3VlWTUtbWdqanMtd294S3A0RDIyNFhFY0RmUXF2dXNJT2ZTaTAwQU9hVy03eFItalZ5NFF0RXdRWnhlSktEWjUwOA?oc=5",
+      "summary": "福岡「あまおう」、台湾やタイが新市場 大手農園は3年で輸出3倍&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-03T02:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -524,6 +1054,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "［投信ドキュメンテーション部］投資信託の法定開示書面作成等の企画、作成担当",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Fd09uUEx2T2ZfOXkzNmtLemdwTWhGRlZxS2tUMlNOeEQ2djU4Y0xUcjRvY2pYNWNZRzh2dWdkLWc5MWtPbFhDTWV1UzR5Q0YwSnpPZDBNdVhENjBJa0t3dGJ3?oc=5",
+      "summary": "［投信ドキュメンテーション部］投資信託の法定開示書面作成等の企画、作成担当&nbsp;&nbsp;日経転職版",
+      "published_at": "2026-07-02T21:01:20Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "生成AIでユーザーのインサイトに迫る 感情と行動と信念の違い",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rVGRHSlNrYU9lR3pVczN5ZGJHN01URkhOTkNOal9WM0FKUzN6bTB6RnpyWDlTczBNVWV5UktfUTA5dmFtVjVJUnFuUGtFZmRKd2gyTGp0d0VpMTFuUDV5NnI2QTZtLVZsYnJOUA?oc=5",
       "summary": "生成AIでユーザーのインサイトに迫る 感情と行動と信念の違い&nbsp;&nbsp;日経BOOKプラス",
@@ -634,6 +1186,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "ベクトル、PDFからAIタレント動画自動生成 制作時間97%削減",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEttSzBKVGZsOXU3dEdkOTBnVkpCVzUwOTlCMlFZbWRsNzlNR0hMeXlkaTlFbS1IcURJUFYzVUpSQ1Jpd3ZqVFRXUUl6NFlSaWNIZGpQUjVsYmZTdjM5dl9BeXYtX002V0hWbFR5REYtbFZyRThGcXR1aUVBOUVHc0p0b0w2b0VtVHVlTld4YUYwOUVsRTlZbG1ZTWc0S3ZUeERDS3dB?oc=5",
+      "summary": "ベクトル、PDFからAIタレント動画自動生成 制作時間97%削減&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-02T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "ユニ・チャーム、印でペット用品に参入 生産委託で迅速展開",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGxXSE5jZTNYYk90NzVPQXlqMXhNRGczOUV1OEMwcHZ5cEZxUXFHNnZIaThZdy1PMURFSVh5YnBsZnVsM0VibzJmMWdjdDRNMTFpeTdYM1NLYUVvcXQ1ZGJPVm5sX0phWXo1X1dkbFhhOFBIOFF3OW9hT3VUallXLXFUU29MR2VyRnd0NThJNno5QnRXczRlc0RMUVNkLUpudnBSQkNn?oc=5",
       "summary": "ユニ・チャーム、印でペット用品に参入 生産委託で迅速展開&nbsp;&nbsp;日本経済新聞",
@@ -650,6 +1224,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-03T12:34:54+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "旭化成、台湾に新工場 半導体基板向け材料",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1c0V3Z1aXJ3Mi15TGJfVTNBNms2c04wbjJkbENvOVBsRlRJcGlpU0FtU2hlVUtHLXNXNDdqdjlPbWxCbVFSRWpGRDJpaEtGRDBrS3ZKbE0zNktrdWFiUDhWSWllQ240VEM2Ni01REZuVnlXRTRRbTVUczNWd2dOTDR4Z0phSmdENjRXZ2szc09hRXNCQ2JMRGp5MktPR21vbnNPeTdB?oc=5",
+      "summary": "旭化成、台湾に新工場 半導体基板向け材料&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-02T17:07:17Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "（人事・食品・アグリ）日清食品ホールディングス",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjc0REdNU1dORGlKYk5TSXpOV29zVGkxdWZES3hsVGZXdGw1NG1SY1JxYzI4aXN2MUFlbzh0cngzQjc3WHVZa3prUHdmVk9JazdNSWVkVFJHY2s4aUE2WTJQYW1neDdVMWptRGtyX1ZMcWVwMndSVEFoMWQzMlFrbGpTSE5TUURCYWxoRjh0Y25zY3Y5NEtlczBMcnVNVUpQQktqRUR3?oc=5",
+      "summary": "（人事・食品・アグリ）日清食品ホールディングス&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-02T17:04:46Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -738,6 +1356,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-03T12:34:54+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "日本発ミートボールをアジアへ 石井食品、フィリピンや台湾に初輸出",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xMmF5Y0sweU9QWE5JYkcwSWFuYy1tWGdKUFlPWTEtM1ZzUzRSMGw5cVQtZy1ielBfVGJBX1B2emNIRlFiaF9GbEItMTBRQ1hNbmo1X0JDRjFyVE41SjdEdVRaWk9CcFRUNlVhdg?oc=5",
+      "summary": "日本発ミートボールをアジアへ 石井食品、フィリピンや台湾に初輸出&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-02T17:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -992,6 +1632,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "キリンHDの「第3の柱」、健康事業が初の黒字化 問われる多角化戦略の真価",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TWU0wOEY4NUROU3FVMk5XcHlWTDJsdEppZkp2anRMWEY0ZTVaZ1hrTGp5TWZKa0xvSld1TGtQQ0Uzbm9jNnA4MFVHTG9jTXYyWkVTRUljZTBwbDBmdVU4ZG93?oc=5",
+      "summary": "キリンHDの「第3の柱」、健康事業が初の黒字化 問われる多角化戦略の真価&nbsp;&nbsp;日経ビジネス電子版",
+      "published_at": "2026-07-02T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "店長・販売員×糸島市(福岡県)の転職・求人検索結果",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RQ3lmb0NRV2Fvck9LeW9oUEpmWGh1dzVCNEdKeVlPbmt2NXBCc05PQkROZHhTbEV5VVdRaDBiWWtrWmxBZUdGMTA1Z1lmRXh4bFZNdGItSjB5cGo1bkFWalFLTQ?oc=5",
       "summary": "店長・販売員×糸島市(福岡県)の転職・求人検索結果&nbsp;&nbsp;日経転職版",
@@ -1102,6 +1764,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "アサヒ、日比谷でジンベースの「GINON」体験 ブランド認知拡大へ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcndIclRIRnBudVpzVU95c213U09uaU9sVHZBTlNOZWc0T3ZKLVM2SnhsU0tjYkZRNWplUUE1ZFhVRGNtWGtEaTZ0Wk13VWJ1SHBuMnR3MzgzMEYzbk5pYUo5aGFaVExJZHFOSGlxejNqRzI0MmtNbUhxSnNFbDJMbDZzTkRFZ1RqSUl6X0xnMnVKY0E3U2pyV2l2WEtkcDZiSk9TQzhaaXM?oc=5",
+      "summary": "アサヒ、日比谷でジンベースの「GINON」体験 ブランド認知拡大へ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-02T10:50:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "日本ハム、初回先頭から4者連続ホームラン プロ野球新記録",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MaWVuLUI1QVNiOVBwN0x5WjV6dTJyR3RtT1RaX0RMbTZDRUtteG5CWHY0RG1RdDJjU2dlODBWS2pFMXF0aDdSTDlId2E2cnBOeDVDRlJ4RWYtTG5FcXRad2p3TVF6SnJvMVMwaw?oc=5",
       "summary": "日本ハム、初回先頭から4者連続ホームラン プロ野球新記録&nbsp;&nbsp;日本経済新聞",
@@ -1140,6 +1824,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-03T12:34:54+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "西鉄貝塚線、6両編成検討も 地下鉄相互乗り入れで市長と社長会談",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhWHFrYldIcjZhVW9aQmc2U0xzUUhIV3ZhV2pqeUVrVlZ3cF9fNFpnSzNuU1ZrYk16a1hGZnhnOUlLXzR2YmttTjcyOEM1RkN2VElzd1ZLVUlNRjlvYWU5dHhYTTBhbDdCdFhvZA?oc=5",
+      "summary": "西鉄貝塚線、6両編成検討も 地下鉄相互乗り入れで市長と社長会談&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-02T09:49:34Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -1256,6 +1962,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "商品15時45分 原油が反落 需給緩和観測広がる 金は3日ぶり反発",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NRHNrNW9NbFE1WWZta1UzbE10Yk8yYjg4bExhTC1uVUFBUmdITEVMbDVGbm9jT25GQWhuNlZoLTdKb3A4eHZOczBZZVhRWXFFQlA5OWpWaDFXTDJZeHpqbEdvZGxGZjZURDZ4RA?oc=5",
+      "summary": "商品15時45分 原油が反落 需給緩和観測広がる 金は3日ぶり反発&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-02T07:31:49Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "ヒロタグループホールディングス[3346]：定款 2026/06/25 2026年7月2日(適時開示) ：日経会社情報DIGITAL",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtbHpnYm0zSG9iSVE0b0tHM3Y3U0cyNXczMzV6ZjlkcXlLOGJtdHBDSFdneFU5eEhrTlk2YXVVNU5BWjNFYVpZTWwyenNFWDVJbjNoaFdxQl8tYk5udmlLWlpVQ2tvVnl6bUE?oc=5",
       "summary": "ヒロタグループホールディングス[3346]：定款 2026/06/25 2026年7月2日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
@@ -1338,6 +2066,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-03T12:34:54+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ヤマハ発動機、ビジネス向け電動バイク発売 スクーターも販売拡大",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RLWNveWtSUmlrbm5LaFpSSHJjbnZwdDRJWnFRdUZnNnRQbmNnakxmb0pWRDl2S3lUelF3aW90ckVOWlRtMzVkSnAtNUpYMjI3QlprcnNKa24zNk1Wa3U2MXhIMEJoZ0NHcGdhZg?oc=5",
+      "summary": "ヤマハ発動機、ビジネス向け電動バイク発売 スクーターも販売拡大&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-02T06:30:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -1454,6 +2204,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-02T12:52:01+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "川崎重工など、製造現場のデータ5000時間収集 フィジカルAI向け",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0lFemw1YU16OEZ3Q2txdmR3VnNqQnh4cG1pbEZUY1g4RDFscnFuTGh5MEhXT1dqWmxoZUtqRnBob3RkMVpsQTJPZ1o0SWdXcXlsMUJYRzNDTlRfWGlIMnF1cDdKNUlKMFlabks3VEZ3Tk9HamZOc2lnYlZRc0ZEV0NjbnRkTnpzaUNCd1ZXX2wteGtGQWxTMWNZOUdMYU9senZJeFlpeVo?oc=5",
+      "summary": "川崎重工など、製造現場のデータ5000時間収集 フィジカルAI向け&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-02T03:51:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -2504,6 +3276,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "（人事・食品・アグリ）ロッテホールディングス",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHRpXzVGSjVEX29ZaDhxQkpRbUJFNWRuS29aNEg3Y2szSkJ1a1RwbGRhTF9HY1VHSzNDVkh6OWp6bEVSOU15ajRybk95Q1l4Vl81Ym5TNEJ2cl9MSC1PNDk3ckUzUzVKUFRFQi02NDJtcVIzWGxuTTh0ZWJQRnVsN01LMlZJZkhDZG9odXJzRUttVXVkWmlldlprODEwXzNuaTRwY3FB?oc=5",
+      "summary": "（人事・食品・アグリ）ロッテホールディングス&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-01T17:04:07Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "プレステ、ディスク販売せず ソニー、28年以降の新作対象",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHVyVGVGNG1MSGxnZHM1dTBMenRLMzlRVkRtdmx5WjdXUDVwMHJ6VjUxdG5tdE5rRXVrc01telU3cE5qY3B4SmdPeVYtcVRMRVNQcmE5Y3NpRml6UTdiRkN5MF96bkg3Y1EzYXBMbHFjUDVSWFNsb09VN1E3QU5yajZfZG11Z2Z2dmNvV2YydF9xM1FkY1VXREJUa0VXa2JKNUtnWDVfdG4?oc=5",
       "summary": "プレステ、ディスク販売せず ソニー、28年以降の新作対象&nbsp;&nbsp;日本経済新聞",
@@ -2564,6 +3358,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-02T12:52:01+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "JERAがLNG調達の新会社",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMG5lNENadVQyU0doU0RYN2U1T0FzXzU2QV9FLWE2RVdGbkI0UzBtVjZXLW5mNjlvbnQteTFvZGNpVVZCU0FBZTJWZGN0NHdJaWJ5Zmo0eDkwQmxYNEhmQTRaUUxLY1V4cUh1Wkx0NDh4UGV4U3laQVd6NFlROHozM1Q5Ykt2NkFvQVRYendhbmNoTHp6azFoTmZkdDI5WFlISXFacXZ3?oc=5",
+      "summary": "JERAがLNG調達の新会社&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-01T17:04:06Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -3051,6 +3867,28 @@
       "region": "日本",
       "positioning": "新品&产业",
       "title": "住友ゴム、氷上でも滑りにくい冬タイヤ 地面と密着した状態を持続",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nNElIQ0NxVng4Y3lNZEprdno3VElNeWw3aVNJYnRuLUZPRFhUeFVTbGRDMHE1dE50SkQ4MG5wYVBDLWNKQ05VVlE3SXEzcTdXZm1oTU1FWDZVRnZQQzZieFY2b0dCWURIR2hmMA?oc=5",
+      "summary": "住友ゴム、氷上でも滑りにくい冬タイヤ 地面と密着した状態を持続&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-01T11:18:50Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "住友ゴム、氷上でも滑りにくい冬タイヤ 地面と密着した状態を持続",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGlHS1dJNnd5bDNWbEkyREJra3hKS284ZjhCZXhkTFNPbkVvRVhhbDNqdldlNFdFMW5pMk14WVc2RmhSSWNLZHJ2eEVibDZTeS1nWEQtMDNvRkdaOVVEV05pT3BkNnRUYzMwaE9RMUxNQTBYWVRxbkdIZkZpN2tjS3Q1RkwxVFNOb1lTZk11YVRoYWxFeEtTN19mZ2dZS01wbzFOVmRFWUQ?oc=5",
       "summary": "住友ゴム、氷上でも滑りにくい冬タイヤ 地面と密着した状態を持続&nbsp;&nbsp;日本経済新聞",
       "published_at": "2026-07-01T11:18:00Z",
@@ -3176,6 +4014,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-02T12:52:01+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "人事、ジャパンディスプレイ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82NmtpMEFpSmhSR0dzNk8ybG9pc01XVEp3MDhkdVJYeXc1OW1ENFhmZE85b3RSVEhXYWlENldmWUI2QmgzdnA0WHFUU0FtRlRKRFc3WFAtNmJ0VGJ0cWpOemdUSTNtOXBDcHNDVA?oc=5",
+      "summary": "人事、ジャパンディスプレイ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-01T09:06:27Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-04T12:27:40+08:00"
     },
     {
       "site_name": "日経新聞",
