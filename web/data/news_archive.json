@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T19:25:51.656485+08:00",
-  "total": 4497,
+  "last_updated": "2026-07-04T10:34:48.410318+08:00",
+  "total": 4499,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -13,6 +13,30 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "43e6f8827c7ba37f",
+      "title": "Beef jerky recalled because of undeclared wheat",
+      "summary": "The USDA’s Food Safety and Inspection Service (FSIS) is issuing a public health alert for a beef jerky product because of misbranding and an undeclared allergen. The product contains wheat, a known…",
+      "url": "https://www.foodsafetynews.com/2026/07/beef-jerky-recalled-because-of-undeclared-wheat/",
+      "published_at": "2026-07-04T09:27:31+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "6e0d28e0a5b5ad0b",
+      "title": "惣菜パンの新商品「スパイシーピザパン」を発売、食事や手軽な軽食にもぴったりなボリューム系パン【セブン‐イレブン】",
+      "summary": "セブン‐イレブンは、惣菜パンの新商品「スパイシーピザパン」を、7月7日から順次発売する。 【スパイシーピザパンの画像はこちら】 ◆スパイシーピザパン 価格:198円(税込213.84円)発売日:7月7日～順次販売エリア:...",
+      "url": "https://www.ssnp.co.jp/distribution/691446/",
+      "published_at": "2026-07-04T08:30:00+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "e3c97fd6818c0679",
