@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-05T15:33:29.924473+08:00",
+  "last_updated": "2026-07-05T18:58:18.937201+08:00",
   "retention_days": 7,
-  "total": 479,
+  "total": 483,
   "sources": [
     "BevNET",
     "Fab News",
@@ -29,6 +29,126 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "a43b7d88e67882ed",
+      "title": "謎を解こう！ホットスナックのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ホットスナック」の最新・注目度ランキングです♪（2026年7月3日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-23146/?utm_source=rss&utm_medium=mognavinews_20260705",
+      "published_at": "2026-07-05T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "47171e8b1214be1b",
+      "title": "今週新発売の惣菜パンまとめ！『スナックサンド　佐賀牛ビーフシチュー＆チーズ』、『スナックサンド　ハム＆マヨ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンフジパン スナックサンド 佐賀牛ビーフシチュー＆チーズ 袋2個佐賀牛使…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070508/?utm_source=rss&utm_medium=mognavinews_20260705",
+      "published_at": "2026-07-05T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c1b5ecc257d18d50",
+      "title": "今週新発売の惣菜パンまとめ！『炭火焼風しょうゆ味ハンバーグ』、『横国パワー丼風』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パン第一パン 炭火焼風しょうゆ味ハンバーグ炭火焼き風しょうゆダレで味付けし…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070507/?utm_source=rss&utm_medium=mognavinews_20260705",
+      "published_at": "2026-07-05T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c4ae6217fd20c03b",
+      "title": "今週新発売の惣菜パンまとめ！『たこ焼き風ぱん』、『炭火風味塩だれバーガー』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンリョーユーパン たこ焼き風ぱん 袋1個もっちりとした生地で紅ショウガ入…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070506/?utm_source=rss&utm_medium=mognavinews_20260705",
+      "published_at": "2026-07-05T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5f1f098fb41616f9",
+      "title": "【2026年7月第1週】ポテトチップス・スナックランキング1位はベビースターBBQステーキ味！新商品・久しぶりランクインまとめ",
+      "summary": "2026年7月第1週のポテトチップス・スナックランキングが出揃いました。夏に向けてさっぱり系からがっつり系まで、気になる商品が顔を揃えた一週間です。さっそく今…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-23096/?utm_source=rss&utm_medium=mognavinews_20260705",
+      "published_at": "2026-07-05T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7b4d9f8d27305fea",
+      "title": "今週新発売の菓子パン🍫まとめ！『グレーズケーキ　黒糖』、『カステラサンドチョコ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン グレーズケーキ 黒糖 袋1個ふんわり生地で黒蜜入りフィ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070505/?utm_source=rss&utm_medium=mognavinews_20260705",
+      "published_at": "2026-07-05T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "307a68aab72d9226",
+      "title": "【2026年7月第1週】せんべい・駄菓子ランキング1位は味しらべ濃旨チーズ味！梅しそ・ビビンバ風など注目フレーバーまとめ",
+      "summary": "2026年7月第1週、せんべい・駄菓子カテゴリのランキングが出揃いました。夏に向けて食欲をそそる味のラインナップがそろっており、今週もバリエーション豊かな顔ぶ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-23095/?utm_source=rss&utm_medium=mognavinews_20260705",
+      "published_at": "2026-07-05T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "241600e11e0c9a9d",
+      "title": "今週新発売の菓子パン🍫まとめ！『グレーズケーキ　レモン』、『ちょこばなな蒸しケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン グレーズケーキ レモン 袋1個ふんわり生地でレモン風味…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070504/?utm_source=rss&utm_medium=mognavinews_20260705",
+      "published_at": "2026-07-05T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "bb2273a846376b0a",
+      "title": "【2026年7月第1週】クッキー・パイ・ビスケットランキング1位はココナッツサブレ メロンパン味！新商品・急上昇商品まとめ",
+      "summary": "2026年7月第1週のクッキー・パイ・ビスケットランキングが出揃いました。新商品が上位に顔を揃えるなど、今週もバラエティ豊かなラインナップが楽しめます。早速チ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-23094/?utm_source=rss&utm_medium=mognavinews_20260705",
+      "published_at": "2026-07-05T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "21ccf7cd557fcdb1",
+      "title": "今週新発売の菓子パン🍫まとめ！『ミルクホイップパン』、『オラの妖怪マンハッタン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン ミルクホイップパン 袋1個ほんのり甘い生地で、ミルク風…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070503/?utm_source=rss&utm_medium=mognavinews_20260705",
+      "published_at": "2026-07-05T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "ff0487843f3a4ae6",
@@ -5693,78 +5813,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "9b8f88e5b71efe60",
-      "title": "〈こだわりのヒミツ〉日清オイリオグループ「日清こめ油ドレッシング」 こめ油×こめ酢のハーモニー",
-      "summary": "素材にこだわり、ベースとなる食用油には人気の「こめ油」を使用。食用酢には「こめ酢」を配合し、おいしさと健康感、素材感を大切にやさしい味わいのドレッシングに仕上げた。和風と焙煎ごまの2種類。 ソース",
-      "url": "https://shokuhin.net/152330/2026/06/28/himitsu/",
-      "published_at": "2026-06-28T18:30:57+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "b30a5e9e5c0754c6",
-      "title": "25年の缶びん詰国内生産量 原料悪化、コスト高で減産",
-      "summary": "日本缶詰びん詰レトルト食品協会がまとめた、2025年（1～12月）の缶びん詰国内生産量は185万t（2億9972万箱／実箱）、前年対比3.1％減となった。このうち、飲料缶詰を除いた一般食料缶びん詰は20万t（2881万 […] ソース",
-      "url": "https://shokuhin.net/152303/2026/06/28/topnews/",
-      "published_at": "2026-06-28T18:30:18+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "7e769fd9f8aa92bd",
-      "title": "メロンが旬！コンビニフラッペのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニフラッペ」の最新・注目度ランキングです♪（2026年6月26日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22849/?utm_source=rss&utm_medium=mognavinews_20260629",
-      "published_at": "2026-06-28T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "509f26e06174c1e8",
-      "title": "メロンが旬！コンビニフラッペのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニフラッペ」の最新・注目度ランキングです♪（2026年6月26日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-22849/?utm_source=rss&utm_medium=mognavinews_20260628",
-      "published_at": "2026-06-28T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "f22770583f109795",
-      "title": "今週新発売のたまご味まとめ！『マフィンサンド　ハムたまご』、『ハムたまごドーナツ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！たまご味の新商品情報をお届けします。今週新発売の#たまご味ローソン マフィンサンド ハムたまご人気の具材ハム・たまごをはさんだ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062808/?utm_source=rss&utm_medium=mognavinews_20260629",
-      "published_at": "2026-06-28T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "eb35391c2a1aea24",
-      "title": "今週新発売のたまご味まとめ！『マフィンサンド　ハムたまご』、『ハムたまごドーナツ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！たまご味の新商品情報をお届けします。今週新発売の#たまご味ローソン マフィンサンド ハムたまご人気の具材ハム・たまごをはさんだ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026062808/?utm_source=rss&utm_medium=mognavinews_20260628",
-      "published_at": "2026-06-28T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
