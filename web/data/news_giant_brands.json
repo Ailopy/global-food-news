@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-05T12:48:24",
+  "last_updated": "2026-07-06T13:02:41",
   "retention_days": 10,
-  "total": 304,
+  "total": 308,
   "s_count": 21,
   "a_count": 2,
-  "b_count": 281,
+  "b_count": 285,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -288,6 +288,61 @@
       "level_reason": "常规新品/营销"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-07-06T00:00:00",
+      "summary": "2025年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.06湖池屋「カラムーチョ」「すっぱムーチョ」\"強刺激ムーチョ\" 2品 (7月6日発売)",
+      "url": "https://www.nissin.com/jp/news/13808/",
+      "published_at": "2026-07-06T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.06湖池屋「ドンタコス」2品 10%増量 (7月6日発売)",
+      "url": "https://www.nissin.com/jp/news/13807/",
+      "published_at": "2026-07-06T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.06明星食品「明星 一平ちゃん夜店の焼そば」の新TV-CM 『マヨ格子がけの男篇』(7月6日から全国で放映)",
+      "url": "https://www.nissin.com/jp/news/13813/",
+      "published_at": "2026-07-06T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 대구 치맥페스티벌서 ‘소바바 황금홀릭’으로 현장 달궜다2026.07.06",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1784",
+      "published_at": "2026-07-06T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -317,17 +372,6 @@
       "url": "https://news.ajinomoto.co.jp/2026/07/20260703.html",
       "published_at": "2026-07-03T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-03T00:00:00",
-      "summary": "2025年12月期 第3四半期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
