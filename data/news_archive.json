@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T16:27:19.404304+08:00",
-  "total": 4657,
+  "last_updated": "2026-07-06T20:36:30.332686+08:00",
+  "total": 4661,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -12,6 +12,54 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "af7bf0f6674eb116",
+      "title": "7月のアイスはコレだ！トレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「アイス」の最新・注目度ランキングです♪（2026年7月3日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基に…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-23179/?utm_source=rss&utm_medium=mognavinews_20260706",
+      "published_at": "2026-07-06T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "24db4b1814c06f6e",
+      "title": "今週新発売の惣菜パンまとめ！『スナックサンド　たまご＆マヨ』、『ジャーマンポテトクロワッサン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン スナックサンド たまご＆マヨ 袋2個ごろっとたまごとマヨカロリー…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070608/?utm_source=rss&utm_medium=mognavinews_20260706",
+      "published_at": "2026-07-06T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e5c1745077e7876f",
+      "title": "丸亀製麺、店舗で手作りする初の冷たいスイーツ「うどんプリン」発売　店で打つうどん使用",
+      "summary": "丸亀製麺は7月7日、同社初となる冷たいスイーツ「丸亀うどんプリン」を発売する。 店舗で毎日打つうどんを使い、プリン生地から店内で仕込む。ゼリーと“もちとろ”食感のプリン生地による二層仕立てで、うどん専門店ならではの新食感...",
+      "url": "https://www.ssnp.co.jp/foodservice/692242/",
+      "published_at": "2026-07-06T17:08:13+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "ee5f3364709f687b",
+      "title": "When growth creates leakage: how nutraceutical brands can protect distribution without fixing resale prices",
+      "summary": "Nutraceutical brands can protect growth, margins and consumer trust by designing controlled distribution systems that manage channel leakage without unlawful resale price fixing",
+      "url": "https://nutraceuticalbusinessreview.com/when-growth-creates-leakage-how-nutraceutical-brands-can",
+      "published_at": "2026-07-06T16:30:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
