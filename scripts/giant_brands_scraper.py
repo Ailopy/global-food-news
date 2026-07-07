@@ -20,7 +20,7 @@ from giant_brands_config import GIANT_BRANDS, S_LEVEL_KEYWORDS, A_LEVEL_KEYWORDS
 # ── 常量 ───────────────────────────────────────────────────
 OUTPUT_DIR  = Path(__file__).resolve().parent.parent / "web" / "data"
 OUTPUT_FILE = OUTPUT_DIR / "news_giant_brands.json"
-RETENTION_DAYS = 10
+RETENTION_DAYS = 30
 REQUEST_TIMEOUT = 30
 DELAY_BETWEEN_REQUESTS = 1.5  # 秒，避免频繁请求
 
@@ -334,7 +334,7 @@ def deduplicate(articles):
     return list(seen.values())
 
 
-# ── 数据保留策略（10 天）──────────────────────────────────
+# ── 数据保留策略（30 天 / 近1个月）──────────────────────────────
 def prune_old_articles(articles, retention_days=RETENTION_DAYS):
     """只保留最近 N 天的资讯"""
     cutoff = now_cst() - timedelta(days=retention_days)
@@ -412,7 +412,7 @@ def main():
     existing = load_existing()
     all_articles = merge_with_existing(all_articles, existing)
 
-    # 保留 10 天
+    # 保留近1个月（30天）
     all_articles = prune_old_articles(all_articles)
 
     # 按日期排序（最新在前），S 级优先
