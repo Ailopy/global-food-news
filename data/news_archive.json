@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T15:48:38.093780+08:00",
-  "total": 4733,
+  "last_updated": "2026-07-07T19:37:37.315209+08:00",
+  "total": 4740,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -13,6 +13,78 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "e359c9fab70eabc3",
+      "title": "Why piperine is added to curcumin?",
+      "summary": "Turmeric has been paired with black pepper in Ayurvedic kitchens for centuries. Modern pharmacokinetics now explains exactly why that pairing works",
+      "url": "https://nutraceuticalbusinessreview.com/why-piperine-is-added-to-curcumin",
+      "published_at": "2026-07-07T19:03:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "810993bc1a6f1688",
+      "title": "ADM report maps global pet longevity market as cultural norms drive formulation divergence",
+      "summary": "Proprietary consumer research across five markets reveals 54% of pet owners maintain routine preventative care, with ingredient quality and pet enjoyment outranking price — but purchasing intent…",
+      "url": "https://nutraceuticalbusinessreview.com/adm-report-maps-global-pet-longevity-market-formulation",
+      "published_at": "2026-07-07T18:17:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "41efa905092efbde",
+      "title": "軽い味わい♪夏のチョコレートおすすめTOP3！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「チョコレート」のおすすめランキングです♪（2026年7月3日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基…",
+      "url": "https://mognavi.jp/news/matome/gen-categoryRanking-23212/?utm_source=rss&utm_medium=mognavinews_20260707",
+      "published_at": "2026-07-07T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "71d2af9a2d8f42cc",
+      "title": "今週新発売の期間限定まとめ！『チョイス　ココナッツ』、『ペコちゃんミルキードーナツクッキー　塩キャラメル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定森永製菓 チョイス ココナッツ 箱2枚×7ふわっと香るココナッツと、…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070708/?utm_source=rss&utm_medium=mognavinews_20260707",
+      "published_at": "2026-07-07T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b7c3ea7ef5d5d9e6",
+      "title": "てんや新業態「おにどん」1号店が御茶ノ水にオープン、「天丼にぎりました」がコンセプトのおにぎり天どん専門店",
+      "summary": "ロイヤルコントラクトサービスは7月7日、天丼チェーン「てんや」の新業態となる、おにぎり天どん専門店「おにどん」の1号店をJR御茶ノ水駅「エキュートエディション御茶ノ水」内にオープンした。 「おにどん」は、「天丼にぎりまし...",
+      "url": "https://www.ssnp.co.jp/foodservice/692383/",
+      "published_at": "2026-07-07T17:14:36+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "949a3298980932ca",
+      "title": "すき家「Sukiシェイク ラムネ」を発売、バニラシェイクにラムネ風味のソースとシャリシャリシュガーをトッピング",
+      "summary": "牛丼チェーン店「すき家」は、7月8日午前9時から、「Sukiシェイク ラムネ」を販売する。一部店舗を除く、1,719店舗で販売予定。 【「Sukiシェイク ラムネ」の画像はこちら】 すき家では、食事の際の一杯や単品メニュ...",
+      "url": "https://www.ssnp.co.jp/foodservice/692362/",
+      "published_at": "2026-07-07T16:04:16+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "92b7ddabb264bbd4",
@@ -60,6 +132,18 @@
       "region": "日本",
       "category": "综合",
       "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "51a8fa0acdb4a6ac",
+      "title": "不二家、初の「ミニオン」コラボ　バナナロール・バナナケーキ・カントリーマアムなど限定商品発売",
+      "summary": "不二家は、人気キャラクター「ミニオン」と初めてコラボレーションし、7月から8月にかけてコラボ菓子や洋菓子を順次発売する。 8月7日公開の最新作映画「ミニオンズ＆モンスターズ」に合わせて実施する企画。ミニオンのはちゃめちゃ...",
+      "url": "https://www.ssnp.co.jp/snack/692327/",
+      "published_at": "2026-07-07T14:51:59+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
       "language": "ja"
     },
     {
