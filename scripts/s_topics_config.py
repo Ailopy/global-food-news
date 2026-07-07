@@ -447,9 +447,44 @@ FOOD_BEV_EXCLUDE_KEYWORDS = [
     "semiconductor", "chip design", "blockchain", "crypto",
     "半導体", "ブロックチェーン", "暗号資産",
     "iphone", "ipad", "macbook", "ios", "mac os", "apple watch",
-    # 汽车/交通
-    "automotive", "car model", "vehicle", "electric vehicle", "ev",
-    "自動車", "車種", "電気自動車", "ev車",
+    # 汽车/交通（强化：品牌名 + 车型 + 汽车术语，三语覆盖）
+    # ── 汽车品牌（英文）──
+    "toyota", "honda", "nissan", "suzuki", "mazda", "subaru",
+    "daihatsu", "mitsubishi motors", "lexus", "infiniti", "acura",
+    "bmw", "mercedes", "mercedes-benz", "audi", "volkswagen", "porsche",
+    "tesla", "volvo", "saab", "renault", "peugeot", "citroen", "fiat",
+    "ferrari", "lamborghini", "bentley", "rolls-royce", "jaguar", "land rover",
+    "hyundai", "kia", "genesis motors", "gm", "general motors", "chevrolet",
+    "ford motor", "chrysler", "dodge", "jeep", "cadillac", "lincoln",
+    "byd", "nio", "xpeng", "li auto", "geely", "changan", "great wall motors",
+    # ── 汽车品牌（日文）──
+    "トヨタ", "ホンダ", "日産", "スズキ", "マツダ", "スバル",
+    "ダイハツ", "レクサス", "三菱自", "光岡",
+    # ── 汽车品牌（中文）──
+    "比亚迪", "蔚来", "小鹏", "理想汽车", "吉利", "长安汽车", "长城汽车",
+    "一汽", "上汽", "广汽", "东风汽车",
+    # ── 车型/术语（英文）──
+    "sedan", "suv", "pickup truck", "hatchback", "coupe", "convertible",
+    "minivan", "crossover", "roadster", "station wagon",
+    "engine", "transmission", "horsepower", "torque", "fuel economy",
+    "mpg", "mileage", "hybrid vehicle", "plug-in hybrid",
+    "charging station", "lithium battery", "fuel cell", "gasoline",
+    "diesel engine", "turbocharged", "catalytic converter",
+    "autonomous driving", "self-driving car", "lane assist",
+    "dealership", "car sales", "auto show", "motor show",
+    "tire", "tyre", "wheel", "brake", "suspension",
+    # ── 车型/术语（日文）──
+    "自動車", "車種", "電気自動車", "ハイブリッド車", "プラグインハイブリッド",
+    "乗用車", "車載", "充電器", "充電スタンド", "リチウムイオン電池",
+    "燃料電池", "ガソリン車", "ディーゼル", "ターボ",
+    "エンジン", "トランスミッション", "馬力", "燃費",
+    "ディーラー", "モーターショー", "タイヤ", "ブレーキ",
+    "自動運転", "運転支援", "クルマ", "車両",
+    # ── 车型/术语（中文）──
+    "汽车", "车辆", "燃油车", "新能源车", "电动汽车", "混合动力",
+    "轿车", "卡车", "货车", "客车", "发动机", "变速箱",
+    "马力", "油耗", "充电桩", "锂电池", "燃料电池",
+    "4s店", "车展", "轮胎", "刹车", "自动驾驶",
     # 房产/建筑
     "real estate", "property market", "housing", "construction",
     "不動産", "住宅", "建設", "マンション",
