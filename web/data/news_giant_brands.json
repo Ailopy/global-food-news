@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-06T13:02:41",
+  "last_updated": "2026-07-07T12:42:51",
   "retention_days": 10,
-  "total": 308,
+  "total": 309,
   "s_count": 21,
   "a_count": 2,
-  "b_count": 285,
+  "b_count": 286,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -293,7 +293,7 @@
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-06T00:00:00",
+      "published_at": "2026-07-07T00:00:00",
       "summary": "2025年12月期 第3四半期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
@@ -337,6 +337,17 @@
       "region": "韩国",
       "title": "CJ제일제당, 대구 치맥페스티벌서 ‘소바바 황금홀릭’으로 현장 달궜다2026.07.06",
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1784",
+      "published_at": "2026-07-06T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.06日清シスコ「ごろグラ 薫るピスタチオ」(8月3日発売)",
+      "url": "https://www.nissin.com/jp/news/13811/",
       "published_at": "2026-07-06T00:00:00",
       "summary": "",
       "level": "B",
