@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-07T12:42:51",
+  "last_updated": "2026-07-08T12:01:31",
   "retention_days": 10,
-  "total": 309,
+  "total": 315,
   "s_count": 21,
   "a_count": 2,
-  "b_count": 286,
+  "b_count": 292,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -288,13 +288,79 @@
       "level_reason": "常规新品/营销"
     },
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "好評の「キリン 本搾り&trade;チューハイ パイナップル＜季節厳選＞」今年も登場！よりパイナップル本来のみずみずしいおいしさをすっきり楽しめる味わいに",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0708_01.html",
+      "published_at": "2026-07-08T01:00:10",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "キリンとファンケル、サプリメントの錠剤設計AIを共同開発 “飲みやすさ”と“品質”を両立　開発期間の短縮に貢献",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0708_02.html",
+      "published_at": "2026-07-08T01:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-07T00:00:00",
-      "summary": "2025年12月期 第3四半期 決算業績について",
+      "published_at": "2026-07-08T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "2025年12月期 決算業績について",
+      "url": "https://www.asahigroup-holdings.com/newsroom/detail/20260708-0101.html",
+      "published_at": "2026-07-08T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.08明星食品「明星 一杯満足 旨辛チゲ味ヌードル」「(同) きつねうどん」(8月3日発売)、「明星 一杯満足」シリーズ３品 (7月上旬よりリニューアル発売)",
+      "url": "https://www.nissin.com/jp/news/13817/",
+      "published_at": "2026-07-08T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.08明星食品「明星 東京デザイン専門学校コラボ 今日もおつ豆さま えだ豆味焼そば」(7月20日発売)",
+      "url": "https://www.nissin.com/jp/news/13818/",
+      "published_at": "2026-07-08T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, ‘스타 셰프 협업’ 통해 간편식 메가 히트상품 키운다… 여름 성수기 겨냥 프리미엄 여름면과 ...2026.07.08",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1785",
+      "published_at": "2026-07-08T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },

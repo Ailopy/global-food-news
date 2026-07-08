@@ -1,32 +1,1682 @@
 {
-  "total": 1120,
-  "s_plus_count": 50,
+  "total": 1203,
+  "s_plus_count": 56,
   "sites": [
-    "日経xTrend",
     "Packaging Digest",
-    "日経新聞",
-    "Food Dive"
+    "日経xTrend",
+    "Food Dive",
+    "日経新聞"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "其他": 775,
+    "其他": 833,
+    "新产品": 134,
+    "营销创新": 40,
+    "品牌故事": 53,
+    "联名营销": 27,
+    "并购融资": 38,
     "渠道新物种": 12,
-    "新产品": 121,
-    "品牌故事": 49,
-    "联名营销": 26,
-    "营销创新": 35,
-    "行业政策": 30,
+    "行业政策": 31,
     "新技术": 12,
-    "并购融资": 37,
     "新包装": 18,
     "新原料": 5
   },
-  "last_updated": "2026-07-07 12:43",
-  "last_updated_iso": "2026-07-07T12:43:07.176930+08:00",
+  "last_updated": "2026-07-08 12:01",
+  "last_updated_iso": "2026-07-08T12:01:45.958764+08:00",
   "articles": [
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "コメ「需要に応じ」生産、改正食糧法が成立 供給力の維持見通せず",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUm1kM0xpMDBZTEFZOWFaaFFpdk8tc285YllOUDcyMmJFVnY3MXNmSExieTU1TXJuRVpreVpPYVdvU2NpcHJ1S1VqbjFRZVExa3gtQTRhYnZLLWg1elJ6LXRxZklZUDVEZ0hwZDZFeTdsTWd2MXNVY2l2Y0k1RnJTb2JRbWNTcm9LYzR6OE9FQXZidEVmM2hfNHJsOFkzdWxfWUlyRmlB?oc=5",
+      "summary": "コメ「需要に応じ」生産、改正食糧法が成立 供給力の維持見通せず&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T03:35:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "明星食品、カップ焼そば「明星 東京デザイン専門学校コラボ 今日もおつ豆さま えだ豆味焼そば」を発売",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ic2ZfX2lzVTJzNkpHZ3JLdm56bFk3WkdQVF9ST0pHc1RkUjc4REpvZDFxbVJzU3UxT2NqNDRFSnZuZ0NBOXh5S2xOQ3hNeWIzVjFmbkRjbnQ0S3RRS213YlI5SUE3anpRem95UQ?oc=5",
+      "summary": "明星食品、カップ焼そば「明星 東京デザイン専門学校コラボ 今日もおつ豆さま えだ豆味焼そば」を発売&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T03:33:12Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "中道が新ポスター「暮らしが、先だ。」クラファン寄付者の投票で選出",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMY0kwR0xXVmZvcW5Ed0dZRkJhLXdkbWEyQ2ZweDFlampGYnp5US1SbGl1dEJMeWUwdUZsS0dDTVprM1ViSXRsTUpuQjBuLVdmb255M1pDZ1p1Qzk2blRfTU5XZjJDcEVmWmV6RA?oc=5",
+      "summary": "中道が新ポスター「暮らしが、先だ。」クラファン寄付者の投票で選出&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T03:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "商品11時30分 原油が高い 円下落も支え 金は底堅い",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9udENjRktRTzBLSFNVTXBOdGdLeGNFRFRvaUt2c0pQbEoxRWdTc0liOHBxb29fby1FdUE3ZkRhbDBmeGVKckdDMkZVbTlLbFdoZTNsTTRxU3h6XzNuRTJMOGo2ZTdYcnhWemN4cA?oc=5",
+      "summary": "商品11時30分 原油が高い 円下落も支え 金は底堅い&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T02:58:58Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "NEC、商品企画や販促AIが自動立案 米アンソロピックの「クロード」で",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXliaUdiVXBnS3FkNHFyZmVzMFVwLTRvYk1ZTkg0blg5RHozY3Vza3F0Y21ndzNTc3NiSGtHdXRhaV9rZnk3LWhkMGtlTkJ4MDRodWpsWHRWSm9ybnBZME9idzdON3ZBXzNNdkFxbXNFdkYyeGJpUTZoVHJUZTkxSWpKaHI4d2RjV3hwclpYYWtJU3Itb215eHBtc2lNMHNCOExfWDRR?oc=5",
+      "summary": "NEC、商品企画や販促AIが自動立案 米アンソロピックの「クロード」で&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T02:34:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "NEC、商品企画や販促をAIが立案 米アンソロピックの「クロード」で",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWVFSEg0WnBEZUM5M2ZxTTdCSU8xbVM3SW9lckR3aHk4ZEhvdWU5VVdnRW9FdmRZOWdBODNmNE4tX2RTYmFwZkg0VVlzXzBoWF9YanRGNVUwSUVVa0lvV3ZhUzZYczBFU2FmVmhmaDBjLUc4R25pcHQ0b1ZtN0lIMHR4QWZVdlRIb2cydXl2SXlDZGVucE14OUFicWNOR3Fsd3Jyd214cW8?oc=5",
+      "summary": "NEC、商品企画や販促をAIが立案 米アンソロピックの「クロード」で&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T02:34:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ハウス食品、「チャチャめし＜欧風ビーフカレー / バターチキンカレー＞」をセブン‐イレブンなどで発売",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oekZkcGlDLUllTW9yamJ3eC1ES283ckNhUmNNZE9yY0xmVnA3X01ocFNtTGZRbGVqRGFDWDJ2ZDZhWmVEMlcxeEhVTC1uNFItRk5mSU5VWDBZbU1BTWZXSU1WUW5yRGtwdkVDOQ?oc=5",
+      "summary": "ハウス食品、「チャチャめし＜欧風ビーフカレー / バターチキンカレー＞」をセブン‐イレブンなどで発売&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T02:07:15Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "原田車両設計、27年に新工場 3Dプリンター増設し新規顧客開拓",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lVk02S0tTUU82ZTY1bFVDZjAySU0weHRxWmxrazVMSUhrSE1LNG9jeVg4X1lvd1FKN0FKOHg2d205RlcxOS1Qd1MtNWFGTFdmY2MwaVlFZGZ3TkdHNXZiUFhaMlpTbjNCblBEdg?oc=5",
+      "summary": "原田車両設計、27年に新工場 3Dプリンター増設し新規顧客開拓&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T02:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "カルビーとグレープストーン、「フルグラ東京ばな奈味」を開発し「東京おかしランド」で先行期間限定発売",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tczMxY2MtSG9HWEo3aHY4VlZFOUpNLWIyNkVjbDFXbmRNN2ZLaGtDOWtBTm51S1pCT2dicjAzVEM0b1o0bm1XSG04WUVTcnYyRmRseFBlT092RWFTdWM3Z3BOOTgwbUVrMXpZRQ?oc=5",
+      "summary": "カルビーとグレープストーン、「フルグラ東京ばな奈味」を開発し「東京おかしランド」で先行期間限定発売&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T01:59:15Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "パルグループHD株価が一時6.3%安 26年3〜5月営業益物足りず",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1feWNqYklvWVNkWlhRVnZGeHZrQk5oSGZIZzF6Ull0alV1M2R0YVQwd2FqSnVUU2MySWZfN1hpZDBYSU9QWGlROXI1b2FyZkhmZmI3bWVNRTBKS3BNOS1GSUllZlpSTDRObW5PZA?oc=5",
+      "summary": "パルグループHD株価が一時6.3%安 26年3〜5月営業益物足りず&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T01:32:20Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "メタが新AI画像生成モデル 効率的な編集で巻き返し、広告収入に期待",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrbWhscFZZcHBqbHQ4eWpmcnlteC1kd0RFZy1SYVp1OUFwME5GaDhQMGszclRBUnMxXzk0OWo4b1FNM0hmcU5JNjNjSmpEV2h4SHhrYlRrX2JLRnhtQ0pBSWw2Z2tmNDBYMWFRSA?oc=5",
+      "summary": "メタが新AI画像生成モデル 効率的な編集で巻き返し、広告収入に期待&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T01:21:31Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "平岡旗製造、祇園祭山鉾の巡行順手拭い 臨時の販売所も開設",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YRVVnc0tCSWl6LXplOWpUNllNUG9mcG5oREJYYkxBSTBQZ2szX0tYaUhzclNZbUtQQ1RrMEV5TzNIMGxvakppeEV4LVJiVzQ5Tmo0c2JvSFMxTGJ0YzBLUVZER2hMTW1taXFsdw?oc=5",
+      "summary": "平岡旗製造、祇園祭山鉾の巡行順手拭い 臨時の販売所も開設&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-08T01:20:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "想起をつくる19ステップ ドライヤーで学ぶ、実務で使える「CEPs設計」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01417/00005/?n_cid=nbpnxr_rss",
+      "summary": "ブランドが買われるかどうかは、店頭やECサイトで比較される瞬間だけで決まるわけではない。生活者が「髪の傷みを何とかしたい」と感じた瞬間に、どのカテゴリーやブランドが思い出されるかで勝負は始まっている。本記事では、ダメージケア型ドライヤーを例に、入口（CEPs）を見つけ、獲得すべきブランド連想を組み立て、最後に注力すべき入口を絞り込むまでを、3部構成・19ステップで解説する。",
+      "published_at": "2026-07-08T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Snow Manに大ヒット連発中のM!lKが躍進 タレントパワーボーイズグループ編",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01421/00007/?n_cid=nbpnxr_rss",
+      "summary": "連載7回目は「ボーイズグループ編」。個性あふれるニューカマーが相次いで登場するなか、Snow Manや大ヒット連発中のM!lKが躍進した。性別・年代別の支持層を確認すると、男性からの支持が高い、若年層の人気を集めるなどグループの個性も見えてきた。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【PR】テレビをデジタル並みに運用 「ミエルTV」が変えるテレビCMの未来",
+      "url": "https://xtrend.nikkei.com/info/09/00070/061800134/?n_cid=nbpnxr_rss",
+      "summary": "圧倒的なリーチ力を持ちながらも、「効果が見えにくい」「出稿後のタイムリーな改善がしにくい」といった課題を抱えてきたテレビCM。デジタル広告を積極的に活用し、高度なPDCAを実践してきたマーケターほど、こういった点に課題意識を抱いていたのではないだろうか。その常識が変わり始めている。日本テレビの運用型広告基盤「Ad Reach MAX」と、AJAが提供する「ミエルTV」により、テレビCMでもコンバージョンやCPA（顧客獲得単価）をベースにした運用が可能になりつつある。さらに、テレビをYouTubeやTVer、ABEMAなどと並ぶ「動画広告の1つ」として横断的に評価・最適化する動きも加速している。「マス×デジタル統合運用」は、企業のマーケティングにどのような変革をもたらすのか。日本テレビ、サイバーエージェント、AJAのキーパーソンが、潜在課題を打破するテレビ運用の未来を語り合った。聞き手は、日",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 3
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ダイキンに聞くブランドづくりの肝 「想起の鮮度」を維持する方法",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01417/00004/?n_cid=nbpnxr_rss",
+      "summary": "エアコンの買い替えは13年に1回。自宅のメーカーを即答できる人は少数派。関与度は低く、購入頻度は極端に低いため、想起が効きにくい市場だ。それでもダイキン工業は、第一想起を売り上げに至る先行指標と位置づけ、想起率を最重要KPIに据えてきた。もっとも社内では、「その想起は、本当に売り上げに効くのか」と問われ続けている。この問いにどう答え、単年度評価に縛られがちな組織を動かしているのか。10年がかりの第一想起づくりの実践から社内の評価まで、同社広告宣伝グループ長の片山義丈氏に聞いた。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "パナソニック コネクトの山口氏と味の素の岡本氏が対談 AI時代に結果を出し続けるマーケターとは？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01405/00002/?n_cid=nbpnxr_rss",
+      "summary": "AIが進化し、データ分析もコンテンツ生成も高度に自動化される時代。その中で「結果を出し続ける」マーケターとはどんな存在か。国内外の複数企業を渡り歩き、経営とマーケティングを横断してきた山口有希子氏と、味の素一筋で組織改革を推進してきた岡本達也氏。キャリアの歩み方が異なる2人が本音で語り合う。「日経クロストレンドFORUM 2026」の7月29日（水）リアル講演では、2人が自身の転機と意思決定をひもときながら、成果を出し続けるマーケターと組織のあり方を徹底議論する。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ヱビスビールブランドマネジャーが、音部AI＆リアル音部氏と壁打ち！",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01405/00017/?n_cid=nbpnxr_rss",
+      "summary": "クー・マーケティング・カンパニー代表の音部大輔氏の知見を詰め込んだ「Brand Cortex OS(TM)」、通称“音部AI”を壁打ち相手に、ブランドのブースト策を考える。壁打ちするのは、ヱビスビールブランドマネージャーの荒木進之介氏。ロングセラーブランドならではの資産を活用し、さらなる飛躍を狙うには。音部AIはどのような施策を提案するのか──2026年7月28日（火）～30日（木）に開催する「日経クロストレンドFORUM 2026」の壇上で実演します。実物の音部氏と、AIを開発した「マインディア」のエンジニア、芳賀邦彦氏も登壇し、解説します。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "AI武装で「財務経理部」が経営参謀に 富士通はデータ統合で業績先読み",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01378/00007/?n_cid=nbpnxr_rss",
+      "summary": "お金という経営資源をどう扱うかは企業の成長戦略の要だ。数字をつかさどる財務経理部門の役割は、会社の現在地を示すことにとどまらない。膨大なデータから機会や変調をいち早く捉え、経営に先手を促す。人工知能（AI）を携えることで、こんな高度な機能を磨きつつある。不適切会計が相次ぐ中で、経理の信頼性を高める「AI監査」も広がってきた。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「ロイヤル顧客かライトユーザー」の不毛な二択 本当に見るべき指標",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00675/00010/?n_cid=nbpnxr_rss",
+      "summary": "近年、マーケティング学者のバイロン・シャープ氏の理論をはじめとする「エビデンスベーストマーケティング」が注目を集め、「浸透率」を重視する傾向が強まっている。本来、ブランドの成長に「ロイヤル顧客」と「ライトユーザー」は、どちらも欠かせない。だが、新興理論が支持される中で、「短期成果」を重視しすぎる傾向が広がっていると著名マーケターの西口一希氏は指摘する。マーケターが実務で見るべき「本当の指標」を西口氏が解説する。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ジャングリアは変わったのか 開業当時の森岡氏の言葉を振り返る",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02922/?n_cid=nbpnxr_rss",
+      "summary": "「ジャングリア沖縄」が2025年7月25日に開業してから間もなく1周年を迎える。ユニバーサル・スタジオ・ジャパン出身の有名マーケター森岡毅氏が手掛けたことで話題になった同施設は、その「不調ぶり」が指摘されたこともあった。ジャングリアは、この1年でどう変化したのか。森岡氏への直撃インタビューや現地からのレポートで振り返る。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "玩具がチャーム化 本命“触れるキティ”は計画比約8倍“ぷちリカ”超え？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00342/?n_cid=nbpnxr_rss",
+      "summary": "玩具の大きなトレンドの一つが、バッグに付けて持ち運ぶ「チャーム化」だ。特に2025年末以降、定番の人気着せ替え人形「リカちゃん」を小型化した「ぷちリカちゃん」や、アニメ「忍たま乱太郎」の登場人物をモチーフとした「てちぬい」などヒット商品が続々と生まれている。そんなトレンドが続く中、大本命と言える「ぷにコミュ」を26年6月27日、タカラトミーが発売。従来のチャーム玩具にはない「新要素」とは何か。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "サントリー生ビール、なぜ銀から青に？ 堅調でも大胆刷新のわけ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02916/?n_cid=nbpnxr_rss",
+      "summary": "サントリー生ビールは2025年12月、缶のベースカラーを銀色から青色に塗り替えた。23年の発売以降、販売実績は前年比を超え続け、堅調に推移してきた中での大胆なリニューアル。一見、テコ入れは必要ないように映る状況で、それでも商品を刷新するのは単なる話題づくりか、それともブランドの再定義かーー。担当者に話を聞いた。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アサヒの熱中症市場捉えた自販機向け“午後の水” 効いたデザイン3案制",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01410/00001/?n_cid=nbpnxr_rss",
+      "summary": "2025年、熱中症対策飲料市場に新たな風が吹いた。アサヒ飲料の「アサヒ おいしい水 天然水 ピングレソルティ」は、25年3月に発売されると、同年末までの販売数量が計画比約4倍に到達した。ヒットの鍵は、自販機の“空白市場”。企画の段階で「いつ、誰が手に取るか」というコンセプトを緻密に固め、それを最大限訴求できるパッケージをデザインできたことにある。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "スポーツ飲料の販売額が33％減 梅雨寒の6月で夏商戦出足つまずく",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00921/00065/?n_cid=nbpnxr_rss",
+      "summary": "「2026年の夏も猛暑」と身構えていた生活者にとって、6月は梅雨寒という言葉を思い出させるほど近年まれに見る涼しさで過ごしやすい日々が続いた。だが、小売りの現場では喜んでもいられない。真夏日の少なさや天候不順は、飲料やアイス、夏物衣料など、気温上昇とともに動き出す商品の需要に影を落とした。夏商戦の立ち上がりで何が起きたのか。気象データと販売データを重ねると、梅雨寒が消費にもたらした影響が浮かび上がる。",
+      "published_at": "2026-07-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ベネズエラ、大地震復興より｢新大統領｣ 対応遅れる政権に不支持6割",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zVjkyUlJuVFpwSEk4ZWo5YkRDRG5tYm80TjY5NW9xNlIwVlhNemlqODBxS1hwU3dwLUEzY181ejV4NGZKYlBOeUJIVHB3YzZxNUoycUdJMkF6ZC1FamVzQVhZRTE3Z1ZMQzc2Yg?oc=5",
+      "summary": "ベネズエラ、大地震復興より｢新大統領｣ 対応遅れる政権に不支持6割&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T20:12:40Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "迫る｢iPhone値上げ｣ メモリー価格3倍、転嫁なら13万円→15万円超",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WRVZvWWlUT0R3NjJEOFJLMEwyTTZRNkdRMzc2WnhzaWUyX3NXei05bU1oNm9fdU11YVRtUG9RNWR3azhmcUFycDNPckJGWDVfUTdjQTVqbmZfMWNiaVVkWGloaFg4MklIeXJBTw?oc=5",
+      "summary": "迫る｢iPhone値上げ｣ メモリー価格3倍、転嫁なら13万円→15万円超&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T20:12:16Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "完全養殖ウナギ、新日本科学が量産へ 鹿児島で稚魚100万尾",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTFzV3NfWWlRcTVCS3ZDWW1wbHlkQng1LXRZSUl3QjgxZ1VoZnlhOGRtTVBhRlBjX1hXQ2p0bDFrOGtISEtiLURpVTEyV0wyNks2LTMtWmVobWhSXzZaNGZsQVRjbUJZQmN3b3hlUzVJM2Z5cjlZdW0wLUUweXlHdklUallNWXBnSVd1YnNZT01ZU3pVVEtzV3FCQy11U0Z5N1Z5enJ3?oc=5",
+      "summary": "完全養殖ウナギ、新日本科学が量産へ 鹿児島で稚魚100万尾&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "生成AIでアイデアを磨く 明日から使えるプロンプト",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14SUVXME9FR1hsQ1phb0NveDJibFZOZWEtRV9ibUh5bHFPdVVvajZFeWt1ejV0U3FpLVhEdFJ3S3ZXRE1ra2Y5Tk5hRnFxLXh2WUJKaXY4eTVxVkxTNW5IMGEycWYteUNuTWRJdw?oc=5",
+      "summary": "生成AIでアイデアを磨く 明日から使えるプロンプト&nbsp;&nbsp;日経BOOKプラス",
+      "published_at": "2026-07-07T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ユニ・チャーム高原社長「物価高だからこそ、年間の家計負担減訴求」",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkJYOFQ1b1BOLUliYUg0TllTd196eUd1QU9pWi1wSDJzS0xReFEzZm1RZTZVNjdJS1dHSlFvazZaMzJneXRrTWpTdk5wb1JKNEF4Vmk2VktyTjdkbDl3UUVOVDYwUHMxUzFlbU5oYjZSdm9YbElJbDR2TUg0V2x6UFlKYTMyWG4zbWdRNjlYbUIwYjhwc2xJVF92RjE1NWJHUzRYVlVB?oc=5",
+      "summary": "ユニ・チャーム高原社長「物価高だからこそ、年間の家計負担減訴求」&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "花王「タオルの冷たさ持続2倍へ」 暑さ対策商品、熱帯びる開発",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fRjFLc3hJTU44U3hZbVllMVZoRGhZTnBoeWIxOWIybzRPTmZyS3ZpUlM5N0FMdlEzSnI5aEYtU2pZRGVkM042SVZHck1NZmx1NFJQeDNoNXlRbENuVzQ2X2tWYnpfVlZLclNqdg?oc=5",
+      "summary": "花王「タオルの冷たさ持続2倍へ」 暑さ対策商品、熱帯びる開発&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "完全養殖ウナギ、新日本科学が量産へ 鹿児島で稚魚100万尾",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85Z09xQmhoMldtVER2a2l4UEVoWjhHMVRhTW4tY0dRQkZCVWp6SVRhdHdfOTRmaFdDR2FmNFFXRTh1ZVVLS25ZRFFUUUZ2c3BzSnBETEk2UnJBTU4tTkthS0JwTmlqeExMQVFHUg?oc=5",
+      "summary": "完全養殖ウナギ、新日本科学が量産へ 鹿児島で稚魚100万尾&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "マニー、課題の歯科修復材事業を改革 自社ブランド立ち上げ製品投入",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPRlY2NWJJQUdJcUZEakZxVWlGaEdyZm92ek04QWk3ZXVtYVpLeGdvQ1VFZUFGRDJxdzJTemIwaEZQN2lvVkRWSk1TLXZQZDVFamUybm9jR0ZNZDBxZUNhN0tQWVdCZ3Q4US1GaA?oc=5",
+      "summary": "マニー、課題の歯科修復材事業を改革 自社ブランド立ち上げ製品投入&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "データセンターの騒音防ぐ機器、売上高5年で倍増 ワタナベテクノス",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5c1E2S1U4VTlLR1FOX3ZESlpubHVuM2k4UWRzWGlHV253ekJhNUYtMFRoSE5TS1RSbkNvVU9rNkY4OHZpQVRVVnNncVZxejlmNkp4LTl1bmt5eFB2WUhJTFNzT2NfZE1yY3c2OA?oc=5",
+      "summary": "データセンターの騒音防ぐ機器、売上高5年で倍増 ワタナベテクノス&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "産業ガスの東邦アセチレン、成長の柱は巨大製氷機 温暖化で需要拡大",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FTE5GX1ZrRk9SSjE2YWoxWUF5TG55ZnhLUXpjSmhDTGQ5dTlGV3JQRFVodDNOT2NHMW5WdWQ2c0o1cjhoUGRzYWlXOEF1b2xhazBLNzJSX1JnTzIzRnRvU3BRMzdlcHJRZU14MQ?oc=5",
+      "summary": "産業ガスの東邦アセチレン、成長の柱は巨大製氷機 温暖化で需要拡大&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "日本カバヤ・オハヨーHD オハヨーHDに社名変更 体制刷新で",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEJld3BzNHdFSFpVSy1NQUUtQkxXTmx6VFpUd0NpY2s5WEpzeDZoVldzSjZuRmZLU1M2eWpNU3dkemZJQjVPUW9BM0dZbU1sQU0wZm8tdnJ5SmxBelVnYXZrVFN4WVZwUldVTkFGcW93a1ZlbGh2OHNOYkRRdXZocG1PelppN2tnQUN2WFI5bEh6dmVyNUQ1Tk5UbUVXanBOSVE?oc=5",
+      "summary": "日本カバヤ・オハヨーHD オハヨーHDに社名変更 体制刷新で&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T18:18:57Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米国農家、小麦離れ 作付面積100年で最小 肥料高・干ばつ・安値響く",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDhaeUhHVHBIT1JFczNkWXh6RE42WmVUUnVGMlZ6aGF0aUx1ZWFoR1RjNnp0QzFUM1JBM2FfN2diSWY5TlMwNzhwdWlDMWdSY1hTd19BaU5JQ0k1S1VRVFdSODhxNUMxWHVCNlZaTFlTRlNUZmphQldRMVpWZWx1VTFEZ280alpQb3ZJSkFFdHVVVTJoT29aNEhCbE8yT01VMHJlZFlB?oc=5",
+      "summary": "米国農家、小麦離れ 作付面積100年で最小 肥料高・干ばつ・安値響く&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T17:08:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ライオン、「クリニカ」など値上げ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdko2QXYtWjhWU2JKMTNPaXdEczNGeHFxQnY4X1lHT25pZmFnTjR1bVItS29BSFRqZElzeW9Rc0Y0TnJOdE4zcEtud0JDcVZsNDRsWFNkUjNSLWF1b1lsSl9xM3QxTEt5dS1JNllqdW5UQ1Q1V01MVEpVb0VvNTdkdkRqVk50Nk45M1ZXU3JleE9UTG0zSnJtUEotbGNPTG5xb0ZDNENn?oc=5",
+      "summary": "ライオン、「クリニカ」など値上げ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T17:02:16Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ハニーズHD、中計を下方修正",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0VRTkYzTENUMkZTMktWWHlMVWpSVkdhTmF3bHZmaU8xeWJFVFV1bGs2YWtOSVhuai12SkUyUlVvQjBhUkRLTlFWczRjbTk5UzYyYjFpa0Z2RGh2Ym5ESWdwQldGZFF4QnJFdzdDejNGbTdVZThFdU50Z0lyS1NVMVpJWWF1RXZ5OHF0WVd6TjVONWNQZ0tfajN0ZXM1ZUtFOEE?oc=5",
+      "summary": "ハニーズHD、中計を下方修正&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T16:55:19Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "プロクレアHD石川新社長 「既存取引先を深掘り」 訪問の回数増 潜在ニーズ吸い上げ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeW01QmduOGhSVDVaTDk2SmVVWjdIeV9KTHVUV3NqaXdjWkxnTU1ROWloZlBzTzNLVlYzVzFMRVJmRi1fbnFVNXJwX1dCMnduNFFMVHYtU2RjbDNBRmliYzFuckRIY0dXdV9uZzc2M3dsNlN0NjVtMURSVEdJWDV3cjE5Mzh6QWNLMFJWNXMxNE5jMy1LV3UzR3FRU1lFR3BlQ2c?oc=5",
+      "summary": "プロクレアHD石川新社長 「既存取引先を深掘り」 訪問の回数増 潜在ニーズ吸い上げ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T16:54:44Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Inside Johnson &amp; Johnson’s New $1B Manufacturing Investment",
+      "url": "https://www.packagingdigest.com/medical-packaging/inside-johnson-johnson-s-new-1b-manufacturing-investment",
+      "summary": "New Jacksonville facility will boost ACUVUE production capacity with advanced manufacturing and distribution technologies as part of J&amp;J's $55 billion US investment plan.",
+      "published_at": "2026-07-07T16:23:32Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-07-08T12:01:45+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "想起はつくれる ドライヤーで学ぶ「CEPs設計」全19ステップを公開",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zNjQ2dm94T1hlV3RJcktoc182LUVTZHg1My02blpQRUZjc1pPWWV1dW8xWUxUMHQ0YjVRX0ZraHc4QW1DQjhpZkM0Rmk4b3IxTFY5NjJTUnNFeElybjRkaXNpbHdYdw?oc=5",
+      "summary": "想起はつくれる ドライヤーで学ぶ「CEPs設計」全19ステップを公開&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-07T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "スポーツ飲料の販売額が33％減 梅雨寒の6月で夏商戦出足つまずく",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWZm1pejl6N3ZRSWJvMGR0eXNMVVJ6bXRRZEVjODJieGZfMGhPZWRvTnlBdmVTejhJQjNJUy1wVHotc05CNXVXVi1jY1oyTUFQNVNyOXp1ajlnYVk0cW51emFxOE5Bdw?oc=5",
+      "summary": "スポーツ飲料の販売額が33％減 梅雨寒の6月で夏商戦出足つまずく&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "アサヒの熱中症市場捉えた自販機向け“午後の水” 効いたデザイン3案制",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxeUN2cGQ0YWI3LTZESEQwbGxrcllCU1d2ZFp3enR2d04wUzc1enUtVzdBc2dzY0ZzRGczbERMREFPMHRFdGoybkozSjR0Vjc4MjNWZkxXTm8xcDU1SkZncWpPdFo4Zw?oc=5",
+      "summary": "アサヒの熱中症市場捉えた自販機向け“午後の水” 効いたデザイン3案制&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "サントリー生ビール、なぜ銀から青に？ 堅調でも大胆刷新のわけ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzeXRvN0FkX1pTM2hKTGMyMTJxZ0tnTjM1REtZU204NmFtdElvNnpEbTk1ZWl2QWlLTVE1Qm1xX3VDVm5pUFJ0MHNXNUllamxadXdRX1p4M2M2Tk84bE8tTzVGaW53VUNXMHc?oc=5",
+      "summary": "サントリー生ビール、なぜ銀から青に？ 堅調でも大胆刷新のわけ&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "玩具がチャーム化 本命“触れるキティ”は計画比約8倍“ぷちリカ”超え？",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41WUdlaVlYd0lFd2l5U0toTllnTXB2bWNvdDZ0U0h5QUtrYmdzTlQ2Y2ZWSnoxeFlwRmRzak5mYnEwMXZtOXNtMG1GVVhMbzE4RUlrWlphMDRNSlV1QXRtbVVCT3EwZw?oc=5",
+      "summary": "玩具がチャーム化 本命“触れるキティ”は計画比約8倍“ぷちリカ”超え？&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「ロイヤル顧客かライトユーザー」の不毛な二択 本当に見るべき指標",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQXJnR1pGb0tncWZwZ21GSGc3d21vQlE3am9DU05fRVlseXZadnU4QURiUEg4UVFtMTc4UWZGT1BSVjlsZ0NmRHJUMWM1b3daNkdacU12d2ZfLXQyZVB3MXFGYTJZZw?oc=5",
+      "summary": "「ロイヤル顧客かライトユーザー」の不毛な二択 本当に見るべき指標&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ジャングリアは変わったか 不調説の真相と1年の実態",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZSDNsMEtoQ0tXRFBRdEg1R2pqYUJYTXdkOXN1c2FieklSMEtMdVVCb1h5VnlmTDFqbFJRZHVxaWZMbWpzcTJ4MW8xVE0yOUNESWNPUHRmMTgzQ2JNeC0zdmJtemMxaE5yRVE?oc=5",
+      "summary": "ジャングリアは変わったか 不調説の真相と1年の実態&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ダイキンに聞くブランドづくりの肝 「想起の鮮度」を維持する方法",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPRE1lYmU0bk9wdXdET3FiZnFqbmhWMC1pUE8ydXRYVkkzTG5BU25LTVU5UFBhLW1pQ0VPYncxZHljN2EzRGxZMGVSRDNWNjRNcHhvYVNLZ0N1ZDR6eTFnUVRvN1RoQQ?oc=5",
+      "summary": "ダイキンに聞くブランドづくりの肝 「想起の鮮度」を維持する方法&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "Snow Manに大ヒット連発中のM!lKが躍進 タレントパワーボーイズグループ編",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByOGZOLVpoZzc2VzNDeTl5SXZxNTVhRDhrdVdQeVFrR1JPcnV2QXc3eXJHUFBEVFBlRlluazZYLWJWM0wzajBRSlNSTnYxNGkyeFlGR0FVZnlGSmgwQmZVX3RkTlFFZw?oc=5",
+      "summary": "Snow Manに大ヒット連発中のM!lKが躍進 タレントパワーボーイズグループ編&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-07T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ヱビスビールブランドマネジャーが、音部AI＆リアル音部氏と壁打ち！",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDNkhubGhfZmoyUDljUUtHVTF2S3c2cFlfVkJBaWlLYUtsOExXaTcwem5ZYXFRcTNmYzItaVFHcTVUel8yeXNfMnk0TzhtT0Mzcmd4QW9ELTNaN0dFemVKTFdJWFR0Zw?oc=5",
+      "summary": "ヱビスビールブランドマネジャーが、音部AI＆リアル音部氏と壁打ち！&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Voicyで配信、日経クロストレンド音声編集部 （7月7日配信分まで）",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00681/00176/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドでは、音声配信サービス「Voicy」で、ポッドキャスト番組「日経クロストレンド音声編集部」も提供しています。最短3分で分かる、をコンセプトに、つい誰かに話したくなる、マーケティング最前線の話題を毎回ご紹介しています。編集部員がこちらのコンテンツづくりにも力を入れておりますので、 記事と合わせてぜひお聞きください。【こんなコーナーが聞けます】＜話題のネタ、ヒットのタネ＞＜今週のリリース情報、総まくり＞＜取材現場の裏、記者が生トーク＞",
+      "published_at": "2026-07-07T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "＜7/27新刊＞『薬局OTC販売マニュアル 改訂版 臨床知識から商品選びまで分かる』",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FUVl4LUs3ZnZ3b29TWTNpNm1abTY2V2pEbFVoMTZ5QnBCVm9ENmEwci13dFR4UDdBU18xVXFiZW8tZWM5cU81eDBVR3hMVG1faFJ6NUZIWmNtUTRockRVeTE1djVqNjQ?oc=5",
+      "summary": "＜7/27新刊＞『薬局OTC販売マニュアル 改訂版 臨床知識から商品選びまで分かる』&nbsp;&nbsp;日経BOOKプラス",
+      "published_at": "2026-07-07T13:36:40Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "千代田グラビヤ、軟包装の少量生産対応 SCREEN系と",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uenZYaG55SUtmYk5TVmJadUdrWXRpNVdsNWJ0SFkzREdSTGRTbE5aazNhTk0yMXI3a2RUbDliblBwTnpUaTV6ZVV5ZC1Pc1dmaEVIZXFIMERxWTF4WlNIZkdnMjNjSWZ3amIzdQ?oc=5",
+      "summary": "千代田グラビヤ、軟包装の少量生産対応 SCREEN系と&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T11:41:44Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "7月7日の商品主要相場（紙面イメージ）",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41N0dxUS01U2puVXZKdWtSR1pveUxrenZoUW5WSUM3VXVFUkpaVFRGR0J2S2dYMi1QT3M3d1VPY2t6MUVyYWVfb2x0dW9fYzFBazBjb0x2bWtiNmV2RTltV3RxZ3RldlJDTmtJLQ?oc=5",
+      "summary": "7月7日の商品主要相場（紙面イメージ）&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T11:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "セブン、北海道限定パンケーキを14日から発売 菓子用小麦を使用",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PNkJjOVQtWFRPcTJqTkd2OUQ1d0VHcEhicDhOaXk3OXk4aElsb19iRzl2MzJuclJkVmhQSkVybm9QSS1YM1M0U2x2aTY4T09HbHNsRk5oUHVSdVVDM29QWlNOU3VHVnlWRUFCbQ?oc=5",
+      "summary": "セブン、北海道限定パンケーキを14日から発売 菓子用小麦を使用&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T10:29:31Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "Anker、長寿命のモバイルバッテリー発売 セブンイレブンで",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yWVl1b1NxcFpKVE1JMXZ4Nk5vWnRmWUs1ZXBYRTV2cTY0NjdCdTY3T3NjM2d6SXRkRTlMQXAzaUtoWm96WURKWkZBMkxBc0xnRGxhUnJXcTNXb28tczZaaTFfVE93UHFram9Ndw?oc=5",
+      "summary": "Anker、長寿命のモバイルバッテリー発売 セブンイレブンで&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T10:15:54Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ホクトの霜降りひらたけ、機能性表示食品として販売へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPZEN5WEVucXFWY0ZST3pJbFNIdzdRdzNXV3JTZG1pZFY1RVVNOTRDUXFUMFlvc0lkY1ZoUzE0WHBrbTBUaHNFSlpfTXBFT2xQZnBTR0xOZ2hhbUtUNFNBaUVVTXFCSm9sN1hOVQ?oc=5",
+      "summary": "ホクトの霜降りひらたけ、機能性表示食品として販売へ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T09:37:12Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "日本カバヤ・オハヨーHD、オハヨーHDに社名変更 体制刷新踏まえ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaHZjUmxZUWZfWXNQcW9YTXNJaWhteVhsWDh1ZDBNdFRSNmZqcnZmTmhqM3VPcEExQVU5UTdIdGlwTTE4eUF4S0JYUHliQmRSU3UyOF9IaDluYlM2cmV2VVFXZVphSENJRF84SXpyOGxwVjVqUnpGMGNwSmZrWjQxdVpyT28xWWoxcGNCZTdHVFQ2Tm9ZeURCejN0T2hyeGhiVGdqajl3?oc=5",
+      "summary": "日本カバヤ・オハヨーHD、オハヨーHDに社名変更 体制刷新踏まえ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T09:13:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "旭化成、植物由来の極細繊維を開発 化粧品で成分を均一に塗布",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tT1lLOXM4elZyM2tkamN5ck8xTlZTYV9VY3FZUEs5a1UzRHFWeWpxQjJPSGF3ZjZEd2xmZlp6aFVPSjloLWtGNlpfOUdLRmVmWnF4TU4yakl1NUxQcmZDRDlycFM2bUJqRGFiVA?oc=5",
+      "summary": "旭化成、植物由来の極細繊維を開発 化粧品で成分を均一に塗布&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T09:00:57Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "スターゼン、新物流拠点が8月から稼働 保管能力2.5倍に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mLTNvSVZmTFV2Qnd2NFpfR3NSZmlJaHFHQy15ODVBeWhONWw5VjVvMDV1b2tmV1o2OFY5TEJxT25WVUxQTGRyRE4xeDVOWXZMSmdDcG5kQ1JadUdyX0JFcXpNdDIzTEZjOHpLdw?oc=5",
+      "summary": "スターゼン、新物流拠点が8月から稼働 保管能力2.5倍に&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T08:58:16Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ポーラ、「B.A」目元ケア商品の3代目を発売 目袋も改善",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEFxazRjQkh0VDZiaWU1TzIycnFiUkQxd1p3eXZSUmZSUHpnZDVZeTEtc1Jta0hUUEwyQVQ4VTZlN09fSTBZMHFXUFNKMUkxb09XWTFxb3ZRYnl2Qm9VOGo2X2YzYzB3Y2Q4VFkxbEl6WUkzWTRiLWU3MjFOTGN3cnNSc05PVjBueFZud0dtNUw1VW9OdDFSYWtBejFxa0pfYm5yVWVn?oc=5",
+      "summary": "ポーラ、「B.A」目元ケア商品の3代目を発売 目袋も改善&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T08:41:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "楽天市場、AI検索サービスに新機能 最大4つの商品比較",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nazY4Q3FBSmNQdk1Sc3UwNTJMNGNtTGo2VFZ1OXhaTHhhcy0zdmZONkpuamltUGcyS2o0WHN0cE5IYnAwV0ZhZEN5YzgtcUk5aE9COHhGVVFScVJrcktrRGFkdWNtdm81T2JxQw?oc=5",
+      "summary": "楽天市場、AI検索サービスに新機能 最大4つの商品比較&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T08:32:36Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "アサヒG食品、「和光堂」離乳食を再値上げ 11月から",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lVUZzWEtEOHhGeFdxSmNmLUc5U09vWDZIVWZZNnhubHBkT19rQ2Q1SkRhTFMwRHNQRGZJY0lBand4MzFzN1dsWGo5VXI2bzN3RzQwcGpLUFlhY01VYS16eWtva3psQ0pyZmo0Mg?oc=5",
+      "summary": "アサヒG食品、「和光堂」離乳食を再値上げ 11月から&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T07:51:33Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "花王「エスト」、エイジングケアの新商品 9月発売",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLSkJCLURZcTFlOUlCdENFX1RMcENLekNaTmJEX2NoSzVXbU5nSF84WDIyTVY0eWlFUnZ0TkZRTkRESko3THhaRGdxallMS25wNXdjZ3VzVC1fMDFibF9COURqTWVKZjllUlZDZA?oc=5",
+      "summary": "花王「エスト」、エイジングケアの新商品 9月発売&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T07:39:34Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "商品15時45分 原油が3日続伸 米イラン協議に不透明感 金は4日ぶり反落",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ySXB0YmRZeG50Tm5HSEFnbGdOeDl5cHFjM3FVc1EwYUpnRy1NMGxCb3NPZFlrMWt4R2JFTS1TUERxWWxKbmQwMTYwbHpyQ3VxTlBDSTZhLVFUcUFQTlM5M3FIc1ppMzctVXRPZQ?oc=5",
+      "summary": "商品15時45分 原油が3日続伸 米イラン協議に不透明感 金は4日ぶり反落&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T07:33:07Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "マルコメ、人気レシピを商品化した鍋の素「プラス糀 発酵美人鍋」を発売",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPUFl4ZW9pbEtRWXRiNVVOUTAyTTMza0hWaS0ydW9xS1RIVXJaa1lmR3BBWnhuUkxBT1ViYTMweUx3U0g5cjZPWW1sU1ExVWd2ek5qdFl2c01zc2VZbktURlFES0FqejY5dTNrSg?oc=5",
+      "summary": "マルコメ、人気レシピを商品化した鍋の素「プラス糀 発酵美人鍋」を発売&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T06:07:14Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ブリヂストン「パンクしないタイヤ」実用化 苦節18年、自動運転で開花",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vOEplMXVmSGljdE1WWmc2ZTFoN1dEMDFQLTZ0VWNpb21RbUN0NVp3NUdnR1FUcVg1dlQwZWNnZTJYNGhCRHpiVU9XV3NOZ1ZIenY5anlkQk1DN2JWT2lpSnpJY2g3TTlIZVhDZw?oc=5",
+      "summary": "ブリヂストン「パンクしないタイヤ」実用化 苦節18年、自動運転で開花&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T05:52:57Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "クリナップ、全商品を平均10%値上げ 10月2日から",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBRm1mRVZOSnpsbVRkWl9Ha2g3aUczbVNQWmNiS09LajBmTDZyTWw2bC1XMC1NY21tZi0zaFlvQ2k3UDlTME8tZnZULTdPVTJKUll2WHF5Z3RBRV83b2VqaHZzZFJqVkpSMk04ZQ?oc=5",
+      "summary": "クリナップ、全商品を平均10%値上げ 10月2日から&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T05:51:13Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "9月の食品値上げ3029品目 冷凍食品・すりみ商品など",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNVy1yYmV2RmlMUnNCQ0RJSXZBLWlTSndXTHpuYk5uelVlV05KYzkxRDF6MDRCSkIwTE1keW5SVVFKSWFhZVZ0OTgtRk5aM0tUWXZkbU55SXcxR1ItWDBocndJRWNzQ0ZtR2dGRg?oc=5",
+      "summary": "9月の食品値上げ3029品目 冷凍食品・すりみ商品など&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T05:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "消費支出6カ月連続減 5月0.4%、食料はプラス",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SNEh2c2IwVC03eXVsbHZDWDlIb25rS2w2SS1melNPdjltek9ZQlpUQTlKZnExV3ZxZFZfZ0UzMGpiNzFLX214LWwtQ2Q2YWExNkVFMjZtLVMzX2FjUGVIaDA5RWF2RVJNcTlwdA?oc=5",
+      "summary": "消費支出6カ月連続減 5月0.4%、食料はプラス&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T05:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「のと里山ポケモン・ウィズ・ユー空港」オープン 能登の新名所に",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTHpKekl6MTVSS2RheEp6NkZGUHJZVk9feFJVZjJTQWluZlZEa0RvQnE2QTA0QmtJTWVtRmFwWUdvNFZiVUVzcFFRRWQ2Z0cwX0FVZ1RqczJ1eWlBOHNFUnBONmtkWEt0VUVPd0dqbHBwWE9Ud1BacXYxZmFUcVZnVlFzdGNibmhFNE9OVDRnUlNUNEVOUXdPS2NnMl9xbXRqbmZpTzZR?oc=5",
+      "summary": "「のと里山ポケモン・ウィズ・ユー空港」オープン 能登の新名所に&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-07T05:26:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
     {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
@@ -418,6 +2068,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-07T12:42:54+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "第4回「全日本高校eスポーツ選手権」概要発表 教育価値向上を目指す",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00086/?n_cid=nbpnxr_rss",
+      "summary": "高校生を対象にしたeスポーツ大会「第4回 NASEF JAPAN 全日本高校eスポーツ選手権」のエントリー受付が2026年7月1日からスタートした。今大会では、5つのゲームタイトル、6つの部門で競技を実施。大会の教育的価値を高めるためにeスポーツ部顧問が参画する「実行委員会」を設置した。",
+      "published_at": "2026-07-07T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-08T12:01:34+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -932,6 +2604,28 @@
       "scraped_at": "2026-07-07T12:42:52+08:00"
     },
     {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ホテル地下でビール醸造 サノプランニング 来月から提供",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQWlzSU1sOUtKcTlUb3ZQbWFGeEtYclAzMVpIdUNaWUhwWnRlWlN3TGhLcUYxWU00SGtvUHlnTGZzZnpGN1hZemFvbDdlOVlDbXJpdWh4dGMtVEZxMThMMTh5blFKTjU2VGFqOA?oc=5",
+      "summary": "ホテル地下でビール醸造 サノプランニング 来月から提供&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-06T16:49:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -1184,6 +2878,50 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "『死ねばいいのに』金井純一監督 京極夏彦原作を独自の映像で表現",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvZTN3VUpxNWhyZjZZMTJhMjlTaElEcjZRWndiaU94Q1VGZTNmWFRQZHBuXzN0N0hqSm92TmYxZUVaZVczQnFQYW5heGplOXc1RWdDUVRnRzhneVJZZWM5cjBaZzRYQQ?oc=5",
+      "summary": "『死ねばいいのに』金井純一監督 京極夏彦原作を独自の映像で表現&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-06T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "女性アイドルシーン戦国時代、初ランクインも！ タレントパワー女性アイドル（個人＆グループ）編",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11SlB1a0p2aUJLWTdWRmx2YnowUW96bXBxbzZvcTFLRVBLWjQ1QlBYYnctMmFvRFh0NHZIVGp2SktvbG1kTXZWY0hNWVRzSjBWZnVSNkd1cE5LVHBXRm04UTAxbDU4dw?oc=5",
+      "summary": "女性アイドルシーン戦国時代、初ランクインも！ タレントパワー女性アイドル（個人＆グループ）編&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-06T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "サッカー:南野拓実が所属するモナコ、新監督にフィリペルイス氏 仏1部リーグ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lT0JpNV9yWGF4cXhYaUVZX1dOZjR6NDZvZW9fRkhvaktfeU1mTW1pTlN3SUoySlhNeDdRMDRKLV8ybzdCZ0pKSEM5QjF4b1RsU24xRW11b1hSQnB6eGV5c2JYSGJyWWJoalh1bg?oc=5",
       "summary": "サッカー:南野拓実が所属するモナコ、新監督にフィリペルイス氏 仏1部リーグ&nbsp;&nbsp;日本経済新聞",
@@ -1310,6 +3048,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-07T12:42:52+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "イオンリテール、エンタメ特化の新フロア 寝具売り場などを転換",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45WTQyUDRZNmZENlV3cV9URGtncERrUTBwNEV1ZVZFZGVQRjZRajV2Z0pHOFVvRFhwWngtQUl2RUZXYVowS0h6UnVlWml2NlFQUjgtRWR2Tnc4Z1E0WWREbkcybXI4ZHNON29URg?oc=5",
+      "summary": "イオンリテール、エンタメ特化の新フロア 寝具売り場などを転換&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-06T08:54:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -1530,6 +3290,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-07T12:42:52+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "オーストラリアとフィジーが相互防衛条約署名 中国への抑止力高める",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMk4wcjlKX1lNS01KOUlYTXRadnFEbXZpTy1tRzBQSERWcDl5OWZKNGFNR0V6ZExpbXRQbGp3X25VRmgzS2VDTnpDT0dLS2ZmMnJBRVFsVjlld0wwZ28tdFRObUJJdm9sbUE5cw?oc=5",
+      "summary": "オーストラリアとフィジーが相互防衛条約署名 中国への抑止力高める&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-06T05:52:14Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -3814,6 +5596,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-05T12:48:25+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "財務経理/大手食品メーカー",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pOUVnT3YwR2RHM2VjVl9XTnRCVnpQUHFRb3U5M0IwSjhRSVI3T0g2N2RHUjdPa2owX1ZaV3MxcFNvT09tdTN3YWJ5YUtPUXAwX1M2bTQ4NTlyM2UyeTZPMjN4TQ?oc=5",
+      "summary": "財務経理/大手食品メーカー&nbsp;&nbsp;日経転職版",
+      "published_at": "2026-07-04T05:18:40Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -8088,6 +9892,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-03T12:34:54+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "サントリー「特水」ヒットの裏に2つの英断 冗談だった「特茶の派生」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WT1l4Z0NxdXNpSkk1Y0JxUmpESW5oSlRELWhpTXM1OENXclotNF9iQ0JLd3Fya2VXOU9sTUhQbUFqVWRmWFdjVldLVk82ckcwNjNKRVJqRlQ4bDVxUTRnMGZ4a2FVUQ?oc=5",
+      "summary": "サントリー「特水」ヒットの裏に2つの英断 冗談だった「特茶の派生」&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-01T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:31+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -25182,6 +27008,72 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-07T12:43:04+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "FDA adds caffeine labeling to regulatory priority list",
+      "url": "https://www.fooddive.com/news/caffeine-labeling-fda-guidance-celsius-alani-nu/824355/",
+      "summary": "The disclosure comes after Celsius and other energy drink manufacturers face mounting scrutiny for allegedly failing to disclose health risks to consumers.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 3
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-07-08T12:01:43+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "General Mills plans $3B in cost cuts to fight consumer spending slump",
+      "url": "https://www.fooddive.com/news/general-mills-3b-cost-cuts-consumer-inflation/824321/",
+      "summary": "The Cheerios maker is focusing on improving the “remarkability” of its brands as the company acknowledges consumer sentiment is unlikely to recover anytime soon.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:43+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Mondelēz bets big on Luna Bar after brand hit a ‘crossroads’",
+      "url": "https://www.fooddive.com/news/mondelez-bets-big-on-luna-bar-after-brand-hit-a-crossroads/820882/",
+      "summary": "The Oreo maker is prioritizing innovation and marketing for the brand popular with young women, an underserved demographic in the $10 billion bar category.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-08T12:01:43+08:00"
     }
   ]
 }
