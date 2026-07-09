@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T15:45:36.626891+08:00",
-  "total": 4928,
+  "last_updated": "2026-07-09T19:50:06.366337+08:00",
+  "total": 4939,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -13,6 +13,138 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "a55ce2552c4e48ad",
+      "title": "Study reveals wide palmitoleic acid variability across omega-7 ingredient sources",
+      "summary": "GC-FID analysis of 14 commercial omega-7 products found palmitoleic acid content ranging from near-zero to over 67%, raising sourcing and formulation questions for supplement brands",
+      "url": "https://nutraceuticalbusinessreview.com/study-palmitoleic-acid-variability-omega-7-ingredient-sources",
+      "published_at": "2026-07-09T19:13:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "8eb83bb11fbd4108",
+      "title": "dsm-firmenich's life's OMEGA shortlisted for NutraIngredients-USA mind, mood and healthspan awards",
+      "summary": "The dual nominations recognise a high-potency microencapsulated gummy ingredient and a consumer omega-3 product backed by the DO-HEALTH trial, which linked microalgae omega-3 to slowed biological…",
+      "url": "https://nutraceuticalbusinessreview.com/dsm-firmenich-life-omega-shortlisted-nutraingredients-usa-healthspan-awards",
+      "published_at": "2026-07-09T18:07:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "1eb42ba25a67e731",
+      "title": "果汁飲料のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「果汁飲料」の最新・注目度ランキングです♪（2026年7月3日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-23344/?utm_source=rss&utm_medium=mognavinews_20260709",
+      "published_at": "2026-07-09T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "0237a87229634477",
+      "title": "今週新発売の惣菜パンまとめ！『Ｗサラダパン　たまご＆ツナ』、『明太こんぶチーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン木村屋 Wサラダパン たまご＆ツナ 袋1個まろやかなたまごサラダと旨みのあ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070908/?utm_source=rss&utm_medium=mognavinews_20260709",
+      "published_at": "2026-07-09T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4963b1a87cc5b930",
+      "title": "セブンの夏はお汁粉仕立て！？　豆にココナツごちゃまぜだ！：今週のコンビニスイーツランキング",
+      "summary": "週間コンビニスイーツランキングTOP3：2026年7月第2週今週もやってまいりました。2026年7月第2週、コンビニスイーツランキングのコーナーです。それでは…",
+      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182450/?utm_source=rss&utm_medium=mognavinews_20260709",
+      "published_at": "2026-07-09T17:00:32+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7310216ec839daba",
+      "title": "シダックス、池袋に初の「キングレコード」公式カフェオープン　第1弾は人気アニメ「多聞くん今どっち!?」のアイドルグループ「F/ACE」テーマに",
+      "summary": "シダックスグループのシダックス･コミュニティープラス(SCP)は7月11日、「キングレコード」公式カフェとして、「キングレコード」が保有するIP(知的財産)コンテンツを活用した直営の「IPエンターテインメント施設 Com...",
+      "url": "https://www.ssnp.co.jp/foodservice/692842/",
+      "published_at": "2026-07-09T16:40:38+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "cd251d686fccc660",
+      "title": "「ごちそう フェアプレート」780円、うに三昧790、かっぱ寿司「ごち寿司」シリーズ新商品を発売",
+      "summary": "寿司チェーンの「かっぱ寿司」は、厳選素材を楽しめる「ごち寿司」シリーズの新商品「ごちそう フェアプレート」を、7月9日から期間限定で販売している。同時に、「夏の彩り3貫」や「贅沢 うに三昧」、「贅沢 9種の海鮮丼」も販売...",
+      "url": "https://www.ssnp.co.jp/foodservice/692836/",
+      "published_at": "2026-07-09T16:33:24+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "b40788c28ae799e1",
+      "title": "Umios業務用冷凍食品、外食好調で鶏肉加工品、麺類などが伸長　外食･中食を主軸に自社製品の拡販に注力、水産部門との連携も深める",
+      "summary": "Umiosの業務用冷凍食品事業は、鶏肉加工品や麺類が外食業態などで引き合いが高まり、前期は一ケタ前半の増加、数量も前年を上回った。今期は外食･中食を主軸に自社製品の拡販に注力する。坂本紘太食材流通ユニット業務用流通事業部...",
+      "url": "https://www.ssnp.co.jp/frozen/692828/",
+      "published_at": "2026-07-09T16:04:13+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "1aa30cfe71ed55be",
+      "title": "UCC上島珈琲、家庭用飲料45品を値上げ 「BLACK無糖」185g缶は145円→155円に、11月1日から",
+      "summary": "UCC上島珈琲は11月1日出荷分から、家庭用飲料製品45品の価格を改定する。メーカー出荷価格を改定し、小売店の実質店頭価格は5～10%程度上昇する見込み。7月9日に発表した。 主な対象商品では、「BLACK無糖」185g...",
+      "url": "https://www.ssnp.co.jp/beverage/692811/",
+      "published_at": "2026-07-09T15:56:56+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "33c3d35420089cba",
+      "title": "ニチレイフーズ26年秋季新商品、家庭用冷食は新商品19品･改良品31品　開発テーマは本質的価値の追求･パーソナライズ特化･さらなる満足度向上",
+      "summary": "ニチレイフーズは8日、2026年秋季新商品･リニューアル品計91品発表し、同日、本社で発表会を開いた。家庭用冷凍食品では新商品19品･リニューアル品31品を9月1日(一部8月1日)発売する(everyONe meal除く...",
+      "url": "https://www.ssnp.co.jp/frozen/692810/",
+      "published_at": "2026-07-09T15:48:29+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "f67c7aae2bdde912",
+      "title": "ファミマ限定氷菓「サクレ ソルティライチ」&菓子「サクレグミ レモン&ソルティライチ」数量限定で新発売【ファミマ】",
+      "summary": "ファミリーマートは、「サクレ ソルティライチ」(税込183円)と「サクレグミ レモン&ソルティライチ」(税込224円)を、2026年7月14日から数量限定で発売する。 【「サクレ ソルティライチ」と「サクレグミ ...",
+      "url": "https://www.ssnp.co.jp/distribution/692798/",
+      "published_at": "2026-07-09T15:46:01+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "7ff2b658fc1c78e2",
