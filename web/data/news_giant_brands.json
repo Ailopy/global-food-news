@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-08T12:01:31",
+  "last_updated": "2026-07-09T12:46:19",
   "retention_days": 10,
-  "total": 315,
+  "total": 320,
   "s_count": 21,
   "a_count": 2,
-  "b_count": 292,
+  "b_count": 297,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -286,6 +286,61 @@
       "summary": "",
       "level": "A",
       "level_reason": "常规新品/营销"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "新酒を楽しむ文化を日本ワインで！「日本のあわ 新酒 2026」「シャトー・メルシャン 日本の新酒 山梨県産甲州 2026」「シャトー・メルシャン 日本の新酒 山梨県産マスカット・ベーリーA 2026」を発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0709_01.html",
+      "published_at": "2026-07-09T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.09湖池屋「ポリンキーメッシュポーチ」(7月9日より受注販売開始)",
+      "url": "https://www.nissin.com/jp/news/13815/",
+      "published_at": "2026-07-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "味の素㈱ 2026年秋季 家庭用新製品／リニューアル品",
+      "url": "https://news.ajinomoto.co.jp/2026/07/20260709.html",
+      "published_at": "2026-07-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 ‘단백하니', 웰니스 트렌드 힘입어 출시 1년 만에 누적 판매량 130만 개 돌파2026.07.09",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1786",
+      "published_at": "2026-07-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "プラズマ乳酸菌入り飲料がシンガポールに初進出！ オリジナル商品「KIRIN IMMUSE」を7月20日（月）より新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0708_03.html",
+      "published_at": "2026-07-08T05:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Kirin",
