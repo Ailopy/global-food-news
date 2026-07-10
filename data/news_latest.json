@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-10T15:43:10.697141+08:00",
+  "last_updated": "2026-07-10T19:42:33.788975+08:00",
   "retention_days": 7,
-  "total": 520,
+  "total": 523,
   "sources": [
     "BevNET",
     "Fab News",
@@ -28,6 +28,90 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "c65667f5e5924d49",
+      "title": "Savor and AAK partner to develop sustainable speciality fats for dairy alternatives and bakery markets",
+      "summary": "The two-year collaboration combines Savor's carbon-derived fat technology with AAK's speciality oils expertise to create next-generation functional fats for dairy alternative and bakery applications,…",
+      "url": "https://nutraceuticalbusinessreview.com/savor-aak-sustainable-speciality-fats-dairy-bakery",
+      "published_at": "2026-07-10T19:16:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "0145efd8920f60e4",
+      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　アップルカスタード』、『広島レモンケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンフジパン スナックサンド アップルカスタード 袋2個リンゴジャムとカスター…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071008/?utm_source=rss&utm_medium=mognavinews_20260710",
+      "published_at": "2026-07-10T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e05881d1a03850f2",
+      "title": "過去最大規模で開催 メイカンG、秋季展示会",
+      "summary": "メイカングループ（静岡県浜松市、小寺仁康社長）は8日、アクトシティ浜松で「MEIKAN Food Show 2026」を開催した。静岡県をメイン商圏とする中部メイカングループの地域卸。今回は新規出展企業11社が加わり3 […] ソース",
+      "url": "https://shokuhin.net/153267/2026/07/10/ryutu/orosi/",
+      "published_at": "2026-07-10T17:13:02+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e048fe83b11df59f",
+      "title": "「ロイヤルホスト デリ」から「夏の福袋2026」発売 / 電子レンジ調理の洋食メニュー詰め合わせを2種類展開、500円オフクーポンも",
+      "summary": "ロイヤルグループの食品事業を担うロイヤル株式会社は、「Royal Host Deli(ロイヤルホスト デリ)」から「夏の福袋2026」を発売する。2026年7月13日(月)より、公式オンラインストアにて数量限定(各700...",
+      "url": "https://www.ssnp.co.jp/foodservice/693081/",
+      "published_at": "2026-07-10T17:01:30+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "bc24a72d070841b4",
+      "title": "エスビー食品、飲食店25店舗でハーブ使用の限定メニュー展開　日本橋兜町･茅場町のイベントに協力",
+      "summary": "エスビー食品は、7月10日から東京･兜町、茅場町エリアで開始したイベント「LIVING GREEN FES vol.4」に協力し、ハーブ関連商品を使用した限定メニューの提供やサンプリングを実施する。 グリーン(緑･自然)...",
+      "url": "https://www.ssnp.co.jp/seasoning/693056/",
+      "published_at": "2026-07-10T16:30:43+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "18a5eedb95a8fada",
+      "title": "Is cortisol the missing link in sleep health?",
+      "summary": "Jonny Bowden, Functional Nutritionist at Rockwell Nutrition, explains why stress regulation may be the next frontier in sleep-support formulations",
+      "url": "https://nutraceuticalbusinessreview.com/is-cortisol-the-missing-link-in-sleep-health",
+      "published_at": "2026-07-10T16:15:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "4ed58e4c81b4800c",
+      "title": "サントリーBF、小学校で「こども気温 教室」水分補給に日傘・冷却タオルも",
+      "summary": "サントリービバレッジ&フードは、「GREEN DA・KA・RA」ブランドの熱中症対策啓発活動「こども気温」を強化する。 2026年は「水分補給と日傘で、夏を耐えるものから楽しめるものへ」を掲げ、子ども向け日傘も展...",
+      "url": "https://www.ssnp.co.jp/beverage/693029/",
+      "published_at": "2026-07-10T16:00:50+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "c6be3ba28b4eda7a",
@@ -112,6 +196,30 @@
       "category": "综合",
       "level": "B",
       "language": "ja"
+    },
+    {
+      "id": "04116d9990a0a945",
+      "title": "Study links Elysium Health's Basis to reduced menopause symptoms and improved oestrogen balance",
+      "summary": "The research found 50%+ reductions in hot flashes, bloating and poor sleep after seven days, alongside a significant improvement in the estradiol-to-estrone ratio — opening a new NAD+ and women's…",
+      "url": "https://nutraceuticalbusinessreview.com/elysium-health-basis-reduced-menopause-symptoms-oestrogen",
+      "published_at": "2026-07-10T14:34:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "3d7d24ad9fd6a3ad",
+      "title": "PharmaLinea highlights nutraceutical opportunities in China after HNC recognition",
+      "summary": "Healthplex Expo, Natural and Nutraceutical Products China (HNC), one of China’s leading health and nutrition trade shows, named PharmaLinea a recipient of its first Leading Enterprise for Quality &…",
+      "url": "https://nutraceuticalbusinessreview.com/pharmalinea-highlights-nutraceutical-opportunities-in-china-after-hnc",
+      "published_at": "2026-07-10T14:30:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "e7480261124fc46d",
@@ -6184,78 +6292,6 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "e3c97fd6818c0679",
-      "title": "Marketing Fails + Wins: Why ‘Edgy’ Works for Some Brands and Not Others",
-      "summary": "From Liquid Death to Pepsi, Burger King, and Starbucks South Korea, edgy campaigns can either build buzz or spark backlash. Marketing experts explain why brand permission often makes the difference.…",
-      "url": "https://foodinstitute.com/focus/marketing-fails-wins-why-edgy-works-for-some-brands-and-not-others/?utm_source=rss&utm_medium=rss&utm_campaign=marketing-fails-wins-why-edgy-works-for-some-brands-and-not-others",
-      "published_at": "2026-07-03T18:00:38+08:00",
-      "source": "The Food Institute",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "8d2fe0050db6f218",
-      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　北海道産メロン＆ホイップ』、『もちふわパンケーキ　北海道産富良野メロン＆ホイップ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン スナックサンド 北海道産メロン＆ホイップ 袋2個北海道産メロ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070308/?utm_source=rss&utm_medium=mognavinews_20260705",
-      "published_at": "2026-07-03T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "543ba41c4d0c06e6",
-      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　北海道産メロン＆ホイップ』、『もちふわパンケーキ　北海道産富良野メロン＆ホイップ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン スナックサンド 北海道産メロン＆ホイップ 袋2個北海道産メロ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070308/?utm_source=rss&utm_medium=mognavinews_20260704",
-      "published_at": "2026-07-03T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "bb74bc0bb129ac69",
-      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　北海道産メロン＆ホイップ』、『もちふわパンケーキ　北海道産富良野メロン＆ホイップ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン スナックサンド 北海道産メロン＆ホイップ 袋2個北海道産メロ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026070308/?utm_source=rss&utm_medium=mognavinews_20260703",
-      "published_at": "2026-07-03T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "a1116b5bd6ecaede",
-      "title": "ニップン、フラーゴラッド鹿児島とプリンシパル・パートナー契約 SVリーグ初参戦チームと共創",
-      "summary": "ニップンは7月3日、男子バレーボールチーム「フラーゴラッド鹿児島」とプリンシパル・パートナー契約を締結したと発表した。同チームは2026年10月に開幕する2026-27シーズンから、バレーボール国内最高峰リーグ「大同生命...",
-      "url": "https://www.ssnp.co.jp/rice/692012/",
-      "published_at": "2026-07-03T16:30:50+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "798da9f8c6bbbef5",
-      "title": "カルディ、人気「ネコバッグ」抽選申込スタート　かごバッグ風デザイン×ねこ柄インナーバッグ、食品4種入り",
-      "summary": "カルディコーヒーファームは7月3日から、毎回人気を集める「ネコバッグ」の事前抽選を受け付けている。 実店舗と公式オンラインストアでそれぞれ異なるセットを用意しており、両方に申し込むことも可能。価格は、実店舗販売の「ネコバ...",
-      "url": "https://www.ssnp.co.jp/distribution/691987/",
-      "published_at": "2026-07-03T15:46:42+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
     }
   ]
 }
