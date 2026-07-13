@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-12T12:20:28",
+  "last_updated": "2026-07-13T12:24:18",
   "retention_days": 10,
-  "total": 322,
+  "total": 327,
   "s_count": 22,
   "a_count": 2,
-  "b_count": 298,
+  "b_count": 303,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -297,6 +297,61 @@
       "summary": "",
       "level": "A",
       "level_reason": "常规新品/营销"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.13湖池屋「季節の揚げたて直送便 海苔と本わさび」(7月13日より受注販売開始)",
+      "url": "https://www.nissin.com/jp/news/13821/",
+      "published_at": "2026-07-13T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.13日清食品「冷しカップヌードル」2品 (7月20日発売)",
+      "url": "https://www.nissin.com/jp/news/13820/",
+      "published_at": "2026-07-13T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.13日清食品「日清の辛どん兵衛 豚だしうどん」「日清の辛どん兵衛 牛だしそば」(7月27日発売)",
+      "url": "https://www.nissin.com/jp/news/13814/",
+      "published_at": "2026-07-13T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.13日清シスコ「ごろグラ meets DALLOYAU ときめきづくしキャンペーン」(8月3日からスタート)",
+      "url": "https://www.nissin.com/jp/news/13816/",
+      "published_at": "2026-07-13T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 세계 최대 식품기술전시회 ‘IFT 2026’ 참가… 차세대 천연 조미소재 ‘테이스트앤리치(T...2026.07.13",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1787",
+      "published_at": "2026-07-13T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Kirin",
