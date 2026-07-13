@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T17:01:29.129884+08:00",
-  "total": 5186,
+  "last_updated": "2026-07-13T19:51:26.609773+08:00",
+  "total": 5193,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -12,6 +12,78 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "2c0ae2ff38c7cacf",
+      "title": "Five ingredient trends to watch at IFT FIRST 2026",
+      "summary": "Natural colours, clean-label ingredients, plant-based formulation and enzyme technologies are among the key innovations expected to shape conversations at IFT FIRST 2026, as suppliers showcase the…",
+      "url": "https://nutraceuticalbusinessreview.com/five-ingredient-trends-watch-ift-first",
+      "published_at": "2026-07-13T18:40:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "c09d416fdf0ac99a",
+      "title": "夏の新作！チューハイのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「チューハイ」の最新・注目度ランキングです♪（2026年7月10日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-23674/?utm_source=rss&utm_medium=mognavinews_20260713",
+      "published_at": "2026-07-13T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8d1fd3c264e719ed",
+      "title": "今週新発売の菓子パン🍫まとめ！『オムレット　マロン』、『ヨーグルトクリーム＆ホイップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン オムレット マロン 袋1個ふんわりとした生地で、ホイップと…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071308/?utm_source=rss&utm_medium=mognavinews_20260713",
+      "published_at": "2026-07-13T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "23ffb3d446ff6cb9",
+      "title": "How Boxed Water and 2 other manufacturers solved end-of-line palletizing without buying a robot",
+      "summary": "Three manufacturers. Three different products. Same answer when asked about robotic palletizing: \"should've done it sooner.\"",
+      "url": "https://www.fooddive.com/spons/how-boxed-water-and-2-other-manufacturers-solved-end-of-line-palletizing-wi/824303/",
+      "published_at": "2026-07-13T17:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "b264ca2ddb17fd58",
+      "title": "For producers, for the planet: Why we need conservation on farmland",
+      "summary": "Conservation agriculture practices have short and long-term benefits, yet adoption lags.",
+      "url": "https://www.fooddive.com/spons/for-producers-for-the-planet-why-we-need-conservation-on-farmland/824661/",
+      "published_at": "2026-07-13T17:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "d099308d4779431e",
+      "title": "Bioenergy Life Science adopts decentralised clinical research to support nutraceutical claims",
+      "summary": "The ingredient supplier says real-world decentralised studies can help brands generate finished-product evidence at lower cost while addressing growing regulatory expectations around substantiated…",
+      "url": "https://nutraceuticalbusinessreview.com/bioenergy-life-science-decentralised-clinical-research-nutraceutical",
+      "published_at": "2026-07-13T16:59:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
@@ -205,6 +277,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "45d19bb3b890f9bc",
+      "title": "Retailers Ringing Up Early Back-to-School Sales",
+      "summary": "Early back-to-school promotions are boosting retail traffic as inflation, private label demand, AI-assisted shopping, and value-focused consumers reshape seasonal buying, creating new opportunities…",
+      "url": "https://foodinstitute.com/retail/retailers-ringing-up-early-back-to-school-sales/?utm_source=rss&utm_medium=rss&utm_campaign=retailers-ringing-up-early-back-to-school-sales",
+      "published_at": "2026-07-13T13:00:28+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
     },
     {
       "id": "c1d5b55abc41f15d",
