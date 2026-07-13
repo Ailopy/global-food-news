@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-13T15:29:26.659495+08:00",
+  "last_updated": "2026-07-13T17:01:29.197596+08:00",
   "retention_days": 7,
-  "total": 517,
+  "total": 514,
   "sources": [
     "BevNET",
     "Fab News",
@@ -28,6 +28,30 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "a877f71122adead2",
+      "title": "「はま寿司の旨ねた夏祭り」開催、「三陸産 大切り銀鮭」「大切りびんちょうまぐろ大とろ」など4品を税込110円で提供",
+      "summary": "寿司チェーン「はま寿司」は、7月14日から「はま寿司の旨ねた夏祭り」を全国の店舗で開催し、「三陸産 大切り銀鮭」「大切りびんちょうまぐろ大とろ」など4品を税込110円で提供するほか、サイドメニューを多数ラインアップする。...",
+      "url": "https://www.ssnp.co.jp/foodservice/693226/",
+      "published_at": "2026-07-13T16:24:30+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "e4ac91d4b397c216",
+      "title": "〈これで売れました！〉ヨシダコーポレーション「まぜるの簡単クリームチーズ」 チーズケーキ作りを簡単に",
+      "summary": "ソフトタイプのナチュラルクリームチーズ。ナチュラルチーズを原材料としながらも、湯せん不要。柔らかく混ぜるのが簡単なので、チーズケーキなどが簡単にできる。料理へのトッピングにも好適。 ソース",
+      "url": "https://shokuhin.net/153407/2026/07/13/uremashita/",
+      "published_at": "2026-07-13T16:04:06+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "a51b8155ca2425af",
@@ -6159,66 +6183,6 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "ee5f3364709f687b",
-      "title": "When growth creates leakage: how nutraceutical brands can protect distribution without fixing resale prices",
-      "summary": "Nutraceutical brands can protect growth, margins and consumer trust by designing controlled distribution systems that manage channel leakage without unlawful resale price fixing",
-      "url": "https://nutraceuticalbusinessreview.com/when-growth-creates-leakage-how-nutraceutical-brands-can",
-      "published_at": "2026-07-06T16:30:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "3f4e9c3b91cd6c53",
-      "title": "コノミヤ会、30回の節目 芋縄社長「取引先とともに勝ち抜く」",
-      "summary": "コノミヤ（大阪市）は6月30日、帝国ホテル大阪においてコノミヤ会総会を開催。取引先関係者ら約500人が集まった。 同会の加藤和弥会長（加藤産業社長）が「小売業界では様々な競争がある中、成長する企業、停滞する企業に分か […] ソース",
-      "url": "https://shokuhin.net/152932/2026/07/06/ryutu/kouri/",
-      "published_at": "2026-07-06T16:17:25+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "17130b620c9c7597",
-      "title": "生ビール638円→209円、ハイボール605円→319円、牛カルビ319円、牛ハラミ429円　20品以上が何皿・何杯でも特別価格【牛角「夏の大焼肉祭り」】",
-      "summary": "焼肉チェーン「牛角」は、7月6日(月)から8月6日(木)までの平日限定で、「夏の大焼肉祭り」を開催する。 牛角30周年を記念したキャンペーンで、生ビール(中ジョッキ)を通常580円(税込638円)から190円(税込209...",
-      "url": "https://www.ssnp.co.jp/foodservice/692218/",
-      "published_at": "2026-07-06T16:16:37+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "d513a83130b67abe",
-      "title": "【セブン‐イレブン】「ライフガード」の味わいを『グミカク』で再現!二つの食感が楽しめる",
-      "summary": "セブン‐イレブン･ジャパンは、チェリオジャパンのロングセラー炭酸飲料「ライフガード」とコラボレーションした新商品「セブンプレミアム グミカク ライフガード味」を、7月7日から順次、全国のセブン‐イレブン店舗で発売する。 ...",
-      "url": "https://www.ssnp.co.jp/distribution/692212/",
-      "published_at": "2026-07-06T16:11:23+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "0aaef628e5da4753",
-      "title": "にんべん モッツァレラと薬味で 暑い季節のかつぶしめし",
-      "summary": "にんべんは7月1日、東京・日本橋の「日本橋だし場本店」で「モッツァレラチーズ薬味のせかつぶしめし」を発売した。本枯鰹節の上に、モッツァレラチーズと茗荷、大葉、胡麻をトッピングした。7月31日までの期間限定で販売する。 […] ソース",
-      "url": "https://shokuhin.net/153004/2026/07/06/ryutu/souzai/",
-      "published_at": "2026-07-06T15:31:09+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
       "language": "ja"
     }
   ]
