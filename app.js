@@ -762,10 +762,12 @@ function renderGiantsView() {
     giantBrandsActive.has(a.brand_cn) && giantRegionsActive.has(a.region)
   );
 
-  // 按级别分组
-  const sArts = filtered.filter(a => a.level === "S");
-  const aArts = filtered.filter(a => a.level === "A");
-  const bArts = filtered.filter(a => a.level === "B");
+  // 按时间排序（最新在前）
+  const sorted = [...filtered].sort((a, b) => {
+    const ta = a.published_at || "";
+    const tb = b.published_at || "";
+    return tb.localeCompare(ta);
+  });
 
   // 品牌筛选 chips
   const allBrands = [...new Set(allGiantArticles.map(a => a.brand_cn))];
@@ -825,7 +827,7 @@ function renderGiantsView() {
         </svg>
         全球巨头官网资讯
       </h2>
-      <span class="giants-update-time">每日 09:00 自动更新 · S/A/B 分级</span>
+      <span class="giants-update-time">每日 09:00 / 12:00 / 15:00 自动更新 · S/A/B 分级</span>
     </div>
     <p class="giants-sub">直连全球 ${allBrands.length} 大巨头官方新闻源 · 投融资/新品类/新原料/新技术/营销创新 → S级重点</p>
   </div>
@@ -849,30 +851,16 @@ function renderGiantsView() {
 
   <!-- 统计 -->
   <div class="giants-stats">
-    <span class="giants-stat-s">🔥 S级 ${sArts.length}</span>
-    <span class="giants-stat-a">📦 A级 ${aArts.length}</span>
-    <span class="giants-stat-b">📋 B级 ${bArts.length}</span>
+    <span class="giants-stat-s">🔥 S级 ${filtered.filter(a => a.level === "S").length}</span>
+    <span class="giants-stat-a">📦 A级 ${filtered.filter(a => a.level === "A").length}</span>
+    <span class="giants-stat-b">📋 B级 ${filtered.filter(a => a.level === "B").length}</span>
     <span class="giants-stat-total">共 ${filtered.length} 条</span>
   </div>`;
 
-  // S 级区域
-  if (sArts.length > 0) {
-    html += `<div class="giants-section"><h3 class="giants-section-title giants-section-s">🔥 S级 · 重大资讯</h3><div class="giants-grid giants-grid-s">`;
-    sArts.forEach(a => { html += renderGiantCard(a); });
-    html += `</div></div>`;
-  }
-
-  // A 级区域
-  if (aArts.length > 0) {
-    html += `<div class="giants-section"><h3 class="giants-section-title giants-section-a">📦 A级 · 常规新品/营销</h3><div class="giants-grid giants-grid-ab">`;
-    aArts.forEach(a => { html += renderGiantCard(a); });
-    html += `</div></div>`;
-  }
-
-  // B 级区域
-  if (bArts.length > 0) {
-    html += `<div class="giants-section"><h3 class="giants-section-title giants-section-b">📋 B级 · 企业动态</h3><div class="giants-grid giants-grid-ab">`;
-    bArts.forEach(a => { html += renderGiantCard(a); });
+  // 全部文章按时间倒序渲染
+  if (sorted.length > 0) {
+    html += `<div class="giants-section"><h3 class="giants-section-title">📰 最新资讯（按时间排序）</h3><div class="giants-grid giants-grid-s">`;
+    sorted.forEach(a => { html += renderGiantCard(a); });
     html += `</div></div>`;
   }
 
@@ -885,7 +873,7 @@ function renderGiantsView() {
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
       <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
     </svg>
-    S级定义：行业巨头大动作（并购/合并）· 新原料/新技术 · 新产品（非新口味）· 创新营销联名 · 食品行业重磅新政。每日 09:00 自动抓取，保留近 10 天数据。
+    S级定义：行业巨头大动作（并购/合并）· 新原料/新技术 · 新产品（非新口味）· 创新营销联名 · 食品行业重磅新政。每日 09:00 / 12:00 / 15:00 自动抓取，保留近 7 天数据。
   </div>`;
 
   articlesGrid.innerHTML = html;
@@ -1085,6 +1073,7 @@ const POSITIONING_BADGE = {
   "新品发布":  { color: "#c2410c", bg: "#fff7ed" },
   "行业分析":  { color: "#7c3aed", bg: "#faf5ff" },
   "包装&设计": { color: "#9333ea", bg: "#fdf4ff" },
+  "产品广告&视频": { color: "#e11d48", bg: "#fff1f2" },
 };
 
 async function loadSTopicsData() {
@@ -1132,8 +1121,9 @@ function renderSTopicsView() {
   const allSites = [...new Set(allSTopicsArticles.map(a => a.site_name))];
   const allRegionsList = [...new Set(allSTopicsArticles.map(a => a.region))];
 
-  // S+ 和普通分组
+  // S+ 和普通分组 + 产品盯梢分组
   const sPlusArts = filtered.filter(a => a.is_s_plus);
+  const watchedArts = filtered.filter(a => a.watched_product);
   const normalArts = filtered.filter(a => !a.is_s_plus);
 
   // 品类统计
@@ -1174,23 +1164,50 @@ function renderSTopicsView() {
       `<span class="stopics-cat-tag" style="color:${c.color};background:${c.color}18;border-color:${c.color}33">${c.icon} ${c.name}</span>`
     ).join("");
 
+    // S+ 和 产品盯梢 badge
     const sPlusBadge = art.is_s_plus
       ? `<span class="stopics-splus-badge">⭐ S+选题</span>`
       : "";
 
-    const cardClass = art.is_s_plus ? "stopics-card stopics-card-splus" : "stopics-card";
+    // 产品盯梢 badge（紧急盯梢的产品）
+    const watchedBadge = art.watched_product
+      ? `<span class="stopics-watched-badge">🔔 紧急盯梢 · ${art.watched_product_name || ""}</span>`
+      : "";
+
+    // 视频缩略图（YouTube 来源）
+    const videoThumbnail = art.is_video && art.video_thumbnail
+      ? `<div class="stopics-video-thumb" style="background-image:url('${art.video_thumbnail}')">
+           <div class="stopics-video-play-overlay">
+             <svg viewBox="0 0 24 24" fill="white" width="48" height="48"><polygon points="5,3 19,12 5,21"/></svg>
+           </div>
+         </div>`
+      : "";
+
+    // 视频标识（YouTube 来源）
+    const videoBadge = art.is_video
+      ? `<span class="stopics-video-badge">🎬 ${art.channel_name || "YouTube"}</span>`
+      : "";
+
+    // 卡片样式：产品盯梢卡片有特殊高亮
+    let cardClass = "stopics-card";
+    if (art.is_s_plus) cardClass += " stopics-card-splus";
+    if (art.watched_product) cardClass += " stopics-card-watched";
 
     return `
     <a href="${art.url}" target="_blank" rel="noopener noreferrer" class="${cardClass}">
       ${art.is_s_plus ? '<div class="stopics-splus-glow"></div>' : ''}
+      ${art.watched_product ? '<div class="stopics-watched-glow"></div>' : ''}
+      ${videoThumbnail}
       <div class="stopics-card-header">
         <div class="stopics-card-site">
           <span class="stopics-site-name">${art.site_name}</span>
           <span class="stopics-region-tag">${regionIcon} ${art.region}</span>
           <span class="stopics-pos-tag" style="color:${posStyle.color};background:${posStyle.bg}">${art.positioning}</span>
+          ${videoBadge}
         </div>
         <div class="stopics-badge-row">
           ${sPlusBadge}
+          ${watchedBadge}
         </div>
       </div>
       <h3 class="stopics-card-title">${art.title}</h3>
@@ -1199,7 +1216,7 @@ function renderSTopicsView() {
         <div class="stopics-cat-tags">${catTagsHTML}</div>
         <div class="stopics-card-meta">
           <span class="stopics-time">${timeStr}</span>
-          <span class="stopics-readmore">阅读原文 →</span>
+          <span class="stopics-readmore">${art.is_video ? "观看视频 →" : "阅读原文 →"}</span>
         </div>
       </div>
     </a>`;
@@ -1214,9 +1231,9 @@ function renderSTopicsView() {
         </svg>
         S级选题网站
       </h2>
-      <span class="stopics-update-badge">每日 09:00 · 近30天 · 自动品类分析</span>
+      <span class="stopics-update-badge">每日 09:00 / 17:00 · 近30天 · 自动品类分析 · YouTube监控</span>
     </div>
-    <p class="stopics-sub">跟踪 ${allSites.length} 个精选选题网站 · <strong style="color:#b45309">⭐ S+选题</strong> = 全球首创 / 首款 / 爆品 / 卖爆 等明显创新或爆品属性</p>
+    <p class="stopics-sub">跟踪 ${allSites.length} 个精选选题网站 · <strong style="color:#b45309">⭐ S+选题</strong> = 全球首创 / 首款 / 爆品 · <strong style="color:#e11d48">🔔 紧急盯梢</strong> = 重点产品第一时间通知</p>
   </div>
 
   <!-- 网站筛选 -->
@@ -1238,11 +1255,19 @@ function renderSTopicsView() {
 
   <!-- 统计 -->
   <div class="stopics-stats-bar">
+    ${watchedArts.length > 0 ? `<span class="stopics-stat-watched">🔔 紧急盯梢 ${watchedArts.length}</span>` : ""}
     <span class="stopics-stat-splus">⭐ S+选题 ${sPlusArts.length}</span>
     <span class="stopics-stat-normal">📰 普通 ${normalArts.length}</span>
     <span class="stopics-stat-total">共 ${filtered.length} 条</span>
     <div class="stopics-cat-stats">${catStatHTML}</div>
   </div>`;
+
+  // 产品盯梢紧急区域（最高优先级）
+  if (watchedArts.length > 0) {
+    html += `<div class="stopics-section"><h3 class="stopics-section-title stopics-section-watched">🔔 紧急盯梢 · 第一时间通知</h3><div class="stopics-grid stopics-grid-watched">`;
+    watchedArts.forEach(a => { html += renderSTopicCard(a); });
+    html += `</div></div>`;
+  }
 
   // S+ 区域
   if (sPlusArts.length > 0) {
