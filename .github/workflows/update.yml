@@ -1,9 +1,10 @@
 # ============================================================
 # GitHub Actions — 自动抓取 + 部署
-# 触发时间：北京时间 08:00 / 09:00 / 12:00 / 17:00
+# 触发时间：北京时间 08:00 / 09:00 / 12:00 / 15:00 / 17:00
 #   - 08:00 → RSS 资讯抓取（UTC 00:00）★ A+ 来源优先
 #   - 09:00 → 巨头官网爬虫 + S级选题爬虫（UTC 01:00）
-#   - 12:00 → RSS 资讯抓取（UTC 04:00）
+#   - 12:00 → RSS 资讯抓取 + 巨头官网爬虫（UTC 04:00）
+#   - 15:00 → 巨头官网爬虫（UTC 07:00）
 #   - 17:00 → RSS 资讯抓取 + S级选题爬虫（UTC 09:00）
 # ============================================================
 
@@ -26,6 +27,8 @@ on:
     - cron: "0 4 * * *"
     # 北京时间 17:00（傍晚整理）
     - cron: "0 9 * * *"
+    # 北京时间 15:00（巨头官网午后更新）
+    - cron: "0 7 * * *"
 
   # 允许手动触发
   workflow_dispatch:
@@ -112,14 +115,18 @@ jobs:
             echo "- 数据文件未生成，请检查日志" >> $GITHUB_STEP_SUMMARY
           fi
 
-  # ── Job 2: 巨头官网爬虫（09:00）────────────────────────
+  # ── Job 2: 巨头官网爬虫（09:00 / 12:00 / 15:00）────────────
   fetch-giants:
     runs-on: ubuntu-latest
     timeout-minutes: 20
-    # 只在 09:00 或手动触发时运行（巨头官网只需每天抓一次）
+    # 巨头官网每天抓3次：09:00（含S级选题） / 12:00 / 15:00（仅巨头）
     if: |
       github.event_name == 'workflow_dispatch' ||
-      (github.event_name == 'schedule' && github.event.schedule == '0 1 * * *')
+      (github.event_name == 'schedule' && (
+        github.event.schedule == '0 1 * * *' ||
+        github.event.schedule == '0 4 * * *' ||
+        github.event.schedule == '0 7 * * *'
+      ))
 
     steps:
       - name: Checkout repository
@@ -143,6 +150,8 @@ jobs:
         continue-on-error: false
 
       - name: Scrape S-level topic websites
+        # S级选题仅在 09:00 运行（12:00/15:00 只抓巨头）
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 1 * * *'
         run: |
           cd scripts
           python s_topics_scraper.py
@@ -163,7 +172,11 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add web/data/news_giant_brands.json web/data/news_s_topics.json
-          git commit -m "chore: 巨头+S级选题资讯更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          MSG="巨头官网资讯更新"
+          if ! git diff --quiet web/data/news_s_topics.json; then
+            MSG="巨头+S级选题资讯更新"
+          fi
+          git commit -m "chore: ${MSG} $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
           git push
 
       - name: Deploy to GitHub Pages

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 giant_brands_scraper.py — 全球巨头官网资讯爬虫
-每日北京时间 09:00 运行
+每日北京时间 09:00 / 12:00 / 15:00 运行
 策略：① 优先 RSS/Atom ② 回退 HTML 解析 ③ S/A/B 分级
 输出：web/data/news_giant_brands.json
 """
@@ -20,7 +20,7 @@ from giant_brands_config import GIANT_BRANDS, S_LEVEL_KEYWORDS, A_LEVEL_KEYWORDS
 # ── 常量 ───────────────────────────────────────────────────
 OUTPUT_DIR  = Path(__file__).resolve().parent.parent / "web" / "data"
 OUTPUT_FILE = OUTPUT_DIR / "news_giant_brands.json"
-RETENTION_DAYS = 30
+RETENTION_DAYS = 7
 REQUEST_TIMEOUT = 30
 DELAY_BETWEEN_REQUESTS = 1.5  # 秒，避免频繁请求
 
@@ -334,7 +334,7 @@ def deduplicate(articles):
     return list(seen.values())
 
 
-# ── 数据保留策略（30 天 / 近1个月）──────────────────────────────
+# ── 数据保留策略（7 天）──────────────────────────────
 def prune_old_articles(articles, retention_days=RETENTION_DAYS):
     """只保留最近 N 天的资讯"""
     cutoff = now_cst() - timedelta(days=retention_days)
@@ -412,17 +412,11 @@ def main():
     existing = load_existing()
     all_articles = merge_with_existing(all_articles, existing)
 
-    # 保留近1个月（30天）
+    # 保留最近 7 天
     all_articles = prune_old_articles(all_articles)
 
-    # 按日期排序（最新在前），S 级优先
-    all_articles.sort(key=lambda a: (
-        0 if a.get("level") == "S" else 1 if a.get("level") == "A" else 2,
-        a.get("published_at", "") or "",  # 字符串排序也能工作
-    ), reverse=True)
-    # 修正：先按日期降序，再按级别排序
+    # 按发布时间倒序排列（最新在前）
     all_articles.sort(key=lambda a: a.get("published_at", "") or "", reverse=True)
-    all_articles.sort(key=lambda a: {"S": 0, "A": 1, "B": 2}.get(a.get("level", "B"), 2))
 
     # 提取品牌和地区列表
     brands = sorted(set(a["brand_cn"] for a in all_articles))

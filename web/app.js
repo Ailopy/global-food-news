@@ -762,10 +762,12 @@ function renderGiantsView() {
     giantBrandsActive.has(a.brand_cn) && giantRegionsActive.has(a.region)
   );
 
-  // 按级别分组
-  const sArts = filtered.filter(a => a.level === "S");
-  const aArts = filtered.filter(a => a.level === "A");
-  const bArts = filtered.filter(a => a.level === "B");
+  // 按时间排序（最新在前）
+  const sorted = [...filtered].sort((a, b) => {
+    const ta = a.published_at || "";
+    const tb = b.published_at || "";
+    return tb.localeCompare(ta);
+  });
 
   // 品牌筛选 chips
   const allBrands = [...new Set(allGiantArticles.map(a => a.brand_cn))];
@@ -825,7 +827,7 @@ function renderGiantsView() {
         </svg>
         全球巨头官网资讯
       </h2>
-      <span class="giants-update-time">每日 09:00 自动更新 · S/A/B 分级</span>
+      <span class="giants-update-time">每日 09:00 / 12:00 / 15:00 自动更新 · S/A/B 分级</span>
     </div>
     <p class="giants-sub">直连全球 ${allBrands.length} 大巨头官方新闻源 · 投融资/新品类/新原料/新技术/营销创新 → S级重点</p>
   </div>
@@ -849,30 +851,16 @@ function renderGiantsView() {
 
   <!-- 统计 -->
   <div class="giants-stats">
-    <span class="giants-stat-s">🔥 S级 ${sArts.length}</span>
-    <span class="giants-stat-a">📦 A级 ${aArts.length}</span>
-    <span class="giants-stat-b">📋 B级 ${bArts.length}</span>
+    <span class="giants-stat-s">🔥 S级 ${filtered.filter(a => a.level === "S").length}</span>
+    <span class="giants-stat-a">📦 A级 ${filtered.filter(a => a.level === "A").length}</span>
+    <span class="giants-stat-b">📋 B级 ${filtered.filter(a => a.level === "B").length}</span>
     <span class="giants-stat-total">共 ${filtered.length} 条</span>
   </div>`;
 
-  // S 级区域
-  if (sArts.length > 0) {
-    html += `<div class="giants-section"><h3 class="giants-section-title giants-section-s">🔥 S级 · 重大资讯</h3><div class="giants-grid giants-grid-s">`;
-    sArts.forEach(a => { html += renderGiantCard(a); });
-    html += `</div></div>`;
-  }
-
-  // A 级区域
-  if (aArts.length > 0) {
-    html += `<div class="giants-section"><h3 class="giants-section-title giants-section-a">📦 A级 · 常规新品/营销</h3><div class="giants-grid giants-grid-ab">`;
-    aArts.forEach(a => { html += renderGiantCard(a); });
-    html += `</div></div>`;
-  }
-
-  // B 级区域
-  if (bArts.length > 0) {
-    html += `<div class="giants-section"><h3 class="giants-section-title giants-section-b">📋 B级 · 企业动态</h3><div class="giants-grid giants-grid-ab">`;
-    bArts.forEach(a => { html += renderGiantCard(a); });
+  // 全部文章按时间倒序渲染
+  if (sorted.length > 0) {
+    html += `<div class="giants-section"><h3 class="giants-section-title">📰 最新资讯（按时间排序）</h3><div class="giants-grid giants-grid-s">`;
+    sorted.forEach(a => { html += renderGiantCard(a); });
     html += `</div></div>`;
   }
 
@@ -885,7 +873,7 @@ function renderGiantsView() {
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
       <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
     </svg>
-    S级定义：行业巨头大动作（并购/合并）· 新原料/新技术 · 新产品（非新口味）· 创新营销联名 · 食品行业重磅新政。每日 09:00 自动抓取，保留近 10 天数据。
+    S级定义：行业巨头大动作（并购/合并）· 新原料/新技术 · 新产品（非新口味）· 创新营销联名 · 食品行业重磅新政。每日 09:00 / 12:00 / 15:00 自动抓取，保留近 7 天数据。
   </div>`;
 
   articlesGrid.innerHTML = html;
