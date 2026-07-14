@@ -1,32 +1,281 @@
 {
-  "total": 1509,
-  "s_plus_count": 75,
+  "total": 1523,
+  "s_plus_count": 77,
+  "watched_product_count": 0,
   "sites": [
-    "Packaging Digest",
+    "Food Dive",
     "日経新聞",
     "日経xTrend",
-    "Food Dive"
+    "Packaging Digest"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "其他": 1040,
-    "行业政策": 37,
-    "新产品": 173,
+    "新产品": 178,
+    "新包装": 26,
+    "其他": 1044,
+    "行业政策": 39,
     "营销创新": 47,
     "品牌故事": 61,
     "并购融资": 54,
     "渠道新物种": 13,
     "联名营销": 39,
-    "新包装": 23,
     "新技术": 14,
     "新原料": 8
   },
-  "last_updated": "2026-07-13 12:24",
-  "last_updated_iso": "2026-07-13T12:24:34.486384+08:00",
+  "last_updated": "2026-07-14 11:51",
+  "last_updated_iso": "2026-07-14T11:51:36.260449+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "業界の“素人”がChatGPTでスイーツ開発 量産の秘訣、行政処分の危機",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00015/?n_cid=nbpnxr_rss",
+      "summary": "新商品や新サービスの開発に人工知能（AI）を活用する事例は、よく見かけるようになった。それらの多くは既存の開発手法を踏襲しながら、AIで「拡張」したり、「補助」させたりする使い方だ。しかし、三重県の乳業メーカーでは業界未経験の“素人”が「ChatGPT」を相棒として、二人三脚で新商品を開発したという。約2年間で4点もの商品化にこぎ着け、ヒット商品も生み出した。その担当者が語ったのは、単なる成功秘話ではなかった。行政処分の一歩手前に迫る「危機」に陥ったこともあるなど、酸いも甘いも経験した担当者が語る学びは、すべてのビジネスパーソンに向けた「金言」だ。",
+      "published_at": "2026-07-14T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-14T11:51:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "数字が苦手でも大丈夫！ 新刊『文系マーケターのためのゼロからわかる統計分析』発売",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01092/00013/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドは2026年7月18日に新刊『文系マーケターのためのゼロからわかる統計分析』を発売。生成AIが高度な分析を支援する時代だからこそ、結果をうのみにせず、自分で「判断する力」が必要です。本書は統計や数式が苦手な文系マーケターに向け、データ分析結果の正しい読み方や活用法をやさしく解説。対話形式で読み進めながら統計分析の本質が学べます。統計分析ソフト「R」の基本操作も習得できます。",
+      "published_at": "2026-07-14T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-14T11:51:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "キリン、AI活用でシニア市場開拓へ Claudeでまねする方法",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00016/?n_cid=nbpnxr_rss",
+      "summary": "市場分析や消費者調査のデータが手元にない“未知”の消費者をターゲットとするとき、いかにして開発するか。この難題に挑戦しているのが、飲料大手のキリンビバレッジだ。活路を切り開くきっかけとなったのが、AI（人工知能）の活用。今回、2027年発表予定のシニア向け健康飲料の開発における活用事例を、特別に大公開する。その手法はいずれも「Claude（クロード）」や「ChatGPT（チャットジーピーティー）」などの汎用AIを使ってまねできるものばかり。あらゆるビジネスパーソンにとって、AI実践のヒントになるはずだ。",
+      "published_at": "2026-07-14T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-14T11:51:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "“令和の米騒動”で脚光 米を3年守る異色商品が大ヒット 原点は遺体袋",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02920/?n_cid=nbpnxr_rss",
+      "summary": "2024年から翌25年にかけて起こった“令和の米騒動”では、新米だけでなく古米もクローズアップされ、米の保管方法にも注目が集まった。その中で、25年10月に発売された米保存用ジップバッグ「プロガードライスキープ」は、虫やカビの発生を抑制して、米を3年間常温保存できるというのが特徴だ。そのルーツはペット用遺体袋という異色の商品だが、どんな変遷を経て米の保存袋になったのか。",
+      "published_at": "2026-07-14T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-14T11:51:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「キリン ヘルシア」vs「伊右衛門特茶」 購買意欲誘うパッケージは？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00002/00117/?n_cid=nbpnxr_rss",
+      "summary": "キリンビバレッジの「キリン ヘルシアうまみ緑茶」とサントリービバレッジ＆フードの「サントリー 緑茶 伊右衛門特茶」のパッケージデザインを比較した。いずれも、特定保健用食品の代表的商品として広く知られている。「パッケージを見てどちらの商品を買いたいか」と聞くと、伊右衛門特茶の人気が高かった。特に「トクホ」としての印象は伊右衛門特茶がヘルシアを大きく上回った。",
+      "published_at": "2026-07-14T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-07-14T11:51:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「顔サウナ」として訴求 吸水性高めた新素材おしぼり",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00947/00296/?n_cid=nbpnxr_rss",
+      "summary": "半導体向け吸水・洗浄事業などを手掛けるアイオンは、吸水技術を応用した独自素材「クレマタッチ」を開発。デザインコンサルティングのkenmaと協業し、クレマタッチの特性をおしぼりに生かした「STTA テックオシボリ」を2026年5月に発売した。クレマタッチをコットンのおしぼりと比べると含水量は約2.7倍ながら、絞った後の残水量は約半分。水を含みやすく絞りやすい。移動中でも快適に使える点を訴求する。",
+      "published_at": "2026-07-14T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-14T11:51:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "森岡毅氏の告白 ジャングリア沖縄の反省と希望、批判殺到をへた現在地",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01906/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月に開業から1周年を迎えるジャングリア沖縄。開業当初からSNS上でネガティブな批判が相次ぎ、最近ではジャングリア沖縄を運営するジャパンエンターテイメントの筆頭株主である、刀の経営自体に関する疑念的な報道もある。刀代表取締役CEOの森岡毅氏が、日経クロストレンドの単独インタビューに対して、ジャングリアの現状と、開業当初の反省点について語った。取材は森岡氏の現在の心境の独白から始まった。",
+      "published_at": "2026-07-14T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-14T11:51:20+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Major FDA/USDA Food &amp; Beverage Recalls in Q2: Foodborne Illness, Allergen Labeling",
+      "url": "https://www.packagingdigest.com/food-beverage/q2-food-beverage-recalls-highlight-allergen-labeling-issues",
+      "summary": "Food and beverage recalls were particularly notable for their large scale, connections to foodborne illness outbreaks, and serious allergen risks to consumers.",
+      "published_at": "2026-07-13T20:35:10Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 2
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-07-14T11:51:34+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「キリン ヘルシア」vs「伊右衛門特茶」 購買意欲誘うパッケージは？",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oVXZmQnNFcUZhTFYzMWhodldVYjVoakJYS3FOZlZFUDlVd1pKbnZCZVRLWkxPc0drV2laSjAxZTFVdGFFSEtoX3NzWE1LSGEzakRSYmZJcFFFN01LbFRTVlh6RW9NQQ?oc=5",
+      "summary": "「キリン ヘルシア」vs「伊右衛門特茶」 購買意欲誘うパッケージは？&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-13T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-07-14T11:51:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "“令和の米騒動”で脚光 米を3年守る異色商品が大ヒット 原点は遺体袋",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY1VXdm1VZzJZUWkzX3BZSEo5V2VHanRJc3pZVXR0QmZKUlZham81X0RlWUEtMmtrZXVrNTdXb2FHVXkzSWlSeE5uWk5YUTdLb2E4WEROWnhfcHhLY0dkajdzTy1LbHZJLU5FY1JqcWdJM1htckJpVTZQcXJCbXJHUDFNVQ?oc=5",
+      "summary": "“令和の米騒動”で脚光 米を3年守る異色商品が大ヒット 原点は遺体袋&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-13T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-14T11:51:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "キリン、AI活用でシニア市場開拓へ Claudeでまねする方法",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yOFlBUnVhU09TbjVfUXdwMXhBNk9qV2tibWYwYVFlS3VZMlJSdVpPX0NjOUJwWmpnQTRlXzQ5WWlmUGJsVG9HUUJsUXl2dU1vUHQ3TVZoUzlZYWdlZ0lpR1V1a2oyQnhVUXQzbzd0dS1sQTc5M3VQMjJvMDJ4RG8?oc=5",
+      "summary": "キリン、AI活用でシニア市場開拓へ Claudeでまねする方法&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-13T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-14T11:51:18+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -3902,6 +4151,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-10T12:43:27+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "なぜ売れない？白黒パッケージでカルビーが湖池屋に敗北",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyMFZ3Z1NCeXlNVUZCSk94TnRVOG51SmZmb3g1R0Z0ai1jN0MxZFQxMFVQUUZqRmxlanBwZzMzU0FPMjY0d2FWUXFSN3NxNGlqY3RnUUZGSkFJdjJRT2NFTzNjcms5UQ?oc=5",
+      "summary": "なぜ売れない？白黒パッケージでカルビーが湖池屋に敗北&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-09T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-07-14T11:51:18+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -33932,6 +34203,56 @@
       ],
       "primary_category": "新原料",
       "scraped_at": "2026-07-11T11:59:45+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "California standardizes date labeling, Virginia bans foam food containers",
+      "url": "https://www.fooddive.com/news/packaging-laws-july-2026-date-labeling-foam-pfas/824938/",
+      "summary": "While 2026 has already seen multiple new packaging laws implemented, the year’s halfway mark brings a few more.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 3
+        },
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-07-14T11:51:31+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Mars to close Nature’s Bakery plant, lay off 345 workers",
+      "url": "https://www.fooddive.com/news/natures-bakery-missouri-plant-closure-mars/824739/",
+      "summary": "The closure comes a year after the brand opened a new $237 million production facility to keep up with demand.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-14T11:51:31+08:00"
     }
   ]
 }

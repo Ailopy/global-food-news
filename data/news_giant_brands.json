@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-13T12:24:18",
-  "retention_days": 10,
-  "total": 327,
+  "last_updated": "2026-07-14T11:51:17",
+  "retention_days": 7,
+  "total": 329,
   "s_count": 22,
   "a_count": 2,
-  "b_count": 303,
+  "b_count": 305,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -38,265 +38,34 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
-      "title": "発売36年目の秋の定番ビール、「キリン秋味（期間限定）」を発売",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0710_01.html",
-      "published_at": "2026-07-10T02:00:10",
+      "title": "飲料業界『社会課題対応研究会』持続可能な社会の実現に向けた「納品時賞味期限の緩和（製造ロットの逆転許容）」の取り組みについて",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0714_01.html",
+      "published_at": "2026-07-14T02:00:05",
       "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
+      "brand": "Asahi",
+      "brand_cn": "朝日",
       "region": "日本",
-      "title": "セブン‐イレブン・ジャパン協働第2弾！果実のフードロス削減・農家支援を目指す 「キリン 氷結&reg;mottainai 富良野メロン（期間限定）／セブン‐イレブン等限定」発売",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0702_01.html",
-      "published_at": "2026-07-02T02:00:05",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "FDAが協和キリンをPreCheck パイロットプログラムに選定　製造タイムラインの加速とサプライチェーンの強靭化を推進",
-      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260630_01.pdf",
-      "published_at": "2026-07-01T08:00:05",
-      "summary": "",
-      "level": "S",
-      "level_reason": "重磅新政"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "夏に飲みたい！宮崎産日向夏の爽やかな酸味と飲み心地 「キリン 氷結&reg;無糖 宮崎産日向夏 ALC.7％（期間限定）」新発売",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0629_01.html",
-      "published_at": "2026-06-29T02:00:05",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "はじけるバレンシアオレンジのおいしさ！大人の心浮き立つノンアルコール「キリン 氷ゼロ スパークリング バレンシアオレンジ（期間限定）」新発売！",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0625_01.html",
-      "published_at": "2026-06-25T02:00:10",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "夏にぴったりなおいしさ！2年連続「氷結&reg;」 スタンダード限定品で売り上げNo.1 「キリン 氷結&reg; 塩ライチ（期間限定）」が今年も登場",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0624_01.html",
-      "published_at": "2026-06-24T02:00:10",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "世界で人気のクラフトビール「ブルックリン・ブルワリー」から「ブルックリンサマーエール」を数量限定発売",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0623_01.html",
-      "published_at": "2026-06-23T02:00:05",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-07-14T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
-      "title": "2026.06.10明星食品「明星 一平ちゃん夜店の焼そば やみつき塩だれ味 今だけ! ガーリックマヨネーズ20％増量」 (6月中旬より数量限定で順次出荷)",
-      "url": "https://www.nissin.com/jp/news/13785/",
-      "published_at": "2026-06-10T00:00:00",
+      "title": "2026.07.14明星食品「明星 チャルメラ スタミナ源たれ にんにく醤油焼そば」「明星 チャルメラ 焼肉のたれ辛味家 旨辛醤油焼そば」(7月27日発売)",
+      "url": "https://www.nissin.com/jp/news/13825/",
+      "published_at": "2026-07-14T00:00:00",
       "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "アイスティーで夏の豊かな休息を提案！40周年記念限定品シリーズ第二弾 「キリン 午後の紅茶 40TH BLEND パッションフルーツ香るレモンティー」を新発売",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0609_01.html",
-      "published_at": "2026-06-09T02:00:10",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "「キリン 世界のKitchenから ソルティライチソーダ」を6月23日（火）より全国で数量限定発売",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0608_01.html",
-      "published_at": "2026-06-08T02:00:05",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "「一番搾り」ブランドより、冷やすと夏のモチーフが色づく夏デザイン缶を限定発売",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0602_02.html",
-      "published_at": "2026-06-02T02:00:10",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "「キリンビール 晴れ風」より、「晴れ風ACTION」花火デザイン缶を限定発売 「晴れ風ACTION」で、失われつつある花火を守り、未来につなぐ",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0602_03.html",
-      "published_at": "2026-06-02T02:00:05",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "柑橘の酸味を程よい甘さでさっぱりと楽しめる爽快な味わいで暑い夏を爽快に「キリン 華よい レモンライムホワイトスパークリング（期間限定）」新発売",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0529_01.html",
-      "published_at": "2026-05-29T02:00:10",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Kirin",
-      "brand_cn": "麒麟",
-      "region": "日本",
-      "title": "宮崎産「ゴールドキウイ」の規格外果実を活用！果実のフードロス削減・農家支援につながる「キリン 氷結&reg;mottainai ゴールドキウイ（期間限定）」発売。",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0528_02.html",
-      "published_at": "2026-05-28T02:00:05",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Ito En",
-      "brand_cn": "伊藤园",
-      "region": "日本",
-      "title": "日本初、官民共同で育成した茶の新品種「彩の女神」「彩の糸」を出願",
-      "url": "https://www.itoen.co.jp/news/article/85408/",
-      "published_at": "2026-04-28T01:59:21",
-      "summary": "",
-      "level": "S",
-      "level_reason": "新产品"
-    },
-    {
-      "brand": "Ito En",
-      "brand_cn": "伊藤园",
-      "region": "日本",
-      "title": "オンラインショップ限定「お～いお茶 新茶 Kinko-cho」 を、4月20日（月）に予約販売開始、5月15日（金）より順次発送開始",
-      "url": "https://www.itoen.co.jp/news/article/85369/",
-      "published_at": "2026-04-16T11:21:23",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Ito En",
-      "brand_cn": "伊藤园",
-      "region": "日本",
-      "title": "新茶の氷水出しで、感動の冷茶体験を。2026年産「お～いお茶 新茶」を、5月1日（金）に販売開始（数量限定）",
-      "url": "https://www.itoen.co.jp/news/article/85377/",
-      "published_at": "2026-04-16T11:11:59",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Nestlé HS",
-      "brand_cn": "雀巢",
-      "region": "欧洲",
-      "title": "VITAFLO® is innovation in nutrition. Specialized medical foods for Metabolic Disorders, Pediatric Kidney Disease and other areas of disease specific nutrition.Discover moreVITAFLO®",
-      "url": "https://www.nestlehealthscience.com/brands/vitaflo",
-      "published_at": "",
-      "summary": "",
-      "level": "S",
-      "level_reason": "新技术"
-    },
-    {
-      "brand": "Coca-Cola",
-      "brand_cn": "可口可乐",
-      "region": "中国",
-      "title": "【可口可乐】与奥利奥®结为“新搭子”，推出融合两大品牌特色的限定美味",
-      "url": "https://www.coca-cola.com/cn/zh/media-center/oreo-cooperation",
-      "published_at": "",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "General Mills",
-      "brand_cn": "通用磨坊",
-      "region": "北美",
-      "title": "Partnerships & collaborations",
-      "url": "https://www.generalmills.com/how-we-make-it/partnerships-and-collaborations",
-      "published_at": "",
-      "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
-    },
-    {
-      "brand": "Danone",
-      "brand_cn": "达能",
-      "region": "欧洲",
-      "title": "Social innovation funds",
-      "url": "https://www.danone.com/group/danone-in-the-field/social-innovation-funds.html",
-      "published_at": "",
-      "summary": "",
-      "level": "S",
-      "level_reason": "新技术"
-    },
-    {
-      "brand": "Morinaga",
-      "brand_cn": "森永",
-      "region": "日本",
-      "title": "食品安全・品質について",
-      "url": "https://www.morinagamilk.co.jp/learn_enjoy/quality_safety/",
-      "published_at": "",
-      "summary": "",
-      "level": "S",
-      "level_reason": "重磅新政"
-    },
-    {
-      "brand": "AB InBev",
-      "brand_cn": "百威英博",
-      "region": "欧洲",
-      "title": "Sustainability",
-      "url": "https://www.ab-inbev.com/sustainability",
-      "published_at": "",
-      "summary": "",
-      "level": "A",
-      "level_reason": "常规新品/营销"
-    },
-    {
-      "brand": "General Mills",
-      "brand_cn": "通用磨坊",
-      "region": "北美",
-      "title": "Sustainability",
-      "url": "https://www.generalmills.com/how-we-make-it/healthier-planet/sustainability",
-      "published_at": "",
-      "summary": "",
-      "level": "A",
-      "level_reason": "常规新品/营销"
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Nissin",
@@ -357,21 +126,21 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
+      "title": "発売36年目の秋の定番ビール、「キリン秋味（期間限定）」を発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0710_01.html",
+      "published_at": "2026-07-10T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
       "title": "熊本地震復興応援プロジェクト 「JFA・キリン ビッグスマイルフィールド」10月10日（土）熊本城二の丸広場で開催！",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0710_02.html",
       "published_at": "2026-07-10T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-10T00:00:00",
-      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -596,6 +365,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "セブン‐イレブン・ジャパン協働第2弾！果実のフードロス削減・農家支援を目指す 「キリン 氷結&reg;mottainai 富良野メロン（期間限定）／セブン‐イレブン等限定」発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0702_01.html",
+      "published_at": "2026-07-02T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
@@ -605,6 +385,17 @@
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "FDAが協和キリンをPreCheck パイロットプログラムに選定　製造タイムラインの加速とサプライチェーンの強靭化を推進",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260630_01.pdf",
+      "published_at": "2026-07-01T08:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "重磅新政"
     },
     {
       "brand": "Kirin",
@@ -706,6 +497,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "夏に飲みたい！宮崎産日向夏の爽やかな酸味と飲み心地 「キリン 氷結&reg;無糖 宮崎産日向夏 ALC.7％（期間限定）」新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0629_01.html",
+      "published_at": "2026-06-29T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
@@ -775,6 +577,17 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
+      "title": "はじけるバレンシアオレンジのおいしさ！大人の心浮き立つノンアルコール「キリン 氷ゼロ スパークリング バレンシアオレンジ（期間限定）」新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0625_01.html",
+      "published_at": "2026-06-25T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
       "title": "“こころ舞いあがる、はれやかな味わい”の新ブランド、「メルシャン・ワインズ ダンデライオン レッド」「メルシャン・ワインズ ダンデライオン ホワイト」を8月25日（火）に新発売！",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0625_02.html",
       "published_at": "2026-06-25T02:00:05",
@@ -808,6 +621,17 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
+      "title": "夏にぴったりなおいしさ！2年連続「氷結&reg;」 スタンダード限定品で売り上げNo.1 「キリン 氷結&reg; 塩ライチ（期間限定）」が今年も登場",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0624_01.html",
+      "published_at": "2026-06-24T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
       "title": "海外初輸出！「KIRIN iMUSE-乳酸菌檸檬水」を台湾で販売開始",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0624_02.html",
       "published_at": "2026-06-24T02:00:05",
@@ -825,6 +649,17 @@
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "世界で人気のクラフトビール「ブルックリン・ブルワリー」から「ブルックリンサマーエール」を数量限定発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0623_01.html",
+      "published_at": "2026-06-23T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
     },
     {
       "brand": "CJ",
@@ -1113,6 +948,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.06.10明星食品「明星 一平ちゃん夜店の焼そば やみつき塩だれ味 今だけ! ガーリックマヨネーズ20％増量」 (6月中旬より数量限定で順次出荷)",
+      "url": "https://www.nissin.com/jp/news/13785/",
+      "published_at": "2026-06-10T00:00:00",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
       "brand": "CJ",
       "brand_cn": "希杰",
       "region": "韩国",
@@ -1122,6 +968,17 @@
       "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "アイスティーで夏の豊かな休息を提案！40周年記念限定品シリーズ第二弾 「キリン 午後の紅茶 40TH BLEND パッションフルーツ香るレモンティー」を新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0609_01.html",
+      "published_at": "2026-06-09T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
     },
     {
       "brand": "Kirin",
@@ -1190,6 +1047,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「キリン 世界のKitchenから ソルティライチソーダ」を6月23日（火）より全国で数量限定発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0608_01.html",
+      "published_at": "2026-06-08T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
@@ -1245,6 +1113,28 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「一番搾り」ブランドより、冷やすと夏のモチーフが色づく夏デザイン缶を限定発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0602_02.html",
+      "published_at": "2026-06-02T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「キリンビール 晴れ風」より、「晴れ風ACTION」花火デザイン缶を限定発売 「晴れ風ACTION」で、失われつつある花火を守り、未来につなぐ",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0602_03.html",
+      "published_at": "2026-06-02T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
       "brand": "CJ",
       "brand_cn": "希杰",
       "region": "韩国",
@@ -1292,6 +1182,17 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
+      "title": "柑橘の酸味を程よい甘さでさっぱりと楽しめる爽快な味わいで暑い夏を爽快に「キリン 華よい レモンライムホワイトスパークリング（期間限定）」新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0529_01.html",
+      "published_at": "2026-05-29T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
       "title": "「シャトー・メルシャン 椀子 オムニス 2019」など3品が金賞を受賞",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0529_02.html",
       "published_at": "2026-05-29T02:00:05",
@@ -1320,6 +1221,17 @@
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "宮崎産「ゴールドキウイ」の規格外果実を活用！果実のフードロス削減・農家支援につながる「キリン 氷結&reg;mottainai ゴールドキウイ（期間限定）」発売。",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0528_02.html",
+      "published_at": "2026-05-28T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
     },
     {
       "brand": "Ito En",
@@ -1369,12 +1281,45 @@
       "brand": "Ito En",
       "brand_cn": "伊藤园",
       "region": "日本",
+      "title": "日本初、官民共同で育成した茶の新品種「彩の女神」「彩の糸」を出願",
+      "url": "https://www.itoen.co.jp/news/article/85408/",
+      "published_at": "2026-04-28T01:59:21",
+      "summary": "",
+      "level": "S",
+      "level_reason": "新产品"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
       "title": "同じ乳酸菌でも、生存状態で働きが変わる。生きた乳酸菌と不活化乳酸菌が腸細胞に及ぼす作用の違いを解明",
       "url": "https://www.itoen.co.jp/news/article/85383/",
       "published_at": "2026-04-20T04:59:22",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "オンラインショップ限定「お～いお茶 新茶 Kinko-cho」 を、4月20日（月）に予約販売開始、5月15日（金）より順次発送開始",
+      "url": "https://www.itoen.co.jp/news/article/85369/",
+      "published_at": "2026-04-16T11:21:23",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "新茶の氷水出しで、感動の冷茶体験を。2026年産「お～いお茶 新茶」を、5月1日（金）に販売開始（数量限定）",
+      "url": "https://www.itoen.co.jp/news/article/85377/",
+      "published_at": "2026-04-16T11:11:59",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
     },
     {
       "brand": "Ito En",
@@ -1474,6 +1419,83 @@
       "summary": "『竹鶴ピュアモルト』の魅力が五感で楽しめる完全予約制バー「The TAKETSURU experience」",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nestlé HS",
+      "brand_cn": "雀巢",
+      "region": "欧洲",
+      "title": "VITAFLO® is innovation in nutrition. Specialized medical foods for Metabolic Disorders, Pediatric Kidney Disease and other areas of disease specific nutrition.Discover moreVITAFLO®",
+      "url": "https://www.nestlehealthscience.com/brands/vitaflo",
+      "published_at": "",
+      "summary": "",
+      "level": "S",
+      "level_reason": "新技术"
+    },
+    {
+      "brand": "Coca-Cola",
+      "brand_cn": "可口可乐",
+      "region": "中国",
+      "title": "【可口可乐】与奥利奥®结为“新搭子”，推出融合两大品牌特色的限定美味",
+      "url": "https://www.coca-cola.com/cn/zh/media-center/oreo-cooperation",
+      "published_at": "",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Partnerships & collaborations",
+      "url": "https://www.generalmills.com/how-we-make-it/partnerships-and-collaborations",
+      "published_at": "",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Danone",
+      "brand_cn": "达能",
+      "region": "欧洲",
+      "title": "Social innovation funds",
+      "url": "https://www.danone.com/group/danone-in-the-field/social-innovation-funds.html",
+      "published_at": "",
+      "summary": "",
+      "level": "S",
+      "level_reason": "新技术"
+    },
+    {
+      "brand": "Morinaga",
+      "brand_cn": "森永",
+      "region": "日本",
+      "title": "食品安全・品質について",
+      "url": "https://www.morinagamilk.co.jp/learn_enjoy/quality_safety/",
+      "published_at": "",
+      "summary": "",
+      "level": "S",
+      "level_reason": "重磅新政"
+    },
+    {
+      "brand": "AB InBev",
+      "brand_cn": "百威英博",
+      "region": "欧洲",
+      "title": "Sustainability",
+      "url": "https://www.ab-inbev.com/sustainability",
+      "published_at": "",
+      "summary": "",
+      "level": "A",
+      "level_reason": "常规新品/营销"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Sustainability",
+      "url": "https://www.generalmills.com/how-we-make-it/healthier-planet/sustainability",
+      "published_at": "",
+      "summary": "",
+      "level": "A",
+      "level_reason": "常规新品/营销"
     },
     {
       "brand": "PepsiCo",
