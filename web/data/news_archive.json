@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T14:18:37.459164+08:00",
-  "total": 5243,
+  "last_updated": "2026-07-14T18:28:57.488606+08:00",
+  "total": 5258,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -15,6 +15,102 @@
       "language": "en"
     },
     {
+      "id": "f70930d853d0a33e",
+      "title": "「冷しカップヌードル」登場 開発5年、冷水で戻る特許技術を採用 暑い日にぴったりの2フレーバー",
+      "summary": "日清食品は、冷水専用の「冷しカップヌードル」2品を7月20日から全国発売する。開発期間は丸5年。新製法「コールドリハイド製法」（特許取得済み）により、冷蔵庫で冷やした水を注いで5分待つだけで、コシとつるみのある食感の麺 […] ソース",
+      "url": "https://shokuhin.net/153471/2026/07/14/kakou/sokuseki/",
+      "published_at": "2026-07-14T18:03:49+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5ec6c6d505efe975",
+      "title": "夏を感じる！スパイシーなスナックのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「スパイシーなスナック」の最新・注目度ランキングです♪（2026年7月10日更新）食品クチコミサイト「もぐナビ」に投稿さ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-23707/?utm_source=rss&utm_medium=mognavinews_20260714",
+      "published_at": "2026-07-14T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7dcddd58d69e39ac",
+      "title": "味の素冷凍食品 10月に家庭用16品値上げ 「やわらか若鶏から揚げ」など",
+      "summary": "味の素冷凍食品は、家庭用冷凍食品のうち「やわらか若鶏から揚げボリュームパック」など16品の出荷価格を10月1日納品分から引き上げる。値上げ幅は5～8％。規格変更に伴う実質的な価格改定として、「ザ★チャーハン」は580g […] ソース",
+      "url": "https://shokuhin.net/153467/2026/07/14/kakou/reishoku/",
+      "published_at": "2026-07-14T17:59:45+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "62cd590844c9b980",
+      "title": "今週新発売の惣菜パンまとめ！『ハムカツロール』、『コロッケロール』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンイトーパン ハムカツロール 袋1個ソースで味付けしたハムカツとからしマヨソ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071408/?utm_source=rss&utm_medium=mognavinews_20260714",
+      "published_at": "2026-07-14T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f91277e3ea6028c9",
+      "title": "本格レッドカレーと国産桃のパフェが登場!ジョナサン夏の2大フェア開催",
+      "summary": "すかいらーくレストランツが運営するジョナサンは、2026年7月16日から、「スパイス香る、カレーなる夏」フェアと、桃が主役の「momo wow!」フェアを開催する。 【ジョナサン 新メニューの画像はこちら】 〈ジョナサン...",
+      "url": "https://www.ssnp.co.jp/foodservice/693338/",
+      "published_at": "2026-07-14T16:14:19+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "d755068ceb2f56a5",
+      "title": "From Gen Z to baby boomers: how every generation is redefining healthy ageing for themselves",
+      "summary": "Alicia Humpert, Global Marketing Director, Microbiome, at ADM, examines why healthy ageing is no longer just an older consumer trend and how Gen Z is reshaping the next wave of wellness innovation",
+      "url": "https://nutraceuticalbusinessreview.com/from-gen-z-to-baby-boomers-how-every",
+      "published_at": "2026-07-14T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "486532eb02e7baa0",
+      "title": "今週新発売の惣菜パンまとめ！『北海道ポテト＆ツナ』、『ビッグサンド　夏野菜ミート＆ポテト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン 北海道ポテト＆ツナ 袋1個北海道産のじゃがいもを使用したポ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071407/?utm_source=rss&utm_medium=mognavinews_20260714",
+      "published_at": "2026-07-14T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "1f6c2ccde4958e4f",
+      "title": "夏向けのアイス「チョコミント氷」「ワッフルコーン 北海道メロン」を数量限定で発売【セブン‐イレブン】",
+      "summary": "セブン‐イレブン･ジャパンは、「セブンプレミアム チョコミント氷」と「セブンプレミアム ワッフルコーン 北海道メロン」の2品を、7月14日から全国のセブン‐イレブン店舗で順次発売する。 【「チョコミント氷」「ワッフルコー...",
+      "url": "https://www.ssnp.co.jp/distribution/693332/",
+      "published_at": "2026-07-14T14:35:16+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
       "id": "87545a292c05e267",
       "title": "ムーミンとコラボした3種のバッグを発売、北欧らしいカラーリングと遊び心のあるアートをデザイン【紀ノ国屋】",
       "summary": "紀ノ国屋は、「ムーミン」とコラボしたデザインのコンパクトバッグ･クリアバッグ･OBENTOバッグを数量限定で販売する。公式オンラインストアでは7月15日20時から、店舗では7月16日から販売開始する。 【ムーミンとコラボ...",
@@ -24,6 +120,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "5ddd0fc9271006cb",
+      "title": "今週新発売の惣菜パンまとめ！『たまごロール』、『炭火焼風しょうゆ味ハンバーグ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンイトーパン たまごロール 袋1個たまごサラダをサンドしパセリをトッピングし…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071406/?utm_source=rss&utm_medium=mognavinews_20260714",
+      "published_at": "2026-07-14T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -39,6 +147,18 @@
       "language": "en"
     },
     {
+      "id": "6aeec917751fd30b",
+      "title": "【2026年7月第2週】カップうどん・そばランキング1位はマルちゃん赤いきつねでか盛！夏の定番＆人気商品まとめ",
+      "summary": "今週もカップうどん・そばのランキングが出そろいました！定番の人気商品から地域限定の風味が光る一品まで、バラエティ豊かなラインナップで今週も目が離せません。それ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-23612/?utm_source=rss&utm_medium=mognavinews_20260714",
+      "published_at": "2026-07-14T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "509e17b597a141b9",
       "title": "Umios26年秋季新商品、新商品27品･リニューアル品11品発売/「新中華街」に「濃厚担々麺」を投入し活性化、業務用は冷凍うどんを内製化",
       "summary": "Umiosは7月13日、高輪本社(東京都港区)で2026年秋季新商品発表会を開催した。9月1日に発売する(メディケア食品は11月1日発売)のは、家庭用が新商品15品･リニューアル品6品、業務用冷凍食品が新商品8品･リニュ...",
@@ -48,6 +168,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "731b7ee97066ee03",
+      "title": "今週新発売の惣菜パンまとめ！『スナックサンド　ハムタマゴ』、『スナックサンド　ハム＆マヨ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン スナックサンド ハムタマゴ 袋2個細かく刻んだハムとタマゴカロリ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071405/?utm_source=rss&utm_medium=mognavinews_20260714",
+      "published_at": "2026-07-14T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -99,6 +231,18 @@
       "language": "en"
     },
     {
+      "id": "032db8fb2084f6ba",
+      "title": "【2026年7月第2週】カップ焼きそば・パスタランキング1位はU.F.O.だしソースきつね焼そば！久しぶりランクイン続出まとめ",
+      "summary": "2026年7月第2週のカップ焼きそば・パスタランキングをお届けします！今週はどんな商品がランキングを席巻したのでしょうか。新顔あり、久しぶりの顔ぶれありと、目…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-23611/?utm_source=rss&utm_medium=mognavinews_20260714",
+      "published_at": "2026-07-14T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "22d1dca5503b4650",
       "title": "12月期業績プラス着地、「牡蠣だし醤油」など液体カテゴリがけん引-ヒガシマル醤油",
       "summary": "ヒガシマル醤油はこのほど、淺井一昌代表取締役専務、内山賀文取締役営業本部長、窪薗智執行役員営業副本部長兼東京支店長らが都内で記者会見し、業績概要や営業施策などを報告した。淺井専務は、25年12月期業績について「売上高は前...",
@@ -123,6 +267,18 @@
       "language": "en"
     },
     {
+      "id": "1c842f468dee6b12",
+      "title": "今週新発売の惣菜パンまとめ！『たこ焼き風ぱん』、『スナックサンド　かねふくの明太子入りマヨ＆ツナ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン たこ焼き風ぱん 袋1個もっちりとした生地で紅ショウガ入りの…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071404/?utm_source=rss&utm_medium=mognavinews_20260714",
+      "published_at": "2026-07-14T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "949e529e12fa1351",
       "title": "16時以降限定!お酒が進むスモーキーな味わいの「スパイシープルドポーク」が登場【フレッシュネスバーガー】",
       "summary": "フレッシュネスバーガーは、16時以降のサービス「フレバル」の新メニュー「スパイシープルドポーク」を、2026年7月15日～8月23日まで発売する。 【「スパイシープルドポーク」の画像はこちら】 ◆スパイシープルドポーク ...",
@@ -132,6 +288,30 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "9479629797eb841b",
+      "title": "【2026年7月第2週】スープ・カップ春雨・味噌汁・その他ランキング1位はオニオンスープ！夏の注目スープまとめ",
+      "summary": "市販のスープ・春雨・味噌汁カテゴリの2026年7月第2週のランキングが発表されました！暑い季節でも「ちょっと一杯」が恋しくなる、そんなスープの魅力が詰まったラ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-23610/?utm_source=rss&utm_medium=mognavinews_20260714",
+      "published_at": "2026-07-14T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3610457b32cfe1b6",
+      "title": "今週新発売の菓子パン🍫まとめ！『三角小豆みるく蒸しぱん』、『カステラサンドチョコ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン 三角小豆みるく蒸しぱん 袋1個三角のミルク風味の蒸しぱんに…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071403/?utm_source=rss&utm_medium=mognavinews_20260714",
+      "published_at": "2026-07-14T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
