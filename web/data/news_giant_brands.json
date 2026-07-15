@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-15T11:52:20",
+  "last_updated": "2026-07-15T17:07:10",
   "retention_days": 7,
-  "total": 329,
+  "total": 330,
   "s_count": 22,
   "a_count": 2,
-  "b_count": 305,
+  "b_count": 306,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -34,6 +34,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "協和ファーマケミカル株式会社の株式譲渡契約の締結について",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0626_01.html",
+      "published_at": "2026-07-15T06:30:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
