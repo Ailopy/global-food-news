@@ -1,33 +1,183 @@
 {
-  "total": 1523,
-  "s_plus_count": 77,
+  "total": 1536,
+  "s_plus_count": 78,
   "watched_product_count": 0,
   "sites": [
     "Food Dive",
-    "日経新聞",
     "日経xTrend",
-    "Packaging Digest"
+    "Packaging Digest",
+    "日経新聞"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "新产品": 178,
-    "新包装": 26,
-    "其他": 1044,
-    "行业政策": 39,
+    "新产品": 181,
+    "其他": 1051,
+    "新包装": 27,
+    "行业政策": 40,
     "营销创新": 47,
     "品牌故事": 61,
     "并购融资": 54,
     "渠道新物种": 13,
     "联名营销": 39,
     "新技术": 14,
-    "新原料": 8
+    "新原料": 9
   },
-  "last_updated": "2026-07-14 11:51",
-  "last_updated_iso": "2026-07-14T11:51:36.260449+08:00",
+  "last_updated": "2026-07-15 11:52",
+  "last_updated_iso": "2026-07-15T11:52:39.729747+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "3大AIのディープリサーチを“いいとこ取り” 集約はNotebookLMが最強",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00006/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月3日発売の「日経トレンディ2026年8月号」では、「AI即戦力仕事術」を特集。数百の情報源を横断し、数万字のリポートを数分でまとめ上げる「ディープリサーチ」。AIの進化で実務に使える精度へと到達した今、その真価を引き出せるかは使い手次第だ。本稿では、分析案出しから複数AIの併用、仕上げまで、質の高い調査結果を得るための3つの実践ステップを解説する。",
+      "published_at": "2026-07-15T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-15T11:52:23+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "“町の牛乳屋”をDX改革 コンサル出身の2代目社長・西原亮が哲学を語る",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01405/00015/?n_cid=nbpnxr_rss",
+      "summary": "経営コンサルタントから、家業を継いで「街の牛乳屋」へ――。異色キャリアを持つ2代目社長は、万年赤字で廃業寸前だった牛乳配達会社「明治クッカー」を、10年で7倍の売り上げにまで成長させた。「超アナログ・労働集約型」な牛乳屋で行われたDX改革の極意とは。26年7月28日（火）～30日（木）に開催する「日経クロストレンドFORUM 2026」では、明治クッカー社長の西原亮氏が、ITリテラシーが存在しない環境で業務効率化を推進できた秘訣を語る。",
+      "published_at": "2026-07-15T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-15T11:52:23+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ドンキも参入、広がる「白黒パッケージ」 影響を3人の専門家が予測",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00628/00133/?n_cid=nbpnxr_rss",
+      "summary": "中東情勢の不安定化に伴うコスト上昇や調達不安が渦巻く日本。こうした「ホルムズ・ショック」を身近な問題として印象づけたのが、カルビーを始めとした相次ぐ商品パッケージの変更だ。色やデザインはブランドそのものだけに、流通・メーカーに与えた衝撃は大きい。パッケージの重要性や変更による影響などを、小売り、デザイン、マーケティングの立場からそれぞれ聞いた。",
+      "published_at": "2026-07-15T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-07-15T11:52:23+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "生花を“じゃら付け”してアクセサリーに 新たな「花体験」提案",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00947/00297/?n_cid=nbpnxr_rss",
+      "summary": "日比谷花壇のグループ会社であるフレネットHIBIYAは、チャック付きの透明パッケージに生花を入れた新商品「pokehana（ポケハナ）」を開発。2026年4月15日～5月17日に東京・新宿駅東南口の商業ビル「新宿フラッグス」のポップアップショップで先行販売した。カラビナ付きストラップを使い、生花の鮮やかな色彩をキーホルダーやチャームのようにバッグや衣服に装着できる。新しい「花体験」を提案し、若年層の市場拡大を狙う。",
+      "published_at": "2026-07-15T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-15T11:52:23+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "フジッコのヨーグルト「リッチモ」好調 なぜ1000円超でも売れるのか",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02921/?n_cid=nbpnxr_rss",
+      "summary": "大容量のパウチ容器に入った高級ヨーグルトが増え、スーパーの店頭で目につくようになった。その中でも好調が伝えられるのが、2025年9月から発売されたフジッコの「カスピ海ヨーグルト リッチモ プレーン 900g」だ。当初の販売計画を大きく上回るペースで推移しているという。好調の理由について同社の担当者に聞いた。",
+      "published_at": "2026-07-15T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-15T11:52:23+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Drink Pouch is Replayed as a Puppet",
+      "url": "https://www.packagingdigest.com/beverage-packaging/drink-pouch-is-replayed-as-a-puppet",
+      "summary": "Clever marketing and easy packaging integration gives kids a fun way to play with, collect, and trade pieces of their beverage packs.",
+      "published_at": "2026-07-14T18:06:49Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-15T11:52:37+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -275,6 +425,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-14T11:51:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "“令和の米騒動”で脚光 米を3年守る異色商品が大ヒット 原点は遺体袋",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLYXF4aE9ESWxKN0Q4RHloU3hVUVF2blVHMVVXU2JZLVo5NUdnckFVc1AtZnhtQXdQSkJ2aDgteTlWZ0pvcWU3NVliSERTNFNNX2R2Y0NfOWtHTHVaREM5ckF0SmR1WjhZWEE?oc=5",
+      "summary": "“令和の米騒動”で脚光 米を3年守る異色商品が大ヒット 原点は遺体袋&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-13T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-15T11:52:21+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "キリン、AI活用でシニア市場開拓へ Claudeでまねする方法",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VQUUtUFVydWRNdWFFVkhjX1RMTWYzT00xLWYwMlRQaThMTnhQZGFqRVFBTTZ5RUJaSFBkeWZBcVVIRGNDRGdnc0RRQ21aQjlsM2lWdWgzUi1oWjZyNkc2aXlYQTY1Zw?oc=5",
+      "summary": "キリン、AI活用でシニア市場開拓へ Claudeでまねする方法&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-13T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-15T11:52:21+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -5943,6 +6137,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-09T12:46:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "サントリー「NOPE」が炭酸1位からトップ10圏外へ 迎える勝負の夏",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SWmF4c0ttNXdZUm16V014NlB1XzlaMXA3Y1JCV0hWazVlZG44YloyR0JSdmJJTDhqVUhkdmpjZFhHWDdQd1p5U3NuYms1dmhkUzRmMTVjcnR2YlZVTmVaalZuUlJDQQ?oc=5",
+      "summary": "サントリー「NOPE」が炭酸1位からトップ10圏外へ 迎える勝負の夏&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-08T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-15T11:52:21+08:00"
     },
     {
       "site_name": "Packaging Digest",
@@ -34253,6 +34469,106 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-14T11:51:31+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Leftovers: Reese’s Pieces launches first new flavor in 10 years | Quaker shakes up oats",
+      "url": "https://www.fooddive.com/news/reeses-pieces-cookie-quaker-oats-shake-jimador-spritz/824939/",
+      "summary": "The Hershey-owned brand is playing with texture for its first U.S. innovation in a decade, while Brown-Forman brings El Jimador tequila into RTDs.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-15T11:52:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How Boxed Water and 2 other manufacturers solved end-of-line palletizing without buying a robot",
+      "url": "https://www.fooddive.com/spons/how-boxed-water-and-2-other-manufacturers-solved-end-of-line-palletizing-wi/824303/",
+      "summary": "Three manufacturers. Three different products. Same answer when asked about robotic palletizing: \"should've done it sooner.\"",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-07-15T11:52:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Del Monte to offer fruit extracts for beverage industry in ingredients partnership",
+      "url": "https://www.fooddive.com/news/del-monte-treatt-ingredients-fruit-extract-beverage/824865/",
+      "summary": "The produce giant is working with Treatt to create a range of clean-label ingredients using upcycled fruit.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "新原料",
+      "scraped_at": "2026-07-15T11:52:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "110-year-old Turtles candy is ready to ‘break out of its shell’",
+      "url": "https://www.fooddive.com/news/Candy-confections-Turtles-innovation-marketing/824082/",
+      "summary": "The caramel nut cluster brand is boosting innovation and marketing to reach a new generation of consumers inundated with choice in the $55 billion confectionery space.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-15T11:52:34+08:00"
     }
   ]
 }
