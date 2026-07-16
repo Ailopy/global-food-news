@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-15T17:07:10",
+  "last_updated": "2026-07-16T11:54:57",
   "retention_days": 7,
-  "total": 330,
-  "s_count": 22,
+  "total": 332,
+  "s_count": 23,
   "a_count": 2,
-  "b_count": 306,
+  "b_count": 307,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -34,6 +34,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "より満足感のある味わいでさらにおいしくなった「ビストロ」“祝 新装開店”の期間限定デザインで登場！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0716_01.html",
+      "published_at": "2026-07-16T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "北海道キリンビバレッジ株式会社の吸収合併について",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0716_03.pdf",
+      "published_at": "2026-07-16T01:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
