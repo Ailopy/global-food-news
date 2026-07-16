@@ -1,33 +1,243 @@
 {
-  "total": 1536,
-  "s_plus_count": 78,
+  "total": 1550,
+  "s_plus_count": 79,
   "watched_product_count": 0,
   "sites": [
     "Food Dive",
     "日経xTrend",
-    "Packaging Digest",
-    "日経新聞"
+    "日経新聞",
+    "Packaging Digest"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "新产品": 181,
-    "其他": 1051,
+    "其他": 1058,
+    "新产品": 183,
+    "渠道新物种": 14,
+    "品牌故事": 63,
+    "联名营销": 40,
     "新包装": 27,
     "行业政策": 40,
     "营销创新": 47,
-    "品牌故事": 61,
     "并购融资": 54,
-    "渠道新物种": 13,
-    "联名营销": 39,
     "新技术": 14,
-    "新原料": 9
+    "新原料": 10
   },
-  "last_updated": "2026-07-15 11:52",
-  "last_updated_iso": "2026-07-15T11:52:39.729747+08:00",
+  "last_updated": "2026-07-16 11:55",
+  "last_updated_iso": "2026-07-16T11:55:28.139942+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アマゾンの新型電子ペーパーは“書き味”を追求 没入できるUI設計",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02924/?n_cid=nbpnxr_rss",
+      "summary": "アマゾンが2026年6月10日に日本で発売した「Kindle Scribe Colorsoft」は、電子書籍リーダー「Kindle」に、専用スタイラスペンによる手書き入力の機能を追加したScribe（スクライブ）シリーズの第3世代に当たるモデルだ。11型の画面サイズと、シリーズ初となるカラー表示が特徴の本機は、ビジネスパーソンやクリエーターのワークフローにどんな変革をもたらすのか。「書けるKindle」の価値と今後のビジネス戦略を読み解く。",
+      "published_at": "2026-07-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-16T11:55:00+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "菓子向けカラースプレーの売上高が1.5倍の異変 偏愛ファン増殖中",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00630/00030/?n_cid=nbpnxr_rss",
+      "summary": "チョコバナナやアイスクリームにパラパラとかかる「カラースプレー」。心ゆくまで振りかけ、一気にほおばってみたい……。そんな子供の頃に抱いた夢を叶えるサービスや商品が続々登場している。人気を下支えするのが平成レトロや「偏愛」ブーム。トッピングの一種ながら、主役級の存在感を放ちつつある。",
+      "published_at": "2026-07-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-16T11:55:00+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "YouTube動画も一瞬で要約 Chrome「Geminiサイドパネル」徹底活用",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00007/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月3日発売の「日経トレンディ2026年8月号」では、「AI即戦力仕事術」を特集。ブラウザーは、ただ「見る」ためだけのものではなくなった──。2026年4月の大規模アップデートで、Google ChromeはAI（人工知能）「Gemini」と“合体”し、情報収集の効率を一変させた。画面の行き来やコピペの手間を一気に削減できるGeminiサイドパネルの活用術を徹底解説する。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-07-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-16T11:55:00+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ファミマ初の旗艦店はOMOの起点 NIGO商品のEC展開で店舗に送客",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01909/?n_cid=nbpnxr_rss",
+      "summary": "ファミリーマートが東京・麻布台に開いた初の旗艦店「FAMIMA PARK AZABUDAI」は、NIGO氏がディレクションした限定雑貨やアパレル商品に加え、通常店舗の約3倍のSKUで「コンビニエンスウェア」を展開。そして旗艦店限定商品はECサイト「ファミマオンライン」でも販売し、全国のファミマ店舗で受け取れるようにする。一方で、全国のファミマでも旗艦店限定ではないNIGO氏ディレクションの商品を販売するが、こちらはECでは売らないという。旗艦店限定商品をECで購入してもらい、受け取りのために全国の店舗に足を運んでもらえば、そこには店舗でしか購入できないNIGO氏の商品がある。この循環で、服を買いにファミマに足を運ぶ習慣の定着を狙う。",
+      "published_at": "2026-07-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-07-16T11:55:00+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "買い物にAIを頼る消費者は過半間近 モンデリーズがAIマーケ専任者",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01907/?n_cid=nbpnxr_rss",
+      "summary": "小売りイベント「Shoptalk Europe 2026」が2026年6月9～11日、スペインのバルセロナで開催された。AI技術の広がりによって、買い物のあり方が根本から変化しつつある。企業や販売店は、AIと消費者から「選ばれる仕組み」をどのように構築していくのか。米国の大手企業はAIマーケの専任者を設置したことを明かす。講演で見えてきた先進企業の取り組みを深掘りする。",
+      "published_at": "2026-07-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-16T11:55:00+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "レッドブルがTGSに特別協賛 会場内に交流拠点を展開【TGS2026】",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01222/00074/?n_cid=nbpnxr_rss",
+      "summary": "レッドブル・ジャパンは、プラチナスポンサーとして「東京ゲームショウ2026」をサポートする。会場では東京・中野のゲーミングスペース「Red Bull Gaming Sphere Tokyo」を体験できる「Red Bull Gaming Sphere On Tour」を展開するほか、最終日のTGSイベントステージで「ストリートファイター」の歴史的名勝負を再演する「Red Bull Revenge」を開催する。",
+      "published_at": "2026-07-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-16T11:55:00+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "From Plastic Waste to Chocolate Wrappers: LYB, Mondelez Advance Circular Packaging",
+      "url": "https://www.packagingdigest.com/sustainability/from-plastic-waste-to-chocolate-wrappers-lyb-mondelez-advance-circular-packaging",
+      "summary": "New Marabou flexible packaging uses chemically recycled polymers made from hard-to-recycle plastic waste, demonstrating how value-chain collaboration can scale recycled-content solutions.",
+      "published_at": "2026-07-15T21:51:06Z",
+      "is_s_plus": true,
+      "s_plus_reason": "collab",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 2
+        },
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-07-16T11:55:25+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "買い物にAIを頼る消費者は過半間近 モンデリーズがAIマーケ専任者",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OMXh2dGY3eGVRQUs3Q3FjcTFwVlN4LWl0Z0l4dnhCeTNmYlFrUUEwN0lBWTFSZWY1ZmJCZmJSNUd0OVFXQmZNZ0RqSnREeUdKQXIzQ1V5Nm9kSW9oZ1FrengxOFNuck5jakpNUUNpVQ?oc=5",
+      "summary": "買い物にAIを頼る消費者は過半間近 モンデリーズがAIマーケ専任者&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-15T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-16T11:54:58+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "紀文食品[2933]：取締役等の委嘱内容の変更に関するお知らせ 2026年7月15日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLURKRDZVTFl1QUh4MVQwbTlScDJoZEtUZFBocEdCdF9oNGQzSExKbUZKb2Riek5EV1pDR3Vmd1N1MUZXdVRtMzJaQWgxT2wyM05FeUtpUndvVV9Uc1RfTnl3TVNlamVQUG5CeW9MTi1OSExBaTI4eGxRbUlJLWZEU0dmSGM4M0FleUhJX1FJM3B1VmRQMGR1Z01NQVZEOXRGYVJYN1RUcmtTai1rSG5faUp3UmNKM0tINmFOUzZGVzBDQWxkZ1Qzckxhc20?oc=5",
+      "summary": "紀文食品[2933]：取締役等の委嘱内容の変更に関するお知らせ 2026年7月15日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-15T07:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-16T11:54:58+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -6237,6 +6447,34 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-07-09T12:46:20+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "PureCycle Resin Powers Food-Contact Packaging With Recycled Plastic",
+      "url": "https://www.packagingdigest.com/food-packaging/purecycle-resin-powers-food-contact-packaging-with-recycled-plastic",
+      "summary": "Cleveland Kitchen debuts sustainable food containers made with PureCycle's PureFive resin, achieving 25% recycled content while maintaining food-safety compliance.",
+      "published_at": "2026-07-08T12:23:16Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-16T11:55:25+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -34569,6 +34807,94 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-15T11:52:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "PepsiCo CFO says tariff refund will help offset inflation",
+      "url": "https://www.fooddive.com/news/pepsico-cfo-says-tariff-refunds-will-help-offset-inflation/825070/",
+      "summary": "“We do expect some more pressure on the business from a commodity standpoint,” CFO Steve Schmitt said on an earnings call.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-16T11:55:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Premier Protein maker taps salty snack leader as CEO",
+      "url": "https://www.fooddive.com/news/bellring-brands-premier-protein-ceo-michael-axelrod/825037/",
+      "summary": "Bellring Brands named Michael Axelrod to lead the company as it looks to maintain its top spot amid increased protein shake competition.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-16T11:55:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "JBS axes 2040 net-zero goal, citing ‘immense’ execution challenges",
+      "url": "https://www.fooddive.com/news/jbs-axes-2040-net-zero-goal-citing-immense-execution-challenges/825036/",
+      "summary": "The meat giant has also dropped targets for scope 3 emissions, which make up the bulk of its environmental footprint.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-16T11:55:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Bakery ingredients supplier AAK to scale Savor’s carbon-based fats",
+      "url": "https://www.fooddive.com/news/aak-savor-butter-carbon-fats-ingredients-bakery/825054/",
+      "summary": "The companies entered a two-year agreement to jointly develop sustainable solutions for bakery and dairy alternative markets.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        }
+      ],
+      "primary_category": "新原料",
+      "scraped_at": "2026-07-16T11:55:23+08:00"
     }
   ]
 }
