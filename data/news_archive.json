@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T14:25:33.350762+08:00",
-  "total": 5412,
+  "last_updated": "2026-07-16T18:49:05.401985+08:00",
+  "total": 5425,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -12,6 +12,114 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "9abc12f12d2cfb2b",
+      "title": "にんにくパワー！スナックのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「にんにく味のスナック」の最新・注目度ランキングです♪（2026年7月10日更新）食品クチコミサイト「もぐナビ」に投稿さ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-23806/?utm_source=rss&utm_medium=mognavinews_20260716",
+      "published_at": "2026-07-16T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f09bf04652b45be1",
+      "title": "今週新発売のさっぱり味の食べものまとめ！『ポテトチップス　夏限定！塩わさビーフ』、『手巻寿司　海老マヨネーズ巻』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！さっぱりの新商品情報をお届けします。今週新発売の#さっぱり山芳製菓 ポテトチップス 夏限定！塩わさビーフ 袋50g●お客様に好…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071608/?utm_source=rss&utm_medium=mognavinews_20260716",
+      "published_at": "2026-07-16T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8b10554011dc980f",
+      "title": "Nutrafol study links hair growth nutraceuticals to faster hair growth in women",
+      "summary": "Published in Dermatology and Therapy, the study confirmed statistically significant improvements in linear hair growth rate, anagen hair count and scalp coverage — rare endpoints for a nutraceutical…",
+      "url": "https://nutraceuticalbusinessreview.com/nutrafol-clinical-study-faster-hair-growth-women",
+      "published_at": "2026-07-16T17:14:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "f91ac9a7bf847371",
+      "title": "ローソン掟破りのハイブリッドスイーツ！　パンコーナーからスイーツ参戦！：今週のコンビニスイーツランキング",
+      "summary": "週間コンビニスイーツランキングTOP3：2026年7月第3週今週もやってまいりました。2026年7月第3週、コンビニスイーツランキングのコーナーです。それでは…",
+      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182473/?utm_source=rss&utm_medium=mognavinews_20260716",
+      "published_at": "2026-07-16T17:00:27+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "14dfdb16edf7a339",
+      "title": "What is pelletisation, and how is it advancing nutraceuticals and dietary supplements?",
+      "summary": "Pelletisation has attracted much attention across the nutraceutical sector. Experts from ACG explain why",
+      "url": "https://nutraceuticalbusinessreview.com/what-is-pelletisation-and-how-is-it-advancing",
+      "published_at": "2026-07-16T16:23:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "11d61b927c7e7ec3",
+      "title": "「凄麺」25周年記念 初のご当地麺オーディション開催へ 優勝はカップ麺で商品化",
+      "summary": "ヤマダイは、「凄麺」ブランドが10月29日に発売25周年を迎えることを記念し、「第1回ご当地凄麺オーディション」を7月16日にスタートした。個人・団体から思い入れのある「ご当地麺」を広く募集し、優勝は「凄麺」のカップ麺 […] ソース",
+      "url": "https://shokuhin.net/153564/2026/07/16/kakou/sokuseki/",
+      "published_at": "2026-07-16T15:45:05+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "92934aead8ad088b",
+      "title": "国分西日本「秋季商談会」 来場者1.3倍に 世代別提案が好評",
+      "summary": "国分西日本は7月8日、帝国ホテル大阪で「秋季展示商談会」を開催。「『買いたい』のビッグウェーブを創り出す」をテーマに掲げた今回は410小間（メーカー290、開発・専売商品60、企画コーナー60）で、約6000アイテムを […] ソース",
+      "url": "https://shokuhin.net/153514/2026/07/16/ryutu/orosi/",
+      "published_at": "2026-07-16T15:34:11+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "311acb8909876ca9",
+      "title": "今週新発売のセブンイレブンお弁当🍱まとめ！『鉄鍋炒め　肉玉チャーハン』、『福井名物ソースかつ丼』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンお弁当の新商品情報をお届けします。今週新発売の#セブンイレブンお弁当セブン-イレブン 鉄鍋炒め 肉玉チャーハンふ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071607/?utm_source=rss&utm_medium=mognavinews_20260716",
+      "published_at": "2026-07-16T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "24463e1d2f33a0e2",
+      "title": "What microplastic-focused supplementation must get right",
+      "summary": "Jacob Gilson, founder of Sifts, speaks to Emily Letton at Nutraceutical Business Review about why microplastic-targeted supplements need mechanism-led claims rather than detox promises — and how his…",
+      "url": "https://nutraceuticalbusinessreview.com/what-microplastic-focused-supplementation-must-get-right",
+      "published_at": "2026-07-16T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
@@ -27,6 +135,18 @@
       "language": "ja"
     },
     {
+      "id": "a7d55eb031acffbb",
+      "title": "今週新発売のセブンイレブンパンまとめ！『よくばりサンド　チョコバナナホイップ』、『ふんわりカスタードクリームパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン よくばりサンド チョコバナナホ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071606/?utm_source=rss&utm_medium=mognavinews_20260716",
+      "published_at": "2026-07-16T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "0e9f2a6a71a0e36e",
       "title": "【ハーゲンダッツ】杏仁アイスクリームに果肉入り白桃ソースを合わせたミニカップが新登場",
       "summary": "ハーゲンダッツ ジャパンは、ミニカップ『杏仁～白桃仕立て～』を7月21日から期間限定で発売する。 【ミニカップ『杏仁～白桃仕立て～』の画像はこちら】 ◆ハーゲンダッツ ミニカップ『杏仁～白桃仕立て～』 近年、カフェなどで...",
@@ -36,6 +156,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "031101333c2b18b1",
+      "title": "今週新発売の塩味まとめ！『ザクっと塩チョコロール』、『マイクポップコーン　たらこバター味』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩味の新商品情報をお届けします。今週新発売の#塩味ローソン ザクっと塩チョコロールザクっと食感の塩チョコクリームをふんわり生地…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071605/?utm_source=rss&utm_medium=mognavinews_20260716",
+      "published_at": "2026-07-16T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -111,6 +243,18 @@
       "language": "ja"
     },
     {
+      "id": "6b0ed1d117a7471c",
+      "title": "今週新発売のお弁当🍱まとめ！『中華風あんかけかつ丼』、『おむすび＆おかず　紅鮭・和風ツナマヨネーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！お弁当の新商品情報をお届けします。今週新発売の#お弁当セブン-イレブン 中華風あんかけかつ丼地区の町中華でよくみられる、中華あ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071604/?utm_source=rss&utm_medium=mognavinews_20260716",
+      "published_at": "2026-07-16T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "33cd124f893ca74e",
       "title": "ロイヤルホスト、人気「マンゴーデザート」今年も登場　ブリュレパフェや豆花あんみつなど5種、スタンプラリー開催も",
       "summary": "「ロイヤルホスト」は7月15日から、マンゴーを使った季節限定デザートの販売を開始した。販売期間は9月中旬までを予定している。販売店舗は全国211店舗。 今年で7年目を迎えるマンゴーデザートでは、メキシコ産の「グラシアスマ...",
@@ -120,6 +264,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "7cdbf215016449b2",
+      "title": "今週新発売のセブンイレブン麺🍜まとめ！『岩手県産菜彩鶏肉のパスタサラダ』、『トマトと生ハムのバジルパスタサラダ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブン麺の新商品情報をお届けします。今週新発売の#セブンイレブン麺セブン-イレブン 岩手県産菜彩鶏肉のパスタサラダ岩手…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071603/?utm_source=rss&utm_medium=mognavinews_20260716",
+      "published_at": "2026-07-16T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
