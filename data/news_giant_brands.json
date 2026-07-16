@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-16T11:54:57",
+  "last_updated": "2026-07-16T17:10:21",
   "retention_days": 7,
-  "total": 332,
+  "total": 333,
   "s_count": 23,
   "a_count": 2,
-  "b_count": 307,
+  "b_count": 308,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -34,6 +34,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「Japan Wine Competition（日本ワインコンクール）2026」にて「シャトー・メルシャン 桔梗ヶ原メルロー シグナチャー 2021」「シャトー・メルシャン 片丘 2023」の2品がメルシャン初となるグランドゴールド賞を受賞",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0716_04.pdf",
+      "published_at": "2026-07-16T04:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
