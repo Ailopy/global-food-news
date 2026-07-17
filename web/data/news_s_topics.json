@@ -1,33 +1,238 @@
 {
-  "total": 1550,
-  "s_plus_count": 79,
+  "total": 1576,
+  "s_plus_count": 81,
   "watched_product_count": 0,
   "sites": [
     "Food Dive",
-    "日経xTrend",
     "日経新聞",
+    "日経xTrend",
+    "朝日グループYouTube",
     "Packaging Digest"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "其他": 1058,
-    "新产品": 183,
+    "其他": 1069,
+    "新产品": 185,
+    "品牌故事": 71,
     "渠道新物种": 14,
-    "品牌故事": 63,
-    "联名营销": 40,
+    "联名营销": 42,
     "新包装": 27,
-    "行业政策": 40,
-    "营销创新": 47,
+    "行业政策": 41,
+    "营销创新": 49,
     "并购融资": 54,
     "新技术": 14,
     "新原料": 10
   },
-  "last_updated": "2026-07-16 11:55",
-  "last_updated_iso": "2026-07-16T11:55:28.139942+08:00",
+  "last_updated": "2026-07-17 11:55",
+  "last_updated_iso": "2026-07-17T11:55:14.594974+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アイスコーヒーはなぜ飽きられる？ UCCの答えは「ヨーグルト」だった",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02927/?n_cid=nbpnxr_rss",
+      "summary": "夏はアイスコーヒーがおいしい季節。しかし、ペットボトル入りを購入して飲むなど手軽な飲み方が主流で、香りや味のマンネリ化が起こりやすく、ホットコーヒーに比べて満足度が低い傾向にあるという。そうした状況を見て、コーヒー大手からアイスコーヒーの飲み方の提案が増えてきた。アイスコーヒーを訴求する、UCC上島珈琲の期間限定店舗でメニューを見ると、意外性のあるコーヒーがずらりと並んでいた。",
+      "published_at": "2026-07-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:54:59+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「カルビー白黒包装で購入意向が激減 3000人調査で判明、湖池屋を下回る」【デザイン】お薦め記事10選",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00958/00116/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月に公開した記事の中から、有料会員の訪問者数（ユニークユーザー、UU）などを参考に、デザイン業界の皆さんにお薦め記事10本をピックアップ！ 1位は「カルビー白黒包装で購入意向が激減 3000人調査で判明、湖池屋を下回る」でした。",
+      "published_at": "2026-07-17T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "ユニーク",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:54:59+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "画像はChatGPT活用 Claudeで人前に出せるプレゼン資料を作る3ステップ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00008/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月3日発売の「日経トレンディ2026年8月号」では、「AI即戦力仕事術」を特集。AIにスライド作成を任せても、単調なデザインや不自然な画像が気になり、修正を重ねるうちに利用制限に達してしまう――そんな経験はないか。実は、資料の完成度を左右するのは、AIそのものよりも選び方と工程設計だ。推論に強いClaude、画像生成に向くChatGPT、連係に優れるGeminiをどう使い分けるべきか。提案資料の質を高める手順を解説する。",
+      "published_at": "2026-07-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-17T11:54:59+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "茅乃舎が京都に旗艦店 情報と購買をつなぐ「コンテンツEC」に本腰",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01905/?n_cid=nbpnxr_rss",
+      "summary": "久原本家が展開する調味料ブランド「茅乃舎」がリアル・デジタル両面でブランド発信を強化している。京都・祇園に旗艦店をオープンするとともに、公式オンラインショップをリニューアル。ECとウェブマガジンを融合したコンテンツコマースに取り組む。定番商品である「茅乃舎だし」のリピート購入だけでなく季節ごとに発売される様々な新商品を購入してもらうためには、「ブランドの世界観をより味わってもらうことが重要」と河邉哲司社主（社長）は話す。",
+      "published_at": "2026-07-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-17T11:54:59+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "“推し活自販機”を新開発 サントリーBFが100億円目指す3サービス",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01399/00002/?n_cid=nbpnxr_rss",
+      "summary": "サントリービバレッジ＆フードが、自販機インフラを活用した推し活事業「TAG－LIVE！（タグライブ）」を新たな成長の柱へ育てようとしている。ラベル缶や公式グッズの販売に加え、その場でアクリルカードを印刷できる新サービスも開始。全国に持つリアルな接点を生かして、都市部に偏りがちなグッズ販売や在庫リスクといったエンタメ業界の課題解決に挑む。事業誕生の意外なきっかけから、100億円事業を見据える今後の戦略までを追った。",
+      "published_at": "2026-07-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:54:59+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "米国で話題 “食べられる”ランドスケープデザイン",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00947/00299/?n_cid=nbpnxr_rss",
+      "summary": "野菜やハーブ、果樹など、食べられる植物を使ったランドスケープデザインで注目を集める設計事務所がある。米サンフランシスコのクリスチャン・ダグラス・デザインだ。ランドスケープといえば樹木や花が中心で、整然としたものがほとんど。だが同事務所では食物を自由に成長させながら決められたスタイルも守るという、異なる目的を両立させた。",
+      "published_at": "2026-07-17T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:54:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "茅乃舎が旗艦店とコンテンツコマース強化 ブランドの世界観を訴求",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85SWQtT1pucWJWc2dJdWJwaXkxU1ZmQTRvcXp2WlRNN2toa3dGUVRpUm81SDdVRXhDT2JOVWJBLWRfNERoc1dPbUNSS2RaUUZzZ05zV1YweGhseUlaNjBjOEFleGIwWG1aaDFFU3BoSQ?oc=5",
+      "summary": "茅乃舎が旗艦店とコンテンツコマース強化 ブランドの世界観を訴求&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-17T11:54:56+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "1位はカルビー白黒包装で購入意向減 3000人調査の衝撃",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1idVowcURxUjlpNGtZMWZBcWhmdDE4ejZZTVZfTDFUVHZ5WmFxZWo2cWRjVTk5d1VHd3NqMUZuSjVpV19FZTFBVFAxWDZZbFhJRjZId1N2WUdqQ1dvUjhEQW9za2xOZw?oc=5",
+      "summary": "1位はカルビー白黒包装で購入意向減 3000人調査の衝撃&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:54:56+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「コーヒーにヨーグルト？」飲んでみたら驚いた",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40aHJsWE1tSkVJc2VGZ2EyZWM1ZkFVb3NfbU9UU2hXaDR0NzJMYUl3NjViTFRFUlB2b2VTeXpsUXZ1elRsTDV3UnNaX1h1OHFxZ3JMS2U2NHlJMGhYN2k3Tm1rMDFFV0xrNlE?oc=5",
+      "summary": "「コーヒーにヨーグルト？」飲んでみたら驚いた&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:54:56+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -239,6 +444,28 @@
       "scraped_at": "2026-07-16T11:54:58+08:00"
     },
     {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "紀文食品[2933]：取締役等の委嘱内容の変更に関するお知らせ 2026年7月15日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wckVXcU1JQUlpbUJsaURBMWxfVG5rSVZDblNrOHA3RVRDRGtUZUhXWnpueGM2RmVkN2F0Vk04S0tTZTZ0V0F1WnpPOVBPbXNjS212WEk1X3ZfcEl6T2lTMGpfY2VfcWpuMWc?oc=5",
+      "summary": "紀文食品[2933]：取締役等の委嘱内容の変更に関するお知らせ 2026年7月15日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-15T07:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:54:56+08:00"
+    },
+    {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
       "region": "日本",
@@ -387,6 +614,156 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-15T11:52:37+08:00"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ WEBCM「仕上げに3分冷凍庫DRY」篇 30秒 長澤まさみ",
+      "url": "https://www.youtube.com/watch?v=c0Zo1bjqH24",
+      "summary": "アサヒスーパードライ WEBCM「仕上げに3分冷凍庫DRY」篇 30秒 長澤まさみ 出演者：長澤まさみ 楽曲：ONE OK ROCK / The Beginning ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-07-14T01:00:18Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/c0Zo1bjqH24/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ WEBCM「30℃超えたら、\"キンキンDRY\"」篇 15秒 長澤まさみ",
+      "url": "https://www.youtube.com/watch?v=g2KAL_HJZlg",
+      "summary": "アサヒスーパードライ WEBCM「30℃超えたら、\"\"キンキンDRY\"\"」篇 15秒 長澤まさみ 出演者：長澤まさみ 楽曲：ONE OK ROCK / The Beginning ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-07-14T01:00:15Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/g2KAL_HJZlg/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ WEBCM「30℃超えたら、\"キンキンDRY\"」篇 30秒 長澤まさみ",
+      "url": "https://www.youtube.com/watch?v=qaKE0DPWWJw",
+      "summary": "アサヒスーパードライ WEBCM「30℃超えたら、\"キンキンDRY\"」篇 30秒 長澤まさみ 出演者：長澤まさみ 楽曲：ONE OK ROCK / The Beginning ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-07-14T01:00:13Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/qaKE0DPWWJw/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ CM 「夏こそキンキンDRY・長澤まさみ」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=O7-AC7jtxsM",
+      "summary": "アサヒスーパードライ CM 「夏こそキンキンDRY・長澤まさみ」篇 15秒 出演者：長澤まさみ 楽曲：ONE OK ROCK / The Beginning ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-07-14T01:00:10Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/O7-AC7jtxsM/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ CM 「夏こそキンキンDRY・長澤まさみ」篇 30秒",
+      "url": "https://www.youtube.com/watch?v=n-Yz2QHGs3o",
+      "summary": "アサヒスーパードライ CM 「夏こそキンキンDRY・長澤まさみ」篇 30秒 出演者：長澤まさみ 楽曲：ONE OK ROCK / The Beginning ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-07-14T01:00:07Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i3.ytimg.com/vi/n-Yz2QHGs3o/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ WEBCM「スーパードライ 冷涼辛口 激暑」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=tpdQddB1Hx0",
+      "summary": "アサヒスーパードライ WEBCM「スーパードライ 冷涼辛口 激暑」篇 15秒 楽曲：ONE OK ROCK / The Beginning ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/kinkin/",
+      "published_at": "2026-07-14T01:00:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i1.ytimg.com/vi/tpdQddB1Hx0/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
     },
     {
       "site_name": "日経xTrend",
@@ -569,6 +946,81 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-07-14T11:51:34+08:00"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "NIKKA FRONTIER 「ブランドストーリー」篇 数量限定 30秒",
+      "url": "https://www.youtube.com/watch?v=FHjerNFoimQ",
+      "summary": "",
+      "published_at": "2026-07-13T15:00:10Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 2
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i3.ytimg.com/vi/FHjerNFoimQ/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "NIKKA FRONTIER 「原点・余市のモルト」篇 数量限定 15秒",
+      "url": "https://www.youtube.com/watch?v=rokcLq47-fw",
+      "summary": "",
+      "published_at": "2026-07-13T15:00:07Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i3.ytimg.com/vi/rokcLq47-fw/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "NIKKA FRONTIER 「缶ハイボール解禁」篇 数量限定 15秒",
+      "url": "https://www.youtube.com/watch?v=wMJwED0CEWk",
+      "summary": "",
+      "published_at": "2026-07-13T15:00:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/wMJwED0CEWk/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
     },
     {
       "site_name": "日経新聞",
@@ -811,6 +1263,56 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-13T12:24:19+08:00"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ WEBCM「キンキンDRYください！」篇 30秒 阿部寛",
+      "url": "https://www.youtube.com/watch?v=922tQHlDjnU",
+      "summary": "アサヒスーパードライ WEBCM「キンキンDRYください！」篇 30秒 阿部寛 出演者：阿部寛 楽曲：ONE OK ROCK / The Beginning ▼アサヒスーパードライ ”キンキンDRY”ください！キャンペーンサイト https://www.asahibeer.co.jp/s/kdk_cp/",
+      "published_at": "2026-07-13T01:00:06Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/922tQHlDjnU/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ WEBCM「キンキンDRYください！」篇 15秒 阿部寛",
+      "url": "https://www.youtube.com/watch?v=xUyYMq2VxgE",
+      "summary": "アサヒスーパードライ WEBCM「キンキンDRYください！」篇 15秒 阿部寛 出演者：阿部寛 楽曲：ONE OK ROCK / The Beginning ▼アサヒスーパードライ ”キンキンDRY”ください！キャンペーンサイト https://www.asahibeer.co.jp/s/kdk_cp/",
+      "published_at": "2026-07-13T01:00:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i1.ytimg.com/vi/xUyYMq2VxgE/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
     },
     {
       "site_name": "日経新聞",
@@ -1447,6 +1949,37 @@
       "scraped_at": "2026-07-13T12:24:19+08:00"
     },
     {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒゴールド WEB CM「WOW WAR TONIGHT 〜時には起こせよムーヴメント〜」TAKERU SATOH × KO SHIBASAKI篇 15秒",
+      "url": "https://www.youtube.com/watch?v=-TgY4odD-Tk",
+      "summary": "アサヒゴールド WEB CM 「WOW WAR TONIGHT 〜時には起こせよムーヴメント〜」 TAKERU SATOH × KO SHIBASAKI篇 15秒 出演者：佐藤健、柴咲コウ 楽曲：WOW WAR TONIGHT ▼アサヒゴールド ブランドサイト https://www.asahibeer.co.jp/brand/gold/",
+      "published_at": "2026-07-12T15:00:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/-TgY4odD-Tk/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -1555,6 +2088,31 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-13T12:24:19+08:00"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒゴールド WEB CM「WOW WAR TONIGHT 〜時には起こせよムーヴメント〜」TAKERU SATOH × KO SHIBASAKI篇",
+      "url": "https://www.youtube.com/watch?v=-eK-rqTZJQk",
+      "summary": "",
+      "published_at": "2026-07-12T12:00:06Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-07-17T11:55:14+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/-eK-rqTZJQk/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
     },
     {
       "site_name": "日経新聞",
@@ -34895,6 +35453,72 @@
       ],
       "primary_category": "新原料",
       "scraped_at": "2026-07-16T11:55:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "General Mills plans supply chain revamp",
+      "url": "https://www.fooddive.com/news/general-mills-plans-supply-chain-revamp/825274/",
+      "summary": "The upgrade, part of a $3 billion cost cutting effort, is critical because the company’s current network was built for a lower-volume era, executives said.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:55:10+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Coca-Cola files application to trademark ‘Spricy’",
+      "url": "https://www.fooddive.com/news/coca-cola-trademarks-spricy-spicy-soda/825164/",
+      "summary": "The request could signal that the beverage giant is planning a new spicy offering after discontinuing Coca-Cola Spiced in 2024.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-17T11:55:10+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "CEO of Jack Daniel’s maker Brown-Forman to retire",
+      "url": "https://www.fooddive.com/news/jack-daniels-owner-brown-forman-ceo-lawson-whiting-retires/825174/",
+      "summary": "Lawson Whiting, who led the company for seven years, will remain at the spirits giant until his successor is named.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-07-17T11:55:10+08:00"
     }
   ]
 }

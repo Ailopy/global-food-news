@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-16T17:10:21",
+  "last_updated": "2026-07-17T11:54:56",
   "retention_days": 7,
-  "total": 333,
+  "total": 335,
   "s_count": 23,
   "a_count": 2,
-  "b_count": 308,
+  "b_count": 310,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -34,6 +34,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.17湖池屋「湖池屋プライドポテト」フルリニューアル (7月20日より順次発売)",
+      "url": "https://www.nissin.com/jp/news/13826/",
+      "published_at": "2026-07-17T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.17日清食品「完全メシ カレーメシ 欧風カレー」が国際的なアンチ・ドーピング認証を取得",
+      "url": "https://www.nissin.com/jp/news/13828/",
+      "published_at": "2026-07-17T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
