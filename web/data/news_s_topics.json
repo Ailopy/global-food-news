@@ -1,33 +1,33 @@
 {
-  "total": 1576,
-  "s_plus_count": 81,
+  "total": 1589,
+  "s_plus_count": 82,
   "watched_product_count": 0,
   "sites": [
-    "Packaging Digest",
+    "Food Dive",
     "日経xTrend",
-    "朝日グループYouTube",
     "日経新聞",
-    "Food Dive"
+    "朝日グループYouTube",
+    "Packaging Digest"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "其他": 1069,
+    "其他": 1080,
     "新产品": 185,
     "品牌故事": 71,
     "渠道新物种": 14,
     "联名营销": 42,
     "新包装": 27,
-    "行业政策": 41,
+    "行业政策": 43,
     "营销创新": 49,
     "并购融资": 54,
     "新技术": 14,
     "新原料": 10
   },
-  "last_updated": "2026-07-17 18:29",
-  "last_updated_iso": "2026-07-17T18:29:42.718655+08:00",
+  "last_updated": "2026-07-18 11:49",
+  "last_updated_iso": "2026-07-18T11:49:27.664309+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -35519,6 +35519,298 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-07-17T11:55:10+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "中国AI・Kimiの衝撃、米専門家「アンソロピック最新型と僅差」",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "森ビル「虎ノ門ヒルズ」拡張隣地4万平米を再開発、年内に計画案",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOUC2521Z0V20C26A6000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米軍7日連続でイラン攻撃、対象拡大検討かモジタバ師側近｢全面攻勢｣",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOGR17CQG0X10C26A7000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "おにぎり1個695円パリで行列、円安で日本米に切り替えても割安",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOGR29D260Z20C26A5000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "暑い日に飲みたい、水出しコーヒー10選見た目も涼やか",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOUD238A60T20C26A6000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": true,
+      "s_plus_reason": "見た目",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米国男子がSNSで競う「ルックスマキシング」顔面たたく過激動画も",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOGN24D1H0U6A620C2000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米中間選挙を乗っ取るのは中国かトランプ氏か「工作」で歪む民意",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOGN16CZR0W6A710C2000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "アサヒ、時価総額でキリンが追撃資本政策がトップ維持のカギ",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOUB179JK0X10C26A7000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-07-18T11:49:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "全東信破綻、二重苦の飲食店3つのポイント動画解説",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOFH154SK0V10C26A7000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "10月酒税改正で税額統一、どうなるビール類市場グラフィック解説",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOCD0225L0S6A700C2000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:12+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Marzetti taps former Unilever exec as supply chain head",
+      "url": "https://www.fooddive.com/news/marzetti-taps-schwan-supply-chain-head-unilever/825275/",
+      "summary": "Mark Carter will oversee the specialty food maker's continued efforts to simplify its network and improve productivity.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Defining ultraprocessed foods proves ‘challenging,’ FDA food head says",
+      "url": "https://www.fooddive.com/news/ultraprocessed-food-definition-upfs-challenging-fda/825297/",
+      "summary": "Donald Prater, acting deputy commissioner of food, said the Trump administration is still making the definition a “priority.”",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 2
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-07-18T11:49:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Danone expands high-protein Silk line into yogurts, shakes",
+      "url": "https://www.fooddive.com/news/danone-high-protein-silk-line-enters-yogurt-shakes/824486/",
+      "summary": "The launch comes after early success for the brand’s milk line, underscoring interest among younger consumers in plant-based options loaded with the popular nutrient.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-18T11:49:23+08:00"
     }
   ]
 }
