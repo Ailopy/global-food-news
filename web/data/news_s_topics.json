@@ -4,10 +4,10 @@
   "watched_product_count": 0,
   "sites": [
     "Food Dive",
-    "日経xTrend",
-    "日経新聞",
+    "Packaging Digest",
     "朝日グループYouTube",
-    "Packaging Digest"
+    "日経新聞",
+    "日経xTrend"
   ],
   "regions": [
     "日本",
@@ -26,8 +26,8 @@
     "新技术": 14,
     "新原料": 10
   },
-  "last_updated": "2026-07-18 11:49",
-  "last_updated_iso": "2026-07-18T11:49:27.664309+08:00",
+  "last_updated": "2026-07-19 12:17",
+  "last_updated_iso": "2026-07-19T12:17:39.533874+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
