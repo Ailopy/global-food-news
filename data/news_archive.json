@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T14:36:53.506052+08:00",
-  "total": 5617,
+  "last_updated": "2026-07-19T18:18:42.366346+08:00",
+  "total": 5620,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -13,6 +13,42 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "20ab9818111746b3",
+      "title": "かき氷系アイスのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「かき氷系アイス」の最新・注目度ランキングです♪（2026年7月17日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-24070/?utm_source=rss&utm_medium=mognavinews_20260719",
+      "published_at": "2026-07-19T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "66dc64857bc3edcb",
+      "title": "今週新発売の濃厚な食べものまとめ！『森永ミルクキャラメルパイ』、『チョコバッキー　クリーミーショコラミント』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚マクドナルド 森永ミルクキャラメルパイマクドナルドのパイと「森永ミルクキャラ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071908/?utm_source=rss&utm_medium=mognavinews_20260719",
+      "published_at": "2026-07-19T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "527eaaa236ab804d",
+      "title": "今週新発売の菓子パン🍫まとめ！『ポケモンＷキャラメルクリームパン』、『ビッグシュガーコッペ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン ポケモンWキャラメルクリームパン 袋1個キャラメル風味クリ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071907/?utm_source=rss&utm_medium=mognavinews_20260719",
+      "published_at": "2026-07-19T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "620359d76de4a64d",
