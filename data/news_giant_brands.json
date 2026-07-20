@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-19T17:03:10",
+  "last_updated": "2026-07-20T12:29:57",
   "retention_days": 7,
-  "total": 336,
+  "total": 337,
   "s_count": 23,
   "a_count": 2,
-  "b_count": 311,
+  "b_count": 312,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -73,6 +73,17 @@
       "region": "日本",
       "title": "2026.07.17日清シスコ「ごろグラ」「ココナッツサブレ」「エースコイン」の価格改定に関するお知らせ  ～ 2026年11月2日(月)納品分から ～",
       "url": "https://www.nissin.com/jp/news/13829/",
+      "published_at": "2026-07-17T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, CJ더마켓서 회원 대상 ‘썸머 쿠킹 클래스’ 운영… 멤버십 고객 경험 확대2026.07.17",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1788",
       "published_at": "2026-07-17T00:00:00",
       "summary": "",
       "level": "B",
