@@ -1,22 +1,22 @@
 {
-  "total": 1589,
+  "total": 1591,
   "s_plus_count": 82,
   "watched_product_count": 0,
   "sites": [
-    "Food Dive",
-    "Packaging Digest",
+    "日経xTrend",
     "朝日グループYouTube",
+    "Packaging Digest",
     "日経新聞",
-    "日経xTrend"
+    "Food Dive"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
+    "品牌故事": 72,
     "其他": 1080,
-    "新产品": 185,
-    "品牌故事": 71,
+    "新产品": 186,
     "渠道新物种": 14,
     "联名营销": 42,
     "新包装": 27,
@@ -26,9 +26,31 @@
     "新技术": 14,
     "新原料": 10
   },
-  "last_updated": "2026-07-19 12:17",
-  "last_updated_iso": "2026-07-19T12:17:39.533874+08:00",
+  "last_updated": "2026-07-20 12:30",
+  "last_updated_iso": "2026-07-20T12:30:14.382217+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "新指標「顧客幸福度」ランキング2026",
+      "url": "https://xtrend.nikkei.com/info/podcast/19/00414/?n_cid=nbpnxr_rss",
+      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の最新トレンドをチェックする「WEEKLY TREND KEYWORDS」では、ロッテホールディングスが手掛けた、これまでにないアルミ缶入りミネラルウオーター「THE DAY」をピックアップ。後半は「新指標『顧客幸福度』ランキング2026」をお送りします。2026年で3回目を迎えた企業・ブランドに対して、生活者がどれだけ幸福度を感じているかを示す指標「企業・ブランドの幸福度調査」。26年は調査対象を36業界の主要企業・ブランドに大幅拡大しました。今回は、26年の総合ランキングトップ10を紹介します。あわせて、上位にランクインしたバイクのカワサキとコメダ珈琲店に注目し、その支持される理由を紹介します。解説は日経クロストレンドの中村勇介編集長。",
+      "published_at": "2026-07-20T05:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-20T12:30:00+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -924,6 +946,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-14T11:51:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "犬猫生活[556A]：新商品販売に関するお知らせ 2026年7月14日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhd0FsZXRuWi01Vm1yNlFhdHRsNkJXX0p5YllKQ0Y1OGt6TURIVUhTaWtEcnlnU05FSzJ1MHM4LTdFZVJ4a1ZfbkNYRXRkNmg2b1ZJcWlCSEtORVZqdFFKa1g1c2Zkd0NUVHc?oc=5",
+      "summary": "犬猫生活[556A]：新商品販売に関するお知らせ 2026年7月14日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-07-13T23:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-20T12:29:58+08:00"
     },
     {
       "site_name": "Packaging Digest",
