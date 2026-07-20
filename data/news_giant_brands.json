@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-20T12:29:57",
+  "last_updated": "2026-07-20T17:52:03",
   "retention_days": 7,
-  "total": 337,
+  "total": 339,
   "s_count": 23,
   "a_count": 2,
-  "b_count": 312,
+  "b_count": 314,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -34,6 +34,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 부산공장에 “色” 더해 안전성 높였다… “국내 식품업계 최초”2026.07.20",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1789",
+      "published_at": "2026-07-20T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 프리미엄 증류주 ‘jari’ 첫 공개… 글로벌 시장 공략 나선다2026.07.19",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1790",
+      "published_at": "2026-07-19T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
