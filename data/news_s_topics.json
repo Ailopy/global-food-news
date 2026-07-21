@@ -1,34 +1,244 @@
 {
-  "total": 1591,
-  "s_plus_count": 82,
+  "total": 1602,
+  "s_plus_count": 85,
   "watched_product_count": 0,
   "sites": [
     "日経xTrend",
-    "朝日グループYouTube",
     "Packaging Digest",
-    "日経新聞",
-    "Food Dive"
+    "Food Dive",
+    "朝日グループYouTube",
+    "日経新聞"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "品牌故事": 72,
-    "其他": 1080,
-    "新产品": 186,
+    "其他": 1084,
+    "品牌故事": 74,
+    "新产品": 188,
+    "营销创新": 51,
     "渠道新物种": 14,
     "联名营销": 42,
     "新包装": 27,
     "行业政策": 43,
-    "营销创新": 49,
     "并购融资": 54,
     "新技术": 14,
-    "新原料": 10
+    "新原料": 11
   },
-  "last_updated": "2026-07-20 12:30",
-  "last_updated_iso": "2026-07-20T12:30:14.382217+08:00",
+  "last_updated": "2026-07-21 12:10",
+  "last_updated_iso": "2026-07-21T12:10:08.551999+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "米アンソロピック「Claude」受賞 完全解説「カンヌライオンズ2026」前編",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00001/?n_cid=nbpnxr_rss",
+      "summary": "「カンヌライオンズ2026」のグランプリを受賞した全事例を3回に分けて紹介する。今回は前編。十数年にわたってカンヌライオンズに参加し、取材してきた河尻亨一氏が、確かな目線で一つひとつの受賞事例を解説する。最先端のクリエイティブから、世界が今、何を課題とし、どの方向に進もうとしているのかが見えてくる。",
+      "published_at": "2026-07-21T00:03:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-21T12:09:53+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ユニリーバはなぜネガティブな口コミも拡散 ブランドの語り部は顧客に",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00004/?n_cid=nbpnxr_rss",
+      "summary": "FMCG（日用消費財）巨大企業、P＆Gとユニリーバのキーパーソンがカンヌライオンズの講演で語った本質を花王のマーケター・廣澤祐氏がリポート。前回のP＆Gに続き、今回はユニリーバ ビューティー＆ウェルビーイングCMOのレアンドロ・バレット氏による講演を読み解いていく。",
+      "published_at": "2026-07-21T00:02:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-21T12:09:53+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "P＆G最高ブランド責任者がAIロボ化 現代マーケに必須の「3つの声」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00003/?n_cid=nbpnxr_rss",
+      "summary": "2024年、25年と、花王のマーケターという視点から、世界の3大FMCG企業といえるP＆G、ユニリーバ、ロレアルのキーパーソンがカンヌライオンズの講演で語った本質をレポートしてきた廣澤祐氏。26年も、P＆GはCBOのマーク・プリチャード氏、ユニリーバはビューティー＆ウェルビーイングCMOのレアンドロ・バレット氏による講演を中心に読み解いていく。",
+      "published_at": "2026-07-21T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-21T12:09:53+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "26年8月、シーパラに「OTO－RACTION PARK」開業 未来消費カレンダー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00241/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年8月1日「横浜・八景島シーパラダイス、新エリア『OTO－RACTION PARK』開業」ほか20件の情報を追加した。",
+      "published_at": "2026-07-21T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-21T12:09:53+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "損する「AI構文」の見分け方 プロンプトの「カルテ」で“AIバレ”撲滅",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00011/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月3日発売の「日経トレンディ2026年8月号」では、「AI即戦力仕事術」を特集。AI（人工知能）で作業を効率化するのは当たり前の時代になった。だがその便利さの裏で、「AIっぽさ」がにじむ文章は、相手に悪印象を与える危うさもはらむ。記号の多用、単調な文末、無難すぎる内容――“AI臭”の正体はどこにあるのか。“AIバレ”回避の文章術が、これからの必須スキルだ。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-07-21T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-21T12:09:53+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Google生成AIのCMが好感度で初首位、「Gemini」の魅力をどう伝えたか",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02926/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月度のCM好感度ランキングでグーグルの「Google」が初の首位に立った。生成AI「Gemini」の利便性を身近なシーンで伝えたCMが支持を集めたほか、サントリー天然水が2位にランクイン。物価高を背景に、増量キャンペーンを訴求するCMの存在感も高まっている。",
+      "published_at": "2026-07-21T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-21T12:09:53+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「もはやコンサル不要、資料作成も一発で完成 達人が使う感動AIツール」 ちょうど1年前振り返りランキング",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00124/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年7月20日～8月16日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
+      "published_at": "2026-07-21T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-21T12:09:53+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "カンヌで見えた、AI時代を勝ち抜くブランドに「3つのキーワード」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00006/?n_cid=nbpnxr_rss",
+      "summary": "世界のマーケティングが向かう先は――。そのヒントを探るため、毎年6月に世界中のマーケターやクリエイターが集まるのが、フランス南部カンヌで開催される「カンヌライオンズ」だ。2026年のフェスティバル会場外はAI一色だった一方、アワード受賞作やセミナーで繰り返し語られていたのは、人間性や信頼、コミュニティーの重要性だった。",
+      "published_at": "2026-07-21T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-21T12:09:53+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Busch Light Packaging Honors Farmers, America’s 250th",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/busch-light-packaging-honors-farmers-america-s-250th",
+      "summary": "Limited-edition beer packaging returns in support of Farm Rescue, this time with a design celebrating America’s 250th.",
+      "published_at": "2026-07-20T20:26:50Z",
+      "is_s_plus": true,
+      "s_plus_reason": "limited-edition",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-21T12:10:06+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -35855,6 +36065,62 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-18T11:49:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "ADM to scale egg proteins with precision fermentation",
+      "url": "https://www.fooddive.com/news/adm-every-ovopro-eggs-precision-fermentation-protein-ingredients/825437/",
+      "summary": "The ingredients giant is collaborating with startup Every’s OvoPro to give food companies innovative new protein options.",
+      "published_at": "",
+      "is_s_plus": true,
+      "s_plus_reason": "innovative",
+      "categories": [
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 2
+        },
+        {
+          "name": "新技术",
+          "icon": "⚡",
+          "color": "#0891b2",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "新原料",
+      "scraped_at": "2026-07-21T12:10:04+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Food innovation no longer happens in the lab alone",
+      "url": "https://www.fooddive.com/spons/food-innovation-no-longer-happens-in-the-lab-alone/824549/",
+      "summary": "Food innovation increasingly depends on ecosystems that can move concepts to shelf faster.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-21T12:10:04+08:00"
     }
   ]
 }

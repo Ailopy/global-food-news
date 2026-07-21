@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-07-20T17:52:03",
+  "last_updated": "2026-07-21T12:09:50",
   "retention_days": 7,
-  "total": 339,
-  "s_count": 23,
+  "total": 341,
+  "s_count": 25,
   "a_count": 2,
   "b_count": 314,
   "brands": [
@@ -34,6 +34,39 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「ひと手間かけた上質なうまさ」をお届けする「麒麟特製」から「麒麟特製 完熟梅干しサワー（期間限定）」新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0721_01.html",
+      "published_at": "2026-07-21T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-07-21T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.21湖池屋「GOGOファクトリー! マイポテチキット」(7月21日より湖池屋オンラインショップにて数量限定販売)",
+      "url": "https://www.nissin.com/jp/news/13827/",
+      "published_at": "2026-07-21T00:00:00",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
     {
       "brand": "CJ",
       "brand_cn": "希杰",
@@ -75,17 +108,6 @@
       "url": "https://www.nissin.com/jp/news/13828/",
       "published_at": "2026-07-17T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-17T00:00:00",
-      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
