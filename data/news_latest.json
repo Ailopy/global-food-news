@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-21T14:35:29.890997+08:00",
+  "last_updated": "2026-07-21T18:55:48.996027+08:00",
   "retention_days": 7,
-  "total": 473,
+  "total": 477,
   "sources": [
     "BevNET",
     "Fab News",
@@ -31,12 +31,132 @@
       "language": "en"
     },
     {
+      "id": "d1550c48e9f3e703",
+      "title": "コンビニで手軽に冷たい麺を！トレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニ麺」の最新・注目度ランキングです♪（2026年7月17日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-24136/?utm_source=rss&utm_medium=mognavinews_20260721",
+      "published_at": "2026-07-21T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6de44b0579b3f2fc",
+      "title": "今週新発売のトマト料理まとめ！『完熟トマトピザパン』、『福島県産トマトとチーズのサラダ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！トマト料理の新商品情報をお届けします。今週新発売の#トマト料理ファミリーマート ファミマルBakery 完熟トマトピザパン 3…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072108/?utm_source=rss&utm_medium=mognavinews_20260721",
+      "published_at": "2026-07-21T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b0c9e8f734c2c692",
+      "title": "カゴメ 「野菜不足ゼロ」へ22社が集結 業界の垣根を超え多彩な取組み",
+      "summary": "カゴメは、2020年に野菜不足ゼロに近づけるための考えに賛同した企業・団体と「野菜摂取推進プロジェクト」を立ち上げ、その一環として「野菜をとろうフォーラム2026」を開設。第３回フォーラムが20日、東京・千代田区の大手 […] ソース",
+      "url": "https://shokuhin.net/153897/2026/07/21/%e8%be%b2%e6%b0%b4%e7%95%9c%e7%94%a3%e6%a5%ad/%e9%87%8e%e8%8f%9c/",
+      "published_at": "2026-07-21T16:32:51+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "323cafb21ee7ab96",
+      "title": "【十割そば 二代目長助 江南店 グランドオープン】厳選メニューを特別価格で販売",
+      "summary": "サガミレストランツは、2026年7月22日、「十割そば 二代目長助江南店」を出店する。グランドオープンに伴い、「OPEN記念企画」を開催し、厳選メニューを特別価格で販売する。 本店舗は店内に設置したAI搭載カメラやセンサ...",
+      "url": "https://www.ssnp.co.jp/foodservice/693900/",
+      "published_at": "2026-07-21T16:13:36+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "1bc26030bed6e4e2",
+      "title": "FDA warning to Nutratech highlights cGMP compliance risks for dietary supplement manufacturers",
+      "summary": "The US FDA has issued a warning letter to contract supplement manufacturer Nutratech after identifying multiple current Good Manufacturing Practice (CGMP) and labelling violations, underscoring the…",
+      "url": "https://nutraceuticalbusinessreview.com/fda-warning-nutratech-cgmp-compliance-dietary-supplement-manufacturers",
+      "published_at": "2026-07-21T16:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "a72d3c1bf459aebd",
+      "title": "今週新発売の菓子パン🍫まとめ！『瀬戸内レモンあんぱん』、『りんごクリームドーナツ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パン木村屋 瀬戸内レモンあんぱん 袋1個ピールと果汁入りのレモンあんを、し…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072107/?utm_source=rss&utm_medium=mognavinews_20260721",
+      "published_at": "2026-07-21T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6a47fe0cb9a9f4ec",
+      "title": "【すき家】夏にぴったりの「鉄火丼」、ねばとろを組み合わせた「ばくだん鉄火丼」発売",
+      "summary": "牛丼チェーンの「すき家」は、7月28日午前9時より「鉄火丼」を販売する。価格は並盛880円から。販売終了時期は未定。 「鉄火丼」は、まぐろの切り身をごはんに盛り付けた商品。色鮮やかなまぐろの赤身の旨みと、ごはんとの相性を...",
+      "url": "https://www.ssnp.co.jp/foodservice/693888/",
+      "published_at": "2026-07-21T14:42:23+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
       "id": "a846a628dfb8c3b5",
       "title": "惣菜トレイ「白」統一を 中東ショック対策、売場で見やすさアップにも効果 アイディックがスーパー向け提案",
       "summary": "大阪屋ショップグループで惣菜製造や物流等を担うアイディックは、惣菜のトレイを現状の色・柄付きから白への変更を、卸先のスーパーへ提案している。 中東情勢の影響でトレイ価格が高騰する中、白トレイへの変更によるコストダウン […] ソース",
       "url": "https://shokuhin.net/153769/2026/07/21/topnews/",
       "published_at": "2026-07-21T14:30:21+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "34aaea63e946cd61",
+      "title": "今週新発売の酢まとめ！『サンコック監修　黒酢からあげ』、『さばと高菜の寿司』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！酢の新商品情報をお届けします。今週新発売の#酢ファミリーマート サンコック監修 黒酢からあげ岐阜県大垣市発祥の中華料理店「サン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072106/?utm_source=rss&utm_medium=mognavinews_20260721",
+      "published_at": "2026-07-21T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c96573dbbfda7865",
+      "title": "【2026年7月第3週】カップうどん・そばランキング1位は赤いきつねうどん でか盛！どん兵衛北海道だし急上昇まとめ",
+      "summary": "暑い季節でも、カップうどん・そばはやっぱり食べたくなるもの。今週のランキングはどんな顔ぶれが並んだのでしょうか？きつねうどんの激戦から地域限定品の健闘まで、バ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24040/?utm_source=rss&utm_medium=mognavinews_20260721",
+      "published_at": "2026-07-21T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "959479abd2bbc759",
+      "title": "今週新発売の卵料理まとめ！『たまごのチュロッキー』、『ＲＯＬＬサンド　海老たまごタルタル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！卵料理の新商品情報をお届けします。今週新発売の#卵料理ローソン たまごのチュロッキーほろっとサクっとした軽い食感で、おやつにも…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072105/?utm_source=rss&utm_medium=mognavinews_20260721",
+      "published_at": "2026-07-21T12:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -163,6 +283,18 @@
       "language": "ja"
     },
     {
+      "id": "2acbd0c66d8b59cc",
+      "title": "【2026年7月第3週】カップ焼きそば・パスタランキング1位はU.F.O.だしソースきつね焼そば！個性派新作が熱い注目まとめ",
+      "summary": "毎週お届けするもぐナビの「カップ焼きそば・パスタ」週間ランキング、今週（2026年7月第3週）もバラエティ豊かなラインナップが顔をそろえました。新顔商品からロ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24039/?utm_source=rss&utm_medium=mognavinews_20260721",
+      "published_at": "2026-07-21T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "9122ffd129bff68b",
       "title": "食事クーポン3,000円分付きで税込3,000円、「すき家 SUMMER BAG 2026」発売 / カゴバッグやステンレスボトルも",
       "summary": "牛丼チェーン「すき家」は、夏の福袋「SUMMER BAG 2026」を販売する。7月22日(水)AM10:00より、一部店舗を除く全国の店舗で数量限定販売を開始する。価格は税込3,000円。 「SUMMER BAG 20...",
@@ -172,6 +304,30 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "1b6c009cc1faabb4",
+      "title": "今週新発売の菓子パン🍫まとめ！『たんぱく質が摂れるむしケーキ　さつまいも』、『スイートポテトパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パン木村屋 たんぱく質が摂れるむしケーキ さつまいも 袋2個どこか懐かしく…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072104/?utm_source=rss&utm_medium=mognavinews_20260721",
+      "published_at": "2026-07-21T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "04b83c15aeefae47",
+      "title": "【2026年7月第3週】スープ・カップ春雨・味噌汁・その他ランキング1位は宝幸オニオンスープ！急上昇商品続出まとめ",
+      "summary": "2026年7月第3週のスープ・カップ春雨・味噌汁カテゴリのランキング結果が出ました！蒸し暑い季節でも、温かいスープや軽めの春雨スープはやっぱり手放せないですよ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24038/?utm_source=rss&utm_medium=mognavinews_20260721",
+      "published_at": "2026-07-21T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -196,6 +352,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "d8d497a36a65f2b8",
+      "title": "今週新発売の昆布まとめ！『銀しゃりむすび　北海道産昆布』、『北海道産じゃがいもの豚肉じゃが』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！昆布の新商品情報をお届けします。今週新発売の#昆布セブン-イレブン 銀しゃりむすび 北海道産昆布お米のおいしさをまっすぐ味わう…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072103/?utm_source=rss&utm_medium=mognavinews_20260721",
+      "published_at": "2026-07-21T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -4159,6 +4327,18 @@
       "language": "en"
     },
     {
+      "id": "2f1f1c9f3d533667",
+      "title": "The new rules of healthy aging: Consumer trends to watch",
+      "summary": "Healthy aging is evolving. Discover the consumer trends driving demand for clinically substantiated botanicals that support cognition, mobility, metabolism, and life-stage wellness",
+      "url": "https://nutraceuticalbusinessreview.com/the-new-rules-of-healthy-aging-consumer-trends",
+      "published_at": "2026-07-15T23:20:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
       "id": "9ecc9f4828a8e4eb",
       "title": "New CEO Promises ‘Radical Simplicity’ as Conagra Brands Resets Strategy",
       "summary": "In his first earnings call since taking the helm, John Brase outlined a sweeping turnaround strategy centered on restoring margins, investing more heavily in brands, simplifying the company's…",
@@ -5561,138 +5741,6 @@
       "category": "综合",
       "level": "A+",
       "language": "en"
-    },
-    {
-      "id": "dd3f6f6962e3db0a",
-      "title": "Manus debuts US-produced Monk Fruit Sweetener at IFT FIRST",
-      "summary": "The ingredient marks the establishment of a second, more reliable, US-based supply route for the sector, plus a reduction in environmental impact compared with traditional agricultural production…",
-      "url": "https://nutraceuticalbusinessreview.com/manus-debuts-us-produced-monk-fruit-sweetener-ift",
-      "published_at": "2026-07-14T18:07:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "f70930d853d0a33e",
-      "title": "「冷しカップヌードル」登場 開発5年、冷水で戻る特許技術を採用 暑い日にぴったりの2フレーバー",
-      "summary": "日清食品は、冷水専用の「冷しカップヌードル」2品を7月20日から全国発売する。開発期間は丸5年。新製法「コールドリハイド製法」（特許取得済み）により、冷蔵庫で冷やした水を注いで5分待つだけで、コシとつるみのある食感の麺 […] ソース",
-      "url": "https://shokuhin.net/153471/2026/07/14/kakou/sokuseki/",
-      "published_at": "2026-07-14T18:03:49+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "68a16e1832302a0c",
-      "title": "夏を感じる！スパイシーなスナックのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「スパイシーなスナック」の最新・注目度ランキングです♪（2026年7月10日更新）食品クチコミサイト「もぐナビ」に投稿さ…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-23707/?utm_source=rss&utm_medium=mognavinews_20260715",
-      "published_at": "2026-07-14T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "5ec6c6d505efe975",
-      "title": "夏を感じる！スパイシーなスナックのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「スパイシーなスナック」の最新・注目度ランキングです♪（2026年7月10日更新）食品クチコミサイト「もぐナビ」に投稿さ…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-23707/?utm_source=rss&utm_medium=mognavinews_20260714",
-      "published_at": "2026-07-14T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "7dcddd58d69e39ac",
-      "title": "味の素冷凍食品 10月に家庭用16品値上げ 「やわらか若鶏から揚げ」など",
-      "summary": "味の素冷凍食品は、家庭用冷凍食品のうち「やわらか若鶏から揚げボリュームパック」など16品の出荷価格を10月1日納品分から引き上げる。値上げ幅は5～8％。規格変更に伴う実質的な価格改定として、「ザ★チャーハン」は580g […] ソース",
-      "url": "https://shokuhin.net/153467/2026/07/14/kakou/reishoku/",
-      "published_at": "2026-07-14T17:59:45+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "fed75cfafcd16b4e",
-      "title": "今週新発売の惣菜パンまとめ！『ハムカツロール』、『コロッケロール』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンイトーパン ハムカツロール 袋1個ソースで味付けしたハムカツとからしマヨソ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071408/?utm_source=rss&utm_medium=mognavinews_20260715",
-      "published_at": "2026-07-14T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "62cd590844c9b980",
-      "title": "今週新発売の惣菜パンまとめ！『ハムカツロール』、『コロッケロール』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンイトーパン ハムカツロール 袋1個ソースで味付けしたハムカツとからしマヨソ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071408/?utm_source=rss&utm_medium=mognavinews_20260714",
-      "published_at": "2026-07-14T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "f91277e3ea6028c9",
-      "title": "本格レッドカレーと国産桃のパフェが登場!ジョナサン夏の2大フェア開催",
-      "summary": "すかいらーくレストランツが運営するジョナサンは、2026年7月16日から、「スパイス香る、カレーなる夏」フェアと、桃が主役の「momo wow!」フェアを開催する。 【ジョナサン 新メニューの画像はこちら】 〈ジョナサン...",
-      "url": "https://www.ssnp.co.jp/foodservice/693338/",
-      "published_at": "2026-07-14T16:14:19+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "d755068ceb2f56a5",
-      "title": "From Gen Z to baby boomers: how every generation is redefining healthy ageing for themselves",
-      "summary": "Alicia Humpert, Global Marketing Director, Microbiome, at ADM, examines why healthy ageing is no longer just an older consumer trend and how Gen Z is reshaping the next wave of wellness innovation",
-      "url": "https://nutraceuticalbusinessreview.com/from-gen-z-to-baby-boomers-how-every",
-      "published_at": "2026-07-14T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "35659526aa337e1e",
-      "title": "今週新発売の惣菜パンまとめ！『北海道ポテト＆ツナ』、『ビッグサンド　夏野菜ミート＆ポテト』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン 北海道ポテト＆ツナ 袋1個北海道産のじゃがいもを使用したポ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071407/?utm_source=rss&utm_medium=mognavinews_20260715",
-      "published_at": "2026-07-14T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "486532eb02e7baa0",
-      "title": "今週新発売の惣菜パンまとめ！『北海道ポテト＆ツナ』、『ビッグサンド　夏野菜ミート＆ポテト』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン 北海道ポテト＆ツナ 袋1個北海道産のじゃがいもを使用したポ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026071407/?utm_source=rss&utm_medium=mognavinews_20260714",
-      "published_at": "2026-07-14T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
