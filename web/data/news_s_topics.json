@@ -1,34 +1,188 @@
 {
-  "total": 1602,
-  "s_plus_count": 85,
+  "total": 1612,
+  "s_plus_count": 88,
   "watched_product_count": 0,
   "sites": [
-    "日経xTrend",
-    "Packaging Digest",
     "Food Dive",
-    "朝日グループYouTube",
-    "日経新聞"
+    "日経xTrend",
+    "日経新聞",
+    "Packaging Digest",
+    "朝日グループYouTube"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "其他": 1084,
-    "品牌故事": 74,
-    "新产品": 188,
+    "其他": 1089,
+    "新产品": 191,
+    "品牌故事": 75,
     "营销创新": 51,
     "渠道新物种": 14,
     "联名营销": 42,
     "新包装": 27,
-    "行业政策": 43,
+    "行业政策": 44,
     "并购融资": 54,
     "新技术": 14,
     "新原料": 11
   },
-  "last_updated": "2026-07-21 12:10",
-  "last_updated_iso": "2026-07-21T12:10:08.551999+08:00",
+  "last_updated": "2026-07-22 12:12",
+  "last_updated_iso": "2026-07-22T12:12:03.689058+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "キットカット、起死回生のマーケ策 完全解説「カンヌライオンズ2026」中編",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00002/?n_cid=nbpnxr_rss",
+      "summary": "「カンヌライオンズ2026」のグランプリを受賞した全事例を3回に分けて紹介する。今回は中編。十数年にわたってカンヌライオンズに参加し、取材してきた河尻亨一氏が、確かな目線で一つひとつの受賞事例を解説する。最先端のクリエイティブから、世界が今、何を課題とし、どの方向に進もうとしているのかが見えてくる。",
+      "published_at": "2026-07-22T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-22T12:11:49+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "“オレオ柄”の牛を販促に活用 カンヌに学ぶ「事実」で人を動かす手法",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01225/00009/?n_cid=nbpnxr_rss",
+      "summary": "2026年のカンヌライオンズでは、生成AIの華やかな演出よりも人々の心を動かすリアルな事実に注目が集まった。フライドポテト容器とハインツのロゴ、オレオそっくりの牛、有給休暇を得た乳牛、そして「処方される国」スウェーデン――。一見すると何気ない事実も、見方を変えれば強力なアイデアへと生まれ変わる。世界最高峰のクリエイティブから、どんな「価値ある事実」が発掘できるのか。",
+      "published_at": "2026-07-22T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "演出",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-22T12:11:49+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "AIで会議回数が激減！？ Windows機能によるAI“参加”で議論も活性化",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00009/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月3日発売の「日経トレンディ2026年8月号」では、「AI即戦力仕事術」を特集。「その会議、本当に必要ですか」——AIがこう問い直すことで、組織にはびこる“無駄会議”はなくなるのか。チャットで代替可能な会議の選別から、目的設定とアジェンダ精査、停滞時の打開策、さらには議事録の要約・評価まで。生成AIを参加させて、生産性を底上げする実践手法を解説する。",
+      "published_at": "2026-07-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-22T12:11:49+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "26年ユニバ攻略 得するクレカ、待ち時間“掲示板”、穴場休憩スポット…",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01422/00001/?n_cid=nbpnxr_rss",
+      "summary": "多くの人でにぎわうユニバーサル・スタジオ・ジャパンへ“丸腰”で行くと、後悔は必至だ。貴重な時間とお金を使って足を運ぶ以上、必要な対策を講じて満足度を上げたい。うれしいことに、その対策は決して難しいものではない。必ず役立つ3つの大きなポイント、「園内決済」「待ち時間の短縮」「補給・休憩」について分かりやすく解説する。本記事の最後には、見やすく整理したPDFファイルを用意している。「トイレ＆給水所マップ」など必読の内容なので、そちらもぜひ確認してほしい。",
+      "published_at": "2026-07-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-22T12:11:49+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "味の素「氷みぞれつゆ」で成功 「後発組の勝ち⽅」“逆算・引き算”の⼒",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01429/00001/?n_cid=nbpnxr_rss",
+      "summary": "後発組は、先行企業がひしめく市場にどう切り込むべきか？ あらゆる分野の商品・サービス市場において、多くのビジネスパーソンが抱える問題だ。ここで生きた“教科書”としたいのが、味の素の商品開発担当者が実践したケースだ。同社が後発参入したのは、夏らしい食事の定番であるそうめんなどの麺用調味料市場で、この2026年の夏商戦において新商品の凍らせる麺つゆをヒットさせている。小売関係者も注視する味の素の麺用調味料は、なぜ成功を引き寄せることができたのか。この開発担当者が考え、動いたプロセスを丁寧に見ていく。",
+      "published_at": "2026-07-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-22T12:11:49+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ファミマ足立氏がカンヌで得た 「モノは変えずに意味を変える」発想",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00010/?n_cid=nbpnxr_rss",
+      "summary": "P＆Gジャパンや日本マクドナルドといった名だたる企業で成果を出してきた、ファミリーマートのエグゼクティブ・ディレクター兼CMOである足立光氏が、2026年に初めてカンヌライオンズに参加した。足立氏にとって最も印象深かったと話す「リフレーミング」の重要性について解説。AI時代に求められる価値を語った。",
+      "published_at": "2026-07-22T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "初めて",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-22T12:11:49+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "クランチロールが劇場配給に注力 『鬼滅の刃』で興行収入1179億円導く",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01426/00004/?n_cid=nbpnxr_rss",
+      "summary": "クランチロールは米国のアニメ配信サービス会社だが、近年、劇場アニメの配給にも力を入れている。その最大のヒットが、全世界興行収入1179億円を超えた『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』だ。同作の日本以外の世界配給を担当したミッチェル・バーガー グローバルコマースEVPと、企業戦略、財務計画・分析など行うトラビス・ペイジCFOの対談を『日経エンタテインメント！』が独占取材した。劇場展開の目的と、今後の仕掛けとは？",
+      "published_at": "2026-07-22T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "仕掛け",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-22T12:11:49+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -36121,6 +36275,72 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-21T12:10:04+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Conagra’s new CEO ready to take ‘bold actions’ to turn around food giant",
+      "url": "https://www.fooddive.com/news/conagra-ceo-sales-snacking-inflation-slimjim-smucker/825313/",
+      "summary": "John Brase, who recently joined from J.M. Smucker, told Food Dive he is “not happy” with the Slim Jim maker's performance and that divestitures of brands could be on the table.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-07-22T12:11:59+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Leftovers: Welch’s takes on Uncrustables | Campbell’s launches high-protein soups",
+      "url": "https://www.fooddive.com/news/welchs-pbj-sandwich-campbells-protein-soup-cann-zero-thc/825524/",
+      "summary": "The juice and jelly brand is launching a refrigerated PB&J, while Cann removes THC for a new mood-boosting drink.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-22T12:11:59+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "PepsiCo improves sustainable sourcing, delays emissions reporting",
+      "url": "https://www.fooddive.com/news/pepsico-improves-sustainable-sourcing-delays-emissions-reporting/825276/",
+      "summary": "The company adjusted its environmental targets last year “to what we have confidence we can achieve.”",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-22T12:11:59+08:00"
     }
   ]
 }

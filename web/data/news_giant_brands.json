@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-21T17:24:44",
+  "last_updated": "2026-07-22T12:11:46",
   "retention_days": 7,
-  "total": 359,
+  "total": 361,
   "s_count": 25,
   "a_count": 3,
-  "b_count": 331,
+  "b_count": 333,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -39,12 +39,23 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
-      "title": "「ひと手間かけた上質なうまさ」をお届けする「麒麟特製」から「麒麟特製 完熟梅干しサワー（期間限定）」新発売！",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0721_01.html",
-      "published_at": "2026-07-21T02:00:05",
+      "title": "「キリン一番搾り生ビール」が日本のおいしい未来のために、「新しいおいしさ」づくりに挑戦する生産者を応援する 「一番搾りACTION」を開始",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0722_01.html",
+      "published_at": "2026-07-22T01:00:10",
       "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "キリンのシチコリン素材を配合した認知機能サポートサプリをブラックモアズがオーストラリア・ニュージーランドで7月に発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0722_02.html",
+      "published_at": "2026-07-22T01:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Asahi",
@@ -52,10 +63,21 @@
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-21T00:00:00",
+      "published_at": "2026-07-22T00:00:00",
       "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「ひと手間かけた上質なうまさ」をお届けする「麒麟特製」から「麒麟特製 完熟梅干しサワー（期間限定）」新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0721_01.html",
+      "published_at": "2026-07-21T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
     },
     {
       "brand": "Nissin",
