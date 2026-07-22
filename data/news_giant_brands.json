@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-22T12:11:46",
+  "last_updated": "2026-07-22T17:23:48",
   "retention_days": 7,
-  "total": 361,
-  "s_count": 25,
+  "total": 363,
+  "s_count": 26,
   "a_count": 3,
-  "b_count": 333,
+  "b_count": 334,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -1332,6 +1332,17 @@
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Monsters Cereals Celebrate 55 Years of Halloween Memories with an Encore Collaboration in Partnership with The Jim Henson Company",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/monsters-cereals-celebrate-55-years-of-halloween-memories",
+      "published_at": "2026-05-31T00:00:00",
+      "summary": "It’s the most spooktacular time of year — Count Chocula, Boo Berry and Franken Berry are returning to the cereal aisle with new limited-edition packaging featuring puppets from Jim Henson’s Creature S",
+      "level": "S",
+      "level_reason": "营销创新"
     },
     {
       "brand": "Kirin",
@@ -4001,6 +4012,17 @@
       "region": "北美",
       "title": "Careers(Opens a new window)",
       "url": "https://careers.mars.com/",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "News and Stories",
+      "url": "https://www.generalmills.com/news-and-stories",
       "published_at": "",
       "summary": "",
       "level": "B",
