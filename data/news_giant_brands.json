@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-23T12:02:04",
+  "last_updated": "2026-07-23T17:21:26",
   "retention_days": 7,
-  "total": 364,
+  "total": 365,
   "s_count": 26,
   "a_count": 3,
-  "b_count": 335,
+  "b_count": 336,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -47,6 +47,28 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-07-23T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 K-증류주 ‘jari’, ‘2026 서울바앤스피릿쇼’ 참가2026.07.23",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1791",
+      "published_at": "2026-07-23T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -65,17 +87,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0722_02.html",
       "published_at": "2026-07-22T01:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-22T00:00:00",
-      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
