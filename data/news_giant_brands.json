@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-22T17:23:48",
+  "last_updated": "2026-07-23T12:02:04",
   "retention_days": 7,
-  "total": 363,
+  "total": 364,
   "s_count": 26,
   "a_count": 3,
-  "b_count": 334,
+  "b_count": 335,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.23湖池屋「日本にはプライドがある! 湖池屋プライドポテトリニューアル プレゼントキャンペーン」 (7月23日より実施)",
+      "url": "https://www.nissin.com/jp/news/13830/",
+      "published_at": "2026-07-23T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",

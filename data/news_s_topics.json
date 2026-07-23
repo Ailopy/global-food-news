@@ -1,34 +1,210 @@
 {
-  "total": 1612,
-  "s_plus_count": 88,
+  "total": 1623,
+  "s_plus_count": 89,
   "watched_product_count": 0,
   "sites": [
-    "Food Dive",
-    "日経xTrend",
-    "日経新聞",
     "Packaging Digest",
-    "朝日グループYouTube"
+    "Food Dive",
+    "日経新聞",
+    "朝日グループYouTube",
+    "日経xTrend"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "其他": 1089,
-    "新产品": 191,
-    "品牌故事": 75,
-    "营销创新": 51,
+    "营销创新": 53,
+    "其他": 1094,
+    "品牌故事": 76,
+    "新产品": 192,
     "渠道新物种": 14,
-    "联名营销": 42,
+    "联名营销": 43,
     "新包装": 27,
     "行业政策": 44,
     "并购融资": 54,
     "新技术": 14,
-    "新原料": 11
+    "新原料": 12
   },
-  "last_updated": "2026-07-22 12:12",
-  "last_updated_iso": "2026-07-22T12:12:03.689058+08:00",
+  "last_updated": "2026-07-23 12:02",
+  "last_updated_iso": "2026-07-23T12:02:25.294791+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Juice=Juiceをバズらせたファン目線のTikTok動画、仕掛け人がフレームワークを大公開",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01397/00005/?n_cid=nbpnxr_rss",
+      "summary": "2025年8月に初披露された『盛れ！ミ・アモーレ』でJuice=Juiceが、SNSを中心に話題を集める中、テレビ出演と連動した施策が“TikTok万バズ”を生むなど大きな成果を上げた。仕掛けたのは、AIを活用して大量のショート動画を制作・配信するオフショアカンパニーだ。",
+      "published_at": "2026-07-23T00:01:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "初披露",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-23T12:02:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ユニバの25周年パレード、じっくり2度観賞できる「交差点」が穴場",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01422/00002/?n_cid=nbpnxr_rss",
+      "summary": "アトラクションと双璧を成す、ユニバーサル・スタジオ・ジャパンの目玉がパレードだ。2027年1月11日までは、25周年記念の「NO LIMIT! パレード ～Discover U!!! バージョン～」が行われている。この記事ではパレードを現地で満喫する方法を紹介する。本文最後には、見やすく整理した本誌記事のPDFファイルを用意している。そちらもぜひ確認してほしい。",
+      "published_at": "2026-07-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-23T12:02:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "楽天とShopify幹部が徹底議論 「エージェンティックコマース」未来予想図",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01405/00023/?n_cid=nbpnxr_rss",
+      "summary": "AIが購買体験の主軸を担う「エージェンティックコマース」が大きな注目を集めている。今後、購買体験はどのように変化していくのか。2026年7月28日（火）～30日（木）に開催する「日経クロストレンドFORUM 2026」では、楽天グループ 執行役員 コマース&マーケティングカンパニー マーケットプレイス事業 楽天市場編成部 ジェネラルマネージャーの髙間真里氏と、Shopify Japanカントリーマネージャーの馬場道生氏が登壇。最前線を走る2社が徹底議論する。",
+      "published_at": "2026-07-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-23T12:02:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "次のマーケの鍵は「レジリエンス」 完全解説「カンヌライオンズ2026」後編",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00005/?n_cid=nbpnxr_rss",
+      "summary": "「カンヌライオンズ2026」のグランプリを受賞した全事例を3回に分けて紹介する。今回は後編。十数年にわたってカンヌライオンズに参加し、取材してきた河尻亨一氏が、確かな目線で一つひとつの受賞事例を解説する。最先端のクリエイティブから、世界が今、何を課題とし、どの方向に進もうとしているのかが見えてくる。",
+      "published_at": "2026-07-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-23T12:02:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ポカリを越えたUHA味覚糖のアイススラリー 「忍者めし」をあえて採用",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01429/00004/?n_cid=nbpnxr_rss",
+      "summary": "「夏に売れる商品が少ない」。UHA味覚糖が長年抱えてきた、そんな課題を解決するために開発されたのが、「忍者めしアイススラリー」だ。小分け包装、徹底した味づくり、そしてグミブランド「忍者めし」の活用――。製薬会社が先行する市場に、菓子メーカーらしい発想で差別化しながら参入し、大きな成果を上げつつある。その背景にある、テスト販売を重視する商品開発の考え方や、独自の商品を生み出す社内風土に迫る。",
+      "published_at": "2026-07-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-07-23T12:02:07+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Gemini Notebookで“AIブレーン”を量産 Gemini連係で多視点分析も",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00010/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月3日発売の「日経トレンディ2026年8月号」では、「AI即戦力仕事術」を特集。Gemini Notebook（旧NotebookLM）なら、マニュアルや営業資料、専門サイトを情報源に“専用ブレーン”を構築可能。さらにGeminiと組み合わせれば、複数分野の知見を横断し、仕事や学習の相談相手にもできる。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-07-23T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-23T12:02:07+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Judge Mocks Challenge to Nestlé’s ‘100% Real Chocolate’ Claim",
+      "url": "https://www.packagingdigest.com/labeling/judge-mocks-challenge-to-nestl-s-100-real-chocolate-claim",
+      "summary": "In deciding Foster v. Nestlé USA, the court scoffed at plaintiff’s claim, calling it “100% dismissed” due to the composition and definition of chocolate.",
+      "published_at": "2026-07-22T20:07:25Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-23T12:02:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "次のマーケの鍵は「レジリエンス」 完全解説「カンヌライオンズ2026」後編",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiSjZuVzJWNmEtU1JJSzdQQXMxQnhLTk5YMGo2NUJjX2pSQjJKcUZmSVd2ZG5Ud2E5YnlUQm5ZRzdJcmtlaUhzRjdrSEVxd0oyMi1HWGw4N0g5c1VHM1p3NTBoUEtQdw?oc=5",
+      "summary": "次のマーケの鍵は「レジリエンス」 完全解説「カンヌライオンズ2026」後編&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-07-22T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-23T12:02:04+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -36341,6 +36517,78 @@
       ],
       "primary_category": "品牌故事",
       "scraped_at": "2026-07-22T12:11:59+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Kraft Heinz, Disney enter long-term strategic marketing partnership",
+      "url": "https://www.fooddive.com/news/kraft-heinz-disney-enter-long-term-strategic-marketing-partnership/825761/",
+      "summary": "The partnership spans marketing campaigns, digital content and other branded opportunities across Disney’s media outlets, cruise line, parks and events.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-07-23T12:02:20+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "General Mills subpoenaed in Florida ingredients investigation",
+      "url": "https://www.fooddive.com/news/florida-ingredients-investigation-general-mills-potassium-bromate/825656/",
+      "summary": "The state’s attorney general is requesting safety information and documentation from the Pillsbury owner connected to breadmaking additive potassium bromate.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        }
+      ],
+      "primary_category": "新原料",
+      "scraped_at": "2026-07-23T12:02:20+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Coca-Cola suspends Fairlife production after ransomware attack",
+      "url": "https://www.fooddive.com/news/ransomware-attack-coca-cola-suspend-production-dairy/825551/",
+      "summary": "The beverage company is still working to determine the full scope of the breach at its dairy business.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-23T12:02:20+08:00"
     }
   ]
 }
