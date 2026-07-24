@@ -1,23 +1,23 @@
 {
-  "total": 1593,
-  "s_plus_count": 85,
+  "total": 1601,
+  "s_plus_count": 86,
   "watched_product_count": 0,
   "sites": [
-    "Packaging Digest",
-    "日経xTrend",
     "Food Dive",
-    "日経新聞",
-    "朝日グループYouTube"
+    "日経xTrend",
+    "朝日グループYouTube",
+    "Packaging Digest",
+    "日経新聞"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "营销创新": 43,
-    "其他": 1084,
+    "营销创新": 45,
+    "新产品": 189,
+    "其他": 1088,
     "品牌故事": 74,
-    "新产品": 187,
     "渠道新物种": 14,
     "联名营销": 43,
     "新包装": 25,
@@ -26,9 +26,147 @@
     "新技术": 13,
     "新原料": 12
   },
-  "last_updated": "2026-07-23 19:00",
-  "last_updated_iso": "2026-07-23T19:00:05.181412+08:00",
+  "last_updated": "2026-07-24 12:01",
+  "last_updated_iso": "2026-07-24T12:01:01.181788+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "バイロン・シャープが“宿敵”と合意した「5つの真実」 差別化は無意味？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00009/?n_cid=nbpnxr_rss",
+      "summary": "「カンヌライオンズ2026」で実現したマーケティングの世界で物議を醸す研究者2人の対談を、一橋大学で客員研究員も務める花王のマーケター、廣澤祐氏が分析。その前提としてバイロン・シャープ氏とマーク・リットソン氏の思想の違いを明らかにした前回に続き、今回は対談で2人が合意した「5つの真実」を解説する。",
+      "published_at": "2026-07-24T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-24T12:00:47+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ドンキ「批判を起爆剤にする商品設計」 “うるさいエアコン”3万台超え",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01429/00006/?n_cid=nbpnxr_rss",
+      "summary": "「うるさい」「部屋を適温に設定しにくい」。批判の声も多いプライベートブランドのエアコンが、2023年の全国発売以降、累計販売台数が3万4000台超のヒットを記録している。そんな異色の商品が、ドン・キホーテを展開するパン・パシフィック・インターナショナルホールディングスの「どこでも置くだけエアコン」。ヒットした裏には、エアコンの設置工事待ちの長期化に着目した商品開発と、ネガティブな評価を起爆剤にして売るという驚きの戦略が練られていた。",
+      "published_at": "2026-07-24T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "累計販売",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-24T12:00:47+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Claude Codeより初心者向き Gemini Canvasで“欲しいアプリ”を作る",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00012/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月3日発売の「日経トレンディ2026年8月号」では、「AI即戦力仕事術」を特集。プログラミング経験がなくても、AIに「こんなツールが欲しい」と伝えるだけでアプリを作れる時代が来た。注目の「バイブコーディング」は、初心者の業務改善をどう変えるのか。GeminiのCanvas機能を使い、要約・思考支援付き「付箋メモ」を作る手順から、実用化に欠かせない改善の勘所までを解説する。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-07-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-07-24T12:00:47+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "カンヌ最注目、コトラーに挑む2大マーケ論客がガチンコ対談",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00008/?n_cid=nbpnxr_rss",
+      "summary": "「カンヌライオンズ2026」の数ある講演の中でも、一橋大学で客員研究員も務める花王のマーケター、廣澤祐氏が最も注目した講演は、マーケティングの世界で物議を醸す研究者2人の対談。オーストラリアのアデレード大学アレンバーグ・バス研究所所長で教授のバイロン・シャープ氏と、カンヌライオンズの名物論客で、英ロンドン・ビジネス・スクールなどで教壇に立ってきたマーク・リットソン氏だ。ここでは対談の本質を理解するために、まずは2人の思想・理論の違いを明らかにする。",
+      "published_at": "2026-07-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-07-24T12:00:47+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ユニバがトップ3に2つ、2位は三重県に スゴいアトラクショントップ10",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01422/00003/?n_cid=nbpnxr_rss",
+      "summary": "テーマパークの華といえばアトラクション。そこでしか体験できない魅力を持つアトラクションがあるだけで、来園する動機となる。本記事では、独自に作成した全国テーマパークの「アトラクションランキング」トップ10を公開。ユニバーサル・スタジオ・ジャパンを訪れる人は必読だ。何せ、トップ3に2つ、ランキング全体には4つも送り込んでいる。その顔ぶれを確認しておこう。本文最後には、ほかのテーマパークのアトラクションについても解説した本誌記事のPDFファイルを用意している。そちらもぜひ確認してほしい。",
+      "published_at": "2026-07-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-24T12:00:47+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "英百貨店やネスレ直営店に学ぶ AI時代に行列ができる店の共通項",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01913/?n_cid=nbpnxr_rss",
+      "summary": "AIが需要を先回りし、消費者と商品を結ぶ。そんな時代の中で、効率よく「売る」ことではなく、人がわざわざ時間を使い、足を運び、記憶として持ち帰りたくなる理由をいかに生み出すか。小売りイベント「Shoptalk Europe 2026」で浮かび上がった英百貨店やNespresso直営店の事例から、リアル店舗の存在意義を再考する。",
+      "published_at": "2026-07-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-24T12:00:47+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -35893,6 +36031,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-23T12:02:20+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "JM Smucker snags Hershey exec as SVP of operations, supply chain",
+      "url": "https://www.fooddive.com/news/jm-smucker-snags-hershey-exec-as-svp-of-operations-supply-chain/825845/",
+      "summary": "Douglas Guilherme will step into the role on July 29 with over 30 years of experience, including stints at the chocolate maker and Procter & Gamble.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-24T12:00:56+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How Dum Dums owner Spangler created a candy empire built on nostalgia",
+      "url": "https://www.fooddive.com/news/Spangler-nostalgia-candy-dum-dums-sweethearts/822402/",
+      "summary": "The sweets maker has carved out an enviable niche in the $55 billion candy space with a unique collection of brands with storied histories, such as Sweethearts and Bit-O-Honey.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-07-24T12:00:56+08:00"
     }
   ]
 }
