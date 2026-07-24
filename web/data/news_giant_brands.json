@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-23T17:21:26",
+  "last_updated": "2026-07-24T12:00:44",
   "retention_days": 7,
-  "total": 365,
+  "total": 366,
   "s_count": 26,
   "a_count": 3,
-  "b_count": 336,
+  "b_count": 337,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "キリンとイムノセンス、唾液1滴を用いた日常生活における状態把握の新たなアプローチに関する実証実験を実施",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0724_01.html",
+      "published_at": "2026-07-24T01:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
