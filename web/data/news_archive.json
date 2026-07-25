@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T10:21:43.744530+08:00",
-  "total": 6056,
+  "last_updated": "2026-07-25T14:24:34.829127+08:00",
+  "total": 6065,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -11,6 +11,114 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "66e4f17f824d56a9",
+      "title": "【2026年7月第4週】アイス・コンビニアイスランキング1位はMOW Wジェラート塩バニラ＆メロン！ハーゲンダッツ新作も続々登場まとめ",
+      "summary": "暑さが続く7月最終週、アイスコーナーに熱い視線が集まっています。今週のもぐナビアイス・コンビニアイスランキングは、新商品や急上昇商品が顔を揃え、目が離せないラ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24437/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3ea1248c1794e55a",
+      "title": "今週新発売のたまご味まとめ！『目玉焼きサンド　茨城県産たまご使用』、『照焼チキンとたまごのサンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！たまご味の新商品情報をお届けします。今週新発売の#たまご味セブン-イレブン 目玉焼きサンド 茨城県産たまご使用茨城県産たまごを…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072506/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "bc0af55bd2021328",
+      "title": "【2026年7月第4週】プリン・ゼリー・カップデザートランキング1位はメイトー 和メープルプリン！新商品・急上昇商品まとめ",
+      "summary": "暑い季節にひんやりスイーツが恋しくなる今週、プリン・ゼリー・カップデザートのランキングにはバラエティ豊かな顔ぶれが揃いました。新商品あり、久しぶりのランクイン…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24436/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "da01eb999605c5fd",
+      "title": "今週新発売の海老まとめ！『ポテトチップス　桜えび味　たまねぎ薫るかき揚げ風味』、『焙煎ごまタルタルシュリンプ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！海老の新商品情報をお届けします。今週新発売の#海老カルビー ポテトチップス 桜えび味 たまねぎ薫るかき揚げ風味 袋50g●駿河…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072505/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "75d4d83891bcf91e",
+      "title": "【2026年7月第4週】ケーキ・洋菓子ランキング1位はヤマザキ北海道チーズ蒸しケーキのミルククリームサンド！新商品・急上昇商品まとめ",
+      "summary": "7月も後半に突入し、夏の気分を盛り上げてくれるスイーツが続々と登場しています。今週のケーキ・洋菓子ランキングは新商品ラッシュで、どれを食べようか迷ってしまうほ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24435/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d2c9fc5bbaa907e0",
+      "title": "今週新発売のおつまみまとめ！『冷製国産鶏レバー煮』、『酢もつ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！おつまみの新商品情報をお届けします。今週新発売の#おつまみセブン-イレブン 冷製国産鶏レバー煮醤油と砂糖などで甘辛く煮た、おつ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072504/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e46095485412e272",
+      "title": "【2026年7月第4週】惣菜パンランキング1位はヤマザキ コッペパン ソース焼そば！新商品＆急上昇商品まとめ",
+      "summary": "市販パンファンの皆さん、今週も惣菜パンランキングの時間がやってきました！新商品がずらりと顔を揃え、見ているだけでお腹が空いてくるようなラインナップです。さっそ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24434/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "824dd1762b1010ad",
+      "title": "今週新発売の和風食品まとめ！『香る旨みつゆ　別府冷麺』、『オクラと長芋の春雨つるりんサラダ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風セブン-イレブン 香る旨みつゆ 別府冷麺コシのあるのど越しの良い麺と、透き通…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072503/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4f42087e8e423d2b",
+      "title": "Two bacon brands recalled for lack of reinspection at the Canadian border",
+      "summary": "Maple Leaf Foods Inc. of Lisle, IL, is recalling 12,036 pounds of not ready-to-eat smoked bacon products that were imported from Canada without the benefit of import reinspection into the United…",
+      "url": "https://www.foodsafetynews.com/2026/07/two-bacon-brands-recalled-for-lack-of-reinspection-at-the-canadian-border/",
+      "published_at": "2026-07-25T10:23:34+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
       "level": "A",
       "language": "en"
     },
