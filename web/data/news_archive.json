@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T14:24:34.829127+08:00",
-  "total": 6065,
+  "last_updated": "2026-07-25T18:20:10.515154+08:00",
+  "total": 6069,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -13,6 +13,54 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "1b5ce84f2247a8e8",
+      "title": "「熱中症対策の一助に」カフェで新施策　「ベックスコーヒーショップ」ほぼ全店でカバヤ食品の「塩分チャージ」期間限定配布",
+      "summary": "JR東日本クロスステーションフーズカンパニーが運営するエキナカのカフェ「ベックスコーヒーショップ」（ベックスコーヒー）では、新施策として、ほぼ全店舗で来店客にカバヤ食品の「塩分チャージタブレッツ」（塩分チャージ）を期間 […] ソース",
+      "url": "https://shokuhin.net/154093/2026/07/25/kakou/kashi/",
+      "published_at": "2026-07-25T17:56:20+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "718050be8ef4fe2b",
+      "title": "今週新発売のレモンまとめ！『じゃがりこ　ほろにがレモン味』、『レモンジュレで食べるサーモンカルパッチョ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！レモンの新商品情報をお届けします。今週新発売の#レモンカルビー じゃがりこ ほろにがレモン味 カップ52g●レモンの爽やかな酸…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072508/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "482b8d1afe74f582",
+      "title": "今週新発売の梅味まとめ！『寿司おむすび梅しそたくあん』、『ぷちもち食感！もち麦おむすび　梅ひじき』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！梅味の新商品情報をお届けします。今週新発売の#梅味セブン-イレブン 寿司おむすび梅しそたくあんカリカリ梅とたくあんを混ぜ込んだ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072507/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "abc17939d2790e7a",
+      "title": "【2026年7月第4週】和菓子・その他ランキング1位はヤマザキ月餅サンド！新商品・急上昇商品も続々まとめ",
+      "summary": "暑い季節でも、和菓子やスイーツへの愛は冷めません。今週の「和菓子・その他」ランキングには、夏らしいひんやり系から定番のどら焼き、個性派の月餅サンドまで、バラエ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24438/?utm_source=rss&utm_medium=mognavinews_20260725",
+      "published_at": "2026-07-25T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "66e4f17f824d56a9",
