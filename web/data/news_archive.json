@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T14:42:40.086957+08:00",
-  "total": 6097,
+  "last_updated": "2026-07-26T18:28:37.877625+08:00",
+  "total": 6100,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -13,6 +13,42 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "60915391636e7fb8",
+      "title": "真夏のビール！トレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ビール」の最新・注目度ランキングです♪（2026年7月24日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-24466/?utm_source=rss&utm_medium=mognavinews_20260726",
+      "published_at": "2026-07-26T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c7a76a67a93aeeb9",
+      "title": "今週新発売のダイエットまとめ！『鶏唐揚げの黒酢あん弁当　もち麦入りご飯』、『塩糀仕立ての銀鮭のり弁当　もち麦入りご飯』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ダイエットの新商品情報をお届けします。今週新発売の#ダイエットナチュラルローソン 鶏唐揚げの黒酢あん弁当 もち麦入りご飯黒酢あ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072608/?utm_source=rss&utm_medium=mognavinews_20260726",
+      "published_at": "2026-07-26T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5b07d211a1e981e3",
+      "title": "今週新発売のフルーツまとめ！『しろくまトロピカル』、『スムージーボウル　アサイーヨーグルトボウル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！フルーツの新商品情報をお届けします。今週新発売の#フルーツ丸永 しろくまトロピカル南国感たっぷりのトロピカル氷に、練乳・バニラ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072607/?utm_source=rss&utm_medium=mognavinews_20260726",
+      "published_at": "2026-07-26T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "62c3482f4bf93e04",
