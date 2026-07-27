@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T15:39:42.024136+08:00",
-  "total": 6169,
+  "last_updated": "2026-07-27T20:11:09.977734+08:00",
+  "total": 6188,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -13,6 +13,126 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "6525aa8b14108c2a",
+      "title": "Campbell’s Chunky Soup expands into frozen meals",
+      "summary": "The offerings, which contain up to 28 grams of protein and feature some of the soup’s most popular flavors, bring the brand into a new part of the store.",
+      "url": "https://www.fooddive.com/news/campbells-chunky-soup-expands-into-frozen-meals/825880/",
+      "published_at": "2026-07-27T20:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "333f370142053e0f",
+      "title": "ちょっとツマミたい！コンビニ寿司のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニ寿司」の最新・注目度ランキングです♪（2026年7月24日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-24499/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "01922e080a182426",
+      "title": "今週新発売の菓子パン🍫まとめ！『レモンとレアチーズサンド』、『ヤキリンゴ　バナナ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン レモンとレアチーズサンド 袋2個もちもちとした生地で、…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072708/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5f93b6dc4f8e0ac0",
+      "title": "銀だこで焼きそばが540円、194円お得なキャンペーン開催【3日間限定】",
+      "summary": "たこ焼きチェーンの「築地銀だこ」は、導入店舗100店舗達成を記念し、新タイプの『ソース焼きそば』を特別価格で販売する「発売記念キャンペーン」を7月29日から7月31日までの3日間、全国の築地銀だこ店舗(一部店舗を除く)で...",
+      "url": "https://www.ssnp.co.jp/foodservice/694834/",
+      "published_at": "2026-07-27T17:12:34+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "0c2a58dc49193d2d",
+      "title": "Future proofing CPG portfolios with natural ingredients",
+      "summary": "Reformulating with natural ingredients? Learn how brands can protect quality, shelf life and consumer trust.",
+      "url": "https://www.fooddive.com/spons/future-proofing-cpg-portfolios-with-natural-ingredients/826092/",
+      "published_at": "2026-07-27T17:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "e618b8ae47ef6635",
+      "title": "Building a more resilient food and beverage supply chain with automation",
+      "summary": "Automation is transforming food and beverage distribution for speed, accuracy and growth.",
+      "url": "https://www.fooddive.com/spons/building-a-more-resilient-food-and-beverage-supply-chain-with-automation/825733/",
+      "published_at": "2026-07-27T17:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "7fce67ab2da28cd4",
+      "title": "Bain Capital to acquire Vitabiotics in global expansion push",
+      "summary": "The £900m-reported deal will see the private equity firm accelerate Vitabiotics' international growth, with investments planned in innovation, e-commerce, manufacturing and supply chain resilience",
+      "url": "https://nutraceuticalbusinessreview.com/bain-capital-to-acquire-vitabiotics-in-global-expansion",
+      "published_at": "2026-07-27T16:56:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "c9749063b3a38597",
+      "title": "【不二家】期間限定「ルック」「カントリーマアム」「ホームパイ」発売、芋と栗の味わいを楽しむ新商品",
+      "summary": "不二家は、秋の味覚である芋と栗を使用した期間限定商品「ルック(蜜芋スイートポテト&和栗モンブラン)」「カントリーマアム(熟成蜜芋)」「ホームパイミニ(熟成蜜芋)」を8月4日から全国で発売する。 ロングセラーブラン...",
+      "url": "https://www.ssnp.co.jp/snack/694813/",
+      "published_at": "2026-07-27T16:20:32+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "0b3415fea2326147",
+      "title": "OraCMU oral probiotic gains Health Canada approval",
+      "summary": "Stratum Nutrition is expanding its clinically researched oral probiotic ingredient OraCMU into Canada after securing a Health Canada product licence",
+      "url": "https://nutraceuticalbusinessreview.com/oracmu-oral-probiotic-gains-health-canada-approval",
+      "published_at": "2026-07-27T16:11:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "bf845d7c397264d1",
+      "title": "【クリスピー･クリーム･ドーナツ】日本上陸20周年記念アイテム発売、限定キャンディやエコバッグなど展開",
+      "summary": "クリスピー･クリーム･ドーナツ･ジャパンは、日本上陸20周年を記念したアニバーサリーアイテムを、2026年7月29日からクリスピー･クリーム･ドーナツ全店舗(一部店舗･催事を除く)および公式オンラインショップで販売する。...",
+      "url": "https://www.ssnp.co.jp/snack/694799/",
+      "published_at": "2026-07-27T15:43:30+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "21bb79244cde12a6",
@@ -72,6 +192,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "01150a78b4e51251",
+      "title": "今週新発売の菓子パン🍫まとめ！『北海道十勝練乳フランス』、『北海道メロンリング』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン 北海道十勝練乳フランス 袋1個北海道十勝練乳入りフィリ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072707/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -147,6 +279,18 @@
       "language": "ja"
     },
     {
+      "id": "5047f985f6b58691",
+      "title": "【2026年7月第4週】コンビニ惣菜ランキング1位はさばのおろしぽん酢！新商品・急上昇注目まとめ",
+      "summary": "コンビニ惣菜のランキング、今週はどんな商品がみなさんに愛されたのでしょうか。魚介からお肉、野菜まで、バリエーション豊かなラインナップが出そろいました。週の真ん…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24449/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "b08285529d01dcf2",
       "title": "【青柳総本家】「スライムういろう」と「スライムまんじゅう」を10月31日まで販売延長!",
       "summary": "青柳総本家は、スクウェア･エニックスと共同開発した「スライムういろう」と「スライムまんじゅう」を、2026年10月31日まで販売延長する。 「スライムまんじゅう」は、しっとりやわらかい薄皮生地の中に、甘さ控えめで素朴な味...",
@@ -171,6 +315,18 @@
       "language": "ja"
     },
     {
+      "id": "aac02d0b382e1fea",
+      "title": "今週新発売のアイスクリーム🍨🍦まとめ！『クールチョコミント』、『ガリガリ君　梨』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！アイスクリームの新商品情報をお届けします。今週新発売の#アイスクリーム赤城 クールチョコミント 200mlチョコ感だけでなく爽…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072706/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "cce09f4e3e8824c2",
       "title": "【ミスド】新デザインのユニフォームを9月より順次導入、全国のショップで働くスタッフが選んだデザインに",
       "summary": "ダスキンが運営するミスタードーナツは、全国のショップで働くスタッフが選んだ、新デザインのユニフォームを9月より順次導入する。 ユニフォームの刷新にあたっては、全国のショップで働くスタッフを対象にアンケートを実施し、もっと...",
@@ -183,12 +339,36 @@
       "language": "ja"
     },
     {
+      "id": "17185eef2542d595",
+      "title": "【2026年7月第4週】コンビニ麺・コンビニパスタランキング1位は町中華の冷し味噌ラーメン！新商品・久しぶりランクインも続々まとめ",
+      "summary": "暑さが続く7月、コンビニの麺コーナーがますます目が離せない季節になってきました。今週はどんな一杯がランキングを賑わせているのか、さっそく見ていきましょう！冷た…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24448/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "318b6e345ffb6fcd",
       "title": "丸永製菓 55周年へ「白くまバー」刷新 全国4都市で初サンプリング",
       "summary": "丸永製菓は、来年迎える「白くま」ブランド55周年を前に「白くまバー」をリニューアルし、7月4日～26日に全国4都市で計6000本のサンプリングを初実施した。永渕寛司常務取締役西日本統括営業部長は「55周年を前にブランド […] ソース",
       "url": "https://shokuhin.net/154220/2026/07/27/kakou/nyu/",
       "published_at": "2026-07-27T12:50:29+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ddb53766e27e4126",
+      "title": "今週新発売のローソンスイーツ🍰まとめ！『ミラノ風ティラミス』、『ぷるジュレいちごクレープ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ローソンスイーツの新商品情報をお届けします。今週新発売の#ローソンスイーツローソン Uchi Cafe’ ミラノ風ティラミスマ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072705/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T12:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -339,6 +519,18 @@
       "language": "en"
     },
     {
+      "id": "5ec6e550a02eb1b4",
+      "title": "【2026年7月第4週】コンビニスープ・コンビニ味噌汁ランキング1位は鶏つくねの和風生姜スープ！ちいかわ貝汁など新商品も続々まとめ",
+      "summary": "蒸し暑い夏の日も、ほっと一息つける温かいスープや味噌汁が恋しくなることってありますよね。2026年7月第4週のコンビニスープ・コンビニ味噌汁ランキングが出そろ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24447/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "00cfa6a3475564ab",
       "title": "コンビニ冷凍食品として初　“もちっ･カリッ･じゅわっ”を再現した冷凍「焼小籠包」発売【ファミマ】",
       "summary": "ファミリーマートは7月28日、プライベートブランド「ファミマルKITCHEN」から冷凍食品「焼小籠包」税込332円を、全国のファミリーマート約1万6,400店で発売する。 電子レンジで温めるだけで食べられる仕様で、焼小籠...",
@@ -375,6 +567,18 @@
       "language": "ja"
     },
     {
+      "id": "e97bd8230aa0c44a",
+      "title": "今週新発売のファミマスイーツ🍰まとめ！『ミルクサンド　キャラメルソース入り』、『芳醇で濃厚な甘み完熟マンゴー』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマスイーツの新商品情報をお届けします。今週新発売の#ファミマスイーツファミリーマート ファミマルSweets ミルクサン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072704/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "47453ddcb56a0fa2",
       "title": "吉野家、期間限定「牛金目鯛の煮付け定食」発売",
       "summary": "牛丼チェーンの吉野家は、期間限定商品「牛金目鯛の煮付け定食」を7月27日に発売した。牛肉だけでなく魚メニューも楽しんでもらいたいとの考えから、人気の高い金目鯛を使用した新たな魚定食として展開する。 【画像５点】吉野家の魚...",
@@ -387,6 +591,18 @@
       "language": "ja"
     },
     {
+      "id": "277d2f58fcd0ead7",
+      "title": "【2026年7月第4週】コンビニパンランキング1位はも～っちり食感クロワッサンロール！新商品・急上昇注目まとめ",
+      "summary": "7月の暑い季節にも、コンビニのパンコーナーはますます目が離せません。今週は新商品が勢ぞろいし、もちもち・とろとろ・ざくざくとバリエーション豊かなラインナップが…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24446/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "14ef4780be85eb1a",
       "title": "築地銀だこ、3日間限定「ぜったいうまい!!たこ焼」100円引き　『銀だこ祭り』開催",
       "summary": "築地銀だこは8月5日から、全国の店舗（一部店舗を除く）で、夏の恒例イベント「銀だこ祭り」を開催する。 2026年の「銀だこ祭り」では、8月5日～7日の3日間、創業以来人気No.1の「ぜったいうまい!! たこ焼」（ソース・...",
@@ -396,6 +612,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "41a8d425ebe29667",
+      "title": "今週新発売のセブンイレブンスイーツ🍰まとめ！『サクッとろクリームパイ』、『なめらかプリン　黒糖蜜入りカラメル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンスイーツの新商品情報をお届けします。今週新発売の#セブンイレブンスイーツセブン-イレブン サクッとろクリームパイ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072703/?utm_source=rss&utm_medium=mognavinews_20260727",
+      "published_at": "2026-07-27T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -4695,18 +4923,6 @@
       "language": "en"
     },
     {
-      "id": "fd62d1462c3d5915",
-      "title": "Snacks maker Utz Brands sold for $2.9B in go-private deal",
-      "summary": "The chip maker is being purchased by Germany-based Intersnack for $14.25 a share, with the transaction expected to close in the fourth quarter.",
-      "url": "https://www.fooddive.com/news/snacks-maker-utz-brands-sold-for-29b-in-go-private-deal/825754/",
-      "published_at": "2026-07-21T23:00:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
       "id": "15971b2cbb358fbb",
       "title": "Fave's flavor-forward clean-label mixes reinvent childhood drinks",
       "summary": "Find out how Fave's drink mixes are disrupting the childhood drink section with an emphasis on clean-label flavor and fun.",
@@ -4716,6 +4932,18 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "fd62d1462c3d5915",
+      "title": "Snacks maker Utz Brands sold for $2.9B in go-private deal",
+      "summary": "The chip maker is being purchased by Germany-based Intersnack for $14.25 a share, with the transaction expected to close in the fourth quarter.",
+      "url": "https://www.fooddive.com/news/snacks-maker-utz-brands-sold-for-29b-in-go-private-deal/825754/",
+      "published_at": "2026-07-21T23:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
