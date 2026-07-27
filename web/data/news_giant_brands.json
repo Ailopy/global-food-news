@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-27T12:30:27",
+  "last_updated": "2026-07-27T18:35:18",
   "retention_days": 7,
-  "total": 369,
+  "total": 375,
   "s_count": 26,
   "a_count": 3,
-  "b_count": 340,
+  "b_count": 346,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,17 @@
   ],
   "articles": [
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "キリンと弘前大学が共同研究講座「エイジング・システム医科学研究講座」を開設",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0727_02.html",
+      "published_at": "2026-07-27T05:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
@@ -58,6 +69,61 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-07-27T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.27日清食品「日清のどん兵衛 きつねうどん」「日清のどん兵衛 天ぷらそば」(9月上旬から順次リニューアル発売)",
+      "url": "https://www.nissin.com/jp/news/13838/",
+      "published_at": "2026-07-27T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.27日清食品「たまごと食べたら さらにおいしいトリオ」(8月10日発売)",
+      "url": "https://www.nissin.com/jp/news/13835/",
+      "published_at": "2026-07-27T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.27日清食品「完全メシ ガパオ風ライス」(8月10日発売)",
+      "url": "https://www.nissin.com/jp/news/13837/",
+      "published_at": "2026-07-27T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.27日清食品2026年8月発売商品のご案内",
+      "url": "https://www.nissin.com/jp/news/13833/",
+      "published_at": "2026-07-27T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -65,17 +131,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0724_01.html",
       "published_at": "2026-07-24T01:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-24T00:00:00",
-      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -4089,6 +4144,17 @@
       "region": "北美",
       "title": "News and Stories",
       "url": "https://www.generalmills.com/news-and-stories",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "研究拠点 アサヒクオリティアンドイノベーションズ",
+      "url": "https://www.asahigroup-holdings.com/rd/aqi/",
       "published_at": "",
       "summary": "",
       "level": "B",
