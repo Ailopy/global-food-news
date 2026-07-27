@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-26T17:09:17",
+  "last_updated": "2026-07-27T12:30:27",
   "retention_days": 7,
-  "total": 366,
+  "total": 369,
   "s_count": 26,
   "a_count": 3,
-  "b_count": 337,
+  "b_count": 340,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.27湖池屋「湖池屋揚げたて直送便 食塩不使用」(7月27日より受注販売開始)",
+      "url": "https://www.nissin.com/jp/news/13832/",
+      "published_at": "2026-07-27T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.27湖池屋「敵か味方かVIVANTポテトチップスか？プレゼントキャンペーン」(7月27日より実施)",
+      "url": "https://www.nissin.com/jp/news/13831/",
+      "published_at": "2026-07-27T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -217,6 +239,17 @@
       "region": "日本",
       "title": "北海道キリンビバレッジ株式会社の吸収合併について",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0716_03.pdf",
+      "published_at": "2026-07-16T01:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "北海道キリンビバレッジ株式会社の吸収合併について",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0716_03.html",
       "published_at": "2026-07-16T01:00:05",
       "summary": "",
       "level": "B",
