@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-27T18:35:18",
+  "last_updated": "2026-07-28T11:54:40",
   "retention_days": 7,
-  "total": 375,
-  "s_count": 26,
+  "total": 389,
+  "s_count": 28,
   "a_count": 3,
-  "b_count": 346,
+  "b_count": 358,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,105 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「氷結&reg;無糖」初ALC.4％限定品は「氷結&reg;」初のざくろフレーバー！甘くない、スッキリ爽快なおいしさの「キリン 氷結&reg;無糖 ざくろ ALC.4%（期間限定）」",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0728_03.html",
+      "published_at": "2026-07-28T02:00:15",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "ブリュワーの創造性に特化したシリーズ「SPRING VALLEY BREWERY BREWERS LINE #2 サワーツイストラガー」を数量限定発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0728_01.html",
+      "published_at": "2026-07-28T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "みんなでできる“ウォーキングフットボール”で、日本中を笑顔に。JFA×KIRIN共催「キリンファミリーチャレンジカップ2026 in大阪」を開催！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0728_02.html",
+      "published_at": "2026-07-28T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "9月28日（月）開催「キリンチャレンジカップ2026」の対戦国がベネズエラ代表に決定",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0728_04.html",
+      "published_at": "2026-07-28T00:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.28日清食品チルド「行列のできる店のラーメン」シリーズ2品 (9月1日発売)",
+      "url": "https://www.nissin.com/jp/news/13842/",
+      "published_at": "2026-07-28T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.28日清食品チルド「つけ麺の達人 スタミナ豚醤油 2人前」(9月1日発売)",
+      "url": "https://www.nissin.com/jp/news/13841/",
+      "published_at": "2026-07-28T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.28日清食品チルド「まぜ麺の達人 大盛り油そば 2人前」(9月1日発売)",
+      "url": "https://www.nissin.com/jp/news/13849/",
+      "published_at": "2026-07-28T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.28日清食品チルド「チルド 日清焼そばU.F.O. ぶっ濃い豚にんにく醤油 2人前」(9月1日発売)",
+      "url": "https://www.nissin.com/jp/news/13844/",
+      "published_at": "2026-07-28T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "神経と筋の繋がりに着目した新たな運動機能ケアの可能性を示唆 シチコリンにより、神経筋接合部形成促進と運動神経の活動同期性が向上することを確認",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0727_04.html",
+      "published_at": "2026-07-27T13:30:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -4155,6 +4254,61 @@
       "region": "日本",
       "title": "研究拠点 アサヒクオリティアンドイノベーションズ",
       "url": "https://www.asahigroup-holdings.com/rd/aqi/",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Subscribe now(Opens in a new tab)",
+      "url": "https://gmcorpcomms.newsweaver.com/A-Taste-of-General-Mills/193udhemqas",
+      "published_at": "",
+      "summary": "Contact us online,by phone 1-800-248-7310or read our FAQsSign up for our newsletter",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Community Rules(Opens in a new tab)",
+      "url": "https://www.generalmills.com/community-rules",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Slavery and Human Trafficking Statement(Opens in a new tab)",
+      "url": "https://www.generalmills.com/slavery-and-human-trafficking-statement",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "EEO Feb 23(Opens in a new tab)",
+      "url": "https://www.generalmills.com/api/download?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fgeneralmill1621-cmsplatforme170-production28a1-f426%2Fmedia%2FProject%2FGMI%2FCorporate%2FGeneralMills%2FEEO1Feb23.pdf",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "An Equal Opportunity Employer",
+      "url": "https://www.generalmills.com/api/download?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fgeneralmill1621-cmsplatforme170-production28a1-f426%2Fmedia%2FProject%2FGMI%2FCorporate%2Fcorporate-common%2FFiles%2FAbout-Us%2FGeneral-Mills-EEO-Policy.pdf",
       "published_at": "",
       "summary": "",
       "level": "B",
