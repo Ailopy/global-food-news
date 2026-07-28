@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-28T11:54:40",
+  "last_updated": "2026-07-28T17:32:38",
   "retention_days": 7,
-  "total": 389,
+  "total": 390,
   "s_count": 28,
   "a_count": 3,
-  "b_count": 358,
+  "b_count": 359,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -124,6 +124,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-07-28T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -164,17 +175,6 @@
       "url": "https://www.nissin.com/jp/news/13831/",
       "published_at": "2026-07-27T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-27T00:00:00",
-      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -371,6 +371,17 @@
       "region": "日本",
       "title": "「Japan Wine Competition（日本ワインコンクール）2026」にて「シャトー・メルシャン 桔梗ヶ原メルロー シグナチャー 2021」「シャトー・メルシャン 片丘 2023」の2品がメルシャン初となるグランドゴールド賞を受賞",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0716_04.pdf",
+      "published_at": "2026-07-16T04:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「Japan Wine Competition（日本ワインコンクール）2026」にて「シャトー・メルシャン 桔梗ヶ原メルロー シグナチャー 2021」「シャトー・メルシャン 片丘 2023」の2品がメルシャン初となるグランドゴールド賞を受賞",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0716_04.html",
       "published_at": "2026-07-16T04:00:05",
       "summary": "",
       "level": "B",
