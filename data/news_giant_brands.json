@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-28T17:32:38",
+  "last_updated": "2026-07-29T11:58:19",
   "retention_days": 7,
-  "total": 390,
-  "s_count": 28,
+  "total": 398,
+  "s_count": 29,
   "a_count": 3,
-  "b_count": 359,
+  "b_count": 366,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,94 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「一番搾り」ブランドより、冷やすと秋のモチーフが色づく秋デザイン缶を数量限定発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0729_01.html",
+      "published_at": "2026-07-29T02:00:15",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "子ども健康飲料の新たな接点を創出 飲料業界初ガチャガチャ機能付き飲料自動販売機を導入",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0729_02.html",
+      "published_at": "2026-07-29T02:00:10",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "世界初！脱水条件下における免疫細胞 pDC（プラズマサイトイド樹状細胞）の活性低下に対するキリンの独自素材「L.ラクティス プラズマ」の免疫機能維持効果を確認",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0729_04.pdf",
+      "published_at": "2026-07-29T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.29明星食品ヤバ。一平ちゃんと吉本新喜劇のほんま \"コテコテ\" なコラボ開幕 !   「明星 一平ちゃん夜店の焼そば」が「吉本新喜劇座員総選挙2026」のスポンサーに就任",
+      "url": "https://www.nissin.com/jp/news/13853/",
+      "published_at": "2026-07-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.29日清食品冷凍「冷凍 日清もちっと生パスタ」シリーズ2品 (9月1日発売)",
+      "url": "https://www.nissin.com/jp/news/13850/",
+      "published_at": "2026-07-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.29日清食品冷凍「冷凍 日清のどん兵衛 大盛 きつねうどん」「冷凍 日清のどん兵衛 大盛 肉うどん」(9月1日発売)",
+      "url": "https://www.nissin.com/jp/news/13843/",
+      "published_at": "2026-07-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.29日清食品冷凍「冷凍 完全メシ 日清まぜ麺亭 台湾まぜそば」(9月1日発売)",
+      "url": "https://www.nissin.com/jp/news/13845/",
+      "published_at": "2026-07-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "“동료에서 협업 셰프로”… CJ제일제당, 유용욱 셰프와 특별한 파트너십 이어간다2026.07.29",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1794",
+      "published_at": "2026-07-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
