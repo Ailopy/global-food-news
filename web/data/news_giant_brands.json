@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-30T11:49:51",
+  "last_updated": "2026-07-30T17:26:58",
   "retention_days": 7,
-  "total": 401,
-  "s_count": 30,
+  "total": 403,
+  "s_count": 31,
   "a_count": 3,
-  "b_count": 368,
+  "b_count": 369,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -52,6 +52,39 @@
       "region": "韩国",
       "title": "CJ제일제당, 식물성 웰니스 브랜드 ‘얼티브’ 새단장… 프로틴 음료 이어 ‘두유’로 포트폴리오 확대2026.07.30",
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1795",
+      "published_at": "2026-07-30T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-07-30T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.07.30湖池屋「KOIKEYA The燻塩 ヒッコリースモークチップ」(7月30日より数量限定発売)",
+      "url": "https://www.nissin.com/jp/news/13834/",
+      "published_at": "2026-07-30T00:00:00",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "執行役に対する中期業績連動型株式報酬制度の継続に伴う自己株式処分に関するお知らせ[適時開示]",
+      "url": "https://news.ajinomoto.co.jp/2026/07/2026_07_30_02.pdf",
       "published_at": "2026-07-30T00:00:00",
       "summary": "",
       "level": "B",
@@ -142,17 +175,6 @@
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1794",
       "published_at": "2026-07-29T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-29T00:00:00",
-      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
