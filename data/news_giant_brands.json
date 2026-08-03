@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-03T12:23:40",
+  "last_updated": "2026-08-03T18:34:30",
   "retention_days": 7,
-  "total": 417,
+  "total": 418,
   "s_count": 31,
   "a_count": 4,
-  "b_count": 382,
+  "b_count": 383,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -91,6 +91,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-08-03T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -124,17 +135,6 @@
       "level_reason": "企业动态"
     },
     {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-07-31T00:00:00",
-      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
@@ -153,6 +153,17 @@
       "url": "https://www.nissin.com/jp/news/13859/",
       "published_at": "2026-07-31T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "2026년 7월 신제품을 소개합니다Food2026.07.31",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/109",
+      "published_at": "2026-07-31T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
       "level": "B",
       "level_reason": "企业动态"
     },
