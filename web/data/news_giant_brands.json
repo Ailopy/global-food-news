@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-02T17:06:19",
+  "last_updated": "2026-08-03T12:23:40",
   "retention_days": 7,
-  "total": 411,
+  "total": 417,
   "s_count": 31,
   "a_count": 4,
-  "b_count": 376,
+  "b_count": 382,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,61 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.03日清食品「ネコスエ～ル イヌスエ～ル」(8月3日発売)",
+      "url": "https://www.nissin.com/jp/news/13840/",
+      "published_at": "2026-08-03T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.03日清食品チルド「AFURI 柚子塩らーめん 2人前」(9月1日発売)",
+      "url": "https://www.nissin.com/jp/news/13855/",
+      "published_at": "2026-08-03T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.03日清食品チルド「スープの達人 鶏と蛤だしの淡麗醤油 1人前」(9月1日発売)",
+      "url": "https://www.nissin.com/jp/news/13848/",
+      "published_at": "2026-08-03T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.03日清食品チルド2026年9月発売商品のご案内",
+      "url": "https://www.nissin.com/jp/news/13856/",
+      "published_at": "2026-08-03T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "味の素㈱ 業務用リニューアル品のご案内",
+      "url": "https://news.ajinomoto.co.jp/2026/08/20260803.html",
+      "published_at": "2026-08-03T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -173,6 +228,17 @@
       "region": "日本",
       "title": "世界初！脱水条件下における免疫細胞 pDC（プラズマサイトイド樹状細胞）の活性低下に対するキリンの独自素材「L.ラクティス プラズマ」の免疫機能維持効果を確認",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0729_04.pdf",
+      "published_at": "2026-07-29T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "世界初！脱水条件下における免疫細胞 pDC（プラズマサイトイド樹状細胞）の活性低下に対するキリンの独自素材「L.ラクティス プラズマ」の免疫機能維持効果を確認",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0729_04.html",
       "published_at": "2026-07-29T02:00:05",
       "summary": "",
       "level": "B",
