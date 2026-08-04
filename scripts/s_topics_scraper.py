@@ -19,7 +19,7 @@ from dateutil import parser as dateparser
 
 from s_topics_config import (
     S_TOPIC_SITES, S_PLUS_KEYWORDS, CATEGORY_KEYWORDS,
-    PRODUCT_WATCH_LIST, FOOD_BEV_RELEVANCE_KEYWORDS, FOOD_BEV_EXCLUDE_KEYWORDS,
+    FOOD_BEV_RELEVANCE_KEYWORDS, FOOD_BEV_EXCLUDE_KEYWORDS,
     FOOD_BEV_COMPANY_NAMES,
 )
 
@@ -139,20 +139,6 @@ def is_s_plus(title, summary=""):
         if kw.lower() in text:
             return True, kw
     return False, ""
-
-
-# ── 重点产品盯梢检测 ─────────────────────────────────────────────
-def check_product_watch(title, summary=""):
-    """
-    检查是否命中重点产品盯梢清单。
-    返回 (watched: bool, product_info: dict or None)
-    """
-    text = (title + " " + summary).lower()
-    for pw in PRODUCT_WATCH_LIST:
-        for kw in pw["keywords"]:
-            if kw.lower() in text:
-                return True, pw
-    return False, None
 
 
 # ── 食品饮料行业过滤 ─────────────────────────────────────────────
@@ -530,9 +516,6 @@ def scrape_site(site):
         # S+ 判断
         is_sp, sp_reason = is_s_plus(title, summary)
 
-        # 重点产品盯梢检测
-        watched, product_info = check_product_watch(title, summary)
-
         entry = {
             "site_name": site["name"],
             "site_name_en": site["name_en"],
@@ -548,13 +531,6 @@ def scrape_site(site):
             "primary_category": categories[0]["name"],  # 主品类
             "scraped_at": now_cst().strftime("%Y-%m-%dT%H:%M:%S+08:00"),
         }
-
-        # 产品盯梢标记
-        if watched:
-            entry["watched_product"] = True
-            entry["watched_product_name"] = product_info["product_name"]
-            entry["watched_priority"] = product_info["priority"]
-            log.info(f"  🔔 产品盯梢命中: {title} → {product_info['product_name']}")
 
         # YouTube 视频附加字段
         if art.get("is_video"):
@@ -647,7 +623,6 @@ def main():
 
     # 统计
     s_plus_count = sum(1 for a in merged if a.get("is_s_plus"))
-    watched_count = sum(1 for a in merged if a.get("watched_product"))
     sites_active = list({a["site_name"] for a in merged})
     regions_active = list({a["region"] for a in merged})
     cat_stats = {}
@@ -658,7 +633,6 @@ def main():
     output = {
         "total": len(merged),
         "s_plus_count": s_plus_count,
-        "watched_product_count": watched_count,
         "sites": sites_active,
         "regions": regions_active,
         "category_stats": cat_stats,
@@ -672,7 +646,7 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     log.info(f"✅ 写入 {OUTPUT_FILE}")
-    log.info(f"   S+级: {s_plus_count} | 产品盯梢: {watched_count} | 活跃站点: {len(sites_active)} | 地区: {len(regions_active)}")
+    log.info(f"   S+级: {s_plus_count} | 活跃站点: {len(sites_active)} | 地区: {len(regions_active)}")
     log.info(f"   品类分布: {cat_stats}")
     log.info(f"   ⭐ 食品饮料行业过滤已启用：仅收录与食品饮料行业相关的资讯")
 
