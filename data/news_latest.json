@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T09:39:41.312866+08:00",
+  "last_updated": "2026-08-04T10:08:35.981100+08:00",
   "retention_days": 7,
   "total": 554,
   "sources": [
@@ -28,6 +28,66 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "902db1a66ba6e93b",
+      "title": "【2026年7月第5週】インスタントラーメン・袋めんランキング1位はズバーン鶏中華そば！夏の冷し中華や辛麺も急上昇まとめ",
+      "summary": "今週のインスタントラーメン・袋めんランキング、結果が出ました！暑い日が続くこの時期でも、手軽においしい一杯を楽しめる袋めんへの注目は衰え知らず。今週はどんな商…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24748/?utm_source=rss&utm_medium=mognavinews_20260804",
+      "published_at": "2026-08-04T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8e659d39eedce3c2",
+      "title": "季節で考えるごはんPJ第1弾、「冷やしメシ」試食会を開催＝JA全農",
+      "summary": "全国農業協同組合連合会(JA全農)は7月29日、都内で「冷やしメシ」と「夏休みお留守番ランチ」のプレス向け試食会を開催した。 JA全農米穀部の藤井暁部長とお米料理研究家しらいのりこさんが登壇。藤井部長が猛暑期の食卓実態調...",
+      "url": "https://www.ssnp.co.jp/rice/696159/",
+      "published_at": "2026-08-04T09:48:18+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "a5320a132fa3436a",
+      "title": "セブン‐イレブン「長野県150周年記念フェア」開催　信州味噌・野沢菜・おやきなど地域食材を使った限定商品発売",
+      "summary": "セブン‐イレブンは8月4日から、「長野県150周年記念フェア」を開催している。長野県内約450店舗で、味噌や糀などの発酵素材や、長野県の伝統野菜を使用した限定商品を順次発売する。 明治9（1876）年8月21日に筑摩県と...",
+      "url": "https://www.ssnp.co.jp/distribution/696139/",
+      "published_at": "2026-08-04T09:45:54+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "3c921710a68855ba",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『エリックサウス監修　２種スパイスカレー』、『海鮮かき揚げ丼』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン エリックサウス監…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026080402/?utm_source=rss&utm_medium=mognavinews_20260804",
+      "published_at": "2026-08-04T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "209cae7f0e18ce2f",
+      "title": "ニップン、2030年度売上高5000億円へ 知多工場軸に収益基盤強化、冷凍食品・海外を拡大",
+      "summary": "ニップンは7月31日、食品・製粉業界の専門紙関係者との懇談会で、2030年度に売上高5000億円を目指す長期ビジョンの進捗と今後の成長戦略を説明した。2025年度は売上高、営業利益、経常利益が過去最高となり、5期連続の増...",
+      "url": "https://www.ssnp.co.jp/rice/696162/",
+      "published_at": "2026-08-04T09:42:33+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "bf002aa66df00ee1",
@@ -6603,66 +6663,6 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "01511be4ccc9c7fc",
-      "title": "【2026年7月第4週】インスタントラーメン・袋めんランキング1位はマルちゃん ズバーン！急上昇・久しぶりランクインも続出まとめ",
-      "summary": "今週もインスタントラーメン・袋めんのランキングをお届けします！暑い夏でも、熱々の一杯が恋しくなるのがラーメン好きの性というもの。今週はどんな商品がトップに輝い…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24451/?utm_source=rss&utm_medium=mognavinews_20260729",
-      "published_at": "2026-07-28T10:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "815d430cc8a8f15c",
-      "title": "【2026年7月第4週】インスタントラーメン・袋めんランキング1位はマルちゃん ズバーン！急上昇・久しぶりランクインも続出まとめ",
-      "summary": "今週もインスタントラーメン・袋めんのランキングをお届けします！暑い夏でも、熱々の一杯が恋しくなるのがラーメン好きの性というもの。今週はどんな商品がトップに輝い…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-24451/?utm_source=rss&utm_medium=mognavinews_20260728",
-      "published_at": "2026-07-28T10:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "e7d96e3c1c9ee69f",
-      "title": "不二家「裏不二家の日」2026開催　非売品「ペコちゃんキッチンタイマー」プレゼント、“真っ黒”限定スイーツ発売",
-      "summary": "全国の不二家洋菓子店は8月14日から、「裏不二家の日」に合わせ、“ブラック”をテーマカラーにした限定スイーツを発売する。 また、8月22日には「裏不二家の日」キャンペーンとして、税込3,000円以上購入した人に、限定グッ...",
-      "url": "https://www.ssnp.co.jp/snack/694845/",
-      "published_at": "2026-07-28T09:49:30+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "8f051eeb5cd15684",
-      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『チーズタコライス』、『厚焼玉子と炙り焼鳥重』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ファミリーマート チーズタコライス…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072802/?utm_source=rss&utm_medium=mognavinews_20260729",
-      "published_at": "2026-07-28T09:45:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "6ab613c7c1978d21",
-      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『チーズタコライス』、『厚焼玉子と炙り焼鳥重』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ファミリーマート チーズタコライス…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026072802/?utm_source=rss&utm_medium=mognavinews_20260728",
-      "published_at": "2026-07-28T09:45:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
       "language": "ja"
     }
   ]
