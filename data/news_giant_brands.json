@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-03T18:34:30",
+  "last_updated": "2026-08-04T11:57:41",
   "retention_days": 7,
-  "total": 418,
+  "total": 430,
   "s_count": 31,
   "a_count": 4,
-  "b_count": 383,
+  "b_count": 395,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "キリンの「スペーステロワール」が衛星データ活用の2つのコンテストで受賞 ブドウ栽培とワインづくりの課題解決に向けた提案が評価",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0804_02.pdf",
+      "published_at": "2026-08-04T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 비비고 생선구이 프리미엄 라인업 확대 통했다… ‘연어 스테이크’ 10초당 1개 팔리며 판매량...2026.08.04",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1796",
+      "published_at": "2026-08-04T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
@@ -322,6 +344,28 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "電解質添加炭酸水が軽度脱水後の体液回復を効率的にサポートする可能性を確認",
+      "url": "https://www.itoen.co.jp/news/article/89749/",
+      "published_at": "2026-07-28T05:59:59",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "機能性表示食品「BURN BOOST SPARKLING」、同「RECOVERY BOOST SPARKLING」を、8月3日（月）に販売開始",
+      "url": "https://www.itoen.co.jp/news/article/90358/",
+      "published_at": "2026-07-28T05:59:42",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -427,6 +471,17 @@
       "title": "キリンと弘前大学が共同研究講座「エイジング・システム医科学研究講座」を開設",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0727_02.html",
       "published_at": "2026-07-27T05:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "「Oi Ocha SHOHEI OHTANI ALL HOME RUNS BOTTLE 2025 SEASON 55+8 EDITION COMPLETE BOX」を、7月29日（水）より予約販売開始",
+      "url": "https://www.itoen.co.jp/news/article/89755/",
+      "published_at": "2026-07-27T02:59:30",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
@@ -707,6 +762,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "製品の価格改定に関するお知らせ",
+      "url": "https://www.itoen.co.jp/news/article/88852/",
+      "published_at": "2026-07-15T05:59:24",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -718,12 +784,34 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "飲料業界『社会課題対応研究会』- 製造ロット逆転に関する取り組みについて",
+      "url": "https://www.itoen.co.jp/news/article/88815/",
+      "published_at": "2026-07-14T01:59:09",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
       "title": "2026.07.14明星食品「明星 チャルメラ スタミナ源たれ にんにく醤油焼そば」「明星 チャルメラ 焼肉のたれ辛味家 旨辛醤油焼そば」(7月27日発売)",
       "url": "https://www.nissin.com/jp/news/13825/",
       "published_at": "2026-07-14T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "「健康ミネラルむぎ茶 MLB™球団マスコット入りスペシャルボトル」販売開始から2週間で2,500万本突破(※1)",
+      "url": "https://www.itoen.co.jp/news/article/88439/",
+      "published_at": "2026-07-13T01:59:32",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
@@ -801,6 +889,17 @@
       "title": "熊本地震復興応援プロジェクト 「JFA・キリン ビッグスマイルフィールド」10月10日（土）熊本城二の丸広場で開催！",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0710_02.html",
       "published_at": "2026-07-10T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "JA全農共同開発「ニッポンエール 栃木県産にっこり梨」を、7月20日（月）に販売開始",
+      "url": "https://www.itoen.co.jp/news/article/88421/",
+      "published_at": "2026-07-09T05:59:32",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
@@ -982,6 +1081,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "茶殻をアップサイクルした「緑茶インク」を開発",
+      "url": "https://www.itoen.co.jp/news/article/88065/",
+      "published_at": "2026-07-03T05:59:37",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -1021,6 +1131,28 @@
       "title": "2026.07.03湖池屋一部製品の価格改定に関するお知らせ",
       "url": "https://www.nissin.com/jp/news/13810/",
       "published_at": "2026-07-03T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "継続的な緑茶カテキンの摂取と日常生活で実施可能な運動の併用により、筋力が維持される可能性を確認",
+      "url": "https://www.itoen.co.jp/news/article/88357/",
+      "published_at": "2026-07-02T05:59:45",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "「健康ミネラルむぎ茶 黒豆麦茶」新作TV-CM「実は、お似合いでした。」篇を、7月5日（日）より放映開始",
+      "url": "https://www.itoen.co.jp/news/article/88368/",
+      "published_at": "2026-07-02T05:59:41",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
