@@ -1121,9 +1121,8 @@ function renderSTopicsView() {
   const allSites = [...new Set(allSTopicsArticles.map(a => a.site_name))];
   const allRegionsList = [...new Set(allSTopicsArticles.map(a => a.region))];
 
-  // S+ 和普通分组 + 产品盯梢分组
+  // S+ 和普通分组
   const sPlusArts = filtered.filter(a => a.is_s_plus);
-  const watchedArts = filtered.filter(a => a.watched_product);
   const normalArts = filtered.filter(a => !a.is_s_plus);
 
   // 品类统计
@@ -1164,14 +1163,9 @@ function renderSTopicsView() {
       `<span class="stopics-cat-tag" style="color:${c.color};background:${c.color}18;border-color:${c.color}33">${c.icon} ${c.name}</span>`
     ).join("");
 
-    // S+ 和 产品盯梢 badge
+    // S+ badge
     const sPlusBadge = art.is_s_plus
       ? `<span class="stopics-splus-badge">⭐ S+选题</span>`
-      : "";
-
-    // 产品盯梢 badge（紧急盯梢的产品）
-    const watchedBadge = art.watched_product
-      ? `<span class="stopics-watched-badge">🔔 紧急盯梢 · ${art.watched_product_name || ""}</span>`
       : "";
 
     // 视频缩略图（YouTube 来源）
@@ -1188,15 +1182,13 @@ function renderSTopicsView() {
       ? `<span class="stopics-video-badge">🎬 ${art.channel_name || "YouTube"}</span>`
       : "";
 
-    // 卡片样式：产品盯梢卡片有特殊高亮
+    // 卡片样式
     let cardClass = "stopics-card";
     if (art.is_s_plus) cardClass += " stopics-card-splus";
-    if (art.watched_product) cardClass += " stopics-card-watched";
 
     return `
     <a href="${art.url}" target="_blank" rel="noopener noreferrer" class="${cardClass}">
       ${art.is_s_plus ? '<div class="stopics-splus-glow"></div>' : ''}
-      ${art.watched_product ? '<div class="stopics-watched-glow"></div>' : ''}
       ${videoThumbnail}
       <div class="stopics-card-header">
         <div class="stopics-card-site">
@@ -1207,7 +1199,6 @@ function renderSTopicsView() {
         </div>
         <div class="stopics-badge-row">
           ${sPlusBadge}
-          ${watchedBadge}
         </div>
       </div>
       <h3 class="stopics-card-title">${art.title}</h3>
@@ -1233,7 +1224,7 @@ function renderSTopicsView() {
       </h2>
       <span class="stopics-update-badge">每日 09:00 / 17:00 · 近30天 · 自动品类分析 · YouTube监控</span>
     </div>
-    <p class="stopics-sub">跟踪 ${allSites.length} 个精选选题网站 · <strong style="color:#b45309">⭐ S+选题</strong> = 全球首创 / 首款 / 爆品 · <strong style="color:#e11d48">🔔 紧急盯梢</strong> = 重点产品第一时间通知</p>
+    <p class="stopics-sub">跟踪 ${allSites.length} 个精选选题网站 · <strong style="color:#b45309">⭐ S+选题</strong> = 全球首创 / 首款 / 爆品</p>
   </div>
 
   <!-- 网站筛选 -->
@@ -1255,19 +1246,11 @@ function renderSTopicsView() {
 
   <!-- 统计 -->
   <div class="stopics-stats-bar">
-    ${watchedArts.length > 0 ? `<span class="stopics-stat-watched">🔔 紧急盯梢 ${watchedArts.length}</span>` : ""}
     <span class="stopics-stat-splus">⭐ S+选题 ${sPlusArts.length}</span>
     <span class="stopics-stat-normal">📰 普通 ${normalArts.length}</span>
     <span class="stopics-stat-total">共 ${filtered.length} 条</span>
     <div class="stopics-cat-stats">${catStatHTML}</div>
   </div>`;
-
-  // 产品盯梢紧急区域（最高优先级）
-  if (watchedArts.length > 0) {
-    html += `<div class="stopics-section"><h3 class="stopics-section-title stopics-section-watched">🔔 紧急盯梢 · 第一时间通知</h3><div class="stopics-grid stopics-grid-watched">`;
-    watchedArts.forEach(a => { html += renderSTopicCard(a); });
-    html += `</div></div>`;
-  }
 
   // S+ 区域
   if (sPlusArts.length > 0) {
