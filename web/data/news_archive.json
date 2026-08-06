@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T14:37:39.693446+08:00",
-  "total": 7005,
+  "last_updated": "2026-08-06T19:11:57.233436+08:00",
+  "total": 7014,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -13,6 +13,114 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "2cbad27c551881fa",
+      "title": "Jonathan Horrell joins SmartResilience as Commercial Advisor for Food & Beverage",
+      "summary": "SmartResilience, the climate risk software company helping organisations manage and reduce climate-related physical risk, today announced that Jonathan Horrell has joined the company as a Commercial…",
+      "url": "https://fabnews.live/jonathan-horrell-joins-smartresilience-as-commercial-advisor-for-food-beverage/",
+      "published_at": "2026-08-06T18:19:48+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "cad11f4c229d783b",
+      "title": "伊藤園、「お～いお茶」に日本茶GIマーク 表示製品で受理第1号、9月から展開",
+      "summary": "伊藤園は8月6日、「日本茶」のGI(地理的表示)マークを表示した「お～いお茶」の飲料製品を、9月21日から全国で順次展開すると発表した。日本茶業中央会が受理したGIマーク表示製品の第1号となる。 先行して表示するのは、「...",
+      "url": "https://www.ssnp.co.jp/beverage/696911/",
+      "published_at": "2026-08-06T18:14:35+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "c0bf3e24efe67958",
+      "title": "ADM consumer report identifies function-with-feeling and flavour complexity as key beverage trends",
+      "summary": "Research across nine global markets reveals consumers want drinks that deliver emotional resonance alongside functional benefits — creating formulation opportunities in layered sensory profiles,…",
+      "url": "https://nutraceuticalbusinessreview.com/adm-consumer-report-function-flavour-complexity-beverage-trends",
+      "published_at": "2026-08-06T18:09:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "139b2d0eb239af44",
+      "title": "すき家、「Sukiシェイク マスカット」発売 マスカット･オブ･アレキサンドリア果汁使用の夏限定フレーバー",
+      "summary": "すき家は8月4日、「Sukiシェイク マスカット」を発売した。 「Sukiシェイク」は、単品でも楽しめるドリンクシリーズ。定番の「Sukiシェイク バニラ」「Sukiシェイク 抹茶」に加え、季節限定フレーバーも展開してい...",
+      "url": "https://www.ssnp.co.jp/foodservice/696905/",
+      "published_at": "2026-08-06T17:29:18+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "3f5ccbc4c5cf061a",
+      "title": "富士そば、完売していた「冷凍生そば」を再販決定 / 関東風の濃口醤油つゆ付で、東京以外でも富士そばの味が楽しめる",
+      "summary": "東京都内を中心にそばチェーン「名代 富士そば」を展開するダイタン商事は、公式通販サイトにて「冷凍生そば10食入り(つゆ付)」を8月5日から再販した。 6月･7月の販売時には完売した人気商品だという。価格は税込3,800円...",
+      "url": "https://www.ssnp.co.jp/foodservice/696892/",
+      "published_at": "2026-08-06T16:21:35+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "afb350a7c7956919",
+      "title": "アサヒ飲料「green cola」、年間販売目標を4倍の200万箱に 累計60万箱突破",
+      "summary": "アサヒ飲料は8月6日、「green cola(グリーンコーラ)」の年内販売目標を、当初計画の50万箱から4倍の200万箱に上方修正したと発表した。5月からの1都3県での先行販売分を含む累計販売は、全国発売から3日となる6...",
+      "url": "https://www.ssnp.co.jp/beverage/696807/",
+      "published_at": "2026-08-06T16:03:10+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "3141d52342b2e7f5",
+      "title": "ローソン「からあげクン」50億食突破　40周年で達成、2個増量キャンペーンも実施中",
+      "summary": "ローソンのオリジナルホットスナック「からあげクン」は、2026年8月5日、シリーズ累計販売数が50億食（約50億90万食）を突破した。 また、8月4日から8月10日までの期間限定で、「からあげクン2個増量キャンペーン」を...",
+      "url": "https://www.ssnp.co.jp/distribution/696863/",
+      "published_at": "2026-08-06T15:52:52+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "dc7b9991b3117f31",
+      "title": "木曽路、肉1.5倍の好評企画「キソジナイト」を追加開催　水・日曜夜限定でしゃぶしゃぶ・すきやきが増量",
+      "summary": "木曽路は、しゃぶしゃぶ・日本料理「木曽路」の開業60周年記念企画第2弾として実施した「キソジナイト」を、好評につき2026年8月16日から9月30日まで追加開催する。 「キソジナイト」は、対象のしゃぶしゃぶ・すきやきの肉...",
+      "url": "https://www.ssnp.co.jp/foodservice/696853/",
+      "published_at": "2026-08-06T15:22:03+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "a7377dcd315e1e8f",
+      "title": "くら寿司×「ミニオンズ」初コラボ、限定メニュー・先着30万人グッズ配布・「ビッくらポン！」景品を展開",
+      "summary": "回転寿司チェーン「くら寿司」は8月7日から、映画『ミニオンズ＆モンスターズ』の公開を記念した「ミニオンズ」とのコラボキャンペーンを全国の店舗で実施する。 期間中は、コラボメニューの販売に加え、オリジナルグッズのプレゼント...",
+      "url": "https://www.ssnp.co.jp/foodservice/696836/",
+      "published_at": "2026-08-06T15:12:02+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
     },
     {
       "id": "848b684fc69498c1",
