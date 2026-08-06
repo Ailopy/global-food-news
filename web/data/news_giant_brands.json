@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-06T11:57:18",
+  "last_updated": "2026-08-06T17:37:15",
   "retention_days": 7,
-  "total": 443,
+  "total": 445,
   "s_count": 31,
   "a_count": 4,
-  "b_count": 408,
+  "b_count": 410,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "キリンとGenerativeX、AIで研究開発の在り方を刷新 研究者と共創する新モデルを導入",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0806_04.pdf",
+      "published_at": "2026-08-06T07:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -80,6 +91,28 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-08-06T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "2027年3月期 第1四半期決算短信[適時開示]",
+      "url": "https://news.ajinomoto.co.jp/2026/08/2026_08_06_03.pdf",
+      "published_at": "2026-08-06T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -109,17 +142,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0803_01.html",
       "published_at": "2026-08-05T00:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-08-05T00:00:00",
-      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
