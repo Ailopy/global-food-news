@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-05T17:31:52",
+  "last_updated": "2026-08-06T11:57:18",
   "retention_days": 7,
-  "total": 439,
+  "total": 443,
   "s_count": 31,
   "a_count": 4,
-  "b_count": 404,
+  "b_count": 408,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,50 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "6年連続で上半期の販売金額が過去最高を更新している「キリンウイスキー 陸」から飲みやすさと満足感を両立した「キリン 陸ハイボール」を通年で発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0806_01.html",
+      "published_at": "2026-08-06T02:00:15",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "キリン初！「プラズマ乳酸菌」入り、噛んで食べる子ども向けサプリメント「キリン つよいぞ！ムテキッズ タブレット」を10月13日（火）より新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0806_02.html",
+      "published_at": "2026-08-06T02:00:10",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「メルシャン・ワインズ カンティアーモ スプマンテ ブリュット」、「メルシャン・ワインズ カンティアーモ スプマンテ ロゼ」のデザインをリニューアル、ハーフボトルを10月27日（火）より新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0806_03.html",
+      "published_at": "2026-08-06T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, AI로 트렌드 발굴부터 상품화까지… ‘Food AI 360’ 글로벌 론칭2026.08.06",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1798",
+      "published_at": "2026-08-06T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
