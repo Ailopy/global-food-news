@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T11:43:11",
+  "last_updated": "2026-08-07T16:09:05",
   "retention_days": 7,
   "total": 454,
   "s_count": 32,
@@ -124,6 +124,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-08-07T00:00:00",
+      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -175,17 +186,6 @@
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1798",
       "published_at": "2026-08-06T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-08-06T00:00:00",
-      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -2234,6 +2234,17 @@
       "summary": "It’s the most spooktacular time of year — Count Chocula, Boo Berry and Franken Berry are returning to the cereal aisle with new limited-edition packaging featuring puppets from Jim Henson’s Creature S",
       "level": "S",
       "level_reason": "营销创新"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Shaquille O’Neal and General Mills Search for America’s Biggest Cereal Fans, Offering Big Prizes and Exclusive Merch",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/shaquille-oneal-and-general-mills-search-for-americas-biggest-cereal-fans",
+      "published_at": "2026-05-31T00:00:00",
+      "summary": "Cinnamon Toast Crunch, Lucky Charms, Reese’s Puffs and Honey Nut Cheerios are fueling cereal fandom with larger-than-life prizes, exclusive merch and epic experiences.",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Kirin",
@@ -5015,17 +5026,6 @@
       "url": "https://www.ferrero.com/int/en/our-brands",
       "published_at": "",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "General Mills",
-      "brand_cn": "通用磨坊",
-      "region": "北美",
-      "title": "Continue Reading",
-      "url": "https://www.generalmills.com/news-and-stories/press-releases/shaquille-oneal-and-general-mills-search-for-americas-biggest-cereal-fans",
-      "published_at": "",
-      "summary": "Shaquille O’Neal and General Mills Search for America’s Biggest Cereal Fans, Offering Big Prizes and Exclusive Merch",
       "level": "B",
       "level_reason": "企业动态"
     }
