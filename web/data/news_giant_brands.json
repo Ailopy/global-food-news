@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-06T17:37:15",
+  "last_updated": "2026-08-07T11:43:11",
   "retention_days": 7,
-  "total": 445,
-  "s_count": 31,
+  "total": 454,
+  "s_count": 32,
   "a_count": 4,
-  "b_count": 410,
+  "b_count": 418,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,94 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "10年連続スコッチウイスキー国内販売量No.1の「ホワイトホース」から日本の食卓に寄り添う日本限定商品「ホワイトホース なごみ」を新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0807_02.html",
+      "published_at": "2026-08-07T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「キリングッドエール」、発売から約10カ月で累計販売本数1億本を突破 独自のおいしさとブランドアクションへの共感により、幅広い支持を獲得",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0807_03.html",
+      "published_at": "2026-08-07T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "Jamieson Wellness Inc.の株式取得（完全子会社化）に関する契約締結のお知らせ",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0807_05.pdf",
+      "published_at": "2026-08-07T00:05:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "10月1日（木）・10月5日（月）開催「キリンカップサッカー2026」の参加国が決定",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0807_01.html",
+      "published_at": "2026-08-07T00:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.07明星食品「明星 チャルメラ ちいかわラーメン とんこつ味」(9月14日発売)",
+      "url": "https://www.nissin.com/jp/news/13863/",
+      "published_at": "2026-08-07T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.07明星食品「明星 一平ちゃん夜店の焼そば 超特盛 からしマヨ2個付」(8月24日発売)",
+      "url": "https://www.nissin.com/jp/news/13860/",
+      "published_at": "2026-08-07T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.07明星食品「明星 中華三昧 四川飯店 四川風味噌」(8月24日発売)",
+      "url": "https://www.nissin.com/jp/news/13861/",
+      "published_at": "2026-08-07T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.07明星食品「明星 チャルメラカップ 赤い味噌ちゃんこ味ラーメン」(8月31日発売)",
+      "url": "https://www.nissin.com/jp/news/13862/",
+      "published_at": "2026-08-07T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -4927,6 +5015,17 @@
       "url": "https://www.ferrero.com/int/en/our-brands",
       "published_at": "",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/shaquille-oneal-and-general-mills-search-for-americas-biggest-cereal-fans",
+      "published_at": "",
+      "summary": "Shaquille O’Neal and General Mills Search for America’s Biggest Cereal Fans, Offering Big Prizes and Exclusive Merch",
       "level": "B",
       "level_reason": "企业动态"
     }
