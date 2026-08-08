@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-07T16:09:05",
+  "last_updated": "2026-08-08T10:48:41",
   "retention_days": 7,
-  "total": 454,
+  "total": 455,
   "s_count": 32,
   "a_count": 4,
-  "b_count": 418,
+  "b_count": 419,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -382,6 +382,17 @@
       "region": "日本",
       "title": "「令和8年熊本地震」被害に対する支援について",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0731_03.pdf",
+      "published_at": "2026-07-31T06:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「令和8年熊本地震」被害に対する支援について",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0731_03.html",
       "published_at": "2026-07-31T06:00:05",
       "summary": "",
       "level": "B",
