@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T09:16:47.025808+08:00",
-  "total": 7141,
+  "last_updated": "2026-08-08T13:04:34.535530+08:00",
+  "total": 7143,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -11,6 +11,30 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "9fd05870bd45000d",
+      "title": "Almost 15 tons of imported beef recalled because of lack of reinspection",
+      "summary": "Corte Argentino USA LLC of Aventura, FL, is recalling 29,628 pounds of raw beef products that were imported from Argentina without the benefit of import reinspection into the United States, the…",
+      "url": "https://www.foodsafetynews.com/2026/08/almost-15-tons-of-imported-beef-recalled-because-of-lack-of-reinspection/",
+      "published_at": "2026-08-08T10:51:44+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5e6d5ab045343f7f",
+      "title": "More than 2.5 tons of frozen, breaded catfish products recalled because of illegal importation",
+      "summary": "Shan Distribution Network Inc. of Carol Stream, IL, is recalling 5,084 pounds of frozen breaded Swai fish fillet and stick products because they were produced in the United Arab Emirates, a country…",
+      "url": "https://www.foodsafetynews.com/2026/08/more-than-2-5-tons-of-frozen-breaded-catfish-products-recalled-because-of-illegal-importation/",
+      "published_at": "2026-08-08T10:39:51+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
       "level": "A",
       "language": "en"
     },
@@ -363,18 +387,6 @@
       "language": "ja"
     },
     {
-      "id": "a3969025b868db34",
-      "title": "今週新発売のさっぱり味の食べものまとめ！『国産鶏むね肉と厚切りトマトゆで玉子のクラブハウスサンド』、『冷製パスタ　茄子と豚しゃぶ　梅ジュレ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！さっぱりの新商品情報をお届けします。今週新発売の#さっぱりファミリーマート 国産鶏むね肉と厚切りトマトゆで玉子のクラブハウスサ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026080707/?utm_source=rss&utm_medium=mognavinews_20260808",
-      "published_at": "2026-08-07T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "b879ff5469404d06",
       "title": "The noise is getting louder, which is why science matters more than ever",
       "summary": "For brands and formulators in gut health, the rise of AI-generated misinformation makes verified science a commercial differentiator, not just a regulatory safeguard",
@@ -385,6 +397,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "a3969025b868db34",
+      "title": "今週新発売のさっぱり味の食べものまとめ！『国産鶏むね肉と厚切りトマトゆで玉子のクラブハウスサンド』、『冷製パスタ　茄子と豚しゃぶ　梅ジュレ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！さっぱりの新商品情報をお届けします。今週新発売の#さっぱりファミリーマート 国産鶏むね肉と厚切りトマトゆで玉子のクラブハウスサ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026080707/?utm_source=rss&utm_medium=mognavinews_20260808",
+      "published_at": "2026-08-07T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "c077631476efaa3d",
