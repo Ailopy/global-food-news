@@ -2,15 +2,15 @@
   "total": 538,
   "s_plus_count": 52,
   "sites": [
+    "日経xTrend",
     "日経新聞",
     "Food Dive",
-    "Packaging Digest",
-    "日経xTrend",
-    "朝日グループYouTube"
+    "朝日グループYouTube",
+    "Packaging Digest"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
     "其他": 308,
@@ -25,8 +25,8 @@
     "新技术": 5,
     "新原料": 11
   },
-  "last_updated": "2026-08-08 17:27",
-  "last_updated_iso": "2026-08-08T17:27:08.589194+08:00",
+  "last_updated": "2026-08-09 10:56",
+  "last_updated_iso": "2026-08-09T10:56:22.523797+08:00",
   "articles": [
     {
       "site_name": "日経新聞",
