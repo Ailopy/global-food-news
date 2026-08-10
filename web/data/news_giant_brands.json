@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-09T15:46:52",
+  "last_updated": "2026-08-10T11:05:15",
   "retention_days": 7,
-  "total": 455,
+  "total": 457,
   "s_count": 32,
   "a_count": 4,
-  "b_count": 419,
+  "b_count": 421,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 비비고 등 브랜드 IP 활용한 신규 카테고리 확대… 소비자 데이터 기반 상품으로 브랜드 접점...2026.08.10",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1799",
+      "published_at": "2026-08-10T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "세계일보식품 트렌드 분석부터 상품화까지 AI로 ‘뚝딱’… K푸드 날개",
+      "url": "https://www.segye.com/newsView/20260809511347",
+      "published_at": "2026-08-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
