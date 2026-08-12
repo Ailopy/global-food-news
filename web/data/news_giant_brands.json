@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-11T16:05:39",
+  "last_updated": "2026-08-12T11:17:28",
   "retention_days": 7,
-  "total": 457,
+  "total": 459,
   "s_count": 32,
   "a_count": 4,
-  "b_count": 421,
+  "b_count": 423,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "“스페인 1등 레알 참치”… CJ제일제당, 프리미엄 참치 브랜드 ‘칼보(Calvo)’ 국내에 선보인다2026.08.12",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1801",
+      "published_at": "2026-08-12T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 2분기 매출 4조1,950억 원•영업이익 1,619억 원2026.08.11",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1800",
+      "published_at": "2026-08-11T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "CJ",
       "brand_cn": "希杰",
