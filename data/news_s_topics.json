@@ -1,33 +1,105 @@
 {
-  "total": 314,
-  "s_plus_count": 45,
+  "total": 322,
+  "s_plus_count": 46,
   "sites": [
+    "Packaging Digest",
     "Food Dive",
-    "日経新聞",
-    "朝日グループYouTube",
     "日経xTrend",
-    "Packaging Digest"
+    "日経新聞",
+    "朝日グループYouTube"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
+    "其他": 154,
+    "品牌故事": 21,
+    "行业政策": 21,
     "新产品": 54,
     "并购融资": 10,
     "联名营销": 20,
     "营销创新": 19,
-    "品牌故事": 20,
-    "其他": 150,
-    "行业政策": 18,
     "渠道新物种": 6,
     "新包装": 5,
     "新原料": 9,
     "新技术": 3
   },
-  "last_updated": "2026-08-12 17:53",
-  "last_updated_iso": "2026-08-12T17:53:13.824769+08:00",
+  "last_updated": "2026-08-13 11:22",
+  "last_updated_iso": "2026-08-13T11:22:18.474288+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "中国AI「Kimi K3」の衝撃 米国に代わる世界のAI拠点になるか？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00079/00361/?n_cid=nbpnxr_rss",
+      "summary": "中国の新興企業が公開した新AIモデルの威力を示す驚異的なデモが、SNS上で大きな話題になっている。もっとも、当の中国企業は、この新モデルが、米国企業の最先端AIモデルに大きく勝るものではないと認識している。それでも中国が米国に追いついてきていることは否定できず、AIの活用を考えた際、中国に秋波を送る国々も出てくるかもしれない。米国はどうするのだろうか。",
+      "published_at": "2026-08-13T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-13T11:22:04+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "サッポロ「黒ラベル」に過去最大のマーケ投資 テレビCMも前年比2倍へ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01443/00004/?n_cid=nbpnxr_rss",
+      "summary": "2026年10月の酒税改正で、ビール、発泡酒、新ジャンル（第三のビール）の税率が一本化される。大手4社の中でサッポロビールは、他社同様、新ジャンルの「麦とホップ」と「GOLD STAR」をビール化する。だが、同社が「プレミアム」「メインストリーム」「エコノミー」という領域に分けて整理しているビール市場で、“主戦場”として考えているのは「メインストリーム」と「プレミアム」だ。26年に創業150周年を迎える企業として、歴史の中で育んできた個性や物語を持つブランドを前面に押し出すという。",
+      "published_at": "2026-08-13T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 3
+        },
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-08-13T11:22:04+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "How GS1 Digital Link QR Codes Minimize Food Recall Losses",
+      "url": "https://www.packagingdigest.com/food-packaging/how-gs1-digital-link-qr-codes-minimize-food-recall-losses",
+      "summary": "GS1 Digital Link QR codes with batch data enable targeted recalls, potentially cutting unnecessary recall costs by 20-80% and protecting revenue.",
+      "published_at": "2026-08-12T18:41:28Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-08-13T11:22:16+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -161,6 +233,28 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-08-12T11:17:43+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "How Ecommerce Grocery Giants Use Tech to Reduce Food Waste",
+      "url": "https://www.packagingdigest.com/ecommerce/ecommerce-grocery-giants-use-tech-to-reduce-food-waste",
+      "summary": "Amazon, Walmart, Kroger, and Albertsons leverage AI, RFID, temperature sensors, and drones to minimize spoilage and maximize freshness across the cold chain.",
+      "published_at": "2026-08-11T19:11:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-13T11:22:16+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -7355,6 +7449,100 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-08-12T11:17:41+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Stoli redesigns spicy vodka following Tabasco lawsuit",
+      "url": "https://www.fooddive.com/news/stoli-vodka-tobasco-lawsuit-resolution/827542/",
+      "summary": "The spirits brand settled with the hot sauce maker after a judge agreed its Halapeño Pepper Vodka could confuse consumers.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-08-13T11:22:14+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "FDA lays out plan to close ingredients ‘loophole’ targeted by RFK Jr",
+      "url": "https://www.fooddive.com/news/fda-gras-loophole-food-policy-ingredients-maha/827441/",
+      "summary": "Food industry groups say the agency is limited in its authority to require more transparency under the controversial GRAS framework, pushing for Congress to approve a national standard.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 2
+        },
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-08-13T11:22:14+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "GLP-1 users’ grocery spending is dropping",
+      "url": "https://www.fooddive.com/news/glp1-weight-loss-drugs-medication-grocery-spend-numerator/827405/",
+      "summary": "Shoppers on the weight loss drugs now have over $660 billion in spending power, but their grocery spending is down 4%, Numerator found.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-13T11:22:14+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "7Up ups the lime in recipe overhaul",
+      "url": "https://www.fooddive.com/news/7up-rebrand-lime-lemon-soda-new-recipe/827412/",
+      "summary": "The change, meant to differentiate 7Up from rival Sprite, marks the biggest innovation for the Keurig Dr Pepper-owned brand in more than 15 years.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-13T11:22:14+08:00"
     }
   ]
 }
