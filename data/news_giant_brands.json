@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-13T16:13:36",
+  "last_updated": "2026-08-14T11:19:18",
   "retention_days": 7,
-  "total": 459,
+  "total": 461,
   "s_count": 32,
   "a_count": 4,
-  "b_count": 423,
+  "b_count": 425,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,39 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-08-14T00:00:00",
+      "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "2026 年12月期 上期 決算業績について",
+      "url": "https://www.asahigroup-holdings.com/newsroom/detail/20260814-0101.html",
+      "published_at": "2026-08-14T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "머니투데이30년간 지역농가와 상생한 햇반, '쌀' 소비진작...\"1년에 6.5만톤 구매\"",
+      "url": "https://www.mt.co.kr/living/2026/08/13/2026081313200881334",
+      "published_at": "2026-08-13T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "CJ",
       "brand_cn": "希杰",
@@ -164,17 +197,6 @@
       "url": "https://www.nissin.com/jp/news/13862/",
       "published_at": "2026-08-07T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-08-07T00:00:00",
-      "summary": "Diageo社の東アフリカ事業の株式取得に関するお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
