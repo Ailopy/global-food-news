@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-16T12:41:56.078364+08:00",
-  "total": 7678,
+  "last_updated": "2026-08-16T17:17:09.975096+08:00",
+  "total": 7683,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -13,6 +13,66 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "19fca3c9f42fb6ed",
+      "title": "飲料自販機 魅力向上へ試行錯誤 高まる割高感の克服が課題",
+      "summary": "飲料大手各社は、飲料自販機の魅力向上に向けて試行錯誤を重ねている。 自販機の大きな課題は、高まる割高感を乗り越えて需要を喚起していくことにある。飲料業界では、コストプッシュ型の価格改定が相次ぎ、販促費により値頃感を創 […] ソース",
+      "url": "https://shokuhin.net/153483/2026/08/16/inryou/inryou-inryou/",
+      "published_at": "2026-08-16T16:01:43+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e393fe942132bb37",
+      "title": "今週新発売のマヨネーズ味まとめ！『直巻おむすび　チャーシューマヨネーズ』、『手巻寿司　たっぷりコーンマヨ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！マヨネーズ味の新商品情報をお届けします。今週新発売の#マヨネーズ味セブン-イレブン 直巻おむすび チャーシューマヨネーズ甘辛い…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026081607/?utm_source=rss&utm_medium=mognavinews_20260816",
+      "published_at": "2026-08-16T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ccfeb2d1eaa1abb1",
+      "title": "今週新発売のチョコレート味🍫まとめ！『チョコ生サンド瀬戸内レモン』、『小枝　モンブランタルト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！チョコレート味の新商品情報をお届けします。今週新発売の#チョコレート味セブン-イレブン チョコ生サンド瀬戸内レモン瀬戸内レモン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026081606/?utm_source=rss&utm_medium=mognavinews_20260816",
+      "published_at": "2026-08-16T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9d8e073281bcb2e2",
+      "title": "【2026年8月第3週】ポテトチップス・スナックランキング1位はドンタコス海鮮グリルチリタコス！新商品クリスピーピザポテトも登場まとめ",
+      "summary": "今週のポテトチップス・スナックランキングの結果が出ました！夏の暑さも吹き飛ぶような個性派フレーバーから、長年愛されるロングセラーまで、バラエティ豊かなラインナ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25372/?utm_source=rss&utm_medium=mognavinews_20260816",
+      "published_at": "2026-08-16T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "825b289c4d54226a",
+      "title": "今週新発売の期間限定まとめ！『ほろよい　トロピカルミックス』、『２０２６ハロウィンばかうけアソート』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定サントリー ほろよい トロピカルミックス 缶350ml中味は、キウイ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026081605/?utm_source=rss&utm_medium=mognavinews_20260816",
+      "published_at": "2026-08-16T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "3534af61a91b3080",
