@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-16T15:25:02",
+  "last_updated": "2026-08-17T10:12:57",
   "retention_days": 7,
-  "total": 463,
-  "s_count": 32,
+  "total": 471,
+  "s_count": 33,
   "a_count": 4,
-  "b_count": 427,
+  "b_count": 434,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "岩手県遠野市で収穫したホップの旬のおいしさが楽しめる、今しか飲めない「一番搾り」、「キリン一番搾り とれたてホップ生ビール（期間限定）」を発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0817_02.html",
+      "published_at": "2026-08-17T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.17湖池屋「湖池屋プライドポテト100％ こぼれうに醤油 (宗像)」と「湖池屋プライドポテト100％ ゆず七味焼き鳥 (京都)」(8月17日より発売)",
+      "url": "https://www.nissin.com/jp/news/13874/",
+      "published_at": "2026-08-17T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Asahi",
       "brand_cn": "朝日",
@@ -5123,6 +5145,72 @@
       "region": "韩国",
       "title": "APTraditional plastic forks shed harmful microplastics. Plastic created from sugar is an alternative",
       "url": "https://apnews.com/article/biobased-biodegradable-plastics-climate-compost-838fb5b4619e5020e3c01157a312a5d8",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mars",
+      "brand_cn": "玛氏",
+      "region": "日本",
+      "title": "リーダーシップチーム",
+      "url": "https://www.mars.com/ja-jp/about/leadership",
+      "published_at": "",
+      "summary": "マースは1世紀以上にわたり、私たちが望む明日の世界は今日の私たちのビジネスへの取り組みから始まるという信念に支えられてきました。",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mars",
+      "brand_cn": "玛氏",
+      "region": "日本",
+      "title": "ポリシーと取り組み",
+      "url": "https://www.mars.com/ja-jp/about/policies-and-practices",
+      "published_at": "",
+      "summary": "毎日が、私たちが望む明日の世界を創造するために行動を起こすチャンスです。マースのポリシーと取り組みは、その未来を形作るうえで有用であり、譲れない方針です。",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mars",
+      "brand_cn": "玛氏",
+      "region": "日本",
+      "title": "採用情報（新しいウィンドウが開きます）",
+      "url": "https://marsrecruit.jp/",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mars",
+      "brand_cn": "玛氏",
+      "region": "日本",
+      "title": "マースのブランド",
+      "url": "https://www.mars.com/ja-jp/our-brands",
+      "published_at": "",
+      "summary": "何世代にもわたって、マースのブランド、製品とサービスは、皆さんの家族や4本足の友人に愛され続けてきました。",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mars",
+      "brand_cn": "玛氏",
+      "region": "日本",
+      "title": "Snacking",
+      "url": "https://www.mars.com/ja-jp/our-brands/mars-snacking",
+      "published_at": "",
+      "summary": "世界で最も愛されているチョコレート、お菓子、スナックが、より素敵なひとときと笑顔をお届けします。",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mars",
+      "brand_cn": "玛氏",
+      "region": "日本",
+      "title": "マースのブランド一覧：A–Z",
+      "url": "https://www.mars.com/ja-jp/our-brands/all-brands",
       "published_at": "",
       "summary": "",
       "level": "B",
