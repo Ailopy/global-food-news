@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-16T17:17:09.975096+08:00",
-  "total": 7683,
+  "last_updated": "2026-08-17T09:01:53.841967+08:00",
+  "total": 7690,
   "articles": [
     {
       "id": "9032b430048699fd",
@@ -11,6 +11,90 @@
       "source": "New Hope Network",
       "region": "北美",
       "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "951cf7d370d9fa52",
+      "title": "土地の知恵宿る夏の食",
+      "summary": "酷暑が続く。辛い料理で暑さを乗り切る向きもあるが、辛さに比例してアルコールの摂取も増える。翌日のダメージを心配する歳になってしまった。 ▼先日、馴染みの店に金糸瓜を持ち込んだ。素麺かぼちゃである。静岡出身の若い大将は初 […] ソース",
+      "url": "https://shokuhin.net/155226/2026/08/17/gyakukousen/",
+      "published_at": "2026-08-17T08:59:19+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "bbc0f645701015ee",
+      "title": "カレー粉づくりにチャレンジ エスビー食品が親子向け体験イベント",
+      "summary": "エスビー食品は7月25日、同社板橋スパイスセンター（東京都板橋区）内のスパイス展示館で親子向け体験イベント「スパイス＆ハーブ わくわくチャレンジ」（全5回）を開催した＝写真。 小学生とその保護者を対象とした夏休みの恒 […] ソース",
+      "url": "https://shokuhin.net/155123/2026/08/17/sonota/event/",
+      "published_at": "2026-08-17T08:47:11+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f1d6fec985bc55f9",
+      "title": "がごめ昆布で地域活性化 第1弾「昆布あめ」発売 かね七",
+      "summary": "富山県で、がごめ昆布が養殖されている。生息地（北海道南部や青森県の一部）以外では国内初で、2024年から本格的に生産している。背景には地球環境の変化による全国的な水産資源の減少がある。 昆布巻きなども扱う富山の「かね […] ソース",
+      "url": "https://shokuhin.net/155098/2026/08/17/%e8%be%b2%e6%b0%b4%e7%95%9c%e7%94%a3%e6%a5%ad/%e6%b0%b4%e7%94%a3/",
+      "published_at": "2026-08-17T08:46:33+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "71f6e26e180cba43",
+      "title": "エア・ウォーター 経営体制刷新、再スタートへ グループ各社の強みを分析中",
+      "summary": "エア・ウォーターは、昨年発覚した不適切会計（損失の先送り等）などにより延期していた26年3月期決算を7月31日に大阪市内で発表した。 今年5月に社外取締役から社内の代表取締役社長に就任した千歳喜弘氏が会見し「今回の決 […] ソース",
+      "url": "https://shokuhin.net/155147/2026/08/17/sonota/kessan/",
+      "published_at": "2026-08-17T08:45:46+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "edf663d18cfc7c70",
+      "title": "中食・惣菜特集",
+      "summary": "食品スーパーがけん引 惣菜売場で独自の色を カテゴリーは転換期に ◇ ◇ ・全調食東など3団体 多摩地区フードバンクに寄贈 給食のない夏休みにごはんのお供を ◇ ◇ ・三菱食品 持続的な成長実現へ デリカマー […] ソース",
+      "url": "https://shokuhin.net/155223/2026/08/17/toku-info/",
+      "published_at": "2026-08-17T07:58:20+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "831595e82bd39512",
+      "title": "THE CPG INSIDER WEEKLY",
+      "summary": "This week, we're checking out the latest samples from the BevNET canteen fridge, getting extra limey with 7UP's reformulation, and earning a hall pass from none other than Peter Rahal. Hey, what more…",
+      "url": "https://www.nosh.com/news/2026/the-cpg-insider-weekly-3",
+      "published_at": "2026-08-17T00:52:11+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "4e598d091e0ece93",
+      "title": "The Sunday Edition: RFK Jr.",
+      "summary": "Two years ago, RFK Jr. found a home in the second Trump administration as Secretary for Health and Human Services.",
+      "url": "https://www.foodsafetynews.com/2026/08/the-sunday-edition-rfk-jr/",
+      "published_at": "2026-08-16T20:00:01+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
       "level": "A",
       "language": "en"
     },
