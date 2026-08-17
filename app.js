@@ -225,6 +225,7 @@ function topicMatchScore(art, config) {
 const DATA_URL        = "./data/news_latest.json";
 const GIANTS_DATA_URL = "./data/news_giant_brands.json";
 const STOPICS_DATA_URL = "./data/news_s_topics.json";
+const POLICY_DATA_URL = "./data/news_policy.json";
 const PAGE_SIZE  = 24;
 const DEBOUNCE_MS = 220;
 
@@ -266,13 +267,16 @@ let currentPage      = 1;
 let isListView       = false;
 let allRegions       = [];
 let allCategories    = [];
-let activeTab        = "all";   // "all" | "topics" | "giants" | "stopics"
+let activeTab        = "all";   // "all" | "topics" | "giants" | "stopics" | "policy"
 let allGiantArticles = [];
 let giantBrandsActive = new Set();
 let giantRegionsActive = new Set();
 let allSTopicsArticles = [];
 let sTopicsSitesActive = new Set();
 let sTopicsRegionsActive = new Set();
+let allPolicyArticles = [];
+let policyLevelsActive = new Set();
+let policySourcesActive = new Set();
 
 // ── DOM ───────────────────────────────────────────────────────
 const grid           = document.getElementById("articlesGrid");
@@ -300,6 +304,7 @@ const tabAllBtn      = document.getElementById("tabAll");
 const tabTopicsBtn   = document.getElementById("tabTopics");
 const tabGiantsBtn   = document.getElementById("tabGiants");
 const tabSTopicsBtn  = document.getElementById("tabSTopics");
+const tabPolicyBtn   = document.getElementById("tabPolicy");
 const mainContent  = document.getElementById("main");
 
 // ── 时间格式化 ─────────────────────────────────────────────────
@@ -929,6 +934,7 @@ function switchTab(tab) {
   tabTopicsBtn.classList.toggle("active", tab === "topics");
   tabGiantsBtn.classList.toggle("active", tab === "giants");
   tabSTopicsBtn.classList.toggle("active", tab === "stopics");
+  tabPolicyBtn.classList.toggle("active", tab === "policy");
 
   const statsBar = document.getElementById("statsBar");
   const filterBars = [
@@ -944,12 +950,14 @@ function switchTab(tab) {
     if (statsBar) statsBar.style.display = "none";
     articlesGrid.classList.remove("giants-view");
     articlesGrid.classList.remove("stopics-view");
+    articlesGrid.classList.remove("policy-view");
     renderTopicsView();
   } else if (tab === "giants") {
     filterBars.forEach(el => { if (el) el.style.display = "none"; });
     if (statsBar) statsBar.style.display = "none";
     articlesGrid.classList.remove("topics-view");
     articlesGrid.classList.remove("stopics-view");
+    articlesGrid.classList.remove("policy-view");
     if (allGiantArticles.length === 0) {
       loadGiantBrandsData().then(() => renderGiantsView());
     } else {
@@ -960,10 +968,22 @@ function switchTab(tab) {
     if (statsBar) statsBar.style.display = "none";
     articlesGrid.classList.remove("topics-view");
     articlesGrid.classList.remove("giants-view");
+    articlesGrid.classList.remove("policy-view");
     if (allSTopicsArticles.length === 0) {
       loadSTopicsData().then(() => renderSTopicsView());
     } else {
       renderSTopicsView();
+    }
+  } else if (tab === "policy") {
+    filterBars.forEach(el => { if (el) el.style.display = "none"; });
+    if (statsBar) statsBar.style.display = "none";
+    articlesGrid.classList.remove("topics-view");
+    articlesGrid.classList.remove("giants-view");
+    articlesGrid.classList.remove("stopics-view");
+    if (allPolicyArticles.length === 0) {
+      loadPolicyData().then(() => renderPolicyView());
+    } else {
+      renderPolicyView();
     }
   } else {
     filterBars.forEach(el => { if (el) el.style.display = ""; });
@@ -971,6 +991,7 @@ function switchTab(tab) {
     articlesGrid.classList.remove("topics-view");
     articlesGrid.classList.remove("giants-view");
     articlesGrid.classList.remove("stopics-view");
+    articlesGrid.classList.remove("policy-view");
     applyFilters();
   }
 }
@@ -980,6 +1001,7 @@ tabAllBtn.addEventListener("click",    () => switchTab("all"));
 tabTopicsBtn.addEventListener("click", () => switchTab("topics"));
 tabGiantsBtn.addEventListener("click", () => switchTab("giants"));
 tabSTopicsBtn.addEventListener("click", () => switchTab("stopics"));
+tabPolicyBtn.addEventListener("click", () => switchTab("policy"));
 
 // ── 搜索防抖 ───────────────────────────────────────────────────
 let searchTimer = null;
@@ -1312,4 +1334,179 @@ function toggleAllSTopicsRegions() {
   if (sTopicsRegionsActive.size === all.length) sTopicsRegionsActive.clear();
   else sTopicsRegionsActive = new Set(all);
   renderSTopicsView();
+}
+
+// ════════════════════════════════════════════════════════════
+// 政策类 — 数据加载 + 渲染
+// ════════════════════════════════════════════════════════════
+
+// 政策级别配置
+const POLICY_LEVEL_META = {
+  "S+": { label: "S+ 历史级核爆点", color: "#dc2626", bg: "#fef2f2", icon: "💥" },
+  "S":  { label: "S  国家级核心政策", color: "#d97706", bg: "#fffbeb", icon: "🔴" },
+  "A":  { label: "A  行业/地方重要动态", color: "#2563eb", bg: "#eff6ff", icon: "🟠" },
+  "B":  { label: "B  常规参考", color: "#6b7280", bg: "#f9fafb", icon: "🟡" },
+};
+
+async function loadPolicyData() {
+  try {
+    const resp = await fetch(`${POLICY_DATA_URL}?t=${Date.now()}`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    // 兼容两种格式：纯数组 或 { articles: [...] }
+    allPolicyArticles = Array.isArray(data) ? data : (data.articles || []);
+    if (data && data.last_updated) {
+      // 纯数组时忽略
+    }
+    policyLevelsActive = new Set(allPolicyArticles.map(a => a.level));
+    policySourcesActive = new Set(allPolicyArticles.map(a => a.source));
+    return data;
+  } catch (err) {
+    console.error("政策类数据加载失败:", err);
+    return null;
+  }
+}
+
+function renderPolicyView() {
+  const articlesGrid = document.getElementById("articlesGrid");
+  const emptyState   = document.getElementById("emptyState");
+  const loadMoreWrap = document.getElementById("loadMoreWrap");
+  const statsBar     = document.getElementById("statsBar");
+  if (statsBar) statsBar.style.display = "none";
+  emptyState.classList.add("hidden");
+  loadMoreWrap.classList.add("hidden");
+
+  if (allPolicyArticles.length === 0) {
+    articlesGrid.innerHTML = `
+      <div style="grid-column:1/-1;text-align:center;padding:60px 24px;color:#7a9478;">
+        <div style="font-size:3rem;margin-bottom:16px;">📜</div>
+        <p style="font-weight:600;font-size:1rem;">政策类资讯加载中…</p>
+        <p style="font-size:.875rem;margin-top:8px;opacity:.7;">每日 09:00 自动抓取，保留最近7天食品行业重磅政策</p>
+      </div>`;
+    articlesGrid.classList.add("policy-view");
+    return;
+  }
+
+  // 筛选（按级别）
+  const filtered = allPolicyArticles.filter(a => policyLevelsActive.has(a.level));
+
+  // 按级别分组（S+ > S > A > B）
+  const LEVEL_ORDER = ["S+", "S", "A", "B"];
+  const groups = {};
+  LEVEL_ORDER.forEach(lv => groups[lv] = []);
+  filtered.forEach(a => {
+    const lv = LEVEL_ORDER.includes(a.level) ? a.level : "B";
+    groups[lv].push(a);
+  });
+  LEVEL_ORDER.forEach(lv => {
+    groups[lv].sort((a, b) => (b.publish_time || "").localeCompare(a.publish_time || ""));
+  });
+
+  const total = filtered.length;
+  const countByLevel = {};
+  LEVEL_ORDER.forEach(lv => countByLevel[lv] = groups[lv].length);
+
+  // 级别筛选 chips
+  const levelChipsHTML = LEVEL_ORDER.map(lv => {
+    const meta = POLICY_LEVEL_META[lv];
+    const isActive = policyLevelsActive.has(lv);
+    const count = countByLevel[lv];
+    return `<button class="policy-chip${isActive ? " active" : ""}" data-policy-level="${lv}" onclick="togglePolicyLevel(this,'${lv}')">
+      <span class="policy-chip-dot" style="background:${meta.color}"></span>
+      ${meta.label} <em>${count}</em>
+    </button>`;
+  }).join("");
+
+  // 卡片渲染
+  function renderPolicyCard(art) {
+    const meta = POLICY_LEVEL_META[art.level] || POLICY_LEVEL_META["B"];
+    const timeStr = art.publish_time || "";
+    // 从标题剥离【级别】前缀（如果有）
+    let cleanTitle = (art.title || "").replace(/^【[^】]*】\s*/, "");
+    return `
+    <a href="${art.url}" target="_blank" rel="noopener noreferrer" class="policy-card policy-card-${(art.level || "B").replace("+", "p")}">
+      <div class="policy-card-top">
+        <span class="policy-level-badge" style="color:${meta.color};background:${meta.bg};border-color:${meta.color}44">${meta.icon} ${art.level || "B"}级</span>
+        <span class="policy-source">${art.source || ""}</span>
+        <span class="policy-time">${timeStr}</span>
+      </div>
+      <h3 class="policy-card-title">${cleanTitle}</h3>
+      ${art.abstract ? `<p class="policy-card-abstract">${art.abstract}</p>` : ""}
+      ${art.reason ? `<p class="policy-card-reason"><span class="policy-reason-label">判定理由</span>${art.reason}</p>` : ""}
+      <div class="policy-card-footer">
+        <span class="policy-readmore">查看政策原文 →</span>
+      </div>
+    </a>`;
+  }
+
+  let html = `
+  <div class="policy-intro">
+    <div class="policy-heading-row">
+      <h2 class="policy-heading">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="22" height="22">
+          <path d="M9 12l2 2 4-4"/><circle cx="12" cy="12" r="10"/>
+          <path d="M12 2l7 4v6c0 4.5-3 8.5-7 10-4-1.5-7-5.5-7-10V6l7-4z"/>
+        </svg>
+        政策类 · 食品行业重磅政策
+      </h2>
+      <span class="policy-update-badge">每日 09:00 · 近7天 · S+/S/A/B 分级</span>
+    </div>
+    <p class="policy-sub">聚焦食品/粮食/乳粉/特医/婴幼儿配方/添加剂/营养标签等监管政策 · 国标 / 法规 / 公告 / 征求意见 / 规划 / 抽检</p>
+  </div>
+
+  <!-- 级别筛选 -->
+  <div class="policy-filter-bar">
+    <span class="policy-filter-label">级别</span>
+    <div class="policy-filter-chips">${levelChipsHTML}</div>
+  </div>
+
+  <!-- 统计 -->
+  <div class="policy-stats-bar">
+    <span class="policy-stat" style="color:#dc2626">💥 S+级 ${countByLevel["S+"]}</span>
+    <span class="policy-stat" style="color:#d97706">🔴 S级 ${countByLevel["S"]}</span>
+    <span class="policy-stat" style="color:#2563eb">🟠 A级 ${countByLevel["A"]}</span>
+    <span class="policy-stat" style="color:#6b7280">🟡 B级 ${countByLevel["B"]}</span>
+    <span class="policy-stat-total">共 ${total} 条</span>
+  </div>`;
+
+  // 分组渲染
+  LEVEL_ORDER.forEach(lv => {
+    const arts = groups[lv];
+    if (arts.length === 0 || !policyLevelsActive.has(lv)) return;
+    const meta = POLICY_LEVEL_META[lv];
+    const sectionClass = lv === "S+" ? "policy-section-splus" : lv === "S" ? "policy-section-s" : lv === "A" ? "policy-section-a" : "policy-section-b";
+    html += `<div class="policy-section">
+      <h3 class="policy-section-title ${sectionClass}">${meta.icon} ${meta.label} <em class="policy-section-count">${arts.length}条</em></h3>
+      <div class="policy-grid">`;
+    arts.forEach(a => { html += renderPolicyCard(a); });
+    html += `</div></div>`;
+  });
+
+  if (filtered.length === 0) {
+    html += `<div class="policy-empty"><span>📭 当前筛选条件下没有政策资讯</span></div>`;
+  }
+
+  html += `
+  <div class="policy-note">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16">
+      <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+    </svg>
+    <strong>S+级</strong>=十五五食品专项规划首发 / 首个强制性国标 / 三大部委联合重大改革 · <strong>S级</strong>=市监总局/卫健委/农业农村部规章或强制性国标（GB）· <strong>A级</strong>=地方条例/行业团标/权威解读 · <strong>B级</strong>=省市配套通知/科普活动。每日09:00抓取，保留近7天数据。
+  </div>`;
+
+  articlesGrid.innerHTML = html;
+  articlesGrid.classList.add("policy-view");
+}
+
+// 政策类筛选函数
+function togglePolicyLevel(btn, level) {
+  if (policyLevelsActive.has(level)) { policyLevelsActive.delete(level); btn.classList.remove("active"); }
+  else { policyLevelsActive.add(level); btn.classList.add("active"); }
+  renderPolicyView();
+}
+function toggleAllPolicyLevels() {
+  const all = ["S+", "S", "A", "B"];
+  if (policyLevelsActive.size >= 4) policyLevelsActive.clear();
+  else policyLevelsActive = new Set(all);
+  renderPolicyView();
 }

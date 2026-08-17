@@ -1485,3 +1485,302 @@ footer {
   padding-top: 12px;
 }
 
+/* ════════════════════════════════════════════════════════════
+   政策类 Tab 按钮特殊样式
+════════════════════════════════════════════════════════════ */
+.tab-btn-policy {
+  position: relative;
+}
+.tab-btn-policy.active {
+  background: linear-gradient(135deg, #1e40af, #2563eb) !important;
+  border-color: #1e40af !important;
+  color: #fff !important;
+}
+.tab-btn-policy:not(.active):hover {
+  border-color: #2563eb !important;
+  color: #1e40af !important;
+}
+
+/* ════════════════════════════════════════════════════════════
+   政策类视图
+════════════════════════════════════════════════════════════ */
+.policy-view { display: block; }
+
+/* 头部介绍 */
+.policy-intro {
+  padding: 20px 24px 12px;
+  border-bottom: 1px solid var(--c-border);
+  margin-bottom: 8px;
+}
+.policy-heading-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 6px;
+}
+.policy-heading {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--c-text-1);
+  margin: 0;
+}
+.policy-heading svg { color: #2563eb; }
+.policy-update-badge {
+  font-size: .72rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 12px;
+  background: #eff6ff;
+  color: #1e40af;
+  border: 1px solid #bfdbfe;
+  white-space: nowrap;
+}
+.policy-sub {
+  font-size: .82rem;
+  color: var(--c-text-3);
+  line-height: 1.6;
+  margin: 6px 0 0;
+}
+
+/* 级别筛选栏 */
+.policy-filter-bar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 10px 24px;
+  border-bottom: 1px solid var(--c-border);
+  background: var(--c-surface-2, transparent);
+}
+.policy-filter-label {
+  font-size: .78rem;
+  font-weight: 700;
+  color: var(--c-text-3);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.policy-filter-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.policy-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: .76rem;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 16px;
+  border: 1px solid var(--c-border);
+  background: var(--c-surface);
+  color: var(--c-text-2);
+  cursor: pointer;
+  transition: all .15s ease;
+}
+.policy-chip em {
+  font-style: normal;
+  font-size: .72rem;
+  opacity: .7;
+}
+.policy-chip.active {
+  border-color: #2563eb;
+  color: #1e40af;
+  background: #eff6ff;
+}
+.policy-chip-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* 统计栏 */
+.policy-stats-bar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 10px 24px;
+  border-bottom: 1px solid var(--c-border);
+}
+.policy-stat {
+  font-size: .78rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 12px;
+  background: var(--c-surface-2, #f5f5f5);
+}
+.policy-stat-total {
+  font-size: .78rem;
+  font-weight: 700;
+  color: var(--c-text-3);
+  margin-left: auto;
+}
+
+/* 分区 */
+.policy-section {
+  padding: 12px 24px 4px;
+}
+.policy-section-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: .95rem;
+  font-weight: 800;
+  color: var(--c-text-1);
+  margin: 10px 0 10px;
+  padding: 8px 14px;
+  border-radius: 10px;
+  border-left: 4px solid;
+}
+.policy-section-count {
+  font-style: normal;
+  font-size: .75rem;
+  font-weight: 600;
+  opacity: .7;
+  margin-left: 4px;
+}
+.policy-section-splus {
+  background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+  border-left-color: #dc2626;
+  color: #991b1b;
+}
+.policy-section-s {
+  background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+  border-left-color: #d97706;
+  color: #92400e;
+}
+.policy-section-a {
+  background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+  border-left-color: #2563eb;
+  color: #1e40af;
+}
+.policy-section-b {
+  background: var(--c-surface-2, #f5f5f5);
+  border-left-color: #9ca3af;
+  color: var(--c-text-2);
+}
+
+/* 网格 */
+.policy-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+/* 卡片 */
+.policy-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px 18px;
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: 14px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform .18s cubic-bezier(.16,1,.3,1), box-shadow .18s ease, border-color .18s ease;
+}
+.policy-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.08);
+  border-color: #93c5fd;
+}
+.policy-card-splus { border-top: 3px solid #dc2626; }
+.policy-card-s      { border-top: 3px solid #d97706; }
+.policy-card-a      { border-top: 3px solid #2563eb; }
+.policy-card-b      { border-top: 3px solid #9ca3af; }
+
+.policy-card-top {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.policy-level-badge {
+  font-size: .7rem;
+  font-weight: 800;
+  padding: 2px 8px;
+  border-radius: 10px;
+  border: 1px solid;
+  white-space: nowrap;
+}
+.policy-source {
+  font-size: .72rem;
+  font-weight: 600;
+  color: var(--c-text-3);
+}
+.policy-time {
+  font-size: .7rem;
+  color: var(--c-text-3);
+  margin-left: auto;
+}
+.policy-card-title {
+  font-size: .95rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: var(--c-text-1);
+  margin: 0;
+}
+.policy-card-abstract {
+  font-size: .8rem;
+  line-height: 1.6;
+  color: var(--c-text-2);
+  margin: 0;
+}
+.policy-card-reason {
+  font-size: .74rem;
+  line-height: 1.55;
+  color: var(--c-text-3);
+  margin: 0;
+  padding: 8px 10px;
+  background: var(--c-surface-2, #f8f8f8);
+  border-radius: 8px;
+}
+.policy-reason-label {
+  display: inline-block;
+  font-weight: 700;
+  font-size: .68rem;
+  color: #2563eb;
+  margin-right: 6px;
+  background: #eff6ff;
+  padding: 1px 6px;
+  border-radius: 6px;
+}
+.policy-card-footer {
+  margin-top: auto;
+  padding-top: 4px;
+}
+.policy-readmore {
+  font-size: .76rem;
+  font-weight: 700;
+  color: #2563eb;
+}
+
+/* 空状态 */
+.policy-empty {
+  text-align: center;
+  padding: 48px 24px;
+  color: var(--c-text-3);
+  font-size: .9rem;
+}
+
+/* 底部说明 */
+.policy-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: .76rem;
+  color: var(--c-text-3);
+  line-height: 1.6;
+  margin: 4px 24px 24px;
+}
+.policy-note svg { flex-shrink: 0; margin-top: 2px; }
+
