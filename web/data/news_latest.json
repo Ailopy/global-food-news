@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T12:51:06.082935+08:00",
+  "last_updated": "2026-08-17T13:24:38.993174+08:00",
   "retention_days": 7,
-  "total": 470,
+  "total": 468,
   "sources": [
     "BevNET",
     "Fab News",
@@ -28,6 +28,18 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "a5b6df9bda129c9d",
+      "title": "【2026年8月第3週】コンビニ麺・コンビニパスタランキング1位はトマトグラタン！新商品・担担麺続々まとめ",
+      "summary": "暑さが続く8月、コンビニの麺・パスタコーナーから目が離せません。冷たい麺からボリューム満点のグラタン、エスニック系まで、今週もバラエティ豊かなラインナップが揃…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25377/?utm_source=rss&utm_medium=mognavinews_20260817",
+      "published_at": "2026-08-17T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "6d2193da0feb847b",
@@ -5615,42 +5627,6 @@
       "summary": "こんにちは、もぐナビ編集部です！アイスクリームの新商品情報をお届けします。来週新発売の#アイスクリームハーゲンダッツ クリスピーサンド ピーナッツ＆バターキャ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026081006/?utm_source=rss&utm_medium=mognavinews_20260810",
       "published_at": "2026-08-10T13:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "dd83bc571f9c904b",
-      "title": "猛暑で塩入りキャンディが好調　塩あめ、タブレットに加えグミも登場",
-      "summary": "猛暑を背景に、塩入りキャンディ市場が拡大している。従来の塩あめやタブレットに加え、今夏はグミなど新たな商品も加わり、「塩」を切り口とした市場のすそ野が広がっている。メーカー各社では、販売期間の長期化に伴い、食シーンの提案...",
-      "url": "https://www.ssnp.co.jp/snack/697287/",
-      "published_at": "2026-08-10T13:24:21+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "95f8041cf7f205ba",
-      "title": "【2026年8月第2週】コンビニ麺・コンビニパスタランキング1位はトマトグラタン！夏の新作冷し麺も続々登場まとめ",
-      "summary": "毎週お届けするコンビニ麺・コンビニパスタのランキング、今週もバラエティ豊かな顔ぶれが揃いました。夏らしい冷たい麺から、ほっこりするグラタン系、本格派のエスニッ…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25104/?utm_source=rss&utm_medium=mognavinews_20260811",
-      "published_at": "2026-08-10T13:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "29576f17ac41fb48",
-      "title": "【2026年8月第2週】コンビニ麺・コンビニパスタランキング1位はトマトグラタン！夏の新作冷し麺も続々登場まとめ",
-      "summary": "毎週お届けするコンビニ麺・コンビニパスタのランキング、今週もバラエティ豊かな顔ぶれが揃いました。夏らしい冷たい麺から、ほっこりするグラタン系、本格派のエスニッ…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25104/?utm_source=rss&utm_medium=mognavinews_20260810",
-      "published_at": "2026-08-10T13:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
