@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-17T15:45:42",
+  "last_updated": "2026-08-18T10:09:00",
   "retention_days": 7,
-  "total": 476,
+  "total": 481,
   "s_count": 33,
   "a_count": 4,
-  "b_count": 439,
+  "b_count": 444,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.18日清食品「冷凍 完全メシ DELI」 シリーズ2品 (8月18日発売)",
+      "url": "https://www.nissin.com/jp/news/13886/",
+      "published_at": "2026-08-18T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "\"잘못 배송된 고사리가 쏘아 올린 글로벌 K-비건의 꿈\" 배드캐럿이 프론티어랩스에서 찾은 다음 성장의 답PeopleESG2026.08.18",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/110",
+      "published_at": "2026-08-18T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -118,6 +140,17 @@
       "region": "日本",
       "title": "2026.08.17ぼんち「海鮮揚煎えび揚げせん」「海鮮揚煎おじゃこ揚げせん」(8月31日から順次リニューアル発売)",
       "url": "https://www.nissin.com/jp/news/13873/",
+      "published_at": "2026-08-17T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.17日清食品「令和8年 熊本地震」の被災地支援について",
+      "url": "https://www.nissin.com/jp/news/13888/",
       "published_at": "2026-08-17T00:00:00",
       "summary": "",
       "level": "B",
@@ -415,6 +448,17 @@
       "region": "日本",
       "title": "キリンの「スペーステロワール」が衛星データ活用の2つのコンテストで受賞 ブドウ栽培とワインづくりの課題解決に向けた提案が評価",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0804_02.pdf",
+      "published_at": "2026-08-04T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "キリンの「スペーステロワール」が衛星データ活用の2つのコンテストで受賞 ブドウ栽培とワインづくりの課題解決に向けた提案が評価",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0804_02.html",
       "published_at": "2026-08-04T02:00:05",
       "summary": "",
       "level": "B",
@@ -2408,6 +2452,17 @@
       "url": "https://www.generalmills.com/news-and-stories/press-releases/shaquille-oneal-and-general-mills-search-for-americas-biggest-cereal-fans",
       "published_at": "2026-05-31T00:00:00",
       "summary": "Cinnamon Toast Crunch, Lucky Charms, Reese’s Puffs and Honey Nut Cheerios are fueling cereal fandom with larger-than-life prizes, exclusive merch and epic experiences.",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Press Releases",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases",
+      "published_at": "2026-05-31T00:00:00",
+      "summary": "Shaquille O’Neal and General Mills Search for America’s Biggest Cereal Fans, Offering Big Prizes and Exclusive Merch",
       "level": "B",
       "level_reason": "企业动态"
     },
