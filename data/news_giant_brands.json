@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-18T10:09:00",
+  "last_updated": "2026-08-18T15:31:58",
   "retention_days": 7,
-  "total": 481,
+  "total": 482,
   "s_count": 33,
   "a_count": 4,
-  "b_count": 444,
+  "b_count": 445,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -54,6 +54,17 @@
       "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/110",
       "published_at": "2026-08-18T00:00:00",
       "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 비비고, 글로벌 대표 K-푸드로 美 K-팝 팬심 공략2026.08.18",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1803",
+      "published_at": "2026-08-18T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -384,6 +395,17 @@
       "url": "https://news.ajinomoto.co.jp/2026/08/2026_08_06_03.pdf",
       "published_at": "2026-08-06T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/shaquille-oneal-and-general-mills-search-for-americas-biggest-cereal-fans",
+      "published_at": "2026-08-06T00:00:00",
+      "summary": "Shaquille O’Neal and General Mills Search for America’s Biggest Cereal Fans, Offering Big Prizes and Exclusive Merch",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -2443,17 +2465,6 @@
       "summary": "It’s the most spooktacular time of year — Count Chocula, Boo Berry and Franken Berry are returning to the cereal aisle with new limited-edition packaging featuring puppets from Jim Henson’s Creature S",
       "level": "S",
       "level_reason": "营销创新"
-    },
-    {
-      "brand": "General Mills",
-      "brand_cn": "通用磨坊",
-      "region": "北美",
-      "title": "Shaquille O’Neal and General Mills Search for America’s Biggest Cereal Fans, Offering Big Prizes and Exclusive Merch",
-      "url": "https://www.generalmills.com/news-and-stories/press-releases/shaquille-oneal-and-general-mills-search-for-americas-biggest-cereal-fans",
-      "published_at": "2026-05-31T00:00:00",
-      "summary": "Cinnamon Toast Crunch, Lucky Charms, Reese’s Puffs and Honey Nut Cheerios are fueling cereal fandom with larger-than-life prizes, exclusive merch and epic experiences.",
-      "level": "B",
-      "level_reason": "企业动态"
     },
     {
       "brand": "General Mills",
