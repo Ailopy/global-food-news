@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-19T10:11:00",
+  "last_updated": "2026-08-19T15:32:47",
   "retention_days": 7,
-  "total": 483,
+  "total": 484,
   "s_count": 33,
   "a_count": 4,
-  "b_count": 446,
+  "b_count": 447,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -42,6 +42,28 @@
       "title": "紅茶カテゴリーをさらに拡大！果実すっきりなおいしさが進化 「午後の紅茶 FRUITS ＆ ICE TEA」シリーズ 9月15日（火）より、リニューアル新発売！",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0819_01.html",
       "published_at": "2026-08-19T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-08-19T00:00:00",
+      "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.19日清食品鈴木 憲和農林水産大臣が日清食品 東京本社を訪問  「完全メシ」を活用した社会課題の解決について意見交換",
+      "url": "https://www.nissin.com/jp/news/13889/",
+      "published_at": "2026-08-19T00:00:00",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
@@ -109,17 +131,6 @@
       "url": "https://www.nissin.com/jp/news/13874/",
       "published_at": "2026-08-17T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-08-17T00:00:00",
-      "summary": "2026 年12月期 上期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
