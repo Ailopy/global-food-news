@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-18T15:31:58",
+  "last_updated": "2026-08-19T10:11:00",
   "retention_days": 7,
-  "total": 482,
+  "total": 483,
   "s_count": 33,
   "a_count": 4,
-  "b_count": 445,
+  "b_count": 446,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "紅茶カテゴリーをさらに拡大！果実すっきりなおいしさが進化 「午後の紅茶 FRUITS ＆ ICE TEA」シリーズ 9月15日（火）より、リニューアル新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0819_01.html",
+      "published_at": "2026-08-19T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
