@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T10:10:07",
+  "last_updated": "2026-08-20T15:34:19",
   "retention_days": 7,
   "total": 488,
   "s_count": 33,
@@ -58,6 +58,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-08-20T00:00:00",
+      "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -65,17 +76,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0819_01.html",
       "published_at": "2026-08-19T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-08-19T00:00:00",
-      "summary": "2026 年12月期 上期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
