@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-19T15:32:47",
+  "last_updated": "2026-08-20T10:10:07",
   "retention_days": 7,
-  "total": 484,
+  "total": 488,
   "s_count": 33,
   "a_count": 4,
-  "b_count": 447,
+  "b_count": 451,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,28 @@
   ],
   "articles": [
     {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.20湖池屋「湖池屋ポテトチップスの日」にちなんだプレゼントキャンペーン",
+      "url": "https://www.nissin.com/jp/news/13887/",
+      "published_at": "2026-08-20T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, ‘해찬들 옛장’ 출시로 프리미엄 장맛 지평 넓힌다… \"전통 장맛에 현대적 발효기술 더해 감칠...2026.08.20",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1805",
+      "published_at": "2026-08-20T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -65,6 +87,17 @@
       "url": "https://www.nissin.com/jp/news/13889/",
       "published_at": "2026-08-19T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "K-푸드의 넥스트, 식탁을 완성하는 마지막 한 잔 ‘jariFoodGlobal2026.08.19",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/111",
+      "published_at": "2026-08-19T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -1141,6 +1174,17 @@
       "region": "韩国",
       "title": "CJ제일제당, 부산공장에 “色” 더해 안전성 높였다… “국내 식품업계 최초”2026.07.20",
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1789",
+      "published_at": "2026-07-20T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Coca-Cola",
+      "brand_cn": "可口可乐",
+      "region": "北美",
+      "title": "FeaturedOne Iconic Brand. One Iconic Look. Coca‑Cola® Sharpens Its Identity Under One Bold Visual System20 July 2026CompanyBrands",
+      "url": "https://www.coca-colacompany.com/media-center/coca-cola-sharpens-its-identity-under-one-bold-visual-system",
       "published_at": "2026-07-20T00:00:00",
       "summary": "",
       "level": "B",

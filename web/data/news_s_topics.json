@@ -1,33 +1,249 @@
 {
-  "total": 213,
-  "s_plus_count": 38,
+  "total": 226,
+  "s_plus_count": 40,
   "sites": [
-    "朝日グループYouTube",
+    "日経xTrend",
     "日経新聞",
     "Packaging Digest",
-    "日経xTrend",
-    "Food Dive"
+    "Food Dive",
+    "朝日グループYouTube"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "新产品": 49,
-    "其他": 80,
-    "营销创新": 17,
+    "新产品": 53,
+    "营销创新": 18,
+    "其他": 85,
+    "联名营销": 18,
     "品牌故事": 12,
-    "联名营销": 17,
-    "并购融资": 7,
-    "行业政策": 15,
+    "并购融资": 8,
+    "行业政策": 16,
     "渠道新物种": 4,
     "新包装": 1,
     "新原料": 8,
     "新技术": 3
   },
-  "last_updated": "2026-08-19 10:11",
-  "last_updated_iso": "2026-08-19T10:11:18.346356+08:00",
+  "last_updated": "2026-08-20 10:10",
+  "last_updated_iso": "2026-08-20T10:10:24.430364+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "実は“おいしい”国勢調査員 時給以上のメリットがある副業を一挙紹介",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00010/?n_cid=nbpnxr_rss",
+      "summary": "2026年8月4日発売の「日経トレンディ2026年9月号」では、「自分年金を増やす最新投資術」を特集。スポットワーカーの平均月収はわずか2.8万円。それでも発想を変えれば、副業は“稼ぎ”以上の価値を生む。国勢調査員から交通誘導警備員、ミステリーショッパー、さらにはタクシードライバーまで。収入に加え、人脈や次の仕事につながるチャンス、独立への道まで見えてくる副業もある。月3万円を目標に、効率よく収入と将来の可能性を広げる副業の選び方を探る。",
+      "published_at": "2026-08-20T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-20T10:10:10+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "キャンプブーム終息でも熱狂 アース製薬の価格10倍、1万円超え虫よけ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00352/?n_cid=nbpnxr_rss",
+      "summary": "ヒット商品の“卵”が集まる応援購入サービス「Makuake」。新しい商品やサービスを世に出したい企業・団体と、それをいち早く手に入れたいサポーターをつなぐプラットフォームとして人気だ。発売前に消費者の反応を探れることから、企業・団体にとって商品開発力を鍛える場としても重宝されている。そんなマクアケには大企業発の商品・サービスも多い。例えば2026年夏はアース製薬が手掛けた虫よけキャンプギアに人気が集まっている。害虫対策商品の多くは小売店で数百円から1000円台で売られている中、この“新商品”の価格は驚異の1万円超えだ。一体、どんなものか。",
+      "published_at": "2026-08-20T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-20T10:10:10+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "皿もご飯も不要 ハウス食品「チャチャめし」が狙うタイパ需要",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02950/?n_cid=nbpnxr_rss",
+      "summary": "ハウス食品が2026年7月に発売した「チャチャめし」は、ご飯も皿も不要な新発想のレトルトカレーだ。ご飯の代わりに独自の「とうもろこし米」を採用し、袋のままレンジで温めるだけで食べられる。タイムパフォーマンスを重視する若年層のニーズを背景に開発され、ハウス食品は新たなレトルト食品カテゴリーとして育成を目指している。米を使ったカレーライスに近い食感と満足感があるというが、実際はどうか。",
+      "published_at": "2026-08-20T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "食感",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-20T10:10:10+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "DAZN笹本CEOが料金表示騒動後に初激白 W杯での教訓と成長戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01927/?n_cid=nbpnxr_rss",
+      "summary": "2026年6～7月に行われたFIFAワールドカップ（W杯）北中米大会の全104試合をライブ配信したDAZN。期間限定の新プラン「DAZN Soccer」を訴求したが、12カ月間は解約できないプランにもかかわらず、当初3カ月間のキャンペーン価格「月額980円」を大きく表示していたことに批判が殺到し、謝罪と返金対応に追い込まれた。日経クロストレンドは、この騒動が起きてからメディア初となるDAZN Japan笹本裕CEOへの単独インタビューを実施。同氏は、表示の分かりやすさを改善すると陳謝したうえで、大会期間中のユニーク視聴者数が約1615万人、総視聴数が4億を超えたと明らかにした。ユーザーの新規獲得で規模が拡大したことにより、より積極的な投資が可能になったと話す。",
+      "published_at": "2026-08-20T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "ユニーク",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-08-20T10:10:10+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "カルビーが芋のミルクをセブンでテスト販売 狙うは「ゆる健康」市場",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01930/?n_cid=nbpnxr_rss",
+      "summary": "日本の紙パック飲料市場、とりわけ「植物性ミルク」の市場が活況だ。そんな中、新たな挑戦者が現れた。2026年5月と8月、カルビーがさつまいもを主原料とした植物性飲料ブランド「次のミルク」をテスト発売し、飲料市場へ本格参入を狙う。一方、豆乳シリーズで守りを固めるキッコーマンは、江崎グリコの「アーモンド効果」を意識した新たな一手を打つ。それぞれの勝ち筋はどこにあるのか。",
+      "published_at": "2026-08-20T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-20T10:10:10+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "6 Food &amp; Beverage Packs That Generate Back-to-School Buzz",
+      "url": "https://www.packagingdigest.com/food-beverage/6-food-beverage-packs-that-generate-back-to-school-buzz",
+      "summary": "What’s for lunch? These back-to-school foods and beverages are perfect for sparking lunchroom conversations.",
+      "published_at": "2026-08-19T23:43:05Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-20T10:10:22+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Goose Island Flags Barrel-Aged Beer with Signature Neck Labels",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/goose-island-flags-barrel-aged-beer-with-signature-neck-labels",
+      "summary": "The 2026 Bourbon County Brand lineup pairs six barrel-aged releases with brand-differentiating minimalist embossed bottles and distinctive flagged neck labels.",
+      "published_at": "2026-08-19T22:11:25Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-08-20T10:10:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「食器を洗うのも面倒」 ハウス食品が作った“ご飯不要カレー”を食べてみた",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTU5vNzVrWXJNV182d1RBT25zUHpVbDNIZng3X3lNQjU5cS1keUt6NVRkcFhyOVdUUm5IblRkaG9LTzdMektwUHVHUFdfT0V0NzliTVJIYy1MZVlrYnphX1BTektGclBNNjl4M0dRTUJMSWNhSExHM0ZJM0M5WDN2S19WUQ?oc=5",
+      "summary": "「食器を洗うのも面倒」 ハウス食品が作った“ご飯不要カレー”を食べてみた&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-20T10:10:07+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "カルビーが芋のミルクをセブンでテスト販売 狙うは「ゆる健康」市場",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU0ppWG9GMFNQUlVSMnNvNHpZLXJJSkQ5ckJZM0tjSHRucUxkNUNscWJpSXF2eTV1LXduX0cxcEF2c2JpdnBOQkJsNngwRTM4Y2NHSmtpQnE0NElKSUthWWM0VU1fTXY2anVTanllQ0p0RTgxM1M3TmJhLU9ZbTItS2Z1NmlIQWpo?oc=5",
+      "summary": "カルビーが芋のミルクをセブンでテスト販売 狙うは「ゆる健康」市場&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-20T10:10:07+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -5097,6 +5313,94 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-08-19T10:11:14+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Kraft Heinz focuses innovation to address ‘unmet’ consumer diet needs",
+      "url": "https://www.fooddive.com/news/kraft-heinz-focuses-innovation-to-address-unmet-consumer-diet-needs/825696/",
+      "summary": "Lactose-free Philadelphia cream cheese and clean-label Heinz ketchup could attract consumers previously unable to engage with the food giant’s portfolio.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-08-20T10:10:20+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Ardagh considers sale of metal beverage can business",
+      "url": "https://www.fooddive.com/news/ardagh-holdings-potential-sale-ardagh-metal-packaging-restructuring/827915/",
+      "summary": "The company’s beverage can sales and global volumes were down 1% year over year in its most recent quarter.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-20T10:10:20+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Ferrero to buy better-for-you breakfast brand Purely Elizabeth",
+      "url": "https://www.fooddive.com/news/ferrero-buys-purely-elizabeth-breakfast-better-for-you-expansion/827963/",
+      "summary": "The deal builds on the Luxembourg-based food giant's $3.1 billion acquisition of cereal maker WK Kellogg in 2025.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-08-20T10:10:20+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "PepsiCo reports increase in recycled content for plastic packaging",
+      "url": "https://www.fooddive.com/news/pepsico-packaging-plastic-reduction-recycling-report/827927/",
+      "summary": "The CPG company noted progress from lightweighting Gatorade and Lipton bottles in North America along with other international redesign examples.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-20T10:10:20+08:00"
     }
   ]
 }
