@@ -1,33 +1,99 @@
 {
-  "total": 226,
+  "total": 232,
   "s_plus_count": 40,
   "sites": [
     "日経xTrend",
-    "日経新聞",
     "Packaging Digest",
-    "Food Dive",
-    "朝日グループYouTube"
+    "朝日グループYouTube",
+    "日経新聞",
+    "Food Dive"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "新产品": 53,
+    "其他": 91,
+    "新产品": 52,
     "营销创新": 18,
-    "其他": 85,
     "联名营销": 18,
-    "品牌故事": 12,
-    "并购融资": 8,
-    "行业政策": 16,
+    "品牌故事": 11,
+    "并购融资": 9,
+    "行业政策": 17,
     "渠道新物种": 4,
     "新包装": 1,
     "新原料": 8,
     "新技术": 3
   },
-  "last_updated": "2026-08-20 10:10",
-  "last_updated_iso": "2026-08-20T10:10:24.430364+08:00",
+  "last_updated": "2026-08-21 10:16",
+  "last_updated_iso": "2026-08-21T10:16:41.587137+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "オイシックスの新おせちは「ラーメン」 隠れた需要を発掘、目標2億円",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02953/?n_cid=nbpnxr_rss",
+      "summary": "食品宅配サービス「Oisix（オイシックス）」を展開するオイシックスは2027年の正月に向けて、神奈川県湯河原町の名店「飯田商店」と共同開発した「飯田商店監修らぁ麺おせち」の予約販売を始めている。04年からおせちを展開してきた同社が、今回あえて“ラーメン”を組み合わせた背景には、「おせちに飽きた後に食べたくなるもの」としてラーメンを挙げる消費者インサイト、従来のおせちではファミリー層を取り込みにくかったという課題、そして高価格帯ラーメン市場への進出を探る狙いがある。伝統的なおせちに、温かく自由度のある“年明けラーメン”体験を重ねることで、年末年始の食卓提案を広げて2億～3億円の売り上げを目指す。",
+      "published_at": "2026-08-21T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-21T10:16:26+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "なぜヨックモックはPodcastを始めたのか 届けたいのは「お菓子のある時間」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rbm9oa1A2ZVNlVnUtWTc1azcwZUdGemhsVldrUEhQaldLVFpLVXRUdmIzR0Ytam9maWxNMl93VExGOTlUY0NJbWZhQlRDekNfNy1VLVNQak9yN0VhWEJsaElkYk9DUQ?oc=5",
+      "summary": "なぜヨックモックはPodcastを始めたのか 届けたいのは「お菓子のある時間」&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-20T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-21T10:16:24+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "VRChatがTGS初出展 日替わりのステージ企画などを用意【TGS2026】",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01222/00083/?n_cid=nbpnxr_rss",
+      "summary": "没入型ソーシャルプラットフォーム「VRChat」を運営する米国のVRChat Inc.は、2026年9月17～21日に開催される「東京ゲームショウ2026」（TGS2026）に初出展する。日替わりのスペシャルステージや体験コーナーなどを展開する。",
+      "published_at": "2026-08-20T14:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-21T10:16:27+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -243,6 +309,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-20T10:10:07+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "カルビーが芋のミルクをセブンでテスト販売 狙うは「ゆる健康」市場",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wOVZNR2hEZllkY3A5THhacjlDaVBXOEt3SjRXQUUzSzZPTTV0eWlJQ2Q2S2xnU1B4UC1Pa3lPaHJsYTR0aFpjbHJCWTAtTXZOUFFoemVMVmNDaVV4WDlsYjdYNEtHOTZQLTExel8wTQ?oc=5",
+      "summary": "カルビーが芋のミルクをセブンでテスト販売 狙うは「ゆる健康」市場&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-21T10:16:24+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -1084,6 +1172,34 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-08-12T11:17:43+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "FDA Food Ingredient Rule Impacts Packaging Industry Compliance",
+      "url": "https://www.packagingdigest.com/regulations-standards/fda-food-ingredient-rule-impacts-packaging-industry-compliance",
+      "summary": "New FDA rule mandates GRAS notifications for food ingredients and contact substances, increasing transparency and regulatory oversight for packaging manufacturers.",
+      "published_at": "2026-08-11T19:53:10Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 3
+        },
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-08-21T10:16:39+08:00"
     },
     {
       "site_name": "Packaging Digest",
@@ -3913,50 +4029,6 @@
       "scraped_at": "2026-07-21T12:10:06+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "新指標「顧客幸福度」ランキング2026",
-      "url": "https://xtrend.nikkei.com/info/podcast/19/00414/?n_cid=nbpnxr_rss",
-      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の最新トレンドをチェックする「WEEKLY TREND KEYWORDS」では、ロッテホールディングスが手掛けた、これまでにないアルミ缶入りミネラルウオーター「THE DAY」をピックアップ。後半は「新指標『顧客幸福度』ランキング2026」をお送りします。2026年で3回目を迎えた企業・ブランドに対して、生活者がどれだけ幸福度を感じているかを示す指標「企業・ブランドの幸福度調査」。26年は調査対象を36業界の主要企業・ブランドに大幅拡大しました。今回は、26年の総合ランキングトップ10を紹介します。あわせて、上位にランクインしたバイクのカワサキとコメダ珈琲店に注目し、その支持される理由を紹介します。解説は日経クロストレンドの中村勇介編集長。",
-      "published_at": "2026-07-20T05:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-07-20T12:30:00+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "犬猫生活[556A]：新商品販売に関するお知らせ 2026年7月14日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhd0FsZXRuWi01Vm1yNlFhdHRsNkJXX0p5YllKQ0Y1OGt6TURIVUhTaWtEcnlnU05FSzJ1MHM4LTdFZVJ4a1ZfbkNYRXRkNmg2b1ZJcWlCSEtORVZqdFFKa1g1c2Zkd0NUVHc?oc=5",
-      "summary": "犬猫生活[556A]：新商品販売に関するお知らせ 2026年7月14日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-07-13T23:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-20T12:29:58+08:00"
-    },
-    {
       "site_name": "Food Dive",
       "site_name_en": "Food Dive",
       "region": "北美",
@@ -5401,6 +5473,72 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-20T10:10:20+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Where SNAP participation has fallen the most",
+      "url": "https://www.fooddive.com/news/where-snap-participation-declined-april-2026/828243/",
+      "summary": "All but one state saw a year-over-year drop in the number of people enrolled in the food assistance program in April.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-21T10:16:37+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Sazerac buys UK-based canned cocktail brand Au Vodka",
+      "url": "https://www.fooddive.com/news/sazerac-buys-au-vodka-rtd-cocktail-expansion/828122/",
+      "summary": "The acquisition broadens the BuzzBallz owner's RTD portfolio while opening the door for U.S. expansion.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-08-21T10:16:37+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "What does the ‘GLP-1 friendly’ label really mean?",
+      "url": "https://www.fooddive.com/news/glp1s-label-food-opinion/828128/",
+      "summary": "Food brands are increasingly using the label on packaging, but failing to explain how it may help consumers on weight loss drugs, an expert writes.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-21T10:16:37+08:00"
     }
   ]
 }

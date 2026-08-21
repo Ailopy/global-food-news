@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-20T15:34:19",
+  "last_updated": "2026-08-21T10:16:23",
   "retention_days": 7,
-  "total": 488,
+  "total": 489,
   "s_count": 33,
   "a_count": 4,
-  "b_count": 451,
+  "b_count": 452,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 PHA, 미국 유명 언론에서 우수성 조명받아2026.08.21",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1806",
+      "published_at": "2026-08-21T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
