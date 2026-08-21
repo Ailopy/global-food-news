@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-21T10:16:23",
+  "last_updated": "2026-08-21T15:36:57",
   "retention_days": 7,
-  "total": 489,
+  "total": 490,
   "s_count": 33,
   "a_count": 4,
-  "b_count": 452,
+  "b_count": 453,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -47,6 +47,28 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-08-21T00:00:00",
+      "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.21日清食品ホールディングス日清食品グループの社会貢献活動「百福士プロジェクト」第34弾  「みんなで学ぼう おいしい防災備蓄  -NISSIN防災冒険隊-」を実施",
+      "url": "https://www.nissin.com/jp/news/13896/",
+      "published_at": "2026-08-21T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
@@ -65,17 +87,6 @@
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1805",
       "published_at": "2026-08-20T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-08-20T00:00:00",
-      "summary": "2026 年12月期 上期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
