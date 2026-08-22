@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-08-22T09:00:40.451986+08:00",
-  "total": 8138,
+  "last_updated": "2026-08-22T12:40:00.871098+08:00",
+  "total": 8146,
   "articles": [
+    {
+      "id": "fe0d6ddca079af62",
+      "title": "【2026年8月第4週】ケーキ・洋菓子ランキング1位はヤマザキ北海道産チーズのクリームサンド！新商品・急上昇まとめ",
+      "summary": "毎週お届けするもぐナビのケーキ・洋菓子ランキング、今週も気になる商品がずらりと並びました。チーズ系スイーツやタルト、個性派フレーバーのケーキと、この夏もコンビ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25657/?utm_source=rss&utm_medium=mognavinews_20260822",
+      "published_at": "2026-08-22T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5f23bd217823c76e",
+      "title": "今週新発売のもち麦まとめ！『もち麦　スーパー大麦　枝豆チーズ』、『道産秋鮭焼ほぐしごはん　もち麦』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！もち麦の新商品情報をお届けします。来週新発売の#もち麦ファミリーマート もち麦 スーパー大麦 枝豆チーズもち麦とスーパー大麦入…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082204/?utm_source=rss&utm_medium=mognavinews_20260822",
+      "published_at": "2026-08-22T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9dd077acfa7db3ac",
+      "title": "【2026年8月第4週】惣菜パンランキング1位はヤマザキ薄皮U.F.O.焼そばぱん！新商品・急上昇注目商品まとめ",
+      "summary": "毎週楽しみにしてくれているみなさん、今週の惣菜パンランキングをお届けします！暑い季節もパン好きの食欲は止まらない。今週はあの人気コラボ商品が1位に輝くなど、見…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25656/?utm_source=rss&utm_medium=mognavinews_20260822",
+      "published_at": "2026-08-22T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ffa94e97f66b2bd2",
+      "title": "今週新発売のトマトまとめ！『青森県産にんにく使用　トマトの生パスタ』、『ガーリックトマトのグリルチキン弁当』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！トマトの新商品情報をお届けします。来週新発売の#トマトファミリーマート 青森県産にんにく使用 トマトの生パスタ青森県産にんにく…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082203/?utm_source=rss&utm_medium=mognavinews_20260822",
+      "published_at": "2026-08-22T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f87a79d7138cff01",
+      "title": "【2026年8月第4週】シリアル・その他パンランキング1位はシスコーン フロスト！新商品・急上昇商品まとめ",
+      "summary": "今週もシリアル・その他パンカテゴリのランキングに、食欲をそそる商品たちが勢ぞろいしました。定番の人気商品から注目の新顔まで、今週はどんなラインナップになったの…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25655/?utm_source=rss&utm_medium=mognavinews_20260822",
+      "published_at": "2026-08-22T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ea3d92a45543723b",
+      "title": "今週新発売のファミマパンまとめ！『東京ばな奈　バナナかすたあどパンケーキ』、『チーズ塩パン　淡路島の藻塩使用』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマパンの新商品情報をお届けします。今週新発売の#ファミマパンファミリーマート ファミマルBakery 東京ばな奈 バナナ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082202/?utm_source=rss&utm_medium=mognavinews_20260822",
+      "published_at": "2026-08-22T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "545ac855086f7d77",
       "title": "【2026年8月第4週】菓子パンランキング1位はアップルレアチーズ仕立て！秋フレーバー新商品続々まとめ",
@@ -12,6 +84,18 @@
       "region": "日本",
       "category": "综合",
       "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c7001fb31958f722",
+      "title": "濃厚なきなこ蜜を絡めた「チロル きなこもちポップコーン」新発売【秋冬限定】",
+      "summary": "モントワールは、チロルチョコとの共同企画商品「チロル きなこもちポップコーン」を、2026年9月7日から全国のセブン-イレブンで先行発売する。※店舗によって、取り扱いがない場合がある。スーパーマーケット、ドラッグストアな...",
+      "url": "https://www.ssnp.co.jp/snack/698580/",
+      "published_at": "2026-08-22T09:00:00+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
       "language": "ja"
     },
     {
@@ -192,6 +276,18 @@
       "region": "北美",
       "category": "饮料",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "08c20d0851de870c",
+      "title": "Leftovers: Reese’s Puffs leans into nostalgia with PB&J flavor | Little Bites debuts mystery muffins",
+      "summary": "The launch from General Mills follows the success of Reese’s PB+J cups last year, while drive-thru coffee chain 7 Brew enters retail with a lineup of caffeinated drinks.",
+      "url": "https://www.fooddive.com/news/reeses-puffs-peanut-butter-jelly-little-bites-mystery-flavor-7-brew-canned-latte-energy-drinks/828487/",
+      "published_at": "2026-08-21T21:55:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
