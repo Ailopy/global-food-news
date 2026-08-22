@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-21T15:36:57",
+  "last_updated": "2026-08-22T10:08:18",
   "retention_days": 7,
-  "total": 490,
+  "total": 491,
   "s_count": 33,
   "a_count": 4,
-  "b_count": 453,
+  "b_count": 454,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "C-Suite Executive体制の変更に関するお知らせ",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260821_01.pdf",
+      "published_at": "2026-08-21T06:30:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "CJ",
       "brand_cn": "希杰",
