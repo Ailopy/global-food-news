@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-08-23T12:44:08.154928+08:00",
-  "total": 8187,
+  "last_updated": "2026-08-23T17:17:47.763612+08:00",
+  "total": 8192,
   "articles": [
+    {
+      "id": "1e34bed30b2cae4c",
+      "title": "キーコーヒー、親子でコーヒーの魅力学ぶ オンライン工場見学や抽出体験",
+      "summary": "キーコーヒーは8月22日、キッズウィークエンド(東京都中央区、三浦里江代表)と共同で、夏休み特別企画「親子で学ぶ!コーヒーのヒミツ～工場見学&クイズ大会～」をオンラインで開催した。小学生とその保護者を対象に、コー...",
+      "url": "https://www.ssnp.co.jp/beverage/698647/",
+      "published_at": "2026-08-23T16:12:02+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "708ec726fb9abb72",
+      "title": "今週新発売の塩◯◯まとめ！『三陸産わかめたっぷり　うま塩わかめスープ』、『焦がしねぎ香る　塩ワンタン麺』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯セブン-イレブン 三陸産わかめたっぷり うま塩わかめスープ三陸産のわかめ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082307/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-23T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9e755c802754c061",
+      "title": "今週新発売のコンビニパスタまとめ！『明太子と高菜のピリ辛和風パスタ』、『ツナとほうれん草のトマトソースパスタ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニパスタの新商品情報をお届けします。今週新発売の#コンビニパスタセブン-イレブン 明太子と高菜のピリ辛和風パスタ明太子と…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082306/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-23T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "750cf37f61c72b9a",
+      "title": "【2026年8月第4週】ポテトチップス・スナックランキング1位はKFCグリーンホットウィング味！黒胡椒旋風＆新商品まとめ",
+      "summary": "今週もポテトチップス・スナックのランキングに熱いドラマが生まれました！話題の新フレーバーから定番の人気商品まで、気になるラインナップが顔をそろえています。さっ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25665/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-23T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "02655168df633d35",
+      "title": "今週新発売のパスタまとめ！『冷製パスタ　夏野菜と生ハムのトマトソース』、『冷製生パスタ　海老と和風だし醤油』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！パスタの新商品情報をお届けします。今週新発売の#パスタセブン-イレブン 冷製パスタ 夏野菜と生ハムのトマトソース1/2日分の野…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082305/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-23T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "a7031cf125f266e2",
       "title": "【2026年8月第4週】せんべい・駄菓子ランキング1位はミニサラダ えびしお味！新商品・急上昇商品まとめ",
