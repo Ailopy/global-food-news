@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-22T17:17:05.504775+08:00",
+  "last_updated": "2026-08-23T09:05:20.105678+08:00",
   "retention_days": 7,
-  "total": 489,
+  "total": 506,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,126 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "4a5ed2eb2b542b3e",
+      "title": "【2026年8月第4週】飴・キャラメルランキング1位はピュレグミ塩スイカ！急上昇・久々復活商品まとめ",
+      "summary": "夏真っ盛りの2026年8月第4週、飴・キャラメルカテゴリのランキングが出揃いました。暑い季節にぴったりのひんやりフルーツ系グミや、定番人気のハイチュウ勢が上位…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25661/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-23T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "96682d0c02f92680",
+      "title": "冷凍食品「ガツンと香ばしいガーリックライス」発売、米価格高騰･物価高に対応し、コスパと満足感を両立【ファミマ】",
+      "summary": "ファミリーマートは、プライベートブランド「ファミマルKITCHEN」の「ガツンと香ばしいガーリックライス」(税込321円)を、2026年8月25日から全国の約16,500店舗で発売する。 〈物価高･米価格高騰の中で「手軽...",
+      "url": "https://www.ssnp.co.jp/foodservice/698349/",
+      "published_at": "2026-08-23T07:55:00+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "04da804fd4ede0ff",
+      "title": "DEAN & DELUCA×Oisix「ポーチ付きエコバッグ」限定グリーン発売　保冷・保温機能付き",
+      "summary": "DEAN & DELUCAと食品のサブスクリプションサービス「Oisix」がコラボレーションしたバッグ「DEAN & DELUCA ポーチ付きエコバッグ グリーン」が登場する。8月27日午前10時から、O...",
+      "url": "https://www.ssnp.co.jp/distribution/698629/",
+      "published_at": "2026-08-23T07:13:00+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "eb9ed3b5d6aae699",
+      "title": "今週新発売のセブンイレブンお弁当🍱まとめ！『濃厚ソースのヒレカツ巻』、『おでかけ　おにぎりランチ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンお弁当の新商品情報をお届けします。今週新発売の#セブンイレブンお弁当セブン-イレブン 濃厚ソースのヒレカツ巻 4…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082301/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-23T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "86c28c4fabad20d5",
+      "title": "キーコーヒー、 広告宣伝を強化　CMに山田涼介さん起用　最短10秒でレギュラーコーヒーの抽出を可能とする「JET BREW」描く",
+      "summary": "キーコーヒーは広告宣伝を強化する。 広告宣伝をきっかけに、スペシャルティコーヒーなどの高品質コーヒーから最短10秒でレギュラーコーヒーの抽出を可能とする簡易抽出型コーヒーまでの幅広い商品群を取り揃えていることや、多彩 […] ソース",
+      "url": "https://shokuhin.net/155580/2026/08/22/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-08-22T20:25:26+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "48981792955b738a",
+      "title": "カバヤ食品、玩具展開を加速　「セボンスター」や「ほねほねザウルス」の玩具菓子に加えて玩具事業を本格展開",
+      "summary": "カバヤ食品は「セボンスター」や「ほねほねザウルス」の玩具菓子に加えて菓子が付属しない玩具事業にも本腰を入れ玩具展開を加速させている。 キダルト（子どもの心を持った大人）向け市場の拡大や平成女児ブーム（平成時代に小学生 […] ソース",
+      "url": "https://shokuhin.net/155577/2026/08/22/kakou/kashi/",
+      "published_at": "2026-08-22T20:05:54+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "01949d9a8a032c83",
+      "title": "Publisher’s Platform: Twenty-One Outbreaks Is a Normal Year. Ten Thousand Nine Hundred Thirty Sick From One of Them Is Not.",
+      "summary": "What none of this is, at any point, is a consumer behavior problem. The field for next summer gets planted in a few months. Nobody chooses what is living in the water when it does, and washing will…",
+      "url": "https://www.foodsafetynews.com/2026/08/publishers-platform-twenty-one-outbreaks-is-a-normal-year-ten-thousand-nine-hundred-thirty-sick-from-one-of-them-is-not/",
+      "published_at": "2026-08-22T19:46:57+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "f13cd29e3f33c3b7",
+      "title": "今週新発売のぶどうまとめ！『爽　贅沢果実シャインマスカット』、『芳醇　巨峰　フローズン　ティー』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ぶどうの新商品情報をお届けします。今週新発売の#ぶどうロッテ 爽 贅沢果実シャインマスカット カップ185ml1.食べた瞬間に…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082208/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3cc31b96eedfbda6",
+      "title": "今週新発売の和風食品まとめ！『ぼたんこしょうとベーコンの旨辛和風パスタ』、『たんぱく質が摂れる！しそ入り鶏つくねのサラダ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風セブン-イレブン ぼたんこしょうとベーコンの旨辛和風パスタ信州伝統野菜の青唐…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082207/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f7a454f04146bbcb",
+      "title": "【2026年8月第4週】和菓子・その他ランキング1位はバナナまんじゅう！新商品ずんだどらや急上昇くるみ蒸しまんも注目まとめ",
+      "summary": "2026年8月第4週の和菓子・その他カテゴリランキングをお届けします。暑さが続くこの時期にぴったりな涼やかなスイーツから、昔ながらのほっこり和菓子まで、バラエ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25660/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "53752510c05e98ba",
       "title": "今週新発売の和風食品まとめ！『ぼたんこしょうとベーコンの旨辛和風パスタ』、『たんぱく質が摂れる！しそ入り鶏つくねのサラダ』など♪",
@@ -42,11 +162,35 @@
       "language": "ja"
     },
     {
+      "id": "883eb47585c9c714",
+      "title": "【2026年8月第4週】アイス・コンビニアイスランキング1位はティラミス氷！新商品・急上昇商品まとめ",
+      "summary": "まだまだ暑さが続く8月第4週、アイスのランキングにも熱視線が注がれています。今週はティラミス系・フルーツ系・チョコレート系と、夏の終わりを彩るバラエティ豊かな…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25659/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "ca7d331644f77c84",
       "title": "【2026年8月第4週】アイス・コンビニアイスランキング1位はティラミス氷！新商品・急上昇商品まとめ",
       "summary": "まだまだ暑さが続く8月第4週、アイスのランキングにも熱視線が注がれています。今週はティラミス系・フルーツ系・チョコレート系と、夏の終わりを彩るバラエティ豊かな…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25659/?utm_source=rss&utm_medium=mognavinews_20260822",
       "published_at": "2026-08-22T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "79b92cb746d596ce",
+      "title": "今週新発売のファミマおにぎりまとめ！『おかかごはんおむすび』、『ＳＰＡＭデカたま　コンビーフハッシュ入り』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマおにぎりの新商品情報をお届けします。今週新発売の#ファミマおにぎりファミリーマート おかかごはんおむすびかつおやだしが…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082206/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T13:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -66,11 +210,35 @@
       "language": "ja"
     },
     {
+      "id": "047e6f5c8fe105ff",
+      "title": "【2026年8月第4週】プリン・ゼリー・カップデザートランキング1位は和メープルプリン！新商品・急上昇商品まとめ",
+      "summary": "夏の終わりが近づいてきましたが、デザートへの情熱はまだまだ衰え知らず！今週もプリン・ゼリー・カップデザートカテゴリから、もぐナビユーザーが選んだ旬の美味しさが…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25658/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "c62e6281a65ec4a4",
       "title": "【2026年8月第4週】プリン・ゼリー・カップデザートランキング1位は和メープルプリン！新商品・急上昇商品まとめ",
       "summary": "夏の終わりが近づいてきましたが、デザートへの情熱はまだまだ衰え知らず！今週もプリン・ゼリー・カップデザートカテゴリから、もぐナビユーザーが選んだ旬の美味しさが…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25658/?utm_source=rss&utm_medium=mognavinews_20260822",
       "published_at": "2026-08-22T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "bd462bb84f8dae1b",
+      "title": "今週新発売のコーヒーまとめ！『ＣＯＦＦＥＥ　ＯＦ　ＴＨＥ　ＤＡＹ　カフェモカ』、『レインストーム　トロピカル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コーヒーの新商品情報をお届けします。今週新発売の#コーヒースターバックス COFFEE OF THE DAY カフェモカ ペッ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082205/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T12:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -90,11 +258,35 @@
       "language": "ja"
     },
     {
+      "id": "a8ea5cc07da27d3d",
+      "title": "【2026年8月第4週】ケーキ・洋菓子ランキング1位はヤマザキ北海道産チーズのクリームサンド！新商品・急上昇まとめ",
+      "summary": "毎週お届けするもぐナビのケーキ・洋菓子ランキング、今週も気になる商品がずらりと並びました。チーズ系スイーツやタルト、個性派フレーバーのケーキと、この夏もコンビ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25657/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "fe0d6ddca079af62",
       "title": "【2026年8月第4週】ケーキ・洋菓子ランキング1位はヤマザキ北海道産チーズのクリームサンド！新商品・急上昇まとめ",
       "summary": "毎週お届けするもぐナビのケーキ・洋菓子ランキング、今週も気になる商品がずらりと並びました。チーズ系スイーツやタルト、個性派フレーバーのケーキと、この夏もコンビ…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25657/?utm_source=rss&utm_medium=mognavinews_20260822",
       "published_at": "2026-08-22T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d0a3e4f6447a5e44",
+      "title": "今週新発売のもち麦まとめ！『もち麦　スーパー大麦　枝豆チーズ』、『道産秋鮭焼ほぐしごはん　もち麦』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！もち麦の新商品情報をお届けします。来週新発売の#もち麦ファミリーマート もち麦 スーパー大麦 枝豆チーズもち麦とスーパー大麦入…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082204/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T11:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -114,11 +306,35 @@
       "language": "ja"
     },
     {
+      "id": "f735264bb7d99d5f",
+      "title": "【2026年8月第4週】惣菜パンランキング1位はヤマザキ薄皮U.F.O.焼そばぱん！新商品・急上昇注目商品まとめ",
+      "summary": "毎週楽しみにしてくれているみなさん、今週の惣菜パンランキングをお届けします！暑い季節もパン好きの食欲は止まらない。今週はあの人気コラボ商品が1位に輝くなど、見…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25656/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "9dd077acfa7db3ac",
       "title": "【2026年8月第4週】惣菜パンランキング1位はヤマザキ薄皮U.F.O.焼そばぱん！新商品・急上昇注目商品まとめ",
       "summary": "毎週楽しみにしてくれているみなさん、今週の惣菜パンランキングをお届けします！暑い季節もパン好きの食欲は止まらない。今週はあの人気コラボ商品が1位に輝くなど、見…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25656/?utm_source=rss&utm_medium=mognavinews_20260822",
       "published_at": "2026-08-22T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c5b9f1f95ca2aa2f",
+      "title": "今週新発売のトマトまとめ！『青森県産にんにく使用　トマトの生パスタ』、『ガーリックトマトのグリルチキン弁当』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！トマトの新商品情報をお届けします。来週新発売の#トマトファミリーマート 青森県産にんにく使用 トマトの生パスタ青森県産にんにく…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082203/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T10:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -138,11 +354,35 @@
       "language": "ja"
     },
     {
+      "id": "e5020e8fd7f6fd54",
+      "title": "【2026年8月第4週】シリアル・その他パンランキング1位はシスコーン フロスト！新商品・急上昇商品まとめ",
+      "summary": "今週もシリアル・その他パンカテゴリのランキングに、食欲をそそる商品たちが勢ぞろいしました。定番の人気商品から注目の新顔まで、今週はどんなラインナップになったの…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25655/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "f87a79d7138cff01",
       "title": "【2026年8月第4週】シリアル・その他パンランキング1位はシスコーン フロスト！新商品・急上昇商品まとめ",
       "summary": "今週もシリアル・その他パンカテゴリのランキングに、食欲をそそる商品たちが勢ぞろいしました。定番の人気商品から注目の新顔まで、今週はどんなラインナップになったの…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25655/?utm_source=rss&utm_medium=mognavinews_20260822",
       "published_at": "2026-08-22T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3c74878d549c89f3",
+      "title": "今週新発売のファミマパンまとめ！『東京ばな奈　バナナかすたあどパンケーキ』、『チーズ塩パン　淡路島の藻塩使用』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマパンの新商品情報をお届けします。今週新発売の#ファミマパンファミリーマート ファミマルBakery 東京ばな奈 バナナ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082202/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T09:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -162,18 +402,6 @@
       "language": "ja"
     },
     {
-      "id": "545ac855086f7d77",
-      "title": "【2026年8月第4週】菓子パンランキング1位はアップルレアチーズ仕立て！秋フレーバー新商品続々まとめ",
-      "summary": "8月も後半に差しかかり、パン売り場に秋の気配がただよい始めました。今週の菓子パンランキングには、旬の素材を生かした新顔たちが続々と登場し、目が離せない展開とな…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25654/?utm_source=rss&utm_medium=mognavinews_20260822",
-      "published_at": "2026-08-22T09:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "c7001fb31958f722",
       "title": "濃厚なきなこ蜜を絡めた「チロル きなこもちポップコーン」新発売【秋冬限定】",
       "summary": "モントワールは、チロルチョコとの共同企画商品「チロル きなこもちポップコーン」を、2026年9月7日から全国のセブン-イレブンで先行発売する。※店舗によって、取り扱いがない場合がある。スーパーマーケット、ドラッグストアな...",
@@ -183,6 +411,30 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "9418bf1415b2d64e",
+      "title": "【2026年8月第4週】菓子パンランキング1位はアップルレアチーズ仕立て！秋フレーバー新商品続々まとめ",
+      "summary": "8月も後半に差しかかり、パン売り場に秋の気配がただよい始めました。今週の菓子パンランキングには、旬の素材を生かした新顔たちが続々と登場し、目が離せない展開とな…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25654/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "545ac855086f7d77",
+      "title": "【2026年8月第4週】菓子パンランキング1位はアップルレアチーズ仕立て！秋フレーバー新商品続々まとめ",
+      "summary": "8月も後半に差しかかり、パン売り場に秋の気配がただよい始めました。今週の菓子パンランキングには、旬の素材を生かした新顔たちが続々と登場し、目が離せない展開とな…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25654/?utm_source=rss&utm_medium=mognavinews_20260822",
+      "published_at": "2026-08-22T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -231,6 +483,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "8521f3c87083ca08",
+      "title": "今週新発売の塩味まとめ！『スーパーカップ１．５倍　北海道　コーン塩バター味ラーメン』、『スーパーカップ１．５倍　沖縄　島そば』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩味の新商品情報をお届けします。今週新発売の#塩味エースコック スーパーカップ1.5倍 北海道 コーン塩バター味ラーメン■めん…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082201/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-22T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -438,6 +702,18 @@
       "language": "en"
     },
     {
+      "id": "916e6a668c589d75",
+      "title": "今週新発売の酢まとめ！『おろしポン酢で食べる翡翠水餃子』、『呉風冷麺唐辛子酢付き』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！酢の新商品情報をお届けします。今週新発売の#酢セブン-イレブン おろしポン酢で食べる翡翠水餃子皮にほうれん草ピューレを練り込ん…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082108/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-21T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "d8d93ca38b7c74fc",
       "title": "今週新発売の酢まとめ！『おろしポン酢で食べる翡翠水餃子』、『呉風冷麺唐辛子酢付き』など♪",
       "summary": "こんにちは、もぐナビ編集部です！酢の新商品情報をお届けします。今週新発売の#酢セブン-イレブン おろしポン酢で食べる翡翠水餃子皮にほうれん草ピューレを練り込ん…",
@@ -483,6 +759,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "b178bbb865ccef92",
+      "title": "今週新発売のファミマお弁当🍱まとめ！『ピラフ＆ナポリタン』、『オムライス＆ナポリタン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマお弁当の新商品情報をお届けします。今週新発売の#ファミマお弁当ファミリーマート ピラフ＆ナポリタンチキンの旨みとバター…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082107/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-21T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -552,6 +840,18 @@
       "url": "https://shokuhin.net/155570/2026/08/21/inryou/sake/",
       "published_at": "2026-08-21T13:45:20+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e9ce65b950ef5053",
+      "title": "今週新発売のキャベツまとめ！『野菜をプラス　カレースープ』、『野菜をプラス　ミネストローネ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！キャベツの新商品情報をお届けします。今週新発売の#キャベツ丸美屋 野菜をプラス カレースープ カップ30.6gカレーの風味で、…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082106/?utm_source=rss&utm_medium=mognavinews_20260823",
+      "published_at": "2026-08-21T13:30:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -5783,102 +6083,6 @@
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンタカキベーカリー 野菜サンド人気商品リニューアル！ トマトの食べ応えをアッ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026081602/?utm_source=rss&utm_medium=mognavinews_20260816",
       "published_at": "2026-08-16T09:45:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "3e301e4e5ad8055f",
-      "title": "8月17日はパイナップルの日「ゴールデンパインのパフェ」を全8店舗で提供【タカノフルーツパーラー】",
-      "summary": "タカノフルーツパーラーは、8月17日から期間限定で「ゴールデンパインのパフェ」を全8店舗で提供する。 8月17日は「パ(8)イ(1)ナ(7)ップル」の語呂合わせで、パイナップルの日。パイナップルの名前は、形が松かさ(Pi...",
-      "url": "https://www.ssnp.co.jp/snack/696227/",
-      "published_at": "2026-08-16T09:02:00+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "8b2ae2a9a7e3d4e3",
-      "title": "【2026年8月第3週】飴・キャラメルランキング1位はピュレグミ塩スイカ！急上昇＆注目商品まとめ",
-      "summary": "夏本番の暑さが続く中、今週の飴・キャラメルランキングにはひんやり爽やか系のグミが勢ぞろい！スイカにレモン、ライチと、夏らしいフルーツフレーバーが上位を賑わせて…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-25368/?utm_source=rss&utm_medium=mognavinews_20260816",
-      "published_at": "2026-08-16T09:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "7bdace8d6f464920",
-      "title": "「マイクロマジック フライドポテト ブラックペッパー味」を新発売、おつまみ需要に対応した新フレーバー【大塚食品】",
-      "summary": "大塚食品は、『マイクロマジック』シリーズから、「マイクロマジック フライドポテト ブラックペッパー味」を、2026年8月24日に全国で発売する。 【「マイクロマジック フライドポテト」の新旧パッケージの画像はこちら】 ◆...",
-      "url": "https://www.ssnp.co.jp/frozen/695308/",
-      "published_at": "2026-08-16T08:01:00+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "3add80e7a318ff0a",
-      "title": "猛暑で「飲める氷」アイススラリー広がる　麦茶、490mlPET、小分けタイプも",
-      "summary": "猛暑が続く中、活動前に体を冷やす「プレクーリング」への関心が高まり、「飲める氷」とも呼ばれるアイススラリー商品の投入が相次いでいる。アイススラリーは細かな氷の粒子が液体に分散した飲料で、水よりも高い冷却効果が期待されるこ...",
-      "url": "https://www.ssnp.co.jp/beverage/697527/",
-      "published_at": "2026-08-16T07:22:41+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "de4b2887bdd247c6",
-      "title": "今週新発売のコンビニホットスナックまとめ！『激辛！台湾ミンチカツ』、『まんまる鶏　柚子胡椒』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。発売中のコンビニホットスナックセブン-イレブン 激辛！台湾ミンチカツ名古屋発…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026081601/?utm_source=rss&utm_medium=mognavinews_20260816",
-      "published_at": "2026-08-16T06:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "1d01e96ef0d8930b",
-      "title": "市場賑わすノンカフェイン茶系飲料　むぎ茶飲料の安定成長に加えジャスミン茶、ルイボスティー、コーン茶、黒豆茶が伸長し多様化",
-      "summary": "無糖茶飲料市場の中でカフェイン少なめを含む広義のノンカフェイン茶系飲料が多様化して市場を賑わしている。 2025年は、暑すぎる夏による外出機会の減少や価格改定などの影響により、ボリュームゾーンの緑茶飲料が足踏みしたこ […] ソース",
-      "url": "https://shokuhin.net/155217/2026/08/16/inryou/inryou-inryou/",
-      "published_at": "2026-08-16T05:48:29+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "d9a00fe5620e85b8",
-      "title": "キリン、主力サプリ好調 　1－6月販売金額約2割増で過去最高を更新　大谷翔平選手を起用したプロモーション活動などが奏功",
-      "summary": "キリンホールディングス（キリンHD）は8月5日、主力サプリメント「キリン iMUSE（イミューズ）免疫ケアサプリメント」シリーズが好調に推移し、1－6月の販売金額が前年同期比約2割増となり過去最高を更新したことを明らか […] ソース",
-      "url": "https://shokuhin.net/155213/2026/08/16/inryou/inryou-inryou/",
-      "published_at": "2026-08-16T05:34:48+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "c7af48c2aec82dfc",
-      "title": "今週新発売の濃厚な食べものまとめ！『蜜芋ワッフル』、『ピリ辛濃厚ごまだれ　冷し蒸し鶏そば』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚マネケン 蜜芋ワッフル 袋1個2024年好評だった「蜜芋ワッフル」をブラッシ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026081508/?utm_source=rss&utm_medium=mognavinews_20260816",
-      "published_at": "2026-08-15T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
