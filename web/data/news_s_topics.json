@@ -1,33 +1,255 @@
 {
-  "total": 215,
-  "s_plus_count": 34,
+  "total": 213,
+  "s_plus_count": 36,
   "sites": [
-    "Packaging Digest",
     "日経新聞",
     "Food Dive",
-    "朝日グループYouTube",
-    "日経xTrend"
+    "Packaging Digest",
+    "日経xTrend",
+    "朝日グループYouTube"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "其他": 84,
-    "新产品": 47,
-    "营销创新": 16,
     "联名营销": 18,
-    "品牌故事": 9,
+    "其他": 81,
+    "新产品": 51,
+    "营销创新": 15,
+    "品牌故事": 8,
     "并购融资": 9,
     "行业政策": 17,
     "渠道新物种": 4,
     "新包装": 1,
-    "新原料": 7,
+    "新原料": 6,
     "新技术": 3
   },
-  "last_updated": "2026-08-23 10:17",
-  "last_updated_iso": "2026-08-23T10:17:58.785882+08:00",
+  "last_updated": "2026-08-24 10:16",
+  "last_updated_iso": "2026-08-24T10:16:19.737102+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ブランド「資産運用」の極意",
+      "url": "https://xtrend.nikkei.com/info/podcast/19/00419/?n_cid=nbpnxr_rss",
+      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の最新トレンドをチェックする「WEEKLY TREND KEYWORDS」は、老舗刃物メーカーの貝印が開発した子どもでも使えるカミソリ「なでそり」をピックアップ。後半は「ブランド『資産運用』の極意」をお送りします。長年築き上げてきたブランドは「資産」です。そうしたブランドを使った新しいカテゴリーへの進出や、他社とのコラボレーション戦略が急増しています。しかし、必ずしも成功事例ばかりではありません。今回は、ブランド「資産運用」の実例やポイントについて紹介します。解説は日経クロストレンドの中村勇介編集長。",
+      "published_at": "2026-08-24T05:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 2
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-08-24T10:16:05+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "組織文化は自然に育たない シリコンバレー流カルチャーデザイン",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01376/00007/?n_cid=nbpnxr_rss",
+      "summary": "日本企業が既存の慣習を見直し始めている一方で、世界のイノベーションをけん引する米シリコンバレーには、さらに先進的な取り組みを進めている企業が多々あります。",
+      "published_at": "2026-08-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-24T10:16:05+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "27年に変わるiDeCoが自分年金の鍵 NISAよりも優先すべきは何歳から？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00011/?n_cid=nbpnxr_rss",
+      "summary": "2026年8月4日発売の「日経トレンディ2026年9月号」では、「自分年金を増やす最新投資術」を特集。2027年、iDeCoが大きく変わる。会社員の拠出限度額が引き上げられ、加入できる年齢も70歳未満まで延長される。NISAには既に多くの人が手を出しているが、今後はiDeCoにも戦略的に資産を振り向けていくことがゆとりある老後を築く鍵になりそうだ。2つの制度を組み合わせ、自分年金を最大化する最適解を探る。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-08-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-24T10:16:05+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "パッケージ好意度トップ3をアイスが独占 新商品593品調査が示す勝ち筋",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00002/00118/?n_cid=nbpnxr_rss",
+      "summary": "食品や飲料のパッケージデザインにおける最大の役割の一つは、味や食感を分かりやすく伝えることだ。2026年のパッケージ好意度調査では、例年通りロングセラー商品が上位に並んだ。ただ、詳しく分析すると、パッケージ表現は毎年、少しずつ変化している。",
+      "published_at": "2026-08-24T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "食感",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-24T10:16:05+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "温度で秋のモチーフ変化「一番搾り」缶発売 未来消費カレンダー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00244/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年8月25日「キリンビール、温度で秋のモチーフの色が変わる『一番搾り』缶発売」ほか20件の情報を追加した。",
+      "published_at": "2026-08-24T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-24T10:16:05+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「サイバーエージェント、広告事業が減収減益の危機 正念場のAI革命」 ちょうど1年前振り返りランキング",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00128/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2024年8月24日～9月20日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
+      "published_at": "2026-08-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-08-24T10:16:05+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「CAPCOMIX」横浜進出 ゲームの外で未来のファンとの接点を創出へ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00096/?n_cid=nbpnxr_rss",
+      "summary": "カプコンの「モンスターハンター」「ストリートファイター」「鬼武者」といった人気ゲームシリーズの世界を、コントローラーではなく全身を動かして楽しむ。そんな体験型アミューズメント施設「CAPCOMIX（カプコミクス）」が、2026年7月17日、横浜・みなとみらいにオープンした。なぜカプコンは、ゲームの世界をリアルな遊び場へと広げるのか。オープン前日に開催された内覧会で、出店に込めた狙いを探った。",
+      "published_at": "2026-08-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-24T10:16:05+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "パッケージ好意度トップ3はアイス 新商品593品調査が示す勝ち筋",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MTlBPaE1TdnB1MWMzdUhTMXByNlN6X0RTYXpVREpzRlZ4SHR2X21SbnMwU2dIM1NVQmh3YVI3Qm9DOW9pOFpQNlZ4SFVoc2wtRy1USGhTcjZuSmw3VWxjNk9GRVV0Zw?oc=5",
+      "summary": "パッケージ好意度トップ3はアイス 新商品593品調査が示す勝ち筋&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-23T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-24T10:16:02+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "温度で秋のモチーフ変化「一番搾り」缶発売 未来消費カレンダー",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sS3FtcS1rUVl2ZG41b09QdDV3VzVGOHQ4M3NUbmxsbWRHVlo3a3gxZWVzZWs2bEhVNU1SSmZoMnZQT2RnVVdLOTA0SGR5TXlWeDZMbFI1T3M4Wk56VXJPRDNKck9kUQ?oc=5",
+      "summary": "温度で秋のモチーフ変化「一番搾り」缶発売 未来消費カレンダー&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-23T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-24T10:16:02+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -3509,254 +3731,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-07-24T12:00:47+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "Juice=Juiceをバズらせたファン目線のTikTok動画、仕掛け人がフレームワークを大公開",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01397/00005/?n_cid=nbpnxr_rss",
-      "summary": "2025年8月に初披露された『盛れ！ミ・アモーレ』でJuice=Juiceが、SNSを中心に話題を集める中、テレビ出演と連動した施策が“TikTok万バズ”を生むなど大きな成果を上げた。仕掛けたのは、AIを活用して大量のショート動画を制作・配信するオフショアカンパニーだ。",
-      "published_at": "2026-07-23T00:01:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "初披露",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-07-23T12:02:07+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ユニバの25周年パレード、じっくり2度観賞できる「交差点」が穴場",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01422/00002/?n_cid=nbpnxr_rss",
-      "summary": "アトラクションと双璧を成す、ユニバーサル・スタジオ・ジャパンの目玉がパレードだ。2027年1月11日までは、25周年記念の「NO LIMIT! パレード ～Discover U!!! バージョン～」が行われている。この記事ではパレードを現地で満喫する方法を紹介する。本文最後には、見やすく整理した本誌記事のPDFファイルを用意している。そちらもぜひ確認してほしい。",
-      "published_at": "2026-07-23T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-23T12:02:07+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "楽天とShopify幹部が徹底議論 「エージェンティックコマース」未来予想図",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01405/00023/?n_cid=nbpnxr_rss",
-      "summary": "AIが購買体験の主軸を担う「エージェンティックコマース」が大きな注目を集めている。今後、購買体験はどのように変化していくのか。2026年7月28日（火）～30日（木）に開催する「日経クロストレンドFORUM 2026」では、楽天グループ 執行役員 コマース&マーケティングカンパニー マーケットプレイス事業 楽天市場編成部 ジェネラルマネージャーの髙間真里氏と、Shopify Japanカントリーマネージャーの馬場道生氏が登壇。最前線を走る2社が徹底議論する。",
-      "published_at": "2026-07-23T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-07-23T12:02:07+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "次のマーケの鍵は「レジリエンス」 完全解説「カンヌライオンズ2026」後編",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00005/?n_cid=nbpnxr_rss",
-      "summary": "「カンヌライオンズ2026」のグランプリを受賞した全事例を3回に分けて紹介する。今回は後編。十数年にわたってカンヌライオンズに参加し、取材してきた河尻亨一氏が、確かな目線で一つひとつの受賞事例を解説する。最先端のクリエイティブから、世界が今、何を課題とし、どの方向に進もうとしているのかが見えてくる。",
-      "published_at": "2026-07-23T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-23T12:02:07+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ポカリを越えたUHA味覚糖のアイススラリー 「忍者めし」をあえて採用",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01429/00004/?n_cid=nbpnxr_rss",
-      "summary": "「夏に売れる商品が少ない」。UHA味覚糖が長年抱えてきた、そんな課題を解決するために開発されたのが、「忍者めしアイススラリー」だ。小分け包装、徹底した味づくり、そしてグミブランド「忍者めし」の活用――。製薬会社が先行する市場に、菓子メーカーらしい発想で差別化しながら参入し、大きな成果を上げつつある。その背景にある、テスト販売を重視する商品開発の考え方や、独自の商品を生み出す社内風土に迫る。",
-      "published_at": "2026-07-23T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-07-23T12:02:07+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "Gemini Notebookで“AIブレーン”を量産 Gemini連係で多視点分析も",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00010/?n_cid=nbpnxr_rss",
-      "summary": "2026年7月3日発売の「日経トレンディ2026年8月号」では、「AI即戦力仕事術」を特集。Gemini Notebook（旧NotebookLM）なら、マニュアルや営業資料、専門サイトを情報源に“専用ブレーン”を構築可能。さらにGeminiと組み合わせれば、複数分野の知見を横断し、仕事や学習の相談相手にもできる。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
-      "published_at": "2026-07-23T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-23T12:02:07+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Judge Mocks Challenge to Nestlé’s ‘100% Real Chocolate’ Claim",
-      "url": "https://www.packagingdigest.com/labeling/judge-mocks-challenge-to-nestl-s-100-real-chocolate-claim",
-      "summary": "In deciding Foster v. Nestlé USA, the court scoffed at plaintiff’s claim, calling it “100% dismissed” due to the composition and definition of chocolate.",
-      "published_at": "2026-07-22T20:07:25Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-23T12:02:23+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "次のマーケの鍵は「レジリエンス」 完全解説「カンヌライオンズ2026」後編",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiSjZuVzJWNmEtU1JJSzdQQXMxQnhLTk5YMGo2NUJjX2pSQjJKcUZmSVd2ZG5Ud2E5YnlUQm5ZRzdJcmtlaUhzRjdrSEVxd0oyMi1HWGw4N0g5c1VHM1p3NTBoUEtQdw?oc=5",
-      "summary": "次のマーケの鍵は「レジリエンス」 完全解説「カンヌライオンズ2026」後編&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-07-22T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-23T12:02:04+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Kraft Heinz, Disney enter long-term strategic marketing partnership",
-      "url": "https://www.fooddive.com/news/kraft-heinz-disney-enter-long-term-strategic-marketing-partnership/825761/",
-      "summary": "The partnership spans marketing campaigns, digital content and other branded opportunities across Disney’s media outlets, cruise line, parks and events.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        },
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-07-23T12:02:20+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "General Mills subpoenaed in Florida ingredients investigation",
-      "url": "https://www.fooddive.com/news/florida-ingredients-investigation-general-mills-potassium-bromate/825656/",
-      "summary": "The state’s attorney general is requesting safety information and documentation from the Pillsbury owner connected to breadmaking additive potassium bromate.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        }
-      ],
-      "primary_category": "新原料",
-      "scraped_at": "2026-07-23T12:02:20+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Coca-Cola suspends Fairlife production after ransomware attack",
-      "url": "https://www.fooddive.com/news/ransomware-attack-coca-cola-suspend-production-dairy/825551/",
-      "summary": "The beverage company is still working to determine the full scope of the breach at its dairy business.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-23T12:02:20+08:00"
     },
     {
       "site_name": "Food Dive",
