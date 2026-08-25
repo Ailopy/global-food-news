@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-24T15:52:43",
+  "last_updated": "2026-08-25T10:11:24",
   "retention_days": 7,
-  "total": 496,
-  "s_count": 33,
+  "total": 501,
+  "s_count": 34,
   "a_count": 4,
-  "b_count": 459,
+  "b_count": 463,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,50 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.25日清食品「カップヌードル ポイントプログラム」(9月28日にスタート)",
+      "url": "https://www.nissin.com/jp/news/13884/",
+      "published_at": "2026-08-25T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.25日清食品「出前一丁 秘伝のごま油調味料 ボトルセット」 (8月26日発売)",
+      "url": "https://www.nissin.com/jp/news/13899/",
+      "published_at": "2026-08-25T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.25日清食品2026年8月および9月発売商品のご案内",
+      "url": "https://www.nissin.com/jp/news/13895/",
+      "published_at": "2026-08-25T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.25日清食品ホールディングス「もしもに備える 日清食品キッチンカー支援隊プロジェクト」をスタート",
+      "url": "https://www.nissin.com/jp/news/13898/",
+      "published_at": "2026-08-25T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
@@ -551,6 +595,17 @@
       "summary": "Shaquille O’Neal and General Mills Search for America’s Biggest Cereal Fans, Offering Big Prizes and Exclusive Merch",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/chain-partners-with-general-mills-to-launch-chain-snacks",
+      "published_at": "2026-08-06T00:00:00",
+      "summary": "Chain Partners With General Mills to Launch “Chain Snacks” at Westfield Topanga Mall",
+      "level": "S",
+      "level_reason": "新产品"
     },
     {
       "brand": "Kirin",
