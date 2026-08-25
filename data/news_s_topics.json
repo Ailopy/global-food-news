@@ -1,33 +1,334 @@
 {
-  "total": 213,
+  "total": 224,
   "s_plus_count": 36,
   "sites": [
+    "日経xTrend",
     "日経新聞",
     "Food Dive",
     "Packaging Digest",
-    "日経xTrend",
     "朝日グループYouTube"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "联名营销": 18,
-    "其他": 81,
+    "品牌故事": 14,
+    "其他": 85,
+    "营销创新": 14,
     "新产品": 51,
-    "营销创新": 15,
-    "品牌故事": 8,
+    "行业政策": 19,
+    "联名营销": 18,
     "并购融资": 9,
-    "行业政策": 17,
     "渠道新物种": 4,
     "新包装": 1,
     "新原料": 6,
     "新技术": 3
   },
-  "last_updated": "2026-08-24 10:16",
-  "last_updated_iso": "2026-08-24T10:16:19.737102+08:00",
+  "last_updated": "2026-08-25 10:11",
+  "last_updated_iso": "2026-08-25T10:11:40.844891+08:00",
   "articles": [
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "GINON CM 「NON姉ちゃん ジンソーダ」篇 15秒 吉岡里帆",
+      "url": "https://www.youtube.com/watch?v=4e7gYttskHE",
+      "summary": "吉岡里帆さんが出演する『アサヒGINON』のCM 「NON姉ちゃん ジンソーダ」篇 出演者：吉岡里帆 ▼アサヒGINON ブランドサイト https://www.asahibeer.co.jp/ginon/",
+      "published_at": "2026-08-25T01:00:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-08-25T10:11:40+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i1.ytimg.com/vi/4e7gYttskHE/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アルミホイルとラップフィルム 食卓支える「包む技術」の大発明",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00819/00062/?n_cid=nbpnxr_rss",
+      "summary": "アルミホイルとラップフィルムは、食品の鮮度を保ち、暮らしを支える身近な存在だ。しかしその背景には、貴金属だったアルミニウムの大衆化や実験室での偶然の発見といった興味深い歴史がある。光や湿気を遮断するアルミホイルと、高い密着性を備えたラップフィルムは、食品包装に革命をもたらし、医療や工業にも用途を広げてきた。書籍『身近すぎて気づかない、偉大な発明図鑑』から一部を抜粋し、知られざる進化の歩みをたどる。",
+      "published_at": "2026-08-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-08-25T10:11:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "UCC上島珈琲がアイスコーヒー専門店を展開する理由 46種を90円から販売",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02952/?n_cid=nbpnxr_rss",
+      "summary": "毎年夏、表参道に約1カ月だけ、90円から本格的なアイスコーヒーが飲めるお店がオープンする。それが2023年からUCC上島珈琲が展開する、バリスタのいないアイスコーヒー専門店「ひみつのドリップ」だ。多様なアイスコーヒーに気軽に挑戦できるこの店で、同社が伝えようとするのはコーヒーマシン「DRIP POD YOUBI」を活用した、アイスコーヒーの新しい楽しみ方だった。",
+      "published_at": "2026-08-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-25T10:11:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【26年7月記事ベスト30】ジャングリアの現状を森岡毅氏に直撃、ゴディバの不振をブランディング視点で分析",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00519/00066/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月の日経クロストレンドで最も読まれた記事は、沖縄のアミューズメント施設「ジャングリア」の現状と対策について、森岡毅氏に直撃した記事でした。2位には高級チョコレートブランド「ゴディバ」の不振をブランディングの観点から分析した記事がランクイン。そのほか、マーケティングのKPIとして見直しが進む「想起」をテーマにした特集、世界的なクリエイティブの祭典「カンヌライオンズ2026」の特集などが、多くの読者に読まれました。",
+      "published_at": "2026-08-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-08-25T10:11:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "AIエージェント向け「法人カード」登場 対応企業を探し、自動で購買",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00079/00363/?n_cid=nbpnxr_rss",
+      "summary": "AIエージェントが、人間とともにスタートアップ企業の「共同創業者」に加わるようになっている。そんな中、米デジタル銀行サービス企業のMercuryが、自律的な購買のための法人向け仮想カードをAIエージェントに提供する形で、サービス内容を拡充している。",
+      "published_at": "2026-08-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-08-25T10:11:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ももクロ高城れに 田中将大登場曲で個人的に印象的なのは…",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00590/00048/?n_cid=nbpnxr_rss",
+      "summary": "「日経エンタテインメント！」での連載「ももクロ61分3本勝負」は、ももいろクローバーZのメンバーが登場する人気コラムです。日経エンタテインメント！ Webでは、その“延長戦”を掲載しています。本誌2026年9月号には高城れにさんが登場。延長戦では、2026年上半期で印象に残っている活動、ももクロの新曲で読売ジャイアンツ・田中将大投手の登場曲『SECOND ROUTE』について聞きます。長年、田中投手の登場曲を担当しているももクロですが、高城さんが個人的に印象に残っている曲は何でしょうか。",
+      "published_at": "2026-08-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-25T10:11:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "60万本販売の『Mina the Hollower』 倒産のピンチを乗り越えヒット",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00074/?n_cid=nbpnxr_rss",
+      "summary": "見下ろし型アクションゲーム『Mina the Hollower』は、小規模スタジオが開発したインディーゲームながら、発売から約1カ月で販売本数60万本を突破した。だが、華々しい結果の裏には、多くの困難があった。それは多くのインディーゲームスタジオが直面する課題でもあるだろう。同作を開発したYacht Club Gamesの創設者であるデヴィッド・ディアンジェロ氏に聞いた。",
+      "published_at": "2026-08-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-25T10:11:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "デカフェ市場急拡大で ローソン再参入 タイガー魔法瓶も対応商品",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01934/?n_cid=nbpnxr_rss",
+      "summary": "デカフェコーヒー市場が急拡大している。全日本コーヒー協会によると、2025年の輸入量は5632.8トンで、前年比1.6倍となった。認知向上や味の改善に加え、健康や睡眠への関心の高まりから、カフェイン摂取量を調整したい消費者が増えている。外食では「夜カフェ」の検索が3年間で2倍に伸びた。ローソンやUCCなどがデカフェ商品のラインアップを強化している。従来のデカフェは、妊娠中や授乳中など、カフェイン摂取を控える必要がある人のための代替品という位置付けが強かった。現在は、夕方以降もコーヒーを飲みたい人や、1日の摂取量を調整したい人が積極的に選ぶ商品へ変わりつつある。",
+      "published_at": "2026-08-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-25T10:11:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ニッカウヰスキーが酒広告の常識を覆す表現方法 90年目のブランド変革",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01931/?n_cid=nbpnxr_rss",
+      "summary": "「カンヌライオンズ」では毎年、多くの受賞作が話題になる。しかし本当に問われるのは受賞後だ。創業90周年を機にブランド変革を進めるニッカウヰスキーは、2025年、26年と2年連続でゴールドライオンを受賞した。それでも担当者は「カンヌの受賞はゴールではない」と語る。アワードの評価を起点に、ブランドをどう成長させるのか。東京・表参道の常設バー開設や体験型施策の拡大から、その戦略を追った。",
+      "published_at": "2026-08-25T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 2
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-08-25T10:11:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "コーヒー値上げでも購入率1.4倍 味の素AGFが見抜いた代替商品の正体",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00665/00025/?n_cid=nbpnxr_rss",
+      "summary": "購買行動に大きな影響を及ぼす「値上げ」。インフレを背景に多くの企業が価格改定を迫られる中、マーケターは生活者とどう向き合えばよいのか。味の素AGF執行役員の伊藤英郎氏が、同社の事例を交えながらインサイトの捉え方や値上げに左右されない強いブランドのつくり方について解説した。聞き手はデコム代表の大松孝弘氏。",
+      "published_at": "2026-08-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-08-25T10:11:27+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Compact Syringe Saves Up To 35% in Supply Chain Costs",
+      "url": "https://www.packagingdigest.com/pharma-medical/compact-syringe-saves-up-to-35-in-supply-chain-costs",
+      "summary": "The savings come from a redesigned plunger-rod that allows the Slimshot prefilled syringe to take up to 40% less space during shipping and storage.",
+      "published_at": "2026-08-24T20:26:38Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-08-25T10:11:39+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Packaging is a Driving Force for Beverages",
+      "url": "https://www.packagingdigest.com/beverage-packaging/packaging-is-a-driving-force-for-beverages",
+      "summary": "No longer just a container, packaging is a communication tool, innovator, and sustainability leader, giving consumers choice in the beverage industry.",
+      "published_at": "2026-08-24T17:42:47Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-08-25T10:11:39+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "コーヒー値上げでも購入率1.4倍 味の素AGFが見抜いた代替商品の正体",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0SWNkV0tUYWpybVJ2clZPRW5YQkRhY3JKZFZ5d1NSTGZFQjdoYkJNaWlLZFdqR0ExQXpVN3l1aC1WNldtR3BvZFdURmtUa0ZzMm5UOHc4bElxTWRldExUYTNMY1JEdw?oc=5",
+      "summary": "コーヒー値上げでも購入率1.4倍 味の素AGFが見抜いた代替商品の正体&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-24T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-25T10:11:24+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -55,6 +356,56 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-08-24T10:16:05+08:00"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒ ラグビー教室 Season1 ダイジェストムービー",
+      "url": "https://www.youtube.com/watch?v=ctHMAANfggk",
+      "summary": "「アサヒビール」によるラグビー教室を開催中！ 日本全国の小学生から高校生・高専生までを対象に、ラグビー元日本代表選手の五郎丸歩さんが、あなたのクラブチームへ直接指導にお伺いいたします。 Season1の教室の様子をお届けいたします。 ▼「アサヒ ラグビー教室」特設サイト https://www.asahibeer.co.jp/rugby/rugby-school/",
+      "published_at": "2026-08-24T03:14:02Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-25T10:11:40+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/ctHMAANfggk/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "五郎丸歩氏 アサヒ ラグビー教室 開催コメント",
+      "url": "https://www.youtube.com/watch?v=1LbP0UfIEmA",
+      "summary": "「アサヒビール」によるラグビー教室の開催中！ 日本全国の小学生から高校生・高専生までを対象に、ラグビー元日本代表選手の五郎丸歩さんが、あなたのクラブチームへ直接指導にお伺いいたします。 ▼「アサヒ ラグビー教室」特設サイト https://www.asahibeer.co.jp/rugby/rugby-school/",
+      "published_at": "2026-08-24T03:13:43Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-25T10:11:40+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/1LbP0UfIEmA/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
     },
     {
       "site_name": "日経xTrend",
@@ -249,6 +600,28 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-08-24T10:16:02+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "朝日新聞「朝ポキ」 読者ではなく“仲間”を育む対話の循環",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TQ0dOYUNma3VaY0J4R2NyZ09Td19hNWJrQ053VDQtVGg5NWRmRl9oUEpPRklZaENZUWFLb2pyZ0dqUVYtVTJIUGY2SXF3VVJYVmdrX1EwYnlJRWJRRUtwMmRpSHZGQQ?oc=5",
+      "summary": "朝日新聞「朝ポキ」 読者ではなく“仲間”を育む対話の循環&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-23T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-25T10:11:24+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -3595,188 +3968,6 @@
       "scraped_at": "2026-07-27T12:30:31+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "バイロン・シャープが“宿敵”と合意した「5つの真実」 差別化は無意味？",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00009/?n_cid=nbpnxr_rss",
-      "summary": "「カンヌライオンズ2026」で実現したマーケティングの世界で物議を醸す研究者2人の対談を、一橋大学で客員研究員も務める花王のマーケター、廣澤祐氏が分析。その前提としてバイロン・シャープ氏とマーク・リットソン氏の思想の違いを明らかにした前回に続き、今回は対談で2人が合意した「5つの真実」を解説する。",
-      "published_at": "2026-07-24T00:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-07-24T12:00:47+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ドンキ「批判を起爆剤にする商品設計」 “うるさいエアコン”3万台超え",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01429/00006/?n_cid=nbpnxr_rss",
-      "summary": "「うるさい」「部屋を適温に設定しにくい」。批判の声も多いプライベートブランドのエアコンが、2023年の全国発売以降、累計販売台数が3万4000台超のヒットを記録している。そんな異色の商品が、ドン・キホーテを展開するパン・パシフィック・インターナショナルホールディングスの「どこでも置くだけエアコン」。ヒットした裏には、エアコンの設置工事待ちの長期化に着目した商品開発と、ネガティブな評価を起爆剤にして売るという驚きの戦略が練られていた。",
-      "published_at": "2026-07-24T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "累計販売",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-24T12:00:47+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "Claude Codeより初心者向き Gemini Canvasで“欲しいアプリ”を作る",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00012/?n_cid=nbpnxr_rss",
-      "summary": "2026年7月3日発売の「日経トレンディ2026年8月号」では、「AI即戦力仕事術」を特集。プログラミング経験がなくても、AIに「こんなツールが欲しい」と伝えるだけでアプリを作れる時代が来た。注目の「バイブコーディング」は、初心者の業務改善をどう変えるのか。GeminiのCanvas機能を使い、要約・思考支援付き「付箋メモ」を作る手順から、実用化に欠かせない改善の勘所までを解説する。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
-      "published_at": "2026-07-24T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-24T12:00:47+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "カンヌ最注目、コトラーに挑む2大マーケ論客がガチンコ対談",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00008/?n_cid=nbpnxr_rss",
-      "summary": "「カンヌライオンズ2026」の数ある講演の中でも、一橋大学で客員研究員も務める花王のマーケター、廣澤祐氏が最も注目した講演は、マーケティングの世界で物議を醸す研究者2人の対談。オーストラリアのアデレード大学アレンバーグ・バス研究所所長で教授のバイロン・シャープ氏と、カンヌライオンズの名物論客で、英ロンドン・ビジネス・スクールなどで教壇に立ってきたマーク・リットソン氏だ。ここでは対談の本質を理解するために、まずは2人の思想・理論の違いを明らかにする。",
-      "published_at": "2026-07-24T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-07-24T12:00:47+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ユニバがトップ3に2つ、2位は三重県に スゴいアトラクショントップ10",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01422/00003/?n_cid=nbpnxr_rss",
-      "summary": "テーマパークの華といえばアトラクション。そこでしか体験できない魅力を持つアトラクションがあるだけで、来園する動機となる。本記事では、独自に作成した全国テーマパークの「アトラクションランキング」トップ10を公開。ユニバーサル・スタジオ・ジャパンを訪れる人は必読だ。何せ、トップ3に2つ、ランキング全体には4つも送り込んでいる。その顔ぶれを確認しておこう。本文最後には、ほかのテーマパークのアトラクションについても解説した本誌記事のPDFファイルを用意している。そちらもぜひ確認してほしい。",
-      "published_at": "2026-07-24T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-24T12:00:47+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "英百貨店やネスレ直営店に学ぶ AI時代に行列ができる店の共通項",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01913/?n_cid=nbpnxr_rss",
-      "summary": "AIが需要を先回りし、消費者と商品を結ぶ。そんな時代の中で、効率よく「売る」ことではなく、人がわざわざ時間を使い、足を運び、記憶として持ち帰りたくなる理由をいかに生み出すか。小売りイベント「Shoptalk Europe 2026」で浮かび上がった英百貨店やNespresso直営店の事例から、リアル店舗の存在意義を再考する。",
-      "published_at": "2026-07-24T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-24T12:00:47+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "JM Smucker snags Hershey exec as SVP of operations, supply chain",
-      "url": "https://www.fooddive.com/news/jm-smucker-snags-hershey-exec-as-svp-of-operations-supply-chain/825845/",
-      "summary": "Douglas Guilherme will step into the role on July 29 with over 30 years of experience, including stints at the chocolate maker and Procter & Gamble.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-24T12:00:56+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "How Dum Dums owner Spangler created a candy empire built on nostalgia",
-      "url": "https://www.fooddive.com/news/Spangler-nostalgia-candy-dum-dums-sweethearts/822402/",
-      "summary": "The sweets maker has carved out an enviable niche in the $55 billion candy space with a unique collection of brands with storied histories, such as Sweethearts and Bit-O-Honey.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-24T12:00:56+08:00"
-    },
-    {
       "site_name": "Food Dive",
       "site_name_en": "Food Dive",
       "region": "北美",
@@ -5121,6 +5312,72 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-22T10:08:32+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Leftovers: Reese’s Puffs spoons up PB&J cereal | Little Bites debuts mystery muffins",
+      "url": "https://www.fooddive.com/news/reeses-puffs-peanut-butter-jelly-little-bites-mystery-flavor-7-brew-canned-latte-energy-drinks/828487/",
+      "summary": "The launch from General Mills follows the success of Reese’s PB+J cups last year, while drive-thru coffee chain 7 Brew enters retail with a lineup of caffeinated drinks.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-25T10:11:37+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "FSMA 204 brings law and order to the retail range",
+      "url": "https://www.fooddive.com/spons/fsma-204-brings-law-and-order-to-the-retail-range/827388/",
+      "summary": "Technology alone won't solve this. What early pilots reveal about the real work ahead.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-08-25T10:11:37+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "B&G Foods’ Green Giant sale runs into antitrust concerns in Canada",
+      "url": "https://www.fooddive.com/news/bg-foods-green-giant-sale-antitrust-concerns-canada/828368/",
+      "summary": "The sale of two vegetable brands to Nortera Foods could lead to higher prices and fewer choices for consumers, the country’s Competition Bureau claimed.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-25T10:11:37+08:00"
     }
   ]
 }
