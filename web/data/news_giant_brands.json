@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T10:11:24",
+  "last_updated": "2026-08-25T15:38:00",
   "retention_days": 7,
   "total": 501,
   "s_count": 34,
@@ -80,6 +80,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-08-25T00:00:00",
+      "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
@@ -135,15 +146,15 @@
       "level_reason": "企业动态"
     },
     {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/chain-partners-with-general-mills-to-launch-chain-snacks",
       "published_at": "2026-08-24T00:00:00",
-      "summary": "2026 年12月期 上期 決算業績について",
-      "level": "B",
-      "level_reason": "企业动态"
+      "summary": "Chain Partners With General Mills to Launch “Chain Snacks” at Westfield Topanga Mall",
+      "level": "S",
+      "level_reason": "新产品"
     },
     {
       "brand": "Kirin",
@@ -595,17 +606,6 @@
       "summary": "Shaquille O’Neal and General Mills Search for America’s Biggest Cereal Fans, Offering Big Prizes and Exclusive Merch",
       "level": "B",
       "level_reason": "企业动态"
-    },
-    {
-      "brand": "General Mills",
-      "brand_cn": "通用磨坊",
-      "region": "北美",
-      "title": "Continue Reading",
-      "url": "https://www.generalmills.com/news-and-stories/press-releases/chain-partners-with-general-mills-to-launch-chain-snacks",
-      "published_at": "2026-08-06T00:00:00",
-      "summary": "Chain Partners With General Mills to Launch “Chain Snacks” at Westfield Topanga Mall",
-      "level": "S",
-      "level_reason": "新产品"
     },
     {
       "brand": "Kirin",
