@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-26T10:17:39",
+  "last_updated": "2026-08-26T15:39:47",
   "retention_days": 7,
-  "total": 503,
+  "total": 505,
   "s_count": 34,
   "a_count": 4,
-  "b_count": 465,
+  "b_count": 467,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,39 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-08-26T00:00:00",
+      "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.26日清シスコ「グラノーラキッチン from ごろグラ」 2品 (9月14日発売)",
+      "url": "https://www.nissin.com/jp/news/13900/",
+      "published_at": "2026-08-26T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.26日清食品ホールディングス「YOKOHAMAでひよこちゃん発見! スマホdeスタンプラリー」(9月2日から30日まで実施)",
+      "url": "https://www.nissin.com/jp/news/13901/",
+      "published_at": "2026-08-26T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -87,17 +120,6 @@
       "url": "https://www.nissin.com/jp/news/13898/",
       "published_at": "2026-08-25T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-08-25T00:00:00",
-      "summary": "2026 年12月期 上期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
