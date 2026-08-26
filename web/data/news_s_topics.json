@@ -1,33 +1,195 @@
 {
-  "total": 224,
-  "s_plus_count": 36,
+  "total": 229,
+  "s_plus_count": 37,
   "sites": [
-    "日経xTrend",
-    "日経新聞",
     "Food Dive",
-    "Packaging Digest",
-    "朝日グループYouTube"
+    "日経新聞",
+    "日経xTrend",
+    "朝日グループYouTube",
+    "Packaging Digest"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
+    "渠道新物种": 5,
+    "新技术": 4,
+    "新产品": 52,
+    "营销创新": 16,
+    "新包装": 2,
     "品牌故事": 14,
     "其他": 85,
-    "营销创新": 14,
-    "新产品": 51,
     "行业政策": 19,
     "联名营销": 18,
     "并购融资": 9,
-    "渠道新物种": 4,
-    "新包装": 1,
-    "新原料": 6,
-    "新技术": 3
+    "新原料": 5
   },
-  "last_updated": "2026-08-25 10:11",
-  "last_updated_iso": "2026-08-25T10:11:40.844891+08:00",
+  "last_updated": "2026-08-26 10:17",
+  "last_updated_iso": "2026-08-26T10:17:56.977819+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "chocoZAP超えの“なんでもあり”感 岐阜発「ゴルフ、サウナ付きジム」の正体",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00354/?n_cid=nbpnxr_rss",
+      "summary": "コロナ禍以降、健康志向の高まりを受けて好調が続くフィットネス市場。新規顧客を獲得するため、各社独自の戦略を打ち出している。手軽なコンビニジムの「chocoZAP」、女性専用の「カーブス」、シャワー室完備で24時間営業の「エニタイムフィットネス」などがその代表格だ。そんな中、従来のジムのイメージを超える内容で急拡大を遂げているのが、岐阜県創業のアミューズメントフィットネスクラブ「FIT-EASY」。2026年10月期決算でも5期連続最高益を更新する見通しと絶好調だ。独自の戦略とその意図について迫る。",
+      "published_at": "2026-08-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-08-26T10:17:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "広告費8分の1でもペプシを上回るドクターペッパー AI時代の勝つ条件",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01932/?n_cid=nbpnxr_rss",
+      "summary": "26年6月にフランス・パリで開催された欧州最大級のスタートアップとテクノロジーに関するイベント「VivaTech 2026」では、AI時代のブランドのあり方について活発な議論が繰り広げられた。米Keurig Dr Pepper、米Booking Holdings、仏LVMH、英Morrisonsといった世界各国の著名企業のキーパーソンが明らかにした内容は、いずれも日本企業のブランド担当者にとっても大いに役立つものである。前回に続き、イベントについて詳細リポートする。",
+      "published_at": "2026-08-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新技术",
+          "icon": "⚡",
+          "color": "#0891b2",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新技术",
+      "scraped_at": "2026-08-26T10:17:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "有名シェフとコラボした給食 子どもから作り手までの課題解決へ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02951/?n_cid=nbpnxr_rss",
+      "summary": "「世界一の給食を目指したごはんをシェフと一緒に食べませんか！！」と題した書籍発売の発表会が2026年7月4日、新渡戸文化学園（東京・中野、以下、学園）の東高円寺キャンパスにて催された。スターシェフと呼ばれる著名な料理人10人が出席し、華やいだ雰囲気のなか、「にとべごはん」と呼ばれる学園の給食を会場に集まった皆で試食した。この「世界一の給食」とはいったいどんな取り組みなのか。取材してみると、１つの学校にはとどまらない、現在の給食を変えようという計画、そして子どもの食を豊かにしていこうをいう願いがあった。",
+      "published_at": "2026-08-26T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-26T10:17:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "JALがLTV最大化の法則を発掘 データを基に部門横断の施策を実行可能に",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01432/00002/?n_cid=nbpnxr_rss",
+      "summary": "JALがこの夏、期間中に決済サービスと国内線の搭乗の両方を行うとボーナスポイントを付与するキャンペーンを展開している。航空事業と非航空事業のデータを一元化し、一気通貫で分析したことで、両方のサービスを利用してもらうことがLTV向上に寄与すると証明されたからだ。そういった仮説は以前からあったが、これまでは検証が難しかったという。データを共通言語とすることで、航空券を売る部門とカードやマイルを担う部門の間にあった分断がなくなり、横断的なマーケティング施策につなげている。",
+      "published_at": "2026-08-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-08-26T10:17:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "海外発コンテンツを大幅強化 米ADWEEK誌の日本語配信を開始します",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01449/00002/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドは2026年9月のリニューアルに合わせ、海外発コンテンツを強化します。米国の広告・マーケティング専門メディア「ADWEEK」の日本語配信を開始するほか、マーケティングリーダーシップの第一人者であるトーマス・バルタ氏の連載や「Fast Company」の記事をお届けします。特別企画のバイロン・シャープ教授インタビューもお見逃しなく。",
+      "published_at": "2026-08-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-08-26T10:17:42+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Aldi’s Private Label Packaging Redesign Puts Its Brand Front and Center",
+      "url": "https://www.packagingdigest.com/packaging-design/aldi-s-private-label-packaging-redesign-puts-its-brand-front-and-center",
+      "summary": "The retailer’s sweeping packaging overhaul unifies house-branded products and makes them more recognizable across the store.",
+      "published_at": "2026-08-25T13:58:17Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-08-26T10:17:55+08:00"
+    },
     {
       "site_name": "朝日グループYouTube",
       "site_name_en": "Asahi Group YouTube",
@@ -3972,50 +4134,6 @@
       "site_name_en": "Food Dive",
       "region": "北美",
       "positioning": "行业分析",
-      "title": "Mars Snacking to close US headquarters in New Jersey",
-      "url": "https://www.fooddive.com/news/mars-snacking-close-us-headquarters-job-cuts-employees/825806/",
-      "summary": "The Pringles maker plans to shutter the Newark location by the end of 2027 as it shifts more of its operations to Chicago.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-25T11:57:51+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "IFF sells natural ingredients business",
-      "url": "https://www.fooddive.com/news/iff-sells-natural-ingredients-business/825841/",
-      "summary": "Nutraceutical firm SuanNutra is acquiring the fragrance and flavor giant’s range of natural colors and functional ingredients.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 2
-        }
-      ],
-      "primary_category": "新原料",
-      "scraped_at": "2026-07-25T11:57:51+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
       "title": "Future proofing CPG portfolios with natural ingredients",
       "url": "https://www.fooddive.com/spons/future-proofing-cpg-portfolios-with-natural-ingredients/826092/",
       "summary": "Reformulating with natural ingredients? Learn how brands can protect quality, shelf life and consumer trust.",
@@ -5378,6 +5496,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-25T10:11:37+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nearly 60 members of Congress call for aluminum pricing investigation",
+      "url": "https://www.fooddive.com/news/house-representatives-commerce-investigation-aluminum-pricing-midwest-premium/828595/",
+      "summary": "At issue is the Midwest Premium, a pricing structure that has led to increased costs for cans used by the U.S. beverage industry.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-26T10:17:52+08:00"
     }
   ]
 }
