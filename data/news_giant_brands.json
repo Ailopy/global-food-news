@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-25T15:38:00",
+  "last_updated": "2026-08-26T10:17:39",
   "retention_days": 7,
-  "total": 501,
+  "total": 503,
   "s_count": 34,
   "a_count": 4,
-  "b_count": 463,
+  "b_count": 465,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "メニン阻害薬ziftomenibがNPM1遺伝子変異又はKMT2A遺伝子再構成を有する急性骨髄性白血病を対象に日本で希少疾病用医薬品指定を取得",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260825_01.pdf",
+      "published_at": "2026-08-25T06:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
@@ -87,6 +98,17 @@
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
       "published_at": "2026-08-25T00:00:00",
       "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/betty-crocker-celebrates-bettier-than-ever-era-with-fresh-packaging-and-statement-handbags",
+      "published_at": "2026-08-25T00:00:00",
+      "summary": "Betty Crocker Celebrates Bettier Than Ever™ Era with Fresh Packaging and Statement Handbags",
       "level": "B",
       "level_reason": "企业动态"
     },
