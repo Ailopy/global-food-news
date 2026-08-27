@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-27T18:43:52",
+  "last_updated": "2026-08-28T02:00:46",
   "retention_days": 7,
-  "total": 509,
+  "total": 510,
   "s_count": 34,
   "a_count": 4,
-  "b_count": 471,
+  "b_count": 472,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -65,6 +65,17 @@
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1809",
       "published_at": "2026-08-27T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/cinnamon-toast-crunch-and-chamoy-mega-bring-their-signature-flavors-together",
+      "published_at": "2026-08-27T00:00:00",
+      "summary": "Cinnamon Toast Crunch™ and Chamoy Mega® Bring Their Signature Flavors Together With Two Limited-Edition Products",
       "level": "B",
       "level_reason": "企业动态"
     },
