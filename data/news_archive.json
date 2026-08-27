@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-08-27T23:06:26.176443+08:00",
-  "total": 8524,
+  "last_updated": "2026-08-28T03:19:46.914993+08:00",
+  "total": 8532,
   "articles": [
+    {
+      "id": "62143ca37456d326",
+      "title": "Nosh Live 2026 Pitch Slam: Applications Are Open for Emerging Food Brands",
+      "summary": "Applications are now open for the Nosh Live 2026 Pitch Slam, giving emerging packaged food brands the chance to pitch their business on stage at Nosh Live 2026, taking place December 3–4 in Marina…",
+      "url": "https://www.nosh.com/news/events/noshlivewinter26/nosh-live-2026-pitch-slam-applications-are-open-for-emerging-food-brands",
+      "published_at": "2026-08-28T02:36:48+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "61d0dacb47245350",
+      "title": "The Search Is On for Beverage’s Next Breakout Brand: Apply for BevNET Live’s New Beverage Showdown",
+      "summary": "Applications are now open for the next New Beverage Showdown, BevNET’s pitch competition for early-stage beverage brands. Presented by Coca-Cola North America New Revenue Streams, the competition…",
+      "url": "https://www.bevnet.com/news/events/news/headlines/the-search-is-on-for-beverages-next-breakout-brand-apply-for-bevnet-lives-new-beverage-showdown/",
+      "published_at": "2026-08-28T02:29:44+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0bd4d99bb08a3509",
+      "title": "PepsiCo, Kraft Heinz under investigation in Texas over avocado oil claims",
+      "summary": "A probe into food giants' better-for-you brands follows a UC Davis study that found many products may be adulterated with cheaper oils.",
+      "url": "https://www.fooddive.com/news/texas-avocado-oil-investigation-pepsico-siete-kraft-heinz-primal-kitchen/828978/",
+      "published_at": "2026-08-28T01:41:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "5f3e9e73e7c91b78",
+      "title": "Pernod Ricard Leans Into RTDs as It Navigates a Down Year",
+      "summary": "Pernod Ricard closed a rough fiscal 2026 with organic net sales down nearly 4% globally and 14% in the U.S., but CEO Alexandre Ricard used the company’s full-year results call to highlight where the…",
+      "url": "https://www.bevnet.com/spirits/2026/pernod-ricard-leans-into-rtds-as-it-navigates-a-down-year",
+      "published_at": "2026-08-28T00:35:06+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5ce7a136cf0f69fe",
+      "title": "Newtopia Now Connects 435+ Brands with Leading Retailers as Emerging CPG Innovation Takes Center Stage",
+      "summary": "Event debuts first international pavilion and organic farmstead, creating immersive experiences that unite brands and buyers in the natural, organic, and purpose-driven marketplace.",
+      "url": "https://www.newhope.com/natural-products-expos/newtopia-now-connects-435-brands-with-leading-retailers-as-emerging-cpg-innovation-takes-center-stage",
+      "published_at": "2026-08-28T00:20:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "4ca2a5f8925f94a9",
+      "title": "Beyond Meat Returns to Foodservice Strategy with Milk Bar Collab",
+      "summary": "Beyond Meat and Milk Bar today launched a new collaboration that will bring plant-based and savory options back on to the latter's bakery menu after nearly 15 years.",
+      "url": "https://www.nosh.com/news/2026/beyond-meat-returns-to-foodservice-strategy-with-milk-bar-collab",
+      "published_at": "2026-08-27T23:37:53+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "4070e2ba948bc3d2",
+      "title": "Review: We’re Sweet On Tart",
+      "summary": "The organic sparkling drink offers a refreshing, lightly tart experience that feels approachable rather than intensely sour, while the compact 8.4 oz. can and clean branding give it a clear identity.",
+      "url": "https://www.bevnet.com/news/2026/review-were-sweet-on-tart",
+      "published_at": "2026-08-27T23:33:54+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "1710614e887fd522",
       "title": "Newtopia Now embraces throwback trends honey, tea and bars",
@@ -80,6 +164,18 @@
       "summary": "The beer maker, which will also lay off 220 workers, sold Stone Brewing earlier this year and is transitioning its brewing operations away from California.",
       "url": "https://www.fooddive.com/news/stone-brewery-california-closure-sapporo-sale/828924/",
       "published_at": "2026-08-27T21:21:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "e880aec8f2a8f288",
+      "title": "Trix maker General Mills removes synthetic dyes from US cereals",
+      "summary": "The cereal maker said it remains on track to remove artificial colors from the rest of its American retail portfolio by the end of 2027.",
+      "url": "https://www.fooddive.com/news/General-mills-removes-artifical-colors-cereal-rfk/828927/",
+      "published_at": "2026-08-27T21:14:02+08:00",
       "source": "Food Dive",
       "region": "北美",
       "category": "综合",
@@ -915,18 +1011,6 @@
       "language": "en"
     },
     {
-      "id": "d09da51807e04df0",
-      "title": "今週新発売の寿司🍣まとめ！『手巻寿司　トロサーモン巻』、『まる寿司　カニカマサラダ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！寿司の新商品情報をお届けします。今週新発売の#寿司セブン-イレブン 手巻寿司 トロサーモン巻人気のサーモントラウトを使った、パ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082607/?utm_source=rss&utm_medium=mognavinews_20260828",
-      "published_at": "2026-08-26T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "6aac7d59d9d46a86",
       "title": "MartinBauer and Finzelberg to showcase botanical nutraceuticals at Vitafoods Asia 2026",
       "summary": "MartinBauer and Finzelberg will highlight science-backed botanical ingredients and extraction expertise at Vitafoods Asia 2026, targeting growing demand for differentiated nutraceutical products…",
@@ -937,6 +1021,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "d09da51807e04df0",
+      "title": "今週新発売の寿司🍣まとめ！『手巻寿司　トロサーモン巻』、『まる寿司　カニカマサラダ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！寿司の新商品情報をお届けします。今週新発売の#寿司セブン-イレブン 手巻寿司 トロサーモン巻人気のサーモントラウトを使った、パ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082607/?utm_source=rss&utm_medium=mognavinews_20260828",
+      "published_at": "2026-08-26T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "313fb816750a1556",

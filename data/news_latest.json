@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-27T23:06:26.283979+08:00",
+  "last_updated": "2026-08-28T03:19:47.024260+08:00",
   "retention_days": 7,
-  "total": 474,
+  "total": 476,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,90 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "62143ca37456d326",
+      "title": "Nosh Live 2026 Pitch Slam: Applications Are Open for Emerging Food Brands",
+      "summary": "Applications are now open for the Nosh Live 2026 Pitch Slam, giving emerging packaged food brands the chance to pitch their business on stage at Nosh Live 2026, taking place December 3–4 in Marina…",
+      "url": "https://www.nosh.com/news/events/noshlivewinter26/nosh-live-2026-pitch-slam-applications-are-open-for-emerging-food-brands",
+      "published_at": "2026-08-28T02:36:48+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "61d0dacb47245350",
+      "title": "The Search Is On for Beverage’s Next Breakout Brand: Apply for BevNET Live’s New Beverage Showdown",
+      "summary": "Applications are now open for the next New Beverage Showdown, BevNET’s pitch competition for early-stage beverage brands. Presented by Coca-Cola North America New Revenue Streams, the competition…",
+      "url": "https://www.bevnet.com/news/events/news/headlines/the-search-is-on-for-beverages-next-breakout-brand-apply-for-bevnet-lives-new-beverage-showdown/",
+      "published_at": "2026-08-28T02:29:44+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0bd4d99bb08a3509",
+      "title": "PepsiCo, Kraft Heinz under investigation in Texas over avocado oil claims",
+      "summary": "A probe into food giants' better-for-you brands follows a UC Davis study that found many products may be adulterated with cheaper oils.",
+      "url": "https://www.fooddive.com/news/texas-avocado-oil-investigation-pepsico-siete-kraft-heinz-primal-kitchen/828978/",
+      "published_at": "2026-08-28T01:41:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "5f3e9e73e7c91b78",
+      "title": "Pernod Ricard Leans Into RTDs as It Navigates a Down Year",
+      "summary": "Pernod Ricard closed a rough fiscal 2026 with organic net sales down nearly 4% globally and 14% in the U.S., but CEO Alexandre Ricard used the company’s full-year results call to highlight where the…",
+      "url": "https://www.bevnet.com/spirits/2026/pernod-ricard-leans-into-rtds-as-it-navigates-a-down-year",
+      "published_at": "2026-08-28T00:35:06+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5ce7a136cf0f69fe",
+      "title": "Newtopia Now Connects 435+ Brands with Leading Retailers as Emerging CPG Innovation Takes Center Stage",
+      "summary": "Event debuts first international pavilion and organic farmstead, creating immersive experiences that unite brands and buyers in the natural, organic, and purpose-driven marketplace.",
+      "url": "https://www.newhope.com/natural-products-expos/newtopia-now-connects-435-brands-with-leading-retailers-as-emerging-cpg-innovation-takes-center-stage",
+      "published_at": "2026-08-28T00:20:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "4ca2a5f8925f94a9",
+      "title": "Beyond Meat Returns to Foodservice Strategy with Milk Bar Collab",
+      "summary": "Beyond Meat and Milk Bar today launched a new collaboration that will bring plant-based and savory options back on to the latter's bakery menu after nearly 15 years.",
+      "url": "https://www.nosh.com/news/2026/beyond-meat-returns-to-foodservice-strategy-with-milk-bar-collab",
+      "published_at": "2026-08-27T23:37:53+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "4070e2ba948bc3d2",
+      "title": "Review: We’re Sweet On Tart",
+      "summary": "The organic sparkling drink offers a refreshing, lightly tart experience that feels approachable rather than intensely sour, while the compact 8.4 oz. can and clean branding give it a clear identity.",
+      "url": "https://www.bevnet.com/news/2026/review-were-sweet-on-tart",
+      "published_at": "2026-08-27T23:33:54+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "1710614e887fd522",
       "title": "Newtopia Now embraces throwback trends honey, tea and bars",
@@ -95,6 +179,18 @@
       "summary": "The beer maker, which will also lay off 220 workers, sold Stone Brewing earlier this year and is transitioning its brewing operations away from California.",
       "url": "https://www.fooddive.com/news/stone-brewery-california-closure-sapporo-sale/828924/",
       "published_at": "2026-08-27T21:21:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "e880aec8f2a8f288",
+      "title": "Trix maker General Mills removes synthetic dyes from US cereals",
+      "summary": "The cereal maker said it remains on track to remove artificial colors from the rest of its American retail portfolio by the end of 2027.",
+      "url": "https://www.fooddive.com/news/General-mills-removes-artifical-colors-cereal-rfk/828927/",
+      "published_at": "2026-08-27T21:14:02+08:00",
       "source": "Food Dive",
       "region": "北美",
       "category": "综合",
@@ -930,18 +1026,6 @@
       "language": "en"
     },
     {
-      "id": "d09da51807e04df0",
-      "title": "今週新発売の寿司🍣まとめ！『手巻寿司　トロサーモン巻』、『まる寿司　カニカマサラダ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！寿司の新商品情報をお届けします。今週新発売の#寿司セブン-イレブン 手巻寿司 トロサーモン巻人気のサーモントラウトを使った、パ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082607/?utm_source=rss&utm_medium=mognavinews_20260828",
-      "published_at": "2026-08-26T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "6aac7d59d9d46a86",
       "title": "MartinBauer and Finzelberg to showcase botanical nutraceuticals at Vitafoods Asia 2026",
       "summary": "MartinBauer and Finzelberg will highlight science-backed botanical ingredients and extraction expertise at Vitafoods Asia 2026, targeting growing demand for differentiated nutraceutical products…",
@@ -952,6 +1036,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "d09da51807e04df0",
+      "title": "今週新発売の寿司🍣まとめ！『手巻寿司　トロサーモン巻』、『まる寿司　カニカマサラダ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！寿司の新商品情報をお届けします。今週新発売の#寿司セブン-イレブン 手巻寿司 トロサーモン巻人気のサーモントラウトを使った、パ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082607/?utm_source=rss&utm_medium=mognavinews_20260828",
+      "published_at": "2026-08-26T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "313fb816750a1556",
@@ -5627,78 +5723,6 @@
       "summary": "Collagen-infused tea maker Pretty Tasty is entering all Target locations nationwide, following rollouts with Sprouts Farmers Market and LifeTime Fitness earlier this year.",
       "url": "https://www.bevnet.com/news/2026/distribution-pretty-tasty-goes-national-with-target-real-coco-expands-aldi-set",
       "published_at": "2026-08-21T03:48:36+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "bdcfa41fc740dc38",
-      "title": "Supply Chains Start at the Seed: Why Crop Selection Could Be the Next Brand Moat",
-      "summary": "Supply chain risks are increasingly going to the seed level. While co-manufacturers, freight movers and retailers all play a part in getting a product to shelf, the core crops that make your product…",
-      "url": "https://www.nosh.com/news/2026/supply-chains-start-at-the-seed-why-crop-selection-could-be-the-next-brand-moat",
-      "published_at": "2026-08-21T03:00:11+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "a01cb64d9ddc15d9",
-      "title": "Trump admin’s dietary guidelines face lawsuit from doctors’ group",
-      "summary": "The Physicians Committee for Responsible Medicine said recommendations were shaped by food industry insiders who promoted the interests of the beef and dairy industries.",
-      "url": "https://www.fooddive.com/news/dietary-guidelines-lawsuit-food-industry-influence-rfk/828410/",
-      "published_at": "2026-08-21T01:46:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "7e77a363a38794e5",
-      "title": "Nortera Foods’ Green Giant Deal Hits Regulatory Roadblock in Canada",
-      "summary": "Nearly 10 months after B&G Foods agreed to sell its Green Giant and Le Sieur businesses in Canada to Nortera Foods, the transaction is facing a potentially deal-breaking regulatory challenge.",
-      "url": "https://www.nosh.com/news/2026/nortera-foods-green-giant-deal-hits-regulatory-roadblock-in-canada",
-      "published_at": "2026-08-21T00:28:38+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "b557a7b312fbb1c3",
-      "title": "Jalapeño Salmonella outbreak grows to 431 sick in 32 states; illnesses ran into August and the grower is still unnamed",
-      "summary": "CDC lists the investigation status as open and FDA lists it as ongoing. Case counts and recall lists in this report reflect the federal record as of Aug. 20, 2026.",
-      "url": "https://www.foodsafetynews.com/2026/08/jalapeno-salmonella-outbreak-grows-to-431-sick-in-32-states-illnesses-ran-into-august-and-the-grower-is-still-unnamed/",
-      "published_at": "2026-08-21T00:18:37+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "4f2cf403b84f45e0",
-      "title": "Dive Into Innovation With BevNET CPG Media’s Interactive Launch Explorer",
-      "summary": "We've compiled more than 1,000 new product, flavor, function, and retailer-specific exclusive launches from this year in a centralized, interactive and detail-rich hub.",
-      "url": "https://www.bevnet.com/news/2026/dive-into-innovation-with-bevnet-cpg-medias-interactive-launch-explorer",
-      "published_at": "2026-08-20T23:35:35+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "1a20bb76b55aab42",
-      "title": "RTDs Deliver 38% of Bev-Alc Innovation Dollars from Just 22% of Items",
-      "summary": "Ready-to-drink (RTD) brands are doing disproportionate work in bev-alc innovation – and the brands investing in innovation are twice as likely to grow their overall business, according to a new NIQ…",
-      "url": "https://www.bevnet.com/spirits/2026/rtds-deliver-38-of-bev-alc-innovation-dollars-from-just-22-of-items",
-      "published_at": "2026-08-20T23:28:57+08:00",
       "source": "BevNET",
       "region": "北美",
       "category": "饮料",
