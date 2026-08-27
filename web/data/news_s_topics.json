@@ -1,33 +1,99 @@
 {
-  "total": 229,
-  "s_plus_count": 37,
+  "total": 228,
+  "s_plus_count": 35,
   "sites": [
-    "Food Dive",
     "日経新聞",
+    "Packaging Digest",
     "日経xTrend",
-    "朝日グループYouTube",
-    "Packaging Digest"
+    "Food Dive",
+    "朝日グループYouTube"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "渠道新物种": 5,
-    "新技术": 4,
+    "渠道新物种": 6,
     "新产品": 52,
+    "其他": 85,
+    "新技术": 4,
     "营销创新": 16,
     "新包装": 2,
-    "品牌故事": 14,
-    "其他": 85,
+    "品牌故事": 13,
     "行业政策": 19,
-    "联名营销": 18,
+    "联名营销": 17,
     "并购融资": 9,
     "新原料": 5
   },
-  "last_updated": "2026-08-26 10:17",
-  "last_updated_iso": "2026-08-26T10:17:56.977819+08:00",
+  "last_updated": "2026-08-27 18:44",
+  "last_updated_iso": "2026-08-27T18:44:13.077014+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「鏡離れ」は何歳から？ 生活元年で見えた消齢化と世代間ギャップ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00401/00076/?n_cid=nbpnxr_rss",
+      "summary": "コンビニで生鮮食品を買う頻度が高くなるのは何歳から？ 他人からの目線が気にならなくなり外見を重視しなくなるのは何歳から？ 博報堂生活総合研究所は生活において行動を始めるタイミングを「生活元年」と名づけて調査・研究を続けている。詳細に見ていくと、年齢による意識や行動の差が減少しつつある「消齢化」時代にもかかわらず、生活元年では年代によって大きな意識の差がある項目も目立った。その差、ズレから見える生活者の意識と心理を読み解いた。",
+      "published_at": "2026-08-27T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-08-27T18:43:56+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アサヒが100億円市場を狙い「グミサプリ」 デプス調査で見つけた勝機",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01938/?n_cid=nbpnxr_rss",
+      "summary": "アサヒグループ食品は2026年9月7日、グミタイプの栄養サプリ「グミナチュラ」を発売する。急拡大するグミサプリ市場は、UHA味覚糖の「UHAグミサプリ」がほぼ独走する1強市場だ。そこへ挑む同社が狙うのは、サプリメントを一度も手に取ったことのない層だ。ポイントとなるのは、「5日分」という商品設計。1袋あたりの単価を抑えて摂取を始めやすくするだけでなく、持ち運びしやすくして場所を選ばず摂取できることを売りにする。絶対的王者がいる市場で、どのような勝ち筋を描こうとしているのか。",
+      "published_at": "2026-08-27T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-27T18:43:56+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "アサヒが100億円市場を狙い「グミサプリ」 デプス調査で見つけた勝機",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yYVpUUWNRdGdqTnVINjd4LXJWQWZMbWRHc2s5QTRfUWRHTXZoTVF3R2Z0SlByTWdYWUYwT3kyS056Rm5YVFo2M1V1LWx6X09uTkZCNTR1cFFVa0VRUXh4ZlBFN2lwRzJGX2FoOU9sWQ?oc=5",
+      "summary": "アサヒが100億円市場を狙い「グミサプリ」 デプス調査で見つけた勝機&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-26T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-27T18:43:53+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -784,6 +850,56 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-25T10:11:24+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "パッケージ好意度トップ3はアイス 新商品593品調査が示す勝ち筋",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03MU1uYmZpSnpVeEFkWGtQcWVCTTdZOExJTDgzckJWU0hRN2Rrb2hNc2xaRXRWQWtVTE9yZjFzcDI2MVFKMU5pdXVybkFVY1BzMGZqeXNZRnFyOWVRTEhNd05ybVNrWXFUZ05mbDZqSHZlaUZyMXJPSFRCYjZVN3M?oc=5",
+      "summary": "パッケージ好意度トップ3はアイス 新商品593品調査が示す勝ち筋&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-23T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-27T18:43:53+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "スターゼン[8043]：レンジで温めるだけで“お皿になる”新発想！スターゼン、タイパ需要に応える『楽らくおつまみ』9月1日発売 2026年8月21日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PY3F6c2ZjV01wRWZFLWVRaWV0UlFwNWhqYVFWN1FPcWIyYm5JM3o1cTd0UklhSXBjcy14cEdPT2FQai1selcxdGVGamJHNW1FenBUN3FMcFhvRWZ5M1hOaWR1S2JPOFdSZUE?oc=5",
+      "summary": "スターゼン[8043]：レンジで温めるだけで“お皿になる”新発想！スターゼン、タイパ需要に応える『楽らくおつまみ』9月1日発売 2026年8月21日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-08-21T01:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-08-27T18:43:53+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -3930,206 +4046,6 @@
       "scraped_at": "2026-07-28T11:54:56+08:00"
     },
     {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "未来のレモンサワー×サクレレモン「フローズンダブルレモンサワー」篇 草川拓弥",
-      "url": "https://www.youtube.com/watch?v=5hTR4Bp0C5w",
-      "summary": "未来のレモンサワー×サクレレモン「フローズンダブルレモンサワー」篇 草川拓弥 出演者：草川拓弥 ▼未来のレモンサワー ブランドサイト https://www.asahibeer.co.jp/brand/osakenomirai/",
-      "published_at": "2026-07-27T01:00:06Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-07-27T12:30:45+08:00",
-      "watched_product": true,
-      "watched_product_name": "未来のレモンサワー 檸檬（レモン）コーラサワー",
-      "watched_priority": "URGENT",
-      "is_video": true,
-      "video_thumbnail": "https://i2.ytimg.com/vi/5hTR4Bp0C5w/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "未来のレモンサワー「美味しさの秘密」篇 172秒",
-      "url": "https://www.youtube.com/watch?v=3P5q90W6mRE",
-      "summary": "未来のレモンサワー「美味しさの秘密」篇 172秒 ▼未来のレモンサワー ブランドサイト https://www.asahibeer.co.jp/brand/osakenomirai/",
-      "published_at": "2026-07-27T01:00:04Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-07-27T12:30:45+08:00",
-      "watched_product": true,
-      "watched_product_name": "未来のレモンサワー 檸檬（レモン）コーラサワー",
-      "watched_priority": "URGENT",
-      "is_video": true,
-      "video_thumbnail": "https://i4.ytimg.com/vi/3P5q90W6mRE/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "夏舌、攻め巣ごもり、通年リカバー消費 異常気象攻略のキーワード",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01418/00002/?n_cid=nbpnxr_rss",
-      "summary": "予想がつかない酷暑の影響で、売り場の運用に悩む小売りの担当者は少なくない。しかし、卸の流通データから見えたのは「メーカーの新商品投入や小売店の棚替えスケジュールはおおむね従来通り」という事実。大きく変わったのは消費者の体感や意識の方だ。ギャップに合わせ、卸の現場では商品提案や売り場づくりを微調整する動きが生まれている。この“体感ズレ消費”の実態に3つのキーワードで迫る。",
-      "published_at": "2026-07-27T00:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-27T12:30:31+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "折りたたみ「Samsung Galaxy Z Fold8 Ultra」発売 未来消費カレンダー",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00242/?n_cid=nbpnxr_rss",
-      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年8月7日「サムスン、『Samsung Galaxy Z Fold8 Ultra／Fold8／Flip8』発売」ほか18件の情報を追加した。",
-      "published_at": "2026-07-27T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "話題",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 2
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-27T12:30:31+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "暑すぎる夏で消費の常識崩壊 酷暑を逆手に取る3つのずらし戦術",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01418/00001/?n_cid=nbpnxr_rss",
-      "summary": "かつて夏の暑さは、飲料や家電、レジャー消費を押し上げる追い風とされてきた。だが35度を超える酷暑が常態化する今、外出控えや電気代負担、旅行意欲の低下が広がり、消費を冷やす逆風にもなりつつある。暑さで売り上げが伸びるカテゴリーでも、消費者の心理は高揚ではなく防衛に傾いている。企業は「暑ければ売れる」という従来の夏商戦をどう組み替えるべきか。鍵は、3つの「ずらし」の発想にある。",
-      "published_at": "2026-07-27T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-27T12:30:31+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "自然な日本語表現はGeminiやChatGPT以上！ 「Claude」のトリセツ",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01415/00013/?n_cid=nbpnxr_rss",
-      "summary": "2026年7月3日発売の「日経トレンディ2026年8月号」では、「AI即戦力仕事術」を特集。生成AIのシェア争いで存在感を高める「Claude」。自然な日本語、確認しながら回答精度を上げる対話力、定型業務を再現できる「スキル」、資料や文脈を保持する「プロジェクト」が支持を集める。ChatGPTやGeminiと何が違い、仕事でどう使えば成果につながるのか。今さら聞けない基本と実践ポイントを整理する。",
-      "published_at": "2026-07-27T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-27T12:30:31+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "1位は「ジャングリア、ついに開園 森岡氏が明かす「刀」の需要予測メソッド」 ちょうど1年前振り返りランキング",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00125/?n_cid=nbpnxr_rss",
-      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年7月27日～8月23日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
-      "published_at": "2026-07-27T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-27T12:30:31+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "AIが追い風でnoteの営業益4倍超 目指すは「コンテンツのAmazon」",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00967/00014/?n_cid=nbpnxr_rss",
-      "summary": "インターネットのコンテンツは無料という常識を覆し、広告に頼らない課金モデルでクリエイター支援、コンテンツの流通とマネタイズを根本から再定義してきたnote。2024年に黒字化を果たすと、25年11月期の決算では営業利益で前年度比4倍を超える急伸を果たした。さらに米グーグルが日本の上場企業として初めて出資し、生成AI向けのデータの参照基盤としても存在感を高めている。ブログでも本でもない「創作経済圏」であり、AI時代の「知のインフラ」をどう築いてきたのか。事業全体に深く関与する取締役CFOの鹿島幸裕氏に、その設計思想を聞いた。",
-      "published_at": "2026-07-27T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "初めて",
-      "categories": [
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 2
-        },
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "并购融资",
-      "scraped_at": "2026-07-27T12:30:31+08:00"
-    },
-    {
       "site_name": "Food Dive",
       "site_name_en": "Food Dive",
       "region": "北美",
@@ -5518,6 +5434,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-26T10:17:52+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Sazerac buys shuttered Kentucky distillery to boost spirits production",
+      "url": "https://www.fooddive.com/news/sazerac-buys-garrard-county-distilling-kentucky-boost-spirits-production/828568/",
+      "summary": "The Buffalo Trace owner has invested heavily in existing facilities within the state, but acknowledged it wasn’t enough to keep up with demand.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-27T18:44:08+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Beer giant Constellation Brands invests $100M in US farm profitability",
+      "url": "https://www.fooddive.com/news/constellation-brands-modelo-100m-farm-profitability/828594/",
+      "summary": "The Modelo maker said the investment will help improve economic resiliency in key producing states, including Idaho, Montana and North Dakota.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-08-27T18:44:08+08:00"
     }
   ]
 }
