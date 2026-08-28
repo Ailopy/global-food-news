@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-28T20:21:14",
+  "last_updated": "2026-08-29T03:11:02",
   "retention_days": 7,
-  "total": 510,
+  "total": 511,
   "s_count": 34,
   "a_count": 4,
-  "b_count": 472,
+  "b_count": 473,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -5640,6 +5640,17 @@
       "region": "日本",
       "title": "マースのブランド一覧：A–Z",
       "url": "https://www.mars.com/ja-jp/our-brands/all-brands",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Coca-Cola",
+      "brand_cn": "可口可乐",
+      "region": "中国",
+      "title": "可口可乐中国“共益”新实践：“净水计划”迈向新阶段",
+      "url": "https://www.coca-cola.com/cn/zh/media-center/2026_ripples_of_change",
       "published_at": "",
       "summary": "",
       "level": "B",
