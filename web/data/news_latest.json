@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-29T00:30:10.884514+08:00",
+  "last_updated": "2026-08-29T04:29:02.199836+08:00",
   "retention_days": 7,
-  "total": 501,
+  "total": 503,
   "sources": [
     "BevNET",
     "Fab News",
@@ -13,10 +13,47 @@
     "Nutraceutical Business Review",
     "Sweets & Snacks World",
     "The Food Institute",
+    "The Spoon",
     "食品新聞",
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "c0c67faac1176e8b",
+      "title": "How One Japanese Entrepreneur Built a Food Business in America",
+      "summary": "When Yuta Katsuyama moved from Japan to Chicago eight years ago to go to graduate school, the food he missed most was no sushi or ramen. It was onigiri. With […]",
+      "url": "https://thespoon.tech/how-one-japanese-entrepreneur-built-a-food-business-in-america/",
+      "published_at": "2026-08-29T03:44:02+08:00",
+      "source": "The Spoon",
+      "region": "欧美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "cace66643bd39267",
+      "title": "State of Natural Industry Snapshot Fall 2026",
+      "summary": "The fall installment of the State of Natural Market Snapshot offers data and insights across the natural and organic product market, with sales and growth forecasts through 2030.",
+      "url": "https://www.newhope.com/industry-insights/state-of-natural-industry-snapshot-fall-2026",
+      "published_at": "2026-08-29T02:07:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "1d100953745d8dfd",
+      "title": "Trump pledges legal action to break ‘nasty monopoly’ in meat processing",
+      "summary": "A proposal to allow farmers and ranchers to process their own animals immediately drew criticism from agriculture groups over food safety concerns.",
+      "url": "https://www.fooddive.com/news/Trump-white-house-cattle-monopoly-food-safety/829102/",
+      "published_at": "2026-08-29T00:21:42+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
     {
       "id": "bc10ca8d05b743e3",
       "title": "Taste Radio: The Private Opportunity That Could Be Worth Millions",
@@ -75,6 +112,18 @@
       "region": "北美",
       "category": "综合",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "778fa297370d4b4b",
+      "title": "Leftovers: Pringles introduces thicker chips | Pop-Tarts gets buzzed with BuzzBallz",
+      "summary": "The Mars Snacking brand is launching a sturdier crisp designed for dipping, while Snoop Dogg's Dr. Bombay releases a nostalgic popsicle.",
+      "url": "https://www.fooddive.com/news/buzzballs-poptarts-snoop-dogg-popsicle-thick-pringles/829061/",
+      "published_at": "2026-08-28T22:11:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
@@ -6004,30 +6053,6 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
-    },
-    {
-      "id": "5385bfada0cedc85",
-      "title": "Walmart Says Volume Sales, Market Share Behind Q2 Grocery Growth",
-      "summary": "Walmart reported that “strong” unit volume growth helped drive mid-single digit improvement for its grocery business in the retailer’s Q2 FY 2027 earnings report this week.",
-      "url": "https://www.nosh.com/news/2026/walmart-says-volume-sales-market-share-behind-q2-grocery-growth",
-      "published_at": "2026-08-22T04:28:40+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "32591108cbda63c3",
-      "title": "Private Label Is Having a Moment. Gopuff Wants a Bigger Piece of It.",
-      "summary": "Gopuff is leaning further into private label, expanding its Crave Shoppe and Basically brands with a wave of new snacks, baked goods and beverages while introducing seasonal products for the first…",
-      "url": "https://www.nosh.com/news/2026/private-label-is-having-a-moment-gopuff-wants-a-bigger-piece-of-it",
-      "published_at": "2026-08-22T04:19:26+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
     }
   ]
 }
