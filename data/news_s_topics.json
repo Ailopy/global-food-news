@@ -1,32 +1,32 @@
 {
-  "total": 227,
-  "s_plus_count": 37,
+  "total": 220,
+  "s_plus_count": 36,
   "sites": [
+    "日経新聞",
+    "日経xTrend",
     "Packaging Digest",
     "Food Dive",
-    "朝日グループYouTube",
-    "日経xTrend",
-    "日経新聞"
+    "朝日グループYouTube"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "营销创新": 16,
-    "新产品": 51,
+    "营销创新": 14,
+    "行业政策": 17,
+    "新产品": 49,
     "联名营销": 17,
-    "其他": 87,
+    "其他": 86,
     "渠道新物种": 6,
     "新技术": 4,
     "新包装": 2,
     "品牌故事": 13,
-    "行业政策": 18,
-    "并购融资": 9,
+    "并购融资": 8,
     "新原料": 4
   },
-  "last_updated": "2026-08-28 20:21",
-  "last_updated_iso": "2026-08-28T20:21:32.082563+08:00",
+  "last_updated": "2026-08-29 15:31",
+  "last_updated_iso": "2026-08-29T15:31:27.347743+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -55,6 +55,28 @@
       ],
       "primary_category": "营销创新",
       "scraped_at": "2026-08-28T20:21:17+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Not Enough Honey? Wheat Germ Brand Faces Lawsuit",
+      "url": "https://www.packagingdigest.com/labeling/lawsuit-claims-honey-crunch-label-misleads-consumers-with-minimal-honey-content",
+      "summary": "An angry shopper sours on Kretschmer's Honey Crunch Wheat Germ for having less honey than three other sweeteners — and sues parent Continental Mills.",
+      "published_at": "2026-08-28T15:51:57Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-08-29T15:31:25+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -3876,138 +3898,6 @@
       "scraped_at": "2026-07-30T11:49:52+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "カンヌライオンズ2026「3つの傾向」 世界は「回復力」を求めている",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00007/?n_cid=nbpnxr_rss",
-      "summary": "世界から広告クリエイティブの最先端が集まる「カンヌライオンズ」。20年近くにわたってカンヌライオンズをウオッチしてきた河尻亨一氏が、2026年に各部門のグランプリを獲得した事例から、ビジネス界の「半歩先」を読み解く。",
-      "published_at": "2026-07-29T00:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-07-29T11:58:22+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "酷暑マーケ100事例を一挙解説 ペットの熱対策、見守り、アイデア続々",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01418/00003/?n_cid=nbpnxr_rss",
-      "summary": "猛暑対策は、飲料や冷感グッズの販促にとどまらず、企業の安全管理、観光、睡眠、ペット、地域活性化まで広がる成長市場になっている。現場従業員向けの熱中症対策義務化を追い風に、BtoB需要も急拡大中だ。異常気象を商機に変える企業の最新事例・アイデア100件から、酷暑時代の新たなマーケティングを読み解く。",
-      "published_at": "2026-07-29T00:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-07-29T11:58:22+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "マリオットとJAL提携の狙い アコーの有料サブスク会員の支払額は10倍",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01911/?n_cid=nbpnxr_rss",
-      "summary": "外資系ホテルチェーンが上級会員の獲得に力を入れている。米マリオット・インターナショナルはJALと提携し、JALのマイレージ会員を優遇。より早く上級会員に昇格できるようにする。仏アコーは上級会員資格を得られる有料サブスクリプションサービスを日本で本格展開する。先行してサービスを展開している海外市場では、非会員と比べて滞在頻度が5倍、1回当たりの支払額が2倍に達しており、10倍の収入を期待できるという。",
-      "published_at": "2026-07-29T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-29T11:58:22+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "サンスター歯ブラシ、2倍高納得の100万本 日本人の“悪癖”を自動補正",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00345/?n_cid=nbpnxr_rss",
-      "summary": "コモディティー化が進む日用品の分野で、ヒット商品が生まれた。サンスターが手掛けた新しい歯ブラシが発売から2週間で100万本を出荷。着色汚れ落としや歯垢除去をうたう既存商品と一線を画する価値が、今どきの消費者に響いた。約2倍になった価格を消費者に納得させた商品力を解剖する。",
-      "published_at": "2026-07-29T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-29T11:58:22+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ジョンとポールの「生産的摩擦」から学ぶ AIと創造性を拡張する方法",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00011/?n_cid=nbpnxr_rss",
-      "summary": "AIを活用して創造性をどう拡張するか。カンヌライオンズが数年がかりでたどり着いた結論の1つが「生産的摩擦」だ。効率化を推し進めるはずのAIの議論が、なぜ「非効率の価値」に行き着いたのか。Microsoft AIのグローバルクリエイティブトップが登壇した、ビートルズのジョン・レノンとポール・マッカートニーの「生産的摩擦」をテーマにしたセッションを中心に、AI時代の「価値創造の構造化」を専門とするideable代表取締役の中島琢郎氏が考察する。",
-      "published_at": "2026-07-29T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-29T11:58:22+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "子どもの人気急上昇 『Roblox』が急ぐ権利保護と安全性の向上策",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00093/?n_cid=nbpnxr_rss",
-      "summary": "小学生に人気のゲームとして急成長しているのが『Roblox』だ。2020年前後から米国の子供たちを中心に人気を高め、最新のDAUは1億3200万に達した。そのRobloxがメディア向けにラウンドテーブルを開催。さらなるユーザー拡大のため、Robloxが取り組む安全性向上、著作権保護の仕組みなどを説明した。",
-      "published_at": "2026-07-29T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-29T11:58:22+08:00"
-    },
-    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -4028,106 +3918,6 @@
       ],
       "primary_category": "并购融资",
       "scraped_at": "2026-07-30T11:50:10+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "What the Celiac Safety Act Could Mean for US Gluten Labeling",
-      "url": "https://www.packagingdigest.com/food-safety/what-the-celiac-safety-act-could-mean-for-us-gluten-labeling",
-      "summary": "New labeling for wheat, barley, rye could align US and global standards as FDA reviews gluten disclosure rules and Congress proposes the Celiac Safety Act.",
-      "published_at": "2026-07-28T01:13:23Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 3
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-07-29T11:58:34+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Nestlé to sell half of waters business in $3.4B deal",
-      "url": "https://www.fooddive.com/news/nestle-sells-half-water-premium-beverage-business-Peranel/826150/",
-      "summary": "The transaction creates a newly independent company called Peranel, which will house brands such as S.Pellegrino and Source Perrier.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-07-29T11:58:32+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Leftovers: Philadelphia rings in lactose-free cream cheese | Cheez-It launches first beer collab with Coors Light",
-      "url": "https://www.fooddive.com/news/philadelphia-lactose-free-cream-cheese-cheez-it-coors-light-beer-cheese-pringles-buffalo-wild-wings/826141/",
-      "summary": "The Kraft Heinz brand is positioning the innovation as a cheaper alternative to other options on the market, while Pringles collaborates with Buffalo Wild Wings on sauce-inspired chips.",
-      "published_at": "",
-      "is_s_plus": true,
-      "s_plus_reason": "collab",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        },
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-29T11:58:32+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "McCormick outlines operating structure ahead of Unilever combination",
-      "url": "https://www.fooddive.com/news/mccormick-unilever-merger-operating-structure-executive-team/826051/",
-      "summary": "The spice giant disclosed its new executive team after its $44 billion acquisition made some investors \"squeamish,\" according to one analyst.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "并购融资",
-      "scraped_at": "2026-07-29T11:58:32+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -5462,6 +5252,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-28T20:21:28+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Sapporo USA to close craft brewing facilities following sale",
+      "url": "https://www.fooddive.com/news/stone-brewery-california-closure-sapporo-sale/828924/",
+      "summary": "The beer maker, which will also lay off 220 workers, sold Stone Brewing earlier this year and is transitioning its brewing operations away from California.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-29T15:31:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "US alcohol consumption remains at all time low",
+      "url": "https://www.fooddive.com/news/gallup-poll-us-alcohol-drinking-rate-remains-all-time-low/828821/",
+      "summary": "A new report from Gallup showed drinking rates are stabilizing after a multiyear decline, but still remain at the lowest level since 1939.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-08-29T15:31:23+08:00"
     }
   ]
 }
