@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-29T18:58:20.620311+08:00",
+  "last_updated": "2026-08-29T22:04:35.445720+08:00",
   "retention_days": 7,
-  "total": 483,
+  "total": 487,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,90 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "97d4f5ae4cce2115",
+      "title": "「明治ミルクチョコレートのテーマ」を歌い継ぐ企画　中森明菜さんから始まり大トリを飾るのは小林幸子さん　動画を公開",
+      "summary": "明治は、「明治ミルクチョコレート」の発売99周年を記念した企画「Melody of meiji」を実施して話題化を図っている。 話題化で生活者とブランドの接触機会を増やし100周年施策につなげていくのが目的。「明治ミ […] ソース",
+      "url": "https://shokuhin.net/156000/2026/08/29/kakou/kashi/",
+      "published_at": "2026-08-29T22:03:29+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ca25210bb811d4d7",
+      "title": "キーコーヒー、生活者の心に残るコーヒーを志向　3つのカテゴリに勝算　山田涼介さん出演のTVCMなどで共感促す",
+      "summary": "キーコーヒーは家庭用コーヒー市場に向けて生活者の心に残るコーヒーを志向する。 8月24日、新商品発表会に臨んだ阿部祐美子マーケティング本部R&Dグループリーダーは「コーヒーは嗜好品でありながら生活必需品のよう […] ソース",
+      "url": "https://shokuhin.net/155995/2026/08/29/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-08-29T21:59:37+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "88a1e4c2136ddf82",
+      "title": "味の素AGF、企業活動の源泉を社員一人一人の熱量と定義　社会価値と経済価値の共創を自分事化して取り組む方針固める",
+      "summary": "味の素AGFは、企業活動の源泉を社員一人一人の熱量と定め、社会価値と経済価値の共創を社員一人一人が自分事化して取り組む方針を固めた。 「ブレンディ」スティックをはじめとするメッセージ付きの個包装などに寄せられる生活者 […] ソース",
+      "url": "https://shokuhin.net/155990/2026/08/29/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-08-29T21:50:10+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a76cb5957c1415b2",
+      "title": "カバヤ食品、ミニカーで顧客基盤を構築　菓子＋ブランドの会社へ一歩前進　「マジョレット」ファンミーティング初開催",
+      "summary": "カバヤ食品は、世界的ミニカーブランド「マジョレット」で顧客基盤を構築して菓子の販売に留まらないブランドを売る会社へと一歩前進する。 8月22日、東京本社（東京都港区）で開催された初の「マジョレット」ファンミーティング […] ソース",
+      "url": "https://shokuhin.net/155978/2026/08/29/kakou/kashi/",
+      "published_at": "2026-08-29T21:37:44+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "99560a9e7d0cce71",
+      "title": "「ネスカフェ」最新鋭のコーヒーメーカーと新アプリで勢い加速　シリーズ史上最高レベルの静音設計などでコーヒー体験を快適化　ネスレ日本",
+      "summary": "ネスレ日本は、「ネスカフェ」専用のコーヒーメーカー「ネスカフェ ゴールドブレンド バリスタ」（バリスタ）シリーズの最新鋭機種と新アプリを展開して好調に推移する「ネスカフェ ゴールドブレンド」（ゴールドブレンド）の勢いを […] ソース",
+      "url": "https://shokuhin.net/155969/2026/08/29/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-08-29T21:14:18+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8b173864dad5a6fe",
+      "title": "普段の買い物が防災備蓄の第一歩　行動変容を促す3つの「ちょっと」から成るアクションなど提案　サントリーが「ちょ備蓄」推進",
+      "summary": "サントリービバレッジ＆フードは、2025年に開始した「サントリー天然水」の防災備蓄啓発活動「ちょ備蓄」プロジェクトを引き続き推進して社会的・経済的価値の両立を図る。 普段の買い物で1つだけ多めに買うといった行為が防災 […] ソース",
+      "url": "https://shokuhin.net/155961/2026/08/29/inryou/inryou-inryou/",
+      "published_at": "2026-08-29T21:03:14+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6047ccdbbbb75c2c",
+      "title": "ロッテ、視覚に頼らず触るだけで商品情報にアクセスできる「ココヨム」開発　アイデア無償開放して共創の輪を広げ社会実装目指す",
+      "summary": "ロッテは、視覚に頼らず触るだけで商品情報にアクセスできる仕組み「ココヨム」開発し、これを業界・業種の垣根を超えて他企業や団体に無償開放し共創の輪を広げることで社会実装を目指していく。 パッケージ開発によって、人々から […] ソース",
+      "url": "https://shokuhin.net/155954/2026/08/29/kakou/kashi/",
+      "published_at": "2026-08-29T20:52:16+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "f9d4db7b2961325c",
       "title": "今週新発売のおつまみまとめ！『たんぱく質が摂れるスタミナ旨辛納豆』、『国産鶏の鶏皮チップス』など♪",
@@ -5777,42 +5861,6 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
-    },
-    {
-      "id": "86c28c4fabad20d5",
-      "title": "キーコーヒー、 広告宣伝を強化　CMに山田涼介さん起用　最短10秒でレギュラーコーヒーの抽出を可能とする「JET BREW」描く",
-      "summary": "キーコーヒーは広告宣伝を強化する。 広告宣伝をきっかけに、スペシャルティコーヒーなどの高品質コーヒーから最短10秒でレギュラーコーヒーの抽出を可能とする簡易抽出型コーヒーまでの幅広い商品群を取り揃えていることや、多彩 […] ソース",
-      "url": "https://shokuhin.net/155580/2026/08/22/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
-      "published_at": "2026-08-22T20:25:26+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "48981792955b738a",
-      "title": "カバヤ食品、玩具展開を加速　「セボンスター」や「ほねほねザウルス」の玩具菓子に加えて玩具事業を本格展開",
-      "summary": "カバヤ食品は「セボンスター」や「ほねほねザウルス」の玩具菓子に加えて菓子が付属しない玩具事業にも本腰を入れ玩具展開を加速させている。 キダルト（子どもの心を持った大人）向け市場の拡大や平成女児ブーム（平成時代に小学生 […] ソース",
-      "url": "https://shokuhin.net/155577/2026/08/22/kakou/kashi/",
-      "published_at": "2026-08-22T20:05:54+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "01949d9a8a032c83",
-      "title": "Publisher’s Platform: Twenty-One Outbreaks Is a Normal Year. Ten Thousand Nine Hundred Thirty Sick From One of Them Is Not.",
-      "summary": "What none of this is, at any point, is a consumer behavior problem. The field for next summer gets planted in a few months. Nobody chooses what is living in the water when it does, and washing will…",
-      "url": "https://www.foodsafetynews.com/2026/08/publishers-platform-twenty-one-outbreaks-is-a-normal-year-ten-thousand-nine-hundred-thirty-sick-from-one-of-them-is-not/",
-      "published_at": "2026-08-22T19:46:57+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
     }
   ]
 }
