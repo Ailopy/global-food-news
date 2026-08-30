@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-30T17:52:29.444421+08:00",
-  "total": 8697,
+  "last_updated": "2026-08-30T22:04:30.664209+08:00",
+  "total": 8699,
   "articles": [
+    {
+      "id": "2260e0d2ff8f4e7f",
+      "title": "Sunday Edition: Taylor Farms",
+      "summary": "Just how big has Taylor Farms become? Every week, it is responsible for 265 million servings of fresh produce throughout North America.",
+      "url": "https://www.foodsafetynews.com/2026/08/sunday-edition-taylor-farms/",
+      "published_at": "2026-08-30T20:00:26+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "25be513c32ec1754",
+      "title": "多種多彩！セブン-イレブンの麺のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「セブン-イレブンの麺」の最新・注目度ランキングです♪（2026年8月28日更新）食品クチコミサイト「もぐナビ」に投稿さ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-26149/?utm_source=rss&utm_medium=mognavinews_20260830",
+      "published_at": "2026-08-30T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "b47d84a00287d841",
       "title": "今週新発売のたまご味まとめ！『ゴロっと食感のたまごロール』、『フライドチキンとたまごのサンド』など♪",
