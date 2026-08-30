@@ -1,32 +1,32 @@
 {
-  "total": 220,
-  "s_plus_count": 36,
+  "total": 206,
+  "s_plus_count": 31,
   "sites": [
-    "日経新聞",
-    "日経xTrend",
     "Packaging Digest",
+    "日経新聞",
     "Food Dive",
-    "朝日グループYouTube"
+    "朝日グループYouTube",
+    "日経xTrend"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "营销创新": 14,
-    "行业政策": 17,
-    "新产品": 49,
+    "营销创新": 13,
+    "行业政策": 16,
+    "新产品": 46,
     "联名营销": 17,
-    "其他": 86,
+    "其他": 79,
     "渠道新物种": 6,
     "新技术": 4,
-    "新包装": 2,
+    "新包装": 1,
     "品牌故事": 13,
-    "并购融资": 8,
+    "并购融资": 7,
     "新原料": 4
   },
-  "last_updated": "2026-08-29 15:31",
-  "last_updated_iso": "2026-08-29T15:31:27.347743+08:00",
+  "last_updated": "2026-08-30 14:01",
+  "last_updated_iso": "2026-08-30T14:01:08.746772+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -3624,344 +3624,6 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-07-31T12:16:40+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "そうめんのピークは8月じゃない 日経POS情報で分かる夏商品の新常識",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01429/00003/?n_cid=nbpnxr_rss",
-      "summary": "夏の暑さが年々厳しさを増している。2024年と25年は最高35度を超える猛暑が相次いだ。26年は6月こそ20度台中心の気温で推移したが、これからが夏の本番だ。熱帯化する日本で何が真の夏型商品といえるのか。日経POS情報の食品・飲料・日用品データを使い、気温の動きと合わせて検証する。",
-      "published_at": "2026-07-30T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-30T11:49:55+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "野菜がもらえる「カウシェ」が需要創出型広告 刈り取り型の限界に勝機",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01922/?n_cid=nbpnxr_rss",
-      "summary": "2026年7月に累計700万ダウンロードを突破したECアプリ「カウシェ」。同アプリの利用者は買い物の用事がないのに、毎日使う。しかも、毎日アプリに訪れるユーザーの1日当たりの平均滞在時間は50分以上。カウシェが生み出しているのは、検索して買う従来型ECとは異なる、習慣化された買い物体験だ。その理由はアプリ内で作物を育て、収穫すると野菜などがもらえるゲーミフィケーション「カウシェファーム」。水や肥料を集める行動が商品閲覧や広告接触、友人とのやり取りにつながり、それを購買につなげている。",
-      "published_at": "2026-07-30T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-07-30T11:49:55+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "【26年6月記事ベスト30】カルビーの白黒包装で購入意向が激減、顧客幸福度ランキング最新版",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00519/00065/?n_cid=nbpnxr_rss",
-      "summary": "2026年6月の日経クロストレンドで最も読まれた記事は、日経デザイン発の「カルビー白黒包装で購入意向が激減 3000人調査で判明、湖池屋を下回る」でした。大きな話題を呼んだカルビーのパッケージの白黒化が、消費者の購入意向に与える影響をデザイン会社のプラグが調査。その結果を、独自のニュースとして取り上げました。定番企画「顧客幸福度」ランキングの最新版、名物アワード「BtoBマーケティング大賞」の関連記事も複数ランクインしました。",
-      "published_at": "2026-07-30T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "話題",
-      "categories": [
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        },
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "新包装",
-      "scraped_at": "2026-07-30T11:49:55+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "アンソロピックは令和のアップル？ カンヌ事例に学ぶ「心が動く構造」",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01411/00012/?n_cid=nbpnxr_rss",
-      "summary": "「カンヌライオンズ」で、事業の観点から評価される事例が増えている。2026年の注目3事例を「WHY・WHAT・HOW」に分解し、過去の事例と比較しながら、自社に持ち帰れる「構造」を取り出す。",
-      "published_at": "2026-07-30T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-30T11:49:55+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "若者向けスーツケース「EDGELINK」大ヒット “界隈”取り込むマーケの妙",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02929/?n_cid=nbpnxr_rss",
-      "summary": "国内で製造する最高峰ブランド「プロテカ」をはじめ、約20ブランド270シリーズのスーツケースを展開するエース。その中で販売数が最も多いスーツケースが「EDGELINK」というブランドの「クルーズボックス」だ。25年6月に発売されると、半年の間に、25年の販売数1位を記録。現在の販売本数も前年比で月平均8％増で推移しており、26年上半期においても販売数1位となった。エッジリンクは同社が24年に立ち上げた若年層向けバッグブランド。なぜ登場して間もないブランドのスーツケースが、老舗かばんメーカーの主力商品群を押しのける存在になったのか。その背景には、Z世代を狙った商品設計だけでなく、ストリートカルチャーの“界隈”に入り込む地道なマーケティングがあった。",
-      "published_at": "2026-07-30T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "大ヒット",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-30T11:49:55+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "サントリー「NOPE」 UGC20倍超を生んだマーケ部の知恵",
-      "url": "https://xtrend.nikkei.com/atcl/seminar/19/00088/00001/?n_cid=nbpnxr_rss",
-      "summary": "サントリーが2026年3月に発売した新ブランド「ギルティ炭酸NOPE」が、異例の立ち上がりを見せています。発売後1週間で出荷本数は2000万本を突破。商品そのものに対するSNSの言及数は、同社の従来ブランド比で20倍超にものぼります。話題化成功の背景を探ります。",
-      "published_at": "2026-07-30T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "話題",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-30T11:49:55+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ロッテが高級歯磨き粉参入のなぜ 大手が避ける領域を狙う社長直轄部隊",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01923/?n_cid=nbpnxr_rss",
-      "summary": "吸血鬼のイラストが描かれた真っ赤なパッケージ。銀色のチューブを絞ると、まるで血のように赤いペーストが出てくる――。ロッテが2026年7月に発売した歯磨き粉「Dr.Playful」だ。想定小売価格は1650円と、主戦場の4倍以上の価格で歯磨き粉市場に挑む。",
-      "published_at": "2026-07-30T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-07-30T11:49:55+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "真実は“盛らない”ほうが強い カンヌが示した「ありのままの力」",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01225/00010/?n_cid=nbpnxr_rss",
-      "summary": "前編では、「価値ある事実」が人々の心を動かすアイデアへと変わる瞬間を、カンヌライオンズ2026受賞作から探った。後編で取り上げるのは、その事実をあえて隠さず、ありのままにさらけ出すことで信頼や共感を獲得した事例。真偽の曖昧な情報があふれる時代、人々が求めているのは磨き上げられた演出ではなく、むしろ不完全で生々しい現実なのかもしれない。世界最高峰のクリエイティブから「ありのまま」が持つ力を読み解く。",
-      "published_at": "2026-07-30T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "演出",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-30T11:49:55+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "カウシェ、ECを“毎日開く場”に変える 野菜育成で滞在50分超",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Xcm8yekx5ajNqZWNJTWl4c21TWVZBTmprRHVXRWZKRHB3MW9tY0UzdEpPYTlFQW9ucE5vaVRjWExwREZ6ZVBVY0tMT2JvSmc0Z3lQOGJzSDlVallpbWM1dVVxREhHQzdSRjQ1NGdlSQ?oc=5",
-      "summary": "カウシェ、ECを“毎日開く場”に変える 野菜育成で滞在50分超&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-07-29T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-30T11:49:52+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "ロッテが高級歯磨き粉参入のなぜ 大手が避ける領域を狙う社長直轄部隊",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUMkpUNHJaUmxZUDlWYUQ0OW5uQW10cmp2bUZUSk0yN1ZqdGplNm5IdkJtVUdWRmtENFBDZUJWSFgzS0lZajZfOXVXb2lNTVRaQ3RXbm9HaE5HNHY3S0ZDbkJZb1J6NFZIdVdfMzJJTQ?oc=5",
-      "summary": "ロッテが高級歯磨き粉参入のなぜ 大手が避ける領域を狙う社長直轄部隊&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-07-29T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-30T11:49:52+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "【26年6月記事ベスト30】カルビーの白黒包装で購入意向が激減、顧客幸福度ランキング最新版",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8teF9FaFZJVnNBT09aY3ZjVURuWFhiTk1QSkFfYlljNXlZQ2JaZWtqUU1Gc3dObF9jM0t3cTVnaERHZ1FqSlpncG1JX0k0LVNaVmpDODNJWVpLajBqNVVSZ2NOcFpkUQ?oc=5",
-      "summary": "【26年6月記事ベスト30】カルビーの白黒包装で購入意向が激減、顧客幸福度ランキング最新版&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-07-29T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-30T11:49:52+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Coca-Cola Accelerates Reusable Bottle Plans",
-      "url": "https://www.packagingdigest.com/beverage-packaging/coca-cola-accelerates-reusable-bottle-plans",
-      "summary": "New investments by bottling partners are expanding Coca-Cola’s global refillable glass and PET bottle packaging programs.",
-      "published_at": "2026-07-28T13:18:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "并购融资",
-      "scraped_at": "2026-07-30T11:50:10+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Campbell’s Chunky Soup expands into frozen meals",
-      "url": "https://www.fooddive.com/news/campbells-chunky-soup-expands-into-frozen-meals/825880/",
-      "summary": "The offerings, which contain up to 28 grams of protein and feature some of the soup’s most popular flavors, bring the brand into a new part of the store.",
-      "published_at": "",
-      "is_s_plus": true,
-      "s_plus_reason": "most popular",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-07-30T11:50:08+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Grocery volumes contract for fifth consecutive month, report finds",
-      "url": "https://www.fooddive.com/news/grocery-unit-sales-decline-bain-nielseniq/825711/",
-      "summary": "Shopper pullback has outpaced pricing growth and inflation, according to an analysis from Bain & Company and NielsenIQ.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-07-30T11:50:08+08:00"
     },
     {
       "site_name": "Food Dive",
