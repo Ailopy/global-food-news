@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-30T20:28:55",
+  "last_updated": "2026-08-31T14:21:26",
   "retention_days": 7,
-  "total": 511,
+  "total": 518,
   "s_count": 34,
   "a_count": 4,
-  "b_count": 473,
+  "b_count": 480,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,13 +36,90 @@
   ],
   "articles": [
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "健康経営サービス「WellWa（ウェルワ）」に新機能「ポイ福」を追加！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0831_01.html",
+      "published_at": "2026-08-31T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-08-27T00:00:00",
+      "published_at": "2026-08-31T00:00:00",
       "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.31日清シスコ「シスコーン サクサククリスピー チョコ」(9月21日発売)",
+      "url": "https://www.nissin.com/jp/news/13903/",
+      "published_at": "2026-08-31T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.31日清シスコ「おかしのシスコーン」 2品 (9月21日より順次発売)",
+      "url": "https://www.nissin.com/jp/news/13906/",
+      "published_at": "2026-08-31T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.31日清シスコ「シスコーン 今どきグッズをたのしもう！キャンペーン」(9月28日からスタート)",
+      "url": "https://www.nissin.com/jp/news/13907/",
+      "published_at": "2026-08-31T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.08.31湖池屋「湖池屋ストロング 梅ざんまい」(8月31日より順次発売)",
+      "url": "https://www.nissin.com/jp/news/13905/",
+      "published_at": "2026-08-31T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "\"숨겨진 로컬 농산물에 트렌드를 입히다\" 미스터아빠가 프론티어랩스에서 그리는 K-푸드 유통의 미래PeopleESG2026.08.31",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/113",
+      "published_at": "2026-08-31T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 ‘비비고’, 美 LAFC·샌프란시스코 자이언츠 무대서 K-푸드 대표주자로 ‘GIM(김)’ 알린...2026.08.31",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1810",
+      "published_at": "2026-08-31T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
