@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-01T13:49:22",
+  "last_updated": "2026-09-01T20:16:13",
   "retention_days": 7,
-  "total": 520,
+  "total": 523,
   "s_count": 34,
   "a_count": 4,
-  "b_count": 482,
+  "b_count": 485,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,17 @@
   ],
   "articles": [
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "協和キリン、米国政府との合意を発表 ― 米国における治療費負担の軽減を推進 ―",
+      "url": "https://ir.kyowakirin.com/ja/news/news8186720610551716667/main/0/link/20260901_01.pdf",
+      "published_at": "2026-09-01T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
@@ -63,6 +74,28 @@
       "region": "韩国",
       "title": "CJ제일제당, 올 추석 ‘취향 맞춤형 선물‘ 강화… 참치·신선식품·프리미엄·IP협업으로 달라진 명절 선물 ...2026.09.01",
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1811",
+      "published_at": "2026-09-01T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.01湖池屋「わんムーチョ」3種 (9月1日湖池屋オンラインショップにて発売)",
+      "url": "https://www.nissin.com/jp/news/13902/",
+      "published_at": "2026-09-01T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "家庭用製品出荷価格改定のお知らせ",
+      "url": "https://news.ajinomoto.co.jp/2026/09/20260901-02.html",
       "published_at": "2026-09-01T00:00:00",
       "summary": "",
       "level": "B",
