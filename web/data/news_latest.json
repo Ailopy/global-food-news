@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-01T17:19:25.674313+08:00",
+  "last_updated": "2026-09-01T21:47:38.238040+08:00",
   "retention_days": 7,
-  "total": 472,
+  "total": 477,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,138 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "4f7e8db8d5027d93",
+      "title": "Private Label Moves Upmarket as National Brands Feel the Squeeze",
+      "summary": "Everything costs more these days, but food and beverages are one of the few things humans can’t live without. Those conditions have been a boon for private label business.",
+      "url": "https://www.bevnet.com/news/2026/private-label-moves-upmarket-as-national-brands-feel-the-squeeze",
+      "published_at": "2026-09-01T21:00:51+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "02a9d12a5ac5d4dc",
+      "title": "Private Label Moves Upmarket as National Brands Feel the Squeeze",
+      "summary": "Everything costs more these days, but food and beverages are one of the few things humans can’t live without. Those conditions have been a boon for private label business.",
+      "url": "https://www.nosh.com/news/2026/private-label-moves-upmarket-as-national-brands-feel-the-squeeze",
+      "published_at": "2026-09-01T21:00:21+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "e7ad0232adaeb7f3",
+      "title": "RTD Cocktails: New Releases From Salt Point, Deep Eddy, Freixenet and More",
+      "summary": "August’s ready-to-drink (RTD) releases include a Bay Area canned cocktail brand suiting up with the 49ers and a top sparkling wine brand making its RTD debut, plus several fall-themed cocktails and…",
+      "url": "https://www.bevnet.com/spirits/2026/rtd-cocktails-new-releases-from-salt-point-deep-eddy-freixenet-and-more",
+      "published_at": "2026-09-01T21:00:03+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5c20d60279c014aa",
+      "title": "Review: GT’s Latest Release is (Literally) Aura In A Bottle",
+      "summary": "With light-bodied fruit flavors, a touch of acidity, and impressively clean-tasting non nutritive sweeteners, Aura offers a distinctive and highly enjoyable take on a collagen beverage.",
+      "url": "https://www.bevnet.com/news/2026/review-gts-latest-release-is-literally-aura-in-a-bottle",
+      "published_at": "2026-09-01T20:30:50+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "dc9c327f3aefa325",
+      "title": "Probi review confirms LP299V boosts non-haeme iron absorption by up to 50% across dietary contexts",
+      "summary": "Published in Frontiers in Nutrition, the analysis positions LP299V as a strain-specific iron bioavailability enhancer — with particular relevance for women of reproductive age, pregnant women and…",
+      "url": "https://nutraceuticalbusinessreview.com/probi-review-confirms-lp299v-boosts-non-haeme-iron",
+      "published_at": "2026-09-01T19:31:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "fba5c9e3fe4009c8",
+      "title": "From healthy ageing to pet wellness: PhytoGaia unveils new clinical insights and product innovations at Vitafoods Asia 2026",
+      "summary": "New clinical findings and product concepts highlight opportunities in healthy ageing, liver health, beauty wellness and pet nutrition",
+      "url": "https://nutraceuticalbusinessreview.com/from-healthy-ageing-to-pet-wellness-phytogaia-unveils",
+      "published_at": "2026-09-01T19:10:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "16607950341b33f6",
+      "title": "FLYERS TURNS 80",
+      "summary": "THE LIQUORICE BRAND THAT’S STILL HAPPY TO DIVIDE OPINION From trusted sweetshop stalwart through to the very latest sour apple & raspberry innovation in 2025, iconic liquorice ambassador Flyers…",
+      "url": "https://fabnews.live/flyers-turns-80/",
+      "published_at": "2026-09-01T18:19:38+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d729f2c5df7b33c5",
+      "title": "コンビニのパンのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニのパン」の最新・注目度ランキングです♪（2026年8月28日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26215/?utm_source=rss&utm_medium=mognavinews_20260901",
+      "published_at": "2026-09-01T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d2fe11eb0a54b0c4",
+      "title": "Beyond fiber enrichment: four opportunities shaping prebiotic innovation",
+      "summary": "Discover how prebiotic fibers can support microbiome diversity, digestive tolerance and product innovation and explore the science and formulation opportunities behind acacia fiber",
+      "url": "https://nutraceuticalbusinessreview.com/beyond-fiber-enrichment-four-opportunities-shaping-prebiotic-innovation",
+      "published_at": "2026-09-01T17:45:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "276f8c6225c43b2a",
+      "title": "今週新発売の菓子パン🍫まとめ！『チロルチョコケーキ　ミルク』、『さつまいもどーなつ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンPasco チロルチョコケーキ ミルク 袋1個まるでチロルチョコ ミル…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090108/?utm_source=rss&utm_medium=mognavinews_20260901",
+      "published_at": "2026-09-01T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5b3632a41ec32d98",
+      "title": "ファミリーマート、創業45周年で18ブランドとコラボ / 焼肉のたれ味ファミチキ、パンチョ監修チーズナポリタン、ゴディバ、ペヤングなど18商品",
+      "summary": "ファミリーマートは9月1日に創業45周年を迎えた。それを記念し、18ブランドとコラボした18商品を、同日から順次発売している。 同社のコラボレーションとしては過去最多で、日清食品の焼きそば「U.F.O.」のソースに入って...",
+      "url": "https://www.ssnp.co.jp/distribution/700141/",
+      "published_at": "2026-09-01T17:21:02+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
     {
       "id": "ebf06630bed219b4",
       "title": "チョコミントスイーツ全7品を販売、爽快ミントとほろ苦珈琲ゼリーの組み合わせ【ジョナサン】",
@@ -5608,78 +5740,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "bacab050689daa49",
-      "title": "Cyclospora outbreak is crimping produce sales, data shows",
-      "summary": "More than 6.5 million households stopped buying salad mixes and kits during the month that ended July 26, according to Numerator.",
-      "url": "https://www.fooddive.com/news/cyclospora-outbreak-produce-sales-numerator/828629/",
-      "published_at": "2026-08-25T21:37:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "eb624c08b772eb93",
-      "title": "Mondelēz brings UK protein bar Grenade to the US",
-      "summary": "The snacking giant behind Clif and Perfect Bar is doubling down on its domestic bar portfolio to leverage growing consumer demand for protein.",
-      "url": "https://www.fooddive.com/news/Mondelez-snacking-protein-bars-grenade-aquisition/828654/",
-      "published_at": "2026-08-25T21:00:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "10bc3f8e011a9f55",
-      "title": "Review: Japanese Import Nomina Brings All the Bubbles",
-      "summary": "Pairing extra carbonation with a mineral-forward spring water profile, Nomina delivers a crisp, clean finish that's ultimately more compelling than the concept initially sounds.",
-      "url": "https://www.bevnet.com/news/2026/review-japanese-import-nomina-brings-all-the-bubbles",
-      "published_at": "2026-08-25T20:30:10+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "7c595f5d9f4951cf",
-      "title": "You’re Paying More Than You Negotiated",
-      "summary": "iTradeNetwork’s Jeff Ramsaur shares best practices for foodservice pricing compliance in multi-distributor foodservice environments. The post You’re Paying More Than You Negotiated appeared first on…",
-      "url": "https://foodinstitute.com/podcast/youre-paying-more-than-you-negotiated/?utm_source=rss&utm_medium=rss&utm_campaign=youre-paying-more-than-you-negotiated",
-      "published_at": "2026-08-25T19:30:17+08:00",
-      "source": "The Food Institute",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "80589712a0892e1b",
-      "title": "8月のコンビニおにぎりトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニおにぎり」の最新・注目度ランキングです♪（2026年8月21日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-25753/?utm_source=rss&utm_medium=mognavinews_20260826",
-      "published_at": "2026-08-25T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "91beda412e012536",
-      "title": "今週新発売のダイエットまとめ！『もち麦入り　たんぱく質たっぷり参鶏湯風スープ』、『彩り野菜とそぼろの旨辛ビビンパ　もち麦入りご飯』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！ダイエットの新商品情報をお届けします。今週新発売の#ダイエットナチュラルローソン もち麦入り たんぱく質たっぷり参鶏湯風スープ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082508/?utm_source=rss&utm_medium=mognavinews_20260826",
-      "published_at": "2026-08-25T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
