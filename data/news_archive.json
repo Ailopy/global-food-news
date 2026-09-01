@@ -1,7 +1,211 @@
 {
-  "last_updated": "2026-09-01T00:30:56.509340+08:00",
-  "total": 8797,
+  "last_updated": "2026-09-01T11:23:11.600513+08:00",
+  "total": 8818,
   "articles": [
+    {
+      "id": "522ecc233aaff499",
+      "title": "【2026年8月第5週】スープ・カップ春雨・味噌汁・その他ランキング1位は明星サッポロらーめん信玄監修コクみそワンタンスープ！味噌系新商品が続々ランクインまとめ",
+      "summary": "8月最終週も、もぐナビのスープ・カップ春雨・味噌汁カテゴリにおいしい顔ぶれが揃いました。定番の人気商品から、じわじわと評価を集める実力派まで、今週も目が離せな…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26118/?utm_source=rss&utm_medium=mognavinews_20260901",
+      "published_at": "2026-09-01T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "06e7b71732852772",
+      "title": "今週新発売のコンビニホットスナックまとめ！『極旨　黒豚まん』、『極旨　黒豚まんカレー』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。今週新発売のコンビニホットスナックファミリーマート 極旨 黒豚まん国産黒豚を…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090103/?utm_source=rss&utm_medium=mognavinews_20260901",
+      "published_at": "2026-09-01T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5fb7f29f486b9aa8",
+      "title": "ヤマタネ、米麹由来の甘味料のオリゼをグループ化",
+      "summary": "ヤマタネは8月28日、ヤマタネ本社でオリゼ(東京都、小泉泰英代表取締役)の一部株式を55.0%取得しグループ化したことに関する記者会見を開いた。 ヤマタネの河原田岩夫社長はグループ化の狙いについて、「持続可能な営農の実現...",
+      "url": "https://www.ssnp.co.jp/rice/699969/",
+      "published_at": "2026-09-01T10:34:42+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "566b59cb05a1993c",
+      "title": "2種のさつまいもを味わう「焼きたてタルト さつまいもバターチーズ」発売【BAKE CHEESE TART】",
+      "summary": "チーズ菓子専門店「BAKE CHEESE TART」は、秋の季節限定商品「焼きたてタルト さつまいもバターチーズ」を、2026年9月15日から発売する。 【「焼きたてタルト さつまいもバターチーズ」の画像はこちら】 ◆焼...",
+      "url": "https://www.ssnp.co.jp/snack/699958/",
+      "published_at": "2026-09-01T10:27:21+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "03e4d68990473785",
+      "title": "Pet food recalled because of contamination with Listeria and Salmonella",
+      "summary": "Northwest Naturals of Portland, OR, is voluntarily recalling 53 cases of Northwest Naturals Frozen Chicken Recipe cat food and 19 cases of Northwest Naturals Frozen Raw Diet for Dogs Chicken Recipe…",
+      "url": "https://www.foodsafetynews.com/2026/09/pet-food-recalled-because-of-contamination-with-listeria-and-salmonella/",
+      "published_at": "2026-09-01T10:14:49+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "12697cde924ee13c",
+      "title": "【2026年8月第5週】インスタントラーメン・袋めんランキング1位はズバーン鶏中華そば！金ちゃんラーメン久々登場の注目まとめ",
+      "summary": "今週のインスタントラーメン・袋めんランキングが出そろいました。暑い日も続くなか、自宅でつくれる本格的な一杯を求めるユーザーの声がにぎやかに集まっています。それ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26117/?utm_source=rss&utm_medium=mognavinews_20260901",
+      "published_at": "2026-09-01T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d0b1144975f0fba8",
+      "title": "Catfish skin products recalled because of ineligible import status",
+      "summary": "Asian America Trading Inc. of Hayward, CA, is recalling 996 pounds of ready-to-eat fish skin products prepared from Pangasius fish because they were produced in The People’s Republic of China, a…",
+      "url": "https://www.foodsafetynews.com/2026/09/catfish-skin-products-recalled-because-of-ineligible-import-status/",
+      "published_at": "2026-09-01T09:52:52+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "11c8e2dff85fcee2",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『豚骨と鶏ガラの旨味　大盛！高菜炒飯』、『旨辛チリソースのふわとろ鶏チリごはん』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ファミリーマート 豚骨と鶏ガラの旨…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090102/?utm_source=rss&utm_medium=mognavinews_20260901",
+      "published_at": "2026-09-01T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5b647ce4c5929e3b",
+      "title": "【5日間限定】ペッパーランチ『特盛WEEK』開催　ビーフペッパーライス「肉大盛」が価格そのまま「肉特盛」に",
+      "summary": "ホットパレットが展開する「ペッパーランチ」「ペッパーランチPLUS」「武蔵ハンバーグ」「ロックスハンバーグ」全店で、9月14日から9月18日までの5日間限定で「特盛WEEK」を実施する。 期間中は、「ビーフペッパーライス...",
+      "url": "https://www.ssnp.co.jp/foodservice/699941/",
+      "published_at": "2026-09-01T09:20:17+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "c5784113bab64d12",
+      "title": "【2026年8月第5週】カップラーメンランキング1位はカップスター青辛いやつ！新商品・急上昇商品まとめ",
+      "summary": "暑さが続く8月の終わり、食欲をそそる一杯が恋しくなる季節にぴったりのランキングが出揃いました。今週のカップラーメン部門は、辛さや旨味、こだわりのスープなど個性…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26116/?utm_source=rss&utm_medium=mognavinews_20260901",
+      "published_at": "2026-09-01T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "603878d1969ebb09",
+      "title": "Chocolate eyeballs recalled because of undeclared milk",
+      "summary": "Crystal Temptations of North Arlington, NJ, is recalling Halloween Chocolatey Eyeballs because they contain undeclared milk allergens. People who have an allergy or severe sensitivity to milk run the…",
+      "url": "https://www.foodsafetynews.com/2026/09/chocolate-eyeballs-recalled-because-of-undeclared-milk/",
+      "published_at": "2026-09-01T08:02:53+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "67df56295f6c6584",
+      "title": "Olive oil recalled because it contains garlic not approved for cooking",
+      "summary": "LMSI LLC/Kofinas Olive Oil is issuing a recall of its Garlic Mediterranean infused extra virgin olive oil for using a garlic essential oil not approved for culinary use. The flavored oil was bottled…",
+      "url": "https://www.foodsafetynews.com/2026/08/olive-oil-recalled-because-it-contains-garlic-not-approved-for-cooking/",
+      "published_at": "2026-09-01T07:53:33+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "175a1505555a1450",
+      "title": "サントリービバレッジ＆フード、味の素と契約 「アミノバイタル」飲料が登場",
+      "summary": "サントリービバレッジ＆フードは、味の素社と「アミノバイタル」のペットボトル飲料の商標ライセンス契約を締結。9月8日から新商品「aminoVITAL X」を新発売する。内容量500ml、希望小売価格190円（税抜）。 […] ソース",
+      "url": "https://shokuhin.net/156129/2026/09/01/inryou/inryou-inryou/",
+      "published_at": "2026-09-01T07:10:41+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6f866c8afafb1663",
+      "title": "今週新発売の期間限定まとめ！『白いたべっ子どうぶつ　モンブラン風味』、『カントリーマアムまみれさん第２回仮装大賞』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定ギンビス 白いたべっ子どうぶつ モンブラン風味 袋40g袋を開けた瞬…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090101/?utm_source=rss&utm_medium=mognavinews_20260901",
+      "published_at": "2026-09-01T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d19239c720b06804",
+      "title": "Crooked Pop Taps Former Zevia Exec Lee Schill as CCO",
+      "summary": "Hard soda slinger Crooked Pop is adding a veteran beverage executive to its team as it moves from an initial regional launch toward broader distribution.",
+      "url": "https://www.bevnet.com/spirits/2026/crooked-pop-taps-former-zevia-exec-lee-schill-as-cco",
+      "published_at": "2026-09-01T04:38:40+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0fcf49e4ff7bcabc",
+      "title": "Marketing: Fly By Jing Collabs Teams with Tovala; Snickers Feeds AI a Candy Bar",
+      "summary": "Fly By Jing is bringing its signature chili crisp to Tovala’s chef-crafted meal lineup, allowing consumers to customize their spice level.",
+      "url": "https://www.nosh.com/news/2026/marketing-fly-by-jing-collabs-teams-with-tovala-snickers-feeds-ai-a-candy-bar",
+      "published_at": "2026-09-01T03:10:28+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "83f22aae0ea160f9",
+      "title": "How the manosphere is turning masculine anxiety into supplement sales",
+      "summary": "Brands navigate opportunity and risk as male wellness culture drives growth in creatine, ashwagandha and premium products.",
+      "url": "https://www.newhope.com/natural-product-trends/how-the-manosphere-is-turning-masculine-anxiety-into-supplement-sales",
+      "published_at": "2026-09-01T02:25:43+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "9a984c15e38f7c7e",
       "title": "5 must-know trends that caught our editor's eye at Newtopia Now",
@@ -87,6 +291,18 @@
       "language": "en"
     },
     {
+      "id": "697676dbbc0f449b",
+      "title": "Coffee’s Health Halo Gets a Boost",
+      "summary": "A new Finnish study links habitual coffee consumption with lower visceral fat, greater muscle mass, and favorable metabolic markers. The findings could influence F&B business strategies, but…",
+      "url": "https://foodinstitute.com/healthwellness/coffee-health-halo-gets-boost/?utm_source=rss&utm_medium=rss&utm_campaign=coffee-health-halo-gets-boost",
+      "published_at": "2026-08-31T21:08:45+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
       "id": "b72ed16e2fd787c0",
       "title": "Chomps Lands Starbucks as Retail Footprint Tops 65,000 Doors",
       "summary": "Chomps is taking its meat sticks into one of the country’s biggest coffee chains as it pushes beyond traditional grocery and mass retail and into more on-the-go eating occasions.",
@@ -105,6 +321,18 @@
       "url": "https://www.nosh.com/news/2026/review-honey-mamas-stumptown-make-magic-with-cold-brew-crunch",
       "published_at": "2026-08-31T20:30:46+08:00",
       "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "239c0aceeb03c1b8",
+      "title": "Pay Where the Decision Is Made",
+      "summary": "Reconciling foodservice trade means untangling a complex commercial system. Beneath it all sits an important and pressing question for manufacturers: when an operator buys your product, whose effort…",
+      "url": "https://foodinstitute.com/focus/pay-where-the-decision-is-made/?utm_source=rss&utm_medium=rss&utm_campaign=pay-where-the-decision-is-made",
+      "published_at": "2026-08-31T20:00:30+08:00",
+      "source": "The Food Institute",
       "region": "北美",
       "category": "综合",
       "level": "A",
@@ -156,6 +384,18 @@
       "region": "日本",
       "category": "综合",
       "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8be6a50fc845765f",
+      "title": "ミニストップ、「お月見フェア」を開催　玉子を使用した弁当やスイーツなど期間限定商品を展開",
+      "summary": "ミニストップは9月1日から9月14日まで、全国のミニストップ店舗で「お月見フェア」を開催する。玉子を使用したお月見メニューやスイーツなど、お月見気分を楽しめる期間限定商品を展開する。弁当からスイーツまで、秋ならではのおい...",
+      "url": "https://www.ssnp.co.jp/distribution/699923/",
+      "published_at": "2026-08-31T17:22:49+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
       "language": "ja"
     },
     {
@@ -255,18 +495,6 @@
       "language": "ja"
     },
     {
-      "id": "efcc9a3b9e63dcab",
-      "title": "PhytoGaia highlights healthy ageing and pet wellness innovations at Vitafoods Asia 2026",
-      "summary": "PhytoGaia will showcase new clinical research and product concepts spanning healthy ageing, liver health, beauty-from-within and pet wellness at Vitafoods Asia 2026 in Bangkok",
-      "url": "https://nutraceuticalbusinessreview.com/phytogaia-healthy-ageing-pet-wellness-innovations-vitafoods-asia",
-      "published_at": "2026-08-31T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "04b0eeff1baf53c9",
       "title": "今週新発売のホイップまとめ！『生　チョコパイ　とろける焼き芋』、『しふぉん　チョコ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ホイップの新商品情報をお届けします。今週新発売の#ホイップロッテ 生 チョコパイ とろける焼き芋 袋1個1.焼き芋ケーキとたっ…",
@@ -277,6 +505,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "efcc9a3b9e63dcab",
+      "title": "PhytoGaia highlights healthy ageing and pet wellness innovations at Vitafoods Asia 2026",
+      "summary": "PhytoGaia will showcase new clinical research and product concepts spanning healthy ageing, liver health, beauty-from-within and pet wellness at Vitafoods Asia 2026 in Bangkok",
+      "url": "https://nutraceuticalbusinessreview.com/phytogaia-healthy-ageing-pet-wellness-innovations-vitafoods-asia",
+      "published_at": "2026-08-31T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "9f3a304dc91777a5",
@@ -1943,6 +2183,18 @@
       "source": "BevNET",
       "region": "北美",
       "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c5ca2cf1a393b7c3",
+      "title": "Dee Charlemagne teaches brands how to get on Walmart shelves",
+      "summary": "Learn what Walmart's senior director of emerging brands merchandising says brands need to know to get into Walmart.",
+      "url": "https://www.newhope.com/newtopia-now/denetrias-charlemagne-teaches-brands-how-to-get-on-walmart-shelves",
+      "published_at": "2026-08-28T23:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
       "level": "A",
       "language": "en"
     },
