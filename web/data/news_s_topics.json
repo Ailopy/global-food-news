@@ -1,33 +1,287 @@
 {
-  "total": 209,
-  "s_plus_count": 31,
+  "total": 225,
+  "s_plus_count": 33,
   "sites": [
+    "日経xTrend",
+    "Packaging Digest",
     "Food Dive",
     "朝日グループYouTube",
-    "日経新聞",
-    "日経xTrend",
-    "Packaging Digest"
+    "日経新聞"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "新产品": 47,
-    "其他": 84,
+    "新产品": 52,
+    "其他": 91,
+    "营销创新": 16,
     "新包装": 2,
-    "营销创新": 15,
-    "行业政策": 14,
-    "联名营销": 16,
+    "行业政策": 15,
+    "联名营销": 18,
     "渠道新物种": 4,
     "新技术": 3,
     "品牌故事": 13,
     "并购融资": 7,
     "新原料": 4
   },
-  "last_updated": "2026-08-31 14:21",
-  "last_updated_iso": "2026-08-31T14:21:43.157460+08:00",
+  "last_updated": "2026-09-01 13:49",
+  "last_updated_iso": "2026-09-01T13:49:41.526769+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「日経トレンディ電子版」創刊 ヒットをつくり、イノベーションを生む",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01461/00001/?n_cid=nbpnxr_rss",
+      "summary": "日経トレンディ編集部は9月、新たなデジタルメディア「日経トレンディ電子版」を創刊します。これまで看板企画の「ヒット商品ベスト30」などを通じて、ヒット商品を見極める“目”や、消費者トレンドの分析力を培ってきました。電子版ではその知見を基に取材を強化し、新商品・サービスの企画・開発に役立つノウハウやデータ、スキル情報などをお届けしていきます。本記事では、電子版有料会員向けコンテンツの特徴をダイジェストでお伝えします。",
+      "published_at": "2026-09-01T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-01T13:49:25+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "敷島製パン「チロルチョコケーキ ミルク」発売 未来消費カレンダー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00245/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年9月日「敷島製パン、『チロルチョコケーキ ミルク』など2品発売」ほか20件の情報を追加した。",
+      "published_at": "2026-09-01T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-01T13:49:25+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "日経トレンディ×経済学でどう予測？ ヒット商品指数の開発元に聞く",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01459/00001/?n_cid=nbpnxr_rss",
+      "summary": "「ヒット商品指数」は、日経トレンディと、経済学をビジネスに活用するコンサルティング会社のエコノミクスデザインが開発した、新商品の発売後約2カ月間の「初動」を“採点”するスコアだ。実店舗での販売金額やSNSのメンション数など、4種類のデータを基に算出する。SNSやCMなどの影響も含めて総合的に見ることで、その商品の今後を予測する取り組みだ。同指数を共同開発した、慶応義塾大学教授でエコノミクスデザイン代表取締役の星野崇宏氏にその理論を聞いた。",
+      "published_at": "2026-09-01T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-01T13:49:25+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ポップアップ店舗が「謎解きエンタメ」に 新イベント手法に注目",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00947/00314/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月22日～8月28日、東京の渋谷ストリームホールでユニークな体験型イベント「Ehtel-“Release”Party-」が開催。一見するとエナジードリンク「Ehtel」の発売を記念したポップアップストアだが、実際はメディアアートと架空のストーリーを組み合わせて展開する謎解きエンターテインメント。仕掛けたのは、映像表現に強みを持つシンユニティグループのクリエイティブカンパニーSWAGで、新しいイベントスタイルとして注目されそうだ。",
+      "published_at": "2026-09-01T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "ユニーク",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-01T13:49:25+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "MIXI、「Japan Expo」出展 現地で探る『モンスト』海外展開の可能性",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00079/?n_cid=nbpnxr_rss",
+      "summary": "MIXIが『モンスターストライク』の海外展開に踏み出した。2010年代に一度試みるも撤退。その再挑戦となる。足掛かりとしたのは、2026年7月にフランス・パリで開催された「Japan Expo Paris 2026」だ。同社は会場に独自のブースを出展。日本のポップカルチャーに関心が高いフランス人来場者にアピールした。",
+      "published_at": "2026-09-01T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-01T13:49:25+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "新職種「FDE」は日本向き？ AI時代のマーケターに新たな役割",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01227/00025/?n_cid=nbpnxr_rss",
+      "summary": "米国生まれの新職種「FDE」は、課題の発見から業務への定着までを1つのチームが持ち切る働き方だ。だが、丸投げの慣行と稟議の文化が根深い日本で、これは機能するのか。300Bridge代表の藤原義昭氏は、むしろ日本企業が長年抱えてきた課題にこそかみ合うと見る。ただし、型をそのまま輸入しても動かない。越えるべき関門は2つ。そして日本で決定的に足りないのは、技術者ではないという。その意味とは。",
+      "published_at": "2026-09-01T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-01T13:49:25+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "推し活市場は3年で3割増の3.4兆円 成長の原動力をデータで解明",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01466/00001/?n_cid=nbpnxr_rss",
+      "summary": "「推し活」は、もはや一部の熱心なファンだけの趣味ではない。ライブ観覧やグッズ購入などはもちろん、外食や“聖地巡礼”まで、推しをきっかけに生まれる消費は幅広い領域へ拡大している。実際、旅行や外食といった間接的な支出を除いても、推し活市場は推計3.4兆円規模に達し、この3年間で約32％成長した。推しを軸に人を動かし、お金を動かすこの巨大市場は、企業や自治体にとっても見逃せない存在となっている。市場拡大を支えるファン層と、成長の中心にあるコンテンツジャンルをデータから読み解く。",
+      "published_at": "2026-09-01T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-01T13:49:25+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ネット広告崩壊の危機に3つのシナリオ AI事業者が報酬を払う新モデル",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01434/00001/?n_cid=nbpnxr_rss",
+      "summary": "AIの普及により、マーケティングに大きな変化が起きている。「AIO」「エージェンティックコマース」など、新たなキーワードも飛び交うようになった。激変するマーケティングはどこに向かうのか、大胆に予測する。まずは「インターネット広告」だ。ネット広告の未来はどう進むのか、希望と絶望の3つのシナリオを予測する。",
+      "published_at": "2026-09-01T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-01T13:49:25+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "敷島製パン「チロルチョコケーキ ミルク」発売 未来消費カレンダー",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xNV96djRUOFUzbnFQQWxESG1adVduQ0dNMEgxb0x4S2JHeVIzSGRqU2p3WDhwU2RvdUk1LUtKY3FCc0V1MEpnU1hkSFJlR3k0MGIxaWtTOW9XRUJyUkRpVGVXSlRsQQ?oc=5",
+      "summary": "敷島製パン「チロルチョコケーキ ミルク」発売 未来消費カレンダー&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-31T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-01T13:49:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（199ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iUGJUTFMxNXJoQXRJS01QMXVNMjlydDlMWTVmclpIWDM0cDdUTzFyYi1UeTZMRjd1TTJZejFOR3VKakRFTG5ZYmduWjdsVWVYNlBCMExQZWpWeDBNQ29mQ3NHWXBXZHc?oc=5",
+      "summary": "食品・飲料（199ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-31T08:29:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-01T13:49:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（202ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtekhTVGFKd2pvdF9OVFZEOS1wbTRrdkw4VC1GcEh2NUFIRVdSSDlIb3dpNjlUcW5YN0JiclBwODlRazBQMjY0dzYzemtRLUxmZzRjU2tua09ZWUtzQVBMdDFXZllGdHM?oc=5",
+      "summary": "食品・飲料（202ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-31T07:09:15Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-01T13:49:22+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -93,6 +347,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-31T14:21:27+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "アルパカフルーツスパークリング レモンと白ワイン、同グレープフルーツと赤ワイン",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1J6VjZjUXRua3JFQUR1VXR4QU1zNzlJMGlNQzFMM24yMlVobzE1M1JSOWQwMTBZMGtTTGQydU81a21WejN3LWZJaC1JblNwejNMX0ljQ0xkODhTYmZQRnJ1STJBaWFWT3hpYWdaMXdjcmxEQU1kMHpwT3U3ZGlFNk00XzR6c2RPTWc?oc=5",
+      "summary": "アルパカフルーツスパークリング レモンと白ワイン、同グレープフルーツと赤ワイン&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-31T03:00:48Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-01T13:49:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「ISAINA」芋焼酎ソーダ〈レモン〉",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWI5NEpIYS1nYjY1Mjh4Y3U2cDd6QTlteG1YSXV2d01Od0IxQ3h1NGNyXzRKUk95SE5nZkRGWUVYLUdhMjBZZWRGSktGWE9DcDd1QXNMQk9zQWVwZ19UdjJ0X01VNEJhRFd3UnNZTy1tdmxmQ29VOUwtYjA4MllOWWRaTDdGbGdBOEE?oc=5",
+      "summary": "「ISAINA」芋焼酎ソーダ〈レモン〉&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-31T03:00:44Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-01T13:49:22+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -1392,6 +1690,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-21T10:16:27+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「食器を洗うのも面倒」 ハウス食品が作った“ご飯不要カレー”を食べてみた",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Da2Vzc2kzYzhSNlFydURiRXpFbTNLdEd2MDFMQ2xibHBtaUZMWFRMbHV0T1JvcU1md1BjRlVIU0VEZWFjN09IXzFQejNrTjhNbmw2SkdIdjJVc1dPRldoYUhkbEl5YTd2T2xpQkVjUQ?oc=5",
+      "summary": "「食器を洗うのも面倒」 ハウス食品が作った“ご飯不要カレー”を食べてみた&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-20T07:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-01T13:49:22+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -3824,28 +4144,6 @@
       "site_name_en": "Food Dive",
       "region": "北美",
       "positioning": "行业分析",
-      "title": "Coca-Cola’s namesake soda won big at the World Cup",
-      "url": "https://www.fooddive.com/news/coca-cola-volume-growth-world-cup-powerade/826472/",
-      "summary": "CEO Henrique Braun said the 5% volume increase, the brand’s largest in nearly 20 years, reflects how the beverage giant is using innovation and market insights to drive growth.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-01T12:18:40+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
       "title": "How beverage manufacturers are turning water reuse into a growth strategy",
       "url": "https://www.fooddive.com/spons/how-beverage-manufacturers-are-turning-water-reuse-into-a-growth-strategy/826313/",
       "summary": "Water reuse is no longer just a sustainability initiative. For beverage manufacturers, it's a strategic investment driving growth and resilience.",
@@ -5030,6 +5328,78 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-29T15:31:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Corona, Modelo maker names supply chain lead for beer division",
+      "url": "https://www.fooddive.com/news/corona-modelo-maker-names-supply-chain-lead-for-beer-division/828947/",
+      "summary": "Alex Alvarez will join Constellation Brands after serving in supply chain roles at Suntory Global Spirits and Brown-Forman.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-01T13:49:35+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Trix maker General Mills removes synthetic dyes from US cereals",
+      "url": "https://www.fooddive.com/news/General-mills-removes-artifical-colors-cereal-rfk/828927/",
+      "summary": "The cereal maker said it remains on track to remove artificial colors from the rest of its American retail portfolio by the end of 2027.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-01T13:49:35+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How Oreo’s endless flavor innovations help keep it on top",
+      "url": "https://www.fooddive.com/news/Mondelez-oreo-cookie-snacking-innovation/828270/",
+      "summary": "From strawberry milkshake to chicken and waffles, Mondelēz International is attracting new consumers and keeping its 114-year-old cookie brand relevant with the launch of “playful” flavors.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-01T13:49:35+08:00"
     }
   ]
 }
