@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-09-03T16:49:52.225229+08:00",
-  "total": 9035,
+  "last_updated": "2026-09-03T21:06:13.344132+08:00",
+  "total": 9039,
   "articles": [
+    {
+      "id": "61c7225bd22b28ff",
+      "title": "Review: Mission Craft Cocktails Might Have Made the Perfect Pickle-Rita",
+      "summary": "Mission Craft Cocktail's contribution to the wave of pickle-inspired drinks to hit the market in recent years succeeds by keeping the margarita front and center and using pickle as a restrained,…",
+      "url": "https://www.bevnet.com/news/2026/review-mission-craft-cocktails-might-have-made-the-perfect-pickle-rita",
+      "published_at": "2026-09-03T20:30:23+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "36f78daea66c6e2e",
+      "title": "BRU Rebrand by WeWantMore",
+      "summary": "Long associated with fine dining, BRU had become increasingly perceived as distant and outdated. WeWantMore set out to change that, repositioning the brand from a restaurant staple to the finishing…",
+      "url": "https://fabnews.live/bru-rebrand-by-wewantmore/",
+      "published_at": "2026-09-03T18:14:28+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5695b8741f83c64a",
+      "title": "MANE acquires citrus specialist Cvista to establish Florida Citrus and Beverage Center of Excellence",
+      "summary": "The deal adds high-purity citrus compound production alongside distillation, extraction and molecular distillation capabilities, accelerating MANE's reduced-sugar and functional beverage innovation",
+      "url": "https://nutraceuticalbusinessreview.com/mane-acquires-citrus-specialist-cvista-to-establish-florida",
+      "published_at": "2026-09-03T18:01:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "2f0b1a72e8480c32",
+      "title": "Thai Union Ingredients showcases vertically integrated marine longevity portfolio at Vitafoods Asia",
+      "summary": "The company says its DHA oil, tuna collagen and bio-calcium ingredients — backed by human trials showing improvements in attention, skin hydration and bone microstructure — offer formulators…",
+      "url": "https://nutraceuticalbusinessreview.com/thai-union-ingredients-integrated-marine-longevity-vitafoods-asia",
+      "published_at": "2026-09-03T17:35:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "be4bb556ac5a921b",
       "title": "Beyond food noise: could GLP-1 medications change the way we experience cravings?",
@@ -75,18 +123,6 @@
       "language": "ja"
     },
     {
-      "id": "f38f9779bb655af0",
-      "title": "今週新発売の菓子パン🍫まとめ！『絹ふわ　つぶあん』、『パクっとスティック　コーンマヨネーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン 絹ふわ つぶあん 袋4個生クリームを練り込んだ生地でつぶあん…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090307/?utm_source=rss&utm_medium=mognavinews_20260903",
-      "published_at": "2026-09-03T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "51a1994e236ebf2d",
       "title": "What makes a dietary supplement successful?",
       "summary": "Join nutraceutical industry leaders for a webinar on 23 September as they unpack the formulation, manufacturing and quality realities that separate market leaders from failed launches",
@@ -97,6 +133,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "f38f9779bb655af0",
+      "title": "今週新発売の菓子パン🍫まとめ！『絹ふわ　つぶあん』、『パクっとスティック　コーンマヨネーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン 絹ふわ つぶあん 袋4個生クリームを練り込んだ生地でつぶあん…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090307/?utm_source=rss&utm_medium=mognavinews_20260903",
+      "published_at": "2026-09-03T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "e61234bba82092d3",
