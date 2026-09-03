@@ -1,33 +1,411 @@
 {
-  "total": 242,
+  "total": 256,
   "s_plus_count": 35,
   "sites": [
-    "Food Dive",
     "日経xTrend",
-    "日経新聞",
+    "Packaging Digest",
     "朝日グループYouTube",
-    "Packaging Digest"
+    "日経新聞",
+    "Food Dive"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "其他": 102,
-    "新产品": 54,
-    "品牌故事": 15,
-    "营销创新": 16,
-    "新包装": 2,
-    "行业政策": 17,
+    "其他": 110,
+    "品牌故事": 17,
+    "渠道新物种": 5,
+    "新技术": 4,
+    "营销创新": 17,
     "联名营销": 18,
-    "渠道新物种": 4,
-    "新技术": 3,
+    "新产品": 54,
+    "新包装": 2,
+    "行业政策": 18,
     "并购融资": 7,
     "新原料": 4
   },
-  "last_updated": "2026-09-02 13:12",
-  "last_updated_iso": "2026-09-02T13:12:59.635470+08:00",
+  "last_updated": "2026-09-03 13:17",
+  "last_updated_iso": "2026-09-03T13:17:15.381126+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "49%がAIの買物代行に抵抗なし 1万6000人調査で判明「5つの生活者変化」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01434/00006/?n_cid=nbpnxr_rss",
+      "summary": "2030年に向けて、日本企業が特に注目すべきトレンドとは何か。世界16カ国約1万6000人への調査を基に作成した米VMLの年次予測リポート「The Future 100」の編集を統括する、VML Intelligenceのグローバル・ディレクターであるエマ・チュウ氏に、日本のマーケターが注目すべき5つのキーワードを聞いた。",
+      "published_at": "2026-09-03T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:17:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アサヒ、定番ワイン「アルパカ」缶チューハイ化 脱ワインで若者開拓",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01459/00003/?n_cid=nbpnxr_rss",
+      "summary": "ワインブランドが缶チューハイに“変身”。アサヒビールが展開する「アルパカフルーツスパークリング」だ。日経トレンディが独自に算出する「ヒット商品指数」では「60」の高スコアを記録。購入者の約9割は、昨年2025年にアルパカを購入していない人で、課題だった若年層の獲得にもつながったという。なぜ、若者を取り込むために「缶ワイン」ではなく「缶チューハイ」を選んだのか。商品開発と売り方の舞台裏に迫った。",
+      "published_at": "2026-09-03T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-09-03T13:17:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「若者のディズニー離れ」の誤解 オリエンタルランドの巧妙な戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01413/00003/?n_cid=nbpnxr_rss",
+      "summary": "「チケットの相次ぐ値上げにより、若者のディズニー離れが進んでいる」と聞いたことはないだろうか。確かに長期スパンでは、この層の入園者数の割合は減少トレンドが続いている。「苦境が続く運営会社のオリエンタルランド」という見立てが世間では目立つが、国内外のテーマパークに精通する識者はどう見ているのか。",
+      "published_at": "2026-09-03T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:17:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "セブンの“チョコグミ”3600万個 「他力頼み」の80社開発体制",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00357/?n_cid=nbpnxr_rss",
+      "summary": "成長に陰りが見えてきたと指摘されるセブンイレブンだが、とりわけプライベートブランドの菓子は“元気”だ。異色の商品開発体制が実を結び、販売数が累計3600万個を突破する大ヒット商品も生まれている。優等生的なイメージが強い同コンビニが、数字を貪欲に追う舞台裏を探った。",
+      "published_at": "2026-09-03T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-09-03T13:17:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ロレアルが描くAI時代のCX VivaTechで見えた次世代コマースの全貌",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01933/?n_cid=nbpnxr_rss",
+      "summary": "欧州最大級のスタートアップ・テクノロジーイベント「VivaTech 2026」が仏パリで開催された。2026年のテーマは「Impact, Not Illusion」だ。AIへの期待が高まる一方で、いよいよ「何ができるのか」ではなく、「どんな成果を生み出せるのか」が問われるフェーズに入ったことを象徴するテーマだった。そうした中で、会場でもひときわ大きな存在感を放っていたのがロレアルである。欧米リテール業界に詳しい射場瞬氏が、ロレアルの4日間にわたるプレスツアーに参加したことで見えたロレアルのAI戦略と、その背景にある経営思想を読み解く。",
+      "published_at": "2026-09-03T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新技术",
+          "icon": "⚡",
+          "color": "#0891b2",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "新技术",
+      "scraped_at": "2026-09-03T13:17:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "サントリー「NOPE」と対局のウェルネス炭酸 EC専売で“脱マス一本足”",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01939/?n_cid=nbpnxr_rss",
+      "summary": "サントリーBFが、2026年6月にEC専売の炭酸飲料「yappy（ヤッピー）」を発売した。高発酵性食物繊維、低カロリー、カフェインゼロを特徴にした“ウェルネス炭酸”だ。同社は26年3月、「ギルティ炭酸 NOPE（ノープ）」をテレビCM、交通広告、店頭大量配荷で一気に立ち上げ、発売1週間で出荷本数2000万本を突破させた。対するyappyは、12本入りの自社EC販売から始め、SNSやインフルエンサーを軸にじわじわ育てる。飲料大手の同社がなぜ、得意のマスマーケティングとは正反対の手法に踏み出したのか。そこには、若年層にブランドを届ける難しさと、生活者と共にブランドを育てる新たなコミュニケーションへの挑戦がある。",
+      "published_at": "2026-09-03T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        },
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-03T13:17:01+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ウォルマートのAI利用客は注文額35％増 小売6社の広告戦略最前線",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00001/?n_cid=nbpnxr_rss",
+      "summary": "45年以上の歴史を持ち、広告やブランド、クリエイティブ、メディア、テクノロジーと幅広くカバーする米有力メディア「ADWEEK」の翻訳記事をお届けする。第1回は、消費者にとってなじみ深い米Amazon.com、米Kroger、米Walmartなど小売りやECのAI主導ショッピングについて。広告機会の拡大をにらむ各社の狙いを分析する。",
+      "published_at": "2026-09-03T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 2
+        },
+        {
+          "name": "新技术",
+          "icon": "⚡",
+          "color": "#0891b2",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-09-03T13:17:01+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「女性管理職比率の目標は立てない」エスビー食品社長 性別問わず個性重視",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZXV5OHJrNmZVS01EM2h2ZFUycXZlX0dwTWd1R29vRDI1eDdsRnVaWjBYeGZ1WTBrNDBxZ0xmUXdFaFdVVFRycmhKY0dWeF9MTnZtQWwwNUJnWURCYXp0X3NDZzBqWGMzTlptOXpSX0wtbDR0WTRwaXUzWWl1R3hxbDYyMGQ3bmp3eXdQVg?oc=5",
+      "summary": "「女性管理職比率の目標は立てない」エスビー食品社長 性別問わず個性重視&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-09-02T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ウォルマートのAI利用客は注文額35％増 小売6社の広告戦略最前線",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoamtpNERkc3prZnRWVWVhb0I0ZWlLeG80TUZCYTdCSEJPV0w3b1Rodzg0Zk9rcHVHRkNYbkV6MWhMQ0RFSFZUZG8xdzczLU5WY0tXODgyZUNDSmYzcE9GdXA5XzdOUQ?oc=5",
+      "summary": "ウォルマートのAI利用客は注文額35％増 小売6社の広告戦略最前線&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "サントリー「yappy」はなぜEC専売？ NOPEの裏で進む“脱マス”実験",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14YVZPZGlHZHhqaTBTck5NN2dsRENYakE1bTBWQUxqT1ROMGpQSzhDZTVMMnJiRS1GZWltWTlOdVpIUjF5Rmx5LUpVREU2cGtKZXNGaE5mcEpubUNvLXNnT0ZaTkV1TmNta2VzNmlrSQ?oc=5",
+      "summary": "サントリー「yappy」はなぜEC専売？ NOPEの裏で進む“脱マス”実験&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ロレアルが描くAI時代のCX VivaTechで見えた次世代コマースの全貌",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjUWJoZklrWVMybjVqa08zYTZHeHduaTd6cE83SFFNa1hFSGRhY2stWWp4c0dUNzI1RGUwRF93UGZMWFZFY1p6Sl9qbHNVT1FqQ29hT1F1LWpGTmlZVjlIVlR1QkxEUWFBb3FoRVJ0aw?oc=5",
+      "summary": "ロレアルが描くAI時代のCX VivaTechで見えた次世代コマースの全貌&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "アサヒ、定番ワイン「アルパカ」缶チューハイ化 脱ワインで若者開拓",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrUTRocDJXdkJ5N19RTVd4X1JhSENYMVhSWV9wMlZGaFQ5VlBOdkZrQW5obUh4ZzhGVkxSaXl2TDUyUGUxRFJ4X2pQdDZ0ZU5ieVpBOWhMU2hQNkFDeDVIRHBDbGFwQQ?oc=5",
+      "summary": "アサヒ、定番ワイン「アルパカ」缶チューハイ化 脱ワインで若者開拓&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Beverage Packaging Headlines in August 2026",
+      "url": "https://www.packagingdigest.com/food-beverage/beverage-packaging-headlines-in-august-2026",
+      "summary": "Our top stories reveal a beverage industry embracing bold redesigns, collaborations, and storytelling to drive meaningful shelf impact.",
+      "published_at": "2026-09-02T14:58:58Z",
+      "is_s_plus": true,
+      "s_plus_reason": "collab",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 2
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-03T13:17:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（143ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wYlhSb3F1MlRnM1NjN0dFaWFpLVNCTmZSZUtlcElVYUxzRGlORDN1YlZuaWpMbXZMYTk5WU5yYWRSUnFySDlpdkgzeXVPTktSeE1rYk9lRnVMT0tJZlliUlp0SnFmLUE?oc=5",
+      "summary": "食品・飲料（143ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T10:46:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（150ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjVGFTd2VNb0R1djAtZFllNUpoNWFfR1N2cE02X3ZaNUhZUlVqZEJsWXdRSXdiRjBPdnB6YWJKb1MySF8yXzMyN3EzRGx4Tm8wQzBEdUVhdUxySzdneVlPM1hKZy0tS1U?oc=5",
+      "summary": "食品・飲料（150ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T07:50:28Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -181,6 +559,116 @@
       ],
       "primary_category": "品牌故事",
       "scraped_at": "2026-09-02T13:12:39+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（376ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JeVZNM3N1aEZIV2kyWW1rSnoza0ZaSzdOZkRjMDVWWG05S28zSkd1OFFUQjQ4bnF2a0staFhSNzJaQ3RQMkJmMmNBSFJVN1hiclFEMXJvdjZ5MkVFLXc5emxTSko2ZVU?oc=5",
+      "summary": "食品・飲料（376ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-01T13:47:50Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（155ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KaUVNOTlaaGt0bUp3R05HM3NKcHlicnRkenhfQlNNbE91cTdhZjNCcGFFelBIcjh5X1NiOXY3dTF5Z0NocFhTY0lyWUladklYUVJLX0hIaG1neGw5RUh5dDNIaTZYREE?oc=5",
+      "summary": "食品・飲料（155ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-01T05:47:06Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（157ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0VW5WblBjdHYzSUdwcG5uaUdadVBHMmVldWVjLWxGR1oyRGMwemY4MndwWHhMcXhWTWlMQUVsMTFHb2J4MlEtU2lrenZJVkNfaVk0S2tuV0o0UkE5VnR1U0FSb2xRcUE?oc=5",
+      "summary": "食品・飲料（157ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-01T04:48:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（163ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5peUluU0VUTlRTbnRHVjVFNkJDd0F3eTctUmJiZWlFSnRYMm1hTU1IUWZjNDE2eFZCYVBCczQ1aWRGNDg2cjR5MzEyLTB6NW9od1BmemFPQTJ2bzdOMUhudUdaU2JwYVk?oc=5",
+      "summary": "食品・飲料（163ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-01T01:31:30Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（166ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45TXliZ3dlYXNacjl2TkZkNXlTbFFQNFBjaHN2M2V1WC1EWVd6b3E2cjlVR1dveDFmeUxrLUlCeGJaNUZyNHFUTEd6SmZYXzZzYWsyVGNlMVAtaXpBcmMtd0lwNFZQWmM?oc=5",
+      "summary": "食品・飲料（166ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-01T00:02:58Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -391,6 +879,72 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-02T13:12:39+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（172ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TdUlMYzhKVHNaMUVwaHR1OWJMYUZtN05ydUt5b2JYMURxMkxhRTM2UTRFRUNKQmpiN09neDY0UGVWaFJ0Z0NvR3NGdTRNdVFyc1VRZ0ZnSTNvY3R6X1lGNzRuYVZvYmM?oc=5",
+      "summary": "食品・飲料（172ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-31T21:35:02Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（398ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1YTQ0VTljRmt1OVlFcE5XTDlEeUM5em5BV0xUVnpJQThlRjJWRktTOVI1VmFNZHd6YUpLempoOTZnOXNFNTBYTTU4X3Q2aU91bnlqdTNRWjc5SDE3OWoycnR5OVBRRTg?oc=5",
+      "summary": "食品・飲料（398ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-31T20:31:39Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（404ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90WFlLb1NzVGprSTZXMDdtVXdlZm1UZTlTc0lwVnJSMkw5UEpHdDZ4Q1h3dHNUaWpLblNTd0JUWHcyWlU3a2MwRUdEb0FOdGdtc1k1NVdURGdfVEFfMFJDOUkwV09ZVms?oc=5",
+      "summary": "食品・飲料（404ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-31T19:47:40Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:16:59+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -1866,6 +2420,28 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-08-27T18:43:53+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Heinz Puts a New Spin on Ketchup: Meet the Love Lid",
+      "url": "https://www.packagingdigest.com/packaging-design/heinz-puts-a-new-spin-on-ketchup-meet-the-love-lid",
+      "summary": "Customizable dispensing closure lets consumers choose their ketchup flow for summer’s favorite foods.",
+      "published_at": "2026-08-21T18:52:49Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:17:13+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -4034,244 +4610,6 @@
       "scraped_at": "2026-08-03T20:11:54+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "飲料に学ぶ商品企画の“新髄”",
-      "url": "https://xtrend.nikkei.com/info/podcast/19/00416/?n_cid=nbpnxr_rss",
-      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の最新トレンドをチェックする「WEEKLY TREND KEYWORDS」では、「酷暑と二季化に勝つヒットの作り方」をキーワードに、長期化する暑さによる経済効果や消費トレンドをピックアップ。後半は「飲料に学ぶ商品企画の“新髄”」をお送りします。飲料市場では、近年の健康志向のさらなる高まりに加え、インフレによる大容量ボトル需要の拡大など、次々にトレンドが変化しています。そうした中でヒットしている商品は、どのような発想や施策から生まれたのか。サントリーの「特水」や「NOPE」などを事例に、成功のポイントを紹介します。解説は日経トレンディ・日経エンタテインメント総編集長の澤原昇。",
-      "published_at": "2026-08-03T05:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T12:23:43+08:00"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒスーパードライ WEBCM「スーパードライ ミュージアム 総集」篇 60秒 イチロー",
-      "url": "https://www.youtube.com/watch?v=sWTnVqeyMH8",
-      "summary": "アサヒスーパードライ WEBCM「スーパードライ ミュージアム 総集」篇 60秒 イチロー 出演者：イチロー ▼スーパードライ ミュージアム サイト https://www.asahibeer.co.jp/brewery/ibaraki/",
-      "published_at": "2026-08-03T01:00:11Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T12:24:00+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i4.ytimg.com/vi/sWTnVqeyMH8/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒスーパードライ WEBCM「スーパードライ ミュージアム うまさ実感」篇 30秒 イチロー",
-      "url": "https://www.youtube.com/watch?v=vZyOg-Le8tY",
-      "summary": "アサヒスーパードライ WEBCM「スーパードライ ミュージアム うまさ実感」篇 30秒 イチロー 出演者：イチロー ▼スーパードライ ミュージアム サイト https://www.asahibeer.co.jp/brewery/ibaraki/",
-      "published_at": "2026-08-03T01:00:09Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T12:24:00+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i3.ytimg.com/vi/vZyOg-Le8tY/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒスーパードライ WEBCM「スーパードライ ミュージアム GO RIDE」篇 30秒 イチロー",
-      "url": "https://www.youtube.com/watch?v=B5Xkq9n22Uo",
-      "summary": "アサヒスーパードライ WEBCM「スーパードライ ミュージアム GO RIDE」篇 30秒 イチロー 出演者：イチロー ▼スーパードライ ミュージアム サイト https://www.asahibeer.co.jp/brewery/ibaraki/",
-      "published_at": "2026-08-03T01:00:06Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T12:24:00+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i3.ytimg.com/vi/B5Xkq9n22Uo/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒスーパードライ WEBCM「はじめてのスーパードライ ミュージアム」篇 30秒 イチロー",
-      "url": "https://www.youtube.com/watch?v=lOxtGJSrTxU",
-      "summary": "アサヒスーパードライ WEBCM「はじめてのスーパードライ ミュージアム」篇 30秒 イチロー 出演者：イチロー ▼スーパードライ ミュージアム サイト https://www.asahibeer.co.jp/brewery/ibaraki/",
-      "published_at": "2026-08-03T01:00:04Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T12:24:00+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i1.ytimg.com/vi/lOxtGJSrTxU/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "1位は「UCC『食べるコーヒー』即日完売 『余韻』新価値に市場開拓」 ちょうど1年前振り返りランキング",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00126/?n_cid=nbpnxr_rss",
-      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年8月3～30日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
-      "published_at": "2026-08-03T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "完売",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T12:23:43+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "スターバックス上陸30周年、不変の店舗戦略 霧島酒造と組んだ必然",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01427/00001/?n_cid=nbpnxr_rss",
-      "summary": "2026年1月末、スターバックスと霧島酒造（宮崎県都城市）のコラボ施設がオープンした。スターバックスにとって、構想段階から他社と共同で手掛けるのは初めてのことであり、霧島酒造にとっても、自社の敷地内に他社の店舗を迎え入れるのは創業以来初の試みだ。オープンから約半年、「地域のサードプレイス」は、両社の想定を上回る反響を得ているという。この施設が9年越しに実現するまでの経緯をたどりながら、「場」を共創することの意義と可能性を探る。",
-      "published_at": "2026-08-03T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "初の試み",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-03T12:23:43+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "【マンガ】ギルティか健康か 飲料に学ぶ 商品企画の真髄",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00831/00035/?n_cid=nbpnxr_rss",
-      "summary": "マーケティングを成功させるにはどうするべきか、成功企業は何をしているのか──。その秘密を探るマンガ「黒鳥ひなのマーケティングファイル」第33回です。今回は飲料に学ぶ商品企画の“新髄”に迫ります。",
-      "published_at": "2026-08-03T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-08-03T12:23:43+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "マーケの本命「Claude」スキル構築の極意 SWOT分析もわずか15分",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01433/00001/?n_cid=nbpnxr_rss",
-      "summary": "ロジカルな仕組みを構築できるAIとしてソフトウエア開発者の定評を得た米AnthropicのClaudeは、一般ビジネスパーソン向けのツール「Claude Cowork」を提供している。これを使えば、これまでは膨大な手間がかかっていたSWOTなどフレームワーク分析も自動化できる。Coworkで成果を導き出す上で鍵となる「スキル」構築の極意を専門家に聞いた。",
-      "published_at": "2026-08-03T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T12:23:43+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "アサヒ飲料初の女性社長 サイバー攻撃余波から「3つの矢」で反転攻勢 （2ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUhaN0dyMmVJeFFFdkc1VGFSV3BNWERERXVyME5mT19zVTFrXzZ3QUlNdVlsdWFzRzR0RWdKVUpLbTM2NTdKcFhZc3B2UVd4SV9oZ3JyWjB2OWp0cmg5NmY2SUR2TkpqQlA4bVpBbzJKRDk0eHZPVUx3WHhFanhHWjkzZ1NhVVdsbEYyYkZiSWdzajRhT1dDcWNR?oc=5",
-      "summary": "アサヒ飲料初の女性社長 サイバー攻撃余波から「3つの矢」で反転攻勢 （2ページ目）&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-08-02T15:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T12:23:41+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -4314,50 +4652,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-06T11:57:19+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "【マンガ】ギルティか健康か 飲料に学ぶ 商品企画の真髄",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12MDhMcXdMM0JUQWcyaWJPRVdMQVpSSEV4b0VvYkxzVnNqanVKc2JvNGt0V3JxZTJPY0l6RmFqb3UwWTNVbW0yc055eEZ0eTZuOWRBR1pQZWU2bGRqTC1hWmw4Umlxdw?oc=5",
-      "summary": "【マンガ】ギルティか健康か 飲料に学ぶ 商品企画の真髄&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-02T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T12:23:41+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "スタバ×霧島酒造、9年越しの「本気の場づくり」",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKRjN4a3dKaWdlWGNlRDU4djZHZ01FUTNabXl4cktFbXNBdVdTcHZuYkZMS1Z0LXRQcFd2MVYtUUdWWm83Vm5UMmtNWVFUSDlPZEF0RVZNand1WklfODFsTDhET21Mdw?oc=5",
-      "summary": "スタバ×霧島酒造、9年越しの「本気の場づくり」&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-02T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-03T12:23:41+08:00"
     },
     {
       "site_name": "Packaging Digest",
@@ -5780,6 +6074,56 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-02T13:12:55+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Craft beer enters a new era",
+      "url": "https://www.fooddive.com/news/craft-beer-evolving-beyond-hazy-ipa-high-alcohol/828269/",
+      "summary": "Gone are the glory days of hazy IPAs, with brewers seeing a resurgence in classic beers and experience-driven options.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-03T13:17:11+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Jim Beam maker chooses next chief supply chain officer",
+      "url": "https://www.fooddive.com/news/jim-beam-maker-chooses-next-chief-supply-chain-officer/829070/",
+      "summary": "Manuel Cabañas has been with Suntory Global Spirits since 2000 and will now oversee global manufacturing, distribution, quality, sourcing and operations.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-03T13:17:11+08:00"
     }
   ]
 }
