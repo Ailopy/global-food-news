@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-03T13:16:58",
+  "last_updated": "2026-09-03T19:52:06",
   "retention_days": 7,
-  "total": 532,
+  "total": 533,
   "s_count": 35,
   "a_count": 4,
-  "b_count": 493,
+  "b_count": 494,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "若年層と新しいお酒の文化を共創する「GREEN’S FREE ACTION」第2弾として武蔵野美術大学学生向け後期授業を開始",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0903_01.html",
+      "published_at": "2026-09-03T07:30:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Asahi",
       "brand_cn": "朝日",
