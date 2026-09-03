@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-03T16:49:52.335586+08:00",
+  "last_updated": "2026-09-03T21:06:13.454446+08:00",
   "retention_days": 7,
-  "total": 523,
+  "total": 514,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,54 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "61c7225bd22b28ff",
+      "title": "Review: Mission Craft Cocktails Might Have Made the Perfect Pickle-Rita",
+      "summary": "Mission Craft Cocktail's contribution to the wave of pickle-inspired drinks to hit the market in recent years succeeds by keeping the margarita front and center and using pickle as a restrained,…",
+      "url": "https://www.bevnet.com/news/2026/review-mission-craft-cocktails-might-have-made-the-perfect-pickle-rita",
+      "published_at": "2026-09-03T20:30:23+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "36f78daea66c6e2e",
+      "title": "BRU Rebrand by WeWantMore",
+      "summary": "Long associated with fine dining, BRU had become increasingly perceived as distant and outdated. WeWantMore set out to change that, repositioning the brand from a restaurant staple to the finishing…",
+      "url": "https://fabnews.live/bru-rebrand-by-wewantmore/",
+      "published_at": "2026-09-03T18:14:28+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5695b8741f83c64a",
+      "title": "MANE acquires citrus specialist Cvista to establish Florida Citrus and Beverage Center of Excellence",
+      "summary": "The deal adds high-purity citrus compound production alongside distillation, extraction and molecular distillation capabilities, accelerating MANE's reduced-sugar and functional beverage innovation",
+      "url": "https://nutraceuticalbusinessreview.com/mane-acquires-citrus-specialist-cvista-to-establish-florida",
+      "published_at": "2026-09-03T18:01:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "2f0b1a72e8480c32",
+      "title": "Thai Union Ingredients showcases vertically integrated marine longevity portfolio at Vitafoods Asia",
+      "summary": "The company says its DHA oil, tuna collagen and bio-calcium ingredients — backed by human trials showing improvements in attention, skin hydration and bone microstructure — offer formulators…",
+      "url": "https://nutraceuticalbusinessreview.com/thai-union-ingredients-integrated-marine-longevity-vitafoods-asia",
+      "published_at": "2026-09-03T17:35:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "be4bb556ac5a921b",
       "title": "Beyond food noise: could GLP-1 medications change the way we experience cravings?",
@@ -91,18 +139,6 @@
       "language": "ja"
     },
     {
-      "id": "f38f9779bb655af0",
-      "title": "今週新発売の菓子パン🍫まとめ！『絹ふわ　つぶあん』、『パクっとスティック　コーンマヨネーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン 絹ふわ つぶあん 袋4個生クリームを練り込んだ生地でつぶあん…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090307/?utm_source=rss&utm_medium=mognavinews_20260903",
-      "published_at": "2026-09-03T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "51a1994e236ebf2d",
       "title": "What makes a dietary supplement successful?",
       "summary": "Join nutraceutical industry leaders for a webinar on 23 September as they unpack the formulation, manufacturing and quality realities that separate market leaders from failed launches",
@@ -113,6 +149,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "f38f9779bb655af0",
+      "title": "今週新発売の菓子パン🍫まとめ！『絹ふわ　つぶあん』、『パクっとスティック　コーンマヨネーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン 絹ふわ つぶあん 袋4個生クリームを練り込んだ生地でつぶあん…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090307/?utm_source=rss&utm_medium=mognavinews_20260903",
+      "published_at": "2026-09-03T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "e61234bba82092d3",
@@ -6137,162 +6185,6 @@
       "category": "综合",
       "level": "A+",
       "language": "en"
-    },
-    {
-      "id": "379e81ee2abbbd3d",
-      "title": "味の素冷凍食品をアレハピの子ども記者が取材 アレルギー配慮のギョーザ・から揚げなど深掘り 「おいしさと安全・安心の両立を徹底」",
-      "summary": "食物アレルギーに配慮した商品開発に注力している味の素冷凍食品。「米粉でつくったギョーザ」「やわらか若鶏から揚げ」「それいけ！アンパンマンポテト」などをラインアップする。 その取り組みを取材するため、食物アレルギーを持 […] ソース",
-      "url": "https://shokuhin.net/155820/2026/08/27/kakou/reishoku/",
-      "published_at": "2026-08-27T19:33:28+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "d62f51dcc3b5604d",
-      "title": "Only 30% of global food supply calcium is bioavailable, study finds",
-      "summary": "New research from ILSI estimates that just 30.7% of calcium in the global food supply is bioavailable, highlighting the impact of dietary anti-nutrients and opportunities for more targeted mineral…",
-      "url": "https://nutraceuticalbusinessreview.com/only-30-global-food-supply-calcium-bioavailable-study",
-      "published_at": "2026-08-27T19:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "183008fb2535b00d",
-      "title": "Publisher’s Platform: The Secretary Is Right About Real Food. Forty Percent of Americans Say They Are Eating Less of It Because of Cyclospora. Here Are Six Things HHS Could Do About That, and One Thing the Secretary Should Stop Doing.",
-      "summary": "The Secretary is asking Americans to build their health around fresh, whole, minimally processed food, and this summer a great many of them looked at the lettuce and quietly decided against it.…",
-      "url": "https://www.foodsafetynews.com/2026/08/publishers-platform-the-secretary-is-right-about-real-food-forty-percent-of-americans-say-they-are-eating-less-of-it-because-of-cyclospora-here-are-six-things-hhs-could-do-about-that-an/",
-      "published_at": "2026-08-27T18:30:52+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "31aaa8659dcc93c8",
-      "title": "スナック新商品！人気ランキング",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック」の最新・注目度ランキングです♪（2026年8月21日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-25885/?utm_source=rss&utm_medium=mognavinews_20260829",
-      "published_at": "2026-08-27T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "3a30a511aeab5e00",
-      "title": "スナック新商品！人気ランキング",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック」の最新・注目度ランキングです♪（2026年8月21日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-25885/?utm_source=rss&utm_medium=mognavinews_20260828",
-      "published_at": "2026-08-27T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "33b86c716977df6b",
-      "title": "【モスバーガー】さつまいもを味わうスイーツ&ドリンクが8月28日から登場",
-      "summary": "モスバーガーは8月28日より、秋の期間限定商品として「熱々(あつあつ) おさつボール ～紫(むらさき)いも～」と「まぜるシェイク 蜜(みつ)いも」を販売する。 「まぜるシェイク 蜜(みつ)いも」の画像はこちら 販売期間は...",
-      "url": "https://www.ssnp.co.jp/foodservice/699420/",
-      "published_at": "2026-08-27T17:48:45+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "f67ff4b4252fc6aa",
-      "title": "今週新発売の菓子パン🍫まとめ！『もちっとアップル』、『ちぎりレーズンカスタード』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パンリョーユーパン もちっとアップル 袋2個もちっとした生地で、アップルプ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082708/?utm_source=rss&utm_medium=mognavinews_20260829",
-      "published_at": "2026-08-27T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "692cfd26526f1c61",
-      "title": "今週新発売の菓子パン🍫まとめ！『もちっとアップル』、『ちぎりレーズンカスタード』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。来週新発売の菓子パンリョーユーパン もちっとアップル 袋2個もちっとした生地で、アップルプ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082708/?utm_source=rss&utm_medium=mognavinews_20260828",
-      "published_at": "2026-08-27T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "932f3b92d3c288fb",
-      "title": "Party Rings Trick or Treat Minis return for Halloween",
-      "summary": "Fox’s Burton’s Companies is relaunching the spooky variety of its Party Rings minis after a successful debut in 2025, which brought over 200k new shoppers into the brand. The post Party Rings Trick…",
-      "url": "https://www.sweetsandsnacksworld.com/news/30893/party-rings-trick-or-treat-minis-return-for-halloween/",
-      "published_at": "2026-08-27T17:19:58+08:00",
-      "source": "Sweets & Snacks World",
-      "region": "欧洲",
-      "category": "糕点糖巧",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "c24957ee3a1828eb",
-      "title": "Collagen Moves Beyond Supplements Into Foods, Drinks",
-      "summary": "Collagen is increasingly showing up in new formats like protein chips, konjac jelly, coffee, and sparkling water. But do these products actually deliver meaningful benefits? The post Collagen Moves…",
-      "url": "https://foodinstitute.com/focus/collagen-moves-beyond-supplements-into-foods-drinks/?utm_source=rss&utm_medium=rss&utm_campaign=collagen-moves-beyond-supplements-into-foods-drinks",
-      "published_at": "2026-08-27T17:00:29+08:00",
-      "source": "The Food Institute",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "e804c3e5e5c56421",
-      "title": "ファミマが狙うは東京そして北海道！　バナナとかぼちゃがあら不思議！：今週のコンビニスイーツランキング",
-      "summary": "週間コンビニスイーツランキングTOP3：2026年8月第4週今週もやってまいりました。2026年8月第4週、コンビニスイーツランキングのコーナーです。それでは…",
-      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182581/?utm_source=rss&utm_medium=mognavinews_20260829",
-      "published_at": "2026-08-27T17:00:19+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "cb2669704d1a5d41",
-      "title": "ファミマが狙うは東京そして北海道！　バナナとかぼちゃがあら不思議！：今週のコンビニスイーツランキング",
-      "summary": "週間コンビニスイーツランキングTOP3：2026年8月第4週今週もやってまいりました。2026年8月第4週、コンビニスイーツランキングのコーナーです。それでは…",
-      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182581/?utm_source=rss&utm_medium=mognavinews_20260828",
-      "published_at": "2026-08-27T17:00:19+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "3b97d157ee714287",
-      "title": "ハーゲンダッツの植物性ミルクシリーズから新作『黒ごま＆きなこ』が登場",
-      "summary": "ハーゲンダッツ ジャパンは、”植物性ミルク”をベースにした、からだ想いとご褒美感を両立したシリーズGREEN CRAFTのミニカップ『黒ごま&きなこ』を9月1日から期間限定で全国発売する。 【ハーゲンダッツ GR...",
-      "url": "https://www.ssnp.co.jp/milk/699410/",
-      "published_at": "2026-08-27T16:59:37+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
     }
   ]
 }
