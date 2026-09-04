@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-03T19:52:06",
+  "last_updated": "2026-09-04T13:12:42",
   "retention_days": 7,
-  "total": 533,
+  "total": 536,
   "s_count": 35,
   "a_count": 4,
-  "b_count": 494,
+  "b_count": 497,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,17 @@
   ],
   "articles": [
     {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.04日清食品「完全メシの取り組み」が日本人間ドック健診協会の推薦を取得",
+      "url": "https://www.nissin.com/jp/news/13913/",
+      "published_at": "2026-09-04T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -54,6 +65,28 @@
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
       "published_at": "2026-09-03T00:00:00",
       "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading(Opens in a new tab)",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-completes-sale-of-business-in-brazil-to-3-coracoes",
+      "published_at": "2026-09-03T00:00:00",
+      "summary": "General Mills Completes Sale of Business in Brazil to 3corações",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 110g 백미밥 ‘햇반 부드러운 미니밥’ 출시… \"소식(小食)·식단관리족 겨냥\"2026.09.03",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1812",
+      "published_at": "2026-09-03T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },

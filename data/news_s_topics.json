@@ -1,33 +1,165 @@
 {
-  "total": 256,
+  "total": 258,
   "s_plus_count": 35,
   "sites": [
     "日経xTrend",
     "Packaging Digest",
+    "Food Dive",
     "朝日グループYouTube",
-    "日経新聞",
-    "Food Dive"
+    "日経新聞"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "其他": 110,
-    "品牌故事": 17,
+    "新产品": 53,
+    "营销创新": 18,
+    "品牌故事": 18,
+    "其他": 111,
+    "并购融资": 7,
     "渠道新物种": 5,
     "新技术": 4,
-    "营销创新": 17,
-    "联名营销": 18,
-    "新产品": 54,
+    "联名营销": 17,
     "新包装": 2,
-    "行业政策": 18,
-    "并购融资": 7,
+    "行业政策": 19,
     "新原料": 4
   },
-  "last_updated": "2026-09-03 13:17",
-  "last_updated_iso": "2026-09-03T13:17:15.381126+08:00",
+  "last_updated": "2026-09-04 13:13",
+  "last_updated_iso": "2026-09-04T13:13:01.124959+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "PayPay、d払いが相次いで改悪 今ポイ活で狙うべき共通ポイント＆銀行",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00001/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。ポイ活戦線、異状あり──。PayPay・Vポイントの相互交換開始や「ドコモの銀行」誕生など、2026年も経済圏の“地殻変動”が相次いでいる。さらに、スマホ決済の“改悪”やクレカでの局地高還元拡大など、各経済圏内で得するための常識も変わってきた。複数の決済手段を適材適所で使い分ける「マルチ決済」の時代は既に始まっている。",
+      "published_at": "2026-09-04T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-04T13:12:45+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ビオレ“角栓自己崩壊洗顔”が100万本突破 “技術買い”起点に認知拡大",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01459/00004/?n_cid=nbpnxr_rss",
+      "summary": "2026年3月・4月にヒット商品指数を算出したスキンケア用品で、最も高スコアだったのは花王の「ビオレ おうちdeエステ ディープクレイ洗顔」だ。発売前からSNSで、花王の角栓崩壊洗浄技術に期待が高まり、先行販売は数時間で完売。発売から約5カ月間で出荷100万本を突破し、同年9月以降の増産で、さらなるヒットが期待される。背景には、 “技術買い”する美容コア層からマス層へ拡大を狙った、シームレスな情報発信があった。長期ヒット商品の開発の裏側に迫る。",
+      "published_at": "2026-09-04T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "完売",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-04T13:12:45+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "セブンのデータで外部メディアに広告配信 購買で効果検証が可能に",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01940/?n_cid=nbpnxr_rss",
+      "summary": "広告主の支援に特化した大手DSPである米The Trade Deskは2026年7月、セブンｰイレブン・ジャパンと提携した。広告主や広告代理店は、利用するThe Trade Deskのプラットフォーム上で、セブンｰイレブン・ジャパンが保有する購買データにアクセスし、広告配信に活用できるようになった。広告主はこの提携からどんなメリットを享受できるのか。最近注目の高いリテールデータの持つパワーとともに読み解く。",
+      "published_at": "2026-09-04T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-04T13:12:45+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "松屋フーズが松屋銀座で「高級牛めし」ブランド 独自デザインの裏側",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00947/00316/?n_cid=nbpnxr_rss",
+      "summary": "2026年6月、松屋銀座に松屋フーズの「松屋PREMIUM 銀座店」がオープンした。百貨店初出店の松屋フーズは松屋銀座の知見も生かし、新たな店舗デザインを採用。担当した松屋フーズの木下萌氏と松屋の山下寿德氏に、ブランドづくりについて聞いた。",
+      "published_at": "2026-09-04T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-09-04T13:12:45+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "黒とゴールドに変えた松屋 百貨店で磨くプレミアム新戦略の全貌",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EM1pSTGJLSGdDcS0xeGdMbEc4QVBWd3JUNjZMQXVCa1R3M3ZQZ2V3UTE2NFBURkpYYnhjbnZDVDhCczRIWml1RmRiREMxYzJoejFNQTdUS3c3RVJ0MVJnc0I4VHZYUQ?oc=5",
+      "summary": "黒とゴールドに変えた松屋 百貨店で磨くプレミアム新戦略の全貌&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-03T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-04T13:12:43+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "いちごホテルリート投資法人[3463]：いちごTHANKS!マンスリープレゼント 「Miyazaki Premium ヴィーガン アイス」プレゼントのお知らせ 2026年9月3日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94WEpVYjVZR0lhMDM1THkzT2poV2ZaVWZ2SGJvTW1IZEJ6blV2cmxmQkxMUDBMYUFmZjFGdUIwNHUwbUdWWUY3NDZZVGc3ZF9MMW82SE52UmxFMlRpNW95ZDRmRFJPaDhMWXc?oc=5",
+      "summary": "いちごホテルリート投資法人[3463]：いちごTHANKS!マンスリープレゼント 「Miyazaki Premium ヴィーガン アイス」プレゼントのお知らせ 2026年9月3日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-09-03T06:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-09-04T13:12:43+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -251,6 +383,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "「女性管理職比率の目標は立てない」エスビー食品社長 性別問わず個性重視",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpV2RBQTFGRUpXLTlwQjRCNG9lUmN0YW5mY1k0MU9FakRhRHpLSVpJREszcG9tTmVkTTRfMmJpUDdNTXV0WUROU2EyQnlSNVZCQ29HUkZaalM2eVJoTl8waUJOeF9OalhNekF6RA?oc=5",
+      "summary": "「女性管理職比率の目標は立てない」エスビー食品社長 性別問わず個性重視&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-09-02T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-04T13:12:43+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "ウォルマートのAI利用客は注文額35％増 小売6社の広告戦略最前線",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoamtpNERkc3prZnRWVWVhb0I0ZWlLeG80TUZCYTdCSEJPV0w3b1Rodzg0Zk9rcHVHRkNYbkV6MWhMQ0RFSFZUZG8xdzczLU5WY0tXODgyZUNDSmYzcE9GdXA5XzdOUQ?oc=5",
       "summary": "ウォルマートのAI利用客は注文額35％増 小売6社の広告戦略最前線&nbsp;&nbsp;日経クロストレンド",
@@ -389,6 +543,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "食品・飲料（145ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0RDlRWHRETEtDdHJYRjh0dXhxMW1JbU9XNHhfdVBUNUdGWlRfN3pXb1hZSUhMancyWWpVaThXNlh2VzFlQlR0YXI0bTNfN243VGNDaFBZZnhJV2I3X0ZmU1IwM3BUZEU?oc=5",
+      "summary": "食品・飲料（145ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T10:13:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-04T13:12:43+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "食品・飲料（150ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjVGFTd2VNb0R1djAtZFllNUpoNWFfR1N2cE02X3ZaNUhZUlVqZEJsWXdRSXdiRjBPdnB6YWJKb1MySF8yXzMyN3EzRGx4Tm8wQzBEdUVhdUxySzdneVlPM1hKZy0tS1U?oc=5",
       "summary": "食品・飲料（150ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -471,6 +647,28 @@
       ],
       "primary_category": "品牌故事",
       "scraped_at": "2026-09-02T13:12:42+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（126ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pamk2cDJ6ZE5uOFVwYzE1dS1ucHBCdTQtSThlSUt1SlNVdTBvU3VmU05tbFgwd3B5RmlKZ3NLRklLSFZ5dGxlRGRWcmZaZnh5NWNkZUF6UW5IQVZWS1BrSlgyNWZWR0E?oc=5",
+      "summary": "食品・飲料（126ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-01T18:30:49Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-04T13:12:43+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -581,6 +779,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（137ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtOHFxdDlMNjFzb1VCMUhxUWhMalpLYkJ1VTU3OWxNMTBGcWxEUzM5U0ZnOTRxQ1BabkdDSnYxNmdHbWJ6NktyamJqVm9ybUxRQjczaTFYZ0hiR05OVkdDVmxiRlVvZms?oc=5",
+      "summary": "食品・飲料（137ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-01T13:19:06Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-04T13:12:43+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -1077,6 +1297,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-01T13:49:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「食品」に関する記事一覧",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YMjhPN20zVlhhX1FZRjBaZmZoazZ4UU5tTHVRUk9vRGpVSWFWdmo3NUI2QXdmbVRxeFIyMF9wRFlWaUthMGRrcVh5T04yQWk1Q2c?oc=5",
+      "summary": "「食品」に関する記事一覧&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-31T05:03:47Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-04T13:12:43+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -4466,172 +4708,6 @@
       "scraped_at": "2026-08-05T11:52:34+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "『デススト』コラボのDnsysが製品体験会 日本進出の足がかりに",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00091/?n_cid=nbpnxr_rss",
-      "summary": "ゲーム「DEATH STRANDING」シリーズとコラボした期間限定POPUPストアが渋谷PARCOで開催中だ。「STRAND（＝つながり）」をコンセプトにした店舗には、様々なメーカーとのコラボグッズが並ぶ。なかには、PARCOでは普段見かけないような外骨格ウエアラブルデバイスまであった。一見すると「なぜ？」と思うかもしれないが、ゲームに登場する装備「アクティブスケルトン」に類似した商品で、世界観を見事に再現したものだった。",
-      "published_at": "2026-08-04T12:05:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "コラボ",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-04T11:57:44+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "モスのプラントベース戦略に変化 女性に売れるキーワードは「米粉」",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02935/?n_cid=nbpnxr_rss",
-      "summary": "日本のハンバーガーチェーンで、プラントベースのメニューが健康志向や環境配慮、インバウンド需要を背景に拡大している。そんな中、モスバーガーは、主要原材料に動物性食材を使わない新たなプラントベースバーガーを発売し、既存の「ソイパティ」シリーズもリニューアルした。その狙いは何か。",
-      "published_at": "2026-08-04T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-04T11:57:44+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "インフレで「老後4000万円問題」時代に？ 「オルカンのみ」の見直し方",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00001/?n_cid=nbpnxr_rss",
-      "summary": "2026年8月4日発売の「日経トレンディ2026年9月号」では、「自分年金を増やす最新投資術」を特集。「老後2000万円問題」は、もはや過去の前提かもしれない。物価上昇が続けば、同じ生活を支えるために必要な資金は大きく膨らむ。預金だけでは資産価値が目減りする時代、NISAやiDeCo、投資信託の積み立てをどう活用すべきか。インフレ下での資産形成計画を見直すポイントを解説する。",
-      "published_at": "2026-08-04T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-04T11:57:44+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "アルペン、脱・安売りでEC売上2倍へ メディア機能強化で流入1.5倍",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01917/?n_cid=nbpnxr_rss",
-      "summary": "アルペンは中期経営計画で、2027年までに自社ECサイトの売上高を24年比で2倍以上に伸ばす目標を掲げる。これに向けて、ECシステムの刷新に加え、スタッフの専門知識を生かしたコンテンツを強化し、サイトへのオーガニック流入を1.5倍に増やした。背景にあるのは、価格訴求に偏った集客の限界である。現在進行中のEC改革をリポートする。",
-      "published_at": "2026-08-04T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-04T11:57:44+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "パナソニック「アラウーノ」デザインの裏側 売れ続ける秘密",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01103/00006/?n_cid=nbpnxr_rss",
-      "summary": "初代から現在まで機能を充実させながらブラッシュアップを重ね、2026年12月に発売20周年を迎えるロングセラーブランド「アラウーノ」。5代目担当デザイナーの神徳正章氏が継承し、目指した造形とは？",
-      "published_at": "2026-08-04T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-04T11:57:44+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "人気外食チェーンに学ぶ新・成長戦略",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94WVIzR0pDeEM3Y0RmUTAwS2ZRQzlIQ2o3UjF3YVloV2lyOHFrWnlSME5UU3BmYUpyWUNIalVkTDVodmw5YkQxRDlBZVBHeEMtOV9iUVpWcHo0c09Ob3lybmZoV215VmZaRjVMbjRCNWdZWXZQalZR?oc=5",
-      "summary": "人気外食チェーンに学ぶ新・成長戦略&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-03T10:43:56Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T20:11:54+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "アサヒ飲料初の女性社長 サイバー攻撃余波から「3つの矢」で反転攻勢 （2ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkI0ZUJ3WEI2cG9Zc3hlc2xqX1VzYmRuTDlqYWV3MWVIb0U2enFWM0VjMEN1RkRPbmtfRzVDRHFwYk5kaGJtUUJnVWZ4ZV9zRTBsWjhZVDV6VmpTWFF5d3FGRjhQM2d4N0ctZllqcEZxZ2tpMElqQ0ZaZmI0NFZacThidXYwTUphd0tCS2VxZVdvdDNZbndKMHhn?oc=5",
-      "summary": "アサヒ飲料初の女性社長 サイバー攻撃余波から「3つの矢」で反転攻勢 （2ページ目）&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-08-02T15:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-03T20:11:54+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -4652,128 +4728,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-06T11:57:19+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Dog Food Lawsuit Picks a Bone with Brand’s Nutrition Claims",
-      "url": "https://www.packagingdigest.com/labeling/dog-food-lawsuit-picks-a-bone-with-brand-s-nutrition-claims",
-      "summary": "The class-action suit alleges that The Farmer's Dog brand's marketing promised &quot;complete&quot; and &quot;balanced&quot; nutrition, while the website buried high fat content that could harm pets.",
-      "published_at": "2026-07-30T16:05:30Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 2
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-08-04T11:57:56+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "酒税法で大変革 ビール「新ポジショニングマップ」",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UOEllLTA1bnZUbHJNYkI4eHI3NjRjV0pGR2JlT1pUQ2hNN1hNaVBGS01qZERDQ0R0a0J0cThnelZmLWkyWGtLN2tYT0lsQkRzNndlQUx2UnV1aU00WWc?oc=5",
-      "summary": "酒税法で大変革 ビール「新ポジショニングマップ」&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-07-30T09:56:36Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-04T11:57:42+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "How beverage manufacturers are turning water reuse into a growth strategy",
-      "url": "https://www.fooddive.com/spons/how-beverage-manufacturers-are-turning-water-reuse-into-a-growth-strategy/826313/",
-      "summary": "Water reuse is no longer just a sustainability initiative. For beverage manufacturers, it's a strategic investment driving growth and resilience.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        },
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "并购融资",
-      "scraped_at": "2026-08-04T11:57:54+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Chocolate makers are defending themselves against cocoa price swings",
-      "url": "https://www.fooddive.com/news/chocolate-cocoa-prices-mondelez-hershey/826592/",
-      "summary": "Despite a recent decline in prices, Mondelēz International and Hershey are rethinking their supply chains and relying on innovation to reduce their dependence on the commodity.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-04T11:57:54+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "‘Bean Appétit’: How Jelly Belly is positioning itself as a luxury candy",
-      "url": "https://www.fooddive.com/news/jelly-belly-premium-candy-chocolate-ferrara/821429/",
-      "summary": "Ferrara is framing the jelly bean as an alternative to high-end chocolate, which has become a thriving category as consumers flock to premium offerings.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-04T11:57:54+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -6124,6 +6078,72 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-09-03T13:17:11+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Kraft Heinz invests $30M in Jet-Puffed plant",
+      "url": "https://www.fooddive.com/news/kraft-heinz-30-million-indiana-jet-puffed-facility/829432/",
+      "summary": "The facility in Kendallville, Indiana, is the sole producer of the company's marshmallow and caramel brands.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-04T13:12:56+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Keurig Dr Pepper sells equity stake back to Chobani for $800M",
+      "url": "https://www.fooddive.com/news/keurig-dr-pepper-sells-equity-stake-plant-chobani-split/829254/",
+      "summary": "The soda and coffeemaker said the transactions will help reduce debt as it prepares to split the company in early 2027.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 2
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-04T13:12:56+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "SNAP bans led to 12% decline in soda purchases",
+      "url": "https://www.fooddive.com/news/snap-soda-bans-purchase-decline-public-health-report/829303/",
+      "summary": "Recipients didn’t buy more sugary drinks with their own dollars, bucking a common theory held across the food industry, a new academic study found.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-04T13:12:56+08:00"
     }
   ]
 }
