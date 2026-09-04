@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-04T16:45:25.423033+08:00",
+  "last_updated": "2026-09-04T21:00:32.602192+08:00",
   "retention_days": 7,
-  "total": 501,
+  "total": 508,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,126 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "68b098aff9b5fda4",
+      "title": "New Beverages: Califia, Chobani Do Seasonal Flavors; BUM Energy x Ella Langley",
+      "summary": "Protein, fiber, prebiotics, a 'humble' oat milk and a Corporate Bro-- this week's gallery has it all.",
+      "url": "https://www.bevnet.com/news/2026/new-beverages-califia-choabani-do-seasonal-flavors-bum-energy-x-ella-langley",
+      "published_at": "2026-09-04T20:30:19+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8654c9aa087010da",
+      "title": "Frozen berry and sprout outbreaks grow as Cyclospora cases top 14,700 in Michigan",
+      "summary": "It’s Friday, Sept. 4, 2026. New illnesses have been reported in outbreaks linked to frozen imported berries and fresh sprouts, while Michigan’s Cyclospora patient count has climbed past 14,700. Also…",
+      "url": "https://www.foodsafetynews.com/2026/09/fr/",
+      "published_at": "2026-09-04T20:00:18+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "3ada58d18882f715",
+      "title": "カゴメ 個人株主対象に海外拠点ツアー 圃場見学で「畑は第一の工場」学ぶ",
+      "summary": "カゴメは8月22日から28日まで、個人株主を対象に海外拠点見学ツアーを実施。欧州のトマト加工拠点であるポルトガルのHolding da Industria Transformdora do Tomate（HIT）を見学 […] ソース",
+      "url": "https://shokuhin.net/156402/2026/09/04/%e8%be%b2%e6%b0%b4%e7%95%9c%e7%94%a3%e6%a5%ad/%e9%87%8e%e8%8f%9c/",
+      "published_at": "2026-09-04T18:26:54+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4dd63b9ce0188e1a",
+      "title": "今週新発売の菓子パン🍫まとめ！『スナックサンド　蒲郡みかん＆ミルク』、『プチチーズデニッシュ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンフジパン スナックサンド 蒲郡みかん＆ミルク 袋2個蒲郡みかん使用のジ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090408/?utm_source=rss&utm_medium=mognavinews_20260904",
+      "published_at": "2026-09-04T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6d9a2cc34f5324b4",
+      "title": "dsm-firmenich targets taste to improve medical nutrition adherence",
+      "summary": "dsm-firmenich is expanding its medical nutrition taste and flavour solutions to help manufacturers tackle sensory barriers to patient acceptance and adherence",
+      "url": "https://nutraceuticalbusinessreview.com/dsm-firmenich-targets-taste-improve-medical-nutrition-adherence",
+      "published_at": "2026-09-04T17:27:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "9b2aa24447114e71",
+      "title": "モランボン、「チャプチェまん」「チーズタッカルビまん」を新発売",
+      "summary": "モランボンは9月1日、「チャプチェまん」と「チーズタッカルビまん」を新発売した。 電子レンジで温めるだけで本格的な韓国料理を楽しめる「ワンハンド韓国グルメ」がコンセプトで、同社の韓国料理用調味料「韓の食菜」シリーズで培っ...",
+      "url": "https://www.ssnp.co.jp/frozen/700856/",
+      "published_at": "2026-09-04T17:26:16+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "e6b3a32a80a43ef1",
+      "title": "熊本県宇城市立小中学校、新学期1週目は簡易給食を提供、７日から通常給食へ",
+      "summary": "熊本県宇城市立の小・中学校では、地震により学校給食調理施設の一部において損壊などが発生したことから、新学期一週目は簡易給食を提供している。 提供献立は以下のとおり。8月31日（月）パン・牛乳・ヨーグルト9月1日（火）救給...",
+      "url": "https://www.ssnp.co.jp/feeding/700850/",
+      "published_at": "2026-09-04T17:01:01+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "f31922129b98f1a1",
+      "title": "Young Parents Are Rewriting Grocery Retail",
+      "summary": "Gen Z and younger parents are fragmenting grocery shopping across online, big-box, club, and convenience channels, which is forcing grocers to rethink loyalty, prepared foods, and pricing. The post…",
+      "url": "https://foodinstitute.com/retail/young-parents-rewriting-grocery-retail/?utm_source=rss&utm_medium=rss&utm_campaign=young-parents-rewriting-grocery-retail",
+      "published_at": "2026-09-04T17:00:11+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c89479121f00addd",
+      "title": "ファミマ、累計販売9,000万個の「極旨 黒豚まん」販売開始　「極旨 黒豚まんカレー」も登場",
+      "summary": "ファミリーマートは9月1日、ファミマの中華まんから「極旨 黒豚まん」と「極旨 黒豚まんカレー」を全国のファミリーマート約1万6,500店で発売した。価格はどちらも税込250円。 「極旨 黒豚まん」は2019年の発売以降、...",
+      "url": "https://www.ssnp.co.jp/distribution/700836/",
+      "published_at": "2026-09-04T16:48:35+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "0f5d872fdc278ba6",
+      "title": "獺祭、国内外の洪水・豪雨被災地に1億円支援 「獺祭MOON」の売上を充当 「お酒は世界が平和で皆が前向きであればこそ」",
+      "summary": "獺祭は4日、ネパールの洪水および国内の豪雨被災地（富山・石川・千葉・福井）に対し、総額1億円を寄付すると発表した。 支援金には宇宙空間で醸造した「獺祭MOON」の売上（1億1000万円）の大部分を充てる。当初は宇宙に […] ソース",
+      "url": "https://shokuhin.net/156398/2026/09/04/inryou/sake/",
+      "published_at": "2026-09-04T16:48:24+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "4a74487acf567868",
       "title": "「売れるもの」と「響くもの」",
@@ -5993,42 +6113,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "dddd87e8b3dc2482",
-      "title": "New Beverages: Protein Gains From David, Jocko & VKTRY; Sunny D Gets Spooky",
-      "summary": "Protein comes in all shapes and sizes in this week's new product gallery, all the way from 3.3 oz. shots (VKTRY) to David's new 30 gram shake. There's also new drops from Lapo's, Hiyo, Zevia, Saint…",
-      "url": "https://www.bevnet.com/news/2026/new-beverages-protein-gains-from-david-jocko-sunny-d-gets-spooky",
-      "published_at": "2026-08-28T20:30:38+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "b51250056f0e437f",
-      "title": "dsm-firmenich Board proposes Richard Ridinger as new Chairman",
-      "summary": "Richard Ridinger is proposed as successor to Thomas Leysen following his decision to retire from the Board",
-      "url": "https://nutraceuticalbusinessreview.com/dsm-firmenich-board-proposes-richard-ridinger-as-new",
-      "published_at": "2026-08-28T18:40:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "edc7d843484719eb",
-      "title": "今週新発売の明太子味まとめ！『旨さ相盛おむすび　旨辛高菜と明太子』、『明太フランス　かねふく明太子使用』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！明太子味の新商品情報をお届けします。今週新発売の#明太子味セブン-イレブン 旨さ相盛おむすび 旨辛高菜と明太子中具だけでなく、…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082808/?utm_source=rss&utm_medium=mognavinews_20260829",
-      "published_at": "2026-08-28T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
