@@ -1,32 +1,32 @@
 {
-  "total": 258,
-  "s_plus_count": 35,
+  "total": 256,
+  "s_plus_count": 34,
   "sites": [
-    "日経xTrend",
-    "Packaging Digest",
     "Food Dive",
+    "Packaging Digest",
+    "日経xTrend",
     "朝日グループYouTube",
     "日経新聞"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "新产品": 53,
-    "营销创新": 18,
+    "新产品": 52,
+    "营销创新": 17,
     "品牌故事": 18,
-    "其他": 111,
+    "其他": 115,
     "并购融资": 7,
-    "渠道新物种": 5,
+    "渠道新物种": 4,
     "新技术": 4,
-    "联名营销": 17,
+    "联名营销": 16,
     "新包装": 2,
-    "行业政策": 19,
-    "新原料": 4
+    "行业政策": 18,
+    "新原料": 3
   },
-  "last_updated": "2026-09-04 13:13",
-  "last_updated_iso": "2026-09-04T13:13:01.124959+08:00",
+  "last_updated": "2026-09-05 13:02",
+  "last_updated_iso": "2026-09-05T13:02:18.598020+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -137,6 +137,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-04T13:12:43+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（23ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOUWVmcVNvTVlFY3ZnR252T2plY3RWZlI3cTJzT01icTJ3dERJMWx4TFVlZmNBbDU0Y0l3TnI3MVA5a1R1bjlzT2s1TGUtQjRqTURKeVBHcF9oWHNHVmM0RlYwUGV3Zw?oc=5",
+      "summary": "食品・飲料（23ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-03T14:38:47Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-05T13:02:00+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -537,6 +559,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（144ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJQUJvMWVuRHRocWdNU1hhalJNWG5UM0gteXZCMjJWTUJ4V0lCdW00YjNpMV9jY2ctZEl5UEZFSWtRYmJ0UGhnNUhoMzhFb21RdmFWTHNKVGtJd25Tb2JaTElJUXhNVms?oc=5",
+      "summary": "食品・飲料（144ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T10:17:57Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-05T13:02:00+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（382ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81dXJERUZDenBGV2k5X21zeV8xX0tQekV1Umc1Vl9zYkMxaXE1WnlwZS1uTElfSjdUcjJNZEFxcVZSMnlnS3BBY1J1cmU3azRjTmhRbVdFUVNCWDdOZVBCU3hNc1lYSnc?oc=5",
+      "summary": "食品・飲料（382ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T10:16:18Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-05T13:02:00+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -1121,6 +1187,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-03T13:16:59+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（173ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QWnUxU0VldDd4bE8wUW5vdk1rbWZxSFRLQlJkeWRLZ3dQbDJmQk1CckRZUVhwc2ZLVEl2dTNIc3RyWkhQNzFlWnBLY1pQRnZkWC1nd2N5Q2NoYzdyV0lyaC15RUJnUG8?oc=5",
+      "summary": "食品・飲料（173ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-31T20:57:24Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-05T13:02:00+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -4586,128 +4674,6 @@
       "channel_name": "朝日グループYouTube"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "鍵はNISA・iDeCoの使い分け 「自分年金」で老後の資産不足を回避",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00002/?n_cid=nbpnxr_rss",
-      "summary": "2026年8月4日発売の「日経トレンディ2026年9月号」では、「自分年金を増やす最新投資術」を特集。公的年金だけで老後を乗り切れる時代は終わった。物価高や医療費負担の増加で、老後の家計は支出超過に陥りやすい。資産を取り崩すだけでは、いつか底を突く恐れがある。公的年金に加え、NISA・iDeCo、国債や預金などの「自分年金」をどう構築すればよいのか。老後資産を守り、増やすための実践策を探る。",
-      "published_at": "2026-08-05T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-05T11:52:22+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "すかいらーくが高単価ファミレスを投入 「お手軽ヌン活」で新需要開拓",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01441/00001/?n_cid=nbpnxr_rss",
-      "summary": "インフレによる原材料の高騰などもあり、客単価アップはあらゆる外食業態に共通する喫緊の課題だ。値上げをせずメニューを絞り低価格を維持するサイゼリヤのような戦略をとる店もあれば、既存の店舗を新業態に転換する店もある。中でも店舗を急増させるなど好調なのが、すかいらーくHDがガスト跡地などで相次いで展開する「イタリアン リゾート ペルティカ」だ。なんと、ドリンクバーの価格はガストの約2倍。それでも利用客を引き付けている。全長10m超のドリンクバーや、客自身が料理を仕上げる体験型メニューを、どのような狙いで組み合わせたのか。高単価でも選ばれるファミレスの設計思想を追った。",
-      "published_at": "2026-08-05T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "渠道新物种",
-          "icon": "🏪",
-          "color": "#0f766e",
-          "score": 1
-        }
-      ],
-      "primary_category": "渠道新物种",
-      "scraped_at": "2026-08-05T11:52:22+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "最新Claude「Fable 5」でAI巧者との格差広がる インサイト発見の新作法",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01433/00005/?n_cid=nbpnxr_rss",
-      "summary": "米Anthropicの最新AIモデル「Claude Fable 5」など進化したAIの登場によって、調査設計から定性分析と、マーケティングリサーチの可能性は大きく広がった。わずか30分で調査票を作成し、専門家も思いつかなかった分析アプローチも提案する。もはやプロンプトの巧拙ではない。マーケティングの専門知識を持ちながらも、AI活用の作法を十分に身につけた人こそ、高い成果を引き出せる。その格差が今、広がりつつあると指摘するデータサイエンティストの松本健太郎氏に最新AIの実践的な活用法を聞いた。",
-      "published_at": "2026-08-05T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-08-05T11:52:22+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "スタバ×霧島酒造「引き算」の店舗開発 心地いい空間づくり3つの鍵",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01427/00002/?n_cid=nbpnxr_rss",
-      "summary": "サステナビリティーも、ブランドの世界観も、あえて言葉で説明しない――。この施設には、案内図もメニューボードも、環境への取り組みを長々と示すパネルも、意図して「置かない」判断がされている。スターバックスと霧島酒造の協業拠点「KIRISHIMA GREENSHIP icoia」。あえて説明しすぎないことが、来訪者の自由な感性と関心を引き出し、対話を味わう余白を生んでいた。",
-      "published_at": "2026-08-05T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-05T11:52:22+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Spider-Man Turns Bero Beer Packaging Upside Down",
-      "url": "https://www.packagingdigest.com/beer-wine-spirits/spider-man-turns-bero-beer-packaging-upside-down",
-      "summary": "Limited-edition collectible cans and cartons celebrate “Spider-Man: Brand New Day” movie with inverted design that makes the packaging part of the story.",
-      "published_at": "2026-08-04T14:08:53Z",
-      "is_s_plus": true,
-      "s_plus_reason": "limited-edition",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-05T11:52:34+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -4728,78 +4694,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-06T11:57:19+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Leftovers: Chips Ahoy! launches first mystery flavor | Sam Adams goes booze-free for Octoberfest",
-      "url": "https://www.fooddive.com/news/chips-ahoy-mystery-sam-adams-nonalcoholic-octoberfest-chef-boyardee-protein/826712/",
-      "summary": "The Mondelēz-owned brand is inviting fans to submit guesses for the chance at a $25,000 prize, while Chef Boyardee rolls out high-protein innovation to the canned pasta aisle.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-05T11:52:32+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "How the shift away from artificial dyes is impacting food sales",
-      "url": "https://www.fooddive.com/news/artificial-dyes-natural-colors-food-nca-rti-report/826631/",
-      "summary": "Sales of products with natural colors grew more than those using synthetic dyes, a report from the National Confectioners Association and RTI International found.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-08-05T11:52:32+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "How 6 big beverage brands are embracing functional ingredients",
-      "url": "https://www.fooddive.com/news/how-6-big-beverage-brands-are-embracing-functional-ingredients/826643/",
-      "summary": "Established brands are looking to stand out in a crowded sector by identifying white spaces and introducing new-to-category innovations.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 2
-        },
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新原料",
-      "scraped_at": "2026-08-05T11:52:32+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -6144,6 +6038,50 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-09-04T13:12:56+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Athletic Brewing appoints new CMO amid marketing push",
+      "url": "https://www.fooddive.com/news/athletic-brewing-appoints-new-cmo-amid-marketing-push/829461/",
+      "summary": "The appointment comes as the brand continues to invest heavily in sports sponsorships and is doubling down on its national media spend.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-05T13:02:13+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nestlé reaches $1B deal to sell 7 vitamin, mineral and supplement brands",
+      "url": "https://www.fooddive.com/news/nestle-sell-mainstream-vitamins-minerals-supplements-business-to-private-equity/829321/",
+      "summary": "The company said the divestiture of mainstream offerings, including Nature’s Bounty and Ester-C, will allow it to prioritize businesses with the “strongest competitive advantage.”",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-05T13:02:13+08:00"
     }
   ]
 }
