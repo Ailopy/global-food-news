@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-05T16:15:55.627065+08:00",
+  "last_updated": "2026-09-05T20:13:00.968597+08:00",
   "retention_days": 7,
-  "total": 511,
+  "total": 510,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,18 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "19adcd2247dab7c6",
+      "title": "今週新発売の惣菜パンまとめ！『じっくりコトコト旨深クラムチャウダー風パン』、『じっくりコトコト感動コーンポタージュパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パン第一パン じっくりコトコト旨深クラムチャウダー風パンあさりの旨みがとけ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090508/?utm_source=rss&utm_medium=mognavinews_20260905",
+      "published_at": "2026-09-05T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "f63c9a3bec823392",
       "title": "今週新発売の食パン・ロールパンまとめ！『本仕込山型九州産小麦』、『本仕込九州産小麦』など♪",
@@ -6121,30 +6133,6 @@
       "url": "https://shokuhin.net/155954/2026/08/29/kakou/kashi/",
       "published_at": "2026-08-29T20:52:16+08:00",
       "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "a15e491301bff8be",
-      "title": "今週新発売のおつまみまとめ！『たんぱく質が摂れるスタミナ旨辛納豆』、『国産鶏の鶏皮チップス』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！おつまみの新商品情報をお届けします。今週新発売の#おつまみセブン-イレブン たんぱく質が摂れるスタミナ旨辛納豆鶏ガラだしと醤油…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082908/?utm_source=rss&utm_medium=mognavinews_20260830",
-      "published_at": "2026-08-29T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "f9d4db7b2961325c",
-      "title": "今週新発売のおつまみまとめ！『たんぱく質が摂れるスタミナ旨辛納豆』、『国産鶏の鶏皮チップス』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！おつまみの新商品情報をお届けします。今週新発売の#おつまみセブン-イレブン たんぱく質が摂れるスタミナ旨辛納豆鶏ガラだしと醤油…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026082908/?utm_source=rss&utm_medium=mognavinews_20260829",
-      "published_at": "2026-08-29T17:30:00+08:00",
-      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
