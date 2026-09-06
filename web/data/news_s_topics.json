@@ -1,33 +1,121 @@
 {
-  "total": 256,
-  "s_plus_count": 34,
+  "total": 251,
+  "s_plus_count": 32,
   "sites": [
-    "Food Dive",
-    "Packaging Digest",
-    "日経xTrend",
     "朝日グループYouTube",
-    "日経新聞"
+    "Food Dive",
+    "日経新聞",
+    "日経xTrend",
+    "Packaging Digest"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "新产品": 52,
+    "其他": 117,
+    "新产品": 49,
     "营销创新": 17,
     "品牌故事": 18,
-    "其他": 115,
     "并购融资": 7,
     "渠道新物种": 4,
-    "新技术": 4,
-    "联名营销": 16,
+    "新技术": 2,
+    "联名营销": 14,
     "新包装": 2,
     "行业政策": 18,
     "新原料": 3
   },
-  "last_updated": "2026-09-05 13:02",
-  "last_updated_iso": "2026-09-05T13:02:18.598020+08:00",
+  "last_updated": "2026-09-06 13:15",
+  "last_updated_iso": "2026-09-06T13:15:04.130045+08:00",
   "articles": [
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（167ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FUnhURUZDdndfUDlzOUV4TklpMFdqMm5XZEt0MmpydTVCOHlVdFhyRlVzcDZUUy1XYzBVVTlHQkZybFRGM0Nxb2R6YklYSHYzSVNrczRGNGZ6aXN6TmFsazRZRFZOWEE?oc=5",
+      "summary": "食品・飲料（167ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-04T18:29:12Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-06T13:14:47+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（155ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rclZ4Mm5XWE9oSkxzQnZfc3A4UGM1T2d6WkZtQjFuVkxpeUh1Z3pIZlZpaGtmbXVYVGFaRnBsSzVkejRvbFFYNzVwRUhwWkZYQWE1QlJsd2Z5SWJlYXAyOGlWaXhHTFU?oc=5",
+      "summary": "食品・飲料（155ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-04T16:26:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-06T13:14:47+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（377ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvaFRIcDl5bXB4Sy1KWHBJd0NhdjZTTlJJS0ZHclJjYTBJQUI5UXZEaW1rNHNJam1BNkg2ZDZqU3FsY2oyYWF5c0xuLVI0X3V0QkF6eld2SWVnVnhnQ0JXLXV1OUs1Vkk?oc=5",
+      "summary": "食品・飲料（377ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-04T15:41:52Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-06T13:14:47+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（148ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VktWZmlBcUdidE1pTWlIU0VXdlFoVDhXMGhoU0VUbEJhRnhPSG0wa3F2Uk1oSER6aE1VRVo1Yjk4NWlJa1RZWVY5UGNfT1RrX1RySWpwVENRNDRSX1lvZ043T2hxQ3M?oc=5",
+      "summary": "食品・飲料（148ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-04T14:01:28Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-06T13:14:47+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -713,6 +801,28 @@
       ],
       "primary_category": "品牌故事",
       "scraped_at": "2026-09-02T13:12:42+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（364ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92dVlhcFNOeVFHMk1wTG5qY3d6MFg3Y1dSaXR6endSVmZuelVYcGNUcFRfMVlPeENYelpDbWtpUTNpaUYxOU1xc2pseXpqaXVuQVVZVTVURXJITzhoeDQ3Y3lXMUNQb0E?oc=5",
+      "summary": "食品・飲料（364ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-01T19:35:32Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-06T13:14:47+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -4527,128 +4637,6 @@
       "scraped_at": "2026-08-07T11:43:12+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "「藤原竜也の顔入りレタス」1万個販売 味の素「Cook Do」の仰天販促",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02938/?n_cid=nbpnxr_rss",
-      "summary": "味の素は2026年7月21日、JA全農長野と共同でレタスの消費を促進するキャンペーン、『「Cook Do」オイスターソース 藤原竜也の「買ってくレタス」』を発表した。レタスを、俳優の藤原竜也さんの顔がプリントされたフィルムで包み、1万個限定で販売するというもの。見た目のインパクトで購買を促し、レタスのフードロス削減を狙う。",
-      "published_at": "2026-08-06T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "見た目",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-06T11:57:21+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "売り上げ“まぐろ級” くら寿司の健康メニューが「食べ順」提案で成功",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01441/00002/?n_cid=nbpnxr_rss",
-      "summary": "回転すしチェーン各社が、すしネタの豪華さや期間限定フェア、サイドメニューの充実で差別化を競う中、くら寿司が新たに着目したのは「すしを食べる前」だった。2026年4月に発売した「健康シリーズ食前の一皿」は、野菜や海藻などを食事の最初に取ることを提案。なんとシリーズ合計で、まぐろなどの主力商品に迫る売れ行きを記録した。同社は以前も糖質オフ商品を展開していたが、方針転換に伴い、一部を除いて販売を終了した過去がある。今回は健康メニューを我慢や制限のためのものから、外食を楽しむための選択肢へと再設計したという。この「食前提案」をヒットに導いた3つの工夫を深掘りする。",
-      "published_at": "2026-08-06T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-06T11:57:21+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "AIバブルで株価高騰も遅くない 正しい「仕込み時」と追うべき“二兎”",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00003/?n_cid=nbpnxr_rss",
-      "summary": "2026年8月4日発売の「日経トレンディ2026年9月号」では、「自分年金を増やす最新投資術」を特集。史上最高値を更新した日経平均株価。高値圏が続く今、「日本株に手を出しにくい」と感じる人もいるだろう。だが識者の多くは、2026年後半に調整局面が訪れ、絶好の買い場になると見る。その先には、日本企業の成長力やAI革命を追い風に、さらなる上昇余地も。株価下落をチャンスに変えるには何を買うべきか。ブーム株と割安株を狙う“二兎追い”戦略を探る。",
-      "published_at": "2026-08-06T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-06T11:57:21+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "コミコンナポリ 主催者が語る日本コンテンツへの期待と2026年の進化点",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01440/00001/?n_cid=nbpnxr_rss",
-      "summary": "米国や東アジアのイベントに注目が集まる一方で、日本コンテンツへの根強い需要を持つ欧州市場。そのなかでも近年、存在感を高めているのがイタリアのポップカルチャーイベント「コミコンナポリ」だ。2026年は来場者数約18万人規模に達し、日本コンテンツの比率も約25～30％まで拡大。芸術監督マッテオ・ステファネッリ氏を取材し、イベントの強みや日本企業にとっての価値、欧州市場攻略のヒント、そして今後の展望を聞いた。",
-      "published_at": "2026-08-06T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-06T11:57:21+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "「進研ゼミ」に漢字学習用『タッチでぷよぷよ』登場 コラボの狙いは？",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00090/?n_cid=nbpnxr_rss",
-      "summary": "2026年7月25日から期間限定で、ベネッセコーポレーションが提供する通信教材「進研ゼミ 小学講座」チャレンジタッチ内にて、コラボゲーム『タッチでぷよぷよ』が遊べるようになった。通常の「ぷよぷよ」に加えて、漢字が書かれたぷよをつなげるオリジナルの「漢字モード」を搭載。遊びながら学べるのが大きな特徴だ。だが、ゲーミフィケーションを活用した漢字学習ならば、ほかにも選択肢はあったはず。「ぷよぷよ」とのコラボを決めたのはなぜだろうか。",
-      "published_at": "2026-08-06T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "コラボ",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-06T11:57:21+08:00"
-    },
-    {
       "site_name": "朝日グループYouTube",
       "site_name_en": "Asahi Group YouTube",
       "region": "日本",
@@ -4672,116 +4660,6 @@
       "is_video": true,
       "video_thumbnail": "https://i2.ytimg.com/vi/qA-uYTfTwto/hqdefault.jpg",
       "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "アサヒ飲料初の女性社長 サイバー攻撃余波から「3つの矢」で反転攻勢 （2ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwR2xCenhac0lzQnAwTE9CZF9nU3c5ZURDQmh4SDdPaTcwUTZjcUVFVnpfS3U4TWtzRjhGR1dVWF9SamJOd0N5dnVZdVl3QW05VXNiYTFtQmx6Qmc5STZfZDdONVNMNFpNa2pUb0RDWnBDUQ?oc=5",
-      "summary": "アサヒ飲料初の女性社長 サイバー攻撃余波から「3つの矢」で反転攻勢 （2ページ目）&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-08-02T15:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-06T11:57:19+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Cup Noodles maker taps AI to sharpen planning, reduce costs",
-      "url": "https://www.fooddive.com/news/cup-noodles-maker-taps-ai-to-sharpen-planning-reduce-costs/826488/",
-      "summary": "Nissin Foods expects to record increased fill rates and improved forecasting accuracy by using an AI-powered demand and supply planning tool.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新技术",
-          "icon": "⚡",
-          "color": "#0891b2",
-          "score": 1
-        }
-      ],
-      "primary_category": "新技术",
-      "scraped_at": "2026-08-06T11:57:30+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "AI is becoming the co-agent for food scientists",
-      "url": "https://www.fooddive.com/spons/ai-is-becoming-the-co-agent-for-food-scientists/826434/",
-      "summary": "See how AI is accelerating R&D formulation—without replacing food scientists.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新技术",
-          "icon": "⚡",
-          "color": "#0891b2",
-          "score": 1
-        }
-      ],
-      "primary_category": "新技术",
-      "scraped_at": "2026-08-06T11:57:30+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Why cereal box toys are making a comeback",
-      "url": "https://www.fooddive.com/news/wk-kellogg-cereal-box-toys-nostalgia-toy-story-5/826814/",
-      "summary": "Companies like WK Kellogg are looking to tap into the nostalgia that millennial and Gen X parents feel for the childhood ritual of scooping out the tiny treasures.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-06T11:57:30+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Shoppers are buying less meat, data shows",
-      "url": "https://www.fooddive.com/news/meat-volume-june-2026-inflation-grocery-supermarkets/826639/",
-      "summary": "Customers purchased fewer pounds of fresh and processed proteins, including beef, bacon and lamb, in June as prices continued to rise.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-06T11:57:30+08:00"
     },
     {
       "site_name": "Food Dive",
