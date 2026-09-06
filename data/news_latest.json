@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-06T16:35:13.478653+08:00",
+  "last_updated": "2026-09-06T20:27:44.386758+08:00",
   "retention_days": 7,
-  "total": 515,
+  "total": 510,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,30 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "40f390e5eddd9c9b",
+      "title": "ポッカサッポロ「じっくりコトコト」ブランド誕生30周年　食事や生活のクオリティを上げる存在へ「じっくり製法」を訴求",
+      "summary": "ポッカサッポロフード＆ビバレッジは、「じっくりコトコト」ブランドが今年で誕生30周年を迎えたことを機に、手間暇をかけた味わいを訴求し飲用を促していく。 8月18日、発表会に登壇した佐々木恭子マーケティング本部ブランド […] ソース",
+      "url": "https://shokuhin.net/156421/2026/09/06/kakou/",
+      "published_at": "2026-09-06T20:20:56+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "89606fa9834227a3",
+      "title": "GRAS, beef, trade talks still center stage",
+      "summary": "Highlights from this summer",
+      "url": "https://www.foodsafetynews.com/2026/09/gras-beef-trade-talks-still-center-stage/",
+      "published_at": "2026-09-06T20:00:11+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "2bc554bcf010fac8",
       "title": "今週新発売の惣菜パンまとめ！『月夜のベーコンエッグマフィン』、『柚子胡椒たまごぱん』など♪",
@@ -6113,90 +6137,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "2260e0d2ff8f4e7f",
-      "title": "Sunday Edition: Taylor Farms",
-      "summary": "Just how big has Taylor Farms become? Every week, it is responsible for 265 million servings of fresh produce throughout North America.",
-      "url": "https://www.foodsafetynews.com/2026/08/sunday-edition-taylor-farms/",
-      "published_at": "2026-08-30T20:00:26+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "22cb251279837f80",
-      "title": "多種多彩！セブン-イレブンの麺のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「セブン-イレブンの麺」の最新・注目度ランキングです♪（2026年8月28日更新）食品クチコミサイト「もぐナビ」に投稿さ…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-26149/?utm_source=rss&utm_medium=mognavinews_20260901",
-      "published_at": "2026-08-30T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "d7b57c34b7a44be4",
-      "title": "多種多彩！セブン-イレブンの麺のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「セブン-イレブンの麺」の最新・注目度ランキングです♪（2026年8月28日更新）食品クチコミサイト「もぐナビ」に投稿さ…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-26149/?utm_source=rss&utm_medium=mognavinews_20260831",
-      "published_at": "2026-08-30T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "25be513c32ec1754",
-      "title": "多種多彩！セブン-イレブンの麺のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「セブン-イレブンの麺」の最新・注目度ランキングです♪（2026年8月28日更新）食品クチコミサイト「もぐナビ」に投稿さ…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-26149/?utm_source=rss&utm_medium=mognavinews_20260830",
-      "published_at": "2026-08-30T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "0f2f6db895c6f24d",
-      "title": "今週新発売のたまご味まとめ！『ゴロっと食感のたまごロール』、『フライドチキンとたまごのサンド』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！たまご味の新商品情報をお届けします。今週新発売の#たまご味ローソン ゴロっと食感のたまごロールたまごの風味がしっかり感じられる…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026083008/?utm_source=rss&utm_medium=mognavinews_20260901",
-      "published_at": "2026-08-30T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "5fd12c21bdc1af27",
-      "title": "今週新発売のたまご味まとめ！『ゴロっと食感のたまごロール』、『フライドチキンとたまごのサンド』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！たまご味の新商品情報をお届けします。今週新発売の#たまご味ローソン ゴロっと食感のたまごロールたまごの風味がしっかり感じられる…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026083008/?utm_source=rss&utm_medium=mognavinews_20260831",
-      "published_at": "2026-08-30T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "b47d84a00287d841",
-      "title": "今週新発売のたまご味まとめ！『ゴロっと食感のたまごロール』、『フライドチキンとたまごのサンド』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！たまご味の新商品情報をお届けします。今週新発売の#たまご味ローソン ゴロっと食感のたまごロールたまごの風味がしっかり感じられる…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026083008/?utm_source=rss&utm_medium=mognavinews_20260830",
-      "published_at": "2026-08-30T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
