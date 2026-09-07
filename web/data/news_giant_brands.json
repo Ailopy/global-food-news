@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-07T13:22:51",
+  "last_updated": "2026-09-07T21:11:08",
   "retention_days": 7,
-  "total": 542,
+  "total": 545,
   "s_count": 35,
   "a_count": 4,
-  "b_count": 503,
+  "b_count": 506,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -107,6 +107,39 @@
       "region": "韩国",
       "title": "CJ제일제당, 차세대 식품 조미소재 사업 성장 속도 낸다…싱가포르에 ‘글로벌 테크니컬 센터’ 개관2026.09.07",
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1814",
+      "published_at": "2026-09-07T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.07日清食品「完全メシ 汁なしカップヌードル」「完全メシ 汁なしカップヌードル シーフードヌードル」(9月21日発売)",
+      "url": "https://www.nissin.com/jp/news/13916/",
+      "published_at": "2026-09-07T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.07日清食品「完全メシ 日清焼そばU.F.O.」(9月21日発売)",
+      "url": "https://www.nissin.com/jp/news/13911/",
+      "published_at": "2026-09-07T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.07日清シスコ「ココナッツサブレミニ キャラメルブリュレ味」(9月21日発売)",
+      "url": "https://www.nissin.com/jp/news/13914/",
       "published_at": "2026-09-07T00:00:00",
       "summary": "",
       "level": "B",
