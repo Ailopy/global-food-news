@@ -1,33 +1,149 @@
 {
-  "total": 251,
-  "s_plus_count": 32,
+  "total": 252,
+  "s_plus_count": 31,
   "sites": [
-    "朝日グループYouTube",
-    "Food Dive",
-    "日経新聞",
     "日経xTrend",
-    "Packaging Digest"
+    "朝日グループYouTube",
+    "Packaging Digest",
+    "日経新聞",
+    "Food Dive"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "其他": 117,
-    "新产品": 49,
+    "新产品": 51,
     "营销创新": 17,
+    "其他": 120,
     "品牌故事": 18,
     "并购融资": 7,
     "渠道新物种": 4,
     "新技术": 2,
-    "联名营销": 14,
+    "联名营销": 12,
     "新包装": 2,
-    "行业政策": 18,
-    "新原料": 3
+    "行业政策": 17,
+    "新原料": 2
   },
-  "last_updated": "2026-09-06 13:15",
-  "last_updated_iso": "2026-09-06T13:15:04.130045+08:00",
+  "last_updated": "2026-09-07 13:23",
+  "last_updated_iso": "2026-09-07T13:23:41.959409+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ANA／JALマイルかWAON POINT交換か 5大共通ポイントの出口戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00002/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。「PayPayポイント」や「dポイント」などに代表される「共通ポイント」は、「どう使うか」という「出口戦略」が重要になっている。WAON POINTやマイルへの交換、ポイント運用の活用術など、1P＝1円超の価値を狙うための最適ルートを徹底解説する。",
+      "published_at": "2026-09-07T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-07T13:23:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【お得な購読キャンペーン】日経クロストレンドのリニューアルキャンペーン開始！ 月額プランも年額プランもお得に",
+      "url": "https://xtrend.nikkei.com/info/18/00006/00451/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドは2026年9月1日から、リニューアルを記念したキャンペーンを開始しました。月額プランが「最大2カ月無料」、年額プランも通常12カ月のところ、14カ月間お読みいただけます。リニューアルに合わせて掲載する5大特集、専門家による新連載、毎月提供する独自データをお得に利用いただけるチャンスです。",
+      "published_at": "2026-09-07T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-07T13:23:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「サントリー『－196』の競合の盲点を突く戦略 調査で見えた消費者の真実」 ちょうど1年前振り返りランキング",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00130/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年9月7日～10月4日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
+      "published_at": "2026-09-07T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-07T13:23:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アサヒ・ドライを追うサントリーの思惑 ノンアルにエールの風",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01459/00005/?n_cid=nbpnxr_rss",
+      "summary": "ノンアルビールに“新風”を吹き込めるか。サントリーが2026年4月に発売した「オールフリー〈エールテイスト〉」が売れ行き好調だ。新商品の初動を採点する独自指標「ヒット商品指数」では、65の高スコアを記録した。近年、ノンアルコール飲料市場は拡大を続け、ビール大手は続々と新商品を展開している。そんな中で、サントリーの狙いはどこにあるのか。人気ブランド「オールフリー」の強みを生かしながら、企画開発やプロモーションを組み合わせる、その戦略に迫る。",
+      "published_at": "2026-09-07T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-07T13:23:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "USJで『バイオハザード』新アトラクション 未来消費カレンダー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00246/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年9月11日「USJ、『バイオハザード レクイエム』 ザ・ダイブ開催」ほか18件の情報を追加した。",
+      "published_at": "2026-09-07T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-07T13:23:27+08:00"
+    },
     {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
@@ -4453,150 +4569,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "名門ブランパンの人気モデル 「ヴィルレ ウルトラスリム」に待望の小径38ミリ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWWpUbWxQUHhycjVfMlBUOHlzQkp0ekp4QWVyYkdCaGpLVUlqTENJU3F5cXpHcHdlSzBMWWF2LXNjbE1EUUl3T215VlRWN1M1VW5GYl9pVVdVMW9LM1lIcS0wOXFZc2FMX2JNeg?oc=5",
-      "summary": "名門ブランパンの人気モデル 「ヴィルレ ウルトラスリム」に待望の小径38ミリ&nbsp;&nbsp;THE NIKKEI MAGAZINE",
-      "published_at": "2026-08-07T01:09:25Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-07T11:43:12+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "最初はタイミーでもOK 横展開による「循環型副業」で月10万円を目指せ",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00004/?n_cid=nbpnxr_rss",
-      "summary": "2026年8月4日発売の「日経トレンディ2026年9月号」では、「自分年金を増やす最新投資術」を特集。老後資金づくりには投資が注目されるが、実は最も確実な「自分年金」は働き続けて収入を得ることかもしれない。副業解禁の流れが広がる一方、スポットワークやクラウドソーシングだけで月10万円を安定して稼ぐのは容易ではない。そこで鍵となるのが、単発案件で得た経験を継続収益へとつなげる「循環型副業」だ。40、50代からでも実践できる3本柱の戦略と、老後に強い収入基盤の築き方を解説する。",
-      "published_at": "2026-08-07T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-07T11:43:14+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "映画界トップ対談 ディズニー×イオンシネマが明かす新たな劇場“体験型”モデル",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00934/00013/?n_cid=nbpnxr_rss",
-      "summary": "ウォルト・ディズニー・ジャパンで全作品の配給・劇場での宣伝戦略を統括する佐藤英之ゼネラルマネージャーと、イオンシネマとして全国99劇場を展開するイオンエンターテイメント代表取締役社長の藤原信幸氏が対談。配信全盛の時代に観客が劇場に求めるものは何か。そしてショッピングモールという場は映画とどう結びつくのか。現在大ヒット中の『トイ・ストーリー5』も引き合いに出しつつ、ディズニーIP、ショッピングセンター内のシアター、両社それぞれの立場から見えてきた新たな循環の形とは。（取材は2026年7月中旬に実施）",
-      "published_at": "2026-08-07T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "大ヒット",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-07T11:43:14+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "スタバの異業種コラボが成功する理由 「なぜやるか」が共通言語",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01427/00003/?n_cid=nbpnxr_rss",
-      "summary": "霧島酒造とスターバックスという業種も成り立ちも異なる2社が、ひとつの施設を運営している。注目すべきは、両社の間に明確な境界線がないことだ。決めごとを超えた相互扶助と目線合わせが、来訪者の心地よさを生み、施設を“一度きりの話題”ではなく、“続く場所”に変えている。",
-      "published_at": "2026-08-07T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "話題",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-07T11:43:14+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ジャングリアのジレンマ 米国でも“同種”のユニバ新テーマパークが物議",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01413/00002/?n_cid=nbpnxr_rss",
-      "summary": "入場者数が1日平均2000人台後半のテーマパーク――。2026年7月25日、これまで賛否が分かれたジャングリア沖縄の現時点での実力が明らかになった。ちょうど1年前に開業して以降、同施設に対する消費者の関心度は高く、様々な意見がメディアやSNSで展開された。運営会社は政府系金融機関の沖縄振興開発金融公庫からも融資を受けており、世間から注がれる視線に厳しさが含まれた面があったかもしれない。さて、国内外のテーマパークに精通し、裏事情にも明るい識者はどう見ているのか。",
-      "published_at": "2026-08-07T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-07T11:43:14+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "オプトがClaude「スキル」260個を量産 AIに広告運用ノウハウ学ばせる秘訣",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01433/00006/?n_cid=nbpnxr_rss",
-      "summary": "米Anthropicの生成AI「Claude」は、業務フローを自動化するための機能「スキル」を備えている。このスキルの開発方法が、AIエージェントを活用し、業務を効率化するうえでの大きな鍵となる。広告代理店のオプトなど先進企業に組織内で効果的なAIエージェントを育てるための秘訣を聞いた。",
-      "published_at": "2026-08-07T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-08-07T11:43:14+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "エスビー食品株が最高値 スパイス効いた値上げ、収益拡大期待",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlUWpNdjJGWHVXaEt4S0F4SFRwYUhrR2FrLTVrRGZLLWRyUFliaGZIOE1IN0NRaUt1Y1dTOFJwbU9TZ3VmTy00MFhzdnBqeURRU1RGT1R1QmZfWDYzcFhrNE5IX001dElnR0lhYk9hSS01dmdkV240RVRKeGdzZw?oc=5",
       "summary": "エスビー食品株が最高値 スパイス効いた値上げ、収益拡大期待&nbsp;&nbsp;nikkei.com",
@@ -4613,28 +4585,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-10T11:05:16+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "【写真特集】隠岐、大地の鼓動を映す島 旬の食材も満喫",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XTW95cnlxWEFldWRfcU84b2lENFdNY0FNN25ta1hQYjdPekowRkVMazRESVpYZGgzWGJCekRXZHJRV0FOMmpGU1BUMzdIM2xvNUlVanNGdzJmNE4wQ2RyWEN3MG0wOGxhS0FVQkhoaXRoQQ?oc=5",
-      "summary": "【写真特集】隠岐、大地の鼓動を映す島 旬の食材も満喫&nbsp;&nbsp;THE NIKKEI MAGAZINE",
-      "published_at": "2026-08-06T03:58:49Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-07T11:43:12+08:00"
     },
     {
       "site_name": "朝日グループYouTube",
@@ -4660,84 +4610,6 @@
       "is_video": true,
       "video_thumbnail": "https://i2.ytimg.com/vi/qA-uYTfTwto/hqdefault.jpg",
       "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "The biggest food M&A deals of 2026 so far",
-      "url": "https://www.fooddive.com/news/food-ma-acquisitions-2026-ingredients/827075/",
-      "summary": "Companies focused on clean-label ingredients and high-protein made up the bulk of acquisition activity as big brands strategically capitalize on new trends.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        },
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "新原料",
-      "scraped_at": "2026-08-07T11:43:24+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Jameson teams with NFL as global sponsor amid spirits market struggles",
-      "url": "https://www.fooddive.com/news/jameson-teams-with-nfl-as-global-sponsor-amid-spirits-market-struggles/826980/",
-      "summary": "The Pernod Ricard brand will have exclusive marketing rights as the official spirits sponsor of the league, which is continuing its international push.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-07T11:43:24+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Tyson suggests high beef prices face long recovery",
-      "url": "https://www.fooddive.com/news/tyson-beef-prices-earnings/826942/",
-      "summary": "The meat giant said the Trump administration's efforts to boost supply are unlikely to make a significant impact in the near-term.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-08-07T11:43:24+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -5960,6 +5832,138 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-05T13:02:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米特使、ゼレンスキー氏に「戦争終結案」提示3カ国協議の再開模索",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOGR0701D0X00C26A9000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-07T13:23:25+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "放出備蓄米59万トン、再び「封印」作戦買い戻しでは足りず倉庫保管",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOUB033EE0T00C26A9000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-07T13:23:25+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「リフレやめよ」しびれ切らすベッセント氏日米、新たな摩擦の火種",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOGN052ZN0V00C26A9000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-07T13:23:25+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米同時テロ後、むしろ世界はフラットに相互依存と技術革新の四半世紀",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOCD031WA0T00C26A9000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-07T13:23:25+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米中のAI覇権争い、性能は肉薄資金力の米vsコスパの中国",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOCD175A10X10C26A8000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-07T13:23:25+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米の現代自EV工場で見たロボ1400体対ヒト比率は2:1、平均の3倍超",
+      "url": "https://xtrend.nikkei.com/article/DGXZQOGN19BGL0Z10C26A8000000/",
+      "summary": "",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-07T13:23:25+08:00"
     }
   ]
 }
