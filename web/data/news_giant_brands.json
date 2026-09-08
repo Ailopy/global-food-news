@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-08T13:25:29",
+  "last_updated": "2026-09-08T19:55:26",
   "retention_days": 7,
-  "total": 547,
+  "total": 558,
   "s_count": 35,
   "a_count": 4,
-  "b_count": 508,
+  "b_count": 519,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,17 @@
   ],
   "articles": [
     {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "「ボトル入り さらさらとける お～いお茶 抹茶入り緑茶」「同 健康ミネラルむぎ茶」を9月21日（月）に新発売",
+      "url": "https://www.itoen.co.jp/news/article/91556/",
+      "published_at": "2026-09-08T05:59:46",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -63,6 +74,17 @@
       "region": "日本",
       "title": "2026.09.08湖池屋「湖池屋 復活総選挙～ポテトチップス編～」(9月8日からスタート)",
       "url": "https://www.nissin.com/jp/news/13917/",
+      "published_at": "2026-09-08T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 프리미엄 K-증류주 ‘jari’, 글로벌 주류 품평회 2관왕 달성2026.09.08",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1816",
       "published_at": "2026-09-08T00:00:00",
       "summary": "",
       "level": "B",
@@ -190,6 +212,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "「ふわふわ かに玉スープ」を、9月14日（月）に新発売",
+      "url": "https://www.itoen.co.jp/news/article/91542/",
+      "published_at": "2026-09-03T05:59:56",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "General Mills",
       "brand_cn": "通用磨坊",
       "region": "北美",
@@ -274,6 +307,17 @@
       "url": "https://www.generalmills.com/news-and-stories/press-releases/progresso-expands-its-lineup-of-pitmaster-bbq-inspired-soups",
       "published_at": "2026-09-02T00:00:00",
       "summary": "Progresso® Expands its Lineup of Pitmaster BBQ-inspired Soups with New Grilled Chicken Bacon Ranch with Hidden Valley Ranch and Charbroiled Bacon Cheeseburger",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "機能性表示食品「お～いお茶 濃い茶 PREMIUM STRONG W」を、9月14日（月）に新発売",
+      "url": "https://www.itoen.co.jp/news/article/91503/",
+      "published_at": "2026-09-01T05:59:24",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -432,6 +476,28 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "「TULLY’S COFFEE BOTTLE-IN COFFEE KILIMANJARO」「同 BRAZIL」を、9月7日（月）に新発売",
+      "url": "https://www.itoen.co.jp/news/article/91453/",
+      "published_at": "2026-08-27T05:59:57",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "「 TULLY’S COFFEE BLACK」「同 LATTE」「同 BLEND」「同 劇的微糖」が9月7日（月）より新発売",
+      "url": "https://www.itoen.co.jp/news/article/91461/",
+      "published_at": "2026-08-27T05:59:49",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
@@ -515,6 +581,28 @@
       "title": "メニン阻害薬ziftomenibがNPM1遺伝子変異又はKMT2A遺伝子再構成を有する急性骨髄性白血病を対象に日本で希少疾病用医薬品指定を取得",
       "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260825_01.pdf",
       "published_at": "2026-08-25T06:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "「1日分の野菜 ALL-IN BALANCE」を、9月7日（月）に新発売",
+      "url": "https://www.itoen.co.jp/news/article/91416/",
+      "published_at": "2026-08-25T05:59:13",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "「お～いお茶 YUZU GREEN」 を、9月7日（月）に新発売",
+      "url": "https://www.itoen.co.jp/news/article/91432/",
+      "published_at": "2026-08-25T05:58:53",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
@@ -669,6 +757,17 @@
       "title": "2026.08.21日清食品ホールディングス日清食品グループの社会貢献活動「百福士プロジェクト」第34弾  「みんなで学ぼう おいしい防災備蓄  -NISSIN防災冒険隊-」を実施",
       "url": "https://www.nissin.com/jp/news/13896/",
       "published_at": "2026-08-21T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "栄養機能食品「カリウム野菜」8月31日（月）に新発売",
+      "url": "https://www.itoen.co.jp/news/article/91102/",
+      "published_at": "2026-08-20T05:59:06",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
@@ -872,6 +971,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "JA全農共同開発「ニッポンエール 岡山県産ピオーネ」を、8月24日（月）に新発売",
+      "url": "https://www.itoen.co.jp/news/article/91079/",
+      "published_at": "2026-08-13T05:59:45",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "CJ",
       "brand_cn": "希杰",
       "region": "韩国",
@@ -1021,6 +1131,17 @@
       "title": "キリンとGenerativeX、AIで研究開発の在り方を刷新 研究者と共創する新モデルを導入",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0806_04.pdf",
       "published_at": "2026-08-06T07:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ito En",
+      "brand_cn": "伊藤园",
+      "region": "日本",
+      "title": "世界No.1の無糖緑茶飲料ブランド「お〜いお茶」にGIマークを表示し、日本茶業界が推進するGIの認知・理解促進を後押し",
+      "url": "https://www.itoen.co.jp/news/article/91013/",
+      "published_at": "2026-08-06T05:59:53",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
