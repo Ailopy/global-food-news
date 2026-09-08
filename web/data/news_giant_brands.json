@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-07T21:11:08",
+  "last_updated": "2026-09-08T13:25:29",
   "retention_days": 7,
-  "total": 545,
+  "total": 547,
   "s_count": 35,
   "a_count": 4,
-  "b_count": 506,
+  "b_count": 508,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -39,6 +39,39 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
+      "title": "キリン、理化学研究所と気候変動下におけるワイン用ブドウ栽培課題に関する共同研究を開始 暑熱・乾燥環境への適応力向上に向けて、シャトー・メルシャン 椀子ヴィンヤードで検証",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0908_01.html",
+      "published_at": "2026-09-08T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-09-08T00:00:00",
+      "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.08湖池屋「湖池屋 復活総選挙～ポテトチップス編～」(9月8日からスタート)",
+      "url": "https://www.nissin.com/jp/news/13917/",
+      "published_at": "2026-09-08T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
       "title": "植物酵素とプラズマ乳酸菌を配合した機能性表示食品「和源酵素」を日本盛と共同開発 9月14日（月）より新発売",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0907_02.html",
       "published_at": "2026-09-07T05:00:05",
@@ -54,17 +87,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0907_01.html",
       "published_at": "2026-09-07T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-09-07T00:00:00",
-      "summary": "2026 年12月期 上期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
