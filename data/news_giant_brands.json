@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-09T13:28:22",
+  "last_updated": "2026-09-09T20:05:00",
   "retention_days": 7,
-  "total": 562,
+  "total": 565,
   "s_count": 35,
   "a_count": 4,
-  "b_count": 523,
+  "b_count": 526,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,17 @@
   ],
   "articles": [
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "小岩井乳業の新しいヨーグルト体験を実現する容器が、日本包装技術協会主催「2026日本パッケージングコンテスト」で「ジャパンスター賞」を受賞！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0909_01.html",
+      "published_at": "2026-09-09T06:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
@@ -65,6 +76,28 @@
       "url": "https://www.seoul.co.kr/news/peoples/2026/09/09/20260909023002",
       "published_at": "2026-09-09T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "家庭用・業務用マヨネーズおよびマヨネーズタイプ製品出荷価格改定のお知らせ",
+      "url": "https://news.ajinomoto.co.jp/2026/09/20260909-02.html",
+      "published_at": "2026-09-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "참치캔 기름, 아직 버리시나요? '칼보(Calvo)'가 제안하는 새로운 식문화FoodPeople2026.09.09",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/117",
+      "published_at": "2026-09-09T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
       "level": "B",
       "level_reason": "企业动态"
     },
