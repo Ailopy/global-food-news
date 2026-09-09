@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-09-09T16:53:06.529802+08:00",
-  "total": 9447,
+  "last_updated": "2026-09-09T21:14:47.210027+08:00",
+  "total": 9452,
   "articles": [
+    {
+      "id": "7363bc7a41bb6979",
+      "title": "Beyond Meat Launches ‘Phytosphere’ Platform With Protein Powders and Savory Bars",
+      "summary": "Beyond Meat is launching a new “plant-powered” portfolio known as Phytosphere, marking the occasion by entering new categories including protein powders and savory protein bars.",
+      "url": "https://www.nosh.com/news/2026/beyond-meat-launches-phytosphere-platform-with-protein-powders-and-savory-bars",
+      "published_at": "2026-09-09T21:00:27+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "a1bc5f488e8f1a2a",
+      "title": "Review: Fly By Jing Offers Saucy, Spicy Take on Instant Noodles",
+      "summary": "Fly By Jing Noodles Authentic Chinese sauces and spice maker Fly By Jing launched its instant noodles in 2024, starting with Sweet & Spicy and Chili Crisp varieties before expanding into milder…",
+      "url": "https://www.nosh.com/news/2026/review-fly-by-jing-offers-saucy-spicy-take-on-instant-noodles",
+      "published_at": "2026-09-09T20:30:57+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "056538014ed91656",
+      "title": "WKD takes ‘Got A WKD Side?’ into the moments that matter",
+      "summary": "Following a strong first phase for its 30th anniversary campaign, WKD is taking ‘Got A WKD Side?’ into the moments, places and experiences that matter most to its core audience. Launching from 7…",
+      "url": "https://fabnews.live/wkd-takes-got-a-wkd-side-into-the-moments-that-matter/",
+      "published_at": "2026-09-09T18:39:39+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "f013f19e408a6510",
+      "title": "コクある味わい多し！アイスのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「アイス」の最新・注目度ランキングです♪（2026年9月4日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基に…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26578/?utm_source=rss&utm_medium=mognavinews_20260909",
+      "published_at": "2026-09-09T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "97f552a982354dfa",
+      "title": "今週新発売の菓子パン🍫まとめ！『薄皮　焼きいもあんぱん』、『クロワッサンベーグル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンヤマザキ 薄皮 焼きいもあんぱん 袋4個焼きいもあんを包みました。2026…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090908/?utm_source=rss&utm_medium=mognavinews_20260909",
+      "published_at": "2026-09-09T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "0bfe0e3af0e36728",
       "title": "オーケー 高槻に関西12店目 エリア商品を拡大",
