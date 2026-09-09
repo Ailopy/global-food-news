@@ -1,33 +1,237 @@
 {
-  "total": 257,
-  "s_plus_count": 32,
+  "total": 274,
+  "s_plus_count": 34,
   "sites": [
-    "Packaging Digest",
     "Food Dive",
+    "Packaging Digest",
+    "日経xTrend",
     "日経新聞",
-    "朝日グループYouTube",
-    "日経xTrend"
+    "朝日グループYouTube"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
+    "其他": 140,
+    "联名营销": 13,
     "新产品": 50,
-    "其他": 127,
     "营销创新": 18,
     "品牌故事": 17,
     "并购融资": 7,
     "渠道新物种": 4,
     "新技术": 2,
-    "联名营销": 12,
     "新包装": 2,
-    "行业政策": 16,
-    "新原料": 2
+    "行业政策": 18,
+    "新原料": 3
   },
-  "last_updated": "2026-09-08 13:25",
-  "last_updated_iso": "2026-09-08T13:25:46.187051+08:00",
+  "last_updated": "2026-09-09 13:28",
+  "last_updated_iso": "2026-09-09T13:28:40.882419+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "イオン離れ、Temu台頭で“本物”は絶滅？ マイルドヤンキー新消費",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01453/00003/?n_cid=nbpnxr_rss",
+      "summary": "昭和から平成初期の空気を詰め込んだ体験展示「大ヤンキー展」が、2026年2月の初開催で人気を博した。かつての不良文化が、今やエンタメとして楽しまれている。そんな中で変わりつつあるのが、ドン・キホーテと親和性が高かった「マイルドヤンキー」の実像だ。地元や家族とのつながりを重視し、地域に根差した生活を送る若者層を指す言葉だが、その価値観や消費行動は今どう動いているのか。名付け親の原田曜平氏に聞いた。",
+      "published_at": "2026-09-09T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:25+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "高コンバージョン率の異色IP「水森亜土」、ライセンシーが2年半で5倍に",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01473/00002/?n_cid=nbpnxr_rss",
+      "summary": "ソニー・クリエイティブプロダクツのIP戦略でも、異色の伸びを示しているのが「水森亜土」だ。公式Instagramのフォロワーは約4万。人気IPの公式アカウントとして見れば決して大きな数字ではないが、高いコンバージョン率を誇る。レトロブームの波もあり、人気アーティストとコラボしてグッズを販売するなど、商品化を手掛けるライセンシーの件数は2年半で5倍に膨れ上がっている。",
+      "published_at": "2026-09-09T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-09T13:28:25+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "カロリーメイトvs完全メシ、BASE FOOD “手軽に栄養”の想起対決",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01351/00003/?n_cid=nbpnxr_rss",
+      "summary": "",
+      "published_at": "2026-09-09T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:25+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "PBR’s Killer Halloween Beer Packaging",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/pbr-s-killer-halloween-beer-packaging",
+      "summary": "Pabst Blue Ribbon’s limited-edition 12-pack carton converts into a wearable Jason hockey mask from the Friday the 13th slasher series.",
+      "published_at": "2026-09-08T17:49:06Z",
+      "is_s_plus": true,
+      "s_plus_reason": "limited-edition",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:38+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "カロリーメイトvs完全メシ、BASE FOOD “手軽に栄養”の想起対決",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemZzOGx2d2xnM2lJYlp4emRMN2VDN0Y4bkNHMjFMa2Z3STBqS3FzT2EwdFpsbk1saHE4TmdFTzJ4bzF1VWc5dV9YYXZoa1ZucjVvLWNfRTY0clhhZ1Roam1UaXdFdlg2d25KNjZFMEUwTktiNFlLSHdwS1Y1ZzVaS3E3cTJnQ05rMDc0?oc=5",
+      "summary": "カロリーメイトvs完全メシ、BASE FOOD “手軽に栄養”の想起対決&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-08T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（112ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdWM3MWpWNkJtNUR4NG9PeE1kZ1dFLXJZcmlDRzlIdG8tQnNmYVJZMUlvZVBndlViX041TE9pTWM4NkNNQXhNNHkwM3M4MU1OZHdVdkVVcm5BTUpDZzdXSDd4ZHJfNmc?oc=5",
+      "summary": "食品・飲料（112ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-08T09:32:14Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（110ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12b3MycU9NV053S0VwdmRiVldGbUstRHhESmdGUU9jamVFeFoxRXpyRkxvY3M4VkFyNHAxMVRZcUIzbkVUaUFwbW9yVGdBc0ZOam1aWFhVYkNhTWREVTJ1RzdQbktOblU?oc=5",
+      "summary": "食品・飲料（110ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-08T09:00:24Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（100ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iVlFHM3cwNVFvY1JNbUFJdm50emUyOTAwRUI3TFJxNWF2RnlSS2Q0c0EzamlJcmVPWWVTUnZRV1VBOUw2cGRMZFdyZ0JfV0xJbFRSRENpWU1qeFR2R05lNHB1bGNxQ1U?oc=5",
+      "summary": "食品・飲料（100ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-08T08:01:05Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（105ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BTnZpQjhvYXNERFpBalhGZF9MTXNCdGZ6ZDd3WXo3YVBrenVRTnJkaHZJTHhsc0VlcDFvRVd2eldoZ2V2Q01xNEpBaEN2WWRneWxiX19BbkZtT1FvTEFmNmt4b3g4b1E?oc=5",
+      "summary": "食品・飲料（105ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-08T07:00:07Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:23+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -99,6 +303,72 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "食品・飲料",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yd2k3UFR3UFdQMVliOURGRGhKSzVvVW94OEFDTWk4UGZWU2tqSEVhaTBKTnZTZWNreUdsRG1tM0lEUWtTXzJsYkItME5QUQ?oc=5",
+      "summary": "食品・飲料&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-07T22:19:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（149ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeGowaDQ2MEJWdFpKR3JTQ0g3Y3prWVZrcW4wQ1dhUXBELTVwZFlrWENuY1otTnNMQTlhODd2MWZiRVBzck85VnNLbWh2YXhlMzNmYnMzWm0zY09OVjIybDk3cEJoQzg?oc=5",
+      "summary": "食品・飲料（149ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-07T18:26:59Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（135ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQWhxUGZEc0tsdEJYWlVMTEw3eXdYMWVoSjVaWGJidllGZTJIbDI0dzMzdTRtZ0pwTi12NGNmVDllR1hlQTgxUkwzbnFKdG9fTUxaY1hQTHl6eGtJOGRjN25GQmRXUTA?oc=5",
+      "summary": "食品・飲料（135ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-07T16:20:31Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "スーパーの食品ロスを削減する最新AI技術 フードバンクには災難",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xN0pIcm4tSU1UUjBhNzV5WVFreEM0YmJPMVFjMzJsMS1TcnZKak5odzlUZkUwcHUxT0dpaUVkblotblExYlBUb3E2c0xTNVNwOEM4WEJ3bWVLMmlYUE9YZkdLQi1OUQ?oc=5",
       "summary": "スーパーの食品ロスを削減する最新AI技術 フードバンクには災難&nbsp;&nbsp;日経クロストレンド",
@@ -137,6 +407,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-08T13:25:29+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（104ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FTFAzX1JENklwZFk4blZsZmJtYzA5VTJNTUduZVcwUTJTTC1NdEdVdTVrZDcxdWxDX0hNUkt6QjZWWlhvRG9BNkpvdlJxR1dWMTFENm0yVEYxYl8yVHhseDgzREVURGs?oc=5",
+      "summary": "食品・飲料（104ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-07T06:32:59Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:23+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -4717,28 +5009,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "イオン株、25年秋最高値の半分 スーパー苦戦の反転見えず",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zV1YwTl9hYWxOX0pnallwY3Rwa3R2S1NQRHRlVEIzWWtNalp5a3lXWUxfSHVnZm8xWUVjOTBWc2hyU0hhUFEwQjI4MnBHeHVxV2pWUWRCdExrYmRIQ1p3d25KNWdYTVBIN01lUHBzUFA0MExiR2RLVldMQnZmUQ?oc=5",
-      "summary": "イオン株、25年秋最高値の半分 スーパー苦戦の反転見えず&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-08-07T20:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-08T17:26:52+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "エスビー食品株が最高値 スパイス効いた値上げ、収益拡大期待",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlUWpNdjJGWHVXaEt4S0F4SFRwYUhrR2FrLTVrRGZLLWRyUFliaGZIOE1IN0NRaUt1Y1dTOFJwbU9TZ3VmTy00MFhzdnBqeURRU1RGT1R1QmZfWDYzcFhrNE5IX001dElnR0lhYk9hSS01dmdkV240RVRKeGdzZw?oc=5",
       "summary": "エスビー食品株が最高値 スパイス効いた値上げ、収益拡大期待&nbsp;&nbsp;nikkei.com",
@@ -6053,6 +6323,116 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-07T13:23:25+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "PepsiCo puts fresh foods in focus as consumers move away from processed snacks",
+      "url": "https://www.fooddive.com/news/Pepsico-fresh-food-innovation-strategy-processed/827254/",
+      "summary": "The CPG giant is taking aim at the fast-growing $271 billion store perimeter with healthier fare such as guacamole, hummus and gazpacho.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:36+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Why do new food products fail?",
+      "url": "https://www.fooddive.com/spons/why-do-new-food-products-fail/829037/",
+      "summary": "Recipe changes ripple through specs, claims and labels. Keep product data aligned to avoid recalls.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-09T13:28:36+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "GLP-1s are pushing protein demand to new heights",
+      "url": "https://www.fooddive.com/news/protein-demand-us-circana/829589/",
+      "summary": "A new report from Circana found that protein is the second most sought after ingredient Americans want in their diets, behind vegetables.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-09T13:28:36+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Campbell’s slashes 13% of salaried workforce as part of $500M cost-cutting plan",
+      "url": "https://www.fooddive.com/news/campbells-spending-cuts-workforce-reduction-snacking/829547/",
+      "summary": "The soup maker will also close two snack plants and cut its dividend as CEO Mick Beekhuizen said the company needs to take “decisive action.”",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-09T13:28:36+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Ferrero looks to turn around Power Crunch with relaunch",
+      "url": "https://www.fooddive.com/news/Ferrero-snacking-acquisition-power-crunch-bar-protein/829433/",
+      "summary": "The wafer-based protein bar, which the Nutella maker bought in 2025, is “rebalancing” its ingredients and touting a crispier texture.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        }
+      ],
+      "primary_category": "新原料",
+      "scraped_at": "2026-09-09T13:28:36+08:00"
     }
   ]
 }
