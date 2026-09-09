@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-08T19:55:26",
+  "last_updated": "2026-09-09T13:28:22",
   "retention_days": 7,
-  "total": 558,
+  "total": 562,
   "s_count": 35,
   "a_count": 4,
-  "b_count": 519,
+  "b_count": 523,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,50 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.09湖池屋「湖池屋プライドポテト100％ あか牛にんにく醤油 (熊本)」(9月21日発売)",
+      "url": "https://www.nissin.com/jp/news/13918/",
+      "published_at": "2026-09-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "味の素㈱、競泳 松下 知之選手・村佐 達也選手とパートナー契約を締結",
+      "url": "https://news.ajinomoto.co.jp/2026/09/20260909-01.html",
+      "published_at": "2026-09-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "서울신문“잡곡도 기후변화 영향… 햇반 색깔·식감 다 살려야”",
+      "url": "https://www.seoul.co.kr/news/peoples/2026/09/09/20260909023002",
+      "published_at": "2026-09-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "新生血管型加齢黄斑変性を対象として開発中のVEGF受容体標的点眼剤KHK4951の第2相国際臨床試験トップラインデータ報告に関するお知らせ",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20260908_01.pdf",
+      "published_at": "2026-09-08T08:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Ito En",
       "brand_cn": "伊藤园",
