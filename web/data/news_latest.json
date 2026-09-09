@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-09T16:53:06.643608+08:00",
+  "last_updated": "2026-09-09T21:14:47.322168+08:00",
   "retention_days": 7,
-  "total": 474,
+  "total": 466,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,66 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "7363bc7a41bb6979",
+      "title": "Beyond Meat Launches ‘Phytosphere’ Platform With Protein Powders and Savory Bars",
+      "summary": "Beyond Meat is launching a new “plant-powered” portfolio known as Phytosphere, marking the occasion by entering new categories including protein powders and savory protein bars.",
+      "url": "https://www.nosh.com/news/2026/beyond-meat-launches-phytosphere-platform-with-protein-powders-and-savory-bars",
+      "published_at": "2026-09-09T21:00:27+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "a1bc5f488e8f1a2a",
+      "title": "Review: Fly By Jing Offers Saucy, Spicy Take on Instant Noodles",
+      "summary": "Fly By Jing Noodles Authentic Chinese sauces and spice maker Fly By Jing launched its instant noodles in 2024, starting with Sweet & Spicy and Chili Crisp varieties before expanding into milder…",
+      "url": "https://www.nosh.com/news/2026/review-fly-by-jing-offers-saucy-spicy-take-on-instant-noodles",
+      "published_at": "2026-09-09T20:30:57+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "056538014ed91656",
+      "title": "WKD takes ‘Got A WKD Side?’ into the moments that matter",
+      "summary": "Following a strong first phase for its 30th anniversary campaign, WKD is taking ‘Got A WKD Side?’ into the moments, places and experiences that matter most to its core audience. Launching from 7…",
+      "url": "https://fabnews.live/wkd-takes-got-a-wkd-side-into-the-moments-that-matter/",
+      "published_at": "2026-09-09T18:39:39+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "f013f19e408a6510",
+      "title": "コクある味わい多し！アイスのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「アイス」の最新・注目度ランキングです♪（2026年9月4日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基に…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26578/?utm_source=rss&utm_medium=mognavinews_20260909",
+      "published_at": "2026-09-09T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "97f552a982354dfa",
+      "title": "今週新発売の菓子パン🍫まとめ！『薄皮　焼きいもあんぱん』、『クロワッサンベーグル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンヤマザキ 薄皮 焼きいもあんぱん 袋4個焼きいもあんを包みました。2026…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090908/?utm_source=rss&utm_medium=mognavinews_20260909",
+      "published_at": "2026-09-09T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "0bfe0e3af0e36728",
       "title": "オーケー 高槻に関西12店目 エリア商品を拡大",
@@ -5549,162 +5609,6 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "587c22e33876d852",
-      "title": "Grá Chocolates’ Autumn collection has landed",
-      "summary": "Irish chocolatier Grá Chocolates is welcoming in the new season with two indulgent new additions: the Autumn Collection, a handcrafted box of seasonal flavours, and the Witch’s Cauldron Hot…",
-      "url": "https://www.sweetsandsnacksworld.com/news/30913/gra-chocolates-autumn-collection-has-landed/",
-      "published_at": "2026-09-02T21:05:41+08:00",
-      "source": "Sweets & Snacks World",
-      "region": "欧洲",
-      "category": "糕点糖巧",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "dc8c5f1e8bfaa8f5",
-      "title": "Tango chicken bites launch at Iceland and The Food Warehouse",
-      "summary": "Tango launches the tangiest chicken bites yet with new apple & orange glazed boneless chicken bites. The post Tango chicken bites launch at Iceland and The Food Warehouse appeared first on Sweets &…",
-      "url": "https://www.sweetsandsnacksworld.com/news/30910/tango-chicken-bites-launch-at-iceland-and-the-food-warehouse/",
-      "published_at": "2026-09-02T20:50:31+08:00",
-      "source": "Sweets & Snacks World",
-      "region": "欧洲",
-      "category": "糕点糖巧",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "f04160ea1fbdf586",
-      "title": "RELEEESE launches the world’s first 70% Dark Chocolate made using the patented Science of Intelligent Sugar Expert Dr Johannes Coy",
-      "summary": "RELEEESE, the UK based functional food lifestyle brand, has launched its new 70% Dark Chocolate, aimed at consumers who want a more considered approach to sugar with no compromise on taste or…",
-      "url": "https://www.sweetsandsnacksworld.com/news/30905/releeese-launches-the-worlds-first-70-dark-chocolate-made-using-the-patented-science-of-intelligent-sugar-expert-dr-johannes-coy/",
-      "published_at": "2026-09-02T20:44:53+08:00",
-      "source": "Sweets & Snacks World",
-      "region": "欧洲",
-      "category": "糕点糖巧",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "a10b6a778908d113",
-      "title": "Grá Chocolates launches new Autumn Collection ahead of Autumn 2026",
-      "summary": "Award-winning Irish chocolatier Grá Chocolates is welcoming in the new season with two new additions: the Autumn Collection, a handcrafted box of seasonal flavours, and the Witch's Cauldron Hot…",
-      "url": "https://www.sweetsandsnacksworld.com/news/30903/gra-chocolates-launches-new-autumn-collection-ahead-of-autumn-2026/",
-      "published_at": "2026-09-02T20:40:38+08:00",
-      "source": "Sweets & Snacks World",
-      "region": "欧洲",
-      "category": "糕点糖巧",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "83bbe2a937cb2455",
-      "title": "Review: Backflip Cereal Is Flippin’ Good Time For All",
-      "summary": "Most importantly, it makes a great bowl of sugary milk as a finisher.",
-      "url": "https://www.nosh.com/news/2026/review-backflip-cereal-is-flippin-good-time-for-all",
-      "published_at": "2026-09-02T20:30:31+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "2298105c2e8a443e",
-      "title": "Concordix highlights chewable emulsion technology at Vitafoods Asia",
-      "summary": "The company is showcasing its patented chewable emulsion platform at Vitafoods Asia, offering supplement brands a flexible alternative to traditional delivery formats",
-      "url": "https://nutraceuticalbusinessreview.com/concordix-highlights-chewable-emulsion-technology-vitafoods-asia",
-      "published_at": "2026-09-02T19:59:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "fa8f94549a92bc7b",
-      "title": "Virginie Cavalli appointed Chief Executive Officer of Seppic",
-      "summary": "Seppic announces the appointment of Virginie Cavalli as Chief Executive Officer, effective September 1, 2026",
-      "url": "https://nutraceuticalbusinessreview.com/virginie-cavalli-appointed-chief-executive-officer-of-seppic-1",
-      "published_at": "2026-09-02T18:49:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "66930b0eac1d96e6",
-      "title": "コーヒー飲料のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「コーヒー飲料」の最新・注目度ランキングです♪（2026年8月28日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26314/?utm_source=rss&utm_medium=mognavinews_20260903",
-      "published_at": "2026-09-02T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "031572b9bc9ad8a4",
-      "title": "コーヒー飲料のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「コーヒー飲料」の最新・注目度ランキングです♪（2026年8月28日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26314/?utm_source=rss&utm_medium=mognavinews_20260902",
-      "published_at": "2026-09-02T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "53bde4f9899c98ca",
-      "title": "Monteloeder study highlights Elissara’s potential for hair growth and follicle health",
-      "summary": "Preclinical research suggests the four-botanical nutricosmetic supports multiple pathways linked to hair follicle function and resilience",
-      "url": "https://nutraceuticalbusinessreview.com/monteloeder-study-elissara-potential-hair-growth-follicle-health",
-      "published_at": "2026-09-02T17:33:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "e5918a08e87fb8f5",
-      "title": "今週新発売の菓子パン🍫まとめ！『クロフィン風デニッシュ』、『豆大福風といちご大福風』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンYKベーキング クロフィン風デニッシュ生キャラメル味クリームとミルク風…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090208/?utm_source=rss&utm_medium=mognavinews_20260903",
-      "published_at": "2026-09-02T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "c531349e79db7c89",
-      "title": "今週新発売の菓子パン🍫まとめ！『クロフィン風デニッシュ』、『豆大福風といちご大福風』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンYKベーキング クロフィン風デニッシュ生キャラメル味クリームとミルク風…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090208/?utm_source=rss&utm_medium=mognavinews_20260902",
-      "published_at": "2026-09-02T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "c50c9e8867923940",
-      "title": "サントリー「ギルティ炭酸 NOPE」発売150日で1億本突破、同社飲料新商品で令和最速",
-      "summary": "サントリービバレッジ&フードは9月2日、炭酸飲料「ギルティ炭酸 NOPE(ノープ)」の出荷本数が1億本を突破したと発表した。3月24日の発売から150日での到達で、令和以降に発売した同社の飲料新商品では最速となっ...",
-      "url": "https://www.ssnp.co.jp/beverage/700453/",
-      "published_at": "2026-09-02T17:08:47+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
     }
   ]
 }
