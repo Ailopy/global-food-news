@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-09T20:05:00",
+  "last_updated": "2026-09-10T13:25:21",
   "retention_days": 7,
-  "total": 565,
-  "s_count": 35,
+  "total": 568,
+  "s_count": 36,
   "a_count": 4,
-  "b_count": 526,
+  "b_count": 528,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,39 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "累計販売本数150億本を突破した「氷結&reg;」ブランドをけん引 リニューアルした「キリン 氷結&reg;無糖」の販売数量が前年比約107％と好調！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0910_01.html",
+      "published_at": "2026-09-10T01:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-09-10T00:00:00",
+      "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.10湖池屋「今金男しゃくポテトチップス」(9月10日より予約受付開始)",
+      "url": "https://www.nissin.com/jp/news/13919/",
+      "published_at": "2026-09-10T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -102,6 +135,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading(Opens in a new tab)",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/blue-buffalo-launches-new-limited-edition",
+      "published_at": "2026-09-09T00:00:00",
+      "summary": "Blue Buffalo Launches New Limited-Edition Game Day Nudges® and Health Bars® Touchdown Treats for Football Season",
+      "level": "S",
+      "level_reason": "新产品"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -131,17 +175,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0908_01.html",
       "published_at": "2026-09-08T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-09-08T00:00:00",
-      "summary": "2026 年12月期 上期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
