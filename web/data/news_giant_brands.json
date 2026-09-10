@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-10T13:25:21",
+  "last_updated": "2026-09-10T19:59:33",
   "retention_days": 7,
-  "total": 568,
+  "total": 569,
   "s_count": 36,
   "a_count": 4,
-  "b_count": 528,
+  "b_count": 529,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "濃く淹れた紅茶をラテとして楽しむ、”紅茶のラテ”という新たな選択肢を提案 「午後の紅茶 TEA LATTE」シリーズを10月6日（火）より新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0910_02.html",
+      "published_at": "2026-09-10T06:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
