@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-09-11T16:49:36.449446+08:00",
-  "total": 9630,
+  "last_updated": "2026-09-11T21:06:02.677317+08:00",
+  "total": 9637,
   "articles": [
+    {
+      "id": "8eb64e6b378d81e6",
+      "title": "New Products: Apple Soda For Olipop, Proda & Culture Pop",
+      "summary": "This week, apple flavors are trending among soda brands as other seasonal varieties hit store shelves in anticipation of the holidays.",
+      "url": "https://www.bevnet.com/news/2026/new-products-apple-soda-for-olipop-proda-culture-pop",
+      "published_at": "2026-09-11T21:00:24+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8865831afc9be3d9",
+      "title": "New Products:New Products:  Girl Scouts Goes Allergy-Friendly with Partake, Better-For-You Brands Get Spooky",
+      "summary": "In this week’s new products roundup, Girl Scouts introduces its first allergy-friendly cookie in partnership with Partake, Knorr turns up the heat with Hot Ones-inspired sides, and better-for-you…",
+      "url": "https://www.nosh.com/news/2026/new-productsnew-products-girl-scouts-goes-allergy-friendly-with-partake-better-for-you-brands-get-spooky",
+      "published_at": "2026-09-11T21:00:02+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "fcdd35caea686e7b",
+      "title": "Two studies in children reveal rapid, sustained benefits for attention, behaviour, sleep and cognitive performance",
+      "summary": "Through these real-world studies, Activ’Inside is generating evidence for two science-backed active ingredients: Safr’Inside, a patented, full-spectrum saffron extract standardised to 0.2% safranal…",
+      "url": "https://nutraceuticalbusinessreview.com/two-studies-in-children-reveal-rapid-sustained-benefits",
+      "published_at": "2026-09-11T20:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "0999d1ea97cf9f88",
+      "title": "Ulrick + Short names new Managing Director",
+      "summary": "Rachel Collins steps up to lead the next chapter for Ulrick + Short, the specialist functional ingredients supplier",
+      "url": "https://nutraceuticalbusinessreview.com/ulrick-short-names-new-managing-director",
+      "published_at": "2026-09-11T19:25:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "0348629237678c70",
+      "title": "FTS Cleanrooms completes 14,000 sqm manufacturing facility for Himalaya in UAE",
+      "summary": "FTS Cleanrooms has completed a 14,000 sqm turnkey manufacturing facility for Himalaya in Dubai, supporting pharmaceutical and cosmetic production under one site",
+      "url": "https://nutraceuticalbusinessreview.com/fts-cleanrooms-completes-manufacturing-facility-himalaya-uae",
+      "published_at": "2026-09-11T18:12:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "22d4dd69eb2134be",
+      "title": "Laboratoire PYC launches Blue Cell Elixir nutricosmetic with peptide complex",
+      "summary": "The company has launched Blue Cell Elixir, a powdered nutricosmetic combining Novastyne Glow peptides with other skin-health nutrients aimed at the premium beauty-from-within market",
+      "url": "https://nutraceuticalbusinessreview.com/laboratoire-pyc-launches-blue-cell-elixir-nutricosmetic-peptide",
+      "published_at": "2026-09-11T17:17:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "6dbe0886f68d5280",
       "title": "味の素 五番目の季節「まだなつ」に新提案 紀文「The SURIMI」とのコラボで新レシピ",
@@ -12,6 +84,18 @@
       "region": "日本",
       "category": "综合",
       "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "efc92bae09430f98",
+      "title": "にんべん、音楽イベント「FEST. INAZUMA 2026」に初出展　“鰹節削り体験”などをブースで展開",
+      "summary": "にんべんは、9月19日から21日の期間で開催される大型野外音楽イベント「FEST. INAZUMA 2026」に初出展する。 本イベントは、滋賀県出身のアーティスト･西川貴教さんが主催するもの。西川さんが歌唱する万能調味...",
+      "url": "https://www.ssnp.co.jp/seasoning/702028/",
+      "published_at": "2026-09-11T16:45:18+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
       "language": "ja"
     },
     {
