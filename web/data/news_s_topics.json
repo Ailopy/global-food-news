@@ -1,33 +1,209 @@
 {
-  "total": 280,
+  "total": 290,
   "s_plus_count": 32,
   "sites": [
+    "Packaging Digest",
+    "朝日グループYouTube",
     "Food Dive",
     "日経新聞",
-    "朝日グループYouTube",
-    "日経xTrend",
-    "Packaging Digest"
+    "日経xTrend"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "其他": 146,
-    "营销创新": 19,
     "联名营销": 13,
-    "新产品": 50,
+    "其他": 156,
+    "新产品": 52,
+    "营销创新": 19,
     "品牌故事": 16,
     "并购融资": 7,
-    "渠道新物种": 4,
+    "渠道新物种": 3,
     "新技术": 2,
     "新包装": 2,
     "行业政策": 18,
-    "新原料": 3
+    "新原料": 2
   },
-  "last_updated": "2026-09-10 13:25",
-  "last_updated_iso": "2026-09-10T13:25:41.331486+08:00",
+  "last_updated": "2026-09-11 13:23",
+  "last_updated_iso": "2026-09-11T13:23:27.806257+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "家電やスーツケースも独特 ドンキ「部門別ヒット商品ランキング」後編",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01453/00005/?n_cid=nbpnxr_rss",
+      "summary": "個性的な商品を数多く取りそろえるドン・キホーテ。企画・開発を自ら行う「情熱価格」に加え、メーカーとの共同開発・製造によるドンキ限定のOEM商品やコラボ商品も展開する。購入者から集まった要望や不満の声から生み出された商品も多い。低価格に加え、使い勝手の良さや意外なアイデアで支持を集めた商品を、2026年7月の1カ月間の売り上げ順に、紹介する。全6部門のうち、後編は生活家電、スマホ・パーツ、キャリーケースの3部門を解説する。",
+      "published_at": "2026-09-11T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-11T13:23:12+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "gamescomで実感した規模のパワー ブースも通路もとにかく広い",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01475/00001/?n_cid=nbpnxr_rss",
+      "summary": "かつて世界三大ゲームイベントと呼ばれていた米国の「E3」（Electronic Entertainment Expo）、日本の「東京ゲームショウ」（TGS）、ドイツの「gamescom」。E3は2021年のオンライン開催を最後に終了したが、TGSとgamescomは開催を続けている。TGSと並んで世界最大規模のgamescomはどのようなゲームイベントなのか。展示会場にフォーカスし、実際に歩いた印象や象徴的なブースを紹介する。",
+      "published_at": "2026-09-11T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:12+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "AI時代のメモリー高騰に挑む 10万円を超えない「arrows Alpha2」の勝算",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02965/?n_cid=nbpnxr_rss",
+      "summary": "FCNTは2026年8月27日、6.4型スマートフォン「arrows Alpha2」を発売した。同社が25年8月に発売した「arrows Alpha」の後継モデルになる。arrows Alphaは「手が届くハイエンド」を掲げ、9万円を切る価格ながらミドルハイクラスの性能や高い堅牢性を備え、SIMフリースマホとしても、通信キャリアの端末としても人気が高い。arrows Alpha2はその路線を継承し、AI需要の高まりによる著しいメモリー価格高騰の中で、9万円台からの価格を実現した。価格にこだわる理由と、製品の狙いを探る。",
+      "published_at": "2026-09-11T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-11T13:23:12+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "静岡県が官民一体のお茶プロジェクト始動 成熟市場を壊す勝ち筋",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01946/?n_cid=nbpnxr_rss",
+      "summary": "静岡県が官民一体となって取り組む静岡茶ブランディング。この挑戦から見えてくるのは、成熟市場を再生させるためのヒントだ。生産者や茶商、飲食店、行政という立場も商流も異なる関係者たちは、なぜ一つの旗の下に集まったのか。静岡茶の価値をどう伝え、どう価格へ転換していくかという問いに対する、一つの手がかりを示している。",
+      "published_at": "2026-09-11T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:12+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「データを基に顧客ごとに価格を変える」は悪？ 米国で個人別価格の方針案",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00105/00248/?n_cid=nbpnxr_rss",
+      "summary": "米国でPersonalized Pricing（個人別価格）に関する新たな方針案が発表された。個人データを基に顧客ごとに商品の価格を変えるシステムに対して、適切な運用を勧告するものだ。しかし、そもそも個人別価格は悪なのか。常連客へのリピート割引や新規顧客へのウエルカムクーポンは？ 議論の現在地を紹介する。",
+      "published_at": "2026-09-11T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-11T13:23:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「データを基に顧客ごとに価格を変える」は悪？ 米国で個人別価格の方針案",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YSjdXTlhWczBlOTVWZkZRcGZqRm9oekJoWnJzSENyaTFWSDQ1bFkzNWhSS2dHYk1ZOU0xSEhCZkY2OGM4YmlBQnVkc3dHMF9vdWNrVXBybG95OWJZTlJrdjRnVkZ3dw?oc=5",
+      "summary": "「データを基に顧客ごとに価格を変える」は悪？ 米国で個人別価格の方針案&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-10T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:10+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（378ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tYVctZTFYckRpTzJBR3paeGl4TEJkNXFJNTB2LURmU0RZOXhSbzhKMlRMRndUdHF4aTJtS0RUWF82MXRLXzhOLVZ4T2pyQWFYaTl1RTIyRk11ekNXaEFvOTBrTjhLVWc?oc=5",
+      "summary": "食品・飲料（378ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-10T09:18:23Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:10+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（92ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Wd0lKMTBHWUtrSGZOMjRZcVhxaW1uOXZqa1lqWU9MaVU4SkZ2YWVkVmkzTk5DSGVyNXplTE9wTGx2TjRpbThJSHhoV1o5RWhvMk8zT3BtU1c3UTZuVk1ZSnE1Y0Y3dw?oc=5",
+      "summary": "食品・飲料（92ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-10T07:00:28Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:10+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -233,6 +409,28 @@
       "scraped_at": "2026-09-10T13:25:22+08:00"
     },
     {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "日清食品",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lXy1vUzVNX1BQSGd1OWNuT0Z4OVlreFdDYnViV20zZzdCci1fdlgtNkRJNzJMT0wyQnAwYlM5RzBOM1dHdE1IQlVVbmF3dExGV1N5dFhvMXE5T29hZjYwQ09iNVJhZw?oc=5",
+      "summary": "日清食品&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-09T03:41:29Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:10+08:00"
+    },
+    {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
       "region": "日本",
@@ -347,6 +545,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-09T13:28:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "カロリーメイトvs完全メシ、BASE FOOD “手軽に栄養”の想起対決",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5NE9kUGg3VmZDcDlySjJJcDJIRHZGeFJSTG5VMkc2RDJwOE1uNEsxdjh0VWhXVGJ1dXRIdjVTVGFhYlhnanExRVRscjZtV1NNZklRZmtpWWwwd3d6THc5bEhyVkZ2UQ?oc=5",
+      "summary": "カロリーメイトvs完全メシ、BASE FOOD “手軽に栄養”の想起対決&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-08T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:10+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5043,122 +5263,6 @@
       "scraped_at": "2026-08-13T11:22:16+08:00"
     },
     {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "日清の完全メシがデニーズ進出 異業種コラボが生む10万食ヒット",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tbFgySkx2bEV3Q3ZENFlYTTdsanZlMW5LMFl3dW15bnNhQ1VxejZzaEdxOTJKVzQwbEQtODR5UFlFakF2aXFPdjBDbUVyckhBZGhrOTZZOGJwMEVWTXgzU1IzN2lQQQ?oc=5",
-      "summary": "日清の完全メシがデニーズ進出 異業種コラボが生む10万食ヒット&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-09T15:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "コラボ",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-11T10:58:31+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "センス光るアジア料理で夏バテ解消 香り高いカレーやフォー",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSWNSaFQ4bldITC0yR0lFRU9zMGZ2RHhxaVBqc2NwZTBjOG5PYXNuVVRyRWxtQkMwa2t1Y0NLaFFGNlYyMFpXX0I4UDdiR3hPUlpmZGVOVlJIQkZJM3RQTVgwRHktVlE1Q2hNcmRzUDY1UQ?oc=5",
-      "summary": "センス光るアジア料理で夏バテ解消 香り高いカレーやフォー&nbsp;&nbsp;THE NIKKEI MAGAZINE",
-      "published_at": "2026-08-07T20:09:12Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-11T10:58:31+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Froot Loops maker WK Kellogg will cut artificial colors a year ahead of schedule",
-      "url": "https://www.fooddive.com/news/froot-loops-maker-wk-kellogg-will-cut-artificial-colors-a-year-ahead-of-sch/826821/",
-      "summary": "All of the cereal giant’s products will soon use dyes from natural sources, with shipments to retailers expected to begin by the end of 2026.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "渠道新物种",
-          "icon": "🏪",
-          "color": "#0f766e",
-          "score": 1
-        }
-      ],
-      "primary_category": "渠道新物种",
-      "scraped_at": "2026-08-11T10:58:43+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "More ultraprocessed foods could carry GMO labels after court ruling",
-      "url": "https://www.fooddive.com/news/gmos-bioengineered-food-labeling-law-court-usda-rewrite-upfs/827249/",
-      "summary": "The USDA will need to rewrite labeling standards for bioengineered foods by 2028 after a judge ruled against exemptions for highly refined ingredients.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        },
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "新原料",
-      "scraped_at": "2026-08-11T10:58:43+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Should grocers try reclassifying their beverage aisles?",
-      "url": "https://www.fooddive.com/news/fmi-beverage-nonalcoholic-drinks-report/827198/",
-      "summary": "Shoppers’ desire for drinks that match specific needs is reshaping the category, FMI found.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-11T10:58:43+08:00"
-    },
-    {
       "site_name": "Food Dive",
       "site_name_en": "Food Dive",
       "region": "北美",
@@ -6559,6 +6663,116 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-10T13:25:37+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Coca-Cola’s bet to relaunch Mr Pibb is paying off",
+      "url": "https://www.fooddive.com/news/mr-pibb-relaunch-top-growing-brand-morning-consult/829866/",
+      "summary": "The recently revived brand was the fastest growing soda in 2026, according to Morning Consult.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Beyond adds protein bars, powders in portfolio expansion",
+      "url": "https://www.fooddive.com/news/beyond-new-protein-bars-poweders-plant-based/829554/",
+      "summary": "The plant-based meat company is entering adjacent categories to tap into more lucrative opportunities within protein.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "USDA takes new SNAP waiver approach following court ruling",
+      "url": "https://www.fooddive.com/news/usda-takes-new-snap-waiver-approach-following-court-ruling/829824/",
+      "summary": "After a federal district court judge vacated SNAP food purchasing restrictions in five states, the federal government wants public comments.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "California approves first statewide non-ultraprocessed food label",
+      "url": "https://www.fooddive.com/news/california-non-upf-label-food/829797/",
+      "summary": "The landmark measure establishes a voluntary certification system and requires large grocery stores to prominently display cleaner label food options.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Arizona Beverages inks deal to bring Italian sparkling water to US",
+      "url": "https://www.fooddive.com/news/arizona-ferralelle-partner-sparkling-water/829791/",
+      "summary": "The deal includes an exclusive line of flavored sparkling waters catered to the U.S. market.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-11T13:23:23+08:00"
     }
   ]
 }

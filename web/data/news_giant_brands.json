@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-10T19:59:33",
+  "last_updated": "2026-09-11T13:23:09",
   "retention_days": 7,
-  "total": 569,
+  "total": 570,
   "s_count": 36,
   "a_count": 4,
-  "b_count": 529,
+  "b_count": 530,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「トロピカーナ エッセンシャルズ FRUIT ＆ PROTEIN アップル＆パイン」「トロピカーナ エッセンシャルズ FRUIT ＆ PROTEIN マンゴー＆白ぶどう」10月6日（火）より新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0911_01.html",
+      "published_at": "2026-09-11T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
