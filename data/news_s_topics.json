@@ -1,33 +1,55 @@
 {
   "total": 290,
-  "s_plus_count": 32,
+  "s_plus_count": 30,
   "sites": [
-    "Packaging Digest",
-    "朝日グループYouTube",
     "Food Dive",
-    "日経新聞",
-    "日経xTrend"
+    "朝日グループYouTube",
+    "日経xTrend",
+    "Packaging Digest",
+    "日経新聞"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "联名营销": 13,
-    "其他": 156,
-    "新产品": 52,
+    "其他": 161,
+    "联名营销": 11,
+    "新产品": 50,
     "营销创新": 19,
     "品牌故事": 16,
-    "并购融资": 7,
+    "并购融资": 6,
     "渠道新物种": 3,
     "新技术": 2,
     "新包装": 2,
     "行业政策": 18,
     "新原料": 2
   },
-  "last_updated": "2026-09-11 13:23",
-  "last_updated_iso": "2026-09-11T13:23:27.806257+08:00",
+  "last_updated": "2026-09-12 13:14",
+  "last_updated_iso": "2026-09-12T13:14:09.280117+08:00",
   "articles": [
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（106ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sM1lMdWVtQVNvY0ZCV3l3eEktWTMtRFpMa1A4c2ExZi1lQ1dHS1NDdmp2N3RPOXYzNDU0bjJ0MG93QkJCN1JjdHNRQnJIVC01SU9Hb2FoT3dMbGZYbjlLN2RzUWFZeGM?oc=5",
+      "summary": "食品・飲料（106ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-11T09:59:45Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-12T13:13:47+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -165,6 +187,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "米国発 AIで変わる小売り最前線",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoS2U0MGd0NU96dXR2SEk5bWRmX1FBdklUWkNuZ0ZoODk0dzI0ZHVXZHZ5TjNjSWxtN0tjSkhMajNSQVdJY2d2VkJnZHFNTDBnbmxLeFNCQXZ2dEtvU0UyZ2JNVTRnQ0NYZ0VMRnF0NHRNbldORE5F?oc=5",
+      "summary": "米国発 AIで変わる小売り最前線&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-10T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-12T13:13:47+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "食品・飲料（378ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tYVctZTFYckRpTzJBR3paeGl4TEJkNXFJNTB2LURmU0RZOXhSbzhKMlRMRndUdHF4aTJtS0RUWF82MXRLXzhOLVZ4T2pyQWFYaTl1RTIyRk11ekNXaEFvOTBrTjhLVWc?oc=5",
       "summary": "食品・飲料（378ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -203,6 +247,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-11T13:23:10+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（4ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XOWhXSG1qVXo0VUhQdWFCNzk4YXN5em0xUWV1a1V0LU1iZHBZMVlkcDlTVk9vOUFOWmdWWVVjWllpWTZJME9QbGZZTTV6Mms1TFZJQ0UyenZUV01vY3lWeEVuRFk?oc=5",
+      "summary": "食品・飲料（4ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-10T06:37:46Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-12T13:13:47+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -341,6 +407,28 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-09-10T13:25:24+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（158ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wdDlDTWtoWFZ4RERYdUZneGYwbnZVbkJuNkJvRXB4YmFWNFZUWEEyZEFwX09BQ0ViajF0RVdXcThHRjlKVlkybm9za0lockxla1BSR3VlVzVkOFRJLWdBRGlSS0lkMlU?oc=5",
+      "summary": "食品・飲料（158ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-09T16:24:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-12T13:13:47+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5079,140 +5167,6 @@
       "scraped_at": "2026-08-13T11:22:16+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "『めっちゃカメレオン』1500万本ヒットの裏に欧米のゲーム事情",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00072/?n_cid=nbpnxr_rss",
-      "summary": "2026年夏。日本のインディーゲーム界から超ヒット作が誕生した。“かくれんぼ”と“お絵描き”を合体させた独創的なオンラインゲーム『めっちゃカメレオン』だ。リリース後1カ月で販売本数1500万本を突破した。なぜ、これほどまでに世界中のゲーマーを夢中にさせているのか？ その魅力に迫る。",
-      "published_at": "2026-08-12T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-12T11:17:31+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "路線価上昇、タワマン節税規制、“負動産”……今やるべき相続対策6選",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00005/?n_cid=nbpnxr_rss",
-      "summary": "2026年8月4日発売の「日経トレンディ2026年9月号」では、「自分年金を増やす最新投資術」を特集。路線価の上昇で都市部の持ち家が課税対象になり、タワマン節税の規制で従来の対策も通用しにくくなった。さらに地方では、相続した実家が売れず貸せずの“負動産”になるリスクも高まる。相続税とは無縁と思っていた世帯も、今こそ資産、名義、税額を点検すべき時だ。",
-      "published_at": "2026-08-12T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        },
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-12T11:17:31+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "サントリー「金麦」ビール化に投資を最大化 看板ブランド不在の逆転策",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01443/00003/?n_cid=nbpnxr_rss",
-      "summary": "2026年10月の酒税改正で、大手4社は主力の「新ジャンル（第3のビール）」を一斉にビール化する。中でも、ブランドのポートフォリオへの影響が最も大きいのがサントリーだ。他社のような突出した看板スタンダードビールがない弱点を逆手に取り、同社のビール類で最大のブランド「金麦」のビール化で逆転を図る。金麦のブランド資産をビールカテゴリーに移すことで、ビール離反客を取り戻そうと画策。金麦ビール化の勝算と懸念を詳説する。",
-      "published_at": "2026-08-12T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "并购融资",
-      "scraped_at": "2026-08-12T11:17:31+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "新幹線の“夜行”が2日で完売 ホテル代高騰で宿泊ニーズ取り込む",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02947/?n_cid=nbpnxr_rss",
-      "summary": "インバウンド客の増加によるホテル宿泊料金の高騰が思わぬ需要を生み出している。移動手段と宿泊手段を兼ねる夜行列車の復権だ。騒音防止のため午前0時から午前6時までは運行ができない新幹線だが、途中駅で一夜を明かす形で疑似的に夜行を実現する「東海道ルミエールエクスプレス」が2026年8月8日に運行された。約500席を用意したところ、発売開始からわずか2日間で完売したという。JR東海は列車名を商標登録出願しており、さらなる展開を意気込んでいる。",
-      "published_at": "2026-08-12T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "完売",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-12T11:17:31+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Beer Packaging Wears L.L.Bean Plaid Shirt",
-      "url": "https://www.packagingdigest.com/beer-wine-spirits/beer-packaging-wears-l-l-bean-plaid-shirt",
-      "summary": "A real L.L.Bean flannel shirt inspired Harpoon Brewery to refresh its Flannel Friday beer packaging, turning a seasonal brew into a one-of-a-kind co-branded design.",
-      "published_at": "2026-08-11T20:54:14Z",
-      "is_s_plus": true,
-      "s_plus_reason": "co-branded",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 2
-        },
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-12T11:17:43+08:00"
-    },
-    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -5261,34 +5215,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-13T11:22:16+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Kraft Heinz pours nearly $100M more into innovation to drive turnaround",
-      "url": "https://www.fooddive.com/news/kraft-heinz-zeroes-in-on-marketing-as-it-pours-another-100m-into-turnaroun/827216/",
-      "summary": "Higher-impact media partnerships and stronger creative are leading to “green shoots” for its brands in the U.S., executives said.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        },
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-12T11:17:41+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -6773,6 +6699,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-11T13:23:23+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nestlé USA launches kids hydration drink Gerberlyte",
+      "url": "https://www.fooddive.com/news/Nestle-innovation-children-gerber-hydration/828829/",
+      "summary": "The CPG giant is looking beyond meals as part of a turnaround for its 100-year-old Gerber brand.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-12T13:14:04+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Boston Beer hires tech-savvy CMO to hone data-driven marketing",
+      "url": "https://www.fooddive.com/news/boston-beer-hires-tech-savvy-cmo-to-hone-data-driven-marketing/829940/",
+      "summary": "Allison Stransky will join the Samuel Adams owner from Samsung Electronics America, where she’s focused on applications of big data and AI.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-12T13:14:04+08:00"
     }
   ]
 }
