@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-13T17:24:57.481433+08:00",
+  "last_updated": "2026-09-13T21:31:54.649274+08:00",
   "retention_days": 7,
-  "total": 489,
+  "total": 488,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,78 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "27e47765e8ca4508",
+      "title": "キーコーヒー、最短10秒でレギュラーコーヒーの抽出を可能とする「JET BREW」の特徴を活かした新商品を投入",
+      "summary": "キーコーヒーは9月1日、最短10秒でレギュラーコーヒーの抽出を可能とする簡易抽出型レギュラーコーヒー「KEY DOORS＋(キードアーズプラス)JET BREW（ジェットブリュー）」（JET BREW）から新商品「キリ […] ソース",
+      "url": "https://shokuhin.net/156849/2026/09/13/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-09-13T20:46:30+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3e92855f304c352b",
+      "title": "天乃屋、揚米菓で新提案　麻辣味と塩キャラメル味を開発",
+      "summary": "天乃屋は「歌舞伎揚」や「古代米煎餅」の定番商品の展開に加えて、期間限定商品として揚米菓で新提案を行っている。 米菓の新規ユーザー獲得や需要動向の探索が狙いとみられる。 今回、新提案するのは「魅惑の麻辣味揚げせんべい […] ソース",
+      "url": "https://shokuhin.net/156846/2026/09/13/kakou/kashi/",
+      "published_at": "2026-09-13T20:39:45+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8783dbcf261a31cd",
+      "title": "ネスレ日本「ネスカフェ アイスブレンド」大幅伸長　「昨年の倍近く売れている」　冷たい水にサッと溶ける動画などの施策が奏功",
+      "summary": "2025年3月に発売されたネスレ日本の「ネスカフェ アイスブレンド」（アイスブレンド）が、その手軽さから市場に浸透し、大幅に伸長している。 「アイスブレンド」の販売動向について、8月25日、取材に応じた飲料事業本部レ […] ソース",
+      "url": "https://shokuhin.net/156842/2026/09/13/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-09-13T20:34:30+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f566a72c3347415e",
+      "title": "The Sunday Edition: Antibiotics",
+      "summary": "We have reached a point where there are very few treatment alternatives left for some bacterial infections – including some caused by foodborne bacteria.",
+      "url": "https://www.foodsafetynews.com/2026/09/the-sunday-edition-antibiotics/",
+      "published_at": "2026-09-13T20:00:17+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0a8865088d005a58",
+      "title": "「さつまりこ」の季節だよ！スナック菓子トレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック菓子」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26842/?utm_source=rss&utm_medium=mognavinews_20260913",
+      "published_at": "2026-09-13T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3959677beec41455",
+      "title": "今週新発売の惣菜パンまとめ！『じっくりコトコト旨深クラムチャウダー風パン』、『じっくりコトコト感動コーンポタージュパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン第一パン じっくりコトコト旨深クラムチャウダー風パンあさりの旨みがとけこん…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091308/?utm_source=rss&utm_medium=mognavinews_20260913",
+      "published_at": "2026-09-13T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "c2cfa22888bcfa7f",
       "title": "今週新発売の食パン・ロールパンまとめ！『本仕込山型九州産小麦』、『本仕込九州産小麦』など♪",
@@ -5801,90 +5873,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "0bee13fac0dbbe88",
-      "title": "カルビーポテト社、北海道産じゃがいもの安定調達へ効率化と品種改良を推進　4つの畦を一気に収穫する大型ハーベスター本格稼働",
-      "summary": "カルビーポテト社は、持続可能な北海道産じゃがいも（馬鈴薯）の調達に向けては、生産現場の省人化・効率化と馬鈴薯の品種改良を推進している。 省人化・効率化では、生産者の数が減少傾向にある一方で圃場が大型化していることを受 […] ソース",
-      "url": "https://shokuhin.net/156436/2026/09/06/kakou/kashi/",
-      "published_at": "2026-09-06T21:14:37+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "433eefdab299811b",
-      "title": "味の素AGF「ちょっと贅沢な珈琲店」ハンドドリップに勝算　広口ドリッパーで高評価獲得したプレミアムドリップから新サイズ投入",
-      "summary": "味の素AGFは「ちょっと贅沢な珈琲店」のレギュラーコーヒーで引き続きハンドドリップの楽しさや淹れやすさの訴求を追求していく。 8月26日、秋冬新製品発表会で石井大介コンシューマービジネス部長は「生活者に『こころが整う […] ソース",
-      "url": "https://shokuhin.net/156431/2026/09/06/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
-      "published_at": "2026-09-06T20:56:33+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "28d2c15bee5ca683",
-      "title": "アサヒ飲料から「高コスパ・ハイエナジー・大容量」のエナジードリンク登場　「プレデターエナジー」日本初上陸　市場拡大目指す",
-      "summary": "アサヒ飲料は、9月8日に新発売するエナジードリンクブランド「プレデターエナジー」で大容量と手頃な価格を訴求してエナジードリンクのエントリー層を取り込み市場拡大を目指す。 9月3日、WEBCM発表会に登壇したマーケティ […] ソース",
-      "url": "https://shokuhin.net/156426/2026/09/06/inryou/inryou-inryou/",
-      "published_at": "2026-09-06T20:35:10+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "40f390e5eddd9c9b",
-      "title": "ポッカサッポロ「じっくりコトコト」ブランド誕生30周年　食事や生活のクオリティを上げる存在へ「じっくり製法」を訴求",
-      "summary": "ポッカサッポロフード＆ビバレッジは、「じっくりコトコト」ブランドが今年で誕生30周年を迎えたことを機に、手間暇をかけた味わいを訴求し飲用を促していく。 8月18日、発表会に登壇した佐々木恭子マーケティング本部ブランド […] ソース",
-      "url": "https://shokuhin.net/156421/2026/09/06/kakou/",
-      "published_at": "2026-09-06T20:20:56+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "89606fa9834227a3",
-      "title": "GRAS, beef, trade talks still center stage",
-      "summary": "Highlights from this summer",
-      "url": "https://www.foodsafetynews.com/2026/09/gras-beef-trade-talks-still-center-stage/",
-      "published_at": "2026-09-06T20:00:11+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "5e4174ae733d41c3",
-      "title": "秋の味わい！カップデザートのトレンド人気ランキング",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「カップデザート」の最新・注目度ランキングです♪（2026年9月4日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26446/?utm_source=rss&utm_medium=mognavinews_20260907",
-      "published_at": "2026-09-06T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "aea4752ab62e7bf6",
-      "title": "今週新発売の惣菜パンまとめ！『ハムチーズオニオン』、『塩パン　明太ポテト』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンPasco ハムチーズオニオン 袋1個ハム・オニオン・マヨソースの王道…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090608/?utm_source=rss&utm_medium=mognavinews_20260907",
-      "published_at": "2026-09-06T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
