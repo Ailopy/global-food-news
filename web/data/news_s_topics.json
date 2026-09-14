@@ -1,33 +1,265 @@
 {
-  "total": 283,
-  "s_plus_count": 29,
+  "total": 290,
+  "s_plus_count": 33,
   "sites": [
-    "Food Dive",
-    "Packaging Digest",
+    "日経xTrend",
     "朝日グループYouTube",
     "日経新聞",
-    "日経xTrend"
+    "Packaging Digest",
+    "Food Dive"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "其他": 158,
-    "联名营销": 11,
+    "联名营销": 12,
+    "营销创新": 21,
+    "其他": 161,
+    "并购融资": 7,
     "新产品": 50,
-    "营销创新": 19,
     "品牌故事": 15,
-    "并购融资": 6,
     "渠道新物种": 3,
     "新技术": 2,
     "新包装": 2,
     "行业政策": 15,
     "新原料": 2
   },
-  "last_updated": "2026-09-13 13:28",
-  "last_updated_iso": "2026-09-13T13:28:57.477532+08:00",
+  "last_updated": "2026-09-14 13:33",
+  "last_updated_iso": "2026-09-14T13:33:18.396948+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "スマホ料金 乗り換え案内2026",
+      "url": "https://xtrend.nikkei.com/info/podcast/19/00422/?n_cid=nbpnxr_rss",
+      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の最新トレンドをチェックする「WEEKLY TREND KEYWORDS」は、老舗ファミリーレストラン「デニーズ」がグランドメニュー化した日清食品「完全メシ」とのコラボレーションの裏側と、発売2週間で出荷本数100万本を突破したサンスターの歯ブラシ「ガム・プレミアム デンタルブラシ」をピックアップ。後半は「スマホ料金 乗り換え案内2026」をお送りします。解説は日経トレンディの川内一史編集長。",
+      "published_at": "2026-09-14T05:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 2
+        },
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-14T13:33:04+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "社内で期待薄だった「タフグミ」の逆襲 逆境乗り越え、売上高100億突破",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01452/00002/?n_cid=nbpnxr_rss",
+      "summary": "誕生当時はトレンドから外れていたハード系の“ニッチグミ”がいまや、市場トップクラスのブランドへ。そんな下克上を果たしたのが、2014年に生まれたカバヤ食品の高弾力系グミ「TOUGH GUMMY（タフグミ）」だ。実は当初は、社内でも期待薄のブランドで、マス広告費ゼロの時代も続いていた。そんなマイナーブランドの製品がいまや、23年から3年連続でグミ市場トップとなる快進撃。ブランド全体の年間売上高も100億円を突破している。どのように逆境をはねのけ、ハード系グミ市場を開拓し覇権を取ったのか。成長のターニングポイントについて深掘りする。",
+      "published_at": "2026-09-14T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-14T13:33:04+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「本邦初公開『生成AIスキルマップ』 マーケターはどう生きるべきか」 ちょうど1年前振り返りランキング",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00131/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年9月14日～10月11日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
+      "published_at": "2026-09-14T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-14T13:33:04+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "『モンハンNow』2年ぶりリアルイベント カプコンの地元大阪で開催",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00103/?n_cid=nbpnxr_rss",
+      "summary": "「モンスターハンター」シリーズを生み出したカプコンと、位置情報ゲームを提供しているScopely Exploreは、スマートフォン向け位置情報ゲーム『モンスターハンターNow』のリアルイベントを、2026年11月にカプコンの本拠地である大阪で開催する。米ScopelyによるNiantic買収で運営環境は大きく変化したScopely Exploreにとって、2年ぶりのリアルイベントの実施となる。",
+      "published_at": "2026-09-14T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-09-14T13:33:04+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "楽天／PayPay／dカードだけでは不十分 クレカ「3枚持ち」の新戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00003/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。特定の優待店に限って爆発的な高還元を用意する「局地高還元クレカ」が今や主流。場面に応じたカードの「使い分け」が、ポイ活の勝敗を分ける鍵だ。メインカードは何を選び、そしてサブカードをどう組み合わせていくか。新時代の「最強の3枚」戦略を提案する。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-09-14T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "爆発的",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-14T13:33:04+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "X分析で判明、「もちもち」が国民的食感 データで見えた食品トレンド",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01083/00006/?n_cid=nbpnxr_rss",
+      "summary": "食品の魅力を伝える食感語は、実に多彩だ。だが、実際どのワードが本当に消費者に支持されているのかはあまり明らかになっていない。そこで今回、AIを用いたSNS分析サービスで「X」の投稿を分析。最も多く語られていた王道の“国民的食感”は、「もちもち」だった……。",
+      "published_at": "2026-09-14T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "食感",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-14T13:33:04+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "26年10月、折りたたみスマホ「iPhone Duo」発売 未来消費カレンダー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00247/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年10月23日「Apple『iPhone Duo』発売」ほか19件の情報を追加した。",
+      "published_at": "2026-09-14T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-14T13:33:04+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "博報堂DY・西山社長が語る「競争力」 AI時代、広告会社の価値とは？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01393/00003/?n_cid=nbpnxr_rss",
+      "summary": "2026年10月に開催される「虎ノ門広告祭2026」。2年目を迎える今回、主催グループに博報堂ＤＹホールディングス、サイバーエージェント、森ビル、トップカテゴリーのゴールドスポンサーに電通ジャパンとCARTA HOLDINGSが参加。日本の広告業、およびクリエイティブに関わる人々が、年に一度、リアルの場で一堂に会するプラットフォームとして機能し始めようとしている。クリエイティブディレクターの菅野薫氏が個人的な思いで、25年に立ち上げたこの“お祭り”に、日本を代表する広告会社がなぜ、主催者や協賛社として加わるのか。そこには、広告を取り巻くさまざまな変化が大きく影響している。社会や企業が抱える課題の複雑化、メディアの多様化、生成AIの進化──。博報堂ＤＹホールディングス 代表取締役社長CEOの西山泰央氏と菅野氏が、虎ノ門広告祭を主催する意義から、広告の現在地、広告会社や広告クリエイターが持つ競",
+      "published_at": "2026-09-14T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-14T13:33:04+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "X分析で判明、「もちもち」が国民的食感 データで見えた食品トレンド",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aemJOWkNvazJ6MGQtNDZRTEphNTlCMEFJaXNJUEstbWJUSGt2NXAtQjdqTVF4WHdHRm1FSjNfTDNtcGFmVTNER3lLbWlwcXpwNTFXbG1KZ1FRRktMLURUak1kMGtJZw?oc=5",
+      "summary": "X分析で判明、「もちもち」が国民的食感 データで見えた食品トレンド&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-13T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "食感",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-14T13:33:02+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（110ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOR2FkWlJSbV9KN1Z2cVNoeXJ1T3kzMkZCeEVHTklFT3hHYi1XNi1ldGYtbzNRWExfS2lWU0duQU1OUHRUT1lvQWxyLTN2Z25ZdTFvc2QzVjdBNnVlQ0pqeEk4NkVkVFk?oc=5",
+      "summary": "食品・飲料（110ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-12T04:30:36Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-14T13:33:02+08:00"
+    },
     {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
@@ -5067,56 +5299,6 @@
       "scraped_at": "2026-08-15T10:07:15+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ドラクエ40周年展を原宿で開催 体験型で新規ファン獲得を狙う",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00098/?n_cid=nbpnxr_rss",
-      "summary": "1986年の第1作発売以来、日本のロールプレイングゲーム（RPG）をけん引し続けてきた「ドラゴンクエスト」シリーズ。誕生40周年という大きな節目に、体験型企画展「ドラゴンクエスト the DIVE -まだ見ぬ冒険の舞台へ-」を、東急プラザ原宿「ハラカド」で2026年9月6日まで開催中だ。従来の“歴史を振り返る展示”にとどまらず、VRアトラクションや五感を刺激する体験型コンテンツを凝縮した本イベント。30周年イベントとは異なる狙いとは？",
-      "published_at": "2026-08-14T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-14T11:19:22+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Budweiser Brews Field of Dreams Beer with Baseball Bats",
-      "url": "https://www.packagingdigest.com/beer-wine-spirits/budweiser-brews-field-of-dreams-beer-with-baseball-bats",
-      "summary": "Beechwood Reserve limited-edition packaging design spotlights a brew aged with MLB-authenticated beechwood bats for the 2026 Field of Dreams Game.",
-      "published_at": "2026-08-13T18:42:37Z",
-      "is_s_plus": true,
-      "s_plus_reason": "limited-edition",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-14T11:19:35+08:00"
-    },
-    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -5143,34 +5325,6 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-08-21T10:16:39+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Goldfish debuts first gluten-free option",
-      "url": "https://www.fooddive.com/news/goldfish-gluten-free-snack-campbells/827553/",
-      "summary": "The Campbell's Company said the innovation is one of the most requested by consumers in the brand's history.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-14T11:19:33+08:00"
     },
     {
       "site_name": "Food Dive",
