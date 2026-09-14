@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-14T17:44:52.701066+08:00",
+  "last_updated": "2026-09-14T23:25:08.320945+08:00",
   "retention_days": 7,
-  "total": 509,
+  "total": 532,
   "sources": [
     "BevNET",
     "Fab News",
@@ -19,6 +19,150 @@
   ],
   "articles": [
     {
+      "id": "f1541d0047d45d7f",
+      "title": "Sleepytime Tea owner Hain Celestial to sell international business for $323M",
+      "summary": "The transaction marks the second major divestiture for the natural and organic food maker this year following the sale of its North American snacks business.",
+      "url": "https://www.fooddive.com/news/sleepytime-tea-owner-hain-celestial-selling-international-business-organic-natural/830263/",
+      "published_at": "2026-09-14T23:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "b8d6259968c689ef",
+      "title": "Fast growth, tight cash: Why successful CPG brands run out of working capital",
+      "summary": "Rising sales don’t instantly put cash in the bank. Learn why growth strains working capital for natural brands and when it’s time to look beyond your own cash reserves.",
+      "url": "https://www.newhope.com/industry-insights/fast-growth-tight-cash-why-successful-cpg-brands-run-out-of-working-capital",
+      "published_at": "2026-09-14T23:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "ef36dd5f329c1b32",
+      "title": "Kasia Market celebrates Asia's culinary diversity",
+      "summary": "See how this Asian natural retailer elevates local and heritage products, providing healthy food for the Belle Mead, New Jersey, community.",
+      "url": "https://www.newhope.com/retailers/kasia-market-celebrates-asias-culinary-diversity",
+      "published_at": "2026-09-14T23:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5e3505f01f6fbb4b",
+      "title": "McVitie’s highlights how biscuits bring Brits together in new brand campaign",
+      "summary": "pladis-owned McVitie’s is bringing some of its most iconic brands together for the first time with amulti-million pound campaign packed full of feeling that spotlights the role McVitie’s plays in…",
+      "url": "https://fabnews.live/mcvities-highlights-how-biscuits-bring-brits-together-in-new-brand-campaign/",
+      "published_at": "2026-09-14T22:30:58+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "b30734f4a100995a",
+      "title": "Marketing: Partake Lands Girl Scouts Deal for New Vegan, Nut-Free Cookie",
+      "summary": "Allergen-free cookie company Partake announced one of its most impactful partnerships to-date as it partners with Girl Scouts of the USA to supply a new cookie product, Sparkables, that supports the…",
+      "url": "https://www.nosh.com/news/2026/marketing-partake-lands-girl-scouts-deal-for-new-vegan-nut-free-cookie",
+      "published_at": "2026-09-14T22:13:57+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "cc3544520ac79bfd",
+      "title": "Why Apple May Be Fall’s Safest Flavor Choice",
+      "summary": "Apple may be fall’s safest flavor bet as brands embrace apple LTOs. With broader consumer appeal than pumpkin spice, apple offers foodservice and retail operators a versatile seasonal growth…",
+      "url": "https://foodinstitute.com/foodservice/why-apple-may-be-fall-safest-choice/?utm_source=rss&utm_medium=rss&utm_campaign=why-apple-may-be-fall-safest-choice",
+      "published_at": "2026-09-14T22:01:34+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "62f81537ba11f11f",
+      "title": "Inside PepsiCo’s dirty soda playbook",
+      "summary": "The beverage giant is putting a ready-to-drink twist on the buzzy drink trend, which an executive said has yet to reach its peak.",
+      "url": "https://www.fooddive.com/news/pepsico-ready-to-drink-dirty-soda-mountain-dew-mug-root-beer/828427/",
+      "published_at": "2026-09-14T21:26:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "5c8bacb137995b49",
+      "title": "Potts’ Sets The Pace When It Comes To Launching a 5-Strong Portfolio of Air Fryer Pastes In 100% Recyclable Aluminium Tubes",
+      "summary": "Building upon Potts’ prowess within premium tier, ambient cooking sauces, it perhaps wasn’t surprising that October 26 sees the Wiltshire-based business better placed than most to underline its…",
+      "url": "https://fabnews.live/potts-sets-the-pace-when-it-comes-to-launching-a-5-strong-portfolio-of-air-fryer-pastes-in-100-recyclable-aluminium-tubes/",
+      "published_at": "2026-09-14T21:21:34+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c552f7cd7b4a34f0",
+      "title": "Royal Avebe potato starch cuts gummy drying time to three hours",
+      "summary": "The PerfectaGEL technology could help nutra manufacturers accelerate vegan gummy production while protecting heat-sensitive actives",
+      "url": "https://nutraceuticalbusinessreview.com/royal-avebe-potato-starch-cuts-gummy-drying-time",
+      "published_at": "2026-09-14T19:12:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "596bede5445080d4",
+      "title": "British Airways Adopts Popcorn Kitchen To Meet Its Gourmet Sweet Snacking Commitments",
+      "summary": "They say that persistence pays and that’s how the Popcorn Kitchen team must certainly have felt when their best-selling Salted Caramel popcorn became the moreish, long haul ‘snack of choice’ for…",
+      "url": "https://fabnews.live/british-airways-adopts-popcorn-kitchen-to-meet-its-gourmet-sweet-snacking-commitments/",
+      "published_at": "2026-09-14T18:19:36+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5afe662b837a64a4",
+      "title": "炭酸飲料のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「炭酸飲料」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26875/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "cc39bad3ff2a2757",
+      "title": "今週新発売の惣菜パンまとめ！『タマゴサラダパン』、『月夜のベーコンエッグマフィン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン タマゴサラダパン 袋1個タマゴサラダとトマトケチャップを絞…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091408/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "424e8a8b905aea32",
       "title": "今週新発売の惣菜パンまとめ！『タマゴサラダパン』、『月夜のベーコンエッグマフィン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン タマゴサラダパン 袋1個タマゴサラダとトマトケチャップを絞…",
@@ -29,6 +173,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "6dae160fb954808c",
+      "title": "TSI Group brings precision personalised supplements to US and Australia",
+      "summary": "TSI Group is expanding its Tailored Script precision nutrition platform into the US and Australia, enabling individually formulated supplements to be manufactured at commercial scale",
+      "url": "https://nutraceuticalbusinessreview.com/tsi-group-precision-personalised-supplements-us-australia",
+      "published_at": "2026-09-14T17:19:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "cfa830b5a400e570",
@@ -187,10 +343,10 @@
       "language": "ja"
     },
     {
-      "id": "0b22b71fcca6e399",
+      "id": "2c97ba8b74ccbfb4",
       "title": "今週新発売の惣菜パンまとめ！『生こっぺ　たっぷり北海道ポテト』、『ハムマヨパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン 生こっぺ たっぷり北海道ポテト 袋1個生クリームを練り込んだパン…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091407/?utm_source=rss&utm_medium=mognavinews_20260914",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091407/?utm_source=rss&utm_medium=mognavinews_20260915",
       "published_at": "2026-09-14T15:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
@@ -211,11 +367,47 @@
       "language": "en"
     },
     {
+      "id": "0b22b71fcca6e399",
+      "title": "今週新発売の惣菜パンまとめ！『生こっぺ　たっぷり北海道ポテト』、『ハムマヨパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン 生こっぺ たっぷり北海道ポテト 袋1個生クリームを練り込んだパン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091407/?utm_source=rss&utm_medium=mognavinews_20260914",
+      "published_at": "2026-09-14T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3193245306f5291a",
+      "title": "【2026年9月第2週】コンビニ惣菜ランキング1位はファミマルのタコス味チキンロール！新商品も続々登場まとめ",
+      "summary": "コンビニ惣菜のランキング、今週はどんな商品がユーザーの心をつかんだのでしょうか。手軽においしいものを求める声が集まったもぐナビのクチコミから、注目の結果をお届…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26817/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "694f3a04c1fd8720",
       "title": "【2026年9月第2週】コンビニ惣菜ランキング1位はファミマルのタコス味チキンロール！新商品も続々登場まとめ",
       "summary": "コンビニ惣菜のランキング、今週はどんな商品がユーザーの心をつかんだのでしょうか。手軽においしいものを求める声が集まったもぐナビのクチコミから、注目の結果をお届…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26817/?utm_source=rss&utm_medium=mognavinews_20260914",
       "published_at": "2026-09-14T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "293d13207a22a6c6",
+      "title": "今週新発売のアイスクリーム🍨🍦まとめ！『ミニカップ　ラムレーズン』、『アソートボックス　キャラメルパーティー　クラシックキャラメル・キャラメル＆ショコラ・キャラメルサンデ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！アイスクリームの新商品情報をお届けします。今週新発売の#アイスクリームロッテ レディーボーデン ミニカップ ラムレーズン カッ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091406/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T13:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -244,6 +436,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "ae05a775fbec80a3",
+      "title": "【2026年9月第2週】コンビニ麺・コンビニパスタランキング1位は冷し中華！夏の新商品＆久々登場まとめ",
+      "summary": "残暑が続く9月第2週、コンビニ麺・コンビニパスタのランキングが更新されました。冷やし系から本格派のホット麺まで、今週もバラエティ豊かなラインナップが勢揃いして…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26816/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -277,6 +481,18 @@
       "url": "https://shokuhin.net/156879/2026/09/14/ryutu/orosi/%e6%a5%ad%e5%8b%99%e7%94%a8/",
       "published_at": "2026-09-14T12:47:08+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d4585aa4abfcf701",
+      "title": "今週新発売のローソンスイーツ🍰まとめ！『ごろっとした焼き芋のもち食感ロール　紅はるか』、『ごろっと栗のモンブランケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ローソンスイーツの新商品情報をお届けします。今週新発売の#ローソンスイーツローソン ごろっとした焼き芋のもち食感ロール 紅はる…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091405/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T12:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -427,6 +643,18 @@
       "language": "ja"
     },
     {
+      "id": "a12da86920994864",
+      "title": "【2026年9月第2週】コンビニスープ・コンビニ味噌汁ランキング1位は麻辣湯！新商品・急上昇アイテムまとめ",
+      "summary": "秋の気配が漂う9月第2週、コンビニのスープ・味噌汁コーナーにも体を温めてくれるメニューが続々と存在感を放っています。今週はどんな一杯がもぐナビユーザーの心をつ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26815/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "2674b3885662212a",
       "title": "【2026年9月第2週】コンビニスープ・コンビニ味噌汁ランキング1位は麻辣湯！新商品・急上昇アイテムまとめ",
       "summary": "秋の気配が漂う9月第2週、コンビニのスープ・味噌汁コーナーにも体を温めてくれるメニューが続々と存在感を放っています。今週はどんな一杯がもぐナビユーザーの心をつ…",
@@ -463,6 +691,18 @@
       "language": "ja"
     },
     {
+      "id": "d6487e70fe8a0325",
+      "title": "今週新発売のファミマスイーツ🍰まとめ！『濃厚なめらかかぼちゃチーズケーキ』、『クリームのせレトロプリン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマスイーツの新商品情報をお届けします。今週新発売の#ファミマスイーツファミリーマート ファミマルSweets 濃厚なめら…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091404/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "1915f6c95d158ebf",
       "title": "今週新発売のファミマスイーツ🍰まとめ！『濃厚なめらかかぼちゃチーズケーキ』、『クリームのせレトロプリン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ファミマスイーツの新商品情報をお届けします。今週新発売の#ファミマスイーツファミリーマート ファミマルSweets 濃厚なめら…",
@@ -484,6 +724,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "9be15dd07f25ea09",
+      "title": "【2026年9月第2週】コンビニパンランキング1位はカリッじゅワッサン！月見・コーヒークリームなど新商品まとめ",
+      "summary": "コンビニパン好きのみなさん、今週もおいしい発見がたくさん詰まったランキングの時間がやってきました。新商品から定番の実力派まで、もぐナビユーザーの熱いクチコミを…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26814/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -520,6 +772,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "20e448219bb339c9",
+      "title": "今週新発売のセブンイレブンスイーツ🍰まとめ！『青島刑事もご満悦！もっちり食感カヌレ』、『お月見ぜんざい』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンスイーツの新商品情報をお届けします。今週新発売の#セブンイレブンスイーツセブン-イレブン 青島刑事もご満悦！もっ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091403/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -580,6 +844,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "84ad9d2ad72a84fc",
+      "title": "【2026年9月第2週】コンビニ弁当ランキング1位は骨付きチキンビリヤニ！スパイス系新商品も続々まとめ",
+      "summary": "9月も中盤に差しかかり、コンビニ各社の力作が続々とランキングを賑わせています。今週は名店監修の本格派から、コスパ抜群のがっつり系まで、食欲の秋にぴったりな顔ぶ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26813/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -655,6 +931,18 @@
       "language": "ja"
     },
     {
+      "id": "493961cf05aaf1ef",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『あんだく天津飯』、『うどんだしの旨み　親子丼』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン あんだく天津飯た…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091402/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "ddb0c31b242195c9",
       "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『あんだく天津飯』、『うどんだしの旨み　親子丼』など♪",
       "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン あんだく天津飯た…",
@@ -673,6 +961,18 @@
       "url": "https://shokuhin.net/156889/2026/09/14/kakou/choumi/",
       "published_at": "2026-09-14T09:43:05+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "543e855a8b00e379",
+      "title": "【2026年9月第2週】コンビニおにぎり・コンビニ手巻寿司ランキング1位はU.F.O.そばめし！新商品・注目商品まとめ",
+      "summary": "9月に入り、コンビニのおにぎりコーナーもさらに充実してきました。今週のランキングには、話題のコラボ商品や定番の人気商品がずらりと並んでいます。さっそく2026…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26812/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T09:00:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -709,6 +1009,18 @@
       "url": "https://shokuhin.net/156854/2026/09/14/toku-info/",
       "published_at": "2026-09-14T08:22:24+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "87555bb1a36b05ba",
+      "title": "今週新発売の惣菜パンまとめ！『和風ツナマヨネーズパン　北海道産小麦の小麦粉使用　道民の醤油入り』、『ドーナツステーション　ツナドーナツ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ 和風ツナマヨネーズパン 北海道産小麦の小麦粉使用 道民の醤油入り…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091401/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-14T06:00:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -787,6 +1099,18 @@
       "language": "en"
     },
     {
+      "id": "4d58e185e33095ba",
+      "title": "「さつまりこ」の季節だよ！スナック菓子トレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック菓子」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26842/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-13T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "83f8304a7cb7579d",
       "title": "「さつまりこ」の季節だよ！スナック菓子トレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック菓子」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
@@ -811,6 +1135,18 @@
       "language": "ja"
     },
     {
+      "id": "27f49badb6e2133b",
+      "title": "今週新発売の惣菜パンまとめ！『じっくりコトコト旨深クラムチャウダー風パン』、『じっくりコトコト感動コーンポタージュパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン第一パン じっくりコトコト旨深クラムチャウダー風パンあさりの旨みがとけこん…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091308/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-13T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "1399da127dd7d957",
       "title": "今週新発売の惣菜パンまとめ！『じっくりコトコト旨深クラムチャウダー風パン』、『じっくりコトコト感動コーンポタージュパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン第一パン じっくりコトコト旨深クラムチャウダー風パンあさりの旨みがとけこん…",
@@ -828,6 +1164,18 @@
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン第一パン じっくりコトコト旨深クラムチャウダー風パンあさりの旨みがとけこん…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091308/?utm_source=rss&utm_medium=mognavinews_20260913",
       "published_at": "2026-09-13T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "cab0fc5747a2c3e4",
+      "title": "今週新発売の食パン・ロールパンまとめ！『本仕込山型九州産小麦』、『本仕込九州産小麦』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンフジパン 本仕込山型九州産小麦 袋5枚もっちりあまい九…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091307/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-13T15:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -871,6 +1219,18 @@
       "language": "ja"
     },
     {
+      "id": "d48674ebeb283fd9",
+      "title": "今週新発売の食パン・ロールパンまとめ！『本仕込山型九州産小麦』、『本仕込食パン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンフジパン 本仕込山型九州産小麦 袋6枚もっちりあまい九…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091306/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-13T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "d7a5a9f2d60d6c11",
       "title": "今週新発売の食パン・ロールパンまとめ！『本仕込山型九州産小麦』、『本仕込食パン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンフジパン 本仕込山型九州産小麦 袋6枚もっちりあまい九…",
@@ -888,6 +1248,18 @@
       "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンフジパン 本仕込山型九州産小麦 袋6枚もっちりあまい九…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091306/?utm_source=rss&utm_medium=mognavinews_20260913",
       "published_at": "2026-09-13T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "74ca057b51a782e1",
+      "title": "【2026年9月第2週】ポテトチップス・スナックランキング1位はおさつポテコ！新商品・急上昇商品まとめ",
+      "summary": "秋の味覚がじわじわと顔を出しはじめた今週のポテトチップス・スナックランキング。芋系フレーバーや定番人気商品がずらりと並び、思わず手が伸びてしまいそうなラインナ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26811/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-13T13:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -6024,102 +6396,6 @@
       "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。発売中のコンビニホットスナックローソン 月見まん満月をイメージしたもちもち生…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090801/?utm_source=rss&utm_medium=mognavinews_20260908",
       "published_at": "2026-09-08T06:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "379126c4c2f99e6e",
-      "title": "Natural ingredients, clean-label certification drive health and beauty sales",
-      "summary": "Clean beauty sales reached $3.6 billion in 2025 with 16% annual growth. Discover why retailers and brands are capitalizing on this boom.",
-      "url": "https://www.newhope.com/industry-insights/natural-ingredients-clean-label-certification-drive-health-and-beauty-sales",
-      "published_at": "2026-09-07T23:00:00+08:00",
-      "source": "New Hope Network",
-      "region": "北美",
-      "category": "功能性食品",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "c5a894571608a250",
-      "title": "Wether’s original taps into festive flavour with new speculoos popcorn",
-      "summary": "The launch comes as the UK popcorn category continues to grow, reaching sales of £211.5m in 2024, up 3.1% year on year. The post Wether’s original taps into festive flavour with new speculoos popcorn…",
-      "url": "https://www.sweetsandsnacksworld.com/news/30927/wethers-original-taps-into-festive-flavour-with-new-speculoos-popcorn/",
-      "published_at": "2026-09-07T22:42:33+08:00",
-      "source": "Sweets & Snacks World",
-      "region": "欧洲",
-      "category": "糕点糖巧",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "3eca4a8c6efe70bc",
-      "title": "US court invalidates Kaneka ubiquinol patent claims in Cocrystal case",
-      "summary": "A US District Court has ruled that two claims of Kaneka’s CoQ10 patent are invalid, clearing the way for Cocrystal Tech’s CrysQnol ubiquinol ingredient in the US",
-      "url": "https://nutraceuticalbusinessreview.com/us-court-invalidates-kaneka-ubiquinol-patent-claims-cocrystal",
-      "published_at": "2026-09-07T22:13:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "17e2fce27b83b2c7",
-      "title": "From bright idea to market-ready brand",
-      "summary": "For nutraceutical start-ups and young brands, outsourcing can provide the manufacturing expertise, infrastructure and regulatory support needed to launch efficiently, protect cash flow and build a…",
-      "url": "https://nutraceuticalbusinessreview.com/from-bright-idea-to-market-ready-brand",
-      "published_at": "2026-09-07T21:30:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "9c22ad8d359686eb",
-      "title": "Tyrosine linked to shorter lifespan in men in large longevity study",
-      "summary": "UK Biobank analysis has linked higher tyrosine levels to reduced lifespan in men, raising questions for the growing tyrosine supplement market",
-      "url": "https://nutraceuticalbusinessreview.com/tyrosine-linked-to-shorter-lifespan-men-longevity-study",
-      "published_at": "2026-09-07T19:39:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "0c68459ee2bb28ce",
-      "title": "Protein Pop launches 15 g protein and prebiotic soda for gut health",
-      "summary": "Rise Wellness has expanded its Protein Pop range with a zero-sugar sparkling beverage combining whey protein, collagen and five grams of fibre",
-      "url": "https://nutraceuticalbusinessreview.com/protein-pop-15g-protein-prebiotic-soda-gut-health",
-      "published_at": "2026-09-07T18:16:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "11cbe05c5e4dfb31",
-      "title": "Stockley’s Introduces Chocolate Candy Cane Sweets & A New Look Lancashire Mix To Its Seasonal Confectionery Stable",
-      "summary": "Autumn is the time of year when many food & drink businesses usher in a new wave of range additions, seasonal selections and packaging refreshes as food & drink businesses reset for the all-important…",
-      "url": "https://fabnews.live/stockleys-introduces-chocolate-candy-cane-sweets-a-new-look-lancashire-mix-to-its-seasonal-confectionery-stable/",
-      "published_at": "2026-09-07T18:15:49+08:00",
-      "source": "Fab News",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "b9d92851711b23bd",
-      "title": "お芋や月見！チェーン店のデザートのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「チェーン店のデザート」の最新・注目度ランキングです♪（2026年9月4日更新）食品クチコミサイト「もぐナビ」に投稿され…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26479/?utm_source=rss&utm_medium=mognavinews_20260908",
-      "published_at": "2026-09-07T18:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
