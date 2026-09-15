@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-15T17:20:07.197311+08:00",
+  "last_updated": "2026-09-15T21:58:47.593685+08:00",
   "retention_days": 7,
-  "total": 529,
+  "total": 535,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,162 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "f9e2110f726536d4",
+      "title": "New York Jets and VitaCholine continue partnership to put overlooked essential nutrient in the spotlight",
+      "summary": "Collaboration brings choline education and interactive wellness experiences to fans at MetLife Stadium",
+      "url": "https://nutraceuticalbusinessreview.com/new-york-jets-and-vitacholine-continue-partnership-to",
+      "published_at": "2026-09-15T21:45:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "32ef9e7e07d4264b",
+      "title": "Diageo Leverages Core Brands Into Low-Alc",
+      "summary": "Diageo, the first major spirits company to scale non-alc spirits alternatives, is building a mid-strength range in the UK.",
+      "url": "https://www.bevnet.com/spirits/2026/diageo-leverages-core-brands-into-low-alc",
+      "published_at": "2026-09-15T21:34:16+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d0c6b44a31a2d343",
+      "title": "SIRIO Europe names new general manager",
+      "summary": "Kortmann joins from Ontex, where she was General Manager for DACH (Germany, Austria & Switzerland), Benelux and the Nordics",
+      "url": "https://nutraceuticalbusinessreview.com/sirio-europe-names-new-general-manager",
+      "published_at": "2026-09-15T21:02:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "02d74ea8af7f0532",
+      "title": "Mondelēz set to relaunch ‘star brand’ Oreo in 2027",
+      "summary": "The snacking giant said the overhaul of the 100-year-old cookie brand, with nearly $5 billion in sales, will include new packaging, price points and formulas.",
+      "url": "https://www.fooddive.com/news/snacking-mondelez-relaunch-oreo-2027-chips-ahoy/830320/",
+      "published_at": "2026-09-15T21:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "411283cf4694ac3c",
+      "title": "Nestlé ‘not happy’ with food giant’s performance in North America",
+      "summary": "CFO Anna Manz said “more needs to be done” to improve execution in the region, particularly for creamers and its Gerber brand.",
+      "url": "https://www.fooddive.com/news/nestle-not-happy-with-performance-north-america-frozen-coffee/830304/",
+      "published_at": "2026-09-15T21:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "db249a9446f94907",
+      "title": "What Comes After the Meal Kit? How HelloFresh Is Evolving",
+      "summary": "HelloFresh's Assaf Ronen explains how the meal kit company is working towards an app-centric future for its users. The post What Comes After the Meal Kit? How HelloFresh Is Evolving appeared first on…",
+      "url": "https://foodinstitute.com/podcast/what-comes-after-the-meal-kit-how-hellofresh-is-evolving/?utm_source=rss&utm_medium=rss&utm_campaign=what-comes-after-the-meal-kit-how-hellofresh-is-evolving",
+      "published_at": "2026-09-15T19:30:38+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "19a63f4678572ce1",
+      "title": "Sustainable Herbs Initiative launches Toolkit 3.0 to advance ethical sourcing across botanical supply chains",
+      "summary": "Shaped by 55 member companies, the thirteen-chapter resource covers risk mapping, fair pricing, certifications and quality gates, giving supplement brands and primary processors actionable guidance…",
+      "url": "https://nutraceuticalbusinessreview.com/sustainable-herbs-initiative-toolkit-ethical-sourcing-botanical-supply-chains",
+      "published_at": "2026-09-15T19:08:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "bc98e75d520730e9",
+      "title": "Whaoo! brings a fun Halloween twist to treat time with limited-edition packaging for Chocolate Filled Crêpes",
+      "summary": "Whaoo!, the kids’ treat-time snack brand from Norac Foods, is bringing back Halloween packaging for their classic Chocolate Filled Crêpes, giving kids and families a fun and easy treat to enjoy…",
+      "url": "https://fabnews.live/whaoo-brings-a-fun-halloween-twist-to-treat-time-with-limited-edition-packaging-for-chocolate-filled-crepes/",
+      "published_at": "2026-09-15T18:49:09+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c095fce168e3c4f2",
+      "title": "BGG to showcase sweet and spicy flavour combinations at SupplySide Global",
+      "summary": "The firm will highlight its natural ingredient portfolio, including ApplePhenon, TheraPrimE and AstaZine, in functional beverages and snack bar concepts at this year's show",
+      "url": "https://nutraceuticalbusinessreview.com/bgg-showcase-sweet-spicy-flavour-combinations-supplyside-global",
+      "published_at": "2026-09-15T18:46:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "231737972954a9ce",
+      "title": "スープがパンに！？惣菜パンのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「惣菜パン」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26908/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-15T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3e8226cbb306bff9",
+      "title": "今週新発売のおやつ🍩まとめ！『マックフルーリー　明治アーモンドチョコレート』、『和もっち巻き安倍川餅　黒蜜＆きなこ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！おやつの新商品情報をお届けします。今週新発売の#おやつマクドナルド マックフルーリー 明治アーモンドチョコレート明治のロングセ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091508/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-15T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9be5280f057839a4",
+      "title": "Hydration has stopped meaning just water. Here's what EU beverage brands are adding to it",
+      "summary": "Walk down the beverage aisle in any major European city right now and \"hydration\" barely means water anymore. It means electrolytes, yes, but increasingly also antioxidants, recovery support, and a…",
+      "url": "https://nutraceuticalbusinessreview.com/hydration-has-stopped-meaning-just-water-here-s-what",
+      "published_at": "2026-09-15T17:29:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "aafee176d031a53a",
+      "title": "Your body is already telling you. The WHO's 8 warning signs of stress, and what to do with them",
+      "summary": "Stress rarely announces itself. It doesn't send a memo before it arrives. Instead, it shows up quietly, in a tight jaw, a stomach that won't settle, a headache that keeps circling back. By the time…",
+      "url": "https://nutraceuticalbusinessreview.com/your-body-is-already-telling-you-the-who-s",
+      "published_at": "2026-09-15T17:20:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "7bd255be1bf3f105",
       "title": "サンマルクカフェ「秋のチョコクロ収穫祭」9月18日から開催 / 「薫る蜜『芋』プレミアムチョコクロ」入りBOX購入でチョコクロ1個無料",
@@ -40,6 +196,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "25f6f97be4e75553",
+      "title": "今週新発売のお弁当🍱まとめ！『おにぎり２個セット　野沢菜　鶏そぼろ』、『東海限定　天津飯』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！お弁当の新商品情報をお届けします。今週新発売の#お弁当ローソン おにぎり2個セット 野沢菜 鶏そぼろ和風だしごはんに、油揚げ・…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091507/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-15T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -91,6 +259,18 @@
       "language": "ja"
     },
     {
+      "id": "1af3e31895fb3aeb",
+      "title": "Natural and science-backed skin brightening from inside with MintyBright Nu",
+      "summary": "Discover a natural apple mint extract clinically shown to support brighter, more even-looking skin from within",
+      "url": "https://nutraceuticalbusinessreview.com/natural-and-science-backed-skin-brightening-from-inside",
+      "published_at": "2026-09-15T14:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
       "id": "2fec1d5ef41acee4",
       "title": "【PRONTO】安納芋とほうじ茶の秋限定ドリンクなど発売、きのこ香る生パスタも",
       "summary": "飲食チェーンの「PRONTO(プロント)」は、カフェタイム(サカバタイム除く)で、安納芋とほうじ茶を使用したパフェラテや、旬の食材を使用したパスタなどを9月29日から期間限定で発売する。 「パフェラテ～お芋ほうじ茶～」は...",
@@ -115,6 +295,18 @@
       "language": "ja"
     },
     {
+      "id": "9aa6a095b12911b7",
+      "title": "今週新発売の惣菜パンまとめ！『スナックサンド　月見バーガー味』、『塩パン　明太ポテト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン スナックサンド 月見バーガー味 袋2個ハンバーガー風味フィリング…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091506/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-15T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "81455e843440c9af",
       "title": "ご飯大盛無料&「5種盛り定食」を販売する「からやま秋の満腹祭り」6日間限定で開催!",
       "summary": "からあげ定食専門店「からやま」は、2026年9月18日～23日の6日間、シルバーウィーク限定「からやま秋の満腹祭り」を開催する。 からやまの人気部位のからあげや名物メニューを贅沢に盛り合わせた「5種盛り定食」を販売するほ...",
@@ -136,6 +328,30 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "eb1a62eff6664865",
+      "title": "【2026年9月第2週】カップうどん・そばランキング1位はクラムチャウダーうどん！久しぶりランクインも話題のまとめ",
+      "summary": "カップうどん・そばのランキング、今週はどんな顔ぶれが揃ったのでしょうか。定番の人気商品から気になる新顔まで、もぐナビユーザーの熱いクチコミとともにお届けします…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26822/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-15T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e1ae4967dfcefcf1",
+      "title": "今週新発売の惣菜パンまとめ！『ボロニアソーセージ＆チーズ　ポテト』、『カレーマヨ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン ボロニアソーセージ＆チーズ ポテト 袋1個ボロニアソーセー…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091505/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-15T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -187,6 +403,18 @@
       "language": "en"
     },
     {
+      "id": "4915fc0d3c3702c1",
+      "title": "【2026年9月第2週】カップ焼きそば・パスタランキング1位は築地銀だこ監修たこ焼味焼そば！久しぶりランクインも見逃せないまとめ",
+      "summary": "今週もカップ焼きそば・パスタカテゴリのランキングをお届けします！気になるあの商品は上位に入ったのか、今週はどんな顔ぶれが揃ったのか、さっそくチェックしていきま…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-26821/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-15T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "deaa7506f90857c2",
       "title": "Umios 安田大助社長 「“挑戦と共創”をグループ一丸で」 北米など成長投資を加速",
       "summary": "創業146年の総合食品企業が、社名やCIなどすべてを一新して3月に誕生した「Umios（ウミオス）」。これから先の100年を見据え、自社のルーツである海を起点とした価値想像力で「食」を通じて人も地球も健康にするソリュー […] ソース",
@@ -205,6 +433,18 @@
       "url": "https://shokuhin.net/156974/2026/09/15/sonota/%e4%bc%81%e6%a5%ad%e6%b4%bb%e5%8b%95/",
       "published_at": "2026-09-15T11:40:52+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "2cb3e1b2e5f8dcd8",
+      "title": "今週新発売の惣菜パンまとめ！『ポケモンチーズカレーパン』、『とろけるチーズボロネーゼ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン第一パン ポケモンチーズカレーパンダイスチーズ入りのカレーフィリングをパン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091504/?utm_source=rss&utm_medium=mognavinews_20260915",
+      "published_at": "2026-09-15T11:30:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -847,18 +1087,6 @@
       "language": "ja"
     },
     {
-      "id": "c4c59daa52a517a6",
-      "title": "APAC’s booming beauty-from-within market drives demand for more advanced collagen solutions",
-      "summary": "As the category matures, brands are looking beyond ingredient claims toward greater peptide specificity, absorption potential, clinical evidence and regional market readiness",
-      "url": "https://nutraceuticalbusinessreview.com/apac-s-booming-beauty-from-within-market-drives-demand",
-      "published_at": "2026-09-14T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "2c97ba8b74ccbfb4",
       "title": "今週新発売の惣菜パンまとめ！『生こっぺ　たっぷり北海道ポテト』、『ハムマヨパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン 生こっぺ たっぷり北海道ポテト 袋1個生クリームを練り込んだパン…",
@@ -869,6 +1097,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "c4c59daa52a517a6",
+      "title": "APAC’s booming beauty-from-within market drives demand for more advanced collagen solutions",
+      "summary": "As the category matures, brands are looking beyond ingredient claims toward greater peptide specificity, absorption potential, clinical evidence and regional market readiness",
+      "url": "https://nutraceuticalbusinessreview.com/apac-s-booming-beauty-from-within-market-drives-demand",
+      "published_at": "2026-09-14T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "0b22b71fcca6e399",
@@ -6196,174 +6436,6 @@
       "region": "北美",
       "category": "综合",
       "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "3b6a1f8f9861b85d",
-      "title": "Kendall Jenner backs TRIP as calming drinks category surges",
-      "summary": "TRIP has appointed Kendall Jenner as global ambassador and shareholder, as calming beverages outpace gut health and protein as functional drinks' fastest-growing segment",
-      "url": "https://nutraceuticalbusinessreview.com/kendall-jenner-backs-trip-calming-drinks-category-surges",
-      "published_at": "2026-09-08T21:45:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "c54ad582937e7ec7",
-      "title": "AstaReal AB appoints new Head of Finance",
-      "summary": "New Head of Finance Mirva Johansson brings extensive international finance and leadership experience as AstaReal AB continues its international expansion",
-      "url": "https://nutraceuticalbusinessreview.com/astareal-ab-appoints-new-head-of-finance",
-      "published_at": "2026-09-08T21:35:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "0a6aee6e63c9e1d4",
-      "title": "Carbone Moves Beyond Sauce With New Italian Chili Crisp",
-      "summary": "Carbone Fine Foods is expanding outside of its signature pasta sauces, bringing a new chef-driven, restaurant-inspired innovation exclusively to Whole Foods Market.",
-      "url": "https://www.nosh.com/news/2026/carbone-moves-beyond-sauce-with-new-italian-chili-crisp",
-      "published_at": "2026-09-08T21:00:36+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "69793b65ceb2e4b7",
-      "title": "Oobli partners with NFL Alumni Association to drive mainstream adoption of precision-fermented sweet proteins",
-      "summary": "The Oobli Inside consumer platform will help families identify products using the fermentation-derived sweet protein — which replaces up to 90% of sugar without taste compromise — across retail,…",
-      "url": "https://nutraceuticalbusinessreview.com/oobli-partners-with-nfl-alumni-association-sweet-proteins",
-      "published_at": "2026-09-08T21:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "dc781ecc7671f235",
-      "title": "Quarter Proof Founders Return to Low-Alc With ‘Half-Cocktail’ Strength Demi Vodka",
-      "summary": "Rohan Radhakrishnan and Fabian Clark’s first attempt at building a mid-proof spirits category didn’t go as planned. Now, they’re trying again.",
-      "url": "https://www.bevnet.com/spirits/2026/quarter-proof-founders-return-to-low-alc-with-half-cocktail-strength-demi-vodka",
-      "published_at": "2026-09-08T20:30:44+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "e22e81fe8a4624a3",
-      "title": "Review: Chameleon Cold Brew Revamps With New Look & New Flavors",
-      "summary": "The relaunch brings a welcome visual refresh and solid liquid quality, although there is still room to further differentiate the lineup.",
-      "url": "https://www.bevnet.com/news/2026/review-chameleon-cold-brew-revamps-with-new-look-new-flavors",
-      "published_at": "2026-09-08T20:30:27+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "8912fa769d7de0de",
-      "title": "PharmaLinea expands hydration portfolio with creatine and collagen stick concepts",
-      "summary": "The two new private-label formats pair sugar-free amino acid cotransport hydration with trending lifestyle ingredients — targeting the convergence of functional hydration, sports nutrition and…",
-      "url": "https://nutraceuticalbusinessreview.com/pharmalinea-expands-hydration-portfolio-creatine-collagen-stick-concepts",
-      "published_at": "2026-09-08T20:02:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "25502cef12a89555",
-      "title": "Holland & Barrett joins Breakout Wellness UK as founding retail partner for wellness accelerator",
-      "summary": "The eight-week programme selects ten high-growth UK founders across gut health, functional nutrition and longevity — culminating in a November investor pitch event with TikTok Shop support packages…",
-      "url": "https://nutraceuticalbusinessreview.com/holland-barrett-joins-breakout-wellness-uk-accelerator",
-      "published_at": "2026-09-08T19:35:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "1f09b4847eb2352a",
-      "title": "秋のコンビニスイーツおすすめTOP3！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニスイーツ」のおすすめランキングです♪（2026年9月4日更新）食品クチコミサイト「もぐナビ」に投稿されたデータ…",
-      "url": "https://mognavi.jp/news/matome/gen-categoryRanking-26512/?utm_source=rss&utm_medium=mognavinews_20260909",
-      "published_at": "2026-09-08T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "a5239f7a7c3e46e0",
-      "title": "キユーピー 家庭用、業務用商品 11月から値上げ",
-      "summary": "キユーピーは11月1日出荷分から家庭用商品224品と、業務用商品601品を値上げする。家庭用商品は調味料（マヨネーズ・ドレッシング類、タルタルソースなど）113品、調理食品（パスタソースなど）30品、素材食品（サラダク […] ソース",
-      "url": "https://shokuhin.net/156580/2026/09/08/kakou/choumi/",
-      "published_at": "2026-09-08T17:47:37+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "5e91ad16d7ca4df0",
-      "title": "味の素冷凍食品 業務用を価格改定 12月から餃子・スイーツなど318品",
-      "summary": "味の素冷凍食品は、業務用製品のうち約8割にあたる318品目の出荷価格を12月1日納品分から改定する。 値上げ幅は1～6％。対象は「袋のままスチコンで焼餃子（肉）」「乾き知らず点心 黒豚大焼売」やスイーツを含むほぼすべ […] ソース",
-      "url": "https://shokuhin.net/156485/2026/09/08/kakou/reishoku/",
-      "published_at": "2026-09-08T17:38:05+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "1bddfd1cf14fd7a0",
-      "title": "ニッスイ 部門横断でニーズ深掘り 食品・水産の共創加速 取締役執行役員食品事業執行 中野博史氏",
-      "summary": "ニッスイは、長期ビジョン「GOOD FOODS 2030」のもと、30年度に国内食品事業の売上高を21年度比50％増、2090億円に引き上げることを目指している。中野博史取締役執行役員食品事業執行は「当社の特長は、水産 […] ソース",
-      "url": "https://shokuhin.net/156455/2026/09/08/topnews/",
-      "published_at": "2026-09-08T17:35:07+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "c9cee36ebbcb91a1",
-      "title": "今週新発売のチョコレート味🍫まとめ！『クリスプチョコ　香ばしキャラメル』、『チロルチョコ　ファミマ・ザ・メロンパン風味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！チョコレート味の新商品情報をお届けします。今週新発売の#チョコレート味日清シスコ クリスプチョコ 香ばしキャラメル 箱8個・薄…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026090808/?utm_source=rss&utm_medium=mognavinews_20260909",
-      "published_at": "2026-09-08T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "22aacf81d94c2690",
-      "title": "Stockley’s introduces Chocolate Candy Cane sweets & more",
-      "summary": "Autumn is the time of year when many food & drink businesses usher in a new wave of range additions, seasonal selections and packaging refreshes as food & drink businesses reset for the all-important…",
-      "url": "https://www.sweetsandsnacksworld.com/news/30934/stockleys-introduces-chocolate-candy-cane-sweets-more/",
-      "published_at": "2026-09-08T17:27:43+08:00",
-      "source": "Sweets & Snacks World",
-      "region": "欧洲",
-      "category": "糕点糖巧",
-      "level": "B",
       "language": "en"
     }
   ]
