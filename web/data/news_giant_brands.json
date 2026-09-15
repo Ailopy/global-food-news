@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-14T21:32:12",
+  "last_updated": "2026-09-15T13:33:03",
   "retention_days": 7,
-  "total": 577,
+  "total": 581,
   "s_count": 37,
   "a_count": 4,
-  "b_count": 536,
+  "b_count": 540,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -39,6 +39,72 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
+      "title": "呼気から「代謝の状態」を独自に可視化する「Lumen（ルーメン）」を9月30日（水）よりMakuakeで先行販売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0915_01.html",
+      "published_at": "2026-09-15T02:00:10",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "中国で親しまれる蒸留酒「白酒」の新たな楽しみ方を提案、日本市場向けに開発した「沱牌永昌源 Japan Edition」と「董酒 White Label」を新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0915_02.html",
+      "published_at": "2026-09-15T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-09-15T00:00:00",
+      "summary": "2026 年12月期 上期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "バイオ・ファインケミカル",
+      "url": "https://news.ajinomoto.co.jp/?genre=bio",
+      "published_at": "2026-09-15T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.15明星食品「明星 キセキ.監修 白い貝だし琉球そば」(9月28日発売)",
+      "url": "https://www.nissin.com/jp/news/13928/",
+      "published_at": "2026-09-15T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 공식 자사몰 ‘CJ더마켓’, 발견형 쇼핑 플랫폼으로 본격 진화… 모바일 앱 전면 리뉴얼2026.09.15",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1819",
+      "published_at": "2026-09-15T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
       "title": "鹿児島の希少な柑橘“辺塚だいだい”を効かせたすっきり爽やかなおいしさ 「キリン 本搾り&trade;チューハイ 辺塚だいだいと柑橘ブレンド＜季節厳選＞」発売",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0914_01.html",
       "published_at": "2026-09-14T02:00:10",
@@ -56,17 +122,6 @@
       "summary": "",
       "level": "S",
       "level_reason": "营销创新"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-09-14T00:00:00",
-      "summary": "2026 年12月期 上期 決算業績について",
-      "level": "B",
-      "level_reason": "企业动态"
     },
     {
       "brand": "Nissin",
@@ -537,17 +592,6 @@
       "title": "協和キリン、米国政府との合意を発表 ― 米国における治療費負担の軽減を推進 ―",
       "url": "https://ir.kyowakirin.com/ja/news/news8186720610551716667/main/0/link/20260901_01.pdf",
       "published_at": "2026-09-01T02:00:05",
-      "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Ajinomoto",
-      "brand_cn": "味之素",
-      "region": "日本",
-      "title": "バイオ・ファインケミカル",
-      "url": "https://news.ajinomoto.co.jp/?genre=bio",
-      "published_at": "2026-09-01T00:00:00",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
