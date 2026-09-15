@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-15T13:33:03",
+  "last_updated": "2026-09-15T20:23:25",
   "retention_days": 7,
-  "total": 581,
+  "total": 582,
   "s_count": 37,
   "a_count": 4,
-  "b_count": 540,
+  "b_count": 541,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -217,6 +217,17 @@
       "region": "日本",
       "title": "2026.09.10湖池屋「今金男しゃくポテトチップス」(9月10日より予約受付開始)",
       "url": "https://www.nissin.com/jp/news/13919/",
+      "published_at": "2026-09-10T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 ‘햇반 백미’, 美 뉴욕 타임스퀘어 전광판 장식… “K-푸드 확대 가속”2026.09.10",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1820",
       "published_at": "2026-09-10T00:00:00",
       "summary": "",
       "level": "B",
