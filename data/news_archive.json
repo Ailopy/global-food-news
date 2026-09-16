@@ -1,7 +1,139 @@
 {
-  "last_updated": "2026-09-16T17:13:04.963028+08:00",
-  "total": 9975,
+  "last_updated": "2026-09-16T21:51:54.373666+08:00",
+  "total": 9986,
   "articles": [
+    {
+      "id": "8135057ffe3bd28f",
+      "title": "Folgers launches functional coffee line featuring protein, fiber",
+      "summary": "The J.M. Smucker-owned brand is stepping into health trends by highlighting ingredients to boost energy, focus and digestion.",
+      "url": "https://www.fooddive.com/news/folgers-functional-coffee-protein-fiber/830509/",
+      "published_at": "2026-09-16T21:36:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "db467829d7fb762a",
+      "title": "Review: Prime Bites Mini Muffins Brings Big Protein Payload In A Small Package",
+      "summary": "With 15 grams of protein and 5 grams of collagen per 3-count package, this snackable line promotes its low sugar and “fluffy” texture as selling points.",
+      "url": "https://www.nosh.com/news/2026/review-prime-bites-mini-muffins-brings-big-protein-payload-in-a-small-package",
+      "published_at": "2026-09-16T21:30:43+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "654bd4ffe640eeb6",
+      "title": "Trubar and Cha Cha Matcha release new Love You So Cha Cha Matcha protein bar",
+      "summary": "The partnership introduces a limited-edition Love You So Cha Cha Matcha protein bar available at retailers across the US, along with the PB&J Matcha and Trubar protein cold foam, available for a…",
+      "url": "https://www.sweetsandsnacksworld.com/news/30948/trubar-and-cha-cha-matcha-release-new-love-you-so-cha-cha-matcha-protein-bar/",
+      "published_at": "2026-09-16T21:20:31+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "2f4ff85fdbe876b2",
+      "title": "FLYING FISH DARES FANS TO PARTY AT DRACULA’S CASTLE FOR THE ULTIMATE HALLOWEEN EXPERIENCE",
+      "summary": "One-of-a-kind promotion will send winners to Transylvania for an exclusive Halloween party at the legendary Bran Castle, headlined by renowned international DJs This Halloween, Flying Fish is daring…",
+      "url": "https://fabnews.live/flying-fish-dares-fans-to-party-at-draculas-castle-for-the-ultimate-halloween-experience/",
+      "published_at": "2026-09-16T21:18:00+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "35d00c8cb9685ea8",
+      "title": "Sol-ti Raises $30M, Deepens Positions In Functional Shots",
+      "summary": "Glass-bottled shot maker Sol-ti raised $30.3 million in equity investment earlier this year as it positions for expansion in retail and foodservice.",
+      "url": "https://www.bevnet.com/news/2026/sol-ti-raises-30m-deepens-positions-in-functional-shots",
+      "published_at": "2026-09-16T21:00:43+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "3fd946a76b5e7272",
+      "title": "Pouch-perfect vegan nutrition",
+      "summary": "SoreThumbStudio® recently collaborated with The Vegan Society on a comprehensive brand and packaging refresh for veg1®. The Vegan Society wanted to transform its flagship supplement brand from a…",
+      "url": "https://fabnews.live/pouch-perfect-vegan-nutrition/",
+      "published_at": "2026-09-16T20:39:48+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c934869ec8a62c7d",
+      "title": "Cerebelly-Fresh Bellies Deal Signals Platform Push in Kids Nutrition",
+      "summary": "Children’s meal and snack platform Cerebelly announced today it has made its first acquisition, buying up freeze-dried kids snack brand Fresh Bellies.",
+      "url": "https://www.nosh.com/news/2026/cerebelly-fresh-bellies-deal-signals-platform-push-in-kids-nutrition",
+      "published_at": "2026-09-16T18:00:59+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d1eb4a78e284be76",
+      "title": "セブンのオシャレBOXが気になる！コンビニ弁当のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニ弁当」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-27007/?utm_source=rss&utm_medium=mognavinews_20260916",
+      "published_at": "2026-09-16T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b8b4a4adbb2a1526",
+      "title": "HOLIE’S LAUNCHES WAKE UP BIG CEREAL CAMPAIGN",
+      "summary": "A EUROPEAN INITIATIVE FOR MAJOR MANUFACTURERS TO REMOVE ADDED SUGAR FROM CEREALS Holie’s, the Dutch disruptive challenger brand and the #2 cereal brand in both the Netherlands and Belgium, is…",
+      "url": "https://fabnews.live/holies-launches-wake-up-big-cereal-campaign/",
+      "published_at": "2026-09-16T17:51:53+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d8f9f685192dffd6",
+      "title": "今週新発売のセブンイレブンパンまとめ！『アップルシナモンロール』、『よくばりサンド　チョコミント』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン アップルシナモンロールシナモン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091608/?utm_source=rss&utm_medium=mognavinews_20260916",
+      "published_at": "2026-09-16T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "2ae2708a2004d972",
+      "title": "dsm-firmenich opens new Jakarta office and expanded Karawang facility",
+      "summary": "The new facility — powered by 100% green energy — will provide a baked goods application lab and a pilot plant for dairy UHT applications to boost the ingredient manufacturer's production capacity",
+      "url": "https://nutraceuticalbusinessreview.com/dsm-firmenich-opens-new-jakarta-office-expanded-karawang",
+      "published_at": "2026-09-16T17:22:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "c6ea185618348aef",
       "title": "【ガスト】カキフライや月見メニューなど「おいしい秋色グルメ」フェア開催、シルバーウィーククーポンで最大300円引き",
@@ -51,18 +183,6 @@
       "language": "ja"
     },
     {
-      "id": "1cc73ed0b1b062f9",
-      "title": "Back to school with Pycnogenol: part II",
-      "summary": "Part II will explore Pycnogenol’s potential benefits for cognition, focus and academic performance in children, students and young adults",
-      "url": "https://nutraceuticalbusinessreview.com/back-to-school-with-pycnogenol-part-ii",
-      "published_at": "2026-09-16T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "9b039d193a466028",
       "title": "今週新発売のチョコレート味🍫まとめ！『苺のダース』、『トリュフきなこラテ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！チョコレート味の新商品情報をお届けします。今週新発売の#チョコレート味森永製菓 苺のダース 箱12粒・つぶつぶ食感入りの苺風味…",
@@ -73,6 +193,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "1cc73ed0b1b062f9",
+      "title": "Back to school with Pycnogenol: part II",
+      "summary": "Part II will explore Pycnogenol’s potential benefits for cognition, focus and academic performance in children, students and young adults",
+      "url": "https://nutraceuticalbusinessreview.com/back-to-school-with-pycnogenol-part-ii",
+      "published_at": "2026-09-16T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "feb6487f88ba1b97",
@@ -819,10 +951,10 @@
       "language": "en"
     },
     {
-      "id": "02d74ea8af7f0532",
-      "title": "Mondelēz set to relaunch ‘star brand’ Oreo in 2027",
-      "summary": "The snacking giant said the overhaul of the 100-year-old cookie brand, with nearly $5 billion in sales, will include new packaging, price points and formulas.",
-      "url": "https://www.fooddive.com/news/snacking-mondelez-relaunch-oreo-2027-chips-ahoy/830320/",
+      "id": "411283cf4694ac3c",
+      "title": "Nestlé ‘not happy’ with food giant’s performance in North America",
+      "summary": "CFO Anna Manz said “more needs to be done” to improve execution in the region, particularly for creamers and its Gerber brand.",
+      "url": "https://www.fooddive.com/news/nestle-not-happy-with-performance-north-america-frozen-coffee/830304/",
       "published_at": "2026-09-15T21:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
@@ -831,10 +963,10 @@
       "language": "en"
     },
     {
-      "id": "411283cf4694ac3c",
-      "title": "Nestlé ‘not happy’ with food giant’s performance in North America",
-      "summary": "CFO Anna Manz said “more needs to be done” to improve execution in the region, particularly for creamers and its Gerber brand.",
-      "url": "https://www.fooddive.com/news/nestle-not-happy-with-performance-north-america-frozen-coffee/830304/",
+      "id": "02d74ea8af7f0532",
+      "title": "Mondelēz set to relaunch ‘star brand’ Oreo in 2027",
+      "summary": "The snacking giant said the overhaul of the 100-year-old cookie brand, with nearly $5 billion in sales, will include new packaging, price points and formulas.",
+      "url": "https://www.fooddive.com/news/snacking-mondelez-relaunch-oreo-2027-chips-ahoy/830320/",
       "published_at": "2026-09-15T21:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
