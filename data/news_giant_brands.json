@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-15T20:23:25",
+  "last_updated": "2026-09-16T13:25:37",
   "retention_days": 7,
-  "total": 582,
+  "total": 584,
   "s_count": 37,
   "a_count": 4,
-  "b_count": 541,
+  "b_count": 543,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.16湖池屋『正答率100％チャレンジ! 湖池屋プライドポテト100％キャンペーン』(9月16日より実施)",
+      "url": "https://www.nissin.com/jp/news/13929/",
+      "published_at": "2026-09-16T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -98,6 +109,17 @@
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1819",
       "published_at": "2026-09-15T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-named-to-3bls-2026-100-best-corporate-citizens-list-for-18th-consecutive-year",
+      "published_at": "2026-09-15T00:00:00",
+      "summary": "General Mills Named to 3BL’s 2026 100 Best Corporate Citizens List for 18th Consecutive Year",
       "level": "B",
       "level_reason": "企业动态"
     },

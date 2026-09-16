@@ -1,20 +1,21 @@
 {
-  "total": 295,
+  "total": 306,
   "s_plus_count": 36,
   "sites": [
-    "朝日グループYouTube",
-    "Food Dive",
-    "日経xTrend",
     "Packaging Digest",
-    "日経新聞"
+    "朝日グループYouTube",
+    "日経新聞",
+    "Food Dive",
+    "日経xTrend"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "新产品": 50,
-    "其他": 165,
+    "新产品": 53,
+    "其他": 172,
+    "行业政策": 16,
     "渠道新物种": 4,
     "联名营销": 12,
     "营销创新": 22,
@@ -22,12 +23,143 @@
     "品牌故事": 14,
     "新技术": 2,
     "新包装": 2,
-    "行业政策": 15,
     "新原料": 2
   },
-  "last_updated": "2026-09-15 13:33",
-  "last_updated_iso": "2026-09-15T13:33:20.700214+08:00",
+  "last_updated": "2026-09-16 13:25",
+  "last_updated_iso": "2026-09-16T13:25:55.871916+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "日本ゲーム大賞発表、2026年の大賞受賞作品は『ぽこ あ ポケモン』",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00105/?n_cid=nbpnxr_rss",
+      "summary": "「日本ゲーム大賞2026」の「経済産業大臣賞」「年間作品部門」が発表された。経済産業大臣賞には「ポケットモンスター」、年間作品部門の大賞には『ぽこ あ ポケモン』が選ばれた。「ムーブメント賞」は2000万本の販売本数を突破した『めっちゃカメレオン』が受賞した。",
+      "published_at": "2026-09-16T13:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-16T13:25:40+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "電車でマイルをためられることも JR東西＆メトロの地域別最強クレカ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00005/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。通勤や通学で毎日のように使う電車。その移動が、実はポイントやマイルを着実に稼ぐ源泉になる。JR東日本のSuica系、JR西日本のICOCA系、東京メトロ利用者向けなど、鉄道会社と連携したクレジットカードは還元率や特典が大きく異なる。居住エリアや利用路線に合わせて選べば、交通費の負担を抑えながら効率よく資産を積み上げられる。地域別に狙うべき鉄道系クレカを徹底解説する。",
+      "published_at": "2026-09-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-16T13:25:40+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ぐるなびが突き止めた飲食店AI検索の需要 54万店から18秒で店選び",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01455/00006/?n_cid=nbpnxr_rss",
+      "summary": "飲食店を検索しても、情報が多すぎて店を決められない。ぐるなびは、こうした飲食店選びの課題を解消するため、AIエージェント搭載アプリ「UMAME!」を開発した。AIがユーザーの状況や意図を読み取り、約54万店から現在地周辺の店を提案する。ユーザーが候補を決めるまでの時間は平均約18秒。次に狙うのは、複数人のAIが好みを自動調整し、幹事にも言いにくい希望を店選びへ反映する仕組みである。",
+      "published_at": "2026-09-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-16T13:25:40+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ゴンチャ社長が語る「最大の失敗」 サブウェイで経験した顧客の喪失",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01452/00004/?n_cid=nbpnxr_rss",
+      "summary": "「行列ができ、売り上げも伸びた。なのに、客は戻らなかった」。ゴンチャ ジャパン社長の角田淳氏が、サブウェイ時代の「最大の失敗」を告白。集客数だけを追い、店頭体験を損なった反省は、成長を支える仕組みにどう変わったのか。「顧客体験に効かない施策は行わない」と豪語する原点に迫る。",
+      "published_at": "2026-09-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-16T13:25:40+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Mini Packs for Maximum Impact",
+      "url": "https://www.packagingdigest.com/food-beverage/mini-packs-for-maximum-impact",
+      "summary": "Small yet mighty, miniature food and beverage packs are having a moment for more reasons than you might think.",
+      "published_at": "2026-09-15T18:13:02Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-16T13:25:54+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "カップヌードル スパイスSHOCKカレー",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50a0M5LVpjNGtlT0RDQWR1c0dfZTFsM3MzZlJJMHVlVjZqQWRvRUlIUTJpUnBOVHZvalJ4M0hBRFFXc3lhMzJELTlUak9DX0pJNjh0Z25Td1NXaWxrTnNNUTd3cTg?oc=5",
+      "summary": "カップヌードル スパイスSHOCKカレー&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-15T00:20:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-16T13:25:38+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -99,6 +231,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-15T13:33:06+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "未来のノンアルレモンサワー",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSzZucHc0b1NXYnNvVWtVQ0hRcFRvTzlVWVMzcUktUHRsczhXZXJES3hOejVkQWZhbkEyUUc0ZVJJaERiMF85bE1mVzlBaklBYmJTYUVKYkhSdnZaNXc0V1ZCNkw1dU1vek9MaGNkSzVUTFNGSG9hNDNUVlpjclNKdEZzVUpCWHVMbnc?oc=5",
+      "summary": "未来のノンアルレモンサワー&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-14T15:32:09Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-16T13:25:38+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -6853,6 +7007,94 @@
       ],
       "primary_category": "并购融资",
       "scraped_at": "2026-09-15T13:33:16+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Kraft Heinz looks to ‘fix’ Oscar Mayer after sales losses",
+      "url": "https://www.fooddive.com/news/kraft-heinz-oscar-mayer-turnaround/830286/",
+      "summary": "A resealability issue in the product’s packaging was responsible for “the vast majority of the problem,” the company’s CEO said.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-16T13:25:51+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How Mondelēz wants to ‘shake up’ snacking with cookies",
+      "url": "https://www.fooddive.com/news/Mondelez-snacking-cookies-oreo-chipsahoy/828605/",
+      "summary": "The Oreo and Chips Ahoy! maker is turning to innovation and marketing to woo more consumers inundated with other choices, such as chips and candy.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-16T13:25:51+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Leftovers: Carbone expands beyond sauce | Little Debbie flips for flapjacks",
+      "url": "https://www.fooddive.com/news/carbone-chili-crisp-little-debbie-pancakes-functional-nonalc-beer/830164/",
+      "summary": "The restaurant-inspired pasta sauce brand is debuting an Italian-inspired chili crisp, while protein powder maker Optimum Nutrition brews a functional non-alcoholic beer.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-16T13:25:51+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "General Mills, Mars sue sugar producers for alleged price-fixing",
+      "url": "https://www.fooddive.com/news/general-mills-mars-lawsuit-sugar-price-fixing/830079/",
+      "summary": "Food giants claim suppliers coordinated on sensitive pricing information and pushed costs for the sweetener to a record high.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-16T13:25:51+08:00"
     }
   ]
 }
