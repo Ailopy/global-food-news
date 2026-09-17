@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-17T13:34:27",
+  "last_updated": "2026-09-17T20:20:47",
   "retention_days": 7,
-  "total": 601,
+  "total": 602,
   "s_count": 39,
   "a_count": 4,
-  "b_count": 558,
+  "b_count": 559,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "キリンの独自素材「プラズマ乳酸菌」を初めてパンに配合 Pascoと共同開発した「免疫ケアロール」を10月1日（木）より新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0917_04.html",
+      "published_at": "2026-09-17T06:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
