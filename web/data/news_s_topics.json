@@ -1,6 +1,6 @@
 {
-  "total": 306,
-  "s_plus_count": 36,
+  "total": 314,
+  "s_plus_count": 38,
   "sites": [
     "Packaging Digest",
     "朝日グループYouTube",
@@ -9,25 +9,197 @@
     "日経xTrend"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "新产品": 53,
-    "其他": 172,
-    "行业政策": 16,
+    "新产品": 54,
+    "品牌故事": 14,
+    "其他": 176,
+    "营销创新": 24,
+    "行业政策": 17,
     "渠道新物种": 4,
     "联名营销": 12,
-    "营销创新": 22,
     "并购融资": 7,
-    "品牌故事": 14,
     "新技术": 2,
     "新包装": 2,
     "新原料": 2
   },
-  "last_updated": "2026-09-16 13:25",
-  "last_updated_iso": "2026-09-16T13:25:55.871916+08:00",
+  "last_updated": "2026-09-17 13:34",
+  "last_updated_iso": "2026-09-17T13:34:44.972822+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "石川県町工場の「割れない食器」300万枚ヒット 器の価値を再定義",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00616/00043/?n_cid=nbpnxr_rss",
+      "summary": "OEMを主要事業とする中小企業が、自社ブランドでヒットを生み出すには何が必要か――。その歩みを体現するのが、父が長年描いてきた「自社ブランドを持ちたい」という夢をかなえるべく家業に入った、石川樹脂工業の石川勤氏だ。地元クリエーターらと開発した「1000回落としても割れない食器」ARAS（エイラス）は、発売から6年で累計販売数は300万枚を超え、売上高は2倍に。親子2代の夢をかなえた過程を聞いた。",
+      "published_at": "2026-09-17T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "累計販売",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-17T13:34:30+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "米国小売で浸透する“考えるカメラ” 導入費用5分の1、取得データは5倍",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01478/00001/?n_cid=nbpnxr_rss",
+      "summary": "フィジカルAIの進化が急速に進もうとしています。オフラインの実店舗がAIによって進化していく世界が現実味を帯びてきた米国では、これまでオンラインを中心に事業を展開してきたブランドも、次々と実店舗へ進出し始めています。米Googleが表参道に米国外初の旗艦店を先日オープンしたのもその流れの一端でしょう。例えば店内に設置するカメラは、単に録画するだけのデバイスから考えるデバイスへと置き換わり始めています。筆者は、米国シリコンバレーのベンチャーキャピタル、Evolutionの大橋晶氏と共に、その最前線について画像解析技術のスタートアップ、米Bluebird AI共同創業者のローハン・サニル氏に伺いました。",
+      "published_at": "2026-09-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 2
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-09-17T13:34:30+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "鍵は◯◯◯カード 陸マイラーのためのANA・JALマイル“両取り”戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00009/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。ANAとJAL、ためるマイルはどちらか一方に絞る。それが陸マイラーの常識だった。しかし、交換先を柔軟に選べる高還元カードを軸にすれば、二刀流は可能になる。鍵を握るのは、対象店やクレカ乗車で最大10％還元となる「JCBカード S」だ。東京メトロやJR東日本、ANA Pay、JAL Payも組み合わせ、毎日の買い物と移動を特典航空券へ近づける最適な布陣を探る。なお、記事の最後にはANAカード、JALカードを比較した誌面のPDFへのリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-09-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-17T13:34:30+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アップルが新AIでアプリ不要の購買体験 アマゾン、ウォルマートが急対応",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00109/00232/?n_cid=nbpnxr_rss",
+      "summary": "米Appleが「iOS 27」で投入した新機能「Siri AI」が、生活者の購買体験を劇的に変えるインパクトを秘めているとして、米小売り大手がアプリ改修に動き出している。スマートフォンアプリが主役を張る時代は終わりを告げ、AIの手足として裏側で下支えする脇役へ——。いったい、何が起ころうとしているのか。",
+      "published_at": "2026-09-17T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "インパクト",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-17T13:34:30+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "マーケ炎上で4ブランドが謝罪 TargetとCallawayに学ぶ「おわび」作法",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00003/?n_cid=nbpnxr_rss",
+      "summary": "マーケティング施策が「炎上」し、2026年8月には2週間の間でNeutrogena、Target、Good Good Golf、Callawayと4つの米ブランドが相次いで謝罪した。専門家の評価は大きく分かれる。顧客の信頼を取り戻す「おわび」には何が必要なのか。4社の対応を米有力メディア「ADWEEK」が分析する。",
+      "published_at": "2026-09-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-17T13:34:30+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ウォルマートのAI利用客は注文額35％増 小売6社の広告戦略最前線",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54TXpfN1k5a094RklzaWF2RFFCNWF5SVRYOUp5WFU1QS0zcGhtWVJMMkRMak9BWlVtRHdUNmx5bldYTEdfdGxua2ozczBYZXUwT2E5cThqWG02Yk9Za0F5RC1ad0RoQQ?oc=5",
+      "summary": "ウォルマートのAI利用客は注文額35％増 小売6社の広告戦略最前線&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-17T13:34:28+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米国発 エッジAIカメラで来店客分析の民主化が起きる",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yREttME5fTV8xNnA4SHItdFhMeVM3VkY4NEMwSzBLYks5d2NJMU85eTdqZlZkVTI4emM4UFRKanJ1d0k1LVFsemtScWthZHh1Y3dGUWRmeVNZTDZLQ2pIbU9xVzgwZw?oc=5",
+      "summary": "米国発 エッジAIカメラで来店客分析の民主化が起きる&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-17T13:34:28+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -137,6 +309,28 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-09-16T13:25:54+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "パーフェクトサントリービール〈エール〉",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wdlp3b1BTc056cUZIbDZlNDRyS2xuWHUtZnNIRkR4WDd6bjJ1VndPZlg4N1R4Qzd3MEpVOHo4TUQ5XzBiTTM5Q0RVUVVLLWhGZ0xUYjhrc0J3VzI1NmFyTktVLXA?oc=5",
+      "summary": "パーフェクトサントリービール〈エール〉&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-15T15:50:58Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-17T13:34:28+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -259,6 +453,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "未来のノンアルレモンサワー",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hRlRNbDdldlRCU1hCNWF4MTNXSWRfei14TDhUWDhLaEEwYjhvSkV5QndZMzVCZjR4aUhoNHFiaG9RSFlOc01NdmhIcFBvMXNJN0JLNVRXSjBNUG1lSUl2Qy1VX1U?oc=5",
+      "summary": "未来のノンアルレモンサワー&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-14T15:32:09Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-17T13:34:28+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "“映える”食感トレンド、麺類は「ワシワシ」 スイーツは「ふわもち」",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ2dFb0dFVDdBQzREQWFFY3FDTXQ3UUo2NHZ5VVprRVMwOGZFMWl3bEMxdGgySHpvR3hTeW9UZkdlWjFUV0FLQmtyS3l4N1hqeE9OOUZidkRIM1ZoYkh2VUlPTkdZLUtKWDN1WVZldm5hVkthY1hNNkdINHlfNkZfeHM2bnQ5NUZnR1R3?oc=5",
       "summary": "“映える”食感トレンド、麺類は「ワシワシ」 スイーツは「ふわもち」&nbsp;&nbsp;日経クロストレンド",
@@ -297,6 +513,28 @@
       ],
       "primary_category": "渠道新物种",
       "scraped_at": "2026-09-15T13:33:03+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "飲料に学ぶ商品企画の“新髄”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TVHpZWjRUSUpsOFRKajNvUWpURUdWbGkwTEx0V040WUZpX2ZxQUg1d1NZdElGWUdwa0tfa3N3ZXV1ZkJjcDRXcXQ4a0VXWkdyNURfd05BbGtrUkRfeGc?oc=5",
+      "summary": "飲料に学ぶ商品企画の“新髄”&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-14T06:02:37Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-17T13:34:28+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -1041,6 +1279,28 @@
       ],
       "primary_category": "营销创新",
       "scraped_at": "2026-09-10T13:25:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ヒット率より発売速度 10期超成長企業の流儀",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40a1ZHZGEyY29PSEdZbnBvN1pZSnB4bVNoakhKTVhiRGkwY0ctb1hLMmV2cmZvYzdGZFNTQWp0XzhQbmhmZlRxM1RWY2RNd0x3U25kZDdkYmRkdWUwaHR4b2lWay1JUzhUamtr?oc=5",
+      "summary": "ヒット率より発売速度 10期超成長企業の流儀&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-09T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-17T13:34:28+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5378,153 +5638,6 @@
       "scraped_at": "2026-08-19T10:11:01+08:00"
     },
     {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒスーパードライ WEBCM「30℃超えたら、”キンキンDRY”残暑」篇 30秒 長澤まさみ",
-      "url": "https://www.youtube.com/watch?v=AnpsxZ5QWWM",
-      "summary": "アサヒスーパードライ WEBCM「30℃超えたら、”キンキンDRY”残暑」篇 30秒 長澤まさみ 出演者：長澤まさみ 楽曲：ONE OK ROCK / The Beginning ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
-      "published_at": "2026-08-17T01:00:04Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-08-17T10:13:15+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i2.ytimg.com/vi/AnpsxZ5QWWM/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "VR×高音質で究極の没入体験 推し活需要で映画館の閑散期の解消狙う",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02949/?n_cid=nbpnxr_rss",
-      "summary": "空間レイヤープラットフォームを提供するSTYLY、ローソン・ユナイテッドシネマ、KDDIの3社は、「Immersive Zero」の上映を2026年9月25日から開始する。映画館でVRゴーグルを装着し、推しを超至近距離で見ることができるこの体験。VRのリアルな映像に映画館の音響を合わせることで、より深くストーリーに没入できる新たな推し活の形だ。",
-      "published_at": "2026-08-17T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-17T10:13:00+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "老後に必要な正味額を“公式”で可視化 自分年金と副業で受取総額アップ",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00006/?n_cid=nbpnxr_rss",
-      "summary": "2026年8月4日発売の「日経トレンディ2026年9月号」では、「自分年金を増やす最新投資術」を特集。実は、家計調査を基にすると、65歳以降の夫婦2人世帯の支出は30年間で約1億円に達する計算になる。しかし、本当に1億円が必要なのか。公的年金や退職金を踏まえた上で、自分で用意すべき正味額を算出する方法から、インフレ時代の資産形成術、自分年金づくりのポイントまで、老後不安を解消するための最新戦略を探る。",
-      "published_at": "2026-08-17T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-17T10:13:00+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "「キリン 氷結無糖」猛暑で好調 無糖チューハイ販売シェアは5年で5倍",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02941/?n_cid=nbpnxr_rss",
-      "summary": "「キリン 氷結無糖」と味香り戦略研究所は2026年7月28日、「令和の夏に求めるおいしさ調査」の結果を発表。年々暑さが増す中で、食事・お酒の選び方が変わってきたことを発表した。また、キリンビールによると、RTD市場の中でも無糖チューハイ市場は拡大を続けており、26年10月の酒税改正により新ジャンルや発泡酒のユーザーが流入し、市場がさらに拡大することを見込む。",
-      "published_at": "2026-08-17T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-17T10:13:00+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "書店のDXは書誌データ整備が必須 アマゾンが米国で果たした意外な貢献",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nLU1WNDdiMmlmbkIzRmhTaFROekpYcllfSDZYTGRvT2tDbnZOZTFMeUFqeEh5U1JjajltMmtOVGhfNkVzdHMwcVRsc1FlcXFpMWsyTDFuVXdNQXp1bTNRSG1yS2tNWGRkbWoydg?oc=5",
-      "summary": "書店のDXは書誌データ整備が必須 アマゾンが米国で果たした意外な貢献&nbsp;&nbsp;日経BOOKプラス",
-      "published_at": "2026-08-16T20:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-17T10:12:58+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "「キリン 氷結無糖」猛暑で好調 無糖チューハイ販売シェアは5年で5倍",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wUE03R3B0TXNmTFBtWnFNYmVfYnFUZG1xRXhIQzlmMVZjMVhMMzEySzNLeURmYUlZT0kxaEV6czJfZjRNajYxZnRyU0ZhSWROX1RkUkpja05peEZDTTdmZjNOMUs1a3ZtZ1E?oc=5",
-      "summary": "「キリン 氷結無糖」猛暑で好調 無糖チューハイ販売シェアは5年で5倍&nbsp;&nbsp;xtrend.nikkei.com",
-      "published_at": "2026-08-16T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-17T10:12:58+08:00"
-    },
-    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -7095,6 +7208,72 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-16T13:25:51+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Mars zeroes in on gut health with startup partnerships",
+      "url": "https://www.fooddive.com/news/mars-startups-unreasonable-fiber-gut-health/830410/",
+      "summary": "The Snickers owner announced the latest cohort for its accelerator program, prioritizing firms advancing solutions in fiber, protein and nutrition.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-17T13:34:40+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Inside PepsiCo’s dirty soda playbook",
+      "url": "https://www.fooddive.com/news/pepsico-ready-to-drink-dirty-soda-mountain-dew-mug-root-beer/828427/",
+      "summary": "The beverage giant is putting a ready-to-drink twist on the buzzy drink trend, which an executive said has yet to reach its peak.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-17T13:34:40+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Sleepytime Tea owner Hain Celestial to sell international business for $323M",
+      "url": "https://www.fooddive.com/news/sleepytime-tea-owner-hain-celestial-selling-international-business-organic-natural/830263/",
+      "summary": "The transaction marks the second major divestiture for the natural and organic food maker this year following the sale of its North American snacks business.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-17T13:34:40+08:00"
     }
   ]
 }
