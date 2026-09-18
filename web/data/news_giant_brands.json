@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-18T13:22:17",
+  "last_updated": "2026-09-18T20:00:32",
   "retention_days": 7,
-  "total": 604,
+  "total": 607,
   "s_count": 39,
   "a_count": 4,
-  "b_count": 561,
+  "b_count": 564,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -65,6 +65,39 @@
       "url": "https://www.nissin.com/jp/news/13932/",
       "published_at": "2026-09-18T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "url": "https://www.asahigroup-holdings.com/newsroom/detail/20260918-0105.html",
+      "published_at": "2026-09-18T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "統合報告書2026発行のお知らせ",
+      "url": "https://www.asahigroup-holdings.com/newsroom/detail/20260918-0104.html",
+      "published_at": "2026-09-18T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "맛과 건강의 반비례를 깨다, 테이스트앤리치(TasteNrich®)BIOGlobal2026.09.18",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/118",
+      "published_at": "2026-09-18T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
       "level": "B",
       "level_reason": "企业动态"
     },
