@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T16:56:23.917268+08:00",
-  "total": 10162,
+  "last_updated": "2026-09-18T21:15:06.425649+08:00",
+  "total": 10168,
   "articles": [
     {
       "id": "32036deec49c49fd",
@@ -13,6 +13,78 @@
       "category": "功能性食品",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "f222df346db982c4",
+      "title": "New Beverages: Recess ‘Tinis, La Colombe Matcha, Plus Pharrell & Pusha T’s New Coffee",
+      "summary": "This week's new product gallery finds music icons Pharrell and Pusha T back on the 'grind,' FINNSUL finds inspiration on TikTok for its latest collaboration, plus new releases from La Colombe,…",
+      "url": "https://www.bevnet.com/news/2026/new-beverages-recess-tinis-la-colombe-matcha-plus-pharrell-pusha-ts-new-coffee",
+      "published_at": "2026-09-18T21:05:37+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "3212ae415c44b6c2",
+      "title": "New Products: AWAKE Caffeinates Trail Mix, Momofuku Gets Saucy",
+      "summary": "In this week’s new products roundup, AWAKE Chocolate takes its caffeine platform into trail mix, Momofuku Goods makes its biggest portfolio expansion yet with a new line of cooking sauces, and TRUBAR…",
+      "url": "https://www.nosh.com/news/2026/new-products-awake-caffeinates-trail-mix-momofuku-gets-saucy",
+      "published_at": "2026-09-18T21:00:26+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8dc4fbfe721a2d26",
+      "title": "MicroLub raises $10m to advance fat-reduction ingredient technology",
+      "summary": "The University of Leeds spin-out will use new funding to scale its protein-based tech for reducing fat and calories while maintaining taste and texture, as demand for GLP-1-driven food reformulation…",
+      "url": "https://nutraceuticalbusinessreview.com/microlub-raises-10m-to-advance-fat-reduction-ingredient",
+      "published_at": "2026-09-18T18:36:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "022a08f154c2da0d",
+      "title": "セブン＆アイHD元会長  鈴木敏文氏「お別れの会」 コンビニで小売りの常識変える",
+      "summary": "5月18日に93歳で逝去したセブン＆アイ・ホールディングス名誉顧問、鈴木敏文氏の「お別れの会」が18日、ホテルニューオータニ（東京都・千代田区）で開かれた。午前には親族や同社関係者ら約500人が参列する式典を開催。午後 […] ソース",
+      "url": "https://shokuhin.net/157173/2026/09/18/ryutu/kouri/%ef%bd%83%ef%bd%96%ef%bd%93/",
+      "published_at": "2026-09-18T18:04:46+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4ea4a8ffac045660",
+      "title": "Kyowa Hakko to serve as the official women’s health sponsor at SupplySide Global 2026",
+      "summary": "Kyowa Hakko will showcase its functional food innovations at SupplySide Global 2026, as Setria Glutathione marks its 20th anniversary and Cognizin Citicoline expands into functional foods and…",
+      "url": "https://nutraceuticalbusinessreview.com/kyowa-hakko-official-women-health-sponsor-supplyside-global",
+      "published_at": "2026-09-18T17:58:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "a92869c38fa94652",
+      "title": "今週新発売の菓子パン🍫まとめ！『生どーなつ　シュガー』、『サンドロール　十勝バタークリーム』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンフジパン 生どーなつ シュガー 袋1個生クリームを練り込み、ドーナツシュガ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091808/?utm_source=rss&utm_medium=mognavinews_20260918",
+      "published_at": "2026-09-18T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "28c776e8b2bc6894",
