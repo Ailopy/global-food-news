@@ -1,33 +1,321 @@
 {
-  "total": 314,
-  "s_plus_count": 38,
+  "total": 321,
+  "s_plus_count": 40,
   "sites": [
     "Packaging Digest",
     "朝日グループYouTube",
-    "日経新聞",
+    "日経xTrend",
     "Food Dive",
-    "日経xTrend"
+    "日経新聞"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "新产品": 54,
-    "品牌故事": 14,
-    "其他": 176,
+    "其他": 180,
+    "新产品": 57,
     "营销创新": 24,
-    "行业政策": 17,
+    "联名营销": 13,
+    "品牌故事": 13,
+    "行业政策": 18,
     "渠道新物种": 4,
-    "联名营销": 12,
     "并购融资": 7,
     "新技术": 2,
     "新包装": 2,
-    "新原料": 2
+    "新原料": 1
   },
-  "last_updated": "2026-09-17 13:34",
-  "last_updated_iso": "2026-09-17T13:34:44.972822+08:00",
+  "last_updated": "2026-09-18 13:22",
+  "last_updated_iso": "2026-09-18T13:22:35.346952+08:00",
   "articles": [
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVVVhTV9LRlZCQXFBLXdrOVRQVzl0amhCZkNKdzUxcHpFckh6VkZfODZVOVF5NHVLaUNaOUVDRjNaeDRJN2VuQjluYlJCRXlhZjFvLVlhbGdlRVRlSHpKSl93aEY4R1pLa1Y3VGt5WGxvcGZDc0FUcDd0dzRtOWluQjB2cjVLUnotaFQ5cm5NOA?oc=5",
+      "summary": "Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-18T04:58:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-18T13:22:18+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "三井住友を三菱UFJがゴールド2％還元で猛追 クレカ積み立て最新攻略法",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00011/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。NISAで投資信託を積み立てる場合、「クレカ積み立て」が効果的だ。証券会社の経済圏ごとに用意されたクレジットカードは、カードのランク次第で還元率や実質的なメリットが大きく変わる。三井住友、三菱UFJ、楽天など主要プレーヤーの最新優遇策を比較すると、意外な“高コスパカード”も浮上。毎月10万円を積み立てた場合、最も得する選択肢はどれなのか。ポイント獲得力と年会費の損得を徹底検証する。",
+      "published_at": "2026-09-18T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-18T13:22:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ゴールド／プラチナ8枚の実質損益比較 年会費無料クレカを上回る条件",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00010/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。かつては「富裕層向け」と思われていたゴールドカード、プラチナカードだが、年間利用額に応じてボーナスポイントを付与するものが増えている。そこで有力なゴールドカード、プラチナカードについて、年会費無料・還元率1％のクレカと比べて、年間利用額がいくら以上なら得になるかを検証した。なお、記事の最後にはこれらのクレカの詳細を紹介する誌面のPDFへのリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-09-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-18T13:22:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "熊本で学んだ「食の価値」 地域一丸で生み出す食の経済インパクト",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02939/?n_cid=nbpnxr_rss",
+      "summary": "「魅力的な食材も郷土料理もあるのに、伝わらない……」。多くの地方都市が抱える悩みだろう。熊本県も、そんな悩みを抱えていた地域の一つだ。しかし、熊本県は「『食のみやこ熊本県』創造推進ビジョン」を打ち出し、大きく前進し始めている。どうすれば地域の食にスポットライトは当たるのか。トップシェフやフードテックエバンジェリストの外村仁（Hitoshi Hokamura）氏らが、熊本県知事の木村敬氏などと議論を交わした。",
+      "published_at": "2026-09-18T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "インパクト",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-18T13:22:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "虎ノ門を日本の“カンヌ”に 森ビルになぜ「広告祭」が必要なのか",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01393/00004/?n_cid=nbpnxr_rss",
+      "summary": "2026年10月に開催される「虎ノ門広告祭2026」。2年目を迎える今回、主催グループに博報堂ＤＹホールディングス、サイバーエージェント、森ビル、トップカテゴリーのゴールドスポンサーに電通ジャパンとCARTA HOLDINGSが参加する。日本を代表する広告会社の名前が並ぶ中、異色なのが森ビルだ。森ビルは、虎ノ門広告祭が開催される虎ノ門ヒルズ TOKYO NODEの“大家”ではあるが、第1回から主催者として携わっている。なぜ、場所を貸すだけでなく、主催者に加わったのか。背景には、虎ノ門をさまざまなクリエイティブとビジネスがクロスしていく場に、というブランディングもあるようだ。そもそも、虎ノ門広告祭を立ち上げたクリエイティブディレクターの菅野薫氏には、23年に開業した「TOKYO NODE」のコンセプトやネーミング、ロゴデザイン、コンテンツ企画に深く関わってきたという縁もある。森ビルが考える広",
+      "published_at": "2026-09-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-18T13:22:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "経営学者・楠木氏、ヘラルボニー・松田氏も推薦！ 『熱狂しない経営』発売",
+      "url": "https://xtrend.nikkei.com/info/18/00006/00452/?n_cid=nbpnxr_rss",
+      "summary": "予約好調につき、重版決定！ 4年にわたって「北欧、暮らしの道具店」を展開するクラシコムを追跡した連載企画がついに書籍化。同社のビジネス・ブランディングを徹底解剖した初の書籍『熱狂しない経営 「北欧、暮らしの道具店」クラシコムが20年磨き続けた“らしさ”の正体』を発行します。Amazonにおいて先行予約をしておりましたが、2026年9月21日に全国の書店でも本格展開をスタートいたします。",
+      "published_at": "2026-09-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-18T13:22:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "サントリー「NOPE」、8月の販売金額は16位 アサヒの対抗馬は6位止まり",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00921/00070/?n_cid=nbpnxr_rss",
+      "summary": "発売直後、炭酸飲料カテゴリーの販売金額ランキング1位に躍進したサントリーの「ギルティ炭酸 NOPE」。発売約5カ月で出荷1億本を突破する異例のヒットとなったNOPEの現在地は？ また、既存の主力炭酸ブランド「ペプシ」や、隣接カテゴリーともいえるエナジードリンク「ZONe」は？ 競合のアサヒ飲料も「NO罪悪感」を掲げた新商品で追撃する激戦の炭酸商戦を、最新のPOSデータから検証する。",
+      "published_at": "2026-09-18T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "億本",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-18T13:22:20+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ブランドは広く届く“媒体” クラシコム青木氏×ヘラルボニー松田氏対談",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00688/00021/?n_cid=nbpnxr_rss",
+      "summary": "約4年にわたってクラシコムを追跡してきた本連載企画を再構成し、2026年9月21日に発売する新刊書籍『熱狂しない経営 「北欧、暮らしの道具店」クラシコムが20年磨き続けた“らしさ”の正体』。企業やブランドの“らしさ”はどこに宿るのか、どこから生まれるのか、そもそも“らしさ”とは何なのか、同社の様々な領域の取材から迫っている。今回は、同書籍のテーマである企業やブランドが持つ“らしさ”の在り方について、特別対談をお届けする。語り合うのは、クラシコム代表取締役社長の青木耕平氏と、ヘラルボニー代表取締役Co-CEOの松田崇弥氏だ。",
+      "published_at": "2026-09-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-18T13:22:20+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "French Beer Packaging Design Takes Flight",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/french-beer-packaging-design-takes-flight",
+      "summary": "Montaner Pietrini’s Se Canto beer labels feature a distinctive Hoopoe bird that connects both the brand and bird to their shared home in southern France.",
+      "published_at": "2026-09-17T16:46:56Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-18T13:22:33+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "サントリー「NOPE」、8月の販売金額は16位 アサヒの対抗馬は6位止まり",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWxJR25BSjhMeGNzYXhBZHNFUk1SQ1NPYnpPaW92T0NMMjM1QUJfTU5tRUJqeENWTjZ5U0dqUUJMMTgtWjM3WnhJQ1JhNE5WUkxLeHRoUkRKckVTX0xWbTN3Vjg1bHItZkhlMXhEejI1YlF6YW5IQnozcTItVWpETHBPTlZmZk5YSUxz?oc=5",
+      "summary": "サントリー「NOPE」、8月の販売金額は16位 アサヒの対抗馬は6位止まり&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-17T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-18T13:22:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDZIODBWNjVIcEE2WEFSXzNqYnIxak9NTWdZX1NFbUpMQ3g0c1diYk1DQmwzUmhQSUVzS20waklVZ2dGVUZ4RHE4cU9uYjlrdUVpRG1qU0p1YUtJUEg4MmVGTjZ6MlliSFV5ZS10WmlRbEtUdWc4VGZLNmNtM1BIUTd1blRGZTVacGdv?oc=5",
+      "summary": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-17T10:20:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-18T13:22:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「GALLERIA」（ガレリア）ブースはコラボゲーミングPCを展示【TGS2026】",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcXRCYlYzamRLVUFCV2s3QnZYUmF4X2JBYzRKQ3FtUHhIYnZNQ1l4cTVKeVF1Q0VwbFdlR0lOa0tBekpKM3BJRzZyS3hmZk5mSFB0MVhFd000QTNJbXFndHBfU1BvMkd4a0c1cmkzYUZBQThzMklJZnlqd0lNemdWNzdqamU5NUQ2RHVB?oc=5",
+      "summary": "「GALLERIA」（ガレリア）ブースはコラボゲーミングPCを展示【TGS2026】&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-17T09:40:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-18T13:22:18+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -221,6 +509,28 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-09-16T13:25:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（346ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBM1IwNzJEQ1NKM3lnNkg1eXBoWGhQZnFQenA2UkFCMW1XX2FVVXNKWFpnVm9tMjlfSC1oMzVtZTFfc0phQkxKcjFGZHhXdXNabXNMZ2RFSDlXeTdRMzdHR05nN2ZsOTg?oc=5",
+      "summary": "食品・飲料（346ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-16T02:03:02Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-18T13:22:18+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -5444,178 +5754,6 @@
       "scraped_at": "2026-08-19T10:11:01+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "70歳まで待って年金42％増は得なのか 繰り上げ・繰り下げの損益分岐点",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00007/?n_cid=nbpnxr_rss",
-      "summary": "2026年8月4日発売の「日経トレンディ2026年9月号」では、「自分年金を増やす最新投資術」を特集。年金額が「思ったより少ない」と老後に肩を落とす人は少なくない。早いうちから将来の年金見込み額を把握し、その上で“増やす”ことが重要だ。後悔しない年金戦略のポイントを探る。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
-      "published_at": "2026-08-18T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-18T10:09:03+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "牛乳も卵も守り抜く！ 食卓を変えた包装の大発明",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00819/00061/?n_cid=nbpnxr_rss",
-      "summary": "牛乳パックや卵パックは日常に溶け込み、その誕生の背景を意識する機会はほとんどありません。しかし、どちらも食品を安全かつ効率的に運び、保存するための工夫から生まれた画期的な発明です。本記事は、身近な道具79種の誕生秘話を紹介する『身近すぎて気づかない、偉大な発明図鑑』からの抜粋・転載です。牛乳パックと卵パックの開発の経緯や普及までの歩みを通じて、何気なく使う容器に隠された発明の歴史をひもときます。",
-      "published_at": "2026-08-18T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "画期的",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-08-18T10:09:03+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "Ray-Ban Metaを使って分かった普及の条件 Google、Appleとの違いは？",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02944/?n_cid=nbpnxr_rss",
-      "summary": "米メタが日本でも発売したAI搭載スマートグラス「Ray-Ban Meta」を実機レビュー。実際に使うと、スマホを取り出さずにAIが視界を共有し、見ている対象を認識して情報を提供する体験の価値が際立った。一方で、普及の最大の課題は性能や価格ではなく、カメラ付きスマートグラスに対する社会的受容だ。メタ、米グーグル、米アップルによる競争が予想されるが、スマートグラスは「AIと人をつなぐ新たなインターフェース」として進化できるかが問われている。",
-      "published_at": "2026-08-18T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-18T10:09:03+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "Amazonが顧客をAIと誤認し、レビューへのアクセス制限 bot被害が拡大",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00079/00362/?n_cid=nbpnxr_rss",
-      "summary": "米Amazon.comが一部のユーザーについて、顧客レビューへのアクセスを制限するケースが起きている。人間によるWebサイトへのアクセスを、AIクローラーなどによるアクセスと誤認したことが原因だ。被害に遭ったユーザーが最も憤っているのは、なぜこのような事態が生じたか、Amazonから何の説明もないことだ。",
-      "published_at": "2026-08-18T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-18T10:09:03+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "注目集まる新職種「FDE」 マーケターが人ごとでいられないわけ",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01227/00024/?n_cid=nbpnxr_rss",
-      "summary": "米OpenAIが2026年5月、AIを顧客の業務に組み込むための新会社を設立した。中核を担うのは、FDEと呼ばれる職種だ。米国では既に同職種の求人が1年で7倍に増えている。この変化はエンジニアだけの話ではない。FDEの本質は、責任の引き受け方にある。300Bridge代表の藤原義昭氏は、この変化はマーケティング職にも及ぶと指摘する。",
-      "published_at": "2026-08-18T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-08-18T10:09:03+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "アサヒ「スーパードライ3.0」は「冷え」訴求 第一想起で1.8倍狙う",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01443/00005/?n_cid=nbpnxr_rss",
-      "summary": "2026年10月の酒税改正により、既存のビールブランドは350mLあたり約9円減税の恩恵を受ける。アサヒビールは、酒税改正のタイミングと重ねて、「アサヒスーパードライ」をリニューアル。「スーパードライ3.0」と銘打ち、26年8月上旬以降の製造分から順次切り替えていく。1987年の発売以来、国内ビール市場を代表する看板ブランドにかける、アサヒビールの勝算を追った。",
-      "published_at": "2026-08-18T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-18T10:09:03+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "牛乳も卵も守り抜く！ 食卓を変えた包装の大発明",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BdTl6dGVKMFNYdVhQM1doMlRsbTNxc2lyS1FZVnczSEliZHdLRldCSzl3MUFPTG5pSFdWSlYtaVZHYm9vVVlVY19Ubl8xZ1d3clhTN05kcW12d1FnSW1pOHpJWFlLZ2pBLVE1NHIyQ0RncUt2dXVQZncwdzJDOTg?oc=5",
-      "summary": "牛乳も卵も守り抜く！ 食卓を変えた包装の大発明&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-17T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-18T10:09:01+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5664,62 +5802,6 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-08-21T10:16:39+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "PepsiCo to cease warehouse operations at Oklahoma production site",
-      "url": "https://www.fooddive.com/news/pepsico-to-cease-warehouse-operations-at-oklahoma-production-site/827908/",
-      "summary": "More than 180 warehouse employees will be impacted by the closure, though production operations will continue.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-08-18T10:09:13+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Olipop taps Electrolit head as next CEO",
-      "url": "https://www.fooddive.com/news/olipop-new-ceo-ben-goodwin-Christian-Patino-Webb/827716/",
-      "summary": "Founder Ben Goodwin will move into a more innovation-focused role at the prebiotic soda brand while Christian Patiño Webb takes the top executive spot.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新原料",
-      "scraped_at": "2026-08-18T10:09:13+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -7274,6 +7356,78 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-09-17T13:34:40+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "PepsiCo to end manufacturing operations at Maryland bottling plant",
+      "url": "https://www.fooddive.com/news/pepsico-layoffs-maryland-bottling-plant-manufacturing-operations/830548/",
+      "summary": "The soda giant, which will lay off 143 workers, pointed to changes in consumer preferences and technology as the reason for the move.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-18T13:22:30+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Coca-Cola to spend $10B on US manufacturing by 2030",
+      "url": "https://www.fooddive.com/news/coca-cola-us-manufacturing-10-billion-investment/830468/",
+      "summary": "The soda giant and its bottlers are planning to expand production and distribution in part of its largest market.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-18T13:22:30+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nestlé ‘not happy’ with food giant’s performance in North America",
+      "url": "https://www.fooddive.com/news/nestle-not-happy-with-performance-north-america-frozen-coffee/830304/",
+      "summary": "CFO Anna Manz said “more needs to be done” to improve execution in the region, particularly for creamers and its Gerber brand.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-18T13:22:30+08:00"
     }
   ]
 }
