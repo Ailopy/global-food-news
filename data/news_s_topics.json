@@ -1,22 +1,22 @@
 {
-  "total": 321,
+  "total": 320,
   "s_plus_count": 40,
   "sites": [
-    "Packaging Digest",
-    "朝日グループYouTube",
-    "日経xTrend",
+    "日経新聞",
     "Food Dive",
-    "日経新聞"
+    "朝日グループYouTube",
+    "Packaging Digest",
+    "日経xTrend"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "其他": 180,
-    "新产品": 57,
     "营销创新": 24,
-    "联名营销": 13,
+    "其他": 180,
+    "新产品": 55,
+    "联名营销": 14,
     "品牌故事": 13,
     "行业政策": 18,
     "渠道新物种": 4,
@@ -25,9 +25,31 @@
     "新包装": 2,
     "新原料": 1
   },
-  "last_updated": "2026-09-18 13:22",
-  "last_updated_iso": "2026-09-18T13:22:35.346952+08:00",
+  "last_updated": "2026-09-19 13:15",
+  "last_updated_iso": "2026-09-19T13:15:03.836436+08:00",
   "articles": [
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "世界からTGSへようこそ！ 海外キャンペーンを体験してみた【TGS2026】",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGM3FfN0Z4d28taFNXSWhPS3pZLXhNaGNzVk1FNHJKUXJsU1VsQnJGS2xnaDdPaGJHY09rU0oxRFNWcVhRR3BKU0xkeWI0UWVMRFQ1bUhUNGVIUWQ4RkN0dHE1SUs1dw?oc=5",
+      "summary": "世界からTGSへようこそ！ 海外キャンペーンを体験してみた【TGS2026】&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-18T06:45:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-19T13:14:46+08:00"
+    },
     {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
@@ -49,6 +71,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-18T13:22:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yZzY4akZMc3F3QW90WGI2T25xdC1TUkJrSHNmN2Z1dVVpVGtFUzM1MWRmSHdQSXltR3V4U2VjTlNHdGpOWEp3NTNWdk5Zd282R3JHS2hFVDNDMFNxSnpHV1dSc3RSdw?oc=5",
+      "summary": "Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-18T04:58:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-19T13:14:46+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -277,6 +321,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "サントリー「NOPE」、8月の販売金額は16位 アサヒの対抗馬は6位止まり",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhUk4yVGswSWRUdTRieTJaNlc0Tm0xTy04ZDVWNkY1TWlSSTN5OEtlMlVQN0tLT3ZBOUhGRWNocFQ5RTVDdnVRNS1wejMzTTFFa0txVS1XQjdvbEQzSjA4X0k4U0tpUQ?oc=5",
+      "summary": "サントリー「NOPE」、8月の販売金額は16位 アサヒの対抗馬は6位止まり&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-17T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-19T13:14:46+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDZIODBWNjVIcEE2WEFSXzNqYnIxak9NTWdZX1NFbUpMQ3g0c1diYk1DQmwzUmhQSUVzS20waklVZ2dGVUZ4RHE4cU9uYjlrdUVpRG1qU0p1YUtJUEg4MmVGTjZ6MlliSFV5ZS10WmlRbEtUdWc4VGZLNmNtM1BIUTd1blRGZTVacGdv?oc=5",
       "summary": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】&nbsp;&nbsp;日経クロストレンド",
@@ -299,6 +365,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCMm5fS1djNmdaUG9GaHJ6WnFOb0w1RkFlRWRzX05UV2R6SFZfeEY3a3RLcEJrRUpXVENQc3lKM0U3ZFpFWFY3aW44X2ZjVC1Jc1prZU51R1V2TFNaZDNORENQRElzQQ?oc=5",
+      "summary": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-17T10:20:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-19T13:14:46+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "「GALLERIA」（ガレリア）ブースはコラボゲーミングPCを展示【TGS2026】",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcXRCYlYzamRLVUFCV2s3QnZYUmF4X2JBYzRKQ3FtUHhIYnZNQ1l4cTVKeVF1Q0VwbFdlR0lOa0tBekpKM3BJRzZyS3hmZk5mSFB0MVhFd000QTNJbXFndHBfU1BvMkd4a0c1cmkzYUZBQThzMklJZnlqd0lNemdWNzdqamU5NUQ2RHVB?oc=5",
       "summary": "「GALLERIA」（ガレリア）ブースはコラボゲーミングPCを展示【TGS2026】&nbsp;&nbsp;日経クロストレンド",
@@ -315,6 +403,28 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-09-18T13:22:18+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「GALLERIA」（ガレリア）ブースはコラボゲーミングPCを展示【TGS2026】",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QUmlFdk9kTmhONFlnSWhEam51clBuVTBXcGR1UGROYVN1LURfdFNVZHRPbkZKN21zREU2Yl80YVF2Tmh5Mm8wdkdLVEZTbk9QTFozajRTZmp5UkJZWVJQNFM4VDg1UQ?oc=5",
+      "summary": "「GALLERIA」（ガレリア）ブースはコラボゲーミングPCを展示【TGS2026】&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-17T09:40:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-19T13:14:46+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -2975,6 +3085,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "食品・飲料（379ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RZS12blc4ZEtXU0dkWHFOOUxvTUYya01fYmRzUWZyUTh2RFI5eGNQYm9yZ1hxWWNCaEtoS19GSHFhcUNDVjUtZG9FMXRjY2U3bFQydDl4ZmRTWElMMHU0UjNhaEFSbzg?oc=5",
+      "summary": "食品・飲料（379ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T12:15:54Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-19T13:14:46+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "食品・飲料（143ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wYlhSb3F1MlRnM1NjN0dFaWFpLVNCTmZSZUtlcElVYUxzRGlORDN1YlZuaWpMbXZMYTk5WU5yYWRSUnFySDlpdkgzeXVPTktSeE1rYk9lRnVMT0tJZlliUlp0SnFmLUE?oc=5",
       "summary": "食品・飲料（143ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -5598,184 +5730,6 @@
       "scraped_at": "2026-08-22T10:08:19+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "割安AI＆国策銘柄ならまだ上がる 識者が注目する日本株4大トレンド",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00009/?n_cid=nbpnxr_rss",
-      "summary": "2026年8月4日発売の日経トレンディ2026年9月号では、「自分年金を増やす最新投資術」を特集。株式投資で大きなリターンを狙うなら、銘柄選びの前に「これから伸びるテーマ」を見極めたい。半導体の陰に隠れた“割安AI”から、政策が後押しする国策銘柄、フードテック、ロンジェビティーまで、有力識者への取材を基に今注目の4大トレンドを厳選。さらに、高配当株や成長株を発掘するためのスクリーニングのポイントも解説する。次の上昇相場で勝つためのヒントがここにある。",
-      "published_at": "2026-08-19T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        },
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-19T10:11:03+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "マルハニチロ、社名変更の裏側 食欲減退色「青」の採用を巡る大激論",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01428/00003/?n_cid=nbpnxr_rss",
-      "summary": "2026年3月、マルハニチロはUmiosに社名変更した。マルハ社とニチロ社のシナジーを目的とした一大決断だ。食品会社が忌避しがちな「青」をロゴに採用し、頼もしさを表現した。",
-      "published_at": "2026-08-19T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-19T10:11:03+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "セブン新広告会社の社長に聞く 好調の裏にある決定的な課題と対策",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01928/?n_cid=nbpnxr_rss",
-      "summary": "セブン-イレブン・ジャパンは、電通とサイバーエージェントの2社と合弁で、リテールメディア専門会社「セブン-イレブン・アドコネクト」を設立し、2026年9月から始動する。なぜ外部の代理店と密接に連携する仕組みを求めたのか。セブン-イレブン・ジャパンのリテールメディア事業を立ち上げからけん引し、新会社の社長に就任する杉浦克樹氏に単独インタビューした。",
-      "published_at": "2026-08-19T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-08-19T10:11:03+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "『マリオカート ワールド』が本領発揮 ラリー追加に見る拡張性の高さ",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00075/?n_cid=nbpnxr_rss",
-      "summary": "2025年6月5日にNintendo Switch 2本体と同時発売されたレースゲーム『マリオカート ワールド』に改めて注目したい。夏の無料アップデートによって新しいラリーが追加され、ゲームそのものがパワーアップしつつある。所有者以外にはあまり知られていない現状を紹介する。",
-      "published_at": "2026-08-19T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-19T10:11:03+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "不二家が弱点克服で焼き菓子強化 「ペコちゃん」活用のデザイン戦略",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02948/?n_cid=nbpnxr_rss",
-      "summary": "不二家は2026年8月から焼き菓子シリーズのラインアップを刷新し、同社の人気ブランド「ミルキー」「カントリーマアム」「ノースキャロライナ」をモチーフにしたタルトなどを投入した。パッケージにも各ブランドのイメージやペコちゃんのデザインを活用し、「不二家らしさ」を訴求する。また、「生ドーナツ」に続く生食感スイーツ第2弾の「生ブッセ」も発売する。ブランド資産を生かした商品開発とデザイン戦略で来店促進と売り上げ拡大を狙う。",
-      "published_at": "2026-08-19T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "食感",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-19T10:11:03+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "不二家、「ミルキー」をタルトにした狙い",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lMmZfU0lxa1M5S1RLT2ZGZUFSM0d1UWhPUzluS0FiWHY5V0dkTDJwcXBfM0xzSzRhWTJ2a2FhbW92S2dpQm1XZzh2LVFwS3FDSHRGaXJ0OFAtVFBPS1hibjk1T3J0OFhLcmc?oc=5",
-      "summary": "不二家、「ミルキー」をタルトにした狙い&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-18T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-19T10:11:01+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "牛乳も卵も守り抜く！ 食卓を変えた包装の大発明",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSQS1nTk56OUR0S3lSMWFNYVRCOEVjMXlkM3I3cVp0Z01GS3M3djhpVmF2YzhXQUVIcGE3NWhXM2hKQVphZHR4WkhXdWxUTWU3OHk4VHdURlpVTUJodzZhV19ORjVqdw?oc=5",
-      "summary": "牛乳も卵も守り抜く！ 食卓を変えた包装の大発明&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-17T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-19T10:11:01+08:00"
-    },
-    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -5802,56 +5756,6 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-08-21T10:16:39+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Tyson to close more beef plants amid cattle shortage",
-      "url": "https://www.fooddive.com/news/tyson-close-beef-plants-cattle-shortage-/827918/",
-      "summary": "The meat giant will sell or end operations at three facilities and lay off at least 2,500 workers as the company struggles to overcome heavy losses.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-19T10:11:14+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Leftovers: Khloud adds collagen to protein chips | Hershey goes beyond sweets for Halloween",
-      "url": "https://www.fooddive.com/news/leftovers-hershey-halloween-lesserevil-pirates-booty-tastiez-mccain-khloud-collagen-chips/827907/",
-      "summary": "Khloé Kardashian's snack brand is expanding its functional lineup, while McCain's frozen snack brand debuts sauce-filled mozzarella sticks.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-19T10:11:14+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -7428,6 +7332,56 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-18T13:22:30+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nestlé, PepsiCo join push to scale paper-based flexible packaging",
+      "url": "https://www.fooddive.com/news/cpgs-team-up-on-paper-flexibles-research-development-ellen-macarthur-foundation/830568/",
+      "summary": "The food giants are among the founding members of a CPG consortium to accelerate innovation for plastic alternatives.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-19T13:14:59+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Folgers launches functional coffee line featuring protein, fiber",
+      "url": "https://www.fooddive.com/news/folgers-functional-coffee-protein-fiber/830509/",
+      "summary": "The J.M. Smucker-owned brand is stepping into health trends by highlighting ingredients to boost energy, focus and digestion.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-19T13:14:59+08:00"
     }
   ]
 }
