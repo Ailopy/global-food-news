@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-19T16:43:27.015285+08:00",
+  "last_updated": "2026-09-19T20:46:00.629149+08:00",
   "retention_days": 7,
-  "total": 504,
+  "total": 506,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,42 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "1f60845982fb18f5",
+      "title": "「ジョージア」の缶コーヒー基幹商品が成長　短い時間でも休憩することで次に進むエネルギーになる価値伝達と価格戦略が奏功",
+      "summary": "コカ・コーラシステムの「ジョージア」は、缶コーヒー（SOT缶）の基幹商品が成長している。 9月17日、取材に応じた日本コカ・コーラの新田祐一郎マーケティング本部コーヒー事業部シニアディレクターは「コーヒー飲料市場は、 […] ソース",
+      "url": "https://shokuhin.net/157184/2026/09/19/inryou/inryou-inryou/",
+      "published_at": "2026-09-19T20:43:36+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "cbcc4da9cba8841e",
+      "title": "今週新発売のホイップまとめ！『クレープシフォンケーキ　チョコホイップ』、『ダブルカステラサンド　とやまの牛乳入りホイップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ホイップの新商品情報をお届けします。今週新発売の#ホイップファミリーマート ファミマルBakery クレープシフォンケーキ チ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091908/?utm_source=rss&utm_medium=mognavinews_20260919",
+      "published_at": "2026-09-19T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b10dd46a20bd0082",
+      "title": "「自販機は絶対に必要。石にかじりついてでもやり続ける」　サントリービバレッジ＆フード木村穣介社長が不退転の決意",
+      "summary": "サントリーグループで自販機事業を展開するサントリービバレッジソリューション（SBS） は、自販機キャッシュレスアプリ「ジハンピ」を活用するなどして自販機ビジネスの活性化に取り組んでいる。 6月、取材に応じたサントリー […] ソース",
+      "url": "https://shokuhin.net/154627/2026/09/19/inryou/inryou-inryou/",
+      "published_at": "2026-09-19T15:00:50+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "3982f6a91ff66526",
       "title": "今週新発売の菓子パン🍫まとめ！『月夜の満月クリームパン』、『りんごチーズクリームパン』など♪",
@@ -36,6 +72,18 @@
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27205/?utm_source=rss&utm_medium=mognavinews_20260919",
       "published_at": "2026-09-19T15:00:00+08:00",
       "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "56081cd6801de337",
+      "title": "「チップスター」と「エアリアル」が初コラボ　「チップスター」発売50周年施策　ブランドの人気フレーバーを相互に新発売",
+      "summary": "ヤマザキビスケットは「チップスター」発売50周年施策の一環として「エアリアル」と初のコラボレーションを実施しファンに感謝を伝えるとともに両ブランドのシナジー創出に取り組む。 コラボでは、ブランドの人気フレーバーを相互 […] ソース",
+      "url": "https://shokuhin.net/157180/2026/09/19/kakou/kashi/",
+      "published_at": "2026-09-19T14:36:05+08:00",
+      "source": "食品新聞",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -6036,30 +6084,6 @@
       "url": "https://shokuhin.net/154624/2026/09/12/inryou/inryou-inryou/",
       "published_at": "2026-09-12T21:00:29+08:00",
       "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "470469790e2e764d",
-      "title": "今週新発売の期間限定まとめ！『ＰＡＲＭ　ほうじ茶ラテ』、『メイトーの北海道かぼちゃプリン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定森永 PARM ほうじ茶ラテ 箱50ml×6加賀棒ほうじ茶を使用（※…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091208/?utm_source=rss&utm_medium=mognavinews_20260913",
-      "published_at": "2026-09-12T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "152b2044b1df78c0",
-      "title": "今週新発売の期間限定まとめ！『ＰＡＲＭ　ほうじ茶ラテ』、『メイトーの北海道かぼちゃプリン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定森永 PARM ほうじ茶ラテ 箱50ml×6加賀棒ほうじ茶を使用（※…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091208/?utm_source=rss&utm_medium=mognavinews_20260912",
-      "published_at": "2026-09-12T17:30:00+08:00",
-      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
