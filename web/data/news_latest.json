@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-20T17:12:19.671701+08:00",
+  "last_updated": "2026-09-20T21:18:33.545198+08:00",
   "retention_days": 7,
-  "total": 503,
+  "total": 497,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,54 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "8a23b3158d5dc12d",
+      "title": "Sunday Edition: Sodium",
+      "summary": "The U.S. Department of Justice announced a settlement with Abbott Laboratories related to its role in an outbreak of cronobacter infections from powdered infant formula in 2022 . Two infants died as…",
+      "url": "https://www.foodsafetynews.com/2026/09/sunday-edition-sodium-2/",
+      "published_at": "2026-09-20T20:00:39+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "7e0c563d4d0bd0af",
+      "title": "セブン優勢！コンビニおにぎりのおすすめTOP3！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニおにぎり」のおすすめランキングです♪（2026年9月18日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
+      "url": "https://mognavi.jp/news/matome/gen-categoryRanking-27370/?utm_source=rss&utm_medium=mognavinews_20260920",
+      "published_at": "2026-09-20T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4e83dc8208ca822d",
+      "title": "今週新発売の菓子パン🍫まとめ！『トラキチ君蒸しケーキ』、『おいも＆マーガリン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン トラキチ君蒸しケーキ 袋1個完熟バナナ入りフィリングとチョ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092008/?utm_source=rss&utm_medium=mognavinews_20260920",
+      "published_at": "2026-09-20T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "dfeb9564e4545463",
+      "title": "コカ･コーラの技術が光る　コーヒー豆不使用で代替農作物も使わずにコーヒーの味わい再現　「ジョージア カフェウォーター」新発売",
+      "summary": "コカ･コーラシステムが9月21日に新発売する「ジョージア カフェウォーター ブラック」（カフェウォーター）は、日本コカ･コーラが長年培ってきた香気成分の分析といった技術が光る。 同商品は、コーヒー豆不使用で、大麦やひ […] ソース",
+      "url": "https://shokuhin.net/157219/2026/09/20/inryou/inryou-inryou/",
+      "published_at": "2026-09-20T17:26:13+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "a6549fe4c32bccaa",
       "title": "今週新発売の菓子パン🍫まとめ！『スイートポテト蒸しケーキ』、『安納芋マーガリン』など♪",
@@ -5932,126 +5980,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "27e47765e8ca4508",
-      "title": "キーコーヒー、最短10秒でレギュラーコーヒーの抽出を可能とする「JET BREW」の特徴を活かした新商品を投入",
-      "summary": "キーコーヒーは9月1日、最短10秒でレギュラーコーヒーの抽出を可能とする簡易抽出型レギュラーコーヒー「KEY DOORS＋(キードアーズプラス)JET BREW（ジェットブリュー）」（JET BREW）から新商品「キリ […] ソース",
-      "url": "https://shokuhin.net/156849/2026/09/13/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
-      "published_at": "2026-09-13T20:46:30+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "3e92855f304c352b",
-      "title": "天乃屋、揚米菓で新提案　麻辣味と塩キャラメル味を開発",
-      "summary": "天乃屋は「歌舞伎揚」や「古代米煎餅」の定番商品の展開に加えて、期間限定商品として揚米菓で新提案を行っている。 米菓の新規ユーザー獲得や需要動向の探索が狙いとみられる。 今回、新提案するのは「魅惑の麻辣味揚げせんべい […] ソース",
-      "url": "https://shokuhin.net/156846/2026/09/13/kakou/kashi/",
-      "published_at": "2026-09-13T20:39:45+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "8783dbcf261a31cd",
-      "title": "ネスレ日本「ネスカフェ アイスブレンド」大幅伸長　「昨年の倍近く売れている」　冷たい水にサッと溶ける動画などの施策が奏功",
-      "summary": "2025年3月に発売されたネスレ日本の「ネスカフェ アイスブレンド」（アイスブレンド）が、その手軽さから市場に浸透し、大幅に伸長している。 「アイスブレンド」の販売動向について、8月25日、取材に応じた飲料事業本部レ […] ソース",
-      "url": "https://shokuhin.net/156842/2026/09/13/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
-      "published_at": "2026-09-13T20:34:30+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "f566a72c3347415e",
-      "title": "The Sunday Edition: Antibiotics",
-      "summary": "We have reached a point where there are very few treatment alternatives left for some bacterial infections – including some caused by foodborne bacteria.",
-      "url": "https://www.foodsafetynews.com/2026/09/the-sunday-edition-antibiotics/",
-      "published_at": "2026-09-13T20:00:17+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "4d58e185e33095ba",
-      "title": "「さつまりこ」の季節だよ！スナック菓子トレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック菓子」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26842/?utm_source=rss&utm_medium=mognavinews_20260915",
-      "published_at": "2026-09-13T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "83f8304a7cb7579d",
-      "title": "「さつまりこ」の季節だよ！スナック菓子トレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック菓子」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26842/?utm_source=rss&utm_medium=mognavinews_20260914",
-      "published_at": "2026-09-13T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "0a8865088d005a58",
-      "title": "「さつまりこ」の季節だよ！スナック菓子トレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック菓子」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-26842/?utm_source=rss&utm_medium=mognavinews_20260913",
-      "published_at": "2026-09-13T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "27f49badb6e2133b",
-      "title": "今週新発売の惣菜パンまとめ！『じっくりコトコト旨深クラムチャウダー風パン』、『じっくりコトコト感動コーンポタージュパン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン第一パン じっくりコトコト旨深クラムチャウダー風パンあさりの旨みがとけこん…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091308/?utm_source=rss&utm_medium=mognavinews_20260915",
-      "published_at": "2026-09-13T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "1399da127dd7d957",
-      "title": "今週新発売の惣菜パンまとめ！『じっくりコトコト旨深クラムチャウダー風パン』、『じっくりコトコト感動コーンポタージュパン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン第一パン じっくりコトコト旨深クラムチャウダー風パンあさりの旨みがとけこん…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091308/?utm_source=rss&utm_medium=mognavinews_20260914",
-      "published_at": "2026-09-13T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "3959677beec41455",
-      "title": "今週新発売の惣菜パンまとめ！『じっくりコトコト旨深クラムチャウダー風パン』、『じっくりコトコト感動コーンポタージュパン』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン第一パン じっくりコトコト旨深クラムチャウダー風パンあさりの旨みがとけこん…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091308/?utm_source=rss&utm_medium=mognavinews_20260913",
-      "published_at": "2026-09-13T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
