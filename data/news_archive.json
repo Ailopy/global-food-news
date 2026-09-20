@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-09-20T17:12:19.589658+08:00",
-  "total": 10253,
+  "last_updated": "2026-09-20T21:18:33.419938+08:00",
+  "total": 10257,
   "articles": [
+    {
+      "id": "8a23b3158d5dc12d",
+      "title": "Sunday Edition: Sodium",
+      "summary": "The U.S. Department of Justice announced a settlement with Abbott Laboratories related to its role in an outbreak of cronobacter infections from powdered infant formula in 2022 . Two infants died as…",
+      "url": "https://www.foodsafetynews.com/2026/09/sunday-edition-sodium-2/",
+      "published_at": "2026-09-20T20:00:39+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "7e0c563d4d0bd0af",
+      "title": "セブン優勢！コンビニおにぎりのおすすめTOP3！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニおにぎり」のおすすめランキングです♪（2026年9月18日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
+      "url": "https://mognavi.jp/news/matome/gen-categoryRanking-27370/?utm_source=rss&utm_medium=mognavinews_20260920",
+      "published_at": "2026-09-20T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4e83dc8208ca822d",
+      "title": "今週新発売の菓子パン🍫まとめ！『トラキチ君蒸しケーキ』、『おいも＆マーガリン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン トラキチ君蒸しケーキ 袋1個完熟バナナ入りフィリングとチョ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092008/?utm_source=rss&utm_medium=mognavinews_20260920",
+      "published_at": "2026-09-20T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "dfeb9564e4545463",
+      "title": "コカ･コーラの技術が光る　コーヒー豆不使用で代替農作物も使わずにコーヒーの味わい再現　「ジョージア カフェウォーター」新発売",
+      "summary": "コカ･コーラシステムが9月21日に新発売する「ジョージア カフェウォーター ブラック」（カフェウォーター）は、日本コカ･コーラが長年培ってきた香気成分の分析といった技術が光る。 同商品は、コーヒー豆不使用で、大麦やひ […] ソース",
+      "url": "https://shokuhin.net/157219/2026/09/20/inryou/inryou-inryou/",
+      "published_at": "2026-09-20T17:26:13+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "a6549fe4c32bccaa",
       "title": "今週新発売の菓子パン🍫まとめ！『スイートポテト蒸しケーキ』、『安納芋マーガリン』など♪",
