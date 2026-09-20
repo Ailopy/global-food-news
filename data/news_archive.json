@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-09-20T11:12:04.947475+08:00",
-  "total": 10247,
+  "last_updated": "2026-09-20T17:12:19.589658+08:00",
+  "total": 10253,
   "articles": [
+    {
+      "id": "a6549fe4c32bccaa",
+      "title": "今週新発売の菓子パン🍫まとめ！『スイートポテト蒸しケーキ』、『安納芋マーガリン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン スイートポテト蒸しケーキ 袋1個さつまいもペースト入りフィ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092007/?utm_source=rss&utm_medium=mognavinews_20260920",
+      "published_at": "2026-09-20T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "72c4213b544e35f9",
+      "title": "今週新発売の菓子パン🍫まとめ！『もっちりりんごホイップ』、『たんぱく質が摂れるむしケーキ　りんご』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン もっちりりんごホイップ 袋1個もっちりとした生地でアップル…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092006/?utm_source=rss&utm_medium=mognavinews_20260920",
+      "published_at": "2026-09-20T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "fe13de8c2231f946",
+      "title": "【2026年9月第3週】ポテトチップス・スナックランキング1位はおさつポテコ焼きいも味！新商品・急上昇商品まとめ",
+      "summary": "秋の味覚がスナック売り場にも広がってきた今週、もぐナビのポテトチップス・スナックランキングはどんな顔ぶれになったのでしょうか。お芋系からとうもろこし、チーズ系…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27306/?utm_source=rss&utm_medium=mognavinews_20260920",
+      "published_at": "2026-09-20T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ad874d1f0240e603",
+      "title": "今週新発売のコンビニホットスナックまとめ！『ごぼう巻』、『こんにゃく』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。来週新発売のコンビニホットスナックローソン ごぼう巻シャキッとしたごぼうを、…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092005/?utm_source=rss&utm_medium=mognavinews_20260920",
+      "published_at": "2026-09-20T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "78459cf5dbdf6bcb",
+      "title": "【2026年9月第3週】せんべい・駄菓子ランキング1位は三幸の柿の種 梅ざらめ！急上昇・久々ランクインも続出まとめ",
+      "summary": "せんべい・駄菓子カテゴリの週間ランキング、今週はどんな商品が上位にランクインしたでしょうか。定番人気商品から急上昇の注目株まで、目が離せないラインナップとなっ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27305/?utm_source=rss&utm_medium=mognavinews_20260920",
+      "published_at": "2026-09-20T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "996888127f445462",
+      "title": "今週新発売のコンビニホットスナックまとめ！『沖縄風ソーキ』、『沖縄厚揚』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。来週新発売のコンビニホットスナックローソン 沖縄風ソーキ沖縄限定のおでん具材…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092004/?utm_source=rss&utm_medium=mognavinews_20260920",
+      "published_at": "2026-09-20T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "3ad62d315622a1da",
       "title": "【2026年9月第3週】クッキー・パイ・ビスケットランキング1位はカントリーマアム熟成蜜芋！急上昇＆久しぶりランクインまとめ",
