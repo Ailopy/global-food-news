@@ -1,32 +1,32 @@
 {
-  "total": 311,
+  "total": 303,
   "s_plus_count": 38,
   "sites": [
-    "Packaging Digest",
     "日経新聞",
+    "日経xTrend",
     "Food Dive",
     "朝日グループYouTube",
-    "日経xTrend"
+    "Packaging Digest"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "其他": 179,
+    "其他": 173,
     "营销创新": 23,
     "新产品": 51,
     "联名营销": 13,
     "品牌故事": 13,
-    "行业政策": 17,
+    "行业政策": 16,
     "渠道新物种": 4,
-    "并购融资": 6,
+    "并购融资": 5,
     "新技术": 2,
     "新包装": 2,
     "新原料": 1
   },
-  "last_updated": "2026-09-20 13:32",
-  "last_updated_iso": "2026-09-20T13:32:03.143082+08:00",
+  "last_updated": "2026-09-21 13:36",
+  "last_updated_iso": "2026-09-21T13:36:52.401376+08:00",
   "articles": [
     {
       "site_name": "日経新聞",
@@ -5470,72 +5470,6 @@
       "scraped_at": "2026-08-27T18:43:53+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "オイシックスの新おせちは「ラーメン」 隠れた需要を発掘、目標2億円",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02953/?n_cid=nbpnxr_rss",
-      "summary": "食品宅配サービス「Oisix（オイシックス）」を展開するオイシックスは2027年の正月に向けて、神奈川県湯河原町の名店「飯田商店」と共同開発した「飯田商店監修らぁ麺おせち」の予約販売を始めている。04年からおせちを展開してきた同社が、今回あえて“ラーメン”を組み合わせた背景には、「おせちに飽きた後に食べたくなるもの」としてラーメンを挙げる消費者インサイト、従来のおせちではファミリー層を取り込みにくかったという課題、そして高価格帯ラーメン市場への進出を探る狙いがある。伝統的なおせちに、温かく自由度のある“年明けラーメン”体験を重ねることで、年末年始の食卓提案を広げて2億～3億円の売り上げを目指す。",
-      "published_at": "2026-08-21T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-21T10:16:26+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "なぜヨックモックはPodcastを始めたのか 届けたいのは「お菓子のある時間」",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rbm9oa1A2ZVNlVnUtWTc1azcwZUdGemhsVldrUEhQaldLVFpLVXRUdmIzR0Ytam9maWxNMl93VExGOTlUY0NJbWZhQlRDekNfNy1VLVNQak9yN0VhWEJsaElkYk9DUQ?oc=5",
-      "summary": "なぜヨックモックはPodcastを始めたのか 届けたいのは「お菓子のある時間」&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-20T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-21T10:16:24+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "VRChatがTGS初出展 日替わりのステージ企画などを用意【TGS2026】",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01222/00083/?n_cid=nbpnxr_rss",
-      "summary": "没入型ソーシャルプラットフォーム「VRChat」を運営する米国のVRChat Inc.は、2026年9月17～21日に開催される「東京ゲームショウ2026」（TGS2026）に初出展する。日替わりのスペシャルステージや体験コーナーなどを展開する。",
-      "published_at": "2026-08-20T14:30:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-21T10:16:27+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5562,28 +5496,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "カルビーが芋のミルクをセブンでテスト販売 狙うは「ゆる健康」市場",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wOVZNR2hEZllkY3A5THhacjlDaVBXOEt3SjRXQUUzSzZPTTV0eWlJQ2Q2S2xnU1B4UC1Pa3lPaHJsYTR0aFpjbHJCWTAtTXZOUFFoemVMVmNDaVV4WDlsYjdYNEtHOTZQLTExel8wTQ?oc=5",
-      "summary": "カルビーが芋のミルクをセブンでテスト販売 狙うは「ゆる健康」市場&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-19T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-21T10:16:24+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "「食器を洗うのも面倒」 ハウス食品が作った“ご飯不要カレー”を食べてみた",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IVnhudkpYN0MwWnE0YUg5Y3QwWHhaUEVYUmNtM3J5WkRseGRtN2FTSE9zWC1QeDBjYjR3ekxEQVpnakYzckNocVYxLWtLYl9Ia0VaZTJ2c2luWVpwbjU1N0lIMGpJa2FCLUE?oc=5",
       "summary": "「食器を洗うのも面倒」 ハウス食品が作った“ご飯不要カレー”を食べてみた&nbsp;&nbsp;日経クロストレンド",
@@ -5600,100 +5512,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-08-22T10:08:19+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "FDA Food Ingredient Rule Impacts Packaging Industry Compliance",
-      "url": "https://www.packagingdigest.com/regulations-standards/fda-food-ingredient-rule-impacts-packaging-industry-compliance",
-      "summary": "New FDA rule mandates GRAS notifications for food ingredients and contact substances, increasing transparency and regulatory oversight for packaging manufacturers.",
-      "published_at": "2026-08-11T19:53:10Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 3
-        },
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-08-21T10:16:39+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Where SNAP participation has fallen the most",
-      "url": "https://www.fooddive.com/news/where-snap-participation-declined-april-2026/828243/",
-      "summary": "All but one state saw a year-over-year drop in the number of people enrolled in the food assistance program in April.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-21T10:16:37+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Sazerac buys UK-based canned cocktail brand Au Vodka",
-      "url": "https://www.fooddive.com/news/sazerac-buys-au-vodka-rtd-cocktail-expansion/828122/",
-      "summary": "The acquisition broadens the BuzzBallz owner's RTD portfolio while opening the door for U.S. expansion.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "并购融资",
-      "scraped_at": "2026-08-21T10:16:37+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "What does the ‘GLP-1 friendly’ label really mean?",
-      "url": "https://www.fooddive.com/news/glp1s-label-food-opinion/828128/",
-      "summary": "Food brands are increasingly using the label on packaging, but failing to explain how it may help consumers on weight loss drugs, an expert writes.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-21T10:16:37+08:00"
     },
     {
       "site_name": "Food Dive",
