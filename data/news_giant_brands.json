@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-21T13:36:35",
+  "last_updated": "2026-09-21T21:30:55",
   "retention_days": 7,
-  "total": 608,
+  "total": 609,
   "s_count": 39,
   "a_count": 4,
-  "b_count": 565,
+  "b_count": 566,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -6720,6 +6720,17 @@
       "url": "https://www.nestle.co.jp/aboutus/global",
       "published_at": "",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/old-el-paso-is-bringing-more-tex-mex-flavor",
+      "published_at": "",
+      "summary": "Old El Paso™ is Bringing More Tex-Mex Flavor to the Soup Aisle with its First Broth Varieties and Two New Soups",
       "level": "B",
       "level_reason": "企业动态"
     }
