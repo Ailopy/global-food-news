@@ -1,33 +1,55 @@
 {
-  "total": 303,
+  "total": 304,
   "s_plus_count": 38,
   "sites": [
-    "日経新聞",
-    "日経xTrend",
+    "Packaging Digest",
     "Food Dive",
+    "日経xTrend",
     "朝日グループYouTube",
-    "Packaging Digest"
+    "日経新聞"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "其他": 173,
+    "其他": 174,
     "营销创新": 23,
     "新产品": 51,
     "联名营销": 13,
     "品牌故事": 13,
-    "行业政策": 16,
+    "行业政策": 15,
     "渠道新物种": 4,
-    "并购融资": 5,
+    "并购融资": 6,
     "新技术": 2,
     "新包装": 2,
     "新原料": 1
   },
-  "last_updated": "2026-09-21 13:36",
-  "last_updated_iso": "2026-09-21T13:36:52.401376+08:00",
+  "last_updated": "2026-09-22 13:33",
+  "last_updated_iso": "2026-09-22T13:33:38.127819+08:00",
   "articles": [
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（3ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbVRISWxwOWtYOFY4U2tHWl9ldlIyMnF6cnFMd3YwVXNIbHJDQ2FkeGNqTkZfamo0Z19WcXJpVHBzRmpTZmxPTF9ZeVFnZFgxTlZ4VnhRbjdqOWtTQm1wcU1ReE4?oc=5",
+      "summary": "食品・飲料（3ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-20T11:05:10Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-22T13:33:20+08:00"
+    },
     {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
@@ -5492,100 +5514,6 @@
       "scraped_at": "2026-09-01T13:49:22+08:00"
     },
     {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "「食器を洗うのも面倒」 ハウス食品が作った“ご飯不要カレー”を食べてみた",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IVnhudkpYN0MwWnE0YUg5Y3QwWHhaUEVYUmNtM3J5WkRseGRtN2FTSE9zWC1QeDBjYjR3ekxEQVpnakYzckNocVYxLWtLYl9Ia0VaZTJ2c2luWVpwbjU1N0lIMGpJa2FCLUE?oc=5",
-      "summary": "「食器を洗うのも面倒」 ハウス食品が作った“ご飯不要カレー”を食べてみた&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-19T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-22T10:08:19+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Zevia activist investor calls for sale of better-for-you soda brand",
-      "url": "https://www.fooddive.com/news/zevia-activist-investor-pressure-to-sell/828316/",
-      "summary": "Kanen Wealth Management says the company has missed out on “the category it helped create.”",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-08-22T10:08:32+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Newman’s Own bets on its purpose-driven heritage to engage millennials",
-      "url": "https://www.fooddive.com/news/newmans-own-bets-on-its-purpose-driven-heritage-to-engage-millennials/828373/",
-      "summary": "Years after Paul Newman’s death, the brand’s new CMO sees opportunity in amplifying its use of good ingredients and that profits go to charities.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 2
-        },
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-08-22T10:08:32+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "JBS makes bid for remainder of Pilgrim’s Pride",
-      "url": "https://www.fooddive.com/news/jbs-bid-pilgrims-pride-ownership-chicken/828265/",
-      "summary": "The Brazil-based beef giant submitted a fresh bid for full control the chicken producer in a deal that could run into antitrust concerns.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-22T10:08:32+08:00"
-    },
-    {
       "site_name": "Food Dive",
       "site_name_en": "Food Dive",
       "region": "北美",
@@ -6984,6 +6912,106 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-09-19T13:14:59+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "GLP-1 drugs put $73B in global food value at risk, report finds",
+      "url": "https://www.fooddive.com/news/glp-1-drugs-snacking-pepsico-reeses-kellogg-cheetos-doritos/830551/",
+      "summary": "PepsiCo’s Lay’s is the most exposed food brand, with Doritos, Hershey's, Cheetos, Kellogg's and Reese's also vulnerable, Brand Finance determined.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-22T13:33:33+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How Ferrero is strengthening sustainability from farm to factory",
+      "url": "https://www.fooddive.com/spons/how-ferrero-is-strengthening-sustainability-from-farm-to-factory/830487/",
+      "summary": "Ferrero advances sustainability with 98% cocoa traceability and major emissions cuts across plants.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 2
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-09-22T13:33:33+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "McCormick and Unilever’s $45B merger under investigation in UK",
+      "url": "https://www.fooddive.com/news/antitrust-unilever-mccormick-merger-UK-review/830525/",
+      "summary": "The companies, which expect to close their transaction in 2027, are already looking to sell Colman’s mustard “to address potential competition concerns.”",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 2
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-09-22T13:33:33+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Food packaging needs to evolve in the age of social media",
+      "url": "https://www.fooddive.com/news/packaging-social-media-food-marketing/830648/",
+      "summary": "The most successful brands are creating “mini moments” through novel innovations that turn packaging into content, writes one industry expert.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-22T13:33:33+08:00"
     }
   ]
 }

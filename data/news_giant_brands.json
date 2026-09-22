@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-21T21:30:55",
+  "last_updated": "2026-09-22T13:33:19",
   "retention_days": 7,
-  "total": 609,
+  "total": 610,
   "s_count": 39,
   "a_count": 4,
-  "b_count": 566,
+  "b_count": 567,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 뉴욕서 ‘jari’ 론칭… 프리미엄 K-증류주로 미국 시장 공략2026.09.22",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1823",
+      "published_at": "2026-09-22T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "CJ",
       "brand_cn": "希杰",
@@ -186,6 +197,17 @@
       "url": "https://www.nissin.com/jp/news/13929/",
       "published_at": "2026-09-16T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/old-el-paso-is-bringing-more-tex-mex-flavor",
+      "published_at": "2026-09-16T00:00:00",
+      "summary": "Old El Paso™ is Bringing More Tex-Mex Flavor to the Soup Aisle with its First Broth Varieties and Two New Soups",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -6720,17 +6742,6 @@
       "url": "https://www.nestle.co.jp/aboutus/global",
       "published_at": "",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "General Mills",
-      "brand_cn": "通用磨坊",
-      "region": "北美",
-      "title": "Continue Reading",
-      "url": "https://www.generalmills.com/news-and-stories/press-releases/old-el-paso-is-bringing-more-tex-mex-flavor",
-      "published_at": "",
-      "summary": "Old El Paso™ is Bringing More Tex-Mex Flavor to the Soup Aisle with its First Broth Varieties and Two New Soups",
       "level": "B",
       "level_reason": "企业动态"
     }
