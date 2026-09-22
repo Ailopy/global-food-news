@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T17:13:07.873876+08:00",
-  "total": 10363,
+  "last_updated": "2026-09-22T21:45:52.435101+08:00",
+  "total": 10373,
   "articles": [
     {
       "id": "0f7abe6855add115",
@@ -12,6 +12,126 @@
       "region": "北美",
       "category": "功能性食品",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c23d4f17f13e99d6",
+      "title": "Sazerac to buy German spirits producer Berentzen",
+      "summary": "The deal with Berentzen Group is expected to broaden both companies’ portfolios, capabilities and reach.",
+      "url": "https://www.fooddive.com/news/sazerac-buys-berentzen-german-spirits/830988/",
+      "published_at": "2026-09-22T21:17:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "1e67e4997af2409c",
+      "title": "Little Spoon Takes Its ‘Feeding Platform’ Beyond Food with Kids Vitamins",
+      "summary": "Little Spoon is moving beyond food with the launch of its first daily multivitamin, the latest category expansion for the baby and kids nutrition company as it builds out an “end-to-end feeding…",
+      "url": "https://www.nosh.com/news/2026/little-spoon-takes-its-feeding-platform-beyond-food-with-kids-vitamins",
+      "published_at": "2026-09-22T21:16:59+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "53ae1ccdb4e63356",
+      "title": "Mondelēz brings Biscoff partnership to US with Toblerone truffles",
+      "summary": "The launch comes as the snack giant's collaboration with the cookie brand in Europe and other regions “surpassed even our expectations,” according to an executive.",
+      "url": "https://www.fooddive.com/news/mondelez-biscoff-costco-truffles-innovation/830748/",
+      "published_at": "2026-09-22T21:05:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "930c37c0da8a3158",
+      "title": "Eat Happy Kitchen Brings Cheese Bites Snacks to Retail with HomeGoods Launch",
+      "summary": "Clean-label food brand Eat Happy Kitchen is going deeper into retail, expanding its flagship pasta sauce line in California and bringing its high protein Cheese Bites snacks to brick-and-mortar…",
+      "url": "https://www.nosh.com/news/2026/eat-happy-kitchen-brings-cheese-bites-snacks-to-retail-with-homegoods-launch",
+      "published_at": "2026-09-22T21:00:01+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c30c15187c499aba",
+      "title": "Review: Can oHy Crack the Code on Hydrogen Sparkling Water?",
+      "summary": "The flavor profile is exactly what we'd expect from a well-executed flavored sparkling water: clean, crisp, and lightly flavored without overwhelming the palate.",
+      "url": "https://www.bevnet.com/news/2026/review-can-ohy-crack-the-code-on-hydrogen-sparkling-water",
+      "published_at": "2026-09-22T20:30:32+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "35472a80e525b75a",
+      "title": "APAC women's supplement usage maps to four distinct life stages, Lubrizol white paper finds",
+      "summary": "Research across China, Korea and Indonesia found 87% of Chinese women prefer life-stage-tailored solutions — with prevention-oriented beauty-from-within investment rising sharply from career stage…",
+      "url": "https://nutraceuticalbusinessreview.com/apac-women-supplement-usage-four-life-stages-lubrizol",
+      "published_at": "2026-09-22T19:30:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "72ee6f28aa74e41c",
+      "title": "Kingdom & Sparrow craft premium branding for exceptional eggs",
+      "summary": "Wild Lady Eggs set out to redefine expectations within a traditionally functional category by introducing a premium egg brand rooted in provenance, animal welfare, and sustainability. The challenge…",
+      "url": "https://fabnews.live/kingdom-sparrow-craft-premium-branding-for-exceptional-eggs/",
+      "published_at": "2026-09-22T19:00:30+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c1988014188725e3",
+      "title": "Guylian’s Advent Calendar returns for the 2026 Christmas countdown",
+      "summary": "Combining premium ingredients, Belgian craftsmanship and sustainable values, the Advent Calendar features 24 of Guylian’s chocolates. The post Guylian’s Advent Calendar returns for the 2026 Christmas…",
+      "url": "https://www.sweetsandsnacksworld.com/news/30958/guylians-advent-calendar-returns-for-the-2026-christmas-countdown/",
+      "published_at": "2026-09-22T18:31:23+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "380c6d5b358bdba0",
+      "title": "Bioiberica spotlights heparin research pipeline and traceable ingredients at CPHI Milan",
+      "summary": "The Spanish API and functional ingredient supplier will showcase 40+ ongoing heparin research projects alongside joint, skin and histamine intolerance ingredients at booth 4A33 — highlighting supply…",
+      "url": "https://nutraceuticalbusinessreview.com/bioiberica-heparin-research-pipeline-traceable-ingredients-cphi-milan",
+      "published_at": "2026-09-22T18:31:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "81e5887f9a69a516",
+      "title": "IVC to showcase integrated VMS innovation and market intelligence platform at SupplySide Global 2026",
+      "summary": "The CDMO's Las Vegas booth will highlight powder format concepts and its proprietary consumer insights platform, connecting market trend identification with formulation and commercial-scale…",
+      "url": "https://nutraceuticalbusinessreview.com/ivc-showcase-integrated-vms-innovation-market-supplyside-global",
+      "published_at": "2026-09-22T17:46:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
       "language": "en"
     },
     {
