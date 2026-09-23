@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-23T13:21:13",
+  "last_updated": "2026-09-23T20:28:32",
   "retention_days": 7,
-  "total": 613,
+  "total": 614,
   "s_count": 39,
   "a_count": 5,
-  "b_count": 569,
+  "b_count": 570,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-reports-fiscal-2027-first-quarter-results-and-reaffirms-full-year-outlook",
+      "published_at": "2026-09-23T00:00:00",
+      "summary": "General Mills reports fiscal 2027 first quarter earnings results",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "CJ",
       "brand_cn": "希杰",
