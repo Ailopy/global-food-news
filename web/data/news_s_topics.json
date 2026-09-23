@@ -1,33 +1,99 @@
 {
-  "total": 304,
-  "s_plus_count": 38,
+  "total": 310,
+  "s_plus_count": 40,
   "sites": [
-    "Packaging Digest",
     "Food Dive",
-    "日経xTrend",
     "朝日グループYouTube",
+    "Packaging Digest",
+    "日経xTrend",
     "日経新聞"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "其他": 174,
+    "其他": 176,
+    "行业政策": 17,
     "营销创新": 23,
     "新产品": 51,
-    "联名营销": 13,
+    "联名营销": 14,
     "品牌故事": 13,
-    "行业政策": 15,
     "渠道新物种": 4,
-    "并购融资": 6,
+    "并购融资": 7,
     "新技术": 2,
     "新包装": 2,
     "新原料": 1
   },
-  "last_updated": "2026-09-22 13:33",
-  "last_updated_iso": "2026-09-22T13:33:38.127819+08:00",
+  "last_updated": "2026-09-23 13:21",
+  "last_updated_iso": "2026-09-23T13:21:30.872797+08:00",
   "articles": [
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "CanSource Expands Digital Printing for Beverage Cans",
+      "url": "https://www.packagingdigest.com/digital-printing/cansource-expands-digital-printing-for-beverage-cans",
+      "summary": "Company adds 19.2-oz aluminum cans and Charlotte printing capability, increasing opportunities for high-definition graphics, flexible quantities, and fast turnaround.",
+      "published_at": "2026-09-22T19:40:23Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-23T13:21:29+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Outlaw Beer Multipack Is a Five-Gallon Bucket",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/outlaw-beer-multipack-is-a-5-gallon-bucket",
+      "summary": "Tivoli Brewing packs 24 cans in an unconventional format for limited-edition packaging inspired by a conversation with Sam’s Club.",
+      "published_at": "2026-09-22T17:57:47Z",
+      "is_s_plus": true,
+      "s_plus_reason": "limited-edition",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-23T13:21:29+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（343ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoTjdibk9ZTnVCOHFhaDhib01oN3Y3ZkRITUJvMVVzb2RvWDY3RXoxbWRUYlA1LTZEaUI2VXZGVV9YM0RFQ2hOWnctN1poYmd5RHVJajI0MFpGS0pLZHJNM0lraFVuWEk?oc=5",
+      "summary": "食品・飲料（343ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-21T10:01:10Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-23T13:21:14+08:00"
+    },
     {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
@@ -7012,6 +7078,72 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-22T13:33:33+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Leftovers: Philadelphia, Mike’s Hot Honey spice up cream cheese | Old El Paso enters broths",
+      "url": "https://www.fooddive.com/news/philadelphia-mikes-hot-honey-old-el-paso-broths-shock-top-spirit-halloween/830778/",
+      "summary": "The Kraft Heinz-owned brand is releasing its first sweet heat flavor in the U.S., while craft beer brand Shock Top collaborates with Spirit Halloween on a candy corn-inspired brew.",
+      "published_at": "",
+      "is_s_plus": true,
+      "s_plus_reason": "collab",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-23T13:21:26+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How Ingredion aims to capitalize on ‘reformulation boom’ with Tate & Lyle deal",
+      "url": "https://www.fooddive.com/news/ingredion-tate-lyle-health-wellness-reformulation/830693/",
+      "summary": "The acquisition positions Ingredion as the \"go-to provider for texture and healthful solutions\" within the food and beverage industries, according to its CEO.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-09-23T13:21:26+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "McCain Foods taps PepsiCo exec as chief manufacturing and operations officer",
+      "url": "https://www.fooddive.com/news/mccain-foods-taps-pepsico-exec-as-chief-manufacturing-and-operations-office/830771/",
+      "summary": "Victoriano Perez Mies joins the frozen food producer after nearly two decades at PepsiCo, assuming leadership of several areas of operation.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-23T13:21:26+08:00"
     }
   ]
 }
