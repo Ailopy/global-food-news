@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-23T20:28:32",
+  "last_updated": "2026-09-24T13:36:41",
   "retention_days": 7,
-  "total": 614,
+  "total": 617,
   "s_count": 39,
   "a_count": 5,
-  "b_count": 570,
+  "b_count": 573,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,39 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.24日清食品「冷凍 完全メシ DELI キンパ」2品 (9月24日発売)",
+      "url": "https://www.nissin.com/jp/news/13934/",
+      "published_at": "2026-09-24T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.24日清食品「ロングセラー袋麺 たまごくじキャンペーン」(10月1日からスタート)",
+      "url": "https://www.nissin.com/jp/news/13931/",
+      "published_at": "2026-09-24T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.24湖池屋『湖池屋 復活総選挙～ポテトチップス編～』決選投票 (9月24日からスタート)",
+      "url": "https://www.nissin.com/jp/news/13933/",
+      "published_at": "2026-09-24T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "General Mills",
       "brand_cn": "通用磨坊",
