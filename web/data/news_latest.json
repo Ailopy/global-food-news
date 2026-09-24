@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-24T17:11:45.430423+08:00",
+  "last_updated": "2026-09-24T21:53:55.812592+08:00",
   "retention_days": 7,
-  "total": 455,
+  "total": 448,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,78 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "3ec5551893d3adac",
+      "title": "Surfside drops trade dress lawsuit against Anheuser-Busch",
+      "summary": "The alcohol companies will dismiss the complaint, which was filed nearly a year ago and accuses Anheuser-Busch of ripping off Surfside’s can design.",
+      "url": "https://www.fooddive.com/news/stateside-anheuser-busch-drop-skimmers-lawsuit/831244/",
+      "published_at": "2026-09-24T21:30:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "e4c5fe1f534d9521",
+      "title": "Vitafoods Asia 2026: The ingredient insights that stood out on the show floor",
+      "summary": "The stand has been packed up, the samples have all gone home with someone, and Vitafoods Asia 2026 is officially in the books. Three days in Bangkok, and if there was one pattern our team kept…",
+      "url": "https://nutraceuticalbusinessreview.com/vitafoods-asia-2026-the-ingredient-insights-that-stood",
+      "published_at": "2026-09-24T21:22:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "5d33751583ef4916",
+      "title": "Review: Goldie Gives Lemonade A Manuka Honey Makeover",
+      "summary": "The three flavors deliver familiar, crowd-pleasing lemonade and iced tea profiles, with enough sweetness to feel indulgent without reaching the intensity of many mainstream alternatives.",
+      "url": "https://www.bevnet.com/news/2026/review-goldie-gives-lemonade-a-manuka-honey-makeover",
+      "published_at": "2026-09-24T20:30:34+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "562c3d15df2c854d",
+      "title": "SkinnyDipped expands its portfolio with new Dark Chocolate Peanut Butter Wafers",
+      "summary": "Dark Chocolate Peanut Butter Wafers feature layers of light, crispy wafers and creamy peanut butter covered in rich, real dark chocolate. The post SkinnyDipped expands its portfolio with new Dark…",
+      "url": "https://www.sweetsandsnacksworld.com/news/30964/skinnydipped-expands-its-portfolio-with-new-dark-chocolate-peanut-butter-wafers/",
+      "published_at": "2026-09-24T18:22:55+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "d9b981105a962f30",
+      "title": "Targeting inflamm’aging: The scientific key to skin longevity formulations",
+      "summary": "Discover how targeting cellular hallmarks of aging transforms nutricosmetics. Access clinical insights from 3 RCTs on Sepibliss to tackle oxidative stress and skin decline. Download our guide",
+      "url": "https://nutraceuticalbusinessreview.com/targeting-inflamm-aging-the-scientific-key-to-skin-longevity",
+      "published_at": "2026-09-24T18:04:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "876537b1470586e1",
+      "title": "Probiotical spotlights probiotic innovation beyond gut health",
+      "summary": "The company is highlighting two consumer launches targeting vaginal and nasal microbiomes, as strain-specific formulations and novel delivery formats broaden the application of probiotics",
+      "url": "https://nutraceuticalbusinessreview.com/probiotical-spotlights-probiotic-innovation-beyond-gut-health",
+      "published_at": "2026-09-24T17:42:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "4ba020e495df718c",
       "title": "ファミマに秋がそろい踏み！　いも・くり・なんきんトリオだよ！：今週のコンビニスイーツランキング",
@@ -5320,162 +5392,6 @@
       "category": "综合",
       "level": "A+",
       "language": "en"
-    },
-    {
-      "id": "213776e55b09cea5",
-      "title": "CPG Week: Beyond Enters The Phytosphere And Whey’s Capacity Woes",
-      "summary": "This week, the podcast covers Beyond’s expansion into new protein formats, a whey supply shortage, Battle Bars’ rebrand, and a legal dispute between Big Food and Big Sugar.",
-      "url": "https://www.bevnet.com/news/2026/cpg-week-beyond-enters-the-phytosphere-and-wheys-capacity-woes",
-      "published_at": "2026-09-17T21:48:35+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "b8062065262f63e3",
-      "title": "CPG Week: Beyond Enters The Phytosphere And Whey’s Capacity Woes",
-      "summary": "This week, the podcast covers Beyond’s expansion into new protein formats, a whey supply shortage, Battle Bars’ rebrand, and a legal dispute between Big Food and Big Sugar.",
-      "url": "https://www.nosh.com/cpgweek/beyond-enters-the-phytosphere-and-wheys-capacity-woes",
-      "published_at": "2026-09-17T21:48:29+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "d2492ff65b7c2835",
-      "title": "Godiva continues centennial celebration with exclusive Masterpiece tin",
-      "summary": "Paying homage to the brand's Belgian roots and rich heritage, the keepsake tin is inspired by Lady Godiva's boldness and elegance. The post Godiva continues centennial celebration with exclusive…",
-      "url": "https://www.sweetsandsnacksworld.com/news/30954/godiva-continues-centennial-celebration-with-exclusive-masterpiece-tin/",
-      "published_at": "2026-09-17T21:27:01+08:00",
-      "source": "Sweets & Snacks World",
-      "region": "欧洲",
-      "category": "糕点糖巧",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "855848d7969e9172",
-      "title": "McCormick and Unilever’s $45B merger under investigation in UK",
-      "summary": "The companies, which expect to close their transaction in 2027, are already looking to sell Colman’s mustard “to address potential competition concerns.”",
-      "url": "https://www.fooddive.com/news/antitrust-unilever-mccormick-merger-UK-review/830525/",
-      "published_at": "2026-09-17T21:00:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "070812ce5c55df45",
-      "title": "Review: ‘Feel-Good Drink’ On the Brightside Shines",
-      "summary": "The combination of zero calories, zero sugar, and 15 milligrams of Zembrin gives it a differentiated position between conventional diet soda and functional relaxation beverages.",
-      "url": "https://www.bevnet.com/news/2026/review-feel-good-soda-on-the-brightside-shines",
-      "published_at": "2026-09-17T20:30:40+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "20c0ee4fe4bf9256",
-      "title": "Review: ‘Feel-Good Soda’ On the Brightside Shines",
-      "summary": "The combination of zero calories, zero sugar, and 15 milligrams of Zembrin gives it a differentiated position between conventional diet soda and functional relaxation beverages.",
-      "url": "https://www.bevnet.com/news/2026/review-feel-good-soda-on-the-brightside-shines",
-      "published_at": "2026-09-17T20:30:40+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "84025699de0e3c77",
-      "title": "Everwell Health to showcase VitaliG ingredient and functional nutrition portfolio at SupplySide Global",
-      "summary": "Everwell Health will spotlight VitaliG, its new brand identity for geranylgeraniol ingredient GG-Gold, alongside functional ingredient concepts targeting mood, muscle health, cognitive performance,…",
-      "url": "https://nutraceuticalbusinessreview.com/everwell-health-vitalig-ingredient-functional-nutritional-supplyside",
-      "published_at": "2026-09-17T20:01:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "cb9658293f3a6cf9",
-      "title": "中華まんのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「中華まん」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-27040/?utm_source=rss&utm_medium=mognavinews_20260919",
-      "published_at": "2026-09-17T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "6bbfe29fc9e3928c",
-      "title": "中華まんのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「中華まん」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-27040/?utm_source=rss&utm_medium=mognavinews_20260918",
-      "published_at": "2026-09-17T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "313ac6a743d3163e",
-      "title": "中華まんのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「中華まん」の最新・注目度ランキングです♪（2026年9月11日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-27040/?utm_source=rss&utm_medium=mognavinews_20260917",
-      "published_at": "2026-09-17T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "72766fc3873feded",
-      "title": "今週新発売の塩味まとめ！『さくさくぱんだ　ミルク』、『ア・ラ・ポテト　うすしお味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！塩味の新商品情報をお届けします。今週新発売の#塩味リニューアルカバヤ さくさくぱんだ ミルク 袋47g■お米の自然な甘さが広が…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091708/?utm_source=rss&utm_medium=mognavinews_20260919",
-      "published_at": "2026-09-17T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "8b9a855dd9ddb3d8",
-      "title": "今週新発売の塩味まとめ！『さくさくぱんだ　ミルク』、『ア・ラ・ポテト　うすしお味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！塩味の新商品情報をお届けします。今週新発売の#塩味リニューアルカバヤ さくさくぱんだ ミルク 袋47g■お米の自然な甘さが広が…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091708/?utm_source=rss&utm_medium=mognavinews_20260918",
-      "published_at": "2026-09-17T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "fcbd47a0b95fd151",
-      "title": "今週新発売の塩味まとめ！『さくさくぱんだ　ミルク』、『ア・ラ・ポテト　うすしお味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！塩味の新商品情報をお届けします。今週新発売の#塩味リニューアルカバヤ さくさくぱんだ ミルク 袋47g■お米の自然な甘さが広が…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091708/?utm_source=rss&utm_medium=mognavinews_20260917",
-      "published_at": "2026-09-17T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
