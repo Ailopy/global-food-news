@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-09-24T17:11:45.304430+08:00",
-  "total": 10523,
+  "last_updated": "2026-09-24T21:53:55.711098+08:00",
+  "total": 10529,
   "articles": [
+    {
+      "id": "3ec5551893d3adac",
+      "title": "Surfside drops trade dress lawsuit against Anheuser-Busch",
+      "summary": "The alcohol companies will dismiss the complaint, which was filed nearly a year ago and accuses Anheuser-Busch of ripping off Surfside’s can design.",
+      "url": "https://www.fooddive.com/news/stateside-anheuser-busch-drop-skimmers-lawsuit/831244/",
+      "published_at": "2026-09-24T21:30:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "e4c5fe1f534d9521",
+      "title": "Vitafoods Asia 2026: The ingredient insights that stood out on the show floor",
+      "summary": "The stand has been packed up, the samples have all gone home with someone, and Vitafoods Asia 2026 is officially in the books. Three days in Bangkok, and if there was one pattern our team kept…",
+      "url": "https://nutraceuticalbusinessreview.com/vitafoods-asia-2026-the-ingredient-insights-that-stood",
+      "published_at": "2026-09-24T21:22:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "5d33751583ef4916",
+      "title": "Review: Goldie Gives Lemonade A Manuka Honey Makeover",
+      "summary": "The three flavors deliver familiar, crowd-pleasing lemonade and iced tea profiles, with enough sweetness to feel indulgent without reaching the intensity of many mainstream alternatives.",
+      "url": "https://www.bevnet.com/news/2026/review-goldie-gives-lemonade-a-manuka-honey-makeover",
+      "published_at": "2026-09-24T20:30:34+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "562c3d15df2c854d",
+      "title": "SkinnyDipped expands its portfolio with new Dark Chocolate Peanut Butter Wafers",
+      "summary": "Dark Chocolate Peanut Butter Wafers feature layers of light, crispy wafers and creamy peanut butter covered in rich, real dark chocolate. The post SkinnyDipped expands its portfolio with new Dark…",
+      "url": "https://www.sweetsandsnacksworld.com/news/30964/skinnydipped-expands-its-portfolio-with-new-dark-chocolate-peanut-butter-wafers/",
+      "published_at": "2026-09-24T18:22:55+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "d9b981105a962f30",
+      "title": "Targeting inflamm’aging: The scientific key to skin longevity formulations",
+      "summary": "Discover how targeting cellular hallmarks of aging transforms nutricosmetics. Access clinical insights from 3 RCTs on Sepibliss to tackle oxidative stress and skin decline. Download our guide",
+      "url": "https://nutraceuticalbusinessreview.com/targeting-inflamm-aging-the-scientific-key-to-skin-longevity",
+      "published_at": "2026-09-24T18:04:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "876537b1470586e1",
+      "title": "Probiotical spotlights probiotic innovation beyond gut health",
+      "summary": "The company is highlighting two consumer launches targeting vaginal and nasal microbiomes, as strain-specific formulations and novel delivery formats broaden the application of probiotics",
+      "url": "https://nutraceuticalbusinessreview.com/probiotical-spotlights-probiotic-innovation-beyond-gut-health",
+      "published_at": "2026-09-24T17:42:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "4ba020e495df718c",
       "title": "ファミマに秋がそろい踏み！　いも・くり・なんきんトリオだよ！：今週のコンビニスイーツランキング",
