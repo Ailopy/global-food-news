@@ -1,33 +1,183 @@
 {
-  "total": 310,
-  "s_plus_count": 40,
+  "total": 313,
+  "s_plus_count": 38,
   "sites": [
-    "Food Dive",
-    "朝日グループYouTube",
-    "Packaging Digest",
     "日経xTrend",
-    "日経新聞"
+    "日経新聞",
+    "Packaging Digest",
+    "朝日グループYouTube",
+    "Food Dive"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "其他": 176,
-    "行业政策": 17,
-    "营销创新": 23,
-    "新产品": 51,
+    "新产品": 49,
+    "营销创新": 24,
     "联名营销": 14,
-    "品牌故事": 13,
+    "品牌故事": 14,
+    "其他": 179,
+    "行业政策": 17,
     "渠道新物种": 4,
     "并购融资": 7,
     "新技术": 2,
     "新包装": 2,
     "新原料": 1
   },
-  "last_updated": "2026-09-23 13:21",
-  "last_updated_iso": "2026-09-23T13:21:30.872797+08:00",
+  "last_updated": "2026-09-24 13:37",
+  "last_updated_iso": "2026-09-24T13:37:01.716652+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "米Metaが個人向けAIエージェント投入 障壁はデータ商売で蓄積した不信感",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00079/00367/?n_cid=nbpnxr_rss",
+      "summary": "米Metaが、ユーザーに代わって自律的にタスクを遂行できるとするAIエージェントを発表した。だが利用者の多くは、Metaがこれまで利用者の個人データを“勝手”に収集してビジネスを拡大してきたことを知っており、新しいAIエージェントが同様の行為をしないか心配している。Metaはこの懸念の打ち消しに躍起になっているが、利用者の信頼を獲得できるかは定かではない。",
+      "published_at": "2026-09-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-24T13:36:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "三井住友（NL）より得なのか VポイントでOliveを主役にする3つの理由",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00012/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。コード決済や携帯キャリアを軸にした他のポイント経済圏とは一線を画すVポイント経済圏。実は、得するための“常識”も大きく異なる。高還元のカギを握るのは「Oliveフレキシブルペイ」で、対象店舗では最大8％超の還元も狙える。さらに年間100万円利用特典やポイント活用術を組み合わせれば、効率よくVポイントをためて使うことが可能だ。なお、記事の最後にはVポイント経済圏の詳細な解説をした誌面のPDFへのリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-09-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-24T13:36:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "広告不信の時代にスポーツマーケが台頭 熱量を売上に変える4つの手段",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01456/00002/?n_cid=nbpnxr_rss",
+      "summary": "広告の信用が低下する一方、世界のスポーツスポンサーシップ市場は年率約8％で拡大すると予測されている。FIELD MANAGEMENT STRATEGY代表取締役／シニアマネージングディレクターで、Jリーグの執行役員も務める中村健太郎氏が、その中心である米国での動きを分析。カギは「エモーショナル・トランスファー」だという。そして、スポーツファンの感情をブランドや売り上げに転移させる手法は大きく分けて4つあると解説する。",
+      "published_at": "2026-09-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-24T13:36:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Google広告事業の米裁判「独占認定」も分割せず 行動規制にとどまる",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00004/?n_cid=nbpnxr_rss",
+      "summary": "米司法省が広告配信のプラットフォームで23年1月にGoogleを訴えた裁判で、25年4月に米連邦地裁は一部で「グーグルの独占状態にある」という判決を下していた。その後、議論が続いていた是正措置についての結論が見えてきた。連邦判事はGoogleのアドテク慣行に行動面での変更を求めるが、政府が求めた事業売却には踏み込まなかった。米有力誌ADWEEKが分析する。",
+      "published_at": "2026-09-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-24T13:36:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "6年で約100店舗増、好調ビアードパパ 安定成長支える商品戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01943/?n_cid=nbpnxr_rss",
+      "summary": "直近6年で国内100店舗近く増店、2025年は過去最高の売り上げを記録ーー。黄色の外観が特徴のシュークリーム専門店「ビアードパパ」が好調だ。好調の一因には、コラボ商品をはじめとした期間限定品が奏功している点にある。客層の拡大が期待できるコラボ商品だが、一方で乱発によるブランド価値毀損の反動もついて回る。安定して成長を続けるビアードパパは、こうした懸念をどう払拭し、好調を維持しているのか。",
+      "published_at": "2026-09-24T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-24T13:36:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "塚田農場の弁当事業が5年で2倍超へ成長 大逆転のきっかけは「ロケ弁」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01452/00005/?n_cid=nbpnxr_rss",
+      "summary": "居酒屋チェーン「塚田農場」を運営するエー・ピーホールディングス（APHD）の子会社、塚田農場プラスの弁当ブランド「塚田農場おべんとラボ」の勢いが止まらない。2026年3月期は売上高が約36億円と、5年前の2倍以上に拡大。祖業の居酒屋業態が最盛期よりも縮小する中、弁当が塚田農場の新たな顔になっている。だが、弁当事業も常に順風満帆だったわけではない。荒波をどう乗り越えてきたのか。その苦闘に迫った。",
+      "published_at": "2026-09-24T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-09-24T13:36:44+08:00"
+    },
     {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
@@ -93,6 +243,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-23T13:21:14+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（151ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyWkFZYl9LbU5meDFNd3lPekJET2RZbUZ1Zk1sY3cydzUwaEtrekMwX3J1M0JWbjZ2NlNra0dZTXlrX2hCYmVSUVJsSGIwaC1ZeUFuM2lCWkRFdFB1VFRKVlMtTnlPQ1k?oc=5",
+      "summary": "食品・飲料（151ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-20T22:10:57Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-24T13:36:42+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5192,32 +5364,32 @@
       "scraped_at": "2026-08-31T14:21:27+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
       "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ブランド「資産運用」の極意",
-      "url": "https://xtrend.nikkei.com/info/podcast/19/00419/?n_cid=nbpnxr_rss",
-      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の最新トレンドをチェックする「WEEKLY TREND KEYWORDS」は、老舗刃物メーカーの貝印が開発した子どもでも使えるカミソリ「なでそり」をピックアップ。後半は「ブランド『資産運用』の極意」をお送りします。長年築き上げてきたブランドは「資産」です。そうしたブランドを使った新しいカテゴリーへの進出や、他社とのコラボレーション戦略が急増しています。しかし、必ずしも成功事例ばかりではありません。今回は、ブランド「資産運用」の実例やポイントについて紹介します。解説は日経クロストレンドの中村勇介編集長。",
-      "published_at": "2026-08-24T05:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "コラボ",
+      "positioning": "新品&产业",
+      "title": "パッケージ好意度トップ3はアイス 新商品593品調査が示す勝ち筋",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MTlBPaE1TdnB1MWMzdUhTMXByNlN6X0RTYXpVREpzRlZ4SHR2X21SbnMwU2dIM1NVQmh3YVI3Qm9DOW9pOFpQNlZ4SFVoc2wtRy1USGhTcjZuSmw3VWxjNk9GRVV0Zw?oc=5",
+      "summary": "パッケージ好意度トップ3はアイス 新商品593品調査が示す勝ち筋&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-08-24T07:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
       "categories": [
         {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 2
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
         },
         {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
           "score": 1
         }
       ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-24T10:16:05+08:00"
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-24T13:36:42+08:00"
     },
     {
       "site_name": "朝日グループYouTube",
@@ -5268,200 +5440,6 @@
       "is_video": true,
       "video_thumbnail": "https://i2.ytimg.com/vi/1LbP0UfIEmA/hqdefault.jpg",
       "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "組織文化は自然に育たない シリコンバレー流カルチャーデザイン",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01376/00007/?n_cid=nbpnxr_rss",
-      "summary": "日本企業が既存の慣習を見直し始めている一方で、世界のイノベーションをけん引する米シリコンバレーには、さらに先進的な取り組みを進めている企業が多々あります。",
-      "published_at": "2026-08-24T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-24T10:16:05+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "27年に変わるiDeCoが自分年金の鍵 NISAよりも優先すべきは何歳から？",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01439/00011/?n_cid=nbpnxr_rss",
-      "summary": "2026年8月4日発売の「日経トレンディ2026年9月号」では、「自分年金を増やす最新投資術」を特集。2027年、iDeCoが大きく変わる。会社員の拠出限度額が引き上げられ、加入できる年齢も70歳未満まで延長される。NISAには既に多くの人が手を出しているが、今後はiDeCoにも戦略的に資産を振り向けていくことがゆとりある老後を築く鍵になりそうだ。2つの制度を組み合わせ、自分年金を最大化する最適解を探る。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
-      "published_at": "2026-08-24T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-24T10:16:05+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "パッケージ好意度トップ3をアイスが独占 新商品593品調査が示す勝ち筋",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00002/00118/?n_cid=nbpnxr_rss",
-      "summary": "食品や飲料のパッケージデザインにおける最大の役割の一つは、味や食感を分かりやすく伝えることだ。2026年のパッケージ好意度調査では、例年通りロングセラー商品が上位に並んだ。ただ、詳しく分析すると、パッケージ表現は毎年、少しずつ変化している。",
-      "published_at": "2026-08-24T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "食感",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-24T10:16:05+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "温度で秋のモチーフ変化「一番搾り」缶発売 未来消費カレンダー",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00244/?n_cid=nbpnxr_rss",
-      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年8月25日「キリンビール、温度で秋のモチーフの色が変わる『一番搾り』缶発売」ほか20件の情報を追加した。",
-      "published_at": "2026-08-24T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "話題",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 2
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-24T10:16:05+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "1位は「サイバーエージェント、広告事業が減収減益の危機 正念場のAI革命」 ちょうど1年前振り返りランキング",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00128/?n_cid=nbpnxr_rss",
-      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2024年8月24日～9月20日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
-      "published_at": "2026-08-24T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-08-24T10:16:05+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "「CAPCOMIX」横浜進出 ゲームの外で未来のファンとの接点を創出へ",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01182/00096/?n_cid=nbpnxr_rss",
-      "summary": "カプコンの「モンスターハンター」「ストリートファイター」「鬼武者」といった人気ゲームシリーズの世界を、コントローラーではなく全身を動かして楽しむ。そんな体験型アミューズメント施設「CAPCOMIX（カプコミクス）」が、2026年7月17日、横浜・みなとみらいにオープンした。なぜカプコンは、ゲームの世界をリアルな遊び場へと広げるのか。オープン前日に開催された内覧会で、出店に込めた狙いを探った。",
-      "published_at": "2026-08-24T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-24T10:16:05+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "パッケージ好意度トップ3はアイス 新商品593品調査が示す勝ち筋",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MTlBPaE1TdnB1MWMzdUhTMXByNlN6X0RTYXpVREpzRlZ4SHR2X21SbnMwU2dIM1NVQmh3YVI3Qm9DOW9pOFpQNlZ4SFVoc2wtRy1USGhTcjZuSmw3VWxjNk9GRVV0Zw?oc=5",
-      "summary": "パッケージ好意度トップ3はアイス 新商品593品調査が示す勝ち筋&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-23T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-24T10:16:02+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "温度で秋のモチーフ変化「一番搾り」缶発売 未来消費カレンダー",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sS3FtcS1rUVl2ZG41b09QdDV3VzVGOHQ4M3NUbmxsbWRHVlo3a3gxZWVzZWs2bEhVNU1SSmZoMnZQT2RnVVdLOTA0SGR5TXlWeDZMbFI1T3M4Wk56VXJPRDNKck9kUQ?oc=5",
-      "summary": "温度で秋のモチーフ変化「一番搾り」缶発売 未来消費カレンダー&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-23T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-24T10:16:02+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -7144,6 +7122,94 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-09-23T13:21:26+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Unloved brands offloaded by Big Food are a tasty snack for startups, PE firms",
+      "url": "https://www.fooddive.com/news/big-food-mergers-castoffs-private-equity-conagra-campbells/825603/",
+      "summary": "Castoffs from Conagra, Campbell’s and other companies are thriving under private owners who can devote more energy to innovation and growth.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-24T13:36:55+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Why functional nutrition calls for a closer look at flavor",
+      "url": "https://www.fooddive.com/spons/why-functional-nutrition-calls-for-a-closer-look-at-flavor/830241/",
+      "summary": "Shutterstock/Bret Hofacker",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-24T13:36:55+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Sazerac to buy German spirits producer Berentzen",
+      "url": "https://www.fooddive.com/news/sazerac-buys-berentzen-german-spirits/830988/",
+      "summary": "The deal with Berentzen Group is expected to broaden both companies’ portfolios, capabilities and reach.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-24T13:36:55+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "C4 launches beer-flavored energy drink",
+      "url": "https://www.fooddive.com/news/c4-energy-drink-beer-all-hopped-up/830891/",
+      "summary": "The Nutrabolt-owned brand is making a big bet to enter an emerging wellness niche within the nonalcoholic beer sector.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-24T13:36:55+08:00"
     }
   ]
 }
