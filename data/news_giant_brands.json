@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-24T20:27:38",
+  "last_updated": "2026-09-25T13:33:44",
   "retention_days": 7,
-  "total": 617,
+  "total": 618,
   "s_count": 39,
   "a_count": 5,
-  "b_count": 573,
+  "b_count": 574,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-09-25T00:00:00",
+      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.25日清食品「日清のどん兵衛」「日清焼そばU.F.O.」とアニメ「僕のヒーローアカデミア」のコラボ企画 (10月5日からスタート)",
+      "url": "https://www.nissin.com/jp/news/13937/",
+      "published_at": "2026-09-25T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
@@ -109,17 +131,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0918_01.html",
       "published_at": "2026-09-18T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-09-18T00:00:00",
-      "summary": "2026 年12月期 上期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
