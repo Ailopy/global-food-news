@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-09-25T17:31:40.982397+08:00",
-  "total": 10605,
+  "last_updated": "2026-09-25T22:17:57.753772+08:00",
+  "total": 10622,
   "articles": [
+    {
+      "id": "f1f9d8206beb6173",
+      "title": "Have Food Recall Stats Become Misleading?",
+      "summary": "Food recalls are undeniably prominent in 2026, and improved detection and traceability are uncovering more risks. For food companies, prevention, pathogen monitoring, and workforce training have…",
+      "url": "https://foodinstitute.com/focus/have-food-recall-stats-become-misleading/?utm_source=rss&utm_medium=rss&utm_campaign=have-food-recall-stats-become-misleading",
+      "published_at": "2026-09-25T22:00:11+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "757e18e41e1da07a",
+      "title": "Aldi to roll out first ready-made meals line",
+      "summary": "The collection of single-serve and family-size meals adds a new dimension to the discount grocer’s lineup of store brand products.",
+      "url": "https://www.fooddive.com/news/aldi-launches-first-ready-made-meals/831250/",
+      "published_at": "2026-09-25T21:40:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "409557dbb59f5722",
+      "title": "Arizona Attorney General Sues Feel Free Shot Maker in Kratom Crackdown",
+      "summary": "Arizona Attorney General Kris Mayes is suing Botanic Tonics, maker of the Feel Free brand of kratom and kava shots, claiming the company illegally sold its products as “energy drinks” without…",
+      "url": "https://www.bevnet.com/news/2026/arizona-attorney-general-sues-feel-free-shot-maker-in-kratom-crackdown",
+      "published_at": "2026-09-25T21:37:18+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "df9107c13c2cd623",
+      "title": "Leftovers: Hidden Valley Ranch goes dark for Halloween | V8 energizes with electrolytes",
+      "summary": "The dressing is taking on a haunted hue for its first-ever seasonal product, while Ocean Spray is positioning cranberry as the next pumpkin spice with a series of innovations across formats.",
+      "url": "https://www.fooddive.com/news/hidden-valley-spooky-ranch-v8-electrolytes-ocean-spray-cranberry-fall-season/831354/",
+      "published_at": "2026-09-25T21:25:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "647433de68572c95",
+      "title": "Distribution: oHy Makes Target Debut; Walmart’s ‘New & Noteworthy’ Set Takes Shape",
+      "summary": "Hydrogen sparkling water brand oHy is expanding its retail footprint with a nationwide debut at Target, bringing the emerging beverage format to 800 locations across the U.S.",
+      "url": "https://www.bevnet.com/news/2026/distribution-ohy-makes-target-debut-walmarts-new-noteworthy-set-takes-shape",
+      "published_at": "2026-09-25T21:17:22+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "b836e7150be33635",
+      "title": "New Products: Wonka Gets Whimsical, Cup Noodles Shows Its Fangs",
+      "summary": "In this week’s new products roundup, Ferrero brings Wonka back to the confectionery set with four limited-edition treats, Cup Noodles gets into the Halloween spirit with color-changing Vampire…",
+      "url": "https://www.nosh.com/news/2026/new-products-wonka-gets-whimsical-cup-noodles-shows-its-fangs",
+      "published_at": "2026-09-25T21:00:35+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8d63beac2d18d40c",
+      "title": "Amid Tech Evolution, People Still Paramount at 2026 IFDA Solutions Conference",
+      "summary": "The 2026 IFDA Solutions Conference spotlighted how foodservice distributors can pair AI, predictive data, and emerging technology with stronger leadership, workforce development, and regulatory…",
+      "url": "https://foodinstitute.com/leadership/amid-tech-evolution-people-paramount-2026-ifda-solutions-conference/?utm_source=rss&utm_medium=rss&utm_campaign=amid-tech-evolution-people-paramount-2026-ifda-solutions-conference",
+      "published_at": "2026-09-25T19:00:28+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "58ae7c3ca887fe70",
+      "title": "Women’s Health: Science, solutions and innovation across the lifespan - ROUNDTABLE NOW ON DEMAND",
+      "summary": "Join Nutraceutical Business Review in this expert-led roundtable exploring the latest science, innovations and solutions shaping women’s health across every stage of life",
+      "url": "https://nutraceuticalbusinessreview.com/women-s-health-science-solutions-and-innovation-across-the",
+      "published_at": "2026-09-25T18:30:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "d69ef6c1ab0b0c69",
+      "title": "Magtein study explores magnesium L-threonate in collegiate athletes",
+      "summary": "A UCLA study is investigating whether magnesium L-threonate can support sleep, recovery and physical performance in college athletes",
+      "url": "https://nutraceuticalbusinessreview.com/magtein-study-magnesium-l-threonate-collegiate-athletes",
+      "published_at": "2026-09-25T18:23:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "a421590f133f1601",
+      "title": "OK Capsule links AI supplement recommendations to personalised manufacturing via MCP",
+      "summary": "The US supplement infrastructure company says its Model Context Protocol integration can allow AI-generated protocols to move directly into individualised production and fulfilment",
+      "url": "https://nutraceuticalbusinessreview.com/ok-capsule-ai-supplement-recommendations-personalised-manufacturing-mcp",
+      "published_at": "2026-09-25T17:50:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "f5c184cb449540ff",
       "title": "今週新発売のファミマパンまとめ！『キャラメル香るおいものクロワッサン　紅はるか』、『牛乳入りパン　信州産牛乳入りホイップ』など♪",
@@ -63,6 +183,18 @@
       "language": "ja"
     },
     {
+      "id": "97dc553605dbbc8c",
+      "title": "袋麺「サッポロ一番」に“鍋”風が新登場 麺・スープを一緒に煮込む お好み具材でさらにおいしく",
+      "summary": "サンヨー食品は、「サッポロ一番」ブランドで“鍋”風のアレンジが楽しめる袋麺を新たに開発、「同 みそラーメン 北海道 石狩鍋風」と「同 塩らーめん 福岡 水炊き風」を10月5日から発売する。レギュラー品と異なり、麺と粉末 […] ソース",
+      "url": "https://shokuhin.net/157480/2026/09/25/kakou/sokuseki/",
+      "published_at": "2026-09-25T15:59:41+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "eefe276d4393e6b3",
       "title": "【5日間限定】焼きたてのかるび、丼もの全品「ごはん大盛り」が無料に　「秋のごはん増量キャンペーン」9月25日から",
       "summary": "物語コーポレーションが全国に39店舗展開する「焼きたてのカルビ丼」と「ユッケジャンスープ」の専門店「焼きたてのかるび」は、9月25日から「秋のごはん増量キャンペーン」を開始した。5日間限定のキャンペーンで、9月29日まで...",
@@ -75,12 +207,12 @@
       "language": "ja"
     },
     {
-      "id": "689b4c6c93d1d2bc",
-      "title": "今週新発売の和風食品まとめ！『たんぱく質が摂れるペッパーグリルチキンのサラダ』、『野菜のうまみ８種具材のだんご汁』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風セブン-イレブン たんぱく質が摂れるペッパーグリルチキンのサラダ野菜に黒胡椒…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092507/?utm_source=rss&utm_medium=mognavinews_20260925",
-      "published_at": "2026-09-25T15:00:00+08:00",
-      "source": "Mognavi",
+      "id": "3e0c23f80dbcd62f",
+      "title": "大腸がん内視鏡検査 専用検査食でサポート キユーピー",
+      "summary": "キユーピーは、医療用フード「ジャネフ」ブランドで展開する大腸内視鏡専用検査食「クリアスルー」の普及を通じて、大腸がん内視鏡検査の受診率向上と健康寿命の延伸に取り組んでいる。 同社は、機能性マヨネーズ・ドレッシングや介 […] ソース",
+      "url": "https://shokuhin.net/157423/2026/09/25/kakou/kenshoku/",
+      "published_at": "2026-09-25T15:20:36+08:00",
+      "source": "食品新聞",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -97,6 +229,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "689b4c6c93d1d2bc",
+      "title": "今週新発売の和風食品まとめ！『たんぱく質が摂れるペッパーグリルチキンのサラダ』、『野菜のうまみ８種具材のだんご汁』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風セブン-イレブン たんぱく質が摂れるペッパーグリルチキンのサラダ野菜に黒胡椒…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092507/?utm_source=rss&utm_medium=mognavinews_20260925",
+      "published_at": "2026-09-25T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "60c80418c988cdda",
@@ -147,6 +291,18 @@
       "language": "ja"
     },
     {
+      "id": "8a3e90e526383e17",
+      "title": "麺メーカー・菊水 生産現場の視点で変革 「信頼と創造」を次代へ 池田賢治社長",
+      "summary": "菊水は、新経営体制の下、商品力の強化と生産体制の再構築を進める。6月に就任した池田賢治社長は、米久と伊藤ハム米久ホールディングスを主に、国内外の工場運営に携わってきた。人手不足やコスト上昇、季節変動への対応を踏まえ、生 […] ソース",
+      "url": "https://shokuhin.net/157391/2026/09/25/topnews/",
+      "published_at": "2026-09-25T13:43:23+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "00753e7bebde67cc",
       "title": "今週新発売のボリュームのある食べものまとめ！『サンドおむすび　チキンカツ　てりやきマヨソース』、『具！おにぎり　照りマヨハンバーグ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ボリュームの新商品情報をお届けします。今週新発売の#ボリュームニューデイズ ニュータス サンドおむすび チキンカツ てりやきマ…",
@@ -171,12 +327,48 @@
       "language": "ja"
     },
     {
+      "id": "0740549fe0f104b7",
+      "title": "「熊本獺祭の会」 11月28日に緊急開催へ イベント通じ復興支援",
+      "summary": "獺祭は、「令和8年熊本地震」の被災地を支援するため、11月28日に「熊本獺祭の会」を熊本市・ホテル日航熊本で開催する。熊本県には8月10日に3000万円を寄付したが、今回のイベントでも収益の一部を義援金にあてる。 熊 […] ソース",
+      "url": "https://shokuhin.net/157467/2026/09/25/inryou/sake/",
+      "published_at": "2026-09-25T13:08:43+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3b952ff24758ee0e",
+      "title": "片岡物産「モンカフェ」間口拡大へ コミュニケーションと付加価値で魅力発信",
+      "summary": "片岡物産は最盛期に向けて、「モンカフェ」で若年層を中心に間口拡大へ挑む。 認知拡大に向けて、TVCMは11月から12月にかけて関東以外の主要都市で放映し、Web動画の広告も予定している。 CMでは「モンカフェ」なら […] ソース",
+      "url": "https://shokuhin.net/157448/2026/09/25/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-09-25T13:00:23+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e18369ea991eb9fc",
       "title": "【2026年9月第4週】コンビニドーナツランキング1位はきなこドーナツ！もちもち新商品も登場まとめ",
       "summary": "コンビニドーナツのランキング、2026年9月第4週の結果が出ました！もちもち食感、サクサク生地、クリームたっぷり……今週もバラエティ豊かなラインナップが揃って…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27572/?utm_source=rss&utm_medium=mognavinews_20260925",
       "published_at": "2026-09-25T13:00:00+08:00",
       "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a6525e5ad1834a52",
+      "title": "デルソーレ 業務用トルティーヤ拡充 本場の味を手軽に提供",
+      "summary": "デルソーレは、近年のタコスブームや本格メキシコ料理の人気に着目し、業務用冷凍食品で「コーン風トルティーヤ165」と「フラワートルティーヤ140」を9月に発売した。本場メキシコの味わいをアレンジ自在で手軽に提供できる。 […] ソース",
+      "url": "https://shokuhin.net/157420/2026/09/25/ryutu/orosi/%e6%a5%ad%e5%8b%99%e7%94%a8/",
+      "published_at": "2026-09-25T12:56:51+08:00",
+      "source": "食品新聞",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -261,6 +453,18 @@
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27571/?utm_source=rss&utm_medium=mognavinews_20260925",
       "published_at": "2026-09-25T12:00:00+08:00",
       "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8a88a0d461c92e78",
+      "title": "次世代型紅茶マシンが始動 手淹れのようなクオリティを短時間で SDRS「Tea‐Up」",
+      "summary": "店舗向け機器や自販機などを製造するSDRSは、茶葉から淹れる上質な味わいや香りの紅茶を手軽に提供できる次世代型紅茶マシン「Tea-Up（ティーアップ）」の本格展開に乗り出す。 独自の抽出制御システムにより、手淹れのよ […] ソース",
+      "url": "https://shokuhin.net/157436/2026/09/25/sonota/kikai/",
+      "published_at": "2026-09-25T11:56:36+08:00",
+      "source": "食品新聞",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -615,9 +819,9 @@
       "language": "en"
     },
     {
-      "id": "e3a27e6dd2060274",
-      "title": "Why food rating systems can miss the mark on nutrition",
-      "summary": "Apps and other technology options designed to provide more clarity behind the ingredients in food actually deliver confusion, writes the CEO of Perfect Snacks.",
+      "id": "88c3e259d1b70ac6",
+      "title": "Why food rating apps can miss the mark on nutrition",
+      "summary": "Technology meant to provide more clarity behind the ingredients in food actually deliver confusion, writes the CEO of Perfect Snacks.",
       "url": "https://www.fooddive.com/news/food-rating-systems-nutrition-ai-oped/831278/",
       "published_at": "2026-09-25T00:07:00+08:00",
       "source": "Food Dive",
@@ -627,9 +831,9 @@
       "language": "en"
     },
     {
-      "id": "88c3e259d1b70ac6",
-      "title": "Why food rating apps can miss the mark on nutrition",
-      "summary": "Technology meant to provide more clarity behind the ingredients in food actually deliver confusion, writes the CEO of Perfect Snacks.",
+      "id": "e3a27e6dd2060274",
+      "title": "Why food rating systems can miss the mark on nutrition",
+      "summary": "Apps and other technology options designed to provide more clarity behind the ingredients in food actually deliver confusion, writes the CEO of Perfect Snacks.",
       "url": "https://www.fooddive.com/news/food-rating-systems-nutrition-ai-oped/831278/",
       "published_at": "2026-09-25T00:07:00+08:00",
       "source": "Food Dive",
