@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-25T13:33:44",
+  "last_updated": "2026-09-25T20:28:00",
   "retention_days": 7,
-  "total": 618,
+  "total": 619,
   "s_count": 39,
-  "a_count": 5,
+  "a_count": 6,
   "b_count": 574,
   "brands": [
     "亿滋",
@@ -969,6 +969,17 @@
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Old El Paso Named Title Sponsor Of Sun Bowl",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/old-el-paso-named-title-sponsor-of-sun-bowl",
+      "published_at": "2026-08-30T00:00:00",
+      "summary": "Partnership brings together two brands with deep ties to the Sun City.",
+      "level": "A",
+      "level_reason": "常规新品/营销"
     },
     {
       "brand": "Ito En",
