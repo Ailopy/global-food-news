@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-26T17:16:21.839726+08:00",
+  "last_updated": "2026-09-26T21:28:11.915793+08:00",
   "retention_days": 7,
-  "total": 435,
+  "total": 430,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,42 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "03c032871fbb004d",
+      "title": "「クラフトボス 甘くないイタリアーノ」好調　ラテ専用ミルクの賛否両論でペットボトルコーヒーに馴染みのない新規ユーザーを 獲得",
+      "summary": "サントリービバレッジ＆フードの「クラフトボス 甘くないイタリアーノ」（イタリアーノ）が好調に推移している。 「イタリアーノ」は2023年4月の発売開始以降、右肩上がりに販売数量を拡大。発売3年で販売数量は2倍以上に伸長 […] ソース",
+      "url": "https://shokuhin.net/157493/2026/09/26/inryou/inryou-inryou/",
+      "published_at": "2026-09-26T20:51:54+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c0c296c95abfbd80",
+      "title": "エビアン200周年、渋谷でポップアップ 若年層との接点拡大へ",
+      "summary": "ナチュラルミネラルウォーターブランド「エビアン」は2026年、ボトリング開始から200周年を迎え、記念キャンペーン「evian200祭」を展開している。 限定デザインボトルの発売に加え、9月26、27日にはダノンジャパン...",
+      "url": "https://www.ssnp.co.jp/beverage/703842/",
+      "published_at": "2026-09-26T17:39:50+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "3e171ee6c42504c6",
+      "title": "今週新発売のぶどうまとめ！『グミだよ。ぶどう味』、『シャインマスカット＆黄桃サンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ぶどうの新商品情報をお届けします。今週新発売の#ぶどう春日井 グミだよ。ぶどう味ゆるーいパッケージがかわいらしい、ぷにとろ食感…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092608/?utm_source=rss&utm_medium=mognavinews_20260926",
+      "published_at": "2026-09-26T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "7f579435a5015ab9",
       "title": "今週新発売のたまご味まとめ！『白いコッペパン　たまごサラダ』、『とろーりたまごマフィン』など♪",
@@ -582,18 +618,6 @@
       "language": "ja"
     },
     {
-      "id": "8ee686ccc8ea59b1",
-      "title": "Did You Know? The joint support market is more inclusive than ever",
-      "summary": "The joint health market has expanded and diversified; it’s not just for ageing senior citizens, reports Antoine Vanhove, Global Health Marketing Manager at Gnosis by Lesaffre",
-      "url": "https://nutraceuticalbusinessreview.com/did-you-know-the-joint-support-market-is",
-      "published_at": "2026-09-25T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "c24ec1d85acbe819",
       "title": "今週新発売の和風食品まとめ！『たんぱく質が摂れるペッパーグリルチキンのサラダ』、『野菜のうまみ８種具材のだんご汁』など♪",
       "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風セブン-イレブン たんぱく質が摂れるペッパーグリルチキンのサラダ野菜に黒胡椒…",
@@ -604,6 +628,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "8ee686ccc8ea59b1",
+      "title": "Did You Know? The joint support market is more inclusive than ever",
+      "summary": "The joint health market has expanded and diversified; it’s not just for ageing senior citizens, reports Antoine Vanhove, Global Health Marketing Manager at Gnosis by Lesaffre",
+      "url": "https://nutraceuticalbusinessreview.com/did-you-know-the-joint-support-market-is",
+      "published_at": "2026-09-25T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "689b4c6c93d1d2bc",
@@ -5136,102 +5172,6 @@
       "url": "https://shokuhin.net/157212/2026/09/19/kakou/kashi/",
       "published_at": "2026-09-19T21:32:44+08:00",
       "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "e6e98dd0812cc100",
-      "title": "「〆鍋」の雑炊が缶スープに　ダイドードリンコとMizkanが共創し新たな食のスタイルを提案",
-      "summary": "ダイドードリンコはMizkan（以下、ミツカン）と共創し、ミツカンの「〆鍋」ブランドを冠したコメ入りの缶スープの新商品「ダイドー×ミツカン 〆鍋 ごま豆乳鍋スープ 雑炊仕立て」「同 ほたてと蛤の貝だし鍋スープ 雑炊仕立 […] ソース",
-      "url": "https://shokuhin.net/157209/2026/09/19/inryou/inryou-inryou/",
-      "published_at": "2026-09-19T21:21:20+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "efcbe4a2714e798d",
-      "title": "湖池屋、スナックに「第二章」の革新　外食の「揚げたてに近い味」目指した新製法の成形ポテトで中食市場に照準　10年かけ開発",
-      "summary": "湖池屋は、スナック市場へ「プライドポテト」に次ぐ「第二章」の位置づけとなる革新を起こすべく、構想から10年かけて開発した新商品「金のポテト」を投入して成形ポテトカテゴリに本格参入する。 同商品は、外食の揚げたてフライ […] ソース",
-      "url": "https://shokuhin.net/157203/2026/09/19/kakou/kashi/",
-      "published_at": "2026-09-19T21:13:50+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "a4cf1bae787a1628",
-      "title": "ダイドードリンコからコーヒー豆不使用のラテ数量限定発売　「コーヒーの2050年問題」見据え開発",
-      "summary": "ダイドードリンコは、コーヒー豆・香料不使用のラテ「ダイドー グッドラテ2050」を10月5日から数量限定発売する。 9月10日、新商品試飲会に登壇したダイドードリンコマーケティング部商品開発グループシニアマネージャー […] ソース",
-      "url": "https://shokuhin.net/157197/2026/09/19/inryou/inryou-inryou/",
-      "published_at": "2026-09-19T21:03:17+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "a7655455905d5e37",
-      "title": "ポテトチップスで人気No.1のスターになるとの願いから誕生した「チップスター」　トップシェア堅持し24年以降売上は好調に推移",
-      "summary": "ヤマザキビスケットの成型ポテトチップスブランド「チップスター」は今年、1976年1月に発売開始されてから50年の節目を迎え、近年は成型ポテトチップス市場でトップシェアを堅持し2024年以降売上は好調に推移している。今期 […] ソース",
-      "url": "https://shokuhin.net/157192/2026/09/19/kakou/kashi/",
-      "published_at": "2026-09-19T20:57:40+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "3d04beba0f29d4ee",
-      "title": "味の素AGF初、インスタントコーヒーと大麦エキスをブレンドした新商品　コーヒー2050年問題とカフェイン忌避する若年層に着目",
-      "summary": "味の素AGFは、同社初となるカフェインハーフを実現した商品として、インスタントコーヒーと大麦エキスをブレンドした新商品「ブレンディ」大麦とコーヒーを10月1日から一部の通販と小売店でテスト販売する。 同商品は、同社独 […] ソース",
-      "url": "https://shokuhin.net/157188/2026/09/19/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
-      "published_at": "2026-09-19T20:48:36+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "1f60845982fb18f5",
-      "title": "「ジョージア」の缶コーヒー基幹商品が成長　短い時間でも休憩することで次に進むエネルギーになる価値伝達と価格戦略が奏功",
-      "summary": "コカ・コーラシステムの「ジョージア」は、缶コーヒー（SOT缶）の基幹商品が成長している。 9月17日、取材に応じた日本コカ・コーラの新田祐一郎マーケティング本部コーヒー事業部シニアディレクターは「コーヒー飲料市場は、 […] ソース",
-      "url": "https://shokuhin.net/157184/2026/09/19/inryou/inryou-inryou/",
-      "published_at": "2026-09-19T20:43:36+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "ee9128056ada9f4c",
-      "title": "今週新発売のホイップまとめ！『クレープシフォンケーキ　チョコホイップ』、『ダブルカステラサンド　とやまの牛乳入りホイップ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！ホイップの新商品情報をお届けします。今週新発売の#ホイップファミリーマート ファミマルBakery クレープシフォンケーキ チ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091908/?utm_source=rss&utm_medium=mognavinews_20260920",
-      "published_at": "2026-09-19T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "cbcc4da9cba8841e",
-      "title": "今週新発売のホイップまとめ！『クレープシフォンケーキ　チョコホイップ』、『ダブルカステラサンド　とやまの牛乳入りホイップ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！ホイップの新商品情報をお届けします。今週新発売の#ホイップファミリーマート ファミマルBakery クレープシフォンケーキ チ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026091908/?utm_source=rss&utm_medium=mognavinews_20260919",
-      "published_at": "2026-09-19T17:30:00+08:00",
-      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
