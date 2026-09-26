@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-09-26T17:16:21.712011+08:00",
-  "total": 10664,
+  "last_updated": "2026-09-26T21:28:11.805428+08:00",
+  "total": 10667,
   "articles": [
+    {
+      "id": "03c032871fbb004d",
+      "title": "「クラフトボス 甘くないイタリアーノ」好調　ラテ専用ミルクの賛否両論でペットボトルコーヒーに馴染みのない新規ユーザーを 獲得",
+      "summary": "サントリービバレッジ＆フードの「クラフトボス 甘くないイタリアーノ」（イタリアーノ）が好調に推移している。 「イタリアーノ」は2023年4月の発売開始以降、右肩上がりに販売数量を拡大。発売3年で販売数量は2倍以上に伸長 […] ソース",
+      "url": "https://shokuhin.net/157493/2026/09/26/inryou/inryou-inryou/",
+      "published_at": "2026-09-26T20:51:54+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c0c296c95abfbd80",
+      "title": "エビアン200周年、渋谷でポップアップ 若年層との接点拡大へ",
+      "summary": "ナチュラルミネラルウォーターブランド「エビアン」は2026年、ボトリング開始から200周年を迎え、記念キャンペーン「evian200祭」を展開している。 限定デザインボトルの発売に加え、9月26、27日にはダノンジャパン...",
+      "url": "https://www.ssnp.co.jp/beverage/703842/",
+      "published_at": "2026-09-26T17:39:50+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "3e171ee6c42504c6",
+      "title": "今週新発売のぶどうまとめ！『グミだよ。ぶどう味』、『シャインマスカット＆黄桃サンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ぶどうの新商品情報をお届けします。今週新発売の#ぶどう春日井 グミだよ。ぶどう味ゆるーいパッケージがかわいらしい、ぷにとろ食感…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092608/?utm_source=rss&utm_medium=mognavinews_20260926",
+      "published_at": "2026-09-26T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "7f579435a5015ab9",
       "title": "今週新発売のたまご味まとめ！『白いコッペパン　たまごサラダ』、『とろーりたまごマフィン』など♪",
@@ -567,18 +603,6 @@
       "language": "ja"
     },
     {
-      "id": "8ee686ccc8ea59b1",
-      "title": "Did You Know? The joint support market is more inclusive than ever",
-      "summary": "The joint health market has expanded and diversified; it’s not just for ageing senior citizens, reports Antoine Vanhove, Global Health Marketing Manager at Gnosis by Lesaffre",
-      "url": "https://nutraceuticalbusinessreview.com/did-you-know-the-joint-support-market-is",
-      "published_at": "2026-09-25T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "c24ec1d85acbe819",
       "title": "今週新発売の和風食品まとめ！『たんぱく質が摂れるペッパーグリルチキンのサラダ』、『野菜のうまみ８種具材のだんご汁』など♪",
       "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風セブン-イレブン たんぱく質が摂れるペッパーグリルチキンのサラダ野菜に黒胡椒…",
@@ -589,6 +613,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "8ee686ccc8ea59b1",
+      "title": "Did You Know? The joint support market is more inclusive than ever",
+      "summary": "The joint health market has expanded and diversified; it’s not just for ageing senior citizens, reports Antoine Vanhove, Global Health Marketing Manager at Gnosis by Lesaffre",
+      "url": "https://nutraceuticalbusinessreview.com/did-you-know-the-joint-support-market-is",
+      "published_at": "2026-09-25T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "689b4c6c93d1d2bc",
