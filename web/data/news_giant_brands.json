@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-25T20:28:00",
+  "last_updated": "2026-09-26T13:40:32",
   "retention_days": 7,
-  "total": 619,
+  "total": 620,
   "s_count": 39,
   "a_count": 6,
-  "b_count": 574,
+  "b_count": 575,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -87,6 +87,17 @@
       "url": "https://www.nissin.com/jp/news/13933/",
       "published_at": "2026-09-24T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/betty-crocker-turns-105-with-a-month-long-bash-at-museum-of-ice-cream",
+      "published_at": "2026-09-24T00:00:00",
+      "summary": "Betty Crocker Turns 105 with a Month-Long Bash at MUSEUM OF ICE CREAM, Mixing the Ultimate Cake and Ice Cream Duo",
       "level": "B",
       "level_reason": "企业动态"
     },
