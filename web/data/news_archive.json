@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-09-27T11:27:56.303924+08:00",
-  "total": 10689,
+  "last_updated": "2026-09-27T17:56:17.328377+08:00",
+  "total": 10696,
   "articles": [
+    {
+      "id": "97dacad9235eed99",
+      "title": "今週新発売のパーソナルアイスまとめ！『生チョコアイス』、『ピエール　エルメ　アンソロジー監修　キャラメル＆バニラ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！パーソナルアイスの新商品情報をお届けします。今週新発売の#パーソナルアイスセブン＆アイ セブンプレミアム 生チョコアイスダイス…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092708/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "bb304110155461c3",
+      "title": "今週新発売の北海道まとめ！『北海道産男爵とハムのポテトサラダ』、『北海道産ゆめぴりかおむすび　炙りたらこ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！北海道の新商品情報をお届けします。今週新発売の#北海道セブン-イレブン 北海道産男爵とハムのポテトサラダホクホクした食感と甘味…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092707/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "2fbe218d411936de",
+      "title": "今週新発売の甘辛まとめ！『直巻おむすび　具たっぷりとり五目』、『国産豚肉の炭火焼き』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！甘辛の新商品情報をお届けします。今週新発売の#甘辛セブン-イレブン 直巻おむすび 具たっぷりとり五目甘辛く味付けした鶏肉人参ご…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092706/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e7667be4f60f8caf",
+      "title": "【2026年9月第4週】ポテトチップス・スナックランキング1位はおさつポテコ焼きいも味！秋の新商品・急上昇まとめ",
+      "summary": "秋の味覚がスナック売り場にも広がってきた今週、もぐナビのポテトチップス・スナックランキングはどんな結果になったのでしょうか。焼きいも系からバター系まで、個性豊…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27605/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "081697d4485cd1d5",
+      "title": "今週新発売の寿司🍣まとめ！『手巻寿司焼さば　ごま醬油たれ』、『手巻寿司　いぶりがっこ納豆巻』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！寿司の新商品情報をお届けします。今週新発売の#寿司ローソン 手巻寿司焼さば ごま醬油たれほどよい塩味を感じる焼さばとごま醤油を…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092705/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "06de5f9568e10c62",
+      "title": "【2026年9月第4週】せんべい・駄菓子ランキング1位は三幸の柿の種 梅ざらめ！急上昇商品も見逃せないまとめ",
+      "summary": "秋の味覚や定番スナックが揃う今週のせんべい・駄菓子ランキング、気になる結果はいかがでしょうか。お気に入りの一品はランクインしていたでしょうか？早速、今週のトッ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27604/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "1c87aa7315d2e7fd",
+      "title": "今週新発売のローソンパンまとめ！『ゴロっと！モンブランデニッシュ』、『紅はるかのおいも蒸しパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ローソンパンの新商品情報をお届けします。今週新発売の#ローソンパンローソン ゴロっと！モンブランデニッシュ渋皮栗をゴロっと1粒…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092704/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "76df38cb5f00082d",
       "title": "【2026年9月第4週】クッキー・パイ・ビスケットランキング1位はカントリーマアム熟成蜜芋！鳩サブレー急上昇まとめ",
