@@ -1,18 +1,18 @@
 {
-  "total": 305,
+  "total": 308,
   "s_plus_count": 38,
   "sites": [
-    "日経新聞",
-    "Packaging Digest",
+    "Food Dive",
     "日経xTrend",
-    "Food Dive"
+    "Packaging Digest",
+    "日経新聞"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "其他": 181,
+    "其他": 184,
     "新产品": 47,
     "联名营销": 15,
     "营销创新": 22,
@@ -24,8 +24,8 @@
     "新包装": 1,
     "新原料": 1
   },
-  "last_updated": "2026-09-26 13:40",
-  "last_updated_iso": "2026-09-26T13:40:48.718195+08:00",
+  "last_updated": "2026-09-27 13:57",
+  "last_updated_iso": "2026-09-27T13:57:03.483498+08:00",
   "articles": [
     {
       "site_name": "Packaging Digest",
@@ -120,6 +120,28 @@
       ],
       "primary_category": "营销创新",
       "scraped_at": "2026-09-25T13:33:47+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（168ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fM09uc1RiNWpOVHdfZ3dOTlhweUNwWVFaTzVFSUpZMUYwcU5yQUMtQmdJYVBVZnBNdlJrTTh0d25SWUI3RmpmUDhoTk1KRm9JTjRFRDlFQTlaa3pQejVCZjRLbmhTSVE?oc=5",
+      "summary": "食品・飲料（168ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-24T06:19:34Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-27T13:56:45+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -2526,6 +2548,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "食品・飲料（111ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSWdpS2RSR0s1ZEhNaXBLN0ZTLXE2N2s2dF9laS1uUDZVdlZQdVlqNmlUaHJHR0tLeUJHNmJBZEl0RmNuZ3ZoVG5GUDBMTHR3VExfUlBWbU9aQ0hYX3JjRHZmbVJBNlE?oc=5",
+      "summary": "食品・飲料（111ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-08T09:02:20Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-27T13:56:45+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "食品・飲料（110ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12b3MycU9NV053S0VwdmRiVldGbUstRHhESmdGUU9jamVFeFoxRXpyRkxvY3M4VkFyNHAxMVRZcUIzbkVUaUFwbW9yVGdBc0ZOam1aWFhVYkNhTWREVTJ1RzdQbktOblU?oc=5",
       "summary": "食品・飲料（110ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -3652,6 +3696,28 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-09-03T13:17:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（138ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pQWR0Z0hvREt6SzZBZzB4OTJaY2FnS2FJVGwzRlE2RExmRWo5d3RXTzZ5N01LejBaRFE2OUhDbkt3SFQ1ellXTTlsdnZDTF9uRE9JelRrQ19XRXoxT3JSTDRQcTBvR1U?oc=5",
+      "summary": "食品・飲料（138ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T12:44:16Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-27T13:56:45+08:00"
     },
     {
       "site_name": "日経新聞",
