@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-26T21:28:11.915793+08:00",
+  "last_updated": "2026-09-27T11:27:56.447860+08:00",
   "retention_days": 7,
-  "total": 430,
+  "total": 436,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,102 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "76df38cb5f00082d",
+      "title": "【2026年9月第4週】クッキー・パイ・ビスケットランキング1位はカントリーマアム熟成蜜芋！鳩サブレー急上昇まとめ",
+      "summary": "秋の味覚が続々と顔を見せる季節、クッキー・パイ・ビスケットのランキングにも美味しい変化が生まれています。今週はどんな商品がもぐナビユーザーの心をつかんだのでし…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27603/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b00fed461219ccaa",
+      "title": "今週新発売のホイップまとめ！『西尾の抹茶ムース　＆黒糖わらび』、『チョコパリ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ホイップの新商品情報をお届けします。今週新発売の#ホイップセブン-イレブン 西尾の抹茶ムース ＆黒糖わらびぷるんと弾力のある黒…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092703/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "00b7b4953a2cc77d",
+      "title": "【2026年9月第4週】チョコレートランキング1位はチロル スイートポテト！急上昇＆久しぶりランクインも続々まとめ",
+      "summary": "秋の気配とともに、チョコレートがますます恋しい季節がやってきました。2026年9月第4週のチョコレートランキング、今週はどんな顔ぶれが上位に並んだのでしょうか…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27602/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6499955a19d77b94",
+      "title": "今週新発売のコンビニホットスナックまとめ！『冷たいまま食べる　おでん』、『大きな肉まん』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。来週新発売のコンビニホットスナックローソン 冷たいまま食べる おでん大根・が…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092702/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4b7cbac91dc9b992",
+      "title": "【2026年9月第4週】飴・キャラメルランキング1位は明治 果汁グミ 洋なし！新商品ピュレグミプレミアムも急上昇まとめ",
+      "summary": "9月も後半に入り、涼しい風が吹き始めるこの季節。もぐナビ「飴・キャラメル」カテゴリのランキングには、果実の恵みを感じるグミや懐かしいあの一粒など、思わず手が伸…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27601/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3578049986c7e9a6",
+      "title": "今週新発売のコンビニホットスナックまとめ！『極旨　黒豚まんチーズ』、『サクッとチキン　コンポタ味』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。来週新発売のコンビニホットスナックファミリーマート 極旨 黒豚まんチーズ国産…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092701/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-27T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b0204f5849d0424e",
+      "title": "サントリー、飲料の新価値創造に本腰 「アイデア1つでヒットする時代ではなくなった」成熟化市場へ何度でも挑戦を繰り返す",
+      "summary": "サントリービバレッジ＆フードは、飲料の新価値創造に本腰を入れる。 日本を含め世界的な嗜好の変化のスピードが加速していることが背景。 6月、取材に応じたサントリービバレッジ＆フードの木村穣介社長は、国内の飲料市場につ […] ソース",
+      "url": "https://shokuhin.net/154631/2026/09/27/inryou/inryou-inryou/",
+      "published_at": "2026-09-27T05:30:27+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "2414de304377e733",
+      "title": "アサヒ飲料、日中の炭酸需要開拓へ　「リフレッツ」発売、ウェルネス価値を提案",
+      "summary": "アサヒ飲料は9月22日、カロリー控えめの微炭酸飲料「リフレッツ」を関東甲信越1都9県限定で発売した。「レモン&レモンバーム」「アップル&ローズマリー」の2品を展開し、ウェルネス価値を付加した“かろやかな炭...",
+      "url": "https://www.ssnp.co.jp/beverage/703851/",
+      "published_at": "2026-09-26T21:52:27+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
     {
       "id": "03c032871fbb004d",
       "title": "「クラフトボス 甘くないイタリアーノ」好調　ラテ専用ミルクの賛否両論でペットボトルコーヒーに馴染みのない新規ユーザーを 獲得",
@@ -42,11 +138,47 @@
       "language": "ja"
     },
     {
+      "id": "f83d307dcb763742",
+      "title": "今週新発売のぶどうまとめ！『グミだよ。ぶどう味』、『シャインマスカット＆黄桃サンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ぶどうの新商品情報をお届けします。今週新発売の#ぶどう春日井 グミだよ。ぶどう味ゆるーいパッケージがかわいらしい、ぷにとろ食感…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092608/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "3e171ee6c42504c6",
       "title": "今週新発売のぶどうまとめ！『グミだよ。ぶどう味』、『シャインマスカット＆黄桃サンド』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ぶどうの新商品情報をお届けします。今週新発売の#ぶどう春日井 グミだよ。ぶどう味ゆるーいパッケージがかわいらしい、ぷにとろ食感…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092608/?utm_source=rss&utm_medium=mognavinews_20260926",
       "published_at": "2026-09-26T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3e55cd1b2d29f84f",
+      "title": "今週新発売のたまご味まとめ！『白いコッペパン　たまごサラダ』、『とろーりたまごマフィン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！たまご味の新商品情報をお届けします。今週新発売の#たまご味セブン-イレブン 白いコッペパン たまごサラダ歯切れがよくふんわりと…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092607/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "81c9e32526688750",
+      "title": "【2026年9月第4週】和菓子・その他ランキング1位はヤマザキ月どら栗モンブラン！秋の新商品・急上昇まとめ",
+      "summary": "秋の味覚が和菓子・その他カテゴリのランキングに集結しました。2026年9月第4週は、栗やいも、ずんだなど秋らしい素材を使った商品がずらりと顔を揃え、見ているだ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27579/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T15:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -78,11 +210,35 @@
       "language": "ja"
     },
     {
+      "id": "5230eb7de21dceed",
+      "title": "【2026年9月第4週】アイス・コンビニアイスランキング1位は蜜芋ブリュレ！新商品＆急上昇商品まとめ",
+      "summary": "秋の味覚が続々と登場し、アイス売り場がますます賑やかになってきました。今週のもぐナビ「アイス・コンビニアイス」ランキングでは、蜜芋やほうじ茶わらびなど秋らしい…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27578/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "60291ef1ea637065",
       "title": "【2026年9月第4週】アイス・コンビニアイスランキング1位は蜜芋ブリュレ！新商品＆急上昇商品まとめ",
       "summary": "秋の味覚が続々と登場し、アイス売り場がますます賑やかになってきました。今週のもぐナビ「アイス・コンビニアイス」ランキングでは、蜜芋やほうじ茶わらびなど秋らしい…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27578/?utm_source=rss&utm_medium=mognavinews_20260926",
       "published_at": "2026-09-26T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a8c63e2d598746e9",
+      "title": "今週新発売のもちもちまとめ！『もちもち食感どーなつ　きなこ』、『ぱりぷにゃちょこくりーむ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！もちもちの新商品情報をお届けします。今週新発売の#もちもちセブン-イレブン もちもち食感どーなつ きなこもちもち食感の生地にき…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092606/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T13:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -102,11 +258,35 @@
       "language": "ja"
     },
     {
+      "id": "f3e9fa7f6eb5bfdb",
+      "title": "【2026年9月第4週】プリン・ゼリー・カップデザートランキング1位はアンデイコ北海道かぼちゃのスフレプリン！かぼちゃ＆栗の秋新商品まとめ",
+      "summary": "秋の味覚がぎゅっと詰まったプリン・ゼリー・カップデザートのランキング、今週はどんな商品が上位に輝いたのでしょうか。かぼちゃに栗、蜜芋と、旬の素材を使ったデザー…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27577/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "ebf6cff43a99acb2",
       "title": "【2026年9月第4週】プリン・ゼリー・カップデザートランキング1位はアンデイコ北海道かぼちゃのスフレプリン！かぼちゃ＆栗の秋新商品まとめ",
       "summary": "秋の味覚がぎゅっと詰まったプリン・ゼリー・カップデザートのランキング、今週はどんな商品が上位に輝いたのでしょうか。かぼちゃに栗、蜜芋と、旬の素材を使ったデザー…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27577/?utm_source=rss&utm_medium=mognavinews_20260926",
       "published_at": "2026-09-26T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a08de1f30effb59f",
+      "title": "今週新発売の塩◯◯まとめ！『揚げうどん　のり塩』、『たっぷりぎっしりＷパック　ポテトチップス　じゃがいもと塩』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯セブン-イレブン 揚げうどん のり塩うどんを揚げたおてがるスナックです。…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092605/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T12:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -126,6 +306,18 @@
       "language": "ja"
     },
     {
+      "id": "c280fa8f1ad4ec70",
+      "title": "【2026年9月第4週】ケーキ・洋菓子ランキング1位はつっきーみ！新商品・急上昇商品まとめ",
+      "summary": "秋の気配が漂う9月第4週、もぐナビのケーキ・洋菓子ランキングに新顔が続々と登場しました。お月見シーズンならではの和風テイストから、今話題のスイーツまで、気にな…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27576/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "277feba4c9831e30",
       "title": "【2026年9月第4週】ケーキ・洋菓子ランキング1位はつっきーみ！新商品・急上昇商品まとめ",
       "summary": "秋の気配が漂う9月第4週、もぐナビのケーキ・洋菓子ランキングに新顔が続々と登場しました。お月見シーズンならではの和風テイストから、今話題のスイーツまで、気にな…",
@@ -138,11 +330,35 @@
       "language": "ja"
     },
     {
+      "id": "7a3c627f4d726378",
+      "title": "今週新発売のもち麦まとめ！『旨塩ダレのねぎ塩豚カルビ弁当　もち麦』、『鶏の旨み！鶏そぼろごはん　もち麦』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！もち麦の新商品情報をお届けします。今週新発売の#もち麦セブン-イレブン 旨塩ダレのねぎ塩豚カルビ弁当 もち麦香ばしく焼き上げた…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092604/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "d016dca324170d5a",
       "title": "今週新発売のもち麦まとめ！『旨塩ダレのねぎ塩豚カルビ弁当　もち麦』、『鶏の旨み！鶏そぼろごはん　もち麦』など♪",
       "summary": "こんにちは、もぐナビ編集部です！もち麦の新商品情報をお届けします。今週新発売の#もち麦セブン-イレブン 旨塩ダレのねぎ塩豚カルビ弁当 もち麦香ばしく焼き上げた…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092604/?utm_source=rss&utm_medium=mognavinews_20260926",
       "published_at": "2026-09-26T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "0d83ba45c76cb29e",
+      "title": "【2026年9月第4週】惣菜パンランキング1位はPasco 塩パン 明太ポテト！新商品・急上昇商品まとめ",
+      "summary": "秋の気配が漂いはじめた9月第4週、もぐナビの惣菜パンランキングに注目の顔ぶれが揃いました。定番の人気商品から今ぐっと注目を集めている商品まで、気になるラインナ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27575/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T11:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -172,6 +388,18 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "c41cdde92d39432d",
+      "title": "今週新発売のおつまみまとめ！『国産鶏むね肉の大葉焼鳥　梅だれ』、『鶏ハツ＆キャベツ　塩だれ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！おつまみの新商品情報をお届けします。今週新発売の#おつまみセブン-イレブン 国産鶏むね肉の大葉焼鳥 梅だれ国産鶏むね肉を使用し…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092603/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "c16fe322d48cd959",
@@ -222,6 +450,18 @@
       "language": "en"
     },
     {
+      "id": "abdce775711bc91e",
+      "title": "【2026年9月第4週】シリアル・その他パンランキング1位はオールブランフルーツミックス！久しぶりランクインも続出まとめ",
+      "summary": "今週もシリアル・その他パンカテゴリのランキングを発表します！朝食やおやつにぴったりな商品が顔を揃え、腸活志向の定番からほっこり秋の味覚まで、バラエティ豊かなラ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27574/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "ef36829bf9dc3c29",
       "title": "【2026年9月第4週】シリアル・その他パンランキング1位はオールブランフルーツミックス！久しぶりランクインも続出まとめ",
       "summary": "今週もシリアル・その他パンカテゴリのランキングを発表します！朝食やおやつにぴったりな商品が顔を揃え、腸活志向の定番からほっこり秋の味覚まで、バラエティ豊かなラ…",
@@ -246,6 +486,18 @@
       "language": "en"
     },
     {
+      "id": "b74bfb8f35bc34ad",
+      "title": "今週新発売の醤油味まとめ！『ミニ醤油豚骨中華そば』、『香味醤油ソースの鶏から揚げ弁当　黒マー油使用』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！醤油味の新商品情報をお届けします。今週新発売の#醤油味セブン-イレブン ミニ醤油豚骨中華そばマイルドでコクのあるスープの、広島…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092602/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5ee9f1378b0d1595",
       "title": "今週新発売の醤油味まとめ！『ミニ醤油豚骨中華そば』、『香味醤油ソースの鶏から揚げ弁当　黒マー油使用』など♪",
       "summary": "こんにちは、もぐナビ編集部です！醤油味の新商品情報をお届けします。今週新発売の#醤油味セブン-イレブン ミニ醤油豚骨中華そばマイルドでコクのあるスープの、広島…",
@@ -267,6 +519,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "c9fa0a619e322830",
+      "title": "【2026年9月第4週】菓子パンランキング1位はヤマザキ紅茶の蒸しケーキ！秋の新作ぞくぞく登場まとめ",
+      "summary": "秋の訪れを感じさせる新商品が続々と登場した2026年9月第4週の菓子パンランキング。今週はどんな顔ぶれがトップに輝いたのでしょうか。ほっとする甘さから、ずっし…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27573/?utm_source=rss&utm_medium=mognavinews_20260927",
+      "published_at": "2026-09-26T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -618,18 +882,6 @@
       "language": "ja"
     },
     {
-      "id": "c24ec1d85acbe819",
-      "title": "今週新発売の和風食品まとめ！『たんぱく質が摂れるペッパーグリルチキンのサラダ』、『野菜のうまみ８種具材のだんご汁』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風セブン-イレブン たんぱく質が摂れるペッパーグリルチキンのサラダ野菜に黒胡椒…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092507/?utm_source=rss&utm_medium=mognavinews_20260926",
-      "published_at": "2026-09-25T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "8ee686ccc8ea59b1",
       "title": "Did You Know? The joint support market is more inclusive than ever",
       "summary": "The joint health market has expanded and diversified; it’s not just for ageing senior citizens, reports Antoine Vanhove, Global Health Marketing Manager at Gnosis by Lesaffre",
@@ -640,6 +892,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "c24ec1d85acbe819",
+      "title": "今週新発売の和風食品まとめ！『たんぱく質が摂れるペッパーグリルチキンのサラダ』、『野菜のうまみ８種具材のだんご汁』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風セブン-イレブン たんぱく質が摂れるペッパーグリルチキンのサラダ野菜に黒胡椒…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092507/?utm_source=rss&utm_medium=mognavinews_20260926",
+      "published_at": "2026-09-25T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "689b4c6c93d1d2bc",
@@ -4980,198 +5244,6 @@
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092004/?utm_source=rss&utm_medium=mognavinews_20260920",
       "published_at": "2026-09-20T11:30:00+08:00",
       "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "04fc65cf0d84a303",
-      "title": "【2026年9月第3週】クッキー・パイ・ビスケットランキング1位はカントリーマアム熟成蜜芋！急上昇＆久しぶりランクインまとめ",
-      "summary": "秋の気配が深まる9月第3週、クッキー・パイ・ビスケットカテゴリにはどんな顔ぶれが集まったでしょうか。今週は秋らしい素材を使ったお菓子や、根強い人気を誇るロング…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27304/?utm_source=rss&utm_medium=mognavinews_20260921",
-      "published_at": "2026-09-20T11:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "3ad62d315622a1da",
-      "title": "【2026年9月第3週】クッキー・パイ・ビスケットランキング1位はカントリーマアム熟成蜜芋！急上昇＆久しぶりランクインまとめ",
-      "summary": "秋の気配が深まる9月第3週、クッキー・パイ・ビスケットカテゴリにはどんな顔ぶれが集まったでしょうか。今週は秋らしい素材を使ったお菓子や、根強い人気を誇るロング…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27304/?utm_source=rss&utm_medium=mognavinews_20260920",
-      "published_at": "2026-09-20T11:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "a765b0d8a1a2b36c",
-      "title": "今週新発売のコンビニホットスナックまとめ！『大きな結び白滝』、『国産手結び白滝』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。来週新発売のコンビニホットスナックローソン 大きな結び白滝国産のこんにゃく粉…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092003/?utm_source=rss&utm_medium=mognavinews_20260921",
-      "published_at": "2026-09-20T10:45:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "4ddf65a0e69f3ffd",
-      "title": "今週新発売のコンビニホットスナックまとめ！『大きな結び白滝』、『国産手結び白滝』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。来週新発売のコンビニホットスナックローソン 大きな結び白滝国産のこんにゃく粉…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092003/?utm_source=rss&utm_medium=mognavinews_20260920",
-      "published_at": "2026-09-20T10:45:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "8c1ee5ea2b5a42c2",
-      "title": "「チョコパイ クリームシュー･ビターエクレア」を新発売、お皿不要&常温OKでスイーツを手軽に【ロッテ】",
-      "summary": "ロッテは、チョコパイブランドから「チョコパイ クリームシュー 個売り」「チョコパイ ビターエクレア 個売り」を2026年9月22日から全国で発売する。 「場所や保管の制限なく、お皿を出さなくても常温でスイーツを手軽に楽し...",
-      "url": "https://www.ssnp.co.jp/snack/703340/",
-      "published_at": "2026-09-20T10:05:00+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "102ccea5b9d86b77",
-      "title": "【2026年9月第3週】チョコレートランキング1位はアルフォート安納芋味！秋フレーバーが急上昇まとめ",
-      "summary": "秋の味覚が続々とチョコレートになって登場する季節、今週のもぐナビチョコレートランキングは旬のフレーバーと定番人気が入り混じった見逃せない結果になりました。急上…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27271/?utm_source=rss&utm_medium=mognavinews_20260921",
-      "published_at": "2026-09-20T10:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "4894a1f865780433",
-      "title": "【2026年9月第3週】チョコレートランキング1位はアルフォート安納芋味！秋フレーバーが急上昇まとめ",
-      "summary": "秋の味覚が続々とチョコレートになって登場する季節、今週のもぐナビチョコレートランキングは旬のフレーバーと定番人気が入り混じった見逃せない結果になりました。急上…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27271/?utm_source=rss&utm_medium=mognavinews_20260920",
-      "published_at": "2026-09-20T10:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "0cca94bf4a8ee8ce",
-      "title": "今週新発売の菓子パン🍫まとめ！『くるみパン　キャラメル＆ホイップ』、『もちっとアップル』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン くるみパン キャラメル＆ホイップ 袋1個くるみを練りこんだ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092002/?utm_source=rss&utm_medium=mognavinews_20260921",
-      "published_at": "2026-09-20T09:45:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "580eb04f90b4464d",
-      "title": "今週新発売の菓子パン🍫まとめ！『くるみパン　キャラメル＆ホイップ』、『もちっとアップル』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン くるみパン キャラメル＆ホイップ 袋1個くるみを練りこんだ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092002/?utm_source=rss&utm_medium=mognavinews_20260920",
-      "published_at": "2026-09-20T09:45:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "62cc958a980455d3",
-      "title": "資生堂パーラー「オリジナルニットバッグセット」や「花椿ビスケット」限定缶を発売",
-      "summary": "資生堂パーラーは10月1日から、百貨店を中心とする全国の資生堂パーラー店舗で、「オリジナルニットバッグセット」（税込3,780円）を数量限定で順次発売する。 ロゴ入りのオリジナルニットバッグに、資生堂パーラーを代表する洋...",
-      "url": "https://www.ssnp.co.jp/snack/703265/",
-      "published_at": "2026-09-20T09:13:00+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "60417172e76daff8",
-      "title": "【2026年9月第3週】飴・キャラメルランキング1位はカジッテ キウイ＆アップル！秋の果実フレーバー注目商品まとめ",
-      "summary": "9月も半ばに差し掛かり、少しずつ秋の気配が漂い始める季節。そんな今週の飴・キャラメルカテゴリのランキングは、フルーティーなグミが上位を賑わせる顔ぶれとなりまし…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27238/?utm_source=rss&utm_medium=mognavinews_20260921",
-      "published_at": "2026-09-20T09:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "2af163c787d0326c",
-      "title": "【2026年9月第3週】飴・キャラメルランキング1位はカジッテ キウイ＆アップル！秋の果実フレーバー注目商品まとめ",
-      "summary": "9月も半ばに差し掛かり、少しずつ秋の気配が漂い始める季節。そんな今週の飴・キャラメルカテゴリのランキングは、フルーティーなグミが上位を賑わせる顔ぶれとなりまし…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-27238/?utm_source=rss&utm_medium=mognavinews_20260920",
-      "published_at": "2026-09-20T09:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "dbd3e5a71c4ba292",
-      "title": "ヤクルト本社、「Yakult(ヤクルト)1000」など8品で免疫機能訴求　35年以上の研究を商品価値へ",
-      "summary": "ヤクルト本社は、35年以上にわたり研究を進めてきた乳酸菌 シロタ株の免疫研究を商品展開につなげる。10月21日には機能性表示食品「Yakult1000」をリニューアルし、従来の「ストレス緩和」「睡眠の質向上」「腸内環境改...",
-      "url": "https://www.ssnp.co.jp/milk/703403/",
-      "published_at": "2026-09-20T07:20:00+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "5fc77e314329b931",
-      "title": "今週新発売のコンビニホットスナックまとめ！『燻製あい鴨ロース串』、『Ｗペッパーつくね串』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。来週新発売のコンビニホットスナックファミリーマート 燻製あい鴨ロース串柔らか…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092001/?utm_source=rss&utm_medium=mognavinews_20260921",
-      "published_at": "2026-09-20T06:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "041c9d18b999703a",
-      "title": "今週新発売のコンビニホットスナックまとめ！『燻製あい鴨ロース串』、『Ｗペッパーつくね串』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。来週新発売のコンビニホットスナックファミリーマート 燻製あい鴨ロース串柔らか…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092001/?utm_source=rss&utm_medium=mognavinews_20260920",
-      "published_at": "2026-09-20T06:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "e4d8938c686f498e",
-      "title": "カバヤ食品から新生「さくさくぱんだ」誕生　ビスケット原料を米粉に変更して“さくさく食感”追求　グルテンフリー化も実現",
-      "summary": "カバヤ食品から新生「さくさくぱんだ」が誕生する。 「さくさくぱんだ」は1996年に発売開始され今年発売30周年を迎えたチョコレートビスケットのロングセラーブランド。 ブランド認知･ブランド体験･かわいさという長年培 […] ソース",
-      "url": "https://shokuhin.net/157212/2026/09/19/kakou/kashi/",
-      "published_at": "2026-09-19T21:32:44+08:00",
-      "source": "食品新聞",
       "region": "日本",
       "category": "综合",
       "level": "A",
