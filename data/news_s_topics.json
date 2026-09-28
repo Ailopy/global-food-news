@@ -1,32 +1,330 @@
 {
-  "total": 308,
-  "s_plus_count": 38,
+  "total": 315,
+  "s_plus_count": 40,
   "sites": [
-    "Food Dive",
     "日経xTrend",
-    "Packaging Digest",
-    "日経新聞"
+    "日経新聞",
+    "Food Dive",
+    "Packaging Digest"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "其他": 184,
-    "新产品": 47,
+    "新产品": 49,
+    "其他": 189,
+    "品牌故事": 9,
+    "营销创新": 23,
     "联名营销": 15,
-    "营销创新": 22,
-    "渠道新物种": 4,
-    "品牌故事": 8,
+    "渠道新物种": 3,
     "行业政策": 18,
-    "并购融资": 7,
+    "并购融资": 6,
     "新技术": 1,
     "新包装": 1,
     "新原料": 1
   },
-  "last_updated": "2026-09-27 13:57",
-  "last_updated_iso": "2026-09-27T13:57:03.483498+08:00",
+  "last_updated": "2026-09-28 14:03",
+  "last_updated_iso": "2026-09-28T14:03:30.502403+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "酒税法で大変革 ビール「新ポジショニングマップ」",
+      "url": "https://xtrend.nikkei.com/info/podcast/19/00424/?n_cid=nbpnxr_rss",
+      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の最新トレンドをチェックする「WEEKLY TREND KEYWORDS」は、食品宅配サービス「Oisix（オイシックス）」が発売する、お重で届くおせちと自宅でゆでて食べるラーメンを組み合わせたセット「飯田商店監修らぁ麺おせち」をピックアップ。後半は「酒税法で大変革 ビール『新ポジショニングマップ』」をお送りします。2026年10月1日に、法改正による酒税の一本化で、ビール・発泡酒・第三のビールを隔ててきた税の壁が消えます。そこで今回は、日経クロストレンドの記者たちが作成した独自のポジショニングマップをもとに、大手ビール4社のポジショニング戦略を紹介します。解説は日経クロストレンドの中村勇介編集長。",
+      "published_at": "2026-09-28T05:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-28T14:03:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ディズニーとスクエニが語る「キングダム ハーツ」 異なるIPの融合",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00082/?n_cid=nbpnxr_rss",
+      "summary": "米The Walt Disney Companyとスクウェア・エニックスの協業から生まれたロール・プレイング・ゲームシリーズ「キングダム ハーツ」は、オリジナルの世界観と既存のディズニーIPを融合し、二十数年にわたって共存させてきた。2026年8月に米カリフォルニア州アナハイムで開催されたディズニーのファンイベント「D23: アルティメット・ディズニーファン・イベント2026」のパネルディスカッションで語られた作り手たちの言葉から、その成功の背景を探る。",
+      "published_at": "2026-09-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-28T14:03:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "不二家「ペコちゃん」開運だるま限定発売 未来消費カレンダー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00248/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年9月29日「不二家、「開運！ペコちゃん 赤だるま／白だるま」数量限定発売」ほか20件の情報を追加した。",
+      "published_at": "2026-09-28T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-28T14:03:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「「N＝1マーケ」でノース・フェイスが成長加速 “虫の目”でインサイト見極め」 ちょうど1年前振り返りランキング",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00132/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年9月28日～10月25日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
+      "published_at": "2026-09-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-28T14:03:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "急拡大のグミ市場、5年で2.3倍の1300億円に 「週1以上食べる」4割超",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00628/00135/?n_cid=nbpnxr_rss",
+      "summary": "グミ市場が急拡大している。2025年は約1300億円と5年で2.3倍に伸び、強力なライバルであるガム・キャンディーを抜き去った。勉強や仕事の合間以外にも食べるシーンが拡大。メーカーも栄養補給や美容成分入りなど、新たな需要を掘り起こす。26年9月3日は「グミの日」。グミの新たな可能性について考える。",
+      "published_at": "2026-09-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-28T14:03:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "苦境の弁当でセブンが100万食突破 他社に先行、中身を“隠す”容器開発",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01474/00001/?n_cid=nbpnxr_rss",
+      "summary": "セブンイレブンの日本上陸から52年。独自の進化を遂げてきたコンビニエンスストアに逆風が吹いている。背景には、食品も扱うドラッグストアや「まいばすけっと」に代表されるミニスーパーなど、相次ぐ異業態の参入がある。そんな中、セブン-イレブン・ジャパンは、業界の慣習に風穴を開ける新たなコンビニ弁当「旅するCAFÉ BOX」シリーズを2026年5月に発売した。コンビニ弁当を手に取らない若者や女性層を取り込むため、容器に“不透明”のボックス型を採用し、新たな“食体験”を消費者に提供して大ヒット。食べる直前まで中身が見えない弁当を、同社はなぜ開発したのか。",
+      "published_at": "2026-09-28T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-28T14:03:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「ドコモの銀行」が台頭 dポイントクラブ改悪でも最大4.5％還元を狙え",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00007/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」は、「クレジットカードvsスマホ決済 最得案内」を特集。ドコモ経済圏のポイント戦略が転換期を迎えた。dポイントクラブの特典縮小で、上位ランクを目指す従来の王道は通用しにくくなる。一方、「dカード PLATINUM」と「d払い」の優位性は健在だ。新たに始まった「ドコモの銀行」やマネックス証券との連係まで含め、還元を最大化する最新攻略法を解説する。記事の最後には、dポイントのため方、使い方をまとめた本誌該当ページのPDFを表示するリンクを用意した。ぜひ併せて活用してほしい。",
+      "published_at": "2026-09-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-28T14:03:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "トイレの利便性が離職率に直結 従業員の満足度と顧客の感動をスコア化",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02977/?n_cid=nbpnxr_rss",
+      "summary": "ソニーグループの元社長兼CEOの平井一夫氏と、国内外に1200店舗以上展開する「丸亀製麺」を抱えるトリドールホールディングスの創業者で社長兼CEOの粟田貴也氏の対談記事の第2回。2人が共通して持つ「人を大切にする経営哲学」に対する思いや、「社員のモチベーションを上げるのが社長の一番の仕事」という共通のテーマについて熱く語り合った。（前中後編の全3回：今回は中編）",
+      "published_at": "2026-09-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-09-28T14:03:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「じっくりコトコト」の累積商品数は300超 「不動の2番手」の攻めすぎ戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01948/?n_cid=nbpnxr_rss",
+      "summary": "スープブランドの「じっくりコトコト」が、2026年8月に誕生から30年を迎えた。ブランド発足時から、市場では味の素「クノール」という絶対的な王者が存在する中、不動の2番手として堅調に支持を獲得してきた。これまで出した商品は累計300種類以上。その変遷をひもとくと、後発としての試行錯誤やマーケティングが見えてきた。",
+      "published_at": "2026-09-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-28T14:03:15+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "酒税法で大変革 ビール「新ポジショニングマップ」",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeXdmcHZaNl9pUHVISzJ3cGZfU2pVTnNPVlB0OGliV2h2RDlPTkZsVFljWXNoVy1FZzNKTmhfQWtuamdfQzF5YkJqYnEzY3ExNFRzOWw1NVktR0RIVEo3dVhHQlI2ZlgwdFlsQ3AyYkt5LXBUS3dUeWlVV2FEUFZub3RpRUJGQQ?oc=5",
+      "summary": "酒税法で大変革 ビール「新ポジショニングマップ」&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-27T20:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-28T14:03:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "不二家「ペコちゃん」開運だるま限定発売 未来消費カレンダー",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGp0N19aUElHeHVmTkQyWmhfWFdHSWxOYWJ6ODZDU0JKS1NjWGprVFo1Q2s0MG5CM2lTT2xZU1RMc0Z1cWdwQUtOLUdRSmk5dWpLUWRDMUE0ODlQcHFBRDFXclpuUi1SeEppM2x0UE4wUUFPcmJXcTJpdngtQTNfc0N6NFlrRWtOR0hHNVF3?oc=5",
+      "summary": "不二家「ペコちゃん」開運だるま限定発売 未来消費カレンダー&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-27T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-28T14:03:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "苦境の弁当でセブンが100万食突破 他社に先行、中身を“隠す”容器開発",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdUxmRUpFdGNBMHdHOEVPSHoxWmdWa2RERGJfLXpsd3M0QmxQN0ItaTNlenhXZGxXLXJ0dnJ6ZUcza2tUUW9zVE1tdWxWOGJrcDJWcEg1N29UNkhfZ0QyanAwRHF5QjZuZWpPVkJPdUpYZjRRUjBqYmxyemVNSk0xSnF5TQ?oc=5",
+      "summary": "苦境の弁当でセブンが100万食突破 他社に先行、中身を“隠す”容器開発&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-27T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-28T14:03:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "キリン 本搾りチューハイ 夏柑 6種の柑橘 厳選ブレンド",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRzNweDlMNVhTalZFeTk4SGhfS0l0QzNBVmZzVUIzTE4yck1qczFPMUxoZG93VkV5MV9mZFhaSEdabGI1ckVZaGduZWRUTU85eWpPWFBoc1dURjdzZ0hZbzdiNXptOVg5bFh3X3JtMkE3NldJcnl4TnVqZFJES1VhTmdnNS1Wa1BkSVE?oc=5",
+      "summary": "キリン 本搾りチューハイ 夏柑 6種の柑橘 厳選ブレンド&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-26T22:04:28Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-28T14:03:13+08:00"
+    },
     {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
@@ -4164,6 +4462,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "食品・飲料（26ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03STI1YU93MWZFOTN0dF9jM1NEZEZEVVZsNkdpTjNfX0NRZU5jN3duNC1aOEQxU1NVVzlMc09BbGV2Wk1QamZBMHZEZE5LUmhhUjJmVGt2YW5aOTdha2lRR2IxbDZLZw?oc=5",
+      "summary": "食品・飲料（26ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-01T01:46:25Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-28T14:03:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "食品・飲料（163ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5peUluU0VUTlRTbnRHVjVFNkJDd0F3eTctUmJiZWlFSnRYMm1hTU1IUWZjNDE2eFZCYVBCczQ1aWRGNDg2cjR5MzEyLTB6NW9od1BmemFPQTJ2bzdOMUhudUdaU2JwYVk?oc=5",
       "summary": "食品・飲料（163ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -5142,72 +5462,6 @@
       "scraped_at": "2026-08-28T20:21:30+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "「鏡離れ」は何歳から？ 生活元年で見えた消齢化と世代間ギャップ",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00401/00076/?n_cid=nbpnxr_rss",
-      "summary": "コンビニで生鮮食品を買う頻度が高くなるのは何歳から？ 他人からの目線が気にならなくなり外見を重視しなくなるのは何歳から？ 博報堂生活総合研究所は生活において行動を始めるタイミングを「生活元年」と名づけて調査・研究を続けている。詳細に見ていくと、年齢による意識や行動の差が減少しつつある「消齢化」時代にもかかわらず、生活元年では年代によって大きな意識の差がある項目も目立った。その差、ズレから見える生活者の意識と心理を読み解いた。",
-      "published_at": "2026-08-27T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "渠道新物种",
-          "icon": "🏪",
-          "color": "#0f766e",
-          "score": 1
-        }
-      ],
-      "primary_category": "渠道新物种",
-      "scraped_at": "2026-08-27T18:43:56+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "アサヒが100億円市場を狙い「グミサプリ」 デプス調査で見つけた勝機",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01938/?n_cid=nbpnxr_rss",
-      "summary": "アサヒグループ食品は2026年9月7日、グミタイプの栄養サプリ「グミナチュラ」を発売する。急拡大するグミサプリ市場は、UHA味覚糖の「UHAグミサプリ」がほぼ独走する1強市場だ。そこへ挑む同社が狙うのは、サプリメントを一度も手に取ったことのない層だ。ポイントとなるのは、「5日分」という商品設計。1袋あたりの単価を抑えて摂取を始めやすくするだけでなく、持ち運びしやすくして場所を選ばず摂取できることを売りにする。絶対的王者がいる市場で、どのような勝ち筋を描こうとしているのか。",
-      "published_at": "2026-08-27T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-27T18:43:56+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "アサヒが100億円市場を狙い「グミサプリ」 デプス調査で見つけた勝機",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yYVpUUWNRdGdqTnVINjd4LXJWQWZMbWRHc2s5QTRfUWRHTXZoTVF3R2Z0SlByTWdYWUYwT3kyS056Rm5YVFo2M1V1LWx6X09uTkZCNTR1cFFVa0VRUXh4ZlBFN2lwRzJGX2FoOU9sWQ?oc=5",
-      "summary": "アサヒが100億円市場を狙い「グミサプリ」 デプス調査で見つけた勝機&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-26T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-27T18:43:53+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5264,34 +5518,6 @@
       "scraped_at": "2026-09-24T13:36:42+08:00"
     },
     {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "パッケージ好意度トップ3はアイス 新商品593品調査が示す勝ち筋",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03MU1uYmZpSnpVeEFkWGtQcWVCTTdZOExJTDgzckJWU0hRN2Rrb2hNc2xaRXRWQWtVTE9yZjFzcDI2MVFKMU5pdXVybkFVY1BzMGZqeXNZRnFyOWVRTEhNd05ybVNrWXFUZ05mbDZqSHZlaUZyMXJPSFRCYjZVN3M?oc=5",
-      "summary": "パッケージ好意度トップ3はアイス 新商品593品調査が示す勝ち筋&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-23T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-27T18:43:53+08:00"
-    },
-    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -5318,28 +5544,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "スターゼン[8043]：レンジで温めるだけで“お皿になる”新発想！スターゼン、タイパ需要に応える『楽らくおつまみ』9月1日発売 2026年8月21日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PY3F6c2ZjV01wRWZFLWVRaWV0UlFwNWhqYVFWN1FPcWIyYm5JM3o1cTd0UklhSXBjcy14cEdPT2FQai1selcxdGVGamJHNW1FenBUN3FMcFhvRWZ5M1hOaWR1S2JPOFdSZUE?oc=5",
-      "summary": "スターゼン[8043]：レンジで温めるだけで“お皿になる”新発想！スターゼン、タイパ需要に応える『楽らくおつまみ』9月1日発売 2026年8月21日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-08-21T01:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-27T18:43:53+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "「食器を洗うのも面倒」 ハウス食品が作った“ご飯不要カレー”を食べてみた",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Da2Vzc2kzYzhSNlFydURiRXpFbTNLdEd2MDFMQ2xibHBtaUZMWFRMbHV0T1JvcU1md1BjRlVIU0VEZWFjN09IXzFQejNrTjhNbmw2SkdIdjJVc1dPRldoYUhkbEl5YTd2T2xpQkVjUQ?oc=5",
       "summary": "「食器を洗うのも面倒」 ハウス食品が作った“ご飯不要カレー”を食べてみた&nbsp;&nbsp;日経クロストレンド",
@@ -5356,50 +5560,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-01T13:49:22+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Sazerac buys shuttered Kentucky distillery to boost spirits production",
-      "url": "https://www.fooddive.com/news/sazerac-buys-garrard-county-distilling-kentucky-boost-spirits-production/828568/",
-      "summary": "The Buffalo Trace owner has invested heavily in existing facilities within the state, but acknowledged it wasn’t enough to keep up with demand.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-27T18:44:08+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Beer giant Constellation Brands invests $100M in US farm profitability",
-      "url": "https://www.fooddive.com/news/constellation-brands-modelo-100m-farm-profitability/828594/",
-      "summary": "The Modelo maker said the investment will help improve economic resiliency in key producing states, including Idaho, Montana and North Dakota.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "并购融资",
-      "scraped_at": "2026-08-27T18:44:08+08:00"
     },
     {
       "site_name": "Food Dive",
