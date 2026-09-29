@@ -1,32 +1,248 @@
 {
-  "total": 315,
-  "s_plus_count": 40,
+  "total": 325,
+  "s_plus_count": 38,
   "sites": [
     "日経xTrend",
     "日経新聞",
-    "Food Dive",
-    "Packaging Digest"
+    "Packaging Digest",
+    "Food Dive"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "新产品": 49,
-    "其他": 189,
-    "品牌故事": 9,
-    "营销创新": 23,
+    "新产品": 50,
+    "其他": 192,
+    "营销创新": 25,
+    "品牌故事": 10,
+    "行业政策": 19,
     "联名营销": 15,
     "渠道新物种": 3,
-    "行业政策": 18,
     "并购融资": 6,
     "新技术": 1,
-    "新包装": 1,
-    "新原料": 1
+    "新包装": 2,
+    "新原料": 2
   },
-  "last_updated": "2026-09-28 14:03",
-  "last_updated_iso": "2026-09-28T14:03:30.502403+08:00",
+  "last_updated": "2026-09-29 14:21",
+  "last_updated_iso": "2026-09-29T14:21:38.375552+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Pontaパスが大化け KDDI（au経済圏）で最大8.5％還元の新常識",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00008/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。KDDI（au）経済圏のポイント制度が大きく変わった。Pontaポイントを効率よくためる新ルールや高還元の仕組みが続々登場する中、押さえておくべき“最強ルート”のポイントを徹底解説する。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-09-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-29T14:21:24+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "コンビニでサントリー事変 ローソンPB“600円酒”の連続ヒット戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01474/00002/?n_cid=nbpnxr_rss",
+      "summary": "節約志向や若者のアルコール離れなどを背景に、コンビニエンスストアの酒売り場が伸び悩む。冷蔵ケースに並ぶ商品も、大手メーカーのビール類やRTDに偏重し、マンネリ感が漂う。そんな状況を変えるべくローソンが2024年から発売しているのが「高級ハイボール缶」シリーズだ。原酒に海外産の珍しいウイスキーを使用し、価格も300～600円台と高めながら、若年層を中心に反響を呼んだ。しかも誕生のきっかけはサントリーが起こした“ある事件”だったという。硬直化したコンビニの酒売り場を変えるかもしれない、ローソンの戦略を読み解く。",
+      "published_at": "2026-09-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-29T14:21:24+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「ギルティ」と「罪悪感ゼロ」 炭酸飲料、夏のCM対決を制したのは？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02980/?n_cid=nbpnxr_rss",
+      "summary": "CM総合研究所の2026年8月度調査では、日清食品「カップヌードル」が2カ月連続で総合首位を獲得した。オマージュCMによる懐かしさが世代を超えて、幅広い階層で首位を記録。一方、「green cola」と「ギルティ炭酸NOPE」では、支持層や好感要因の違いが鮮明に表れた。",
+      "published_at": "2026-09-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-29T14:21:24+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "明治が動画広告の制作費をAIで3分の1に削減 炎上リスクを避ける制作術",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01949/?n_cid=nbpnxr_rss",
+      "summary": "AIを活用した広告にネガティブな印象を抱く消費者は多く、ネット上で「炎上」することもある。その一方で、制作現場ではAI活用が急速に進み、成功例も登場してきた。明治のプロテインブランド「ザバス」は、動画制作にAIを活用し、制作コストをおよそ3分の1にまで抑え、広告配信費を予算内で最大化させた。明治の制作過程から、AIを活用した広告制作に重要となる視点を探る。",
+      "published_at": "2026-09-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-29T14:21:24+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "売上高より新規獲得を優先 韓国コスメ大手オリーブヤングの日本戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01953/?n_cid=nbpnxr_rss",
+      "summary": "韓国の大手ヘルス＆ビューティーストア「オリーブヤング」が日本市場への投資を強化している。日本を米国と並ぶ重点戦略国に位置付け、売り上げよりも新規顧客の獲得数を重視しながら顧客基盤づくりを進める。オリーブヤングのグローバル・グロース・マーケティング部チームマネージャーのパク・ホングン氏に戦略を聞いた。",
+      "published_at": "2026-09-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-29T14:21:24+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "元ソニー平井氏とトリドール粟田氏が議論 AI時代に必要なリーダーシップ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02978/?n_cid=nbpnxr_rss",
+      "summary": "ソニーグループの元社長兼CEOの平井一夫氏と、国内外に1200店舗以上展開する「丸亀製麺」を抱えるトリドールホールディングスの創業者で社長兼CEOの粟田貴也氏の対談記事の最終回。事業戦略の立案など、以前はIQの高い優秀なリーダーしかこなせなかった仕事が生成AIによって代替できる時代となった現在、リーダーに求められる資質とは何か。平井氏が勧める「EQの高いリーダシップ」の話から、粟田氏が進める心的資本経営で開発された「周囲からのリスペクトが評価基準となる人事制度」の話まで、2人の経営者は大いに語り合った。（前中後編の全3回：今回は後編）",
+      "published_at": "2026-09-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-09-29T14:21:24+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "元Anthropicの研究者が警鐘 AIの開発スピード減速は実現できるか",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00079/00368/?n_cid=nbpnxr_rss",
+      "summary": "米Anthropicを退職したAI研究者の投稿をきっかけに、安全性を十分に考慮しないままAIの開発ペースを速く保つことへの深刻な懸念が広く共有され始めた。しかし、AI開発会社の自主的な規制に期待するのは現実の「競争」を考えると難しく、米トランプ政権は規制に消極的だ。このままでは将来、想像を上回る危難が起きる可能性がある。皆がAIのあり方について、もう一度真剣に考えるべき時期が来ているのかもしれない。",
+      "published_at": "2026-09-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-09-29T14:21:24+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品事業 輸出事業 コーヒー・ 茶類事業 農産事業",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjl6SnZkN1g1Q2F3ZkpJeWU1V3VDaEw3dXJhZk52S1ZQd1hwLXBCZEZDdjJ3aFFpNXJvRjV6WXN2ZERIU0hnMzE5eDJYT1pWcVQ2VklLSjRtcjUtbk5VUXVubWJ1U1cxUENPelNiUnVFV2daNUJEUEVveTFTUkNhX0hheHFTNmp3QV9lX2o0OVV3TEgwSU1sNV9RSFE?oc=5",
+      "summary": "食品事業 輸出事業 コーヒー・ 茶類事業 農産事業&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-09-28T15:53:02Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-29T14:21:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "明治が動画広告の制作費をAIで3分の1に削減 炎上リスクを避ける制作術",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQl9LSDlULTh6MnNpTlN6aG5VSzQybFFwYlBiNEtkMnNGMkVQSW91THhCTjdCSXpWUVo1MUp4VzlraTFvZEJXQjB6VzNOTW5DM3NTSEp4cGxuTHpMa1FkQS1HQTk5ZEJKQWFwRTNEcy1oVmFEamVnaDJ3N2puN1pfWGJ4alNhaGJtU0lkb3BNMjJGVXJZ?oc=5",
+      "summary": "明治が動画広告の制作費をAIで3分の1に削減 炎上リスクを避ける制作術&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-28T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-09-29T14:21:22+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -418,6 +634,28 @@
       ],
       "primary_category": "营销创新",
       "scraped_at": "2026-09-25T13:33:47+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Flexible Packaging Updates: 5 Things to Know",
+      "url": "https://www.packagingdigest.com/flexible-packaging/flexible-packaging-5-things-to-know",
+      "summary": "Check the innovative, sustainable pulse of this high-efficiency format through five curated posts that spotlight P&amp;G’s new recycling technology, Unilever’s paper pursuit, a fruitful film collaboration, digital watermarks on recycled flexibles, and a 6-sided cuboid for cereal packaging.",
+      "published_at": "2026-09-24T21:26:02Z",
+      "is_s_plus": true,
+      "s_plus_reason": "innovative",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 2
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-09-29T14:21:36+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -2802,6 +3040,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "食品・飲料（116ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBdGJIYmtpZDR0Q0h0Zy05U0xnR1E1QXRHU0Ruc2tCS2pQSlRXb1pBZVBRTGRiempsU2d1MkNmc1F1TTBYbUxIRG9kdG82Y0QzUjlkRmdFQ0tPdlZ3MzJwZnMxTzh4Y3M?oc=5",
+      "summary": "食品・飲料（116ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-08T11:33:10Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-29T14:21:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "食品・飲料（115ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fRVR6WGh2R2hjeW1qMks5LXJ6bWpaZDE5YkpVZWlfSG5hRnVVQ295WUtQTjA4bGdxSHVHUDFsM2gzV2s4Vm9jZHRFRnNlRVJfUkFaTXBqa2Q5VHlrVktiWG13bGxZMDA?oc=5",
       "summary": "食品・飲料（115ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -4038,6 +4298,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-19T13:14:46+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（139ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vQU43TDV3RTdyYm9ma2xFUE1YVEF2NVh1U1ZuT2lJcGRmbEZFektVcXFoRjdsc1UyM3I5WmNiYVRSeHE3YXY5MmZaTWlaSlM3X0pVQm5tM1hBNzNncm5mbjFkSXRaM2s?oc=5",
+      "summary": "食品・飲料（139ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T12:14:23Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-29T14:21:22+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5346,34 +5628,6 @@
       "scraped_at": "2026-08-31T14:21:27+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "AVerMedia、TGSブースで本格的な「配信デスク」を展示【TGS2026】",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01222/00098/?n_cid=nbpnxr_rss",
-      "summary": "配信機材ブランドの「AVerMedia」は、「東京ゲームショウ2026」でゲームキャプチャーや、ウェブカメラ、USBマイクなどを組み合わせた配信環境を展示する。ビジネスデイにはカメラ向けキャプチャーソリューションを紹介するほか、一般公開日には、ステージイベントやキャンペーンを実施する。",
-      "published_at": "2026-08-28T19:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-08-28T20:21:17+08:00"
-    },
-    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -5394,72 +5648,6 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-08-29T15:31:25+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ファミマ400店が備える国産クマスプレー とっさに使える日本仕様とは",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00616/00042/?n_cid=nbpnxr_rss",
-      "summary": "とっさの使いやすさが生死を分ける――。クマ被害が深刻化する中、クマに遭遇した際に命を守るための最終手段となる「クマスプレー」の需要が高まっている。国内では長らく海外製が主流だが、いざというときの操作の分かりにくさや誤噴射リスクに不満の声が多かった。こうした課題に向き合ったのが、畜水産向けサプリや抗生物質などの生産資材メーカーのバイオ科学だ。同社が2025年に発売した 「熊一目散 熊スプレー」の開発の舞台裏を追った。",
-      "published_at": "2026-08-28T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "仕様",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-08-28T20:21:17+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "“音を浴びる瞑想”が米国でブーム。マットレス店コラボの意外な勝算",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00693/00038/?n_cid=nbpnxr_rss",
-      "summary": "米国で急拡大する「サウンドバス（音浴）」市場。その人気を押し上げているのが、意外にも閉店後のマットレス店とのコラボだ。高級ベッドに横たわり、音の振動に身を委ねる体験は毎回満席。参加者は深いリラックスを得られ、店舗側は新規顧客を獲得できるという“ウィンウィン”の取り組みが注目を集めている。実店舗の集客に悩む事業者にとってもヒントとなる、この異色の成功モデルを追った。",
-      "published_at": "2026-08-28T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "コラボ",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-08-28T20:21:17+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Flexible Packaging Updates: 5 Things to Know",
-      "url": "https://www.packagingdigest.com/flexible-packaging/flexible-packaging-5-things-to-know",
-      "summary": "Check the innovative, sustainable pulse of this high-efficiency format through five curated posts that spotlight a 6-sided cuboid for cereal packaging, fashionably sustainable new films, an innovative ice pack, two commercial film and wrap pilots, and a compostable bioplastic film for beef.",
-      "published_at": "2026-08-27T09:06:37Z",
-      "is_s_plus": true,
-      "s_plus_reason": "innovative",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-28T20:21:30+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5560,50 +5748,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-01T13:49:22+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "With ‘shackles off’ after Unilever split, Magnum Ice Cream takes new approach to innovation",
-      "url": "https://www.fooddive.com/news/magnum-ice-cream-innovation-post-unilever-split/825094/",
-      "summary": "The Ben & Jerry’s maker is expanding the reach of its brands by making them more than an end-of-day indulgence, pitting them against other snacks such as candy and chips.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-28T20:21:28+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Gen Z families are reshaping food spending, report finds",
-      "url": "https://www.fooddive.com/news/younger-parent-shoppers-loyalty-promotions-grocery/828628/",
-      "summary": "Young parents were more likely to buy prepared foods and purchase groceries online in 2025, according to an AlixPartners report.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-28T20:21:28+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -7214,6 +7358,106 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-09-26T13:40:44+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Aldi to roll out first ready-made meals line",
+      "url": "https://www.fooddive.com/news/aldi-launches-first-ready-made-meals/831250/",
+      "summary": "The collection of single-serve and family-size meals adds a new dimension to the discount grocer’s lineup of store brand products.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-29T14:21:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Why food rating apps can miss the mark on nutrition",
+      "url": "https://www.fooddive.com/news/food-rating-systems-nutrition-ai-oped/831278/",
+      "summary": "Technology meant to provide more clarity behind the ingredients in food actually deliver confusion, writes the CEO of Perfect Snacks.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新原料",
+          "icon": "🧪",
+          "color": "#059669",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "新原料",
+      "scraped_at": "2026-09-29T14:21:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "General Mills prioritizes innovation following recent price cuts",
+      "url": "https://www.fooddive.com/news/general-mills-innovation-price-cuts-win-consumers/831140/",
+      "summary": "The Cheerios maker is trying to make its products stand out with protein, clean labels and other consumer trends.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-29T14:21:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Surfside drops trade dress lawsuit against Anheuser-Busch",
+      "url": "https://www.fooddive.com/news/stateside-anheuser-busch-drop-skimmers-lawsuit/831244/",
+      "summary": "The alcohol companies have agreed to dismiss a complaint claiming Anheuser Busch's Skimmers ripped off the Stateside-owned brand’s can design.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-09-29T14:21:34+08:00"
     }
   ]
 }
