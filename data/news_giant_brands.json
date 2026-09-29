@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-28T22:46:03",
+  "last_updated": "2026-09-29T14:21:21",
   "retention_days": 7,
-  "total": 630,
+  "total": 633,
   "s_count": 40,
   "a_count": 6,
-  "b_count": 584,
+  "b_count": 587,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,50 @@
   ],
   "articles": [
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-09-29T00:00:00",
+      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.29明星食品「明星 NEO油そば 満鶏軒監修 フォアグラ風味鴨油そば」を10月12日に発売",
+      "url": "https://www.nissin.com/jp/news/13941/",
+      "published_at": "2026-09-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.09.29明星食品2026年10月発売商品のご案内",
+      "url": "https://www.nissin.com/jp/news/13942/",
+      "published_at": "2026-09-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "味の素㈱、日本内部監査協会の会長賞(内部監査優秀実践賞)を受賞",
+      "url": "https://news.ajinomoto.co.jp/2026/09/20260929.html",
+      "published_at": "2026-09-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -56,17 +100,6 @@
       "summary": "",
       "level": "S",
       "level_reason": "营销创新"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-09-28T00:00:00",
-      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
-      "level": "B",
-      "level_reason": "企业动态"
     },
     {
       "brand": "Nissin",
