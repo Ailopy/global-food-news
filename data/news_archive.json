@@ -1,7 +1,139 @@
 {
-  "last_updated": "2026-09-29T18:34:05.968063+08:00",
-  "total": 10865,
+  "last_updated": "2026-09-29T23:13:24.387862+08:00",
+  "total": 10878,
   "articles": [
+    {
+      "id": "1c399962658c7adf",
+      "title": "Molson Coors bets on nonalcoholic drinks with national expansion",
+      "summary": "The Coors owner plans to further scale its Coors 0.0 brand and launch a nonalcoholic version of Leinenkugel's summer shandy.",
+      "url": "https://www.fooddive.com/news/molson-coors-nonalcoholic-expanded-distrubiton-beyond-beer/831636/",
+      "published_at": "2026-09-29T23:10:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "a6d9b92f0097eb9d",
+      "title": "JOHNNIE WALKER BLUE LABEL WELCOMES INDIA’S FESTIVE SEASON WITH A NEW BLEND, CONTINUING ITS CREATIVE PARTNERSHIP WITH RAHUL MISHRA",
+      "summary": "Johnnie Walker, the world’s No 1 Scotch whisky¹, announces the launch of the new Johnnie Walker Blue Label Indian Festive Blend, a rare new expression created exclusively for India’s festive season.…",
+      "url": "https://fabnews.live/johnnie-walker-blue-label-welcomes-indias-festive-season-with-a-new-blend-continuing-its-creative-partnership-with-rahul-mishra/",
+      "published_at": "2026-09-29T23:05:19+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "1190d84f154dc105",
+      "title": "California Natural Color welcomes Amy Rapier as Quality Director",
+      "summary": "In this role, Rapier will oversee product evaluation, sourcing and innovation to ensure quality across all stages of development and manufacturing",
+      "url": "https://nutraceuticalbusinessreview.com/california-natural-color-welcomes-amy-rapier-as-quality",
+      "published_at": "2026-09-29T22:37:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "612a76870dc4ff9d",
+      "title": "DRZZL: Dressed to impress",
+      "summary": "Derek&Eric gives olive oil a fresh squeeze with a bold new identity for DRZZL. Olive oil is having a moment. But in a category awash with Mediterranean nostalgia, artisanal storytelling and carefully…",
+      "url": "https://fabnews.live/drzzl-dressed-to-impress/",
+      "published_at": "2026-09-29T22:28:10+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c266fd98653d5ccf",
+      "title": "GNT to showcase EXBERRY plant-based colours in creatine-infused snack concepts at SupplySide Global",
+      "summary": "The food colour specialist will showcase two creatine-infused potato chip concepts at SupplySide Global 2026, demonstrating how its plant-based EXBERRY colours can enhance flavour cues and visual…",
+      "url": "https://nutraceuticalbusinessreview.com/gnt-exberry-plant-based-colours-creatine-supplyside-global-2026",
+      "published_at": "2026-09-29T22:07:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "42a2ce9713acfe7e",
+      "title": "Nestlé breaks down its path to 2030 for virgin plastic reduction",
+      "summary": "Plastic accounted for about a quarter of the food and beverage giant's packaging portfolio by weight in 2025.",
+      "url": "https://www.fooddive.com/news/nestle-plastic-reduction-strategy-2030/831372/",
+      "published_at": "2026-09-29T21:59:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "1a58907a749bdb04",
+      "title": "RFK’s food policy priorities need more resources to implement, FDA nominee says",
+      "summary": "Heidi Overton said the agency requires more support to enact mandatory GRAS notifications while also backing a federal standard on ingredient regulation once enough states have taken action.",
+      "url": "https://www.fooddive.com/news/gras-fda-nominee-food-policy-ingredient-reform/831612/",
+      "published_at": "2026-09-29T21:49:15+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "00f91a0e294850ba",
+      "title": "EU Monacolin K ban prompts ProBiotix Health to challenge brands to rethink cholesterol category innovation",
+      "summary": "Rather than direct ingredient substitution, ProBiotix is advocating building next-generation cardiometabolic products around microbiome science — citing its LPLDL probiotic's gut-liver axis mechanism…",
+      "url": "https://nutraceuticalbusinessreview.com/eu-monacolin-k-ban-probiotix-health-cholesterol-innovation",
+      "published_at": "2026-09-29T21:02:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "3af698ba95cd0579",
+      "title": "One Functional Benefit that F&B Brands Shouldn’t Sleep On",
+      "summary": "Sleep may be the next big opportunity for functional food and beverage brands, with 45% of consumers seeking better rest. New Knit research also highlights unmet demand for stress relief, not to…",
+      "url": "https://foodinstitute.com/healthwellness/one-functional-benefit-food-beverage-brands-shouldnt-sleep-on/?utm_source=rss&utm_medium=rss&utm_campaign=one-functional-benefit-food-beverage-brands-shouldnt-sleep-on",
+      "published_at": "2026-09-29T21:00:43+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "9051a1254250ce6d",
+      "title": "Something & Nothing Raises $6.4M, Builds On ‘Not Pop’ Campaign",
+      "summary": "Premium soda brand Something & Nothing has raised $6.4 million in a new funding round led by early-stage venture firm Venrex. This is the second investment by Venrex, which recently backed Novak…",
+      "url": "https://www.bevnet.com/news/2026/something-nothing-raises-6-4m-builds-on-not-pop-campaign",
+      "published_at": "2026-09-29T20:30:25+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "82832930d73577bc",
+      "title": "Review: All Día Is A Day Drinking Dream",
+      "summary": "All Día goes the extra mile to be even lower than some of the typical 5% ABV hard seltzer and hard teas on the market.",
+      "url": "https://www.bevnet.com/spirits/2026/review-all-dia-is-a-day-drinking-dream",
+      "published_at": "2026-09-29T20:30:17+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "c6a746b6898591a7",
       "title": "さつまいも好きに！ファミマのパンのトレンド人気ランキング！",
@@ -61,6 +193,18 @@
       "category": "综合",
       "level": "B",
       "language": "ja"
+    },
+    {
+      "id": "49dc413ad5d2cf89",
+      "title": "Enjoying omega-3 like never before",
+      "summary": "How new formats are transforming omega-3 from a familiar supplement into an experience consumers can enjoy",
+      "url": "https://nutraceuticalbusinessreview.com/enjoying-omega-3-like-never-before",
+      "published_at": "2026-09-29T16:21:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "35b5aeff8f67feba",
@@ -123,18 +267,6 @@
       "language": "ja"
     },
     {
-      "id": "71268708033a30ba",
-      "title": "今週新発売の菓子パン🍫まとめ！『オムレット　さつま芋』、『りんごとメープルデニッシュ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン オムレット さつま芋 袋1個ふんわりとした生地で、ホイ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092907/?utm_source=rss&utm_medium=mognavinews_20260929",
-      "published_at": "2026-09-29T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "d48494b1967d3ba2",
       "title": "A review of FDA warning letters based on historical advertising (part I)",
       "summary": "How the US FDA uses years-old videos, social media posts and website claims to build enforcement actions against supplement manufacturers and private label distributors",
@@ -145,6 +277,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "71268708033a30ba",
+      "title": "今週新発売の菓子パン🍫まとめ！『オムレット　さつま芋』、『りんごとメープルデニッシュ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン オムレット さつま芋 袋1個ふんわりとした生地で、ホイ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092907/?utm_source=rss&utm_medium=mognavinews_20260929",
+      "published_at": "2026-09-29T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "a0a747486749c4bd",
@@ -788,6 +932,18 @@
       "summary": "Rob Gehring will lead the beverage giant’s largest region as it works to keep up with growing demand.",
       "url": "https://www.fooddive.com/news/Coca-cola-rob-Gehring-president-north-america/831488/",
       "published_at": "2026-09-28T22:47:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "b5e58a1f49ed195a",
+      "title": "How Mondelēz keeps Mallomars a ‘cultural icon’ after 113 years",
+      "summary": "The chocolate-coated marshmallow cookie is only available seasonally and in select markets, but it has carved out a valuable niche for the Oreo maker as a steady, dependable performer.",
+      "url": "https://www.fooddive.com/news/Mondelez-international-oreo-snacking-cookie-mallomars/830584/",
+      "published_at": "2026-09-28T22:40:07+08:00",
       "source": "Food Dive",
       "region": "北美",
       "category": "综合",
