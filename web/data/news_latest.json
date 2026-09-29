@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-29T18:34:06.095572+08:00",
+  "last_updated": "2026-09-29T23:13:24.508077+08:00",
   "retention_days": 7,
-  "total": 484,
+  "total": 487,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,138 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "1c399962658c7adf",
+      "title": "Molson Coors bets on nonalcoholic drinks with national expansion",
+      "summary": "The Coors owner plans to further scale its Coors 0.0 brand and launch a nonalcoholic version of Leinenkugel's summer shandy.",
+      "url": "https://www.fooddive.com/news/molson-coors-nonalcoholic-expanded-distrubiton-beyond-beer/831636/",
+      "published_at": "2026-09-29T23:10:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "a6d9b92f0097eb9d",
+      "title": "JOHNNIE WALKER BLUE LABEL WELCOMES INDIA’S FESTIVE SEASON WITH A NEW BLEND, CONTINUING ITS CREATIVE PARTNERSHIP WITH RAHUL MISHRA",
+      "summary": "Johnnie Walker, the world’s No 1 Scotch whisky¹, announces the launch of the new Johnnie Walker Blue Label Indian Festive Blend, a rare new expression created exclusively for India’s festive season.…",
+      "url": "https://fabnews.live/johnnie-walker-blue-label-welcomes-indias-festive-season-with-a-new-blend-continuing-its-creative-partnership-with-rahul-mishra/",
+      "published_at": "2026-09-29T23:05:19+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "1190d84f154dc105",
+      "title": "California Natural Color welcomes Amy Rapier as Quality Director",
+      "summary": "In this role, Rapier will oversee product evaluation, sourcing and innovation to ensure quality across all stages of development and manufacturing",
+      "url": "https://nutraceuticalbusinessreview.com/california-natural-color-welcomes-amy-rapier-as-quality",
+      "published_at": "2026-09-29T22:37:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "612a76870dc4ff9d",
+      "title": "DRZZL: Dressed to impress",
+      "summary": "Derek&Eric gives olive oil a fresh squeeze with a bold new identity for DRZZL. Olive oil is having a moment. But in a category awash with Mediterranean nostalgia, artisanal storytelling and carefully…",
+      "url": "https://fabnews.live/drzzl-dressed-to-impress/",
+      "published_at": "2026-09-29T22:28:10+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c266fd98653d5ccf",
+      "title": "GNT to showcase EXBERRY plant-based colours in creatine-infused snack concepts at SupplySide Global",
+      "summary": "The food colour specialist will showcase two creatine-infused potato chip concepts at SupplySide Global 2026, demonstrating how its plant-based EXBERRY colours can enhance flavour cues and visual…",
+      "url": "https://nutraceuticalbusinessreview.com/gnt-exberry-plant-based-colours-creatine-supplyside-global-2026",
+      "published_at": "2026-09-29T22:07:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "42a2ce9713acfe7e",
+      "title": "Nestlé breaks down its path to 2030 for virgin plastic reduction",
+      "summary": "Plastic accounted for about a quarter of the food and beverage giant's packaging portfolio by weight in 2025.",
+      "url": "https://www.fooddive.com/news/nestle-plastic-reduction-strategy-2030/831372/",
+      "published_at": "2026-09-29T21:59:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "1a58907a749bdb04",
+      "title": "RFK’s food policy priorities need more resources to implement, FDA nominee says",
+      "summary": "Heidi Overton said the agency requires more support to enact mandatory GRAS notifications while also backing a federal standard on ingredient regulation once enough states have taken action.",
+      "url": "https://www.fooddive.com/news/gras-fda-nominee-food-policy-ingredient-reform/831612/",
+      "published_at": "2026-09-29T21:49:15+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "00f91a0e294850ba",
+      "title": "EU Monacolin K ban prompts ProBiotix Health to challenge brands to rethink cholesterol category innovation",
+      "summary": "Rather than direct ingredient substitution, ProBiotix is advocating building next-generation cardiometabolic products around microbiome science — citing its LPLDL probiotic's gut-liver axis mechanism…",
+      "url": "https://nutraceuticalbusinessreview.com/eu-monacolin-k-ban-probiotix-health-cholesterol-innovation",
+      "published_at": "2026-09-29T21:02:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "3af698ba95cd0579",
+      "title": "One Functional Benefit that F&B Brands Shouldn’t Sleep On",
+      "summary": "Sleep may be the next big opportunity for functional food and beverage brands, with 45% of consumers seeking better rest. New Knit research also highlights unmet demand for stress relief, not to…",
+      "url": "https://foodinstitute.com/healthwellness/one-functional-benefit-food-beverage-brands-shouldnt-sleep-on/?utm_source=rss&utm_medium=rss&utm_campaign=one-functional-benefit-food-beverage-brands-shouldnt-sleep-on",
+      "published_at": "2026-09-29T21:00:43+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "9051a1254250ce6d",
+      "title": "Something & Nothing Raises $6.4M, Builds On ‘Not Pop’ Campaign",
+      "summary": "Premium soda brand Something & Nothing has raised $6.4 million in a new funding round led by early-stage venture firm Venrex. This is the second investment by Venrex, which recently backed Novak…",
+      "url": "https://www.bevnet.com/news/2026/something-nothing-raises-6-4m-builds-on-not-pop-campaign",
+      "published_at": "2026-09-29T20:30:25+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "82832930d73577bc",
+      "title": "Review: All Día Is A Day Drinking Dream",
+      "summary": "All Día goes the extra mile to be even lower than some of the typical 5% ABV hard seltzer and hard teas on the market.",
+      "url": "https://www.bevnet.com/spirits/2026/review-all-dia-is-a-day-drinking-dream",
+      "published_at": "2026-09-29T20:30:17+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "c6a746b6898591a7",
       "title": "さつまいも好きに！ファミマのパンのトレンド人気ランキング！",
@@ -76,6 +208,18 @@
       "category": "综合",
       "level": "B",
       "language": "ja"
+    },
+    {
+      "id": "49dc413ad5d2cf89",
+      "title": "Enjoying omega-3 like never before",
+      "summary": "How new formats are transforming omega-3 from a familiar supplement into an experience consumers can enjoy",
+      "url": "https://nutraceuticalbusinessreview.com/enjoying-omega-3-like-never-before",
+      "published_at": "2026-09-29T16:21:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "35b5aeff8f67feba",
@@ -138,18 +282,6 @@
       "language": "ja"
     },
     {
-      "id": "71268708033a30ba",
-      "title": "今週新発売の菓子パン🍫まとめ！『オムレット　さつま芋』、『りんごとメープルデニッシュ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン オムレット さつま芋 袋1個ふんわりとした生地で、ホイ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092907/?utm_source=rss&utm_medium=mognavinews_20260929",
-      "published_at": "2026-09-29T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "d48494b1967d3ba2",
       "title": "A review of FDA warning letters based on historical advertising (part I)",
       "summary": "How the US FDA uses years-old videos, social media posts and website claims to build enforcement actions against supplement manufacturers and private label distributors",
@@ -160,6 +292,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "71268708033a30ba",
+      "title": "今週新発売の菓子パン🍫まとめ！『オムレット　さつま芋』、『りんごとメープルデニッシュ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン オムレット さつま芋 袋1個ふんわりとした生地で、ホイ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026092907/?utm_source=rss&utm_medium=mognavinews_20260929",
+      "published_at": "2026-09-29T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "a0a747486749c4bd",
@@ -803,6 +947,18 @@
       "summary": "Rob Gehring will lead the beverage giant’s largest region as it works to keep up with growing demand.",
       "url": "https://www.fooddive.com/news/Coca-cola-rob-Gehring-president-north-america/831488/",
       "published_at": "2026-09-28T22:47:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "b5e58a1f49ed195a",
+      "title": "How Mondelēz keeps Mallomars a ‘cultural icon’ after 113 years",
+      "summary": "The chocolate-coated marshmallow cookie is only available seasonally and in select markets, but it has carved out a valuable niche for the Oreo maker as a steady, dependable performer.",
+      "url": "https://www.fooddive.com/news/Mondelez-international-oreo-snacking-cookie-mallomars/830584/",
+      "published_at": "2026-09-28T22:40:07+08:00",
       "source": "Food Dive",
       "region": "北美",
       "category": "综合",
@@ -5702,126 +5858,6 @@
       "source": "BevNET",
       "region": "北美",
       "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "ac128a396d457a3d",
-      "title": "Amy’s Kitchen to shutter California frozen food plant",
-      "summary": "The pioneering organic foods brand will eliminate approximately 260 jobs as it streamlines its manufacturing network amid category-wide headwinds.",
-      "url": "https://www.fooddive.com/news/amys-kitchen-california-plant-close-layoffs-frozen-food/831019/",
-      "published_at": "2026-09-22T22:55:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "60f290f8ae6b4034",
-      "title": "Hoplark Files for Chapter 7 Bankruptcy Liquidation; Signals Potential Lawsuit Against Brooklyn Brewery",
-      "summary": "Hoplark’s parent company has filed for Chapter 7 bankruptcy liquidation and teased a “potential lawsuit against Brooklyn Brewery,” alleging the New York craft brewery violated a licensing agreement…",
-      "url": "https://www.bevnet.com/news/2026/hoplark-files-for-chapter-7-bankruptcy-liquidation-signals-potential-lawsuit-against-brooklyn-brewery",
-      "published_at": "2026-09-22T22:39:15+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "0f7abe6855add115",
-      "title": "What skincare brands need to know for long-term success in retail and e-commerce",
-      "summary": "Building a skincare brand is easier than ever—but sustaining one isn't. Industry experts reveal the essential tools for building retailer relationships and understanding consumer needs.",
-      "url": "https://www.newhope.com/personal-care/what-skincare-brands-need-to-know-for-long-term-success-in-retail-and-e-commerce",
-      "published_at": "2026-09-22T22:00:00+08:00",
-      "source": "New Hope Network",
-      "region": "北美",
-      "category": "功能性食品",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "c23d4f17f13e99d6",
-      "title": "Sazerac to buy German spirits producer Berentzen",
-      "summary": "The deal with Berentzen Group is expected to broaden both companies’ portfolios, capabilities and reach.",
-      "url": "https://www.fooddive.com/news/sazerac-buys-berentzen-german-spirits/830988/",
-      "published_at": "2026-09-22T21:17:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "1e67e4997af2409c",
-      "title": "Little Spoon Takes Its ‘Feeding Platform’ Beyond Food with Kids Vitamins",
-      "summary": "Little Spoon is moving beyond food with the launch of its first daily multivitamin, the latest category expansion for the baby and kids nutrition company as it builds out an “end-to-end feeding…",
-      "url": "https://www.nosh.com/news/2026/little-spoon-takes-its-feeding-platform-beyond-food-with-kids-vitamins",
-      "published_at": "2026-09-22T21:16:59+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "53ae1ccdb4e63356",
-      "title": "Mondelēz brings Biscoff partnership to US with Toblerone truffles",
-      "summary": "The launch comes as the snack giant's collaboration with the cookie brand in Europe and other regions “surpassed even our expectations,” according to an executive.",
-      "url": "https://www.fooddive.com/news/mondelez-biscoff-costco-truffles-innovation/830748/",
-      "published_at": "2026-09-22T21:05:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "930c37c0da8a3158",
-      "title": "Eat Happy Kitchen Brings Cheese Bites Snacks to Retail with HomeGoods Launch",
-      "summary": "Clean-label food brand Eat Happy Kitchen is going deeper into retail, expanding its flagship pasta sauce line in California and bringing its high protein Cheese Bites snacks to brick-and-mortar…",
-      "url": "https://www.nosh.com/news/2026/eat-happy-kitchen-brings-cheese-bites-snacks-to-retail-with-homegoods-launch",
-      "published_at": "2026-09-22T21:00:01+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "c30c15187c499aba",
-      "title": "Review: Can oHy Crack the Code on Hydrogen Sparkling Water?",
-      "summary": "The flavor profile is exactly what we'd expect from a well-executed flavored sparkling water: clean, crisp, and lightly flavored without overwhelming the palate.",
-      "url": "https://www.bevnet.com/news/2026/review-can-ohy-crack-the-code-on-hydrogen-sparkling-water",
-      "published_at": "2026-09-22T20:30:32+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "35472a80e525b75a",
-      "title": "APAC women's supplement usage maps to four distinct life stages, Lubrizol white paper finds",
-      "summary": "Research across China, Korea and Indonesia found 87% of Chinese women prefer life-stage-tailored solutions — with prevention-oriented beauty-from-within investment rising sharply from career stage…",
-      "url": "https://nutraceuticalbusinessreview.com/apac-women-supplement-usage-four-life-stages-lubrizol",
-      "published_at": "2026-09-22T19:30:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "72ee6f28aa74e41c",
-      "title": "Kingdom & Sparrow craft premium branding for exceptional eggs",
-      "summary": "Wild Lady Eggs set out to redefine expectations within a traditionally functional category by introducing a premium egg brand rooted in provenance, animal welfare, and sustainability. The challenge…",
-      "url": "https://fabnews.live/kingdom-sparrow-craft-premium-branding-for-exceptional-eggs/",
-      "published_at": "2026-09-22T19:00:30+08:00",
-      "source": "Fab News",
-      "region": "欧洲",
-      "category": "综合",
       "level": "A",
       "language": "en"
     }
