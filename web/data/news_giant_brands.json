@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-29T14:21:21",
+  "last_updated": "2026-09-29T21:35:53",
   "retention_days": 7,
-  "total": 633,
+  "total": 634,
   "s_count": 40,
   "a_count": 6,
-  "b_count": 587,
+  "b_count": 588,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -74,6 +74,17 @@
       "region": "日本",
       "title": "味の素㈱、日本内部監査協会の会長賞(内部監査優秀実践賞)を受賞",
       "url": "https://news.ajinomoto.co.jp/2026/09/20260929.html",
+      "published_at": "2026-09-29T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 ‘밸런스밀’, 저당 도시락 선보이며 포트폴리오 강화… 프로틴 바∙쉐이크부터 한 끼 식사까지 일...2026.09.29",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1826",
       "published_at": "2026-09-29T00:00:00",
       "summary": "",
       "level": "B",
