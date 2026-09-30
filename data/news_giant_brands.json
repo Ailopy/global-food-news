@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-29T21:35:53",
+  "last_updated": "2026-09-30T14:06:26",
   "retention_days": 7,
-  "total": 634,
-  "s_count": 40,
+  "total": 636,
+  "s_count": 41,
   "a_count": 6,
-  "b_count": 588,
+  "b_count": 589,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,12 +36,34 @@
   ],
   "articles": [
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "モッタイナイ！を、おいしい！に。規格外北海道余市産プルーンを活用したフードロス削減・農家支援につながる「キリン 氷結&reg;mottainai プルーン（期間限定）」発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0930_02.html",
+      "published_at": "2026-09-30T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「メルシャン・ワインズ ダンデライオン」が発売から1か月で年間販売目標の約5割を突破！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0930_03.html",
+      "published_at": "2026-09-30T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-09-29T00:00:00",
+      "published_at": "2026-09-30T00:00:00",
       "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
       "level": "B",
       "level_reason": "企业动态"

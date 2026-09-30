@@ -1,32 +1,220 @@
 {
-  "total": 325,
-  "s_plus_count": 38,
+  "total": 337,
+  "s_plus_count": 39,
   "sites": [
+    "Packaging Digest",
     "日経xTrend",
     "日経新聞",
-    "Packaging Digest",
     "Food Dive"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "新产品": 50,
-    "其他": 192,
+    "新产品": 55,
+    "渠道新物种": 5,
+    "其他": 198,
     "营销创新": 25,
     "品牌故事": 10,
-    "行业政策": 19,
+    "行业政策": 18,
     "联名营销": 15,
-    "渠道新物种": 3,
     "并购融资": 6,
     "新技术": 1,
     "新包装": 2,
     "新原料": 2
   },
-  "last_updated": "2026-09-29 14:21",
-  "last_updated_iso": "2026-09-29T14:21:38.375552+08:00",
+  "last_updated": "2026-09-30 14:06",
+  "last_updated_iso": "2026-09-30T14:06:43.753390+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "新ハード「Nex」が2027年日本上陸へ モーション操作で家族層狙う",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00084/?n_cid=nbpnxr_rss",
+      "summary": "「Nex Playground」という米国のコンソール（家庭用ゲーム機）が、2027年の日本上陸を計画している。モーション操作だけでプレーでき、ソフト提供はサブスクリプション方式が柱。子どもやファミリー層をターゲットとしている。米国の販売好調を受けて海外展開を開始し、日本では2027年中の発売を目指す。同社の経営陣に製品の特徴や今後の展開を聞いた。",
+      "published_at": "2026-09-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-30T14:06:29+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "楽天ペイの楽天カード決済は損 SPU攻略の鍵は楽天モバイルとファミマ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00013/?n_cid=nbpnxr_rss",
+      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。同じ買い物でも“決済の選び方”で還元率は大きく変わる。楽天経済圏では、街の店では楽天ペイ、ネット通販ではSPUの活用がポイント獲得の成否を分ける。ファミリーマートの新条件や楽天モバイルとの組み合わせなど、無理なく達成できる高還元の仕組みを徹底解説。期間限定ポイントを失効させずに使い切るコツまで紹介する。記事の最後には、楽天ポイントのため方・使い方などをまとめた誌面のページを読めるPDFへのリンクを用意した。ぜひ活用してほしい。",
+      "published_at": "2026-09-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-30T14:06:29+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "まいばすに押されローソン系は店数6割減 コンビニ3社の新業態リポート",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01474/00003/?n_cid=nbpnxr_rss",
+      "summary": "長年、日本の小売業界をけん引してきたコンビニエンスストアの成功モデルが、曲がり角を迎えている。各社の月次実績を見ると、大手3社とも客数が減少傾向にある。一方、「まいばすけっと」などのミニスーパーは住宅街エリアで店舗網を拡大し、コンビニにはない生鮮品や食品を安価に買える選択肢として存在感を高めている。小売業界の王者は、台頭するミニスーパーにも対抗できる次の成長モデルを見いだせるか。各社が仕掛ける新業態などの戦略をリポートする。",
+      "published_at": "2026-09-30T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "仕掛け",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 2
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-09-30T14:06:29+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "中小味噌メーカーがAIでEC自作 システム内製で5倍超の注文に対応",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01450/00004/?n_cid=nbpnxr_rss",
+      "summary": "味噌やしょうゆの他、乾燥レモン入りのレモンティーや使い捨てないストローなど、醸造業の枠にとらわれず、斬新な商品を自社で開発・販売している光浦醸造工業。生成AIもいち早く導入し、新商品開発や社内システムの構築に挑戦している。",
+      "published_at": "2026-09-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-30T14:06:29+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ももクロ佐々木彩夏 披露できていない新曲をライブでお披露目したい",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00590/00049/?n_cid=nbpnxr_rss",
+      "summary": "『日経エンタテインメント！』での連載「ももクロ61分3本勝負」は、ももいろクローバーZのメンバーが登場する人気コラムです。日経エンタテインメント！ Webでは、その“延長戦”を掲載しています。本誌2026年10月号には佐々木彩夏さんが登場。延長戦では26年8月26日に配信された新曲『無 我 夢 中』について聞きました。",
+      "published_at": "2026-09-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-30T14:06:29+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ピックルボールに続く新定番。全米熱狂の珍競技「コーンホール」とは",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00693/00039/?n_cid=nbpnxr_rss",
+      "summary": "米国で今、19世紀から親しまれてきた“裏庭の遊び”が本格スポーツとして脚光を浴びている。8メートル先のボードの穴を狙って布袋を投げる「コーンホール」だ。ルールはシンプルながら駆け引きも奥深く、老若男女が気軽に楽しめることから競技人口が急増。プロプレーヤーや世界大会も誕生し、市場規模の拡大が続く。ピックルボールに続く新たなレジャースポーツとして注目を集めるコーンホール人気の背景と成長の実態を追った。",
+      "published_at": "2026-09-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-30T14:06:29+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ピックルボールに続く新定番。全米熱狂の珍競技「コーンホール」とは",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PYzQxeGpoVTZRWEtocHFabDRPSlZvVGRzdWRpeFY2MGVyWG5ZTjlsSUVwd1RFZ2dSb3hVVHBVZjR4SFctTkY1Qmd2QnFESnNKelhJM0tSdmlvSTBlMk83XzNjeEQ0NXI0QlE5c09iak8tQXJaRUpBQ0ZQbnlaQQ?oc=5",
+      "summary": "ピックルボールに続く新定番。全米熱狂の珍競技「コーンホール」とは&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-29T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-30T14:06:27+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "バイロン・シャープ教授講演も限定公開！【帰ってきた！日経クロストレンドFORUM 2026】",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jNWFBSkVuOWp6c3RYVEFzSl9Xd0NWU1AxaHAxeXpYQ2IzUS1jZ2RrREJ2R05vTVdqeHJSSWZNMDBUSGVPdnFvVGw4a1Azc3BxUXItVjJBWExKSWZmakY2bEhMQWt5Q2lmMHZrNUV3WTF2dw?oc=5",
+      "summary": "バイロン・シャープ教授講演も限定公開！【帰ってきた！日経クロストレンドFORUM 2026】&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-29T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-30T14:06:27+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -204,6 +392,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "食品・飲料（159ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VOUJKMDZxbDljSVVIWXNOSG84dFc2TjJEVWxxMWRkZE5IbE1TdXZGMEg3RmlNZ1RqeXpzVzVUcm4wRk00WEg1ek4zbWF4Nmk5dlFxb2xpM1pFLUlybHg4ZHNjbVFqTms?oc=5",
+      "summary": "食品・飲料（159ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-28T18:46:31Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-30T14:06:27+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "食品事業 輸出事業 コーヒー・ 茶類事業 農産事業",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjl6SnZkN1g1Q2F3ZkpJeWU1V3VDaEw3dXJhZk52S1ZQd1hwLXBCZEZDdjJ3aFFpNXJvRjV6WXN2ZERIU0hnMzE5eDJYT1pWcVQ2VklLSjRtcjUtbk5VUXVubWJ1U1cxUENPelNiUnVFV2daNUJEUEVveTFTUkNhX0hheHFTNmp3QV9lX2o0OVV3TEgwSU1sNV9RSFE?oc=5",
       "summary": "食品事業 輸出事業 コーヒー・ 茶類事業 農産事業&nbsp;&nbsp;日本経済新聞",
@@ -244,6 +454,28 @@
       "scraped_at": "2026-09-29T14:21:22+08:00"
     },
     {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "コンビニでサントリー事変 ローソンPB“600円酒”の連続ヒット戦略",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDdna3Mwd3BhbUpNTUJ6RkFtaV9fcDAxZ0xERV9CODRtQWF4enNSR2FZZTRjbC1Od29PNkVlSUJJWVZpdTBzWFRMdkJPMkltT19aeDFNTnI3VU5VTGo5VzhnX3N1YTZZT1UwaWU2TnRQcW91WENZLVFzUWlPd3lUSVFCU3BRUlphckZ3?oc=5",
+      "summary": "コンビニでサントリー事変 ローソンPB“600円酒”の連続ヒット戦略&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-28T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-09-30T14:06:27+08:00"
+    },
+    {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
       "region": "日本",
@@ -264,6 +496,28 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-09-28T14:03:15+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "22年に売れるモノは？ 食品・飲料の「ヒット期待商品」13選",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15Q21oUWlzUGlwOHhwZk5kZ2ttTTFDdl9ldGVjQy1PbjM3Ylk3bmZ3ejQ0MGVTc3lxR2drWnZkQWhrd0xqd013SnJVaGk0NTZVb1RFTXZ3eUdSRmNhUmN5bVlSV3p3UHhUMlBj?oc=5",
+      "summary": "22年に売れるモノは？ 食品・飲料の「ヒット期待商品」13選&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-28T02:49:13Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-30T14:06:27+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -518,6 +772,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-28T14:03:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "不二家「ペコちゃん」開運だるま限定発売 未来消費カレンダー",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JYlpvVno0QmZTTHVZQ1UyMjFSZFdVS3E2RVJFWTJrZllyTDZ2aE1GeDNFMVpKVTd4R1VQTUhMS0ZPVW1VYXVFcVJhMzFsdVdxSlpaUk95aGg0VWU0ZEtEYzhRR1FjQQ?oc=5",
+      "summary": "不二家「ペコちゃん」開運だるま限定発売 未来消費カレンダー&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-27T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-30T14:06:27+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -4700,6 +4976,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "食品・飲料（38ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhUFNrekV1V0V4NWFBVzFRNWQwd2VGYnJjUEFvUFAwYlgxVTQwRlZpMXN3bmN5dGptZG5WaFN2RmU2VE1Ub1otUFE2WFhnR1JLdW5PMnVudm0yNW5xU2RYUm1mXzF2UQ?oc=5",
+      "summary": "食品・飲料（38ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-01T09:46:36Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-30T14:06:27+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "食品・飲料（155ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KaUVNOTlaaGt0bUp3R05HM3NKcHlicnRkenhfQlNNbE91cTdhZjNCcGFFelBIcjh5X1NiOXY3dTF5Z0NocFhTY0lyWUladklYUVJLX0hIaG1neGw5RUh5dDNIaTZYREE?oc=5",
       "summary": "食品・飲料（155ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -5628,28 +5926,6 @@
       "scraped_at": "2026-08-31T14:21:27+08:00"
     },
     {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Not Enough Honey? Wheat Germ Brand Faces Lawsuit",
-      "url": "https://www.packagingdigest.com/labeling/lawsuit-claims-honey-crunch-label-misleads-consumers-with-minimal-honey-content",
-      "summary": "An angry shopper sours on Kretschmer's Honey Crunch Wheat Germ for having less honey than three other sweeteners — and sues parent Continental Mills.",
-      "published_at": "2026-08-28T15:51:57Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-08-29T15:31:25+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5748,50 +6024,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-01T13:49:22+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Sapporo USA to close craft brewing facilities following sale",
-      "url": "https://www.fooddive.com/news/stone-brewery-california-closure-sapporo-sale/828924/",
-      "summary": "The beer maker, which will also lay off 220 workers, sold Stone Brewing earlier this year and is transitioning its brewing operations away from California.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-29T15:31:23+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "US alcohol consumption remains at all time low",
-      "url": "https://www.fooddive.com/news/gallup-poll-us-alcohol-drinking-rate-remains-all-time-low/828821/",
-      "summary": "A new report from Gallup showed drinking rates are stabilizing after a multiyear decline, but still remain at the lowest level since 1939.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-08-29T15:31:23+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -7458,6 +7690,50 @@
       ],
       "primary_category": "新包装",
       "scraped_at": "2026-09-29T14:21:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Cheez-It flexes with protein-loaded cheese cracker",
+      "url": "https://www.fooddive.com/news/cheez-it-flexes-with-protein-loaded-cheese-cracker/831469/",
+      "summary": "The Mars-owned brand is the latest to add the nutrient to mainstream snack brands, joining Goldfish, Eggo and Doritos.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-09-30T14:06:39+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How ready-to-drink cocktails are reshaping the spirits industry",
+      "url": "https://www.fooddive.com/news/canned-cocktails-rtd-spirits-alcohol-trends/830208/",
+      "summary": "As more consumers gravitate toward RTDs, alcohol giants must choose between developing new products internally or buying their way in.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-09-30T14:06:39+08:00"
     }
   ]
 }
