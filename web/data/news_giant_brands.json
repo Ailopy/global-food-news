@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-30T14:06:26",
+  "last_updated": "2026-09-30T21:13:35",
   "retention_days": 7,
-  "total": 636,
+  "total": 637,
   "s_count": 41,
   "a_count": 6,
-  "b_count": 589,
+  "b_count": 590,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -65,6 +65,17 @@
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
       "published_at": "2026-09-30T00:00:00",
       "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-announces-dana-mcnabb-as-chief-executive-officer",
+      "published_at": "2026-09-30T00:00:00",
+      "summary": "General Mills Announces Dana McNabb as Chief Executive Officer",
       "level": "B",
       "level_reason": "企业动态"
     },
