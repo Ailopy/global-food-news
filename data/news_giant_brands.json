@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-30T21:13:35",
+  "last_updated": "2026-10-01T14:40:12",
   "retention_days": 7,
-  "total": 637,
+  "total": 642,
   "s_count": 41,
   "a_count": 6,
-  "b_count": 590,
+  "b_count": 595,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -39,6 +39,61 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
+      "title": "協和ファーマケミカル株式会社の株式譲渡完了に関するお知らせ",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1001_01.html",
+      "published_at": "2026-10-01T06:30:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "歳暮ギフトとして初めてとなる「キリングッドエール」を加えた17種類のラインアップ 2026年キリンビール歳暮ギフトセット発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1001_02.html",
+      "published_at": "2026-10-01T01:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-10-01T00:00:00",
+      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.01日清食品2026年10月発売商品のご案内",
+      "url": "https://www.nissin.com/jp/news/13943/",
+      "published_at": "2026-10-01T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 美서 비비고 김밥 매출 59% 성장… K-푸드 관심 확대 속 ‘오리지널 한국 김밥(OG)’으...2026.10.01",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1827",
+      "published_at": "2026-10-01T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
       "title": "モッタイナイ！を、おいしい！に。規格外北海道余市産プルーンを活用したフードロス削減・農家支援につながる「キリン 氷結&reg;mottainai プルーン（期間限定）」発売",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0930_02.html",
       "published_at": "2026-09-30T02:00:10",
@@ -58,17 +113,6 @@
       "level_reason": "企业动态"
     },
     {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-09-30T00:00:00",
-      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
       "brand": "General Mills",
       "brand_cn": "通用磨坊",
       "region": "北美",
@@ -76,6 +120,17 @@
       "url": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-announces-dana-mcnabb-as-chief-executive-officer",
       "published_at": "2026-09-30T00:00:00",
       "summary": "General Mills Announces Dana McNabb as Chief Executive Officer",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "2026년 9월 신제품을 소개합니다Food2026.09.30",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/121",
+      "published_at": "2026-09-30T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
       "level": "B",
       "level_reason": "企业动态"
     },
