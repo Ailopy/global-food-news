@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-02T14:23:39",
+  "last_updated": "2026-10-02T21:24:20",
   "retention_days": 7,
-  "total": 643,
+  "total": 646,
   "s_count": 41,
   "a_count": 6,
-  "b_count": 596,
+  "b_count": 599,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,28 @@
   ],
   "articles": [
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "XLHと共に生きる患者さん同士をつなぐ「XLH Caf&eacute;」を5年連続開催",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20261002_01.pdf",
+      "published_at": "2026-10-02T07:10:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "株式会社シンクロ・フードと協働し、「CHEERS FRONTIER」の支援領域を拡大 飲食店開業に向けた相談から実務までをつなぐ仕組みを構築",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1002_01.html",
+      "published_at": "2026-10-02T07:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
@@ -52,6 +74,17 @@
       "region": "韩国",
       "title": "CJ제일제당 ‘퀴진케이’, 열 번째 팝업 레스토랑 ‘빌롱(Belong)’ 오픈…  “계절 따라 새롭게 펼쳐...2026.10.02",
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1828",
+      "published_at": "2026-10-02T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "自己株式の取得状況に関するお知らせ[適時開示]",
+      "url": "https://news.ajinomoto.co.jp/2026/10/2026_10_02.pdf",
       "published_at": "2026-10-02T00:00:00",
       "summary": "",
       "level": "B",
