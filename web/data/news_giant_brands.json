@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-01T22:03:54",
+  "last_updated": "2026-10-02T14:23:39",
   "retention_days": 7,
-  "total": 642,
+  "total": 643,
   "s_count": 41,
   "a_count": 6,
-  "b_count": 595,
+  "b_count": 596,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,28 @@
   ],
   "articles": [
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-10-02T00:00:00",
+      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 ‘퀴진케이’, 열 번째 팝업 레스토랑 ‘빌롱(Belong)’ 오픈…  “계절 따라 새롭게 펼쳐...2026.10.02",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1828",
+      "published_at": "2026-10-02T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -54,17 +76,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1001_02.html",
       "published_at": "2026-10-01T01:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-10-01T00:00:00",
-      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
