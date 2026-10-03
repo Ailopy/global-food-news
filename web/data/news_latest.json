@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-03T17:47:08.446462+08:00",
+  "last_updated": "2026-10-03T22:03:40.676566+08:00",
   "retention_days": 7,
-  "total": 538,
+  "total": 539,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,30 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "d14e0ff446c808ec",
+      "title": "Publisher’s Platform: Put Me Out of the Lettuce Business. Please.",
+      "summary": "The largest Cyclospora outbreak in American history is over, and the next crop is going in the ground. Washington dismantled the system that would have caught it, Congress wrote letters instead of…",
+      "url": "https://www.foodsafetynews.com/2026/10/publishers-platform-put-me-out-of-the-lettuce-business-please/",
+      "published_at": "2026-10-03T20:36:21+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "fab0a21472f799d2",
+      "title": "経産省、横浜で循環型消費を身近に PAC-MANで参加促す、サントリーは水平リサイクル訴求",
+      "summary": "経済産業省は10月3日、横浜市の「MARK IS みなとみらい」で、「サーキュラーエコノミーアクションWeek」のシンボリックアクションを開始した。館内で資源の分別やリサイクルにつながる行動をした来場者が、ゲーム「PAC...",
+      "url": "https://www.ssnp.co.jp/beverage/705272/",
+      "published_at": "2026-10-03T18:35:59+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
     {
       "id": "ada7149aa6932b47",
       "title": "ネスレ日本、頑張らない健康習慣を提案　「ネスカフェ」「ミロ」のブランド横断で新の健康訴求シリーズ「大人の健康計画」発売",
@@ -483,6 +507,18 @@
       "region": "北美",
       "category": "综合",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "31f2ee533533310a",
+      "title": "Leftovers: Skittles give gummies some crunch | Cup Noodles bites back for Halloween",
+      "summary": "The Mars-owned brand leans into multi-textural experiences with Skittles Gummy Crystals, while the founders of THC cocktail brand Nowadays launch a relaxation-focused functional beverage.",
+      "url": "https://www.fooddive.com/news/leftovers-skittles-give-gummies-some-crunch-cup-noodles-bites-back-for-h/832000/",
+      "published_at": "2026-10-02T22:40:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
@@ -6443,30 +6479,6 @@
       "summary": "サントリービバレッジ＆フードは、飲料の新価値創造に本腰を入れる。 日本を含め世界的な嗜好の変化のスピードが加速していることが背景。 6月、取材に応じたサントリービバレッジ＆フードの木村穣介社長は、国内の飲料市場につ […] ソース",
       "url": "https://shokuhin.net/154631/2026/09/27/inryou/inryou-inryou/",
       "published_at": "2026-09-27T05:30:27+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "2414de304377e733",
-      "title": "アサヒ飲料、日中の炭酸需要開拓へ　「リフレッツ」発売、ウェルネス価値を提案",
-      "summary": "アサヒ飲料は9月22日、カロリー控えめの微炭酸飲料「リフレッツ」を関東甲信越1都9県限定で発売した。「レモン&レモンバーム」「アップル&ローズマリー」の2品を展開し、ウェルネス価値を付加した“かろやかな炭...",
-      "url": "https://www.ssnp.co.jp/beverage/703851/",
-      "published_at": "2026-09-26T21:52:27+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "03c032871fbb004d",
-      "title": "「クラフトボス 甘くないイタリアーノ」好調　ラテ専用ミルクの賛否両論でペットボトルコーヒーに馴染みのない新規ユーザーを 獲得",
-      "summary": "サントリービバレッジ＆フードの「クラフトボス 甘くないイタリアーノ」（イタリアーノ）が好調に推移している。 「イタリアーノ」は2023年4月の発売開始以降、右肩上がりに販売数量を拡大。発売3年で販売数量は2倍以上に伸長 […] ソース",
-      "url": "https://shokuhin.net/157493/2026/09/26/inryou/inryou-inryou/",
-      "published_at": "2026-09-26T20:51:54+08:00",
       "source": "食品新聞",
       "region": "日本",
       "category": "综合",
