@@ -1,9 +1,9 @@
 {
-  "total": 349,
-  "s_plus_count": 41,
+  "total": 337,
+  "s_plus_count": 39,
   "sites": [
-    "日経新聞",
     "Packaging Digest",
+    "日経新聞",
     "日経xTrend",
     "Food Dive"
   ],
@@ -12,20 +12,20 @@
     "北美"
   ],
   "category_stats": {
-    "新产品": 53,
+    "新产品": 51,
     "营销创新": 25,
-    "其他": 207,
-    "品牌故事": 14,
+    "其他": 201,
+    "品牌故事": 12,
     "渠道新物种": 8,
-    "行业政策": 19,
+    "行业政策": 17,
     "联名营销": 13,
     "并购融资": 6,
     "新技术": 1,
     "新原料": 2,
     "新包装": 1
   },
-  "last_updated": "2026-10-02 14:23",
-  "last_updated_iso": "2026-10-02T14:23:57.195250+08:00",
+  "last_updated": "2026-10-03 13:53",
+  "last_updated_iso": "2026-10-03T13:53:19.221261+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -214,6 +214,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-02T14:23:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "アサヒビールは小売との接点を大改革 テレビCMでは届かない客層に焦点",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWTJtb2hhRmxiRTRVdGY0NFN6aVY1a050SW8wSHR2cHVuQW9DZGF3U3RmV25PRXQ3SjI0QklVem9oSFpDWmZKUjRLUGpwTy03Szktb1Zyd2tua0NuV0FEaE5qd0x3QnpCTEdwOXpabVNMdlV2cUdqTzBFOVU4a3U4cHJKVEFha1RnY05PUw?oc=5",
+      "summary": "アサヒビールは小売との接点を大改革 テレビCMでは届かない客層に焦点&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-01T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-03T13:52:58+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -882,6 +904,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-01T14:40:12+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ピックルボールに続く新定番。全米熱狂の珍競技「コーンホール」とは",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kQ3NnV3dTTFh0d0ZfWkVycmNwMkZRZnB4S1dzUDZfSnNlcDN0RDVxeEZ2MnE1QnoybjAzU0VSUWlJeWJQNWMxWmRlSFlYNUExdzYyNjliTVZHMTBER1FfaW9yUzhoZw?oc=5",
+      "summary": "ピックルボールに続く新定番。全米熱狂の珍競技「コーンホール」とは&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-29T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-03T13:52:58+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -5508,14 +5552,14 @@
       "scraped_at": "2026-09-03T13:16:59+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
       "region": "日本",
-      "positioning": "综合&分析",
-      "title": "アサヒ、資生堂が挑む「未来逆算型」商品開発 生活者が開発者になる日",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01434/00005/?n_cid=nbpnxr_rss",
-      "summary": "2030年の商品開発を変えるのはAIだけではない。企業が価値を定義し、消費者がそれを評価するという前提そのものが変わりつつある。アサヒグループホールディングス、資生堂、ヴァセリンの事例から、研究所の外で生まれる新しい商品開発の形を追った。",
-      "published_at": "2026-09-02T00:00:00Z",
+      "positioning": "新品&产业",
+      "title": "日清カレーメシ級のヒット 王者サトウのごはんの死角を突く“熱湯5分”飯",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uQVg5SFhoU0NxaExtTHl3d0ZIcEFtSnA0eGFkQ1BZVTNrRTU4MWdMUjVXYnBtUEhfLXVOTGJHX0ZGWDFRM3M0dzM2NFdJSFYwRVVHa3Y2VUR5Z3FrcmNqczZMb2xMUQ?oc=5",
+      "summary": "日清カレーメシ級のヒット 王者サトウのごはんの死角を突く“熱湯5分”飯&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-02T07:00:00Z",
       "is_s_plus": false,
       "s_plus_reason": "",
       "categories": [
@@ -5527,51 +5571,7 @@
         }
       ],
       "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:42+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "日清カレーメシ級のヒット 王者サトウのごはんの死角を突く“熱湯5分”飯",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01459/00002/?n_cid=nbpnxr_rss",
-      "summary": "いつもテレビCMで強烈なインパクトを与え、時に商品そのものでも奇抜さを消費者に印象づけてきた感がある日清食品。そんな同社が珍しく“真面目”な新商品の発売を予告したと思ったら、意外にもSNSで大いに盛り上がった。発売後の売れ行きも好調で、同じカテゴリーの自社主力商品に引けを取らないという。今回の商品で、日清食品が仕掛けた綿密な戦略とは――。",
-      "published_at": "2026-09-02T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "インパクト",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 2
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-02T13:12:42+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "スープストック創業者の突破術 物語形式の「独自企画書」でプレゼン",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01347/00005/?n_cid=nbpnxr_rss",
-      "summary": "大ヒット商品や新規事業が生まれる背景には、時に逆風を突破して形にしてきた人たちが必ず存在する。とはいえ、企業の中で何か新しいことにチャレンジする際、これまでのものさしでは計り知れないが故に、自分の上司が判断しきれず、それが壁になることも多々ある。何かを成してきた人たちは、新たな価値を生み出すために、どんな“突破する動力”で壁を乗り越えたのか。今回の突破者は、Soup Stock Tokyoの創業者であり、スマイルズの代表取締役、そしてThe Chain Museumの代表取締役を務める遠山正道氏である。",
-      "published_at": "2026-09-02T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "大ヒット",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-09-02T13:12:42+08:00"
+      "scraped_at": "2026-10-03T13:52:58+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5638,94 +5638,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-04T13:12:43+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "2030年のAIコマース 精緻な回答を越えた「共に悩むパートナー」へ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MS1RyWFlZUWt2OW9iVjFUcGlPX09meEx3YVJ0MlFkTnl5YlNLd3htcFBGakJJdm5XbnZNWjExY3UtOFhFckVQOGt3Q1JERldURlhHRGY4cXVIMnZLLXhET1dzOFRqQQ?oc=5",
-      "summary": "2030年のAIコマース 精緻な回答を越えた「共に悩むパートナー」へ&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-01T15:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:39+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "日清カレーメシ級のヒット 王者サトウのごはんの死角を突く“熱湯5分”飯",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uQVg5SFhoU0NxaExtTHl3d0ZIcEFtSnA0eGFkQ1BZVTNrRTU4MWdMUjVXYnBtUEhfLXVOTGJHX0ZGWDFRM3M0dzM2NFdJSFYwRVVHa3Y2VUR5Z3FrcmNqczZMb2xMUQ?oc=5",
-      "summary": "日清カレーメシ級のヒット 王者サトウのごはんの死角を突く“熱湯5分”飯&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-01T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:39+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "アサヒ、資生堂が挑む「未来逆算型」商品開発 生活者が開発者になる日",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UUW9RYWZabjh6SURHb3hpd3lZY2pvQlRiWVZFc25uZ0JZVkVoZTBKbnFzS1JXMEdZdm9XTjFldk5UVHBBZm1Wbzc4bWtVbEpucHZWOTQzRGozRVZXMWJvM0R2VEVPdw?oc=5",
-      "summary": "アサヒ、資生堂が挑む「未来逆算型」商品開発 生活者が開発者になる日&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-01T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:39+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "スープストック創業者の突破術 物語形式の「独自企画書」でプレゼン",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aMlRxRUE0cmU5WGhYMHRmZEIwMW5QczM1VWh0anFrRzNiNnFTZjRYbDhiXzdHdy1vQ3V6WEswYkdJVmhCOVh2QjFmOVFwQU9ObkVyTEZSMDc0Qm5mdGVKMFVHZnVGQQ?oc=5",
-      "summary": "スープストック創業者の突破術 物語形式の「独自企画書」でプレゼン&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-01T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-09-02T13:12:39+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5930,28 +5842,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "食品・飲料（171ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SMTVvNUZSRXZ3ZExhNEpfaHpuYm5tcnBrdndrZTRDS3pQSTVlTlBkWVdhc0diZkF2RWppa2hRbDNYWHgzOUgxZVNHMFNjQzA5SVFZVlRNU1BOTDVTakttWUdMVmluVUE?oc=5",
-      "summary": "食品・飲料（171ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-31T22:01:06Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:39+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（172ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TdUlMYzhKVHNaMUVwaHR1OWJMYUZtN05ydUt5b2JYMURxMkxhRTM2UTRFRUNKQmpiN09neDY0UGVWaFJ0Z0NvR3NGdTRNdVFyc1VRZ0ZnSTNvY3R6X1lGNzRuYVZvYmM?oc=5",
       "summary": "食品・飲料（172ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -6062,72 +5952,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "食品・飲料（187ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1INnlPRkpXMWllcGFKRXVuUnh0RUQ3anpqaWQ5NFFGRkNpWllyTWdva3dxTkx6eENaNi16RU9zTUdDSURSSTlMOUFTMlo4NmoyUzB4b0dHN1REU2xyOEx0clZPQXRYdWM?oc=5",
-      "summary": "食品・飲料（187ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-31T12:16:42Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:39+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（188ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tNFRRM1VkY25idkRoRjFROGpiM0ttRUU0MUFpTVRHTmFJelM3M1lUUHJzNko3MHhiMmlXRnhwR0VBTExQN0YzQk5QTVphR3p1MU5VVDg0cHRNc1pFcTZ2ei0wZ1cxTmM?oc=5",
-      "summary": "食品・飲料（188ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-31T11:47:09Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:39+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "厳選「ADWEEK」米国発最新リポート",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tS3FZQ2wzYlBFVHh2Ukw1NXd2bFdkUjJtOFlrSlQ2SVE0YjdkM2RsaUswT19TM0x3eHdOUDBVNkdoQzJFUjIydXVXbVdad3N1SnVwdF9ZTGJSZVc1Mnc?oc=5",
-      "summary": "厳選「ADWEEK」米国発最新リポート&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-31T11:20:48Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:39+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "「食品」に関する記事一覧",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YMjhPN20zVlhhX1FZRjBaZmZoazZ4UU5tTHVRUk9vRGpVSWFWdmo3NUI2QXdmbVRxeFIyMF9wRFlWaUthMGRrcVh5T04yQWk1Q2c?oc=5",
       "summary": "「食品」に関する記事一覧&nbsp;&nbsp;日経クロストレンド",
@@ -6144,28 +5968,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-04T13:12:43+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（22ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ya1Q4NTd0NHRUdklOOXBKaDRfQUptQWhLNTBPQm4xMjdHMzZ4TjdzUjZoNkR6b3Y3REFMbnFvdHJyQkVGWXZDdjFVZDJVbmRJRzdXUDlyc1FXOERLVFdWUkhJc0dSdw?oc=5",
-      "summary": "食品・飲料（22ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-30T16:32:10Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:39+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -6216,122 +6018,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-03T13:17:13+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Zero-sugar labels take center stage in more food class action lawsuits",
-      "url": "https://www.fooddive.com/news/liquid-death-david-protein-class-action-lawsuits-allulose/829169/",
-      "summary": "Liquid Death and the maker of David protein bars are the latest to face consumer complaints after the FDA said natural sweetener allulose is a sugar.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 3
-        },
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 2
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-09-02T13:12:55+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Why sauces are emerging as key growth vehicle for CPG brands",
-      "url": "https://www.fooddive.com/spons/why-sauces-are-emerging-as-key-growth-vehicle-for-cpg-brands/829075/",
-      "summary": "From global flavors to customization, sauces are changing how consumers choose, experience and personalize food. Explore the trends shaping sauce culture.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:55+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Trump pledges legal action to break ‘nasty monopoly’ in meat processing",
-      "url": "https://www.fooddive.com/news/Trump-white-house-cattle-monopoly-food-safety/829102/",
-      "summary": "A proposal to allow farmers and ranchers to process their own animals immediately drew criticism from agriculture groups over food safety concerns.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 3
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-09-02T13:12:55+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Leftovers: Pringles introduces thicker chips | Pop-Tarts gets buzzed with BuzzBallz",
-      "url": "https://www.fooddive.com/news/buzzballs-poptarts-snoop-dogg-popsicle-thick-pringles/829061/",
-      "summary": "The Mars Snacking brand is launching a sturdier crisp designed for dipping, while Snoop Dogg's Dr. Bombay releases a nostalgic popsicle.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-02T13:12:55+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "PepsiCo, Kraft Heinz under investigation in Texas over avocado oil claims",
-      "url": "https://www.fooddive.com/news/texas-avocado-oil-investigation-pepsico-siete-kraft-heinz-primal-kitchen/828978/",
-      "summary": "A probe into food giants' better-for-you brands follows a UC Davis study that found many products may be adulterated with cheaper oils.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-02T13:12:55+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -7986,6 +7672,50 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-10-02T14:23:52+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How PepsiCo uses chefs to think differently about innovation",
+      "url": "https://www.fooddive.com/news/pepsico-innovation-snacking-chefs-doritos-lays-chipsnk-differently-about-innovation-flavors/830085/",
+      "summary": "The snack giant is tapping into culinary expertise to remain competitive and uncover flavors that will resonate with fickle consumers.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-03T13:53:14+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Cheerios maker General Mills names company veteran as CEO",
+      "url": "https://www.fooddive.com/news/General-mills-ceo-leadership-change-cereal/831741/",
+      "summary": "Dana McNabb, who has been with the food maker since 1999, will take over from Jeff Harmening in January.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-03T13:53:14+08:00"
     }
   ]
 }
