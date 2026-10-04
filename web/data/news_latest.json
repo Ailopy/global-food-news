@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-04T18:30:45.315888+08:00",
+  "last_updated": "2026-10-04T22:30:07.385766+08:00",
   "retention_days": 7,
-  "total": 535,
+  "total": 543,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,66 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "efe194cd69b556f6",
+      "title": "カルビー、ファンと熱量高め合い工場見学を超えた特別な体験を提供　清原工場では世界でたった1つの「フルグラ」づくりへと昇華",
+      "summary": "カルビーは、スマートフォンアプリ「カルビールビープログラム」（ルビープログラム）を活用して、ファンと熱量を高め合い工場見学を超えたファンミーティングと称する特別な体験の場を提供している。 9月23日、清原工場（栃木県 […] ソース",
+      "url": "https://shokuhin.net/157878/2026/10/04/kakou/kashi/",
+      "published_at": "2026-10-04T21:13:29+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "be81ee4aabacc417",
+      "title": "Sunday Edition: NOAA",
+      "summary": "Objectives assigned to NOAA include ensuring a safe and sustainable supply of seafood",
+      "url": "https://www.foodsafetynews.com/2026/10/sunday-edition-noaa/",
+      "published_at": "2026-10-04T20:00:25+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "fc4f912c107ffad1",
+      "title": "ユニクロ、「UTme！」で東京･錦糸町ゆかりの企業や施設とコラボ　菓子業界からはギンビス・やおきんが参画",
+      "summary": "ユニクロは9月25日、東京･錦糸町にある「ユニクロ アルカキット錦糸町店」を増床・リニューアルオープンし、錦糸町ゆかりの企業や施設とコラボした錦糸町店限定デザインの「UTme！」商品を販売している。 オリジナルTシャ […] ソース",
+      "url": "https://shokuhin.net/157877/2026/10/04/kakou/kashi/",
+      "published_at": "2026-10-04T19:34:00+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "136e4dc9bbb90f94",
+      "title": "明治、カカオ産地支援を進化　ガーナでアップサイクル産業の振興促す　新農法の推進や栄養の提供にも着手　感染症対策も視野",
+      "summary": "明治グループは、カカオ産地支援を従来のやり方から進化させて利益成長（ROE）とESG指標の改善を同時に果たすことを目指す「明治ROESG」を推進していく。 明治では、2006年から独自のカカオ農家支援活動「メイジ・カ […] ソース",
+      "url": "https://shokuhin.net/157868/2026/10/04/kakou/kashi/",
+      "published_at": "2026-10-04T19:16:57+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d913bf386c3f48ca",
+      "title": "UCCがコーヒー2050年問題の解決へ一歩前進　 収穫量の安定が見込めてレギュラーコーヒーに適した「ファインロブ」日本初導入",
+      "summary": "UCCグループは生産者とともに持続可能なコーヒーづくりに取り組み「コーヒー2050年問題」の解決へ一歩前進する。 コーヒー2050年問題とは、気候変動により2050年にアラビカ種の栽培適地が大幅に減少する可能性を示唆 […] ソース",
+      "url": "https://shokuhin.net/157867/2026/10/04/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-10-04T19:04:38+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "49c26696a85d4959",
       "title": "コンビニのたまごサンドのトレンド人気ランキング！",
@@ -54,12 +114,48 @@
       "language": "ja"
     },
     {
+      "id": "5076eea759cedf77",
+      "title": "「甘くないイタリアーノ」などで培われた技術で「クラフトボス」ミルク入り史上最高峰のミルク感実現した「ミルクラテ」が好調",
+      "summary": "サントリービバレッジ＆フードの「クラフトボス」コーヒーシリーズから今年リニューアル発売された「ミルクラテ」が好調に推移している。 「甘くないイタリアーノ」（イタリアーノ）などで培われたミルクの技術などを活用してミルク […] ソース",
+      "url": "https://shokuhin.net/157862/2026/10/04/inryou/inryou-inryou/",
+      "published_at": "2026-10-04T14:05:28+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "078d6c7b1a8dbf42",
+      "title": "「価格競争には必ず終わりがあるが、価値を創る競争には終わりがない」　新価値創造に挑むフルタ製菓　「成長と継続」が使命",
+      "summary": "フルタ製菓は秋冬、「生クリームチョコ」ブランドから「生クリームチョコクッキー」を新発売するなど新価値創造に挑む。 第60回フルタ会総会・フルタ製菓創業74周年式典であいさつした古田盛彦社長は、厳しい環境に直面したとい […] ソース",
+      "url": "https://shokuhin.net/157385/2026/10/04/kakou/kashi/",
+      "published_at": "2026-10-04T14:01:46+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "ca82c2b4c863549a",
       "title": "今週新発売の惣菜パンまとめ！『ハムチーズポテトマヨパン』、『チーズマヨパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンイトーパン ハムチーズポテトマヨパン 袋1個ふんわり生地でポテトサラダ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026100406/?utm_source=rss&utm_medium=mognavinews_20261004",
       "published_at": "2026-10-04T13:30:00+08:00",
       "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "dc01091fad683e37",
+      "title": "三幸製菓「つくろう、ワォ！と楽しくなる瞬間。」加速への新拠点　渋谷・新オフィス開設に期待する3つ役割　牛膓栄一社長が語る",
+      "summary": "三幸製菓は6月15日、東京・渋谷に新オフィス「Canvas（キャンバス）」を開設した。 7月28日、取材に応じた牛膓栄一社長は新オフィス開設の目的について「日本の中心地に近いところでハード面を整えてコーポレートブラン […] ソース",
+      "url": "https://shokuhin.net/157858/2026/10/04/kakou/kashi/",
+      "published_at": "2026-10-04T13:20:09+08:00",
+      "source": "食品新聞",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -186,6 +282,18 @@
       "language": "ja"
     },
     {
+      "id": "7c7f0c87ba79656c",
+      "title": "味の素AGF「ブレンディ」スティックブラックの新TVCMで榮倉奈々さん起用　どんな飲み方でも「ブレないおいしさ」訴求",
+      "summary": "味の素AGFは、「ブレンディ」スティックブラックの新TVCMを9月29日から公開し、どんな飲み方でも「ブレないおいしさ」を訴求している。 9月29日、新TVCM発表会後に取材に応じたコンシューマービジネス部インスタン […] ソース",
+      "url": "https://shokuhin.net/157852/2026/10/04/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-10-04T09:22:22+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "00f48b6addbfdb24",
       "title": "【2026年10月第1週】飴・キャラメルランキング1位はピュレグミプレミアム！新商品＆久しぶりランクイン続々まとめ",
       "summary": "10月に入り、秋の味覚や新フレーバーが続々と登場する季節になりました。今週の飴・キャラメルランキングも、注目の新商品から定番の人気商品まで、バラエティ豊かなラ…",
@@ -207,6 +315,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "abae9e5bca97145d",
+      "title": "「AIは当面、電動工具として正しく使うべき」 サントリービバレッジ＆フードの木村穣介社長が見解",
+      "summary": "サントリービバレッジ＆フードの木村穣介社長は6月、取材に応じAIの活用について宮大工と工具の関係に例えて「AIは当面、電動工具として正しく使うべき。宮大工は腕を磨く必要があり、その際、電動工具を使わない理由はなく、使っ […] ソース",
+      "url": "https://shokuhin.net/154635/2026/10/04/inryou/inryou-inryou/",
+      "published_at": "2026-10-04T07:45:22+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -6408,30 +6528,6 @@
       "url": "https://www.nosh.com/news/2026/the-cpg-insider-weekly-9",
       "published_at": "2026-09-28T01:15:33+08:00",
       "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "0ea14523b03bf36c",
-      "title": "アサヒ飲料、「PLUSカルピス カラダクレンジング」発売　体脂肪・お通じ改善を訴求 「カルピス」らしい味わいに",
-      "summary": "アサヒ飲料は9月22日、ヘルスケアシリーズ「PLUSカルピス」から、機能性表示食品「PLUSカルピス カラダクレンジング」を全国発売した。乳酸菌CP1563株由来の10-ヒドロキシオクタデカン酸(10-HOA)とマルトビ...",
-      "url": "https://www.ssnp.co.jp/beverage/703858/",
-      "published_at": "2026-09-27T21:28:59+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "5e7bcb34dae8ff45",
-      "title": "Sunday Edition: SNAP",
-      "summary": "$187.94 is the amount of the average monthly SNAP benefit paid to an individual in FY 2025.",
-      "url": "https://www.foodsafetynews.com/2026/09/sunday-edition-snap/",
-      "published_at": "2026-09-27T20:00:50+08:00",
-      "source": "Food Safety News",
       "region": "北美",
       "category": "综合",
       "level": "A",
