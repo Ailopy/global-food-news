@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-05T14:23:01",
+  "last_updated": "2026-10-05T23:26:40",
   "retention_days": 7,
-  "total": 651,
+  "total": 654,
   "s_count": 41,
   "a_count": 6,
-  "b_count": 604,
+  "b_count": 607,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -7191,6 +7191,39 @@
       "region": "韩国",
       "title": "한국일보CJ제일제당, 뉴욕서 K증류주 'jari' 론칭… 미국 시장 공략 본격화",
       "url": "https://www.hankookilbo.com/news/article/A2026092209460005777",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "PepsiCo",
+      "brand_cn": "百事",
+      "region": "北美",
+      "title": "Learn more",
+      "url": "https://www.pepsico.com/innovation",
+      "published_at": "",
+      "summary": "See how we reshape the future of food & drinks.",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "PepsiCo",
+      "brand_cn": "百事",
+      "region": "北美",
+      "title": "Business Transformation",
+      "url": "https://www.pepsico.com/innovation/business-transformation",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "PepsiCo",
+      "brand_cn": "百事",
+      "region": "北美",
+      "title": "Partner With Us",
+      "url": "https://xi.pepsico.hypeinnovation.com",
       "published_at": "",
       "summary": "",
       "level": "B",
