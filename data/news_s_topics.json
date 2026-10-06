@@ -1,31 +1,247 @@
 {
-  "total": 312,
-  "s_plus_count": 38,
+  "total": 326,
+  "s_plus_count": 41,
   "sites": [
     "日経xTrend",
+    "Food Dive",
     "Packaging Digest",
-    "日経新聞",
-    "Food Dive"
+    "日経新聞"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "其他": 187,
-    "新产品": 54,
+    "新产品": 60,
+    "其他": 188,
+    "行业政策": 19,
+    "新包装": 2,
     "营销创新": 22,
     "品牌故事": 9,
     "渠道新物种": 7,
-    "行业政策": 14,
-    "联名营销": 11,
+    "联名营销": 12,
     "并购融资": 5,
-    "新原料": 2,
-    "新包装": 1
+    "新原料": 2
   },
-  "last_updated": "2026-10-05 14:23",
-  "last_updated_iso": "2026-10-05T14:23:20.206170+08:00",
+  "last_updated": "2026-10-06 14:58",
+  "last_updated_iso": "2026-10-06T14:58:33.059480+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "サントリー金麦は一番搾り超え？ 発泡酒のビール化、4社の姿勢に濃淡",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01493/00002/?n_cid=nbpnxr_rss",
+      "summary": "2026年は、酒税改正を伝えるニュースが増えた。中でも、「大手メーカー4社の新ジャンルがビール化」は特に目を引く動きで、これから各社が続々と”新商品”を投入する。これはビール類の歴史において大きな出来事だが、実は各社のスタンスは同じではない。その背景を探った。",
+      "published_at": "2026-10-06T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-06T14:58:19+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "佐川急便とJR東日本が本腰 東京駅「手ぶら観光」、ホテル配送も",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01491/00003/?n_cid=nbpnxr_rss",
+      "summary": "2026年10月2日発売の「日経トレンディ2026年11月号」では、「細かすぎる東京駅最新案内2026」を特集。東京駅は旅行や出張の玄関口だが、多くの利用者を悩ませるのがスーツケースなど大型荷物の扱いだ。コインロッカー探しに時間を取られ、観光や移動の予定が狂うことも少なくない。そんな“ロッカー難民”を回避するため、スマホで事前予約できる荷物預かりサービスや、ホテル・空港への当日配送サービスが広がっている。さらに、モバイルバッテリーや推し活グッズのレンタル、周辺エリアを結ぶ無料巡回バス、お得な駐車場サービスまで活用すれば、東京駅は単なる通過点ではなく、旅を快適にする便利なベース基地へと変わる。知らないと損する最新活用術を紹介する。",
+      "published_at": "2026-10-06T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-06T14:58:19+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "パタゴニアが驚きの選挙支援策 100ドル提供で環境重視派を動かす",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00079/00369/?n_cid=nbpnxr_rss",
+      "summary": "米国における前回の国政選挙では、1120万人の環境主義者が投票をせずに棄権した。米パタゴニアは2026年11月に控える中間選挙に際して、こうした環境派を動員するために効果が実証されている手法を駆使している。",
+      "published_at": "2026-10-06T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-06T14:58:19+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "セガの齋藤剛氏が考える 長期IP育成に必要なファンダムの影響力",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00087/?n_cid=nbpnxr_rss",
+      "summary": "セガが1991年に1作目を発売した「ソニック」シリーズは35周年、グループ会社のアトラスが手がける「ペルソナ」シリーズは30周年を迎える。長期間IPの人気を維持してきたセガは近年のゲーム市場のトレンドをどう見ているのか。同社 上席執行役員 グローバルパブリッシングヘッドクォーター管掌 デピューティーチーフビジネスオフィサー 兼 East統括本部長の齋藤剛氏に話を聞いた。",
+      "published_at": "2026-10-06T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-06T14:58:19+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「たまごっち」が30周年で原点回帰 あえてワイヤレス廃止で予約数4倍",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00947/00319/?n_cid=nbpnxr_rss",
+      "summary": "2026年に30周年を迎えた「たまごっち」シリーズが勢いづいている。最新作「Tamagotchi Paradise」が26年7月に「体験価値を拡張した携帯型仮想生命体育成ゲーム器の意匠」として「令和8年度全国発明表彰」で発明賞を受賞。8月には年間の国内玩具市場をけん引した商品に贈られる「日本おもちゃ大賞2026」の「ヒット・セールス賞」を受賞した。新機能も搭載されるなど、発売から1年を経て好調が続いているようだ。",
+      "published_at": "2026-10-06T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "体験価値",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-06T14:58:19+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "連結子会社・UNIVA Marketing Limited による新製品「IZUMIO AIR」供給開始に関するお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXJoR1o3V2pqb0FmTEt4bXlsQWoxTkcwN3p6dUE0Q3I2YUc3TGhzZlNXRklhaVZ2cGVRSzdsTUp6ekU0blhlcGN1dTI3M0FwMk9YdTJKb0Z0dmRNVjlObExqZTZldU1pUnNlcW56MG9VbFRQM2hVNVM3d0dhbXhVeTJWY0QwU0pxZXBXVWE1dFdxNWFpakM0MkQ2YWo?oc=5",
+      "summary": "連結子会社・UNIVA Marketing Limited による新製品「IZUMIO AIR」供給開始に関するお知らせ&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-10-05T23:53:19Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-06T14:58:16+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Food &amp; Beverage Brands’ Creative Merch Fans Actually Want",
+      "url": "https://www.packagingdigest.com/food-beverage/food-beverage-brands-creative-merch-fans-actually-want",
+      "summary": "From weird to wonderful, limited-edition promo merchandise creates pop-culture moments that fans collect, use, and share long after the campaign ends.",
+      "published_at": "2026-10-05T20:10:36Z",
+      "is_s_plus": true,
+      "s_plus_reason": "limited-edition",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-10-06T14:58:31+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Workshop Tackles Packaging Innovation for Nutritional Markets",
+      "url": "https://www.packagingdigest.com/packaging-design/workshop-tackles-packaging-innovation-for-nutritional-markets",
+      "summary": "An interactive workshop at SupplySide Global explores sustainability, ecommerce solutions, and consumer value in packaging for supplements and nutritional foods and beverages.",
+      "published_at": "2026-10-05T18:40:37Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-10-06T14:58:31+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（209ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85YkhmMVppNUlCeUdzSUh3QndBRkNXRFAtR3dpWXY0aEhiRWY4VWd0dlp5eHV3Yi01bHQyWDV4cVRjM3NtUnM0THltQlBPZ3NRNGYyQXFIRmpHM2VfejlXTTE0V1JfYXM?oc=5",
+      "summary": "食品・飲料（209ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-05T05:20:44Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-06T14:58:16+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -297,6 +513,50 @@
       "scraped_at": "2026-10-05T14:23:02+08:00"
     },
     {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "晴れ風は合格、マルエフとサン生は？ 酒税一本化でビール新商品を採点",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTBzNEcyZ0JncmFwNEctdGxXWjg2SkIxYi16YjBrR2pRZDJseWRiYTItLXVlLWl0R0EtdjU1OW5sb1JyWTFzekUyM0o4WkZpYjY0ZWxNY3B4Wk1xVGZNTFRjVzE0SUdGcEpjNU44UEphSkxCTFpRS3oxOUJYY21xQ2swdkJkUVJnNFNrbXZicEJMRWI1Tnc?oc=5",
+      "summary": "晴れ風は合格、マルエフとサン生は？ 酒税一本化でビール新商品を採点&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-04T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-06T14:58:16+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（22ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BUzBpbHY0WUw2Q0FCci1qM1dURVNRd1pfT2FMcEUtbldUVHZ5WU9TNS1icG02VGtBdDl0aWVvTWRiWlVHNHBJZFN1SE1yTWVEVG9seDJvRzBaVVN6eDNv?oc=5",
+      "summary": "食品・飲料（22ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-03T14:28:50Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-06T14:58:16+08:00"
+    },
+    {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
       "region": "日本",
@@ -441,6 +701,28 @@
       "scraped_at": "2026-10-02T14:23:42+08:00"
     },
     {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Plastic Pails of Beer Gain Attention, Traction",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/plastic-pails-of-beer-gain-attention-traction",
+      "summary": "These three beer brands turned to otherwise ordinary 5-gallon pails to turn heads and break out from the boxy sameness of paper packaging multipacks.",
+      "published_at": "2026-10-01T17:41:18Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-10-06T14:58:31+08:00"
+    },
+    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -527,6 +809,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-04T14:29:32+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（325ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaRXJtdTQ0ZnR0bml0clMzNU9UQXlsVFpyUkFmSEJFRmRzOXZyVmxIaW5kWmJORVZTeUZJc1pIRlViVC13M2hYM2xYcU1SRlhIUV85ekhpSHg2aXpYUXJRRQ?oc=5",
+      "summary": "食品・飲料（325ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-01T09:09:49Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-06T14:58:16+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -693,6 +997,28 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-10-01T14:40:15+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（416ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xSURkdTBWa0dIVnFzSkEtNHNaUjBHMTBrZF9mcUR5QVE5QlpWbmROcEtwbGxzTWh2NnFYVXc0UUNOeHNzb0dhR2tiblZyMHlnb1Q5WlZnbmo2bHJidGhsMTZ5WGVDaVE?oc=5",
+      "summary": "食品・飲料（416ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-30T18:18:53Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-06T14:58:16+08:00"
     },
     {
       "site_name": "Packaging Digest",
@@ -1887,6 +2213,28 @@
       "scraped_at": "2026-09-26T13:40:46+08:00"
     },
     {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Pre-filled Pouches Take the Prep Out of Foodservice Condiments",
+      "url": "https://www.packagingdigest.com/food-packaging/pre-filled-pouches-take-the-prep-out-of-foodservice-condiments",
+      "summary": "Sealed Air’s Cryovac ZeroPrep pouches help foodservice operators save labor, reduce waste, and support food safety while replacing squeeze bottles.",
+      "published_at": "2026-09-25T12:25:05Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-10-06T14:58:31+08:00"
+    },
+    {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
       "region": "日本",
@@ -2239,6 +2587,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-25T13:33:44+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Wine Packaging Films Get a Second Life",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/wine-packaging-films-get-a-second-life",
+      "summary": "The Cantina Pizzolato–Aliplast collaboration turns used pallet stretch film and covers into new film.",
+      "published_at": "2026-09-23T11:53:11Z",
+      "is_s_plus": true,
+      "s_plus_reason": "collab",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 2
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-10-06T14:58:31+08:00"
     },
     {
       "site_name": "Packaging Digest",
@@ -5161,28 +5531,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "食品・飲料（23ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOUWVmcVNvTVlFY3ZnR252T2plY3RWZlI3cTJzT01icTJ3dERJMWx4TFVlZmNBbDU0Y0l3TnI3MVA5a1R1bjlzT2s1TGUtQjRqTURKeVBHcF9oWHNHVmM0RlYwUGV3Zw?oc=5",
-      "summary": "食品・飲料（23ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-03T14:38:47Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-05T13:02:00+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "いちごオフィスリート投資法人[8975]：いちごTHANKS!マンスリープレゼント「Miyazaki Premium ヴィーガン アイス」プレゼントのお知らせ 2026年9月3日(適時開示) ：日経会社情報DIGITAL",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xVndCQmpUbU85b0xETnk5cjZLaTJWWkw2MUtJWXh2eVJoOTJscmhnYnFRUDdOY05aeFNxQnZpWXBUNU9HM29OMU1FTEFqVWZQd1dPZjViN0h0TjBqYnA0X1RULThtN3NxUFE?oc=5",
       "summary": "いちごオフィスリート投資法人[8975]：いちごTHANKS!マンスリープレゼント「Miyazaki Premium ヴィーガン アイス」プレゼントのお知らせ 2026年9月3日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
@@ -5287,50 +5635,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-01T14:40:12+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（144ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJQUJvMWVuRHRocWdNU1hhalJNWG5UM0gteXZCMjJWTUJ4V0lCdW00YjNpMV9jY2ctZEl5UEZFSWtRYmJ0UGhnNUhoMzhFb21RdmFWTHNKVGtJd25Tb2JaTElJUXhNVms?oc=5",
-      "summary": "食品・飲料（144ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-02T10:17:57Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-05T13:02:00+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（382ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81dXJERUZDenBGV2k5X21zeV8xX0tQekV1Umc1Vl9zYkMxaXE1WnlwZS1uTElfSjdUcjJNZEFxcVZSMnlnS3BBY1J1cmU3azRjTmhRbVdFUVNCWDdOZVBCU3hNc1lYSnc?oc=5",
-      "summary": "食品・飲料（382ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-02T10:16:18Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-05T13:02:00+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5469,28 +5773,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "食品・飲料（173ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QWnUxU0VldDd4bE8wUW5vdk1rbWZxSFRLQlJkeWRLZ3dQbDJmQk1CckRZUVhwc2ZLVEl2dTNIc3RyWkhQNzFlWnBLY1pQRnZkWC1nd2N5Q2NoYzdyV0lyaC15RUJnUG8?oc=5",
-      "summary": "食品・飲料（173ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-31T20:57:24Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-05T13:02:00+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（24ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44c1JIYWxyTmtVUEZ0Q0ZVbEpwZFRLaEprZWpDa0FvUkN2ZmJRSk01YUQtUFFvS2FMdTlKeFpGR2lSUFdqWUJ5bHRhRzVnN045dnpqME8wT2N6bFRzenJKeWZOSTd1Zw?oc=5",
       "summary": "食品・飲料（24ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -5535,50 +5817,6 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-09-24T13:36:42+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Athletic Brewing appoints new CMO amid marketing push",
-      "url": "https://www.fooddive.com/news/athletic-brewing-appoints-new-cmo-amid-marketing-push/829461/",
-      "summary": "The appointment comes as the brand continues to invest heavily in sports sponsorships and is doubling down on its national media spend.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-05T13:02:13+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Nestlé reaches $1B deal to sell 7 vitamin, mineral and supplement brands",
-      "url": "https://www.fooddive.com/news/nestle-sell-mainstream-vitamins-minerals-supplements-business-to-private-equity/829321/",
-      "summary": "The company said the divestiture of mainstream offerings, including Nature’s Bounty and Ester-C, will allow it to prioritize businesses with the “strongest competitive advantage.”",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-05T13:02:13+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -7117,6 +7355,94 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-03T13:53:14+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "How food and beverage manufacturers can navigate a tight craft labor market",
+      "url": "https://www.fooddive.com/spons/how-food-and-beverage-manufacturers-can-navigate-a-tight-craft-labor-market/831836/",
+      "summary": "Data center and big capital programs are tightening the labor market. Food manufacturers need to rethink workforce planning to help protect food projects.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-10-06T14:58:28+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Conagra slims down portfolio while investing more in popcorn, meat sticks",
+      "url": "https://www.fooddive.com/news/conagra-shrinks-portfolio-invest-more-popcorn-meat-sticks/831814/",
+      "summary": "The Healthy Choice maker is exiting Celeste frozen pizza as it reviews its business for other brands and SKUs to cut.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-06T14:58:28+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Keurig Dr Pepper names coffee spinoff CEO for a third time",
+      "url": "https://www.fooddive.com/news/keurig-dr-pepper-new-coffee-ceo/831900/",
+      "summary": "Kimberly-Clark executive Russ Torres will oversee the spinout after former pick Rafael Oliveira left the company to lead Heineken.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-06T14:58:28+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Sunkist Fruit Gems to return after consumer outcry",
+      "url": "https://www.fooddive.com/news/sunkist-fruit-gems-return-ferrara-discontinuation/831879/",
+      "summary": "The gummies, a fixture at Jewish celebrations, will be produced by a new manufacturing partner after Ferrara confirmed it exited a licensing agreement with the citrus co-op.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-10-06T14:58:28+08:00"
     }
   ]
 }
