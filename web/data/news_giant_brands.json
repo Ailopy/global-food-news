@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-06T21:49:32",
+  "last_updated": "2026-10-07T14:40:03",
   "retention_days": 7,
-  "total": 658,
+  "total": 662,
   "s_count": 41,
   "a_count": 6,
-  "b_count": 611,
+  "b_count": 615,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -39,9 +39,9 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
-      "title": "芳醇な香りと深いうまみ・コクを楽しめる、ひと手間かけたおいしさの緑茶「キリン 生茶 熟成」を10月13日（火）より新発売！",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1006_01.html",
-      "published_at": "2026-10-06T04:00:05",
+      "title": "公正取引委員会による当社子会社への捜索について",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1007_01.pdf",
+      "published_at": "2026-10-07T02:00:05",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
@@ -52,8 +52,30 @@
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-10-06T00:00:00",
+      "published_at": "2026-10-07T00:00:00",
       "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 여주시·이마트와 손잡고 ‘햇반 여주쌀밥’ 선보인다2026.10.07",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1834",
+      "published_at": "2026-10-07T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "芳醇な香りと深いうまみ・コクを楽しめる、ひと手間かけたおいしさの緑茶「キリン 生茶 熟成」を10月13日（火）より新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1006_01.html",
+      "published_at": "2026-10-06T04:00:05",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -274,6 +296,17 @@
       "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/121",
       "published_at": "2026-09-30T00:00:00",
       "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-recognized-on-forbes-worlds-best-employers-2026-list",
+      "published_at": "2026-09-30T00:00:00",
+      "summary": "General Mills Recognized on Forbes’ World's Best Employers 2026 List",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -7270,6 +7303,17 @@
       "url": "https://xi.pepsico.hypeinnovation.com",
       "published_at": "",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "Restaurant Hospitality NewsCJ CheilJedang Brings Korean Spirits Brand Jari to U.S. Restaurants",
+      "url": "https://rhfnews.com/article/cj-cheiljedang-brings-korean-spirits-brand-jari-to-u-s-restaurants",
+      "published_at": "",
+      "summary": "Restaurant Hospitality News",
       "level": "B",
       "level_reason": "企业动态"
     }
