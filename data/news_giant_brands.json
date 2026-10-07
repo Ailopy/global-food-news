@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T14:40:03",
+  "last_updated": "2026-10-07T22:06:07",
   "retention_days": 7,
   "total": 662,
   "s_count": 41,
@@ -65,6 +65,17 @@
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1834",
       "published_at": "2026-10-07T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-recognized-on-forbes-worlds-best-employers-2026-list",
+      "published_at": "2026-10-07T00:00:00",
+      "summary": "General Mills Recognized on Forbes’ World's Best Employers 2026 List",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -296,17 +307,6 @@
       "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/121",
       "published_at": "2026-09-30T00:00:00",
       "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "General Mills",
-      "brand_cn": "通用磨坊",
-      "region": "北美",
-      "title": "Continue Reading",
-      "url": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-recognized-on-forbes-worlds-best-employers-2026-list",
-      "published_at": "2026-09-30T00:00:00",
-      "summary": "General Mills Recognized on Forbes’ World's Best Employers 2026 List",
       "level": "B",
       "level_reason": "企业动态"
     },
