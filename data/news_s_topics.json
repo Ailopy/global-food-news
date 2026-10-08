@@ -1,31 +1,241 @@
 {
-  "total": 339,
+  "total": 344,
   "s_plus_count": 43,
   "sites": [
-    "日経xTrend",
     "Food Dive",
+    "Packaging Digest",
     "日経新聞",
-    "Packaging Digest"
+    "日経xTrend"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "其他": 195,
-    "品牌故事": 11,
+    "营销创新": 22,
+    "渠道新物种": 9,
     "新产品": 61,
+    "其他": 198,
+    "品牌故事": 11,
     "行业政策": 21,
     "新包装": 2,
-    "营销创新": 22,
-    "渠道新物种": 7,
     "联名营销": 12,
     "并购融资": 5,
     "新原料": 3
   },
-  "last_updated": "2026-10-07 14:40",
-  "last_updated_iso": "2026-10-07T14:40:20.557302+08:00",
+  "last_updated": "2026-10-08 14:46",
+  "last_updated_iso": "2026-10-08T14:46:39.369035+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "米コカ・コーラが広告代理店の契約刷新を検討 幹部が語る「求める価値」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00006/?n_cid=nbpnxr_rss",
+      "summary": "米Coca-Colaは2021年11月に、広告代理店大手の英WPPをグローバルのマーケティング・ネットワーク・パートナーに選定したと発表している。それから約5年、同社は代理店の契約更新に向けた検討を進めているという。米有力誌ADWEEKが開催した年次イベント「Brandweek」で、コカ・コーラのCMO兼CCOであるマノロ・アロヨ氏は、クリエイター及びリテールメディアが次の代理店を選定する上で重要な要素になると語った。",
+      "published_at": "2026-10-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        },
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-10-08T14:46:23+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "レビュー熱量はHIKAKIN麦茶よりビリヤニ コンビニnote記事ランキング",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01492/00002/?n_cid=nbpnxr_rss",
+      "summary": "ここ数年続く物価高や、「まいばすけっと」をはじめとする小型スーパーの興隆などの影響で、コンビニの店舗数は近年、頭打ちだ。そうした逆風下でも、各社は商品開発や販促施策に力を注いでいる。消費者はコンビニのどの商品に注目しているのか。長文のレビューが集まりやすい「note」に投稿されたセブンイレブン、ファミリーマート、ローソンの商品レビューを分析し、話題を集める商品の共通点を探った",
+      "published_at": "2026-10-08T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-10-08T14:46:23+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「飲むほど関係が深まる」ネスレの新アプリ 新型バリスタの習慣化戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02981/?n_cid=nbpnxr_rss",
+      "summary": "食品飲料大手のネスレ日本は2026年10月1日、「ネスカフェ」専用コーヒーメーカー「ネスカフェ ゴールドブレンド バリスタ kotone」を発売した。ブランドのフラッグシップになる製品で、従来モデルからデザインを刷新し静音性をアップ。同時リリースのアプリ「NESCAFÉ」で飲用の習慣化を促し、CRM戦略の強化を図る。",
+      "published_at": "2026-10-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-08T14:46:23+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ユニクロが需要の変化でマスク再販を決断 終売後も集めた顧客の声が鍵",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01963/?n_cid=nbpnxr_rss",
+      "summary": "ユニクロの店頭に、3年ぶりにマスクが帰ってきた。新型コロナウイルス禍のマスク不足を背景に2020年6月に発売されたものの、23年に終売していた「エアリズム3Dマスク」を26年8月に再販した。これは単なる復刻ではない。終売後もカスタマーセンターやご意見箱、店頭などに再販を望む声が届き続け、ユニクロはそれらを基に耳ひも、サイズ、カラーをアップデート。顧客の声を再販につなげた「VoC活用」と、そこから明らかになった「ニーズの変化」の2つの視点から、再販の背景を読み解く。",
+      "published_at": "2026-10-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-08T14:46:23+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "酒税“値上げ”で発泡酒はピンチか アサヒとキリンの勝ち残り戦略",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01493/00005/?n_cid=nbpnxr_rss",
+      "summary": "酒税一本化でビールとの価格差が縮小し、発泡酒の最大の武器だった「安さ」は揺らいだ。そこで、発泡酒を展開する各社は「安さの代替品」からの脱却を進めている。糖質ゼロやプリン体ゼロに加え、甘味料ゼロまで訴求し、より健康価値を強化した「トリプルゼロ」商品が登場する一方、糖質70％オフなどで味と健康の両立を図る商品も好調だ。あえて“昇格”を狙わない商品の「理由」を分析した。",
+      "published_at": "2026-10-08T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-08T14:46:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「飲むほど関係が深まる」ネスレの新アプリ 新型バリスタの習慣化戦略",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNakZ3Zl9ZUVhDNzBXZmE4M3NJR1Vndm8zTEtxWHlRZHdNQ0phSlpXX1JaV21BUlJIa3J5QUozVmExbExHS29BLTJ6ZnRZazlHRVdHTVJhWTJNOUZ3MzdON21DZkFKbW9mS25uSTF5X0M0bnFhREdHcHlXOGhVMDFaRkl5Rm1RNEVodFl2SkVVSkY3TjQ?oc=5",
+      "summary": "「飲むほど関係が深まる」ネスレの新アプリ 新型バリスタの習慣化戦略&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-08T14:46:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "レビュー熱量はHIKAKIN麦茶よりビリヤニ コンビニnote記事ランキング",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNXJyMFV5cjNaV2pCNXNNSUQ0amtQa3ZQdnpESkhabzFxdFdIbkg1ZVdHa3FuMnJxYlZERWctRFU3TjU2azNtQVZnVDJnTi00em5pSzNNc0lLYmlpcC1aOFJxNk0tZS1oS0xnSWdzaTRZeG5KZDhKZWgydlJiaGlBV1RJcUVDUENkMU9WQTdvNA?oc=5",
+      "summary": "レビュー熱量はHIKAKIN麦茶よりビリヤニ コンビニnote記事ランキング&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-10-08T14:46:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "酒税“値上げ”で発泡酒はピンチか アサヒとキリンの勝ち残り戦略",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZOFV4ekR5bXlUTHEwcGs0bUpQWjRNaFl4Q2duQnlpeThUOVlLX1I0aGF1UnpEajNsbTRBdmotd01XVmtvMjVCTk9udm1XbFpxeVg0MkozY2FPX1VrLWlfNldXSDhLZw?oc=5",
+      "summary": "酒税“値上げ”で発泡酒はピンチか アサヒとキリンの勝ち残り戦略&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-07T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-08T14:46:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品事業 輸出事業 コーヒー・ 茶類事業 農産事業",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtncUZlS0ZzU3U4WmFVZ1dBaG9SeVZiV3Zvak1sM0RPaVd2SWVsN0hYTVl6UUpMWGRUUEZpMDhEYWRna3Vwal9jeENHUWtGWE5iZ25BX2VIeGdjTUZhaDN3Q19DTU1ZWDl1T19NenJvaDNQVTczYm9VWnctbnFHU3JRZElOM3d4RGtZLVBFTUl0U0lCVW5lUnJ0Sm8?oc=5",
+      "summary": "食品事業 輸出事業 コーヒー・ 茶類事業 農産事業&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-10-07T06:26:20Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-08T14:46:20+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -201,6 +411,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-07T14:40:04+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（323ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2TmpWSEpiVkhXTGNfeEtjRFBVZjdaZmhaYnJWWl9EVEdqeldWcHRHVG1PYXM5a3NMWjl2TElsUEZVS2YydVlJQVFGTU1RZDF5LXkxVHdzSGN1ODhUWXYtZ2Y0V3Jub2c?oc=5",
+      "summary": "食品・飲料（323ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-06T11:35:25Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-08T14:46:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（33ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qNHJkTlU1MnhlUF9GRFFwS0E0V3owWFpCQVFKaENsd3p5MmF3cUhCUGpQay11dVpzVWhEWFloN3NoWEs4MnVvdC1vdlBUajhBbjhnd1hVU083OFV5by1fUzdCdnVEdw?oc=5",
+      "summary": "食品・飲料（33ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-06T07:31:58Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-08T14:46:20+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -709,6 +963,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-07T14:40:04+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（320ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbG1rZ1FHSHZqdGVDS1gwTjJtTTk2M2pNN2p1UDdIV2RoWHAzOUhrbEUwSGRPQkxQQUgtUEExSk1TNm1tcnVldGFyZVQ3ZG1DdnpTTlJteGFyVDdzQlRuUGRQV0pQSkE?oc=5",
+      "summary": "食品・飲料（320ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-04T15:13:40Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-08T14:46:20+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5521,122 +5797,6 @@
       "scraped_at": "2026-09-10T13:25:22+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ANA／JALマイルかWAON POINT交換か 5大共通ポイントの出口戦略",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00002/?n_cid=nbpnxr_rss",
-      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。「PayPayポイント」や「dポイント」などに代表される「共通ポイント」は、「どう使うか」という「出口戦略」が重要になっている。WAON POINTやマイルへの交換、ポイント運用の活用術など、1P＝1円超の価値を狙うための最適ルートを徹底解説する。",
-      "published_at": "2026-09-07T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-07T13:23:27+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "【お得な購読キャンペーン】日経クロストレンドのリニューアルキャンペーン開始！ 月額プランも年額プランもお得に",
-      "url": "https://xtrend.nikkei.com/info/18/00006/00451/?n_cid=nbpnxr_rss",
-      "summary": "日経クロストレンドは2026年9月1日から、リニューアルを記念したキャンペーンを開始しました。月額プランが「最大2カ月無料」、年額プランも通常12カ月のところ、14カ月間お読みいただけます。リニューアルに合わせて掲載する5大特集、専門家による新連載、毎月提供する独自データをお得に利用いただけるチャンスです。",
-      "published_at": "2026-09-07T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-09-07T13:23:27+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "1位は「サントリー『－196』の競合の盲点を突く戦略 調査で見えた消費者の真実」 ちょうど1年前振り返りランキング",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00130/?n_cid=nbpnxr_rss",
-      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年9月7日～10月4日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
-      "published_at": "2026-09-07T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-07T13:23:27+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "アサヒ・ドライを追うサントリーの思惑 ノンアルにエールの風",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01459/00005/?n_cid=nbpnxr_rss",
-      "summary": "ノンアルビールに“新風”を吹き込めるか。サントリーが2026年4月に発売した「オールフリー〈エールテイスト〉」が売れ行き好調だ。新商品の初動を採点する独自指標「ヒット商品指数」では、65の高スコアを記録した。近年、ノンアルコール飲料市場は拡大を続け、ビール大手は続々と新商品を展開している。そんな中で、サントリーの狙いはどこにあるのか。人気ブランド「オールフリー」の強みを生かしながら、企画開発やプロモーションを組み合わせる、その戦略に迫る。",
-      "published_at": "2026-09-07T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 2
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-07T13:23:27+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "USJで『バイオハザード』新アトラクション 未来消費カレンダー",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00246/?n_cid=nbpnxr_rss",
-      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年9月11日「USJ、『バイオハザード レクイエム』 ザ・ダイブ開催」ほか18件の情報を追加した。",
-      "published_at": "2026-09-07T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "話題",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-07T13:23:27+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -6015,138 +6175,6 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-09-24T13:36:42+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "米特使、ゼレンスキー氏に「戦争終結案」提示3カ国協議の再開模索",
-      "url": "https://xtrend.nikkei.com/article/DGXZQOGR0701D0X00C26A9000000/",
-      "summary": "",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-07T13:23:25+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "放出備蓄米59万トン、再び「封印」作戦買い戻しでは足りず倉庫保管",
-      "url": "https://xtrend.nikkei.com/article/DGXZQOUB033EE0T00C26A9000000/",
-      "summary": "",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-07T13:23:25+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "「リフレやめよ」しびれ切らすベッセント氏日米、新たな摩擦の火種",
-      "url": "https://xtrend.nikkei.com/article/DGXZQOGN052ZN0V00C26A9000000/",
-      "summary": "",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-07T13:23:25+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "米同時テロ後、むしろ世界はフラットに相互依存と技術革新の四半世紀",
-      "url": "https://xtrend.nikkei.com/article/DGXZQOCD031WA0T00C26A9000000/",
-      "summary": "",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-07T13:23:25+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "米中のAI覇権争い、性能は肉薄資金力の米vsコスパの中国",
-      "url": "https://xtrend.nikkei.com/article/DGXZQOCD175A10X10C26A8000000/",
-      "summary": "",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-07T13:23:25+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "米の現代自EV工場で見たロボ1400体対ヒト比率は2:1、平均の3倍超",
-      "url": "https://xtrend.nikkei.com/article/DGXZQOGN19BGL0Z10C26A8000000/",
-      "summary": "",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-07T13:23:25+08:00"
     },
     {
       "site_name": "Food Dive",
@@ -7735,6 +7763,94 @@
       ],
       "primary_category": "新原料",
       "scraped_at": "2026-10-07T14:40:16+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Mars hikes use of sustainably sourced cocoa, but falls short of 2025 goal",
+      "url": "https://www.fooddive.com/news/mars-sustainably-cocoa-goals/832032/",
+      "summary": "The candy maker’s suppliers sourced 98% of cocoa through a responsible sourcing program last year.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-08T14:46:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Protein is maxed out. Here’s where CPG growth is hiding.",
+      "url": "https://www.fooddive.com/spons/protein-is-maxed-out-heres-where-cpg-growth-is-hiding/829875/",
+      "summary": "Protein claims are everywhere. Here's the shelf strategy that still moves volume.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-08T14:46:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Ferrero launches Nutella-filled frozen waffles",
+      "url": "https://www.fooddive.com/news/ferrero-nutella-waffles-breakfast-innovation/832036/",
+      "summary": "The product, set to launch in the U.S. next spring, is meant to be a premium option in a space that has lacked meaningful innovation, an executive said.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-08T14:46:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Diageo to shutter Guinness brewery in Baltimore",
+      "url": "https://www.fooddive.com/news/guinness-brewery-closure-baltimore-maryland/832102/",
+      "summary": "The alcohol company is undergoing a $1 billion savings initiative that has involved restructuring its entire business.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-08T14:46:34+08:00"
     }
   ]
 }
