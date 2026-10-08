@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-07T22:06:07",
+  "last_updated": "2026-10-08T14:46:20",
   "retention_days": 7,
-  "total": 662,
-  "s_count": 41,
+  "total": 666,
+  "s_count": 42,
   "a_count": 6,
-  "b_count": 615,
+  "b_count": 618,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,50 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "日本初 花粉・ホコリ・ハウスダストなどによる鼻の不快感を緩和するKW乳酸菌を配合 機能性表示食品「キリン アレルバランス 鼻の不快感ケア」を10月13日新発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1008_03.pdf",
+      "published_at": "2026-10-08T06:30:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "赤ちゃんラボ5.0と連携し、子どもの健やかな成長を支える取り組みを開始",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1008_01.html",
+      "published_at": "2026-10-08T05:30:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, CJ더마켓서 가을 맞이 ‘더세페’ 할인 행사… 최대 75% 할인2026.10.08",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1835",
+      "published_at": "2026-10-08T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "BridgeBioによる軟骨無形成症の小児患者を対象とした経口薬infigratinibの米国FDA申請受理および優先審査指定取得のお知らせ",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20261007_01.pdf",
+      "published_at": "2026-10-07T08:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "重磅新政"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
