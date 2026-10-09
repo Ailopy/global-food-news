@@ -1,21 +1,21 @@
 {
-  "total": 344,
-  "s_plus_count": 43,
+  "total": 352,
+  "s_plus_count": 44,
   "sites": [
-    "Food Dive",
-    "Packaging Digest",
+    "日経xTrend",
     "日経新聞",
-    "日経xTrend"
+    "Food Dive",
+    "Packaging Digest"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "营销创新": 22,
-    "渠道新物种": 9,
+    "其他": 205,
+    "渠道新物种": 11,
     "新产品": 61,
-    "其他": 198,
+    "营销创新": 21,
     "品牌故事": 11,
     "行业政策": 21,
     "新包装": 2,
@@ -23,9 +23,229 @@
     "并购融资": 5,
     "新原料": 3
   },
-  "last_updated": "2026-10-08 14:46",
-  "last_updated_iso": "2026-10-08T14:46:39.369035+08:00",
+  "last_updated": "2026-10-09 14:54",
+  "last_updated_iso": "2026-10-09T14:54:27.170489+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "400万枚超のレシート分析 ドラッグで食品を買うのは女性よりも男性",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01483/00007/?n_cid=nbpnxr_rss",
+      "summary": "スーパー、ディスカウントストア、ドラッグストアといった業態ごとの垣根が崩れ、乱戦模様になっている小売業界。では消費者はそれぞれの業態をどう使い分けているのだろうか。今回、月間アクティブユーザー347万人を有するレシート買い取りアプリ「レシチャレ」の協力を得て、膨大な数のレシート情報から、消費者がどこで、何を買っているのかを分析した。見えてきたのはドラッグストア業態の底堅い強さだ。",
+      "published_at": "2026-10-09T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:11+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "レゾナック髙橋CEOが語る時間の優先順位 年に1000人超の従業員と対話",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01060/00010/?n_cid=nbpnxr_rss",
+      "summary": "昭和電工と旧日立化成の統合を経て、2023年に誕生した大手化学メーカーのレゾナック。その変革の舵を取るのが、三菱銀行、米コロンビア大学MBA、日本GEなどを経て社長に就任した髙橋秀仁氏だ。「社長の仕事は企業価値の最大化だけ」と言い切る髙橋氏は、何に時間を使い、何をやらないのか。その仕事観と、経営者を志した原点に迫った。",
+      "published_at": "2026-10-09T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:11+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "正解にとらわれず、AIにはない「自分だけの地形」を手に入れよ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00859/00010/?n_cid=nbpnxr_rss",
+      "summary": "ビジネスシーンおける「パーソナルブランディング」の重要性を説く本連載。3年間にわたる連載期間中に生成AIによりパラダイムシフトを迎えた現代において、私たちは「個の強み」をどのように磨き、アピールすべきか。「世間の正解という地図の外に出て、自分だけの地形を手に入れる」。最終回では、著者が米国生活の中で得たこの実感を伝える。",
+      "published_at": "2026-10-09T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:11+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "熱狂呼ぶ新フィットネス チケット1万枚超が即完売、参加で分かった魅力",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00630/00031/?n_cid=nbpnxr_rss",
+      "summary": "ランニングと筋トレを合わせたフィットネスレース「HYROX（ハイロックス）」が世界中を熱狂させている。日本で2026年8月に開かれた大会では1万2000枚のチケットがわずか1時間で完売となった。ランニングの合間に100キログラムを超えるおもりを押すなど、競技は過酷だ。女性記者2人が実際に参加し、その魅力を探った。",
+      "published_at": "2026-10-09T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "即完売",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:11+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ファミチキ、からあげクンだけじゃない コンビニ3社の推され商品分析",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01492/00003/?n_cid=nbpnxr_rss",
+      "summary": "日本のコンビニは、セブンイレブン、ファミリーマート、ローソンの3大チェーンが中心。お気に入りの店舗がある人もいるだろう。ではこの3チェーンの人気商品にはどのような違いがあるのか。今回は、2026年3～8月に「note」に投稿された商品レビュー記事を分析。記事数やその推移に加え、1記事当たりのPV（ページビュー）や書き手の熱量などを比較した。推されている商品がある分野の傾向を基に、その強みを探った。",
+      "published_at": "2026-10-09T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-10-09T14:54:11+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "シチズン躍進を支える「エコ・ドライブ」 50年目は若者の時計復活を狙う",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01460/00002/?n_cid=nbpnxr_rss",
+      "summary": "シチズンが好調だ。時計事業では北米を中心とした海外での販売が大きく伸びている。それを支える要素の一つが、2026年に発売50周年を迎えた光発電技術「エコ・ドライブ」だ。近年のサステナブル意識にマッチすると同時に、時計ファンや富裕層にアピールする高級モデルにも搭載されている。どう発展してきたのか。",
+      "published_at": "2026-10-09T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-09T14:54:11+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1本当たり単価が右肩上がりのノンアル 捉えた空白市場、次は昼飲み",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01493/00004/?n_cid=nbpnxr_rss",
+      "summary": "酒税法の改正により商品戦略が入り乱れるビール市場の一方で、「ノンアルビール」とも呼ばれる、ノンアルコールビールテイスト飲料の市場が好調だ。各社がビールに近い本格的な味わいに磨きをかけるだけでなく、新たなユーザーや「飲む場面」の開拓にも動く。消費者ニーズや各社の狙いはどこにあるのか。消費者調査から見えてきた「空白市場」と、そこへの仕掛けを追った。",
+      "published_at": "2026-10-09T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "仕掛け",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:11+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ドラッグストアで食品を買うのは女性よりも男性 400万枚超のレシートから見えた購買の真実",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNczV6Y1dBZzRfdzVXV09HVXRobGpaa0FiYjA4dEhlMG14LW0xbjVtUXlWNDVEaExST01adTdQLWZ2TllkV0VEMmZUaDJ3aUVLWVh0QWt6TG9nZm1fUGs4OXA0c3h4M0tOc0IwZ25WQ0ZVeGFNYWpsNk9JdEdzN3ZQNWd6ZU9seDFkN19n?oc=5",
+      "summary": "ドラッグストアで食品を買うのは女性よりも男性 400万枚超のレシートから見えた購買の真実&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-08T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:09+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ファミチキ、からあげクンだけじゃない コンビニ3社の推され商品分析",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2RZUVlUZkx5NmpINDc4V0JCOHpTMDZ0NUxsMlZRTi1xbVpqSGQ2Z0lLSjVrYkVCVWpYOGw4MlFCZWloMFBETGtFQjc2V3d1b29HSWZTZjFFdzF3NUFKaTdKaU1ORFlQdWZLcTYzNVNtLTJEcThIN21qR21xY1BVcTdYOFVDUl9JeDVPNjYxMA?oc=5",
+      "summary": "ファミチキ、からあげクンだけじゃない コンビニ3社の推され商品分析&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-08T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-10-09T14:54:09+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "観光、飲食、プロダクトで多くの日本企業や地方自治体がJapan Expo2026に参戦",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFI0dU14M0k0OFk2ME44cDlzX0ZtMVktTWQ2RVF0eWVWRGlULXVTeVZaUTF5a2ctWUdiUVdTSnhhNHZCdW1iSTBtN1NqRnp4X0ZPUm1Odm80M1dsRjVDb1g4QmM4ZEFmNk5sUWcxUTQ1eXRWdlJpSWhsRW5iMkU5REZvd2tZNkloSHJvRmpjdw?oc=5",
+      "summary": "観光、飲食、プロダクトで多くの日本企業や地方自治体がJapan Expo2026に参戦&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-08T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:09+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -417,6 +637,50 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "カルビー、明治に続きグリコも“腸活事業”参入 強気の約8万円でも好感触",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNTlGeHJkUlRMOUxWUDVIX25JZE9FcEJfVFJha3JxVXg2SThMYnNPb3Bzdmt5WTd4dDdmMHlUOHA4cnVQX3JLaFFFS29KLU9OR2ZTMUJZdkpuQV9oREpfMWkzLURfRllzNkNhbG5SWngxdFI0TGx1eER6OV82eWZKTjhtN3lydHk3dzVMZ0NuZElVYXo3?oc=5",
+      "summary": "カルビー、明治に続きグリコも“腸活事業”参入 強気の約8万円でも好感触&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-06T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:09+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXZib2VDM3R4Uno0SExuSzJGY2hyZm5odUdiTmVJTmYxM1JMT0prN3dfRUZTeVZEWXpKU1d4ZHZNNF8tamRORXNGbEZ3UEpYZHo0eFRPR3BHRE15dTBUdWg4RnFsUkhITzlsZDJBWXdMUER0LWgxdDFqcUo2YlNSVEVCdTlnVVdDMkd3?oc=5",
+      "summary": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-06T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:09+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "食品・飲料（323ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2TmpWSEpiVkhXTGNfeEtjRFBVZjdaZmhaYnJWWl9EVEdqeldWcHRHVG1PYXM5a3NMWjl2TElsUEZVS2YydVlJQVFGTU1RZDF5LXkxVHdzSGN1ODhUWXYtZ2Y0V3Jub2c?oc=5",
       "summary": "食品・飲料（323ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -671,6 +935,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-07T14:40:04+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "サントリー金麦は一番搾り超え？ 発泡酒のビール化、4社の姿勢に濃淡",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXdQaDZUclZuX2Y4Y3ZlVjk4TERsc2lHWDhxc1FJd0N1Wkl4cjNEaUJXdHRaLTUwMVVMRzdDTE5oLWdpV1VIY3hMbHdrZ2hrVjFaQkx5dW4wcS1YNHBpczhkU2luVkhTR29ucXN0WEtCSWR0WldDRXhJTmxDaUVkYkpVZVpfM3BFcF9RcU94MVM3aFhLY2c?oc=5",
+      "summary": "サントリー金麦は一番搾り超え？ 発泡酒のビール化、4社の姿勢に濃淡&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-05T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:09+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5577,72 +5863,6 @@
       "scraped_at": "2026-09-09T13:28:23+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ピンキー“吸う菓子”で復活 湖池屋が狙う太らないリフレッシュ体験",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01453/00002/?n_cid=nbpnxr_rss",
-      "summary": "「菓子は食べるもの」という常識を、湖池屋が覆した。平成に一世を風靡したタブレット菓子「ピンキー」のIPを生かし、ミストを吸って甘い味を楽しむ「ピンキーミスト」を2026年7月上旬に発売。ドン・キホーテ専売商品ながら、完売が相次ぎ、なんと売り上げは計画比5倍に到達。狙ったのは、カロリーを気にせず気分転換ができる、全く新しいリフレッシュ体験だ。異色の菓子は、どのような発想から生まれたのか。その開発過程を追う。",
-      "published_at": "2026-09-08T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "完売",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-08T13:25:32+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "米シカゴに「オバマ大統領センター」 市民活動の場にも",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00947/00315/?n_cid=nbpnxr_rss",
-      "summary": "「オバマ大統領センター」が米シカゴの新たなランドマークとして注目されている。米国立公文書記録管理所が運営する「大統領センター」は、各大統領の退任後に重要な資料を保管し、功績を展示する建物で、一般人が訪問できる場所では全米に15カ所。オバマ大統領センターの特徴は過去の業績を見せるだけでなく、未来に向けて市民の活動の場も提供する点だ。",
-      "published_at": "2026-09-08T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-08T13:25:32+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "スーパーの食品ロスを削減する最新AI技術 フードバンクには災難",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00079/00365/?n_cid=nbpnxr_rss",
-      "summary": "需要を予測し、食品ロスを削減するため、スーパーマーケットが新たなAIツールを採用している。スーパーにとっての効果が上がる一方で、食品の寄付を募り、支援が必要な人々に配る活動を進めているフードバンクの多くは、寄付そのものが減少し始めたと危機感を強めている。",
-      "published_at": "2026-09-08T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-08T13:25:32+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5713,50 +5933,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "スーパーの食品ロスを削減する最新AI技術 フードバンクには災難",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xN0pIcm4tSU1UUjBhNzV5WVFreEM0YmJPMVFjMzJsMS1TcnZKak5odzlUZkUwcHUxT0dpaUVkblotblExYlBUb3E2c0xTNVNwOEM4WEJ3bWVLMmlYUE9YZkdLQi1OUQ?oc=5",
-      "summary": "スーパーの食品ロスを削減する最新AI技術 フードバンクには災難&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-07T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-08T13:25:29+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "ピンキー“吸う菓子”で復活 湖池屋が狙う太らないリフレッシュ体験",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UMnVibllFMlVqVWZxdm5uUGFjVkstS3VnYl9wdWhQbDNibjFaYjEtUUFTNGRJb3FCdW9nS1B6TWVuRUFkMnhxaVJldHdYaFNQcTluVU51QkllNzF1VFJycVk0TkNnQQ?oc=5",
-      "summary": "ピンキー“吸う菓子”で復活 湖池屋が狙う太らないリフレッシュ体験&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-07T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-08T13:25:29+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（104ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FTFAzX1JENklwZFk4blZsZmJtYzA5VTJNTUduZVcwUTJTTC1NdEdVdTVrZDcxdWxDX0hNUkt6QjZWWlhvRG9BNkpvdlJxR1dWMTFENm0yVEYxYl8yVHhseDgzREVURGs?oc=5",
       "summary": "食品・飲料（104ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -5795,116 +5971,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-10T13:25:22+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "アサヒ・ドライを追うサントリーの思惑 ノンアルにエールの風",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzYm5hUHdBSmUxMTFNWkxCUGs2T3ZQQXhvckJNWnZRWlQ5WDBSZlBveVBpQVhxbUtIVldXUzdhVWpFbzhMalp0NWQyaWZrZjNDN0d0T2x6UWxrOG1ZY3R3VXczdjBjQQ?oc=5",
-      "summary": "アサヒ・ドライを追うサントリーの思惑 ノンアルにエールの風&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-06T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-07T22:34:57+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "【お得な購読キャンペーン】日経クロストレンドのリニューアルキャンペーン開始！ 月額プランも年額プランもお得に",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kb01ubnZieWJjd1gyTUEyMXJBY1V3Ukh0NGluVkhETGExS3AwT2RDV2V5SWJiRC1LNE1xaWJyTXF5Y0JqajVsM2RFRGd1S1duci0yMV9fWFBvQQ?oc=5",
-      "summary": "【お得な購読キャンペーン】日経クロストレンドのリニューアルキャンペーン開始！ 月額プランも年額プランもお得に&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-06T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-09-07T22:34:57+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "日清食品",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObjFkMWtvb3lQUDB5SXB0TVh4ZDI1TU1yV1hxNVZSNjRBX1FJeHNpdXdyVGs4NExhMEEtdWkxZFJnYWRQNGM2UnlXR0tIN0pmY1g1Z2FCeWZMUElvRmFkSjIwaVRRUm52Ri1RRkE5R3pKU0JzVUFjTGRvQmJIcmF4UFduUndKeWliTlN2amh5VVM?oc=5",
-      "summary": "日清食品&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-06T02:15:51Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-07T22:34:57+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（189ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45SVVQS1NSNG1ab01xaG1yVzVJTzF5djBVT1p2MFpKTXk1Q3YxQ2xsWktNOWROTXZ0ZmVNbF9sM2FxN092Y3VDdWNUMTNxRW15SVpGazNxUG1VUHhmTnJzOUZ6V2FSUUU?oc=5",
-      "summary": "食品・飲料（189ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-04T13:52:09Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-07T22:34:57+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（44ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PMXdvSlhsNEt1dk5nQ19OWTVZMXNoSlU0dGlYMWkyYnRxSmNUMTVCZ29pQlVjdXFrek5nWlNiQWJ2R0JQZzFtLXFpa04wTVlrTHVVcWJkdXhnM2RoWms5cW9pVm9OUQ?oc=5",
-      "summary": "食品・飲料（44ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-03T20:06:15Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-08T13:25:29+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -7851,6 +7917,116 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-08T14:46:34+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Modelo maker buys boozy sports drink SpikedAde for $75M",
+      "url": "https://www.fooddive.com/news/constellation-brands-buys-spikedade-75-million/832374/",
+      "summary": "The beer maker is broadening its portfolio with the vodka and sports drink brand as it looks to tap into growing demand for RTDs.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:22+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nutella maker Ferrero building a sweets ‘powerhouse’ in the US",
+      "url": "https://www.fooddive.com/news/Ferrero-Nutella-innovation-snacking-Hershey-Mars/832071/",
+      "summary": "The company is increasing marketing and innovation as it aims to nearly double sales to $20 billion through a portfolio of candies, cereals and more.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:22+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Ghirardelli brings 174-year-old chocolate brand to packaged cookies",
+      "url": "https://www.fooddive.com/news/ghirardelli-chocolate-packaged-cookies-snacking/832262/",
+      "summary": "The baked good will be pitted against other premium offerings in the nearly $19 billion cookie space, such as Mondelēz’s Tate’s.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:22+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Kraft Mac & Cheese enters first new category in decades with cheesy ramen",
+      "url": "https://www.fooddive.com/news/kraft-mac-and-cheese-cheesy-ramen-product-innovation/832222/",
+      "summary": "The launch comes as owner Kraft Heinz invests $700 million into marketing, sales, and R&D under CEO Steve Cahillane to drive growth.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:22+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Top food and beverage industry events in 2027",
+      "url": "https://www.fooddive.com/news/top-food-beverage-industry-trade-shows-2027/832232/",
+      "summary": "A list of must-attend conferences and trade shows for professionals to keep up with the biggest innovations and consumer trends set to define next year.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-09T14:54:22+08:00"
     }
   ]
 }

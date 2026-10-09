@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-08T22:15:51",
+  "last_updated": "2026-10-09T14:54:08",
   "retention_days": 7,
-  "total": 666,
-  "s_count": 42,
+  "total": 668,
+  "s_count": 43,
   "a_count": 6,
-  "b_count": 618,
+  "b_count": 619,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "Far Yeast Brewingが「Far Yeast Grapevine 2026」に加えて、新たに蒸留酒「Azeotrope Grapevine GIN」も新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1009_01.pdf",
+      "published_at": "2026-10-09T02:00:10",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "芳醇な巨峰の豊かな果実感で、秋のひとときをちょっと特別に。「キリン 氷結&reg; 巨峰スパークリング（期間限定）」発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1009_02.html",
+      "published_at": "2026-10-09T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
