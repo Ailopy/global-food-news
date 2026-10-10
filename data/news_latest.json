@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-10T18:31:24.081144+08:00",
+  "last_updated": "2026-10-10T22:54:17.980451+08:00",
   "retention_days": 7,
-  "total": 572,
+  "total": 569,
   "sources": [
     "BevNET",
     "Fab News",
@@ -6844,42 +6844,6 @@
       "region": "日本",
       "category": "综合",
       "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "049da19845574a77",
-      "title": "Publisher’s Platform: Put me out of the lettuce business, please",
-      "summary": "The largest Cyclospora outbreak in American history is over, and the next crop is going in the ground. Washington dismantled the system that would have caught it, Congress wrote letters instead of…",
-      "url": "https://www.foodsafetynews.com/2026/10/publishers-platform-put-me-out-of-the-lettuce-business-please/",
-      "published_at": "2026-10-03T20:36:21+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "d14e0ff446c808ec",
-      "title": "Publisher’s Platform: Put Me Out of the Lettuce Business. Please.",
-      "summary": "The largest Cyclospora outbreak in American history is over, and the next crop is going in the ground. Washington dismantled the system that would have caught it, Congress wrote letters instead of…",
-      "url": "https://www.foodsafetynews.com/2026/10/publishers-platform-put-me-out-of-the-lettuce-business-please/",
-      "published_at": "2026-10-03T20:36:21+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "fab0a21472f799d2",
-      "title": "経産省、横浜で循環型消費を身近に PAC-MANで参加促す、サントリーは水平リサイクル訴求",
-      "summary": "経済産業省は10月3日、横浜市の「MARK IS みなとみらい」で、「サーキュラーエコノミーアクションWeek」のシンボリックアクションを開始した。館内で資源の分別やリサイクルにつながる行動をした来場者が、ゲーム「PAC...",
-      "url": "https://www.ssnp.co.jp/beverage/705272/",
-      "published_at": "2026-10-03T18:35:59+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
       "language": "ja"
     }
   ]
