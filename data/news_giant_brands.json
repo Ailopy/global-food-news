@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-09T22:01:51",
+  "last_updated": "2026-10-10T14:30:35",
   "retention_days": 7,
-  "total": 668,
+  "total": 669,
   "s_count": 43,
-  "a_count": 6,
+  "a_count": 7,
   "b_count": 619,
   "brands": [
     "亿滋",
@@ -56,6 +56,17 @@
       "summary": "",
       "level": "S",
       "level_reason": "营销创新"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/pillsbury-doughboy-serves-up-over-the-top-biscuit-sandwiches-in-partnership-with-chain",
+      "published_at": "2026-10-09T00:00:00",
+      "summary": "The Pillsbury Doughboy Serves Up Over-the-Top Biscuit Sandwiches in Partnership with Chain at the Limited-Time Short King Sandwich Shoppe",
+      "level": "A",
+      "level_reason": "常规新品/营销"
     },
     {
       "brand": "Kirin",
