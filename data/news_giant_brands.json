@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-12T14:41:43",
+  "last_updated": "2026-10-13T00:22:15",
   "retention_days": 7,
-  "total": 669,
+  "total": 670,
   "s_count": 43,
   "a_count": 7,
-  "b_count": 619,
+  "b_count": 620,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Coca-Cola",
+      "brand_cn": "可口可乐",
+      "region": "北美",
+      "title": "FeaturedSprite Expands Global Basketball Footprint With NBA’s Nikola Jokić12 October 2026CompanyBrands",
+      "url": "https://www.coca-colacompany.com/media-center/sprite-global-basketball-nikola-jokic",
+      "published_at": "2026-10-12T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
