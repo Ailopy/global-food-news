@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T13:17:53.282543+08:00",
+  "last_updated": "2026-10-13T13:54:14.321595+08:00",
   "retention_days": 7,
   "total": 534,
   "sources": [
@@ -18,6 +18,30 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "abf1d27b366e4cc2",
+      "title": "松屋「たっぷり牛皿定食」790円でレギュラー化、牛めし大盛り分の肉を味わう新メニュー",
+      "summary": "牛丼チェーンの「松屋」は10月13日午後3時、「たっぷり牛皿定食」を発売する。牛めしの大盛りサイズに相当する肉を楽しめる定食で、価格は790円。肉の量を増やした「特盛牛皿定食」も990円で販売する。定食メニューのため、ご...",
+      "url": "https://www.ssnp.co.jp/foodservice/706735/",
+      "published_at": "2026-10-13T13:46:22+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "5222d5a0121824c9",
+      "title": "今週新発売のおやつ🍩まとめ！『ほぼクリームのケーキ』、『レアチーズケーキ　余市産ブルーベリーソース使用』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！おやつの新商品情報をお届けします。今週新発売の#おやつファミリーマート ファミマルSweets ほぼクリームのケーキスポンジで…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101306/?utm_source=rss&utm_medium=mognavinews_20261013",
+      "published_at": "2026-10-13T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "39e26bae74e901e8",
       "title": "【2026年10月第2週】カップうどん・そばランキング1位はボストン風クラムチャウダーうどん！久しぶりランクインも話題まとめ",
@@ -6400,30 +6424,6 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "78ca4ede84ac2a91",
-      "title": "今週新発売のセブンイレブンお弁当🍱まとめ！『温玉とりそぼろ丼』、『サラダ巻』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンお弁当の新商品情報をお届けします。今週新発売の#セブンイレブンお弁当セブン-イレブン 温玉とりそぼろ丼温玉と鶏肉…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026100606/?utm_source=rss&utm_medium=mognavinews_20261007",
-      "published_at": "2026-10-06T13:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "18e0ca7580717ebc",
-      "title": "今週新発売のセブンイレブンお弁当🍱まとめ！『温玉とりそぼろ丼』、『サラダ巻』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンお弁当の新商品情報をお届けします。今週新発売の#セブンイレブンお弁当セブン-イレブン 温玉とりそぼろ丼温玉と鶏肉…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026100606/?utm_source=rss&utm_medium=mognavinews_20261006",
-      "published_at": "2026-10-06T13:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
       "language": "ja"
     }
   ]
