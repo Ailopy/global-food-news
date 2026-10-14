@@ -2,9 +2,9 @@
 # GitHub Actions — 自动抓取 + 部署
 # 触发时间：北京时间 08:00 / 09:00 / 12:00 / 15:00 / 17:00
 #   - 08:00 → RSS 资讯抓取（UTC 00:00）★ A+ 来源优先
-#   - 09:00 → 巨头官网爬虫 + S级选题爬虫 + 食品政策监控（UTC 01:00）
+#   - 09:00 → 巨头官网爬虫 + S级选题爬虫 + 食品政策监控 + 每日跟踪（UTC 01:00）
 #   - 12:00 → RSS 资讯抓取 + 巨头官网爬虫（UTC 04:00）
-#   - 15:00 → 巨头官网爬虫（UTC 07:00）
+#   - 15:00 → 巨头官网爬虫 + 每日跟踪（UTC 07:00）
 #   - 17:00 → RSS 资讯抓取 + S级选题爬虫（UTC 09:00）
 # ============================================================
 
@@ -341,6 +341,80 @@ jobs:
           if [ -f web/data/news_policy.json ]; then
             PL_TOTAL=$(python -c "import json; print(len(json.load(open('web/data/news_policy.json'))))")
             echo "- 总条数：$PL_TOTAL（近7天 · S+/S/A/B 分级）" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- 数据文件未生成，请检查日志" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "- 更新时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" >> $GITHUB_STEP_SUMMARY
+
+  # ── Job 5: 每日跟踪（09:00 / 15:00）────────────────────────
+  fetch-daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    # 每天北京时间 09:00（UTC 01:00）与 15:00（UTC 07:00）抓取指定源最新资讯
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'schedule' && (
+        github.event.schedule == '0 1 * * *' ||
+        github.event.schedule == '0 7 * * *'
+      ))
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape daily tracking sources
+        run: |
+          cd scripts
+          python daily_track_scraper.py
+        continue-on-error: true
+
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --quiet web/data/news_daily_track.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push daily tracking data
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/data/news_daily_track.json
+          git commit -m "chore: 每日跟踪资讯更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./web
+          publish_branch: gh-pages
+          force_orphan: false
+          commit_message: "deploy: 每日跟踪更新 $(date '+%Y-%m-%d %H:%M')"
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## 每日跟踪抓取结果" >> $GITHUB_STEP_SUMMARY
+          if [ -f web/data/news_daily_track.json ]; then
+            DT_TOTAL=$(python -c "import json; d=json.load(open('web/data/news_daily_track.json')); print(d.get('total',0))")
+            DT_S=$(python -c "import json; d=json.load(open('web/data/news_daily_track.json')); print(d.get('s_count',0))")
+            DT_SRC=$(python -c "import json; d=json.load(open('web/data/news_daily_track.json')); print(len(d.get('sources',[])))")
+            echo "- 总条数：$DT_TOTAL | S级：$DT_S | 数据源：$DT_SRC（近1个月 · 按时间倒序）" >> $GITHUB_STEP_SUMMARY
           else
             echo "- 数据文件未生成，请检查日志" >> $GITHUB_STEP_SUMMARY
           fi
