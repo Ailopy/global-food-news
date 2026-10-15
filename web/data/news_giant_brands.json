@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-14T20:35:34",
+  "last_updated": "2026-10-15T20:20:34",
   "retention_days": 7,
-  "total": 675,
-  "s_count": 43,
+  "total": 680,
+  "s_count": 44,
   "a_count": 7,
-  "b_count": 625,
+  "b_count": 629,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,61 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "12月30日（水）「キリンチャレンジカップ2026」を大阪で開催決定",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1015_03.html",
+      "published_at": "2026-10-15T08:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "スッキリ飲みやすい「氷結&reg;無糖 ALC.4％」からみずみずしい果実感の「キリン 氷結&reg;無糖 和梨 ALC.4％（期間限定）」登場！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1015_01.html",
+      "published_at": "2026-10-15T02:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「午後の紅茶 おいしい無糖」の研究から、紅茶ポリフェノールによる油の付着抑制作用を発見！紅茶の「油が口に残りにくい」「食事の後味がすっきりする」を科学的に説明する新知見",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1015_02.html",
+      "published_at": "2026-10-15T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-10-15T00:00:00",
+      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "味の素㈱の「AI献立プランナー」が2026年度グッドデザイン賞を受賞",
+      "url": "https://news.ajinomoto.co.jp/2026/10/20261015.html",
+      "published_at": "2026-10-15T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -186,17 +241,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1007_01.html",
       "published_at": "2026-10-07T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-10-07T00:00:00",
-      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -7457,6 +7501,17 @@
       "url": "https://rhfnews.com/article/cj-cheiljedang-brings-korean-spirits-brand-jari-to-u-s-restaurants",
       "published_at": "",
       "summary": "Restaurant Hospitality News",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nestlé",
+      "brand_cn": "雀巢",
+      "region": "日本",
+      "title": "ネスレS.A.の歩み",
+      "url": "https://www.nestle.co.jp/aboutus/global/global-history",
+      "published_at": "",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     }
