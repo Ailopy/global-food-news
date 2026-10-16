@@ -1583,7 +1583,7 @@ function renderDailyView() {
       <div style="grid-column:1/-1;text-align:center;padding:60px 24px;color:#7a9478;">
         <div style="font-size:3rem;margin-bottom:16px;">📡</div>
         <p style="font-weight:600;font-size:1rem;">每日跟踪资讯加载中…</p>
-        <p style="font-size:.875rem;margin-top:8px;opacity:.7;">每日 09:00 / 15:00 自动抓取，保留最近1个月</p>
+        <p style="font-size:.875rem;margin-top:8px;opacity:.7;">每日 09:00 / 15:00 自动抓取，保留最近7天</p>
       </div>`;
     return;
   }
@@ -1634,7 +1634,7 @@ function renderDailyView() {
   <div class="daily-intro">
     <div class="daily-heading-row">
       <h2 class="daily-heading">📡 每日跟踪 · 全球食品最新动态</h2>
-      <span class="daily-update-badge">每日 09:00 / 15:00 · 近1个月 · 按时间排序</span>
+      <span class="daily-update-badge">每日 09:00 / 15:00 · 近7天 · 按时间排序</span>
     </div>
     <p class="daily-sub">按国家/网站跟踪指定源最新发布 · 自动分类（新产品/新包装/新技术/新原料等）· <b>S级</b>=全球首创/首款/爆品/爆卖</p>
   </div>

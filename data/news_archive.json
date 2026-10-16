@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-10-16T10:11:41.856783+08:00",
-  "total": 12222,
+  "last_updated": "2026-10-16T10:47:39.268929+08:00",
+  "total": 12227,
   "articles": [
+    {
+      "id": "ff631a3a0bfb0bff",
+      "title": "『星のカービィ』×チロルチョコ、2商品を発売　ひと粒タイプは “いちごショートケーキ”を表現",
+      "summary": "チロルチョコ株式会社は10月19日、任天堂が手がけるゲームシリーズ『星のカービィ』とのコラボレーション商品として、「星のカービィチロルチョコBOX」(12個入り)を全国で発売する。BOXのデザインは全4種類で、税込参考価...",
+      "url": "https://www.ssnp.co.jp/snack/707235/",
+      "published_at": "2026-10-16T10:46:32+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "e2f5ba35bc60b15a",
+      "title": "今週新発売の菓子パン🍫まとめ！『メロッペ　さつまいもホイップ』、『しっとりふんわり贅沢なチョコ蒸し』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング メロッペ さつまいもホイップふんわりソフトなコッペパンの上…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101603/?utm_source=rss&utm_medium=mognavinews_20261016",
+      "published_at": "2026-10-16T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f0520f1f086ad318",
+      "title": "【第67回全国味噌鑑評会】前年から19品増の306品を審査中 / 11月19日表彰式、当日は13時まで出品された全てのみそを展示･入退場自由",
+      "summary": "中央味噌研究所は15日、第67回全国味噌鑑評会に関する記者会見を開いた。小川由高理事が今回の開催概要を説明し、審査長を務める柏木豊理事が審査会の報告をした。なお、熊本地震による出品数への影響はみられなかった。 審査会期は...",
+      "url": "https://www.ssnp.co.jp/soy/707245/",
+      "published_at": "2026-10-16T10:28:49+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "dc9f6a45d1de2b98",
+      "title": "Raw milk cheese recalled after testing finds E. coli",
+      "summary": "Family Farmstead Dairy of Worcester, NY, is recalling some of its raw milk cheddar cheese because it may be contaminated with E. coli O157:H7 bacteria. The product was distributed to grocers in NY…",
+      "url": "https://www.foodsafetynews.com/2026/10/raw-milk-cheese-recalled-after-testing-finds-e-coli/",
+      "published_at": "2026-10-16T10:19:11+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5b5bc1319fde73e6",
+      "title": "久世福商店「2027年福袋」全5種　ごはんのお供からワイン・日本酒入りまで",
+      "summary": "サンクゼールが展開する「久世福商店」は11月20日、オンラインショップで「2027新春福袋」の販売を開始する。同日から、全国の久世福商店の店舗では予約受付を開始する。 福袋は「梅」「竹」「松」と、オンラインショップ限定の...",
+      "url": "https://www.ssnp.co.jp/distribution/707218/",
+      "published_at": "2026-10-16T10:17:05+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
     {
       "id": "d724c026e38c89b0",
       "title": "「BOSCO」新CMを放映開始 うまさ、ぎゅぎゅっと、早摘みオリーブ篇 日清オイリオグループ",
