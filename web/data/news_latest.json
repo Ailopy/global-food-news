@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-16T11:00:31.677694+08:00",
+  "last_updated": "2026-10-16T11:39:24.899031+08:00",
   "retention_days": 7,
-  "total": 506,
+  "total": 507,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,42 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "8f7c18bd6fd3cff5",
+      "title": "【平和堂中間期決算】中間期は増収・大幅減益、2030年にはPB比率25%目指す",
+      "summary": "平和堂の27年2月期中間期連結決算は、営業収益は前年比3･1%増の2304億8900万円、営業利益17･1%減の56億6500万円、経常利益17･6%減の61億9000万円、中間期純利益は27･0%減の35億8000万円...",
+      "url": "https://www.ssnp.co.jp/distribution/707281/",
+      "published_at": "2026-10-16T11:30:29+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "d091ff8438021822",
+      "title": "今週新発売の菓子パン🍫まとめ！『くるみ＆チーズ』、『もちっとマーブルキャラメル』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング くるみ＆チーズルヴァン種入りの生地にクルミを練り込み、チー…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101604/?utm_source=rss&utm_medium=mognavinews_20261016",
+      "published_at": "2026-10-16T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6f3f8ab8a3c6aed2",
+      "title": "紀ノ国屋「おいものスイーツバッグ」発売　秋色バッグ5色、焼き菓子3種入りで1944円",
+      "summary": "紀ノ国屋は10月19日から、各店舗で季節限定商品「おいものスイーツバッグ」を発売する。オンラインストアでは、すでに先行販売している。 「おいものスイーツバッグ」は、秋の味覚であるさつまいもや紫いもを使った焼き菓子3種を、...",
+      "url": "https://www.ssnp.co.jp/distribution/707270/",
+      "published_at": "2026-10-16T11:11:10+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
     {
       "id": "efe809cdebb2edc2",
       "title": "【2026年10月第3週】コンビニドリンク・コンビニカップ飲料ランキング1位はライチ香るジャスミンティー！秋の注目ドリンクまとめ",
@@ -6060,30 +6096,6 @@
       "url": "https://shokuhin.net/158206/2026/10/09/kakou/nyu/",
       "published_at": "2026-10-09T11:53:58+08:00",
       "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "451eb4ee45ce99dd",
-      "title": "今週新発売の菓子パン🍫まとめ！『メガライチュウＸのＷクリームパン』、『コッペパン　大阪府産夢シルクいものあん＆ホイップ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン メガライチュウXのWクリームパン2種類のカスタード風味クリームを…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026100904/?utm_source=rss&utm_medium=mognavinews_20261010",
-      "published_at": "2026-10-09T11:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "7845d02356627964",
-      "title": "今週新発売の菓子パン🍫まとめ！『メガライチュウＸのＷクリームパン』、『コッペパン　大阪府産夢シルクいものあん＆ホイップ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パン第一パン メガライチュウXのWクリームパン2種類のカスタード風味クリームを…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026100904/?utm_source=rss&utm_medium=mognavinews_20261009",
-      "published_at": "2026-10-09T11:30:00+08:00",
-      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-15T20:20:34",
+  "last_updated": "2026-10-16T11:40:26",
   "retention_days": 7,
-  "total": 680,
-  "s_count": 44,
+  "total": 681,
+  "s_count": 45,
   "a_count": 7,
   "b_count": 629,
   "brands": [
@@ -36,6 +36,28 @@
   ],
   "articles": [
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-10-16T00:00:00",
+      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.16湖池屋「大正メークイン ポテトチップス (のり塩 / じゃがいもと塩 / 金のコンソメ)」(10月19日より数量限定発売)",
+      "url": "https://www.nissin.com/jp/news/13954/",
+      "published_at": "2026-10-16T00:00:00",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -65,17 +87,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1015_02.html",
       "published_at": "2026-10-15T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-10-15T00:00:00",
-      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
