@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-16T10:47:39.356986+08:00",
+  "last_updated": "2026-10-16T10:58:47.767149+08:00",
   "retention_days": 7,
-  "total": 506,
+  "total": 507,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,18 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "972e9ee83075e5a6",
+      "title": "【てんや】「鮮やか ベジポテ天丼」発売、スタッフ考案のポテサラ天など6種の野菜天丼",
+      "summary": "天丼チェーンの「てんや」は、店舗スタッフが考案した新作天丼の中から優秀作品を商品化する第6回「俺と私の天丼コンテスト」の金賞商品「鮮やか ベジポテ天丼」を、10月22日(木)から数量限定で販売する。価格は税込790円。販...",
+      "url": "https://www.ssnp.co.jp/foodservice/707256/",
+      "published_at": "2026-10-16T10:53:57+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
     {
       "id": "ff631a3a0bfb0bff",
       "title": "『星のカービィ』×チロルチョコ、2商品を発売　ひと粒タイプは “いちごショートケーキ”を表現",
@@ -1626,18 +1638,6 @@
       "language": "en"
     },
     {
-      "id": "b8848f6d1e0529ca",
-      "title": "今週新発売の卵料理まとめ！『ふわふわ玉子と豆腐の中華あんかけスープ』、『濃厚豚骨醤油ご飯　半熟煮玉子おむすび』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！卵料理の新商品情報をお届けします。今週新発売の#卵料理セブン-イレブン ふわふわ玉子と豆腐の中華あんかけスープ鶏ガラとを魚介の…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101407/?utm_source=rss&utm_medium=mognavinews_20261016",
-      "published_at": "2026-10-14T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "6e5cae985f64afe3",
       "title": "Personalised diet shows greater durability than low-FODMAP at 12 months",
       "summary": "Dr Varol Tunali, Chief Medical Officer, and Esra Sensez, Scientific Content and Research Associate, at Enbiosis Biotechnology, examine what the evidence means for nutraceutical formulation",
@@ -1648,6 +1648,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "b8848f6d1e0529ca",
+      "title": "今週新発売の卵料理まとめ！『ふわふわ玉子と豆腐の中華あんかけスープ』、『濃厚豚骨醤油ご飯　半熟煮玉子おむすび』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！卵料理の新商品情報をお届けします。今週新発売の#卵料理セブン-イレブン ふわふわ玉子と豆腐の中華あんかけスープ鶏ガラとを魚介の…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101407/?utm_source=rss&utm_medium=mognavinews_20261016",
+      "published_at": "2026-10-14T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "5939b3fd258cb01b",
