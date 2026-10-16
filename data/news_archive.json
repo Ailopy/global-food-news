@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-16T10:58:47.620039+08:00",
-  "total": 12228,
+  "last_updated": "2026-10-16T11:00:31.579953+08:00",
+  "total": 12229,
   "articles": [
+    {
+      "id": "efe809cdebb2edc2",
+      "title": "【2026年10月第3週】コンビニドリンク・コンビニカップ飲料ランキング1位はライチ香るジャスミンティー！秋の注目ドリンクまとめ",
+      "summary": "10月も半ばを過ぎ、少しずつ肌寒さを感じる季節になってきましたね。そんな時期でも、コンビニのドリンクコーナーにはバラエティ豊かな飲み物がずらりと並んでいます。…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-28657/?utm_source=rss&utm_medium=mognavinews_20261016",
+      "published_at": "2026-10-16T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "972e9ee83075e5a6",
       "title": "【てんや】「鮮やか ベジポテ天丼」発売、スタッフ考案のポテサラ天など6種の野菜天丼",
@@ -1623,18 +1635,6 @@
       "language": "en"
     },
     {
-      "id": "6e5cae985f64afe3",
-      "title": "Personalised diet shows greater durability than low-FODMAP at 12 months",
-      "summary": "Dr Varol Tunali, Chief Medical Officer, and Esra Sensez, Scientific Content and Research Associate, at Enbiosis Biotechnology, examine what the evidence means for nutraceutical formulation",
-      "url": "https://nutraceuticalbusinessreview.com/personalised-diet-shows-greater-durability-than-low-fodmap",
-      "published_at": "2026-10-14T15:00:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
       "id": "b8848f6d1e0529ca",
       "title": "今週新発売の卵料理まとめ！『ふわふわ玉子と豆腐の中華あんかけスープ』、『濃厚豚骨醤油ご飯　半熟煮玉子おむすび』など♪",
       "summary": "こんにちは、もぐナビ編集部です！卵料理の新商品情報をお届けします。今週新発売の#卵料理セブン-イレブン ふわふわ玉子と豆腐の中華あんかけスープ鶏ガラとを魚介の…",
@@ -1645,6 +1645,18 @@
       "category": "综合",
       "level": "A",
       "language": "ja"
+    },
+    {
+      "id": "6e5cae985f64afe3",
+      "title": "Personalised diet shows greater durability than low-FODMAP at 12 months",
+      "summary": "Dr Varol Tunali, Chief Medical Officer, and Esra Sensez, Scientific Content and Research Associate, at Enbiosis Biotechnology, examine what the evidence means for nutraceutical formulation",
+      "url": "https://nutraceuticalbusinessreview.com/personalised-diet-shows-greater-durability-than-low-fodmap",
+      "published_at": "2026-10-14T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "5939b3fd258cb01b",
