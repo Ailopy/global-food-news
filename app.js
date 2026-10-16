@@ -226,6 +226,7 @@ const DATA_URL        = "./data/news_latest.json";
 const GIANTS_DATA_URL = "./data/news_giant_brands.json";
 const STOPICS_DATA_URL = "./data/news_s_topics.json";
 const POLICY_DATA_URL = "./data/news_policy.json";
+const DAILY_DATA_URL  = "./data/news_daily_track.json";
 const PAGE_SIZE  = 24;
 const DEBOUNCE_MS = 220;
 
@@ -305,6 +306,7 @@ const tabTopicsBtn   = document.getElementById("tabTopics");
 const tabGiantsBtn   = document.getElementById("tabGiants");
 const tabSTopicsBtn  = document.getElementById("tabSTopics");
 const tabPolicyBtn   = document.getElementById("tabPolicy");
+const tabDailyBtn    = document.getElementById("tabDaily");
 const mainContent  = document.getElementById("main");
 
 // ── 时间格式化 ─────────────────────────────────────────────────
@@ -935,6 +937,7 @@ function switchTab(tab) {
   tabGiantsBtn.classList.toggle("active", tab === "giants");
   tabSTopicsBtn.classList.toggle("active", tab === "stopics");
   tabPolicyBtn.classList.toggle("active", tab === "policy");
+  tabDailyBtn.classList.toggle("active", tab === "daily");
 
   const statsBar = document.getElementById("statsBar");
   const filterBars = [
@@ -944,6 +947,7 @@ function switchTab(tab) {
   ];
 
   const articlesGrid = document.getElementById("articlesGrid");
+  articlesGrid.classList.remove("daily-view");
 
   if (tab === "topics") {
     filterBars.forEach(el => { if (el) el.style.display = "none"; });
@@ -985,6 +989,15 @@ function switchTab(tab) {
     } else {
       renderPolicyView();
     }
+  } else if (tab === "daily") {
+    filterBars.forEach(el => { if (el) el.style.display = "none"; });
+    if (statsBar) statsBar.style.display = "none";
+    articlesGrid.classList.remove("topics-view", "giants-view", "stopics-view", "policy-view");
+    if (allDailyArticles.length === 0) {
+      loadDailyData().then(() => renderDailyView());
+    } else {
+      renderDailyView();
+    }
   } else {
     filterBars.forEach(el => { if (el) el.style.display = ""; });
     if (statsBar) statsBar.style.display = "";
@@ -1002,6 +1015,7 @@ tabTopicsBtn.addEventListener("click", () => switchTab("topics"));
 tabGiantsBtn.addEventListener("click", () => switchTab("giants"));
 tabSTopicsBtn.addEventListener("click", () => switchTab("stopics"));
 tabPolicyBtn.addEventListener("click", () => switchTab("policy"));
+tabDailyBtn.addEventListener("click",  () => switchTab("daily"));
 
 // ── 搜索防抖 ───────────────────────────────────────────────────
 let searchTimer = null;
@@ -1509,4 +1523,138 @@ function toggleAllPolicyLevels() {
   if (policyLevelsActive.size >= 4) policyLevelsActive.clear();
   else policyLevelsActive = new Set(all);
   renderPolicyView();
+}
+
+// ════════════════════════════════════════════════════════════
+// 每日跟踪 — 数据加载 + 渲染（时间倒序 + 国家/网站/分类标签）
+// ════════════════════════════════════════════════════════════
+const DAILY_CAT_META = {
+  "新产品":   { icon: "🆕", color: "#059669" },
+  "新包装":   { icon: "📦", color: "#7c3aed" },
+  "新技术":   { icon: "⚙️", color: "#1d4ed8" },
+  "新原料":   { icon: "🧪", color: "#0f766e" },
+  "新营销":   { icon: "📣", color: "#d97706" },
+  "企业动态": { icon: "🏢", color: "#475569" },
+  "财报":     { icon: "📊", color: "#b45309" },
+  "政策法规": { icon: "📜", color: "#dc2626" },
+  "人事":     { icon: "👤", color: "#6b7280" },
+  "其他":     { icon: "•",  color: "#9ca3af" },
+};
+const DAILY_MARKET_FLAG = { "日本": "🇯🇵", "北美": "🇺🇸", "韩国": "🇰🇷", "欧洲": "🇪🇺" };
+
+let allDailyArticles = [];
+let dailyMeta = { last_updated: "", total: 0, s_count: 0 };
+let dailyMarketsActive = new Set();
+let dailySourcesActive = new Set();
+
+async function loadDailyData() {
+  try {
+    const resp = await fetch(`${DAILY_DATA_URL}?t=${Date.now()}`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    allDailyArticles = Array.isArray(data) ? data : (data.articles || []);
+    dailyMeta = {
+      last_updated: (data && data.last_updated) || "",
+      total: (data && data.total) || allDailyArticles.length,
+      s_count: (data && data.s_count) || allDailyArticles.filter(a => a.s_level).length,
+    };
+    dailyMarketsActive = new Set(allDailyArticles.map(a => a.market));
+    dailySourcesActive = new Set(allDailyArticles.map(a => a.source));
+    return data;
+  } catch (err) {
+    console.error("每日跟踪数据加载失败:", err);
+    return null;
+  }
+}
+
+function renderDailyView() {
+  const articlesGrid = document.getElementById("articlesGrid");
+  const emptyState   = document.getElementById("emptyState");
+  const loadMoreWrap = document.getElementById("loadMoreWrap");
+  const statsBar     = document.getElementById("statsBar");
+  if (statsBar) statsBar.style.display = "none";
+  emptyState.classList.add("hidden");
+  loadMoreWrap.classList.add("hidden");
+  articlesGrid.classList.add("daily-view");
+  articlesGrid.classList.remove("policy-view", "giants-view", "stopics-view", "topics-view");
+
+  if (allDailyArticles.length === 0) {
+    articlesGrid.innerHTML = `
+      <div style="grid-column:1/-1;text-align:center;padding:60px 24px;color:#7a9478;">
+        <div style="font-size:3rem;margin-bottom:16px;">📡</div>
+        <p style="font-weight:600;font-size:1rem;">每日跟踪资讯加载中…</p>
+        <p style="font-size:.875rem;margin-top:8px;opacity:.7;">每日 09:00 / 15:00 自动抓取，保留最近1个月</p>
+      </div>`;
+    return;
+  }
+
+  const filtered = allDailyArticles.filter(a => dailyMarketsActive.has(a.market) && dailySourcesActive.has(a.source));
+  // 时间倒序为第一优先级（同日内 S级 优先）
+  const sorted = filtered.slice().sort((a, b) => {
+    const d = (b.published_at || "").localeCompare(a.published_at || "");
+    return d !== 0 ? d : (b.s_level ? 1 : 0) - (a.s_level ? 1 : 0);
+  });
+
+  const markets = [...new Set(allDailyArticles.map(a => a.market))];
+  const marketChips = markets.map(m => {
+    const cnt = allDailyArticles.filter(a => a.market === m).length;
+    const act = dailyMarketsActive.has(m);
+    return `<button class="daily-chip${act ? " active" : ""}" onclick="toggleDailyMarket(this,'${m}')">${DAILY_MARKET_FLAG[m] || "🌐"} ${m} <em>${cnt}</em></button>`;
+  }).join("");
+
+  const sources = [...new Set(allDailyArticles.map(a => a.source))];
+  const sourceChips = sources.map(s => {
+    const cnt = allDailyArticles.filter(a => a.source === s).length;
+    const act = dailySourcesActive.has(s);
+    return `<button class="daily-chip${act ? " active" : ""}" onclick="toggleDailySource(this,'${s.replace(/'/g, "")}')">${s} <em>${cnt}</em></button>`;
+  }).join("");
+
+  let listHTML = "";
+  sorted.forEach(a => {
+    const cat = DAILY_CAT_META[a.category] || DAILY_CAT_META["其他"];
+    const flag = DAILY_MARKET_FLAG[a.market] || "🌐";
+    const sBadge = a.s_level ? `<span class="daily-s-badge">🔴 S级</span>` : "";
+    listHTML += `
+    <a href="${a.url}" target="_blank" rel="noopener noreferrer" class="daily-card${a.s_level ? " daily-card-s" : ""}">
+      <div class="daily-card-top">
+        ${sBadge}
+        <span class="daily-cat" style="color:${cat.color}">${cat.icon} ${a.category || "其他"}</span>
+        <span class="daily-market">${flag} ${a.market || ""}</span>
+        <span class="daily-source">${a.source || ""}</span>
+        <span class="daily-date">${a.published_at || ""}</span>
+      </div>
+      <h3 class="daily-card-title">${a.title || ""}</h3>
+      ${a.title_original && a.title_original !== a.title ? `<p class="daily-card-orig">${a.title_original}</p>` : ""}
+      ${a.abstract ? `<p class="daily-card-abstract">${a.abstract}</p>` : ""}
+      ${a.s_level && a.s_reason ? `<p class="daily-card-sreason">🔴 命中 S级关键词：<b>${a.s_reason}</b></p>` : ""}
+    </a>`;
+  });
+
+  articlesGrid.innerHTML = `
+  <div class="daily-intro">
+    <div class="daily-heading-row">
+      <h2 class="daily-heading">📡 每日跟踪 · 全球食品最新动态</h2>
+      <span class="daily-update-badge">每日 09:00 / 15:00 · 近1个月 · 按时间排序</span>
+    </div>
+    <p class="daily-sub">按国家/网站跟踪指定源最新发布 · 自动分类（新产品/新包装/新技术/新原料等）· <b>S级</b>=全球首创/首款/爆品/爆卖</p>
+  </div>
+  <div class="daily-filter-bar"><span class="daily-filter-label">市场</span><div class="daily-filter-chips">${marketChips}</div></div>
+  <div class="daily-filter-bar"><span class="daily-filter-label">网站</span><div class="daily-filter-chips">${sourceChips}</div></div>
+  <div class="daily-stats">共 <b>${sorted.length}</b> 条 · 🔴 S级 <b>${sorted.filter(a => a.s_level).length}</b> 条 · 更新于 ${dailyMeta.last_updated || "—"}</div>
+  <div class="daily-list">${listHTML || '<div class="daily-empty">当前筛选条件下没有资讯</div>'}</div>
+  <div class="daily-note">
+    <strong>S级判定</strong>：全球首创/首款（世界初/首个/first-ever）、爆品/卖爆/热卖（売れ筋/爆売れ/best-selling）等明显创新性或爆品属性 ·
+    数据源：日本食粮新闻 · PRTIMES · CNBC · BeverageDaily · food today · Just Food · Dairy Reporter · 每日 09:00 / 15:00 抓取，超1个月自动清理
+  </div>`;
+}
+
+function toggleDailyMarket(btn, m) {
+  if (dailyMarketsActive.has(m)) { dailyMarketsActive.delete(m); btn.classList.remove("active"); }
+  else { dailyMarketsActive.add(m); btn.classList.add("active"); }
+  renderDailyView();
+}
+function toggleDailySource(btn, s) {
+  if (dailySourcesActive.has(s)) { dailySourcesActive.delete(s); btn.classList.remove("active"); }
+  else { dailySourcesActive.add(s); btn.classList.add("active"); }
+  renderDailyView();
 }

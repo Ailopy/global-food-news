@@ -1784,3 +1784,75 @@ footer {
 }
 .policy-note svg { flex-shrink: 0; margin-top: 2px; }
 
+/* ════════════════════════════════════════════════════════════
+   每日跟踪 Tab
+════════════════════════════════════════════════════════════ */
+.tab-btn-daily { position: relative; }
+.tab-btn-daily.active {
+  background: linear-gradient(135deg, #0f766e, #14b8a6) !important;
+  border-color: #0f766e !important;
+  color: #fff !important;
+}
+.tab-btn-daily:not(.active):hover { border-color: #14b8a6 !important; color: #0f766e !important; }
+
+.daily-view { display: block; }
+
+.daily-intro { padding: 20px 24px 12px; border-bottom: 1px solid var(--c-border); margin-bottom: 8px; }
+.daily-heading-row { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 6px; }
+.daily-heading { font-size: 1.25rem; font-weight: 800; color: var(--c-text-1); margin: 0; }
+.daily-update-badge {
+  font-size: .72rem; font-weight: 700; padding: 3px 10px; border-radius: 12px;
+  background: #ecfdf5; color: #0f766e; border: 1px solid #a7f3d0; white-space: nowrap;
+}
+.daily-sub { font-size: .82rem; color: var(--c-text-3); line-height: 1.6; margin: 6px 0 0; }
+.daily-sub b { color: #dc2626; }
+
+.daily-filter-bar {
+  display: flex; align-items: center; flex-wrap: wrap; gap: 10px;
+  padding: 10px 24px; border-bottom: 1px solid var(--c-border);
+}
+.daily-filter-label { font-size: .78rem; font-weight: 700; color: var(--c-text-3); }
+.daily-filter-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.daily-chip {
+  display: inline-flex; align-items: center; gap: 6px; font-size: .76rem; font-weight: 600;
+  padding: 4px 12px; border-radius: 16px; border: 1px solid var(--c-border);
+  background: var(--c-surface); color: var(--c-text-2); cursor: pointer; transition: all .15s ease;
+}
+.daily-chip em { font-style: normal; font-size: .72rem; opacity: .7; }
+.daily-chip.active { border-color: #14b8a6; color: #0f766e; background: #ecfdf5; }
+
+.daily-stats { padding: 8px 24px; font-size: .8rem; color: var(--c-text-3); }
+.daily-stats b { color: var(--c-text-1); }
+
+.daily-list { display: flex; flex-direction: column; padding: 0 24px; }
+.daily-card {
+  display: block; text-decoration: none; padding: 14px 8px 14px 0;
+  border-bottom: 1px solid var(--c-border); transition: background .15s ease;
+}
+.daily-card:hover { background: var(--c-surface-2, #f7faf7); }
+.daily-card-s {
+  border-left: 3px solid #dc2626; padding-left: 12px;
+  background: linear-gradient(90deg, #fef2f2, transparent 45%);
+}
+.daily-card-top { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 6px; font-size: .72rem; }
+.daily-s-badge {
+  font-weight: 800; color: #dc2626; background: #fef2f2; border: 1px solid #fecaca;
+  padding: 2px 8px; border-radius: 10px;
+}
+.daily-cat { font-weight: 700; }
+.daily-market { color: var(--c-text-2); font-weight: 600; }
+.daily-source { color: var(--c-text-3); padding: 1px 8px; border-radius: 8px; background: var(--c-surface-2, #f3f4f6); }
+.daily-date { color: var(--c-text-3); margin-left: auto; font-variant-numeric: tabular-nums; }
+
+.daily-card-title { font-size: .98rem; font-weight: 700; color: var(--c-text-1); line-height: 1.5; margin: 0 0 4px; }
+.daily-card-orig { font-size: .78rem; color: var(--c-text-3); margin: 0 0 4px; line-height: 1.5; }
+.daily-card-abstract {
+  font-size: .8rem; color: var(--c-text-2); line-height: 1.6; margin: 4px 0 0;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.daily-card-sreason { font-size: .74rem; color: #dc2626; margin: 6px 0 0; }
+.daily-empty { text-align: center; padding: 40px; color: var(--c-text-3); }
+.daily-note { font-size: .76rem; color: var(--c-text-3); line-height: 1.6; margin: 16px 24px 24px; }
+.daily-note strong { color: var(--c-text-2); }
+
+
