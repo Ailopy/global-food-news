@@ -89,17 +89,13 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add web/data/news_latest.json web/data/news_archive.json
-          git commit -m "chore: 自动更新资讯数据 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-          git push
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./web
-          publish_branch: gh-pages
-          force_orphan: false
-          commit_message: "deploy: 更新页面 $(date '+%Y-%m-%d %H:%M')"
+          git commit -m "chore: 自动更新资讯数据 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" || true
+          # 规避多 job 并行推送撞车：先拉取合并（冲突保留本地），再重试推送
+          for i in 1 2 3 4 5; do
+            git pull --no-rebase --no-edit -X ours origin master >/dev/null 2>&1 || true
+            if git push; then echo "pushed (try $i)"; break; fi
+            echo "push rejected, retry $i"; sleep 5
+          done
 
       - name: Summary
         if: always()
@@ -176,17 +172,13 @@ jobs:
           if ! git diff --quiet web/data/news_s_topics.json; then
             MSG="巨头+S级选题资讯更新"
           fi
-          git commit -m "chore: ${MSG} $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-          git push
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./web
-          publish_branch: gh-pages
-          force_orphan: false
-          commit_message: "deploy: 巨头资讯更新 $(date '+%Y-%m-%d %H:%M')"
+          git commit -m "chore: ${MSG} $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" || true
+          # 规避多 job 并行推送撞车：先拉取合并（冲突保留本地），再重试推送
+          for i in 1 2 3 4 5; do
+            git pull --no-rebase --no-edit -X ours origin master >/dev/null 2>&1 || true
+            if git push; then echo "pushed (try $i)"; break; fi
+            echo "push rejected, retry $i"; sleep 5
+          done
 
       - name: Summary
         if: always()
@@ -253,17 +245,13 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add web/data/news_s_topics.json
-          git commit -m "chore: S级选题17:00更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-          git push
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./web
-          publish_branch: gh-pages
-          force_orphan: false
-          commit_message: "deploy: S级选题17:00更新 $(date '+%Y-%m-%d %H:%M')"
+          git commit -m "chore: S级选题17:00更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" || true
+          # 规避多 job 并行推送撞车：先拉取合并（冲突保留本地），再重试推送
+          for i in 1 2 3 4 5; do
+            git pull --no-rebase --no-edit -X ours origin master >/dev/null 2>&1 || true
+            if git push; then echo "pushed (try $i)"; break; fi
+            echo "push rejected, retry $i"; sleep 5
+          done
 
       - name: Summary
         if: always()
@@ -322,17 +310,13 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add web/data/news_policy.json
-          git commit -m "chore: 政策类资讯更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-          git push
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./web
-          publish_branch: gh-pages
-          force_orphan: false
-          commit_message: "deploy: 政策资讯更新 $(date '+%Y-%m-%d %H:%M')"
+          git commit -m "chore: 政策类资讯更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" || true
+          # 规避多 job 并行推送撞车：先拉取合并（冲突保留本地），再重试推送
+          for i in 1 2 3 4 5; do
+            git pull --no-rebase --no-edit -X ours origin master >/dev/null 2>&1 || true
+            if git push; then echo "pushed (try $i)"; break; fi
+            echo "push rejected, retry $i"; sleep 5
+          done
 
       - name: Summary
         if: always()
@@ -394,17 +378,13 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add web/data/news_daily_track.json
-          git commit -m "chore: 每日跟踪资讯更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-          git push
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./web
-          publish_branch: gh-pages
-          force_orphan: false
-          commit_message: "deploy: 每日跟踪更新 $(date '+%Y-%m-%d %H:%M')"
+          git commit -m "chore: 每日跟踪资讯更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" || true
+          # 规避多 job 并行推送撞车：先拉取合并（冲突保留本地），再重试推送
+          for i in 1 2 3 4 5; do
+            git pull --no-rebase --no-edit -X ours origin master >/dev/null 2>&1 || true
+            if git push; then echo "pushed (try $i)"; break; fi
+            echo "push rejected, retry $i"; sleep 5
+          done
 
       - name: Summary
         if: always()
@@ -419,3 +399,25 @@ jobs:
             echo "- 数据文件未生成，请检查日志" >> $GITHUB_STEP_SUMMARY
           fi
           echo "- 更新时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')" >> $GITHUB_STEP_SUMMARY
+
+  # ── Job 6: 统一部署 Pages（等所有数据 job 完成后一次性部署，消除并发部署竞态）──
+  deploy-pages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    needs: [fetch-rss, fetch-giants, fetch-stopics-afternoon, fetch-policy, fetch-daily]
+    if: always()
+    steps:
+      - name: Checkout latest master
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./web
+          publish_branch: gh-pages
+          force_orphan: false
+          commit_message: "deploy: 数据更新 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
