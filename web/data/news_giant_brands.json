@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-16T13:14:36",
+  "last_updated": "2026-10-16T16:56:46",
   "retention_days": 7,
-  "total": 681,
+  "total": 682,
   "s_count": 45,
   "a_count": 7,
-  "b_count": 629,
+  "b_count": 630,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,17 @@
   ],
   "articles": [
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「人生を共に生きるウイスキー」が「2026 66th ACC TOKYO CREATIVITY AWARDS」マーケティング・エフェクティブネス部門およびデザイン部門の2部門でACCブロンズを受賞",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1016_01.pdf",
+      "published_at": "2026-10-16T08:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
@@ -56,6 +67,17 @@
       "summary": "",
       "level": "S",
       "level_reason": "营销创新"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "バイオ・ファインケミカル",
+      "url": "https://news.ajinomoto.co.jp/?genre=bio",
+      "published_at": "2026-10-16T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Kirin",
@@ -889,17 +911,6 @@
       "title": "中国で親しまれる蒸留酒「白酒」の新たな楽しみ方を提案、日本市場向けに開発した「沱牌永昌源 Japan Edition」と「董酒 White Label」を新発売",
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/0915_02.html",
       "published_at": "2026-09-15T02:00:05",
-      "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Ajinomoto",
-      "brand_cn": "味之素",
-      "region": "日本",
-      "title": "バイオ・ファインケミカル",
-      "url": "https://news.ajinomoto.co.jp/?genre=bio",
-      "published_at": "2026-09-15T00:00:00",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
