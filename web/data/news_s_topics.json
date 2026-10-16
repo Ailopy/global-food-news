@@ -3922,6 +3922,28 @@
       "scraped_at": "2026-10-06T14:58:31+08:00"
     },
     {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（351ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44WVdNekhZei1OdzRxTUcybjVYUDFHN19GZEFtNXRVT3Q5c00xSHZkcnU1SG9pN3EzbnBka0ZKSTd3dGZBV2tuR2J0ZFNBT1l3X1c3WHFVdUtRUDZzWDRUTjVyeWRFVGs?oc=5",
+      "summary": "食品・飲料（351ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-09-25T03:21:54Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-16T11:39:06+08:00"
+    },
+    {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
       "region": "日本",
