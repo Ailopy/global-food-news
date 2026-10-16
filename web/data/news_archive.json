@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-10-16T16:55:30.498825+08:00",
-  "total": 12254,
+  "last_updated": "2026-10-16T21:37:24.679798+08:00",
+  "total": 12266,
   "articles": [
+    {
+      "id": "d91f02cc639d9212",
+      "title": "Sunshine Buns Raises $7M, Launches At Target",
+      "summary": "Frozen cinnamon roll brand Sunshine Buns is in the process of raising a $7 million round as it enters 1,000 Target locations nationwide.",
+      "url": "https://www.nosh.com/news/2026/sunshine-buns-raises-7m-launches-at-target",
+      "published_at": "2026-10-16T21:24:04+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "7404dd65e5feb75d",
+      "title": "New Beverages: Happy Doomsday To You; Bragg Finds Its ‘Zing’",
+      "summary": "This week's new product gallery features a Happy team of superheroes, the latest protein/energy drink, and a new RTD line from the king of ACV.",
+      "url": "https://www.bevnet.com/news/2026/new-beverages-happy-doomsday-to-you-bragg-finds-its-zing",
+      "published_at": "2026-10-16T21:15:06+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "1ed740c7c56610cd",
+      "title": "Azúcar Tequila Recruits the Cavinder Twins for New Tequila RTD",
+      "summary": "Influencers and former collegiate basketball players Haley and Hanna Cavinder are aiming to throw Azúcar Tequila an alley-oop as the creative directors of its new ready-to-drink (RTD) margaritas, the…",
+      "url": "https://www.bevnet.com/spirits/2026/azucar-tequila-recruits-the-cavinder-twins-for-new-tequila-rtd",
+      "published_at": "2026-10-16T20:30:20+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "b7c47c9ff68bf689",
+      "title": "Standard Process launches MediHerb GLP-1 herbal supplement",
+      "summary": "The new hops and feverfew formula targets satiety signalling and digestive health, as Standard Process expands its practitioner-focused nutrition portfolio amid growing interest in GLP-1 pathways",
+      "url": "https://nutraceuticalbusinessreview.com/standard-process-launches-mediherb-glp-1-herbal-supplement",
+      "published_at": "2026-10-16T17:49:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "be0923f25827e75a",
+      "title": "今週新発売の惣菜パンまとめ！『肉じゃがコロッケとマカロニサラダ』、『台湾唐揚げ風　横濱炸鶏排監修』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック 肉じゃがコロッケとマカロニサラダ一方のパンには肉じ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101608/?utm_source=rss&utm_medium=mognavinews_20261016",
+      "published_at": "2026-10-16T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "801ca97ed371b0b5",
+      "title": "【しゃぶしゃぶ温野菜】学生限定「食べ飲み放題」、2,500円で40品以上が食べ放題",
+      "summary": "しゃぶしゃぶチェーンの「しゃぶしゃぶ温野菜」は、10月19日（月）から11月30日（月）まで、学生グループ限定の「食べ飲み放題」を平日限定・店舗限定で実施する。 肉、野菜、逸品料理、〆ものなど40品以上の食べ放題にソフト...",
+      "url": "https://www.ssnp.co.jp/foodservice/707419/",
+      "published_at": "2026-10-16T17:29:48+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "b01b74aa24360a41",
+      "title": "Layn Natural Ingredients expands monk fruit sweetener range for SupplySide Global",
+      "summary": "The company will showcase new monk fruit decoction powders and liquids at SupplySide Global 2026, alongside sweetener, weight management and gut health ingredients",
+      "url": "https://nutraceuticalbusinessreview.com/layn-natural-ingredients-expands-monk-fruit-sweetener-range",
+      "published_at": "2026-10-16T17:20:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "65394bf4c581add0",
       "title": "【かっぱ寿司】「〆こはだ」「〆こはだ炙り」が各110円、江戸前寿司の定番を食べ比べ",
@@ -57,6 +141,18 @@
       "url": "https://shokuhin.net/158473/2026/10/16/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
       "published_at": "2026-10-16T15:02:05+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4195969483be715f",
+      "title": "今週新発売の惣菜パンまとめ！『もっちりチーズスティック』、『マヨ好きの照り焼きチキンマヨパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンリョーユーパン もっちりチーズスティック 袋1個もっちりとした生地でチーズ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101607/?utm_source=rss&utm_medium=mognavinews_20261016",
+      "published_at": "2026-10-16T15:00:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -123,6 +219,18 @@
       "language": "ja"
     },
     {
+      "id": "3d464826f7439214",
+      "title": "今週新発売の菓子パン🍫まとめ！『白もっちあわせ　こしあん』、『生クリーム入り黒糖あずきブレッド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング 白もっちあわせ こしあんもちもちの蒸しぱん生地になめらかな…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101606/?utm_source=rss&utm_medium=mognavinews_20261016",
+      "published_at": "2026-10-16T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5ebaab272028b969",
       "title": "ファミマ×『PEANUTS』、反響を受け3年目　スヌーピーがモチーフのスイーツなど販売、オリジナルグッズのプレゼント企画も",
       "summary": "ファミリーマートは10月20日から、『PEANUTS』とのコラボレーションキャンペーン「スヌーピーと楽しむ、ファミマの秋」を、全国約1万6,500店舗で実施する。 『PEANUTS』とのコラボキャンペーンは2024年4月...",
@@ -153,6 +261,30 @@
       "url": "https://shokuhin.net/158479/2026/10/16/kakou/seifun/",
       "published_at": "2026-10-16T13:04:47+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9472562f2369b602",
+      "title": "【2026年10月第3週】コンビニドーナツランキング1位はチョコづくめのケーキドーナツ！新商品＆久しぶり登場が続々のまとめ",
+      "summary": "今週のコンビニドーナツランキング、さっそくチェックしていきましょう！チョコレートからきなこ、いちごまで、今週も個性豊かなドーナツたちがずらりと勢揃いしました。…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-28691/?utm_source=rss&utm_medium=mognavinews_20261016",
+      "published_at": "2026-10-16T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7fcf36dda05f77fb",
+      "title": "今週新発売の菓子パン🍫まとめ！『りんごぱん　くるみ入り』、『シューロール　和栗クリーム＆ホイップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング りんごぱん くるみ入り湯捏生地入りの生地にクルミを練り込み…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101605/?utm_source=rss&utm_medium=mognavinews_20261016",
+      "published_at": "2026-10-16T12:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -265,6 +397,18 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "0667e0bb0c6d129e",
+      "title": "【2026年10月第3週】コンビニコーヒーランキング1位はセブンカフェ アイスティー！秋の新作フラッペも話題まとめ",
+      "summary": "2026年10月第3週のコンビニコーヒーランキングが出そろいました。秋らしい季節感あふれるフラッペからスタンダードなアイスコーヒーまで、今週もバラエティ豊かな…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-28690/?utm_source=rss&utm_medium=mognavinews_20261016",
+      "published_at": "2026-10-16T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "8f7c18bd6fd3cff5",
