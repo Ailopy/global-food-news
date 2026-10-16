@@ -414,7 +414,7 @@ jobs:
             DT_TOTAL=$(python -c "import json; d=json.load(open('web/data/news_daily_track.json')); print(d.get('total',0))")
             DT_S=$(python -c "import json; d=json.load(open('web/data/news_daily_track.json')); print(d.get('s_count',0))")
             DT_SRC=$(python -c "import json; d=json.load(open('web/data/news_daily_track.json')); print(len(d.get('sources',[])))")
-            echo "- 总条数：$DT_TOTAL | S级：$DT_S | 数据源：$DT_SRC（近1个月 · 按时间倒序）" >> $GITHUB_STEP_SUMMARY
+            echo "- 总条数：$DT_TOTAL | S级：$DT_S | 数据源：$DT_SRC（近7天 · 按时间倒序）" >> $GITHUB_STEP_SUMMARY
           else
             echo "- 数据文件未生成，请检查日志" >> $GITHUB_STEP_SUMMARY
           fi
