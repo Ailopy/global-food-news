@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-17T16:27:39.112597+08:00",
+  "last_updated": "2026-10-17T20:34:13.201872+08:00",
   "retention_days": 7,
-  "total": 495,
+  "total": 492,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,18 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "f06212d764ca2f30",
+      "title": "今週新発売のホイップまとめ！『生サブレ』、『三層仕立て　抹茶デニッシュドーナツ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ホイップの新商品情報をお届けします。今週新発売の#ホイップロッテ 生サブレ 袋8個■芳醇なバター(※1)香るしっとり食感の生サ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101708/?utm_source=rss&utm_medium=mognavinews_20261017",
+      "published_at": "2026-10-17T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "701e2f7356e1e33b",
       "title": "コメ価格の乱高下で「100年に1度の大激動の最中」の越後製菓  創業80周年に「他社にはない商品で売れるものを作る」を命題に掲げる",
@@ -5903,54 +5915,6 @@
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンPasco メープルシュガーとブリオッシュ 袋1個秋の味覚をお楽しみくださ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101101/?utm_source=rss&utm_medium=mognavinews_20261011",
       "published_at": "2026-10-11T06:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "53f3ecf21e0f845c",
-      "title": "UCC上島珈琲、5mの巨大『珈琲ガチャ』登場　14通りのコーヒーとお菓子の組み合わせを体験",
-      "summary": "UCC上島珈琲は、カプセルトイを通じて普段は自分で選ばないコーヒーと出会い、新たな味わいや楽しみ方を発見してもらうイベント「UCCカプセル珈琲店」を開催している。コーヒーとお菓子のマリアージュ体験や、自宅をイメージした空...",
-      "url": "https://www.ssnp.co.jp/beverage/706660/",
-      "published_at": "2026-10-10T17:31:27+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "a4f5199d2cbefc20",
-      "title": "今週新発売の惣菜パンまとめ！『エッグチーズとてりやきマヨチキン』、『チーズ＆くるみスティック』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック エッグチーズとてりやきマヨチキン白いパンにはタマゴ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101008/?utm_source=rss&utm_medium=mognavinews_20261012",
-      "published_at": "2026-10-10T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "f60c6127f68d57fc",
-      "title": "今週新発売の惣菜パンまとめ！『エッグチーズとてりやきマヨチキン』、『チーズ＆くるみスティック』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック エッグチーズとてりやきマヨチキン白いパンにはタマゴ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101008/?utm_source=rss&utm_medium=mognavinews_20261011",
-      "published_at": "2026-10-10T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "d2263735d15cdf24",
-      "title": "今週新発売の惣菜パンまとめ！『エッグチーズとてりやきマヨチキン』、『チーズ＆くるみスティック』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック エッグチーズとてりやきマヨチキン白いパンにはタマゴ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101008/?utm_source=rss&utm_medium=mognavinews_20261010",
-      "published_at": "2026-10-10T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
