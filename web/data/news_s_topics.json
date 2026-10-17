@@ -1,22 +1,22 @@
 {
-  "total": 341,
+  "total": 345,
   "s_plus_count": 36,
   "sites": [
-    "Packaging Digest",
-    "日経xTrend",
-    "朝日グループYouTube",
+    "Food Dive",
     "日経新聞",
-    "Food Dive"
+    "Packaging Digest",
+    "朝日グループYouTube",
+    "日経xTrend"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
+    "其他": 202,
     "营销创新": 19,
     "新产品": 55,
-    "行业政策": 22,
-    "其他": 199,
+    "行业政策": 23,
     "品牌故事": 12,
     "新技术": 1,
     "联名营销": 11,
@@ -25,9 +25,31 @@
     "并购融资": 3,
     "新原料": 5
   },
-  "last_updated": "2026-10-16 21:37",
-  "last_updated_iso": "2026-10-16T21:37:37.689218+08:00",
+  "last_updated": "2026-10-17 13:09",
+  "last_updated_iso": "2026-10-17T13:09:44.376440+08:00",
   "articles": [
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Figuring Out the Gen Z Wine Consumer",
+      "url": "https://www.packagingdigest.com/beer-wine-spirits/figuring-out-the-gen-z-wine-consumer",
+      "summary": "The wine industry is in experimental mode, throwing packaging options at Gen Z to see what sticks with this vitally important up-and-coming generation.",
+      "published_at": "2026-10-16T15:20:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-17T13:09:42+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -1042,6 +1064,28 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-10-16T11:40:27+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "イオン[8267]：イオン（株）9月度連結営業概況 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oOFVESDNOWjRQREZ0UEZ4SFU0Q0dvNk9IYWZ6X0cwQzZHZkFnVkpyU29Ybk4tclEyalNvSUpfVjU5QWl2YTh1em1IRkthTVc2OFhXRDJya1JiVkVqUzJNVlZTb0lBMnNNQkE?oc=5",
+      "summary": "イオン[8267]：イオン（株）9月度連結営業概況 2026年10月13日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-10-13T06:30:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-17T13:09:26+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -7844,6 +7888,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-16T11:40:38+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Beyond Meat adds caffeine to protein drink as competition mounts",
+      "url": "https://www.fooddive.com/news/beyond-meat-protein-beverage-immerse-energy-caffeine/833100/",
+      "summary": "The company continues to innovate its protein beverages while looking to differentiate from the plant-based meat segment it became known for.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-17T13:09:39+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "FDA paves the way for salt reduction in dozens of food categories",
+      "url": "https://www.fooddive.com/news/fda-salt-substitutes-sodium-reduction-food/832970/",
+      "summary": "The department will allow salt substitutes in bread, milk, condiments and other staple foods as part of an effort to reduce Americans’ sodium consumption.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-10-17T13:09:39+08:00"
     }
   ]
 }
