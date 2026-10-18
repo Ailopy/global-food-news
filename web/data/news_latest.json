@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-18T16:45:48.634968+08:00",
+  "last_updated": "2026-10-18T20:52:09.572280+08:00",
   "retention_days": 7,
-  "total": 505,
+  "total": 502,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,102 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "361b751d7f3d0413",
+      "title": "Sunday Edition: NSW",
+      "summary": "Quick bites from around the food safety arena this week An outbreak of E coli O157:H7 infections linked to ready-to-eat multi-ingredient chicken wraps has affected 50 patients , up from 35 reported…",
+      "url": "https://www.foodsafetynews.com/2026/10/sunday-edition-nsw/",
+      "published_at": "2026-10-18T20:00:00+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "acca54e30acf489d",
+      "title": "不二家、クリスマスセール始動　ACEesフォーク付きのほかパペットスンスンやトミカなどのコラボケーキ多彩　ミニサイズも拡充",
+      "summary": "不二家は10月1日、全国の不二家洋菓子店でクリスマスセールを始動した。 今年は、クリスマスイブの木曜日から週末までの4日間を「ゴールデンクリスマス」と位置付け、推しやご褒美、適量などの様々なニーズに対応すべく多彩なク […] ソース",
+      "url": "https://shokuhin.net/158624/2026/10/18/kakou/kashi/",
+      "published_at": "2026-10-18T19:15:35+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "89982495d7f6f01c",
+      "title": "コンビニホットスナックのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニホットスナック」の最新・注目度ランキングです♪（2026年10月16日更新）食品クチコミサイト「もぐナビ」に投…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-28987/?utm_source=rss&utm_medium=mognavinews_20261018",
+      "published_at": "2026-10-18T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "af4bf5be1196cc03",
+      "title": "UCC上島珈琲、原材料コーヒーのみで実現する機能性表示食品の無糖ブラックコーヒー「TOTONOU」で見えてきた勝算とは？",
+      "summary": "UCC上島珈琲は、原材料コーヒーのみで「コーヒー由来トリゴネリンにより、BMIが高めの方の安静時のエネルギー消費の向上をサポートする」をヘルスクレームとする機能性表示食品の無糖ブラックコーヒー「UCC TOTONOU […] ソース",
+      "url": "https://shokuhin.net/158619/2026/10/18/inryou/inryou-inryou/",
+      "published_at": "2026-10-18T17:33:32+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6fb28eaca03f9733",
+      "title": "今週新発売の惣菜パンまとめ！『エッグチーズとてりやきマヨチキン』、『チーズ＆くるみスティック』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック エッグチーズとてりやきマヨチキン白いパンにはタマゴ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101808/?utm_source=rss&utm_medium=mognavinews_20261018",
+      "published_at": "2026-10-18T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7d698343381eb5be",
+      "title": "利き「ミンティア」や「アマノフーズ」なすの手詰め体験　商品開発拠点に社員やその家族招きファミリーデー　アサヒグループ食品",
+      "summary": "利き「ミンティア」体験、「アマノフーズ」なすの手詰め体験、グミの仕上げ体験、いちごラテ飲み比べ体験――。 アサヒグループ食品が8月29日、東京・豊洲の商品開発センターで開催した「アサヒグループ食品 ファミリーデー」に […] ソース",
+      "url": "https://shokuhin.net/158613/2026/10/18/kakou/kashi/",
+      "published_at": "2026-10-18T17:24:45+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "af8fafda5ccdf99b",
+      "title": "清涼飲料水で食品ロス削減や物流負荷軽減に取り組むための指針　業界団体が自主行動宣言を策定",
+      "summary": "清涼飲料水の業界団体・全国清涼飲料連合会（全清飲）は8月31日、関係者がそれぞれの立場から食品ロス削減や物流負荷軽減などの課題解決に取り組むための共通の方向性を示すものとして、清涼飲料業界のフードサプライチェーンにおけ […] ソース",
+      "url": "https://shokuhin.net/158609/2026/10/18/inryou/inryou-inryou/",
+      "published_at": "2026-10-18T17:12:04+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b9a8c4a0872f95db",
+      "title": "発売60周年「亀田の柿の種」国内米菓売上No.1を堅持するこだわりの製法とは？　「おいしさを決するのは生地づくり」　亀田製菓",
+      "summary": "今年発売60周年を迎える亀田製菓の旗艦ブランド「亀田の柿の種」の年間販売数量は約1億袋以上に上り国内米菓売上No.1の地位を堅持している。 カリッと香ばしい柿の種とピーナッツの絶妙な組み合わせが半世紀以上支持され、そ […] ソース",
+      "url": "https://shokuhin.net/158599/2026/10/18/kakou/kashi/",
+      "published_at": "2026-10-18T17:04:50+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "3111057378085f18",
       "title": "味の素AGF「ブレンディ」ポーション好調　販売金額・販売個数とも2ケタ増",
@@ -5944,138 +6040,6 @@
       "category": "综合",
       "level": "A",
       "language": "en"
-    },
-    {
-      "id": "edab2ce554363bc6",
-      "title": "Sunday Edition: Cultivated meat",
-      "summary": "Ninety-five years ago, Sir Winston Churchill wrote: \"We shall escape the absurdity of growing a whole chicken in order to eat the breast or wing, by growing these parts separately under a suitable…",
-      "url": "https://www.foodsafetynews.com/2026/10/sunday-edition-cultivated-meat/",
-      "published_at": "2026-10-11T20:00:00+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "de1cc8be3c58aacf",
-      "title": "ネスレ日本のハイジ係長が原宿に「出勤」　アルプスの少女が未来への取り組みを伝えるイベント開催",
-      "summary": "ネスレ日本は、体験型イベント「ネスレ日本の係長ハイジのおしごと体験カフェ」を10月7日から21日にかけて「ネスカフェ原宿」（東京都渋谷区）で開催し、未来に向けて同社が行っている取り組みをユーモラスに伝える。 今夏、ア […] ソース",
-      "url": "https://shokuhin.net/158277/2026/10/11/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
-      "published_at": "2026-10-11T19:59:48+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "8345a234dbd8fc0e",
-      "title": "キリン「生茶」から緑茶飲料の新たな選択肢を提案　スタンダード・濃い系に次ぐ「熟成」2年半かけて開発　香りとうまみ追求",
-      "summary": "キリンビバレッジは「生茶 熟成」を10月13日から新発売し、スタンダードの緑茶飲料・濃い系の緑茶飲料に次ぐ新たな選択肢として香りとうまみにこだわった緑茶飲料を提案する。 10月6日、新商品発表会に登壇したマーケティン […] ソース",
-      "url": "https://shokuhin.net/158271/2026/10/11/inryou/inryou-inryou/",
-      "published_at": "2026-10-11T19:52:06+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "049cac26be01731c",
-      "title": "「サントリー烏龍茶」発売45周年　異国を旅する雰囲気を味わえるイベントで若年層に飾らないブランド像を訴求",
-      "summary": "サントリービバレッジ＆フードは、「サントリー烏龍茶」が発売45周年を迎えたことを記念し、異国を旅する雰囲気を味わえるイベント「烏龍紀行」を渋谷Lストリート（東京都渋谷区）で10月9日から12日まで開催する。 渋谷を訪 […] ソース",
-      "url": "https://shokuhin.net/158265/2026/10/11/inryou/inryou-inryou/",
-      "published_at": "2026-10-11T19:41:27+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "3b41d2f123e00bda",
-      "title": "チョコレート菓子のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「チョコレート菓子」の最新・注目度ランキングです♪（2026年10月9日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-28393/?utm_source=rss&utm_medium=mognavinews_20261013",
-      "published_at": "2026-10-11T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "d5589e7695abccf8",
-      "title": "チョコレート菓子のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「チョコレート菓子」の最新・注目度ランキングです♪（2026年10月9日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-28393/?utm_source=rss&utm_medium=mognavinews_20261012",
-      "published_at": "2026-10-11T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "47d48ee93ed73c49",
-      "title": "チョコレート菓子のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「チョコレート菓子」の最新・注目度ランキングです♪（2026年10月9日更新）食品クチコミサイト「もぐナビ」に投稿された…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-28393/?utm_source=rss&utm_medium=mognavinews_20261011",
-      "published_at": "2026-10-11T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "50346f6502d5e158",
-      "title": "今週新発売の期間限定まとめ！『メイトーのなめらかプリン　ビターカラメルソース』、『三角チョコパイ　クッキー＆クリーム　いちご味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定メイトー メイトーのなめらかプリン ビターカラメルソース カップ10…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101108/?utm_source=rss&utm_medium=mognavinews_20261013",
-      "published_at": "2026-10-11T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "8f1c4b672e87fd5c",
-      "title": "今週新発売の期間限定まとめ！『メイトーのなめらかプリン　ビターカラメルソース』、『三角チョコパイ　クッキー＆クリーム　いちご味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定メイトー メイトーのなめらかプリン ビターカラメルソース カップ10…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101108/?utm_source=rss&utm_medium=mognavinews_20261012",
-      "published_at": "2026-10-11T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "82c04757deeba793",
-      "title": "今週新発売の期間限定まとめ！『メイトーのなめらかプリン　ビターカラメルソース』、『三角チョコパイ　クッキー＆クリーム　いちご味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定メイトー メイトーのなめらかプリン ビターカラメルソース カップ10…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101108/?utm_source=rss&utm_medium=mognavinews_20261011",
-      "published_at": "2026-10-11T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "471cb95e63a49917",
-      "title": "巨大ガチャで新しい出会い　カプセル式コーヒーでマリアージュ体験　UCCとタカラトミーアーツがコラボ",
-      "summary": "UCC上島珈琲は、同社のカプセル式コーヒーシステム「ドリップポッド」のマリアージュ体験ができるイベント「UCCカプセル珈琲店」を10月9日から12日まで東京ミッドタウン日比谷（東京都千代田区）で開催し、コーヒーとの新し […] ソース",
-      "url": "https://shokuhin.net/158260/2026/10/11/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
-      "published_at": "2026-10-11T17:09:36+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
