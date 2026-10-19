@@ -1,33 +1,165 @@
 {
-  "total": 314,
-  "s_plus_count": 34,
+  "total": 328,
+  "s_plus_count": 35,
   "sites": [
-    "朝日グループYouTube",
-    "Packaging Digest",
+    "Food Dive",
     "日経新聞",
     "日経xTrend",
-    "Food Dive"
+    "Packaging Digest",
+    "朝日グループYouTube"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
+    "新包装": 5,
+    "新产品": 49,
+    "其他": 190,
     "营销创新": 17,
-    "新产品": 46,
+    "品牌故事": 15,
     "渠道新物种": 12,
-    "其他": 188,
-    "行业政策": 19,
-    "品牌故事": 11,
+    "行业政策": 20,
     "新技术": 1,
-    "联名营销": 9,
-    "新包装": 3,
-    "并购融资": 3,
+    "联名营销": 10,
+    "并购融资": 4,
     "新原料": 5
   },
-  "last_updated": "2026-10-19 13:27",
-  "last_updated_iso": "2026-10-19T13:27:13.340997+08:00",
+  "last_updated": "2026-10-20 00:00",
+  "last_updated_iso": "2026-10-20T00:00:40.838486+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00002/00120/?n_cid=nbpnxr_rss",
+      "summary": "「高たんぱく」「糖質オフ」「腸活」「免疫」「体脂肪対策」──。食品売り場には、栄養や機能を前面に出した商品が増えている。では、パッケージデザインで栄養や機能に優れていることを伝えれば、それだけで商品への好意は高まるのだろうか。明治ブルガリアヨーグルト、キリン ヘルシア、C.C.レモンなど、保健機能食品および健康・栄養サポート食品32商品について3万2000件のパッケージ評価を分析した。",
+      "published_at": "2026-10-20T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-10-20T00:00:22+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "プロが人気駅弁を実食比較 東京駅のベストは牛肉弁当かロケ弁カレーか",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01491/00009/?n_cid=nbpnxr_rss",
+      "summary": "2026年10月2日発売の「日経トレンディ2026年11月号」では、「細かすぎる東京駅最新案内2026」を特集。人気駅弁がひしめく東京駅では、「どれを買うか」が大きな問題だ。料理のプロによる評価に加え、“分解”も実施して売れ筋弁当を徹底検証した。なお、本文末尾には検証結果を掲載した「日経トレンディ」誌面PDFを用意している。「駅弁屋 祭」など駅弁スポットごとの人気ランキングも掲載しているので、ぜひ活用してほしい。",
+      "published_at": "2026-10-20T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "売れ筋",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-20T00:00:22+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "子ども向け機能性飲料が米国でブームの兆し 専門家は効果に懐疑的",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00079/00371/?n_cid=nbpnxr_rss",
+      "summary": "飲料メーカーが、大人の間で人気を集めている電解質や健康志向の成分を取り入れ、アルファ世代の子ども向けに再設計した新飲料を続々と発売し始めた。子ども自身に加え、水分補給に関心を寄せ始めたその保護者にも、新飲料のメリットを強く訴求している。",
+      "published_at": "2026-10-20T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-20T00:00:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGRLaUV6MGcxNkVmSi0zTjU4WXBnM24yazktN25OMTR5M1BNQVFZaTgzbTRZemt4eHBUeXZXSE9taml4RlJxS0U5NnB5ZHEtNGFPejVUSVJPYjltal9GcDRGVTVsa2ZPQXZRdHFGSGJEU2dOODZGZkZJSlM4Ykk5ekhlOVdlMHZIYTN3?oc=5",
+      "summary": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-10-20T00:00:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "子ども向け機能性飲料が米国でブームの兆し 専門家は効果に懐疑的",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUUhUSHgySGllbXVqcDVNSjh1US1hdlEyLVFrbXdoY1RtbVhsY1hGUVlVdGoxeE4zaEdCdTAyZVU0b1FuNG4wdU85bU1abUstRTNzdlFFZ3ljOGRORHpwYXQ2VXJGeWhTMWpUUmJqNW5jRUo4UWVEOFduZEZnTFpsUnczRFNSMkF0TzBr?oc=5",
+      "summary": "子ども向け機能性飲料が米国でブームの兆し 専門家は効果に懐疑的&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-20T00:00:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "プロが人気駅弁を実食比較 東京駅のベストは牛肉弁当かロケ弁カレーか",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHJYWEZzcWs0SVJmU2FzSVBseGYxNjdBUURabG5XTzUzTmVXTzhvbjZsZllPMnVCUzM4cjJYT2NGaG1JUTNIYWVaWXQtSlhCbTdPbHhROFdYVllGNkJiOFg0M1RVU2c2bHNnU0IwRi1ocHRZSUxXQlRyS2FETy1mVXJ6b1JxN1ZtdXJr?oc=5",
+      "summary": "プロが人気駅弁を実食比較 東京駅のベストは牛肉弁当かロケ弁カレーか&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-20T00:00:20+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -49,6 +181,106 @@
       ],
       "primary_category": "营销创新",
       "scraped_at": "2026-10-19T13:26:58+08:00"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒ ゴールド WEB CM 「ぽいアサヒ、ぽくないアサヒ」篇",
+      "url": "https://www.youtube.com/watch?v=1t2VF52dfOE",
+      "summary": "アサヒ ゴールド WEB CM 「ぽいアサヒ、ぽくないアサヒ」篇 出演者：佐藤健、柴咲コウ 楽曲：WOW WAR TONIGHT ▼アサヒゴールド ブランドサイト https://www.asahibeer.co.jp/brand/gold/",
+      "published_at": "2026-10-19T01:00:13Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-20T00:00:40+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/1t2VF52dfOE/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒ ゴールド WEB CM 「アサヒっぽくなくて、ごめんなさい！」篇",
+      "url": "https://www.youtube.com/watch?v=g9ct9nxVXcc",
+      "summary": "アサヒ ゴールド WEB CM 「アサヒっぽくなくて、ごめんなさい！」篇 出演者：佐藤健、柴咲コウ 楽曲：WOW WAR TONIGHT ▼アサヒゴールド ブランドサイト https://www.asahibeer.co.jp/brand/gold/",
+      "published_at": "2026-10-19T01:00:10Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-20T00:00:40+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/g9ct9nxVXcc/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒ ゴールド WEB CM 「アサヒに、もうひとつのうまさ。」ユーザー視点篇",
+      "url": "https://www.youtube.com/watch?v=CfvAlIz6OXU",
+      "summary": "アサヒ ゴールド WEB CM 「アサヒに、もうひとつのうまさ。」ユーザー視点篇 出演者：佐藤健、柴咲コウ 楽曲：WOW WAR TONIGHT ▼アサヒゴールド ブランドサイト https://www.asahibeer.co.jp/brand/gold/",
+      "published_at": "2026-10-19T01:00:07Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-20T00:00:40+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/CfvAlIz6OXU/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒ ゴールド TVCM 「アサヒに、もうひとつのうまさ。」篇 30秒",
+      "url": "https://www.youtube.com/watch?v=xZb7NsWqQhw",
+      "summary": "アサヒ ゴールド TVCM 「アサヒに、もうひとつのうまさ。」篇 30秒 出演者：佐藤健、柴咲コウ 楽曲：WOW WAR TONIGHT ▼アサヒゴールド ブランドサイト https://www.asahibeer.co.jp/brand/gold/",
+      "published_at": "2026-10-19T01:00:05Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-20T00:00:40+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i1.ytimg.com/vi/xZb7NsWqQhw/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
     },
     {
       "site_name": "日経xTrend",
@@ -187,6 +419,28 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-10-19T13:26:56+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "盤ゲーム「ドラゴンクエスト 人生ゲーム」発売 未来消費カレンダー （3ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYU4yYm1OZ3l5a1hmV2lXLUUwdndqcVpMOEhlMTVDb2tWOUQ5VHl5NkUzb0dCYmxMb2VEZlM4dklzMmpmenpsX0tFOFMxc2ZuZW03bUxmOU9BWWl6dktzbjRBTld4VVB0QmlkQXQyajlOR3JPb2JsT2E3cF84dkpQZFZGemJ1MTFsTzVEZ1hRdXRPNnBHMmkxYQ?oc=5",
+      "summary": "盤ゲーム「ドラゴンクエスト 人生ゲーム」発売 未来消費カレンダー （3ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-18T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-20T00:00:20+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -7208,6 +7462,84 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-10-17T13:09:39+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Inside Omaha Steaks’ efforts to ditch marketing bull and attract Gen Z",
+      "url": "https://www.fooddive.com/news/inside-omaha-steaks-efforts-to-ditch-marketing-bull-and-attract-gen-z/833235/",
+      "summary": "The century-old meat delivery company emphasizes credibility for a “No Bull” campaign that spans TV, radio, paid social and influencer partnerships.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-10-20T00:00:33+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nestlé doubles investment in Mexico to $2B",
+      "url": "https://www.fooddive.com/news/nestle-investment-mexico-coffee-pet-food-emerging-markets/832996/",
+      "summary": "The Nescafé maker said the additional $1 billion will allow the food giant to tap into the country’s growth opportunities.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-10-20T00:00:33+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Can WK Kellogg save cereal?",
+      "url": "https://www.fooddive.com/news/cereal-kellogg-generalmills-healthy-snacking-breakfast-protein-fiber-sugar/826716/",
+      "summary": "After years of sales declines amid a shift in eating habits, executives at the Froot Loops and Frosted Flakes manufacturer have a plan to give the category a wake-up call.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-10-20T00:00:33+08:00"
     }
   ]
 }
