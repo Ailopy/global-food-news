@@ -1,33 +1,193 @@
 {
-  "total": 323,
+  "total": 314,
   "s_plus_count": 34,
   "sites": [
-    "日経xTrend",
-    "日経新聞",
-    "Food Dive",
     "朝日グループYouTube",
-    "Packaging Digest"
+    "Packaging Digest",
+    "日経新聞",
+    "日経xTrend",
+    "Food Dive"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "其他": 192,
     "营销创新": 17,
-    "新产品": 49,
-    "行业政策": 21,
+    "新产品": 46,
+    "渠道新物种": 12,
+    "其他": 188,
+    "行业政策": 19,
     "品牌故事": 11,
     "新技术": 1,
-    "联名营销": 10,
+    "联名营销": 9,
     "新包装": 3,
-    "渠道新物种": 11,
     "并购融资": 3,
     "新原料": 5
   },
-  "last_updated": "2026-10-18 20:52",
-  "last_updated_iso": "2026-10-18T20:52:18.046448+08:00",
+  "last_updated": "2026-10-19 13:27",
+  "last_updated_iso": "2026-10-19T13:27:13.340997+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "AI時代「マーケティング大予測2030」",
+      "url": "https://xtrend.nikkei.com/info/podcast/19/00427/?n_cid=nbpnxr_rss",
+      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の最新トレンドをチェックする「WEEKLY TREND KEYWORDS」は、食感トレンドとして人気の麺類の「ワシワシ」と、菓子・スイーツ、パン・ベーカリーの「ふわもち」の実態をピックアップ。後半は「AI時代『マーケティング大予測2030』」をお送りします。AI（人工知能）エンジン最適化（AIO）や、AIエージェントが人間の代わりに商品を探し、購入・決済まで完了させる新しい購買形態「エージェンティック・コマース」など、AIを活用した新しい技術が次々登場しています。今回は2030年のマーケティングはどうなるのか、業界動向の変化を実例とともに紹介します。解説は日経クロストレンドの中村勇介編集長。",
+      "published_at": "2026-10-19T05:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "食感",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-10-19T13:26:58+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "盤ゲーム「ドラゴンクエスト 人生ゲーム」発売 未来消費カレンダー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00251/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年10月31日「タカラトミー、盤ゲーム『ドラゴンクエスト 人生ゲーム』発売」ほか19件の情報を追加した。",
+      "published_at": "2026-10-19T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-19T13:26:58+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "博物館や庭園が無料のKITTEは穴場 東京駅周辺の4時間最適観光ルート",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01491/00008/?n_cid=nbpnxr_rss",
+      "summary": "2026年10月2日発売の「日経トレンディ2026年11月号」では、「細かすぎる東京駅最新案内2026」を特集。出張や旅行の帰路、新幹線までの空き時間をどう使うか。実は東京駅周辺には、歴史的建築から最新商業施設、無料で楽しめる博物館まで見どころが集まっている。丸の内駅舎や皇居周辺の名所、話題の新スポット、東京駅限定の土産店を効率よく巡れば、移動の合間が充実した観光時間に変わる。4時間で回れる“最強ルート”を紹介する。本文の最後には、地図上でルートを確認できる「日経トレンディ」該当ページの誌面を、そのままPDFで表示するリンクを用意している。",
+      "published_at": "2026-10-19T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-19T13:26:58+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「脱・TSUTAYA」を加速させるCCC ホテル・サーキットの企画業が好調",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01490/00001/?n_cid=nbpnxr_rss",
+      "summary": "ビデオやCDのレンタル店「TSUTAYA」や共通ポイント「Tポイント」を生み出したカルチュア・コンビニエンス・クラブ（CCC）。しかし、どちらの事業も今ではCCC本体から切り離されている。髙橋誉則社長は「CCCのコアは変わらず、新しい事業を生み出し続けていく企画会社だ」と話す。ライバルだったゲオホールディングスはリユース分野をコアに位置づける。では、企画会社としてのCCCはどこへ向かうのだろうか。",
+      "published_at": "2026-10-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-10-19T13:26:58+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「ハウス食品、3色のカレーが3カ月で100万個販売 消費者7セグメント起点」 ちょうど1年前振り返りランキング",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00135/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年10月19日～11月15日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
+      "published_at": "2026-10-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-19T13:26:58+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "100万個売れた3色カレーが首位 1年前の人気記事TOP10",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFMURxWjFVLTFpSlZ4RVQtMGI5Q3pwRWF6b2YwV0RtcFBsNXNuU1A0UUV0em5vQlZlTHgwMHZPSFZ6azdSOFNSUGhfUTE0VURDY05fOTZjMTdLTUoybkhDYTAzcjZuUQ?oc=5",
+      "summary": "100万個売れた3色カレーが首位 1年前の人気記事TOP10&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-18T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-19T13:26:56+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "盤ゲーム「ドラゴンクエスト 人生ゲーム」発売 未来消費カレンダー",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQU5ZT1FGNV95RXkzalVtZ3FrdGNMQm1DNUFFRDFQMmEtakZkNUxRMnBmZXZyRVBlWTBQbzY2QVpGUExHNTZpTjBQWllSV0pGcE1IejNnN2ZpSElORGd0NlJob1FocGxVdG1MQU1Zcm40YkhNMFJOYTd1OFozVnN2QVhOMG5IUVJSTkY0?oc=5",
+      "summary": "盤ゲーム「ドラゴンクエスト 人生ゲーム」発売 未来消費カレンダー&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-18T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-19T13:26:56+08:00"
+    },
     {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
@@ -5075,28 +5235,6 @@
       "region": "日本",
       "positioning": "新品&产业",
       "title": "Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVVVhTV9LRlZCQXFBLXdrOVRQVzl0amhCZkNKdzUxcHpFckh6VkZfODZVOVF5NHVLaUNaOUVDRjNaeDRJN2VuQjluYlJCRXlhZjFvLVlhbGdlRVRlSHpKSl93aEY4R1pLa1Y3VGt5WGxvcGZDc0FUcDd0dzRtOWluQjB2cjVLUnotaFQ5cm5NOA?oc=5",
-      "summary": "Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-18T04:58:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-18T13:22:18+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yZzY4akZMc3F3QW90WGI2T25xdC1TUkJrSHNmN2Z1dVVpVGtFUzM1MWRmSHdQSXltR3V4U2VjTlNHdGpOWEp3NTNWdk5Zd282R3JHS2hFVDNDMFNxSnpHV1dSc3RSdw?oc=5",
       "summary": "Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】&nbsp;&nbsp;日経クロストレンド",
       "published_at": "2026-09-18T04:58:00Z",
@@ -5112,184 +5250,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-19T13:14:46+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "三井住友を三菱UFJがゴールド2％還元で猛追 クレカ積み立て最新攻略法",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00011/?n_cid=nbpnxr_rss",
-      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。NISAで投資信託を積み立てる場合、「クレカ積み立て」が効果的だ。証券会社の経済圏ごとに用意されたクレジットカードは、カードのランク次第で還元率や実質的なメリットが大きく変わる。三井住友、三菱UFJ、楽天など主要プレーヤーの最新優遇策を比較すると、意外な“高コスパカード”も浮上。毎月10万円を積み立てた場合、最も得する選択肢はどれなのか。ポイント獲得力と年会費の損得を徹底検証する。",
-      "published_at": "2026-09-18T00:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-18T13:22:20+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ゴールド／プラチナ8枚の実質損益比較 年会費無料クレカを上回る条件",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01454/00010/?n_cid=nbpnxr_rss",
-      "summary": "2026年9月4日発売の「日経トレンディ2026年10月号」では、「クレジットカードvsスマホ決済 最得案内」を特集。かつては「富裕層向け」と思われていたゴールドカード、プラチナカードだが、年間利用額に応じてボーナスポイントを付与するものが増えている。そこで有力なゴールドカード、プラチナカードについて、年会費無料・還元率1％のクレカと比べて、年間利用額がいくら以上なら得になるかを検証した。なお、記事の最後にはこれらのクレカの詳細を紹介する誌面のPDFへのリンクを用意している。ぜひ活用してほしい。",
-      "published_at": "2026-09-18T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-18T13:22:20+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "熊本で学んだ「食の価値」 地域一丸で生み出す食の経済インパクト",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02939/?n_cid=nbpnxr_rss",
-      "summary": "「魅力的な食材も郷土料理もあるのに、伝わらない……」。多くの地方都市が抱える悩みだろう。熊本県も、そんな悩みを抱えていた地域の一つだ。しかし、熊本県は「『食のみやこ熊本県』創造推進ビジョン」を打ち出し、大きく前進し始めている。どうすれば地域の食にスポットライトは当たるのか。トップシェフやフードテックエバンジェリストの外村仁（Hitoshi Hokamura）氏らが、熊本県知事の木村敬氏などと議論を交わした。",
-      "published_at": "2026-09-18T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "インパクト",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-18T13:22:20+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "虎ノ門を日本の“カンヌ”に 森ビルになぜ「広告祭」が必要なのか",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01393/00004/?n_cid=nbpnxr_rss",
-      "summary": "2026年10月に開催される「虎ノ門広告祭2026」。2年目を迎える今回、主催グループに博報堂ＤＹホールディングス、サイバーエージェント、森ビル、トップカテゴリーのゴールドスポンサーに電通ジャパンとCARTA HOLDINGSが参加する。日本を代表する広告会社の名前が並ぶ中、異色なのが森ビルだ。森ビルは、虎ノ門広告祭が開催される虎ノ門ヒルズ TOKYO NODEの“大家”ではあるが、第1回から主催者として携わっている。なぜ、場所を貸すだけでなく、主催者に加わったのか。背景には、虎ノ門をさまざまなクリエイティブとビジネスがクロスしていく場に、というブランディングもあるようだ。そもそも、虎ノ門広告祭を立ち上げたクリエイティブディレクターの菅野薫氏には、23年に開業した「TOKYO NODE」のコンセプトやネーミング、ロゴデザイン、コンテンツ企画に深く関わってきたという縁もある。森ビルが考える広",
-      "published_at": "2026-09-18T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-09-18T13:22:20+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "経営学者・楠木氏、ヘラルボニー・松田氏も推薦！ 『熱狂しない経営』発売",
-      "url": "https://xtrend.nikkei.com/info/18/00006/00452/?n_cid=nbpnxr_rss",
-      "summary": "予約好調につき、重版決定！ 4年にわたって「北欧、暮らしの道具店」を展開するクラシコムを追跡した連載企画がついに書籍化。同社のビジネス・ブランディングを徹底解剖した初の書籍『熱狂しない経営 「北欧、暮らしの道具店」クラシコムが20年磨き続けた“らしさ”の正体』を発行します。Amazonにおいて先行予約をしておりましたが、2026年9月21日に全国の書店でも本格展開をスタートいたします。",
-      "published_at": "2026-09-18T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-18T13:22:20+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "サントリー「NOPE」、8月の販売金額は16位 アサヒの対抗馬は6位止まり",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00921/00070/?n_cid=nbpnxr_rss",
-      "summary": "発売直後、炭酸飲料カテゴリーの販売金額ランキング1位に躍進したサントリーの「ギルティ炭酸 NOPE」。発売約5カ月で出荷1億本を突破する異例のヒットとなったNOPEの現在地は？ また、既存の主力炭酸ブランド「ペプシ」や、隣接カテゴリーともいえるエナジードリンク「ZONe」は？ 競合のアサヒ飲料も「NO罪悪感」を掲げた新商品で追撃する激戦の炭酸商戦を、最新のPOSデータから検証する。",
-      "published_at": "2026-09-18T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "億本",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 2
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-18T13:22:20+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ブランドは広く届く“媒体” クラシコム青木氏×ヘラルボニー松田氏対談",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00688/00021/?n_cid=nbpnxr_rss",
-      "summary": "約4年にわたってクラシコムを追跡してきた本連載企画を再構成し、2026年9月21日に発売する新刊書籍『熱狂しない経営 「北欧、暮らしの道具店」クラシコムが20年磨き続けた“らしさ”の正体』。企業やブランドの“らしさ”はどこに宿るのか、どこから生まれるのか、そもそも“らしさ”とは何なのか、同社の様々な領域の取材から迫っている。今回は、同書籍のテーマである企業やブランドが持つ“らしさ”の在り方について、特別対談をお届けする。語り合うのは、クラシコム代表取締役社長の青木耕平氏と、ヘラルボニー代表取締役Co-CEOの松田崇弥氏だ。",
-      "published_at": "2026-09-18T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-18T13:22:20+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5312,50 +5272,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-20T13:31:45+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "French Beer Packaging Design Takes Flight",
-      "url": "https://www.packagingdigest.com/beer-wine-spirits/french-beer-packaging-design-takes-flight",
-      "summary": "Montaner Pietrini’s Se Canto beer labels feature a distinctive Hoopoe bird that connects both the brand and bird to their shared home in southern France.",
-      "published_at": "2026-09-17T16:46:56Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-18T13:22:33+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "サントリー「NOPE」、8月の販売金額は16位 アサヒの対抗馬は6位止まり",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWxJR25BSjhMeGNzYXhBZHNFUk1SQ1NPYnpPaW92T0NMMjM1QUJfTU5tRUJqeENWTjZ5U0dqUUJMMTgtWjM3WnhJQ1JhNE5WUkxLeHRoUkRKckVTX0xWbTN3Vjg1bHItZkhlMXhEejI1YlF6YW5IQnozcTItVWpETHBPTlZmZk5YSUxz?oc=5",
-      "summary": "サントリー「NOPE」、8月の販売金額は16位 アサヒの対抗馬は6位止まり&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-17T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-18T13:22:18+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5407,28 +5323,6 @@
       "region": "日本",
       "positioning": "新品&产业",
       "title": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDZIODBWNjVIcEE2WEFSXzNqYnIxak9NTWdZX1NFbUpMQ3g0c1diYk1DQmwzUmhQSUVzS20waklVZ2dGVUZ4RHE4cU9uYjlrdUVpRG1qU0p1YUtJUEg4MmVGTjZ6MlliSFV5ZS10WmlRbEtUdWc4VGZLNmNtM1BIUTd1blRGZTVacGdv?oc=5",
-      "summary": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-17T10:20:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-18T13:22:18+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCMm5fS1djNmdaUG9GaHJ6WnFOb0w1RkFlRWRzX05UV2R6SFZfeEY3a3RLcEJrRUpXVENQc3lKM0U3ZFpFWFY3aW44X2ZjVC1Jc1prZU51R1V2TFNaZDNORENQRElzQQ?oc=5",
       "summary": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】&nbsp;&nbsp;日経クロストレンド",
       "published_at": "2026-09-17T10:20:00Z",
@@ -5444,28 +5338,6 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-09-19T13:14:46+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "「GALLERIA」（ガレリア）ブースはコラボゲーミングPCを展示【TGS2026】",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcXRCYlYzamRLVUFCV2s3QnZYUmF4X2JBYzRKQ3FtUHhIYnZNQ1l4cTVKeVF1Q0VwbFdlR0lOa0tBekpKM3BJRzZyS3hmZk5mSFB0MVhFd000QTNJbXFndHBfU1BvMkd4a0c1cmkzYUZBQThzMklJZnlqd0lNemdWNzdqamU5NUQ2RHVB?oc=5",
-      "summary": "「GALLERIA」（ガレリア）ブースはコラボゲーミングPCを展示【TGS2026】&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-17T09:40:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "コラボ",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-09-18T13:22:18+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5510,28 +5382,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-02T14:23:40+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（346ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBM1IwNzJEQ1NKM3lnNkg1eXBoWGhQZnFQenA2UkFCMW1XX2FVVXNKWFpnVm9tMjlfSC1oMzVtZTFfc0phQkxKcjFGZHhXdXNabXNMZ2RFSDlXeTdRMzdHR05nN2ZsOTg?oc=5",
-      "summary": "食品・飲料（346ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-16T02:03:02Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-18T13:22:18+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5934,78 +5784,6 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-09-24T13:36:42+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "PepsiCo to end manufacturing operations at Maryland bottling plant",
-      "url": "https://www.fooddive.com/news/pepsico-layoffs-maryland-bottling-plant-manufacturing-operations/830548/",
-      "summary": "The soda giant, which will lay off 143 workers, pointed to changes in consumer preferences and technology as the reason for the move.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-09-18T13:22:30+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Coca-Cola to spend $10B on US manufacturing by 2030",
-      "url": "https://www.fooddive.com/news/coca-cola-us-manufacturing-10-billion-investment/830468/",
-      "summary": "The soda giant and its bottlers are planning to expand production and distribution in part of its largest market.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        },
-        {
-          "name": "渠道新物种",
-          "icon": "🏪",
-          "color": "#0f766e",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-09-18T13:22:30+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Nestlé ‘not happy’ with food giant’s performance in North America",
-      "url": "https://www.fooddive.com/news/nestle-not-happy-with-performance-north-america-frozen-coffee/830304/",
-      "summary": "CFO Anna Manz said “more needs to be done” to improve execution in the region, particularly for creamers and its Gerber brand.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-18T13:22:30+08:00"
     },
     {
       "site_name": "Food Dive",
