@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-20T17:19:41.964995+08:00",
+  "last_updated": "2026-10-20T21:57:40.262112+08:00",
   "retention_days": 7,
-  "total": 512,
+  "total": 513,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,150 @@
   ],
   "articles": [
     {
+      "id": "167a9db97e8d7bc0",
+      "title": "Botanic Healthcare reports clinical results for IRONNOX in iron-deficiency anaemia study",
+      "summary": "Liposomal iron ingredient demonstrates improvements in key iron-status markers and gastrointestinal tolerability",
+      "url": "https://nutraceuticalbusinessreview.com/botanic-healthcare-reports-clinical-results-for-ironnox-in",
+      "published_at": "2026-10-20T21:35:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "6971f9be48977b16",
+      "title": "How Zero-Proof Spirits Are Finding Success in Bars and Restaurants",
+      "summary": "For years, adult non-alc (ANA) spirits have chased after major retail placements. Now, as they turn to bars and restaurants, is it too late to make a splash?",
+      "url": "https://www.bevnet.com/spirits/2026/how-zero-proof-spirits-are-finding-success-in-bars-and-restaurants",
+      "published_at": "2026-10-20T21:30:05+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "a515ceb1088705d8",
+      "title": "dsm-firmenich shareholders elect Richard Ridinger as Chairman",
+      "summary": "Richard Ridinger succeeds Thomas Leysen following his retirement from the board",
+      "url": "https://nutraceuticalbusinessreview.com/dsm-firmenich-shareholders-elect-richard-ridinger-as-chairman",
+      "published_at": "2026-10-20T21:15:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "31731c0a31e3b6f7",
+      "title": "Review: Bare Brew Cold Brew Brings the Buzz",
+      "summary": "Bare Brew Black Coffee Cold Brew is built around a deliberately simple concept: it's just filtered water and coffee, with 20 calories and zero added sugar, milk or flavorings-- plus a whopping 320 mg…",
+      "url": "https://www.bevnet.com/news/2026/review-bare-brew-cold-brew-brings-the-buzz",
+      "published_at": "2026-10-20T20:30:23+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "41d9fc9a7b04eb83",
+      "title": "FDA finalises guidance on new dietary ingredient safety",
+      "summary": "The US Food and Drug Administration has issued final guidance on identity and safety evidence for new dietary ingredient notifications, helping dietary supplement manufacturers to prepare pre-market…",
+      "url": "https://nutraceuticalbusinessreview.com/fda-finalises-guidance-on-new-dietary-ingredient-safety",
+      "published_at": "2026-10-20T20:02:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "582cbf4d8d753d0d",
+      "title": "BeatBox Packaging Draws UK Watchdog Rebuke as RTD Brands Test Nostalgia Marketing Limits",
+      "summary": "Anheuser-Busch InBev’s (A-B) BeatBox has agreed to modify its packaging after a UK alcohol industry watchdog upheld a public complaint that the drinks could appeal to underage drinkers.",
+      "url": "https://www.bevnet.com/spirits/2026/beatbox-packaging-draws-uk-watchdog-rebuke-as-rtd-brands-test-nostalgia-marketing-limits",
+      "published_at": "2026-10-20T20:00:16+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "ad28a353cbe84bc7",
+      "title": "Ethical Naturals debuts new joint health ingredient and matcha L-theanine blend at SupplySide Global",
+      "summary": "GreenGrown-GCS offers a plant-based alternative to animal-sourced glucosamine and chondroitin, while MachaWave pairs TGA-approved AlphaWave L-Theanine with organic matcha for calm energy and…",
+      "url": "https://nutraceuticalbusinessreview.com/ethical-naturals-new-joint-health-ingredient-matcha-supplyside",
+      "published_at": "2026-10-20T18:20:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "ef023d4aab4dd648",
+      "title": "最新グミのおすすめTOP3！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「グミ」のおすすめランキングです♪（2026年10月16日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基に、…",
+      "url": "https://mognavi.jp/news/matome/gen-tagRanking-29053/?utm_source=rss&utm_medium=mognavinews_20261020",
+      "published_at": "2026-10-20T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9e9a3af7189d3669",
+      "title": "セブンプレミアムの大判クッキーから「ラムレーズン&チョコチップ」「塩バタースコッチ&アーモンド」など新フレーバーが登場",
+      "summary": "セブン‐イレブンは、『セブンプレミアム』で人気の大判クッキーシリーズを10月20日から順次発売する。 定番の「チョコチップ」や「宇治抹茶」の商品名とパッケージをリニューアルし、新フレーバーとして「ラムレーズン&チ...",
+      "url": "https://www.ssnp.co.jp/distribution/707867/",
+      "published_at": "2026-10-20T17:46:51+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "c4a10f1b4e9dc9d8",
+      "title": "今週新発売の海老まとめ！『つるっと食感旨塩海老ワンタンスープ』、『きまぐれクック監修　小海老ごはんの海老マヨネーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！海老の新商品情報をお届けします。今週新発売の#海老セブン-イレブン つるっと食感旨塩海老ワンタンスープ旨味が効いた塩味のスープ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102008/?utm_source=rss&utm_medium=mognavinews_20261020",
+      "published_at": "2026-10-20T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4f30138ec0f7d06c",
+      "title": "ファミマから「鬼金棒監修カラシビ味噌らー麺」発売、水を入れてレンジでチンするだけの簡単調理",
+      "summary": "ファミリーマートは、プライベートブランド「ファミマルKITCHEN」から、東京･神田の名店「カラシビ味噌らー麺 鬼金棒」が監修した「鬼金棒監修カラシビ味噌らー麺」(税込354円)を、2026年10月20日から全国の約1万...",
+      "url": "https://www.ssnp.co.jp/distribution/707860/",
+      "published_at": "2026-10-20T17:19:35+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "d1ebdc515b7971d1",
+      "title": "cotta×不二製油 植物ミルク発酵素材 「DEALI」体験イベント 畠山シェフ、江口シェフが実演 新たな世界観を表現",
+      "summary": "日本最大級のお菓子・パン作りの専門ECサイトを展開する「cotta」はこのほど、不二製油の植物ミルク発酵素材「DEALI（デアリ）」の魅力を発信する体験イベントを都内で開催した。 当日は「フキアージュ」の畠山和也シェ […] ソース",
+      "url": "https://shokuhin.net/158736/2026/10/20/kakou/pbf/",
+      "published_at": "2026-10-20T16:54:26+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "fc6fcb36e3173ab4",
       "title": "High fibre brownie bars are adopted by Virgin Airways",
       "summary": "Next month sees a further evolution of the Nourish/Virgin Airlines alliance with the launch of a bespoke, minimally processed 20g brownie bar. The post High fibre brownie bars are adopted by Virgin…",
@@ -28,6 +172,30 @@
       "category": "糕点糖巧",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "fb55e720cfc59da7",
+      "title": "新潟発のフリーズドライ漬物「PKTK」 首都圏初進出 10月28～29日「組合まつり」に出展",
+      "summary": "新潟県漬物工業協同組合（新漬協）の青年部が開発したフリーズドライ漬物「PKTK（ポケつけ）」が、10月28、29日に東京国際フォーラム（東京都千代田区）で開催される「組合まつり in TOKYO」に初出展する。首都圏で […] ソース",
+      "url": "https://shokuhin.net/158731/2026/10/20/kakou/tsukemono/",
+      "published_at": "2026-10-20T16:16:54+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "840cced9c7ef4a75",
+      "title": "「日本橋べったら市」20日夜まで開催 東京にいたか屋、べったら市の伝統つなぐ 戦後の再興から現在まで食文化継承に力",
+      "summary": "東京・日本橋の秋の風物詩「べったら市」が19、20日の両日、宝田恵比寿神社を中心とする日本橋大伝馬町・日本橋本町一帯で開催されている。江戸時代中期に始まったとされる伝統行事で、約500軒の露店が並び、2日間で約10万人 […] ソース",
+      "url": "https://shokuhin.net/158714/2026/10/20/kakou/tsukemono/",
+      "published_at": "2026-10-20T15:53:31+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "f359523370cbbb88",
@@ -51,6 +219,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "30a7062e99b187e4",
+      "title": "「たまごのある暮らしレシピ開発」昭和鶏卵×東京家政大学 産学連携プログラム",
+      "summary": "昭和産業グループの昭和鶏卵はこのほど、東京家政大学の産学連携企画「第13回たまごのある暮らしレシピ開発教育プログラム」の最終講評会を開催した。最優秀賞に「ぷるもち卵ムース～トマトと大葉の彩り仕立て」が選ばれた。 東京 […] ソース",
+      "url": "https://shokuhin.net/158653/2026/10/20/sangakukan/",
+      "published_at": "2026-10-20T15:32:22+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -690,18 +870,6 @@
       "language": "en"
     },
     {
-      "id": "5bff705f04181e1d",
-      "title": "スーパー・コンビニで買える！和菓子のトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「和菓子」の最新・注目度ランキングです♪（2026年10月16日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-29020/?utm_source=rss&utm_medium=mognavinews_20261020",
-      "published_at": "2026-10-19T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "aee2e42b4913f3c8",
       "title": "Kemin highlights positive ageing at SupplySide Global",
       "summary": "Ingredient company to showcase science-led solutions for healthy ageing, gut health and the GLP-1 experience",
@@ -714,11 +882,11 @@
       "language": "en"
     },
     {
-      "id": "f310527fc97dda3c",
-      "title": "今週新発売の期間限定まとめ！『ムーンライト　安納芋』、『チロルチョコ　冬のバラエティパック』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定森永製菓 ムーンライト 安納芋 箱14枚ムーンライトの卵とバターの風…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101908/?utm_source=rss&utm_medium=mognavinews_20261020",
-      "published_at": "2026-10-19T17:30:00+08:00",
+      "id": "5bff705f04181e1d",
+      "title": "スーパー・コンビニで買える！和菓子のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「和菓子」の最新・注目度ランキングです♪（2026年10月16日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-29020/?utm_source=rss&utm_medium=mognavinews_20261020",
+      "published_at": "2026-10-19T18:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -736,6 +904,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "f310527fc97dda3c",
+      "title": "今週新発売の期間限定まとめ！『ムーンライト　安納芋』、『チロルチョコ　冬のバラエティパック』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！期間限定の新商品情報をお届けします。今週新発売の#期間限定森永製菓 ムーンライト 安納芋 箱14枚ムーンライトの卵とバターの風…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101908/?utm_source=rss&utm_medium=mognavinews_20261020",
+      "published_at": "2026-10-19T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "afc413821df2691f",
@@ -858,18 +1038,6 @@
       "language": "ja"
     },
     {
-      "id": "b3771362e51b466a",
-      "title": "今週新発売のコンビニホットスナックまとめ！『ビッグ焼きとり　もも塩』、『ビッグ焼きとり　ももタレ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。今週新発売のコンビニホットスナックファミリーマート ビッグ焼きとり もも塩炭…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101907/?utm_source=rss&utm_medium=mognavinews_20261020",
-      "published_at": "2026-10-19T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "9e28711202877273",
       "title": "We've been quietly working on something. Two things, actually. See them first at SupplySide",
       "summary": "New botanical ingredients target women's health and digestive regularity",
@@ -880,6 +1048,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "b3771362e51b466a",
+      "title": "今週新発売のコンビニホットスナックまとめ！『ビッグ焼きとり　もも塩』、『ビッグ焼きとり　ももタレ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。今週新発売のコンビニホットスナックファミリーマート ビッグ焼きとり もも塩炭…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101907/?utm_source=rss&utm_medium=mognavinews_20261020",
+      "published_at": "2026-10-19T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "a85421f6cdd60657",
@@ -5992,174 +6172,6 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
-    },
-    {
-      "id": "ddda0939d8bd5686",
-      "title": "Nutty Bliss, High Fibre Brownie Bars Are Adopted By Virgin Airways",
-      "summary": "November 26 sees a further evolution of the Nourish/Virgin Airlines alliance with the launch of a bespoke, minimally processed 20g brownie bar (Nutty Bliss) that over the next 12 months will become…",
-      "url": "https://fabnews.live/nutty-bliss-high-fibre-brownie-bars-are-adopted-by-virgin-airways/",
-      "published_at": "2026-10-13T21:31:02+08:00",
-      "source": "Fab News",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "fcb038029c0bd014",
-      "title": "Justin Timberlake, Jessica Biel enter protein soda market",
-      "summary": "Proda is betting the celebrity backing will help the brand enter more mainstream retail outlets.",
-      "url": "https://www.fooddive.com/news/justin-timberlake-jessica-biel-protein-soda-proda/832787/",
-      "published_at": "2026-10-13T21:09:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "aeb3cdfd01792cca",
-      "title": "Industry Uncovered: Can a Patch Cure Lactose Intolerance Symptoms?",
-      "summary": "As demand for food intolerance solutions grows, new products are challenging traditional approaches. The Food Institute puts Barriére’s Dear Dairy lactose intolerance patch to the test to examine its…",
-      "url": "https://foodinstitute.com/video/industry-uncovered-can-a-patch-cure-lactose-intolerance-symptoms/?utm_source=rss&utm_medium=rss&utm_campaign=industry-uncovered-can-a-patch-cure-lactose-intolerance-symptoms",
-      "published_at": "2026-10-13T21:00:38+08:00",
-      "source": "The Food Institute",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "5fa5112ec768f198",
-      "title": "PRODA Brings On Justin Timberlake, Jessica Biel As Co-Founders",
-      "summary": "PRODA has added Justin Timberlake and Jessica Biel as co-founders amid the brand's rapid growth since launching in April.",
-      "url": "https://www.bevnet.com/news/2026/proda-brings-on-justin-timberlake-jessica-biel-as-co-founders",
-      "published_at": "2026-10-13T21:00:01+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "de04f3adc1056a24",
-      "title": "Can WK Kellogg save cereal?",
-      "summary": "After years of sales declines amid a shift in eating habits, executives at the Froot Loops and Frosted Flakes manufacturer have a plan to give the category a wake-up call.",
-      "url": "https://www.fooddive.com/news/cereal-kellogg-generalmills-healthy-snacking-breakfast-protein-fiber-sugar/826716/",
-      "published_at": "2026-10-13T21:00:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "eafe9e4aa0d8f9a9",
-      "title": "Evolution Fresh Leans Into Functional With New Probiotic Line; Generous Names New CMO",
-      "summary": "Evolution Fresh is launching Thrive, a functional beverage line, just as the brand's parent company, Generous Brands, appoints a new CMO.",
-      "url": "https://www.bevnet.com/news/2026/evolution-fresh-leans-into-functional-with-new-probiotic-line-generous-names-new-cmo",
-      "published_at": "2026-10-13T20:30:08+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "da8629b5e1b92841",
-      "title": "Beyond the Data: What Really Drives Foodservice Sales?",
-      "summary": "Tibersoft’s Suzanne Cwik and Kinetic12’s Art Bell explain how connecting commercial activity to operator behavior can help manufacturers measure what works. The post Beyond the Data: What Really…",
-      "url": "https://foodinstitute.com/podcast/beyond-the-data-what-really-drives-foodservice-sales/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-data-what-really-drives-foodservice-sales",
-      "published_at": "2026-10-13T19:45:01+08:00",
-      "source": "The Food Institute",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "0b46c070dc192f9b",
-      "title": "Vantage Nutrition highlights strategic role of nutraceutical CDMOs",
-      "summary": "The firm will highlight how early collaboration, formulation expertise and advanced delivery technologies can help supplement brands improve bioavailability, overcome formulation challenges and…",
-      "url": "https://nutraceuticalbusinessreview.com/vantage-nutrition-highlights-strategic-role-nutraceutical-cdmos",
-      "published_at": "2026-10-13T18:18:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "0700063a73d25703",
-      "title": "ドーナツのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「ドーナツ」の最新・注目度ランキングです♪（2026年10月9日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-28459/?utm_source=rss&utm_medium=mognavinews_20261014",
-      "published_at": "2026-10-13T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "df339a0db31b59c3",
-      "title": "ドーナツのトレンド人気ランキング！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「ドーナツ」の最新・注目度ランキングです♪（2026年10月9日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを…",
-      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-28459/?utm_source=rss&utm_medium=mognavinews_20261013",
-      "published_at": "2026-10-13T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "e435704e70d28715",
-      "title": "California Natural Color to showcase natural colours at SupplySide Global 2026",
-      "summary": "The company will present its concentrated crystal colour technology and grape seed extract at SupplySide Global 2026, highlighting natural colour solutions for nutraceuticals, food and beverages",
-      "url": "https://nutraceuticalbusinessreview.com/california-natural-color-natural-colours-supplyside-global",
-      "published_at": "2026-10-13T17:47:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "2e330598c75852e2",
-      "title": "Savanna Ingredients to showcase EU-manufactured allulose at SupplySide Global 2026",
-      "summary": "German allulose pioneer, together with North American distribution partner Palmer Holland, will shine a spotlight on its versatile sweetness solution",
-      "url": "https://nutraceuticalbusinessreview.com/savanna-ingredients-to-showcase-eu-manufactured-allulose-at",
-      "published_at": "2026-10-13T17:45:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "31c46f2c438a13de",
-      "title": "今週新発売の濃厚な食べものまとめ！『ばかうけ　クリームチーズ味』、『とんがりコーン　完熟トマトのハヤシライスソース味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚Befco ばかうけ クリームチーズ味 袋2枚×8冬らしい濃厚感や特別感を感…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101308/?utm_source=rss&utm_medium=mognavinews_20261014",
-      "published_at": "2026-10-13T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "00678a35d3100867",
-      "title": "今週新発売の濃厚な食べものまとめ！『ばかうけ　クリームチーズ味』、『とんがりコーン　完熟トマトのハヤシライスソース味』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！濃厚の新商品情報をお届けします。今週新発売の#濃厚Befco ばかうけ クリームチーズ味 袋2枚×8冬らしい濃厚感や特別感を感…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101308/?utm_source=rss&utm_medium=mognavinews_20261013",
-      "published_at": "2026-10-13T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
     }
   ]
 }
