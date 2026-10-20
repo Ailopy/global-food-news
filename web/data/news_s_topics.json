@@ -1,32 +1,32 @@
 {
-  "total": 328,
-  "s_plus_count": 35,
+  "total": 323,
+  "s_plus_count": 34,
   "sites": [
-    "Food Dive",
-    "日経新聞",
     "日経xTrend",
+    "朝日グループYouTube",
     "Packaging Digest",
-    "朝日グループYouTube"
+    "日経新聞",
+    "Food Dive"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "新包装": 5,
-    "新产品": 49,
-    "其他": 190,
-    "营销创新": 17,
+    "新包装": 7,
+    "新产品": 47,
+    "其他": 187,
+    "营销创新": 16,
     "品牌故事": 15,
     "渠道新物种": 12,
     "行业政策": 20,
     "新技术": 1,
-    "联名营销": 10,
+    "联名营销": 9,
     "并购融资": 4,
     "新原料": 5
   },
-  "last_updated": "2026-10-20 00:00",
-  "last_updated_iso": "2026-10-20T00:00:40.838486+08:00",
+  "last_updated": "2026-10-20 13:29",
+  "last_updated_iso": "2026-10-20T13:29:18.858127+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -159,6 +159,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-20T00:00:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WEZEazlyY0QwNmxQMEs5UUkzSEtnVTRfVjJkUFBNOUxhRVl4QlNmSEcyeHItTUppby1od3dFa21VQXIzYnBoX3NJZzdMMnpZR2w0LW5OamRZbXlSbk9lanV4b3FTQQ?oc=5",
+      "summary": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-10-20T13:29:01+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnlKUlpZZGRZbVg0ekFkd2ZPNUxsS2hlZ0tKZG1BcTkwM3hXckdkT1ZvcTZ6UUY4WnR5czJsb3lyb3V0T3BHemh5N0FseUJiQ1FKS2FDZXdxWXoyRmNZb0N4T01PSWpuNWxZaDY1RDZEaTRjcHFyOUZWWWV4MFZXSlAwejhUUVFMQVp4cmZUdGk2VEZf?oc=5",
+      "summary": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-10-20T13:29:01+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -2150,6 +2194,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-08T14:46:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WQnVZNkVsTUp4M2phT0VRMDBvS3BacVJ2U2VzcGs1TXo4bVRJVDI2MVU1blpXTi1hdmRoa0xmUnJwY1d3T2JkLTBYOTRPWDBKWkdDekU0NDQ1UFd3d1hfekx5Ylhvdw?oc=5",
+      "summary": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-07T07:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-20T13:29:01+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5466,50 +5532,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "世界からTGSへようこそ！ 海外キャンペーンを体験してみた【TGS2026】",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGM3FfN0Z4d28taFNXSWhPS3pZLXhNaGNzVk1FNHJKUXJsU1VsQnJGS2xnaDdPaGJHY09rU0oxRFNWcVhRR3BKU0xkeWI0UWVMRFQ1bUhUNGVIUWQ4RkN0dHE1SUs1dw?oc=5",
-      "summary": "世界からTGSへようこそ！ 海外キャンペーンを体験してみた【TGS2026】&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-18T06:45:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-09-19T13:14:46+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yZzY4akZMc3F3QW90WGI2T25xdC1TUkJrSHNmN2Z1dVVpVGtFUzM1MWRmSHdQSXltR3V4U2VjTlNHdGpOWEp3NTNWdk5Zd282R3JHS2hFVDNDMFNxSnpHV1dSc3RSdw?oc=5",
-      "summary": "Google Playブースは会員限定の8～10人対戦ゲームが魅力【TGS2026】&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-18T04:58:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-19T13:14:46+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（3ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pXzBzLVF3a2NLR1VLMXNFd1R0aXlqQXQ3ZVlydU1ZRnZSM1E0OTNTOXp4enJndGlDQ1Y2MTdVTmhITmVVeUFGN216QXUwNy00WEtTbl9tOHJFRkxUaV9YOEhjcXM?oc=5",
       "summary": "食品・飲料（3ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -5532,28 +5554,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "サントリー「NOPE」、8月の販売金額は16位 アサヒの対抗馬は6位止まり",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhUk4yVGswSWRUdTRieTJaNlc0Tm0xTy04ZDVWNkY1TWlSSTN5OEtlMlVQN0tLT3ZBOUhGRWNocFQ5RTVDdnVRNS1wejMzTTFFa0txVS1XQjdvbEQzSjA4X0k4U0tpUQ?oc=5",
-      "summary": "サントリー「NOPE」、8月の販売金額は16位 アサヒの対抗馬は6位止まり&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-17T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-19T13:14:46+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（190ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tY28zcDFlX3h2S1ZuYjI0eXA2UkRQdUR1cGppTEdQN3dyVktsMW94bFJMUmpJeEFXMk9nZndYeWVMVTVld2UyU2QzYkhhZDdhcmM3eWRZRzR2dkRNQTJvemI2VjF3Wjg?oc=5",
       "summary": "食品・飲料（190ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -5570,50 +5570,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-20T13:31:45+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCMm5fS1djNmdaUG9GaHJ6WnFOb0w1RkFlRWRzX05UV2R6SFZfeEY3a3RLcEJrRUpXVENQc3lKM0U3ZFpFWFY3aW44X2ZjVC1Jc1prZU51R1V2TFNaZDNORENQRElzQQ?oc=5",
-      "summary": "発売直前！ 『Castlevania: Belmont’s Curse』プレーレポート【TGS2026】&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-17T10:20:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-19T13:14:46+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "「GALLERIA」（ガレリア）ブースはコラボゲーミングPCを展示【TGS2026】",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QUmlFdk9kTmhONFlnSWhEam51clBuVTBXcGR1UGROYVN1LURfdFNVZHRPbkZKN21zREU2Yl80YVF2Tmh5Mm8wdkdLVEZTbk9QTFozajRTZmp5UkJZWVJQNFM4VDg1UQ?oc=5",
-      "summary": "「GALLERIA」（ガレリア）ブースはコラボゲーミングPCを展示【TGS2026】&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-17T09:40:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "コラボ",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-09-19T13:14:46+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5818,28 +5774,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "食品・飲料（379ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RZS12blc4ZEtXU0dkWHFOOUxvTUYya01fYmRzUWZyUTh2RFI5eGNQYm9yZ1hxWWNCaEtoS19GSHFhcUNDVjUtZG9FMXRjY2U3bFQydDl4ZmRTWElMMHU0UjNhaEFSbzg?oc=5",
-      "summary": "食品・飲料（379ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-02T12:15:54Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-19T13:14:46+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（139ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vQU43TDV3RTdyYm9ma2xFUE1YVEF2NVh1U1ZuT2lJcGRmbEZFektVcXFoRjdsc1UyM3I5WmNiYVRSeHE3YXY5MmZaTWlaSlM3X0pVQm5tM1hBNzNncm5mbjFkSXRaM2s?oc=5",
       "summary": "食品・飲料（139ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -6038,56 +5972,6 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-09-24T13:36:42+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Nestlé, PepsiCo join push to scale paper-based flexible packaging",
-      "url": "https://www.fooddive.com/news/cpgs-team-up-on-paper-flexibles-research-development-ellen-macarthur-foundation/830568/",
-      "summary": "The food giants are among the founding members of a CPG consortium to accelerate innovation for plastic alternatives.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-19T13:14:59+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Folgers launches functional coffee line featuring protein, fiber",
-      "url": "https://www.fooddive.com/news/folgers-functional-coffee-protein-fiber/830509/",
-      "summary": "The J.M. Smucker-owned brand is stepping into health trends by highlighting ingredients to boost energy, focus and digestion.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-09-19T13:14:59+08:00"
     },
     {
       "site_name": "Food Dive",
