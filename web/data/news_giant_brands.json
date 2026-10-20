@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-20T17:20:42",
+  "last_updated": "2026-10-20T20:26:34",
   "retention_days": 7,
-  "total": 698,
+  "total": 699,
   "s_count": 47,
   "a_count": 7,
-  "b_count": 644,
+  "b_count": 645,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -7712,6 +7712,17 @@
       "summary": "Food & Beverage Magazine",
       "level": "S",
       "level_reason": "新产品"
+    },
+    {
+      "brand": "Coca-Cola",
+      "brand_cn": "可口可乐",
+      "region": "中国",
+      "title": "建设安全韧性家园，可口可乐中国“净水24小时”以系统合力持续助力灾害应急响应",
+      "url": "https://www.coca-cola.com/cn/zh/media-center/2026_24hour_water_help",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
     }
   ]
 }
