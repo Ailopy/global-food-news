@@ -1,22 +1,22 @@
 {
-  "total": 336,
+  "total": 335,
   "s_plus_count": 37,
   "sites": [
-    "日経新聞",
-    "朝日グループYouTube",
-    "Food Dive",
     "Packaging Digest",
-    "日経xTrend"
+    "朝日グループYouTube",
+    "日経新聞",
+    "日経xTrend",
+    "Food Dive"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "其他": 192,
+    "品牌故事": 17,
+    "其他": 190,
     "新产品": 49,
     "营销创新": 17,
-    "品牌故事": 16,
     "联名营销": 11,
     "新包装": 7,
     "渠道新物种": 12,
@@ -25,9 +25,34 @@
     "并购融资": 5,
     "新原料": 5
   },
-  "last_updated": "2026-10-21 13:29",
-  "last_updated_iso": "2026-10-21T13:29:15.672750+08:00",
+  "last_updated": "2026-10-21 22:13",
+  "last_updated_iso": "2026-10-21T22:13:49.368514+08:00",
   "articles": [
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "クリアアサヒ＜生＞ CM「クリア、Ready？」篇 15秒 木村拓哉",
+      "url": "https://www.youtube.com/watch?v=9cNBo1Y-3Js",
+      "summary": "木村拓哉さんが出演する『クリアアサヒ＜生＞』のTVCM 「クリア、Ready？」篇 15秒 出演者：木村拓哉 ▼クリアアサヒ ブランドサイト https://www.asahibeer.co.jp/brand/clear/",
+      "published_at": "2026-10-21T01:00:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-21T22:13:49+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/9cNBo1Y-3Js/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -236,6 +261,28 @@
       "is_video": true,
       "video_thumbnail": "https://i4.ytimg.com/vi/3Zw6X1Lfgb4/hqdefault.jpg",
       "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（230ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LQWxQZzd2ajJ4WmMwb0NrWTZHQ2ctZ0dteS0xTGdJcWlEakk3Ml95WHV2MTQ2V3N3eVNfd0d4VTZMcThVZ3d2SFNyWGRrakV4T2JFRTZVcU80bllPeHBZT29lS2JnTjA?oc=5",
+      "summary": "食品・飲料（230ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-20T00:14:19Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-21T22:13:30+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -5697,28 +5744,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "これが30周年メニュー「TGS BOOST FOOD」だ！ フードコート探訪1【TGS2026】",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pT1IxZTMtN1c3azdCYjNaUkc5S2Z4UUYtMU9VU29jMHJNVDg0R2QxYVNwZk5oY09ZU0QyNV9qU1lDVk83c3luSm80R21fQ0RfUmU4Y2l1VFlDOF9nUDJnM0dINzQ5QQ?oc=5",
-      "summary": "これが30周年メニュー「TGS BOOST FOOD」だ！ フードコート探訪1【TGS2026】&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-20T03:03:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-20T13:31:45+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（337ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxRGZTR3NIY2lHeS1BVGZBNTBoTl8wVVVaeF9mcmtCRm5CUndiNHdfMmQ3Ny1fMjFCdHJpVUlWaHJfLVVYcldHajVaS0trQklDek5PTjFqRnkxSGsyN29wSWtiZ3NtekE?oc=5",
       "summary": "食品・飲料（337ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -5757,72 +5782,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-25T13:33:44+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（5ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PdG9oQTJCNTBBZThHNW1WUlFaODgwaDFKN05rMHd4Qi1PV1ptRHJPRVNld1VqSFhIcDNNd0NHWk4yc0dYTDBEZXlndGlfZzlDcTVKTi1oazVSTEc1d1djSkZraHg?oc=5",
-      "summary": "食品・飲料（5ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-18T15:46:20Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-20T13:31:45+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（3ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pXzBzLVF3a2NLR1VLMXNFd1R0aXlqQXQ3ZVlydU1ZRnZSM1E0OTNTOXp4enJndGlDQ1Y2MTdVTmhITmVVeUFGN216QXUwNy00WEtTbl9tOHJFRkxUaV9YOEhjcXM?oc=5",
-      "summary": "食品・飲料（3ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-17T19:15:36Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-20T13:31:45+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（190ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tY28zcDFlX3h2S1ZuYjI0eXA2UkRQdUR1cGppTEdQN3dyVktsMW94bFJMUmpJeEFXMk9nZndYeWVMVTVld2UyU2QzYkhhZDdhcmM3eWRZRzR2dkRNQTJvemI2VjF3Wjg?oc=5",
-      "summary": "食品・飲料（190ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-17T13:27:59Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-20T13:31:45+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -7755,6 +7714,28 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-10-21T13:29:10+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Texas sues Nestlé’s Gerber over alleged heavy metals in baby food",
+      "url": "https://www.fooddive.com/news/texas-sues-nestles-gerber-over-alleged-heavy-metals-in-baby-food/833365/",
+      "summary": "Attorney General Ken Paxton, who is in the midst of a high-profile Senate election, is seeking more than $10 million in penalties.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-21T22:13:44+08:00"
     }
   ]
 }
