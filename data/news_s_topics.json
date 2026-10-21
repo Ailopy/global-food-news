@@ -1,33 +1,155 @@
 {
-  "total": 326,
-  "s_plus_count": 35,
+  "total": 336,
+  "s_plus_count": 37,
   "sites": [
-    "日経xTrend",
+    "日経新聞",
     "朝日グループYouTube",
-    "Packaging Digest",
     "Food Dive",
-    "日経新聞"
+    "Packaging Digest",
+    "日経xTrend"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
+    "其他": 192,
+    "新产品": 49,
+    "营销创新": 17,
     "品牌故事": 16,
-    "联名营销": 10,
-    "其他": 188,
+    "联名营销": 11,
     "新包装": 7,
-    "新产品": 47,
-    "营销创新": 16,
     "渠道新物种": 12,
     "行业政策": 20,
-    "新技术": 1,
-    "并购融资": 4,
+    "新技术": 2,
+    "并购融资": 5,
     "新原料": 5
   },
-  "last_updated": "2026-10-20 21:57",
-  "last_updated_iso": "2026-10-20T21:57:55.937153+08:00",
+  "last_updated": "2026-10-21 13:29",
+  "last_updated_iso": "2026-10-21T13:29:15.672750+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "購買データで見るニューシニア消費の実像 菓子・酒が伸びる意外な理由",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01488/00003/?n_cid=nbpnxr_rss",
+      "summary": "「シニアは健康志向で、手料理を大切にする」。そんな定説が揺らいでいる。マクロミルの調査データを分析すると、70代以上では菓子や酒類への支出が伸びる一方、健康関連意識は低下。2017年と25年の調査データを比較し、「令和のニューシニア」の消費実態と消費意識の変化を明らかにした。",
+      "published_at": "2026-10-21T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-21T13:28:57+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "“グランスタ多すぎ問題”を地下1階で解決 迷わない東京駅グルメ図解",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01491/00010/?n_cid=nbpnxr_rss",
+      "summary": "2026年10月2日発売の「日経トレンディ2026年11月号」では、「細かすぎる東京駅最新案内2026」を特集。主要施設だけでも約500もの飲食店がひしめく東京駅。その攻略のカギを握るのが、改札内外に広がる国内最大級の駅ナカ商業施設「グランスタ」だ。実は系列施設は5つあり、慣れない人には位置関係が分かりにくい。そこで基準にしたいのが、全施設がそろう地下1階。丸の内側から八重洲側まで、各施設の位置と店の傾向、行き来に便利なルートを押さえれば、混雑時にも別の選択肢を見つけやすい。巨大グルメエリアを効率よく楽しむ攻略法を紹介する。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-10-21T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-21T13:28:57+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "70歳以上限定でも毎年完売 星野リゾート定期券ヒットにシニアの本音",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01488/00004/?n_cid=nbpnxr_rss",
+      "summary": "「シニア向けとうたうとシニアに嫌われる」。シニア向けマーケティングでよく言われる定説だ。だが、実際には差別化を意識するがゆえに、ついつい「シニアに優しい」と打ち出してしまい、失敗する事例は枚挙にいとまがない。そんな状況の中で、しっかりとシニアに受けているサービスがある。星野リゾートの温泉旅館ブランド「界」が提供する70歳以上を対象とした年間12泊できる定額制サービス「温泉めぐり 界の定期券」だ。手すりや介護用品などのシニア向けの手厚いサポートではなく、旅に出るきっかけや達成感、好奇心を刺激する設計が支持を集めた。ヒットの背景から、今どきシニアのインサイトを探る。",
+      "published_at": "2026-10-21T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "完売",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-10-21T13:28:57+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "サントリー天然水が売り上げ2割増 ヘラルボニーはなぜ企業に選ばれる",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02986/?n_cid=nbpnxr_rss",
+      "summary": "米グーグルやトヨタ自動車、日本航空などとのプロジェクトで知られるヘラルボニー。同社は2026年7月14日よりサントリーと「サントリー天然水 ヘラルボニーアートラベル」「サントリー天然水 SPARKLING ヘラルボニーアートラベル」などを数量限定で発売した。ヘラルボニーの活動と両社のコラボについて聞いた。",
+      "published_at": "2026-10-21T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-21T13:28:57+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "購買データで見るニューシニア消費の実像 菓子・酒が伸びる意外な理由",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOak5hNjNlVnJUbno2ejFCNS03NTM0ZTBfUHJOcjVteWh0TjRiQ1drcmt4czd3RjFXak1JNjhvdTgwS2JXeTFnVkRTVEhfeHhlakVSbU9MM2lmbmdPSW5vWGtUcVNyODlQZDBwazZ0VXJYMVJneHRPMlVHWkhFcS1CM2cydzVNZUlVeHBjSURTYw?oc=5",
+      "summary": "購買データで見るニューシニア消費の実像 菓子・酒が伸びる意外な理由&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-20T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-21T13:28:55+08:00"
+    },
     {
       "site_name": "朝日グループYouTube",
       "site_name_en": "Asahi Group YouTube",
@@ -506,6 +628,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-19T13:26:58+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（292ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Gb2lSM0VjckxTM2xzOHc3STQ3Y1RqaU90a0YyTU5JV0FKeEM2UEh2M3ZVeUowd1AtQXA1RENwdjF5R2R5RVBiQ0E0R3ZfWEZJd2dfc29zNmJtN0hPS1k3SzVFb0ZveUk?oc=5",
+      "summary": "食品・飲料（292ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-18T19:40:24Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-21T13:28:55+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -2027,6 +2171,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-09T14:54:09+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "400万枚超のレシート分析 ドラッグで食品を買うのは女性よりも男性 （2ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTUQxaWFnaEZMTEktNmFmNWVsZzhVWTBKX1dyY2FEbVptaEg1dDFYSjlVSEZkUVNhQUtpWnpESnhGdWtSTEg0U01wc3F2LXo3ZnhhX2RWVGhFQ2ZSTmpVQTA2Ml9fOVlhLTdr?oc=5",
+      "summary": "400万枚超のレシート分析 ドラッグで食品を買うのは女性よりも男性 （2ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-08T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-21T13:28:55+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -7511,6 +7677,84 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-10-20T00:00:33+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Primo Brands opens first new factory post merger",
+      "url": "https://www.fooddive.com/news/primo-brands-mountain-valley-production-facility-arizona/833359/",
+      "summary": "The Arkansas plant will increase production for sparkling water brand Mountain Valley as demand for premium beverages surges.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 2
+        },
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-10-21T13:29:10+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Leftovers: Ghirardelli bites into Dubai chocolate | PepsiCo’s Flamin’ Hot spices up Pilgrim’s chicken",
+      "url": "https://www.fooddive.com/news/ghirardelli-dubai-chocolate-perdue-pepsico-chicken-cpk-salads/833232/",
+      "summary": "The chocolatier is the latest to jump into the TikTok-inspired craze, while California Pizza Kitchen expands its CPG lineup with prepackaged salads.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新技术",
+          "icon": "⚡",
+          "color": "#0891b2",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新技术",
+      "scraped_at": "2026-10-21T13:29:10+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Kendall Jenner’s 818 Tequila is ready to take on Gen Z after Sazerac deal",
+      "url": "https://www.fooddive.com/news/818-tequila-sales-growth-sazerac-kendall-jenner/832557/",
+      "summary": "Months into its partnership with the Fireball owner, the celebrity-backed spirits brand is rapidly expanding and on pace to deliver its biggest sales year.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-10-21T13:29:10+08:00"
     }
   ]
 }
