@@ -1,33 +1,80 @@
 {
-  "total": 348,
-  "s_plus_count": 37,
+  "total": 355,
+  "s_plus_count": 38,
   "sites": [
-    "Food Dive",
     "日経新聞",
-    "日経xTrend",
+    "Packaging Digest",
     "朝日グループYouTube",
-    "Packaging Digest"
+    "日経xTrend",
+    "Food Dive"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "其他": 198,
+    "渠道新物种": 13,
+    "品牌故事": 19,
+    "其他": 202,
     "新产品": 51,
     "营销创新": 19,
-    "品牌故事": 18,
     "联名营销": 11,
     "新包装": 7,
-    "渠道新物种": 12,
-    "行业政策": 20,
+    "行业政策": 21,
     "新技术": 2,
     "并购融资": 5,
     "新原料": 5
   },
-  "last_updated": "2026-10-22 13:34",
-  "last_updated_iso": "2026-10-22T13:34:08.866557+08:00",
+  "last_updated": "2026-10-22 22:13",
+  "last_updated_iso": "2026-10-22T22:13:33.769214+08:00",
   "articles": [
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Sunrise 2027 &amp; Its Online Package Coding Solutions Explained",
+      "url": "https://www.packagingdigest.com/trends-issues/sunrise-2027-its-online-package-coding-solutions-explained",
+      "summary": "Moving from a linear UPC code to a robust 2D code for retail products delivers many efficiency, supply chain, and marketing benefits for brands and retailers. Implementation on the packaging line isn’t as hard as it might seem.",
+      "published_at": "2026-10-22T13:48:52Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-10-22T22:13:32+08:00"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "クリアアサヒ＜生＞ CM「10.27、クリアな生ビールへ」篇 15秒 木村拓哉",
+      "url": "https://www.youtube.com/watch?v=QzfvKJHseoE",
+      "summary": "木村拓哉さんが出演する『クリアアサヒ＜生＞』のTVCM 「10.27、クリアな生ビールへ」篇 15秒 出演者：木村拓哉 ▼クリアアサヒ ブランドサイト https://www.asahibeer.co.jp/brand/clear/",
+      "published_at": "2026-10-22T09:00:07Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-22T22:13:33+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/QzfvKJHseoE/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -400,6 +447,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-21T13:28:55+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "購買データで見るニューシニア消費の実像 菓子・酒が伸びる意外な理由",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWtHTGRRZEYtb0x5aXBTa25iMERCOFZhbmtTeXZLbXlkd3NhYkR1dkQxYU83QTlRR3JGWmhxTm1uUERnUWtDZ2YySHpPVlZmUTFOcWJYVWkxUDloS1l0a19fVlJfRmtPQm1SbF90bUJSWmllUTZSSDlQakZ4dERobGxJTU11cDZRN1Zr?oc=5",
+      "summary": "購買データで見るニューシニア消費の実像 菓子・酒が伸びる意外な理由&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-20T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T22:13:16+08:00"
     },
     {
       "site_name": "朝日グループYouTube",
@@ -1189,6 +1258,28 @@
       "scraped_at": "2026-10-16T11:40:27+08:00"
     },
     {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（103ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tUkkzUnpBR2otME4wSlQxdXk1czZzYUtXX2EycFBIMnJ6d1E1TjQ5YU00RkZZYmdyUGQ3aUxLeFc4aWtBZkZkTl9lRVZvTjNsSU5vUk15MkNocThxSkItM3NuOTg2U1k?oc=5",
+      "summary": "食品・飲料（103ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-15T14:51:58Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T22:13:16+08:00"
+    },
+    {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
       "region": "日本",
@@ -1331,6 +1422,28 @@
       ],
       "primary_category": "新技术",
       "scraped_at": "2026-10-16T11:40:29+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（282ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Va2NqUS15cmhKa0IwYnpaZWFXLWRVMEg1WVFRYlBlX2JaU2J5NThOQzVKdkhSNm1MaUE2bkt4WF9LUV9sR09HcEhuOENhN2l0aWVxYTBhWnZZTVh0VkpwSXFMNHhGa2c?oc=5",
+      "summary": "食品・飲料（282ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-14T22:36:24Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T22:13:16+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -3756,6 +3869,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-16T21:37:21+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ファミマ、新食感パンが3000万食 ミスド「もっちゅりん」にない生地の妙",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50U1p3N2k3bFFTTDlhazA5MFh6Y0JZOU9RWVUyU2dTNTNZQkZFS1dVSU9scTN0cV9aV3JhdDFZbXloV3NpNXk1d3gyM2pERlhCWXl2aXFZTFYzZ19BLXAtNUg4Y3dtQQ?oc=5",
+      "summary": "ファミマ、新食感パンが3000万食 ミスド「もっちゅりん」にない生地の妙&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-02T07:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "食感",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T22:13:16+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -8028,6 +8163,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-22T13:34:04+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nestlé to close Ohio factory by end of 2027",
+      "url": "https://www.fooddive.com/news/nestle-plant-closure-ohio/833464/",
+      "summary": "The food giant will move production to South Carolina, saying it is \"the most sustainable path forward\" as consumer needs and volumes shift.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-10-22T22:13:29+08:00"
     }
   ]
 }
