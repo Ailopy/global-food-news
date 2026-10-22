@@ -1,22 +1,22 @@
 {
-  "total": 335,
+  "total": 348,
   "s_plus_count": 37,
   "sites": [
-    "Packaging Digest",
-    "朝日グループYouTube",
+    "Food Dive",
     "日経新聞",
     "日経xTrend",
-    "Food Dive"
+    "朝日グループYouTube",
+    "Packaging Digest"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "品牌故事": 17,
-    "其他": 190,
-    "新产品": 49,
-    "营销创新": 17,
+    "其他": 198,
+    "新产品": 51,
+    "营销创新": 19,
+    "品牌故事": 18,
     "联名营销": 11,
     "新包装": 7,
     "渠道新物种": 12,
@@ -25,9 +25,235 @@
     "并购融资": 5,
     "新原料": 5
   },
-  "last_updated": "2026-10-21 22:13",
-  "last_updated_iso": "2026-10-21T22:13:49.368514+08:00",
+  "last_updated": "2026-10-22 13:34",
+  "last_updated_iso": "2026-10-22T13:34:08.866557+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "顧客はなぜ同じ商品を選び続けないのか AIでロイヤルティーが崩れる訳",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01971/?n_cid=nbpnxr_rss",
+      "summary": "「Shoptalk」は、米国で開かれる、小売業向けとしては世界最大級のカンファレンスだ。直近開催のShoptalk Fall 2026では、AIエージェントによって生活者の購買行動がどう変わるかに注目が集まった。現地でキーパーソンはいったい何を語ったのか、2回にわたって詳細なリポートをお届けする。",
+      "published_at": "2026-10-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T13:33:52+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "コストコ、アマゾン対抗の切り札？ Walmart新会員制度の破壊力",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00109/00236/?n_cid=nbpnxr_rss",
+      "summary": "日常の食品や日用品は「Amazon.com」で、週末のまとめ買いは「Costco」で——。そんな買い物を好む生活者を狙い撃ちし、自社経済圏へ呼び込む秘策を米国の大手スーパーWalmartが打ち出した。新たな有料会員制度「Walmart+ with Sam’s Club Plus」を年額120ドルでスタートさせたのだ。同社の狙いはどこにあるのか。そこから日本の小売業界が学ぶべきことは何か。",
+      "published_at": "2026-10-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T13:33:52+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "スタバやベックスを味で超えた書店とは 東京駅13店最強コーヒー選手権",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01491/00011/?n_cid=nbpnxr_rss",
+      "summary": "2026年10月2日発売の「日経トレンディ2026年11月号」では、「細かすぎる東京駅最新案内2026」を特集。新幹線に乗る前、東京駅でコーヒーを買うならどこが正解か。駅周辺の13店を対象に、コスパ、味、タイパの観点から徹底比較した。コーヒー1g当たりの価格、バリスタの評価、東海道新幹線ホームまでの近さなどから検証し、出張前の一杯に選びたい「最強の5店」を選んだ。本文の最後には全店のスコアを確認できる「日経トレンディ」該当ページをPDFで表示するリンクを用意している。",
+      "published_at": "2026-10-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-22T13:33:52+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "健康志向はどこへ？ 「n＝1」購買データが映す令和シニアの日常",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01488/00005/?n_cid=nbpnxr_rss",
+      "summary": "シニアの消費行動や意識に意外な変化が起きている。特に、菓子や酒類の消費が増え、健康への意識の低下が際立っていることがデータからは見えてきた。そうした新しい消費行動をとっている令和のニューシニアが、実際どんな商品を買っているのか、大手マーケティング・リサーチ会社のマクロミルの消費者購買履歴データから、個別（n＝1）の人の購買生データを追ってみた。リアルな消費の実態をのぞき見してみよう。",
+      "published_at": "2026-10-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-10-22T13:33:52+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "AIに選ばれるための即効策 Googleも頼るエージェント最適化技術",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01478/00002/?n_cid=nbpnxr_rss",
+      "summary": "急速に進化する「AIエージェント」は、消費者の代わりにWebサイトを巡回し、比較し、予約や購入まで実行できるようになりました。技術進化によって、消費者を実店舗へ導く新しい入り口になりつつあります。米Googleや米DoorDashなど大手企業向けに毎月数千万件規模のWeb操作インフラを提供する米TinyFishの共同創業者兼COO、キース・ザイ氏に、その最前線を聞きました。",
+      "published_at": "2026-10-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-22T13:33:52+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ビールカルテル疑惑の教訓 横並びに頼らないメーカーの値上げ交渉術",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01967/?n_cid=nbpnxr_rss",
+      "summary": "ビール類の酒税一本化で市場活性化への期待が高まっていた矢先、ビール大手4社に価格カルテルの疑いで公正取引委員会の強制調査が入った。なぜメーカーは単独での値上げをためらうのか。トレマ代表取締役の井本悠樹氏は、値上げ交渉が小売りとの「貸し」「借り」に陥り、ショッパー不在のまま進むことに課題があると指摘する。バイヤーに「値上げしたい」と思わせる提案の組み立て方から、価格以外で売り上げを補う店頭のレバー、マーケターの役割まで、値上げが相次ぐ時代の流通商談のあり方を探る。",
+      "published_at": "2026-10-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T13:33:52+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "iPhone Duoを使って分かった魅力と課題 普及の鍵は「開く理由」の発明",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02991/?n_cid=nbpnxr_rss",
+      "summary": "米Apple初の折りたたみスマートフォン「iPhone Duo」を数日間使い、その価値を検証した。使い勝手は従来のiPhoneそのもので、大画面や自由な設置スタイルが魅力。一方、重さや価格の高さに加え、他のiPhoneを置き換える決定的な優位性はまだ限定的。本体を「開く理由」をどこまで育てられるかが今後の注目点だ。",
+      "published_at": "2026-10-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T13:33:52+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ChatGPT広告経由の訪問者「新規が93％」 ブランド適合の試験強化",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00008/?n_cid=nbpnxr_rss",
+      "summary": "米OpenAIは、外部のアドベリフィケーション会社と連携し、ChatGPT広告のブランド適合性を検証する試験を開始する。一部ブランドでは、ChatGPT広告経由の訪問客のうち93％が新規訪問者だったという成果も見え始めた。外部パートナーとの連携で、広告チャネルとしての信頼性をどう高めるのか。広告やマーケティングの米有力誌「ADWEEK」がリポートする。",
+      "published_at": "2026-10-22T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-10-22T13:33:52+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "New Recyclable, Metallized, High-Barrier PE Film is Food-Friendly",
+      "url": "https://www.packagingdigest.com/flexible-packaging/new-recyclable-metallized-high-barrier-pe-film-is-food-friendly",
+      "summary": "Pregis’ latest metallized PE film is a mono-material that's prequalified for How2Recycle and has passed third-party testing for its first snack food.",
+      "published_at": "2026-10-21T18:57:33Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T13:34:06+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "飲料に学ぶ商品企画の“新髄”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TVHpZWjRUSUpsOFRKajNvUWpURUdWbGkwTEx0V040WUZpX2ZxQUg1d1NZdElGWUdwa0tfa3N3ZXV1ZkJjcDRXcXQ4a0VXWkdyNURfd05BbGtrUkRfeGc?oc=5",
+      "summary": "飲料に学ぶ商品企画の“新髄”&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-21T10:45:38Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T13:33:50+08:00"
+    },
     {
       "site_name": "朝日グループYouTube",
       "site_name_en": "Asahi Group YouTube",
@@ -459,6 +685,28 @@
       ],
       "primary_category": "新包装",
       "scraped_at": "2026-10-20T13:29:01+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "プロが人気駅弁を実食比較 東京駅のベストは牛肉弁当かロケ弁カレーか",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XMGhmbEtmbDlaWVpKaHhialNQYUFxV21PbmZOeEttVWo1QkI2bTh5YmtHaWwwZVVLT2M0VWdzOE1XWlNxeWxkcjlSekdVQjg3R0gtRnV3MWxEWVNNTXlVWVpTZnZwUQ?oc=5",
+      "summary": "プロが人気駅弁を実食比較 東京駅のベストは牛肉弁当かロケ弁カレーか&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T13:33:50+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -7736,6 +7984,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-21T22:13:44+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Mondelēz launches gluten-free Ritz crackers",
+      "url": "https://www.fooddive.com/news/mondelezs-ritz-gluten-free-cracker-oreo-soup-cheezits/833395/",
+      "summary": "The snack giant has previously released gluten-free versions of Oreo and Chips Ahoy! as brands look for growth by catering to a range of dietary needs.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-22T13:34:04+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Mondelēz finds success beyond Oreo with nostalgic cookie brands",
+      "url": "https://www.fooddive.com/news/Snacking-mondelez-cookies-oreo-chipsahoy/830454/",
+      "summary": "Sales of the snack giant’s smaller cookie offerings, such as Nutter Butter and Nilla Wafers, are accelerating as consumers embrace familiarity.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-22T13:34:04+08:00"
     }
   ]
 }
