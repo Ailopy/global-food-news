@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-10-23T17:14:38.008146+08:00",
-  "total": 12795,
+  "last_updated": "2026-10-23T21:55:39.707581+08:00",
+  "total": 12802,
   "articles": [
+    {
+      "id": "79d58342e74528ce",
+      "title": "Morrisons fresh produce gets a monstrous makeover for Halloween in new OOH campaign by Leo UK",
+      "summary": "Morrisons and Leo UK are bringing some Halloween fun to the fresh produce aisle with “Market Street Monsters”, a new OOH campaign turning everyday fruit and veg into spooky characters. Using simple…",
+      "url": "https://fabnews.live/morrisons-fresh-produce-gets-a-monstrous-makeover-for-halloween-in-new-ooh-campaign-by-leo-uk/",
+      "published_at": "2026-10-23T21:16:42+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "151cb5321b085337",
+      "title": "New Beverages: GORGIE Makes a ‘Splash,’ Uncle Matt’s Makes ‘Magic’; Plift Pivots",
+      "summary": "This week's new product gallery features female-focused \"quiet energy,\" a pair of new drops from Uncle Matt's, Pepsi's latest LTO soda and GORGIE's take on the Shirley Temple.",
+      "url": "https://www.bevnet.com/news/2026/new-beverages-gorgie-makes-a-splash-uncle-matts-makes-magic-plift-pivots",
+      "published_at": "2026-10-23T21:00:39+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "29be991454bab1d5",
+      "title": "New Products: Lay’s Sets the Holiday Table; Dan-O’s Gets Sweet",
+      "summary": "In this week’s new products roundup, Lay’s serves up holiday-inspired flavors, Dan-O’s brings its seasonings to the sweet side, and Ritz introduces a gluten-free take on its classic crackers.",
+      "url": "https://www.nosh.com/news/2026/new-products-lays-sets-the-holiday-table-dan-os-gets-sweet",
+      "published_at": "2026-10-23T21:00:37+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "addcc5274135ac8a",
+      "title": "Symrise unveils new clinical data for skin and gut health at SupplySide Global 2026",
+      "summary": "The company will showcase new clinical findings for its Acerowell beauty-from-within ingredient and probiotic combination at the show, alongside its expanding postbiotic portfolio through Probi and…",
+      "url": "https://nutraceuticalbusinessreview.com/symrise-unveils-new-clinical-data-skin-gut-supplyside",
+      "published_at": "2026-10-23T19:28:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "684423f4b09f188e",
+      "title": "Brevel to build 300,000-litre illuminated fermentation plant in India",
+      "summary": "The biotech has partnered with India’s Wave Group to develop a $10–15m biomanufacturing facility, scaling up clean-label chlorella production and creating capacity for plant cell culture ingredients",
+      "url": "https://nutraceuticalbusinessreview.com/brevel-build-300-000-litre-illuminated-fermentation-plant-india",
+      "published_at": "2026-10-23T19:08:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "3848a81edcbc5d6e",
+      "title": "カップスープのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「カップスープ」の最新・注目度ランキングです♪（2026年10月23日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-29284/?utm_source=rss&utm_medium=mognavinews_20261023",
+      "published_at": "2026-10-23T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "0f15490bd91f0f41",
+      "title": "今週新発売のもち麦まとめ！『お団子の入ったぜんざい』、『１０種おかずのおにぎりセット　もち麦入りご飯』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！もち麦の新商品情報をお届けします。今週新発売の#もち麦セブン-イレブン お団子の入ったぜんざい大粒の金時豆ともち麦を甘く煮た「…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102308/?utm_source=rss&utm_medium=mognavinews_20261023",
+      "published_at": "2026-10-23T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "f069278fd87da819",
       "title": "リンツ「ゴールデンキャラメル ショコラドリンク」発売、キャラメルの甘みとヘーゼルナッツの香ばしさをショコラドリンクで表現",
