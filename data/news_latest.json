@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-23T17:14:38.161311+08:00",
+  "last_updated": "2026-10-23T21:55:39.825201+08:00",
   "retention_days": 7,
-  "total": 520,
+  "total": 518,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,90 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "79d58342e74528ce",
+      "title": "Morrisons fresh produce gets a monstrous makeover for Halloween in new OOH campaign by Leo UK",
+      "summary": "Morrisons and Leo UK are bringing some Halloween fun to the fresh produce aisle with “Market Street Monsters”, a new OOH campaign turning everyday fruit and veg into spooky characters. Using simple…",
+      "url": "https://fabnews.live/morrisons-fresh-produce-gets-a-monstrous-makeover-for-halloween-in-new-ooh-campaign-by-leo-uk/",
+      "published_at": "2026-10-23T21:16:42+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "151cb5321b085337",
+      "title": "New Beverages: GORGIE Makes a ‘Splash,’ Uncle Matt’s Makes ‘Magic’; Plift Pivots",
+      "summary": "This week's new product gallery features female-focused \"quiet energy,\" a pair of new drops from Uncle Matt's, Pepsi's latest LTO soda and GORGIE's take on the Shirley Temple.",
+      "url": "https://www.bevnet.com/news/2026/new-beverages-gorgie-makes-a-splash-uncle-matts-makes-magic-plift-pivots",
+      "published_at": "2026-10-23T21:00:39+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "29be991454bab1d5",
+      "title": "New Products: Lay’s Sets the Holiday Table; Dan-O’s Gets Sweet",
+      "summary": "In this week’s new products roundup, Lay’s serves up holiday-inspired flavors, Dan-O’s brings its seasonings to the sweet side, and Ritz introduces a gluten-free take on its classic crackers.",
+      "url": "https://www.nosh.com/news/2026/new-products-lays-sets-the-holiday-table-dan-os-gets-sweet",
+      "published_at": "2026-10-23T21:00:37+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "addcc5274135ac8a",
+      "title": "Symrise unveils new clinical data for skin and gut health at SupplySide Global 2026",
+      "summary": "The company will showcase new clinical findings for its Acerowell beauty-from-within ingredient and probiotic combination at the show, alongside its expanding postbiotic portfolio through Probi and…",
+      "url": "https://nutraceuticalbusinessreview.com/symrise-unveils-new-clinical-data-skin-gut-supplyside",
+      "published_at": "2026-10-23T19:28:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "684423f4b09f188e",
+      "title": "Brevel to build 300,000-litre illuminated fermentation plant in India",
+      "summary": "The biotech has partnered with India’s Wave Group to develop a $10–15m biomanufacturing facility, scaling up clean-label chlorella production and creating capacity for plant cell culture ingredients",
+      "url": "https://nutraceuticalbusinessreview.com/brevel-build-300-000-litre-illuminated-fermentation-plant-india",
+      "published_at": "2026-10-23T19:08:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "3848a81edcbc5d6e",
+      "title": "カップスープのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「カップスープ」の最新・注目度ランキングです♪（2026年10月23日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-29284/?utm_source=rss&utm_medium=mognavinews_20261023",
+      "published_at": "2026-10-23T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "0f15490bd91f0f41",
+      "title": "今週新発売のもち麦まとめ！『お団子の入ったぜんざい』、『１０種おかずのおにぎりセット　もち麦入りご飯』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！もち麦の新商品情報をお届けします。今週新発売の#もち麦セブン-イレブン お団子の入ったぜんざい大粒の金時豆ともち麦を甘く煮た「…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102308/?utm_source=rss&utm_medium=mognavinews_20261023",
+      "published_at": "2026-10-23T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "f069278fd87da819",
       "title": "リンツ「ゴールデンキャラメル ショコラドリンク」発売、キャラメルの甘みとヘーゼルナッツの香ばしさをショコラドリンクで表現",
@@ -6148,114 +6232,6 @@
       "region": "北美",
       "category": "综合",
       "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "d071a6fd74e6e359",
-      "title": "Sunshine Buns Raising $7M, Launches At Target",
-      "summary": "Frozen cinnamon roll brand Sunshine Buns is in the process of raising a $7 million round as it enters 1,000 Target locations nationwide.",
-      "url": "https://www.nosh.com/news/2026/sunshine-buns-raises-7m-launches-at-target",
-      "published_at": "2026-10-16T21:24:04+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "d91f02cc639d9212",
-      "title": "Sunshine Buns Raises $7M, Launches At Target",
-      "summary": "Frozen cinnamon roll brand Sunshine Buns is in the process of raising a $7 million round as it enters 1,000 Target locations nationwide.",
-      "url": "https://www.nosh.com/news/2026/sunshine-buns-raises-7m-launches-at-target",
-      "published_at": "2026-10-16T21:24:04+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "7404dd65e5feb75d",
-      "title": "New Beverages: Happy Doomsday To You; Bragg Finds Its ‘Zing’",
-      "summary": "This week's new product gallery features a Happy team of superheroes, the latest protein/energy drink, and a new RTD line from the king of ACV.",
-      "url": "https://www.bevnet.com/news/2026/new-beverages-happy-doomsday-to-you-bragg-finds-its-zing",
-      "published_at": "2026-10-16T21:15:06+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "1ed740c7c56610cd",
-      "title": "Azúcar Tequila Recruits the Cavinder Twins for New Tequila RTD",
-      "summary": "Influencers and former collegiate basketball players Haley and Hanna Cavinder are aiming to throw Azúcar Tequila an alley-oop as the creative directors of its new ready-to-drink (RTD) margaritas, the…",
-      "url": "https://www.bevnet.com/spirits/2026/azucar-tequila-recruits-the-cavinder-twins-for-new-tequila-rtd",
-      "published_at": "2026-10-16T20:30:20+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "b7c47c9ff68bf689",
-      "title": "Standard Process launches MediHerb GLP-1 herbal supplement",
-      "summary": "The new hops and feverfew formula targets satiety signalling and digestive health, as Standard Process expands its practitioner-focused nutrition portfolio amid growing interest in GLP-1 pathways",
-      "url": "https://nutraceuticalbusinessreview.com/standard-process-launches-mediherb-glp-1-herbal-supplement",
-      "published_at": "2026-10-16T17:49:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "d52ceb02b2f9145d",
-      "title": "今週新発売の惣菜パンまとめ！『肉じゃがコロッケとマカロニサラダ』、『台湾唐揚げ風　横濱炸鶏排監修』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック 肉じゃがコロッケとマカロニサラダ一方のパンには肉じ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101608/?utm_source=rss&utm_medium=mognavinews_20261017",
-      "published_at": "2026-10-16T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "be0923f25827e75a",
-      "title": "今週新発売の惣菜パンまとめ！『肉じゃがコロッケとマカロニサラダ』、『台湾唐揚げ風　横濱炸鶏排監修』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ランチパック 肉じゃがコロッケとマカロニサラダ一方のパンには肉じ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026101608/?utm_source=rss&utm_medium=mognavinews_20261016",
-      "published_at": "2026-10-16T17:30:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "801ca97ed371b0b5",
-      "title": "【しゃぶしゃぶ温野菜】学生限定「食べ飲み放題」、2,500円で40品以上が食べ放題",
-      "summary": "しゃぶしゃぶチェーンの「しゃぶしゃぶ温野菜」は、10月19日（月）から11月30日（月）まで、学生グループ限定の「食べ飲み放題」を平日限定・店舗限定で実施する。 肉、野菜、逸品料理、〆ものなど40品以上の食べ放題にソフト...",
-      "url": "https://www.ssnp.co.jp/foodservice/707419/",
-      "published_at": "2026-10-16T17:29:48+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "b01b74aa24360a41",
-      "title": "Layn Natural Ingredients expands monk fruit sweetener range for SupplySide Global",
-      "summary": "The company will showcase new monk fruit decoction powders and liquids at SupplySide Global 2026, alongside sweetener, weight management and gut health ingredients",
-      "url": "https://nutraceuticalbusinessreview.com/layn-natural-ingredients-expands-monk-fruit-sweetener-range",
-      "published_at": "2026-10-16T17:20:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
       "language": "en"
     }
   ]
