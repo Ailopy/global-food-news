@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T11:07:19.003369+08:00",
+  "last_updated": "2026-10-24T16:47:34.327505+08:00",
   "total": 12841,
   "articles": [
     {
@@ -447,18 +447,6 @@
       "language": "ja"
     },
     {
-      "id": "8c2789a651152355",
-      "title": "今週新発売の塩◯◯まとめ！『塩あんホイップパン』、『麺たっぷり！大盛　塩バジリコチーズ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯ニューデイズ ニュータスBakery 塩あんホイップパン塩味の効いたつぶ…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102307/?utm_source=rss&utm_medium=mognavinews_20261024",
-      "published_at": "2026-10-23T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "03c6fb4b9ddc3713",
       "title": "Pomegranate for skin health: exploring nature's potential",
       "summary": "Despite pomegranate’s long history as both a food and a traditional remedy, consumers in today’s nutricosmetics market are seeking indisputable evidence of its efficacy",
@@ -469,6 +457,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "8c2789a651152355",
+      "title": "今週新発売の塩◯◯まとめ！『塩あんホイップパン』、『麺たっぷり！大盛　塩バジリコチーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩◯◯の新商品情報をお届けします。今週新発売の#塩◯◯ニューデイズ ニュータスBakery 塩あんホイップパン塩味の効いたつぶ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102307/?utm_source=rss&utm_medium=mognavinews_20261024",
+      "published_at": "2026-10-23T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "635d2d2470219c83",
