@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-10-25T17:03:43.451038+08:00",
-  "total": 12892,
+  "last_updated": "2026-10-25T21:26:33.419286+08:00",
+  "total": 12895,
   "articles": [
+    {
+      "id": "58f6ba29f650fc11",
+      "title": "The Sunday Edition: UPF defined",
+      "summary": "The FDA has already missed last April’s deadline for coming up with a definition.",
+      "url": "https://www.foodsafetynews.com/2026/10/the-sunday-edition-upf-defined/",
+      "published_at": "2026-10-25T20:00:00+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c49e7a9393469ece",
+      "title": "コンビニ大福のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「コンビニ大福」の最新・注目度ランキングです♪（2026年10月23日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-29350/?utm_source=rss&utm_medium=mognavinews_20261025",
+      "published_at": "2026-10-25T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "a4995f7d9c750697",
+      "title": "今週新発売のキャベツまとめ！『ＣＡＦＥ　ＢＯＸ　チキンケバブライス』、『広島お好み焼き　肉玉そば』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！キャベツの新商品情報をお届けします。今週新発売の#キャベツセブン-イレブン CAFE BOX チキンケバブライス複数のスパイス…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102508/?utm_source=rss&utm_medium=mognavinews_20261025",
+      "published_at": "2026-10-25T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "0807a28021f4f0eb",
       "title": "全清飲、容器リサイクルの消費者意識調査を実施資源を大切にしたいと回答76.6%、自販機横の異物投入は約3割",
