@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-25T20:14:51",
+  "last_updated": "2026-10-26T13:31:51",
   "retention_days": 7,
-  "total": 708,
+  "total": 713,
   "s_count": 50,
   "a_count": 7,
-  "b_count": 651,
+  "b_count": 656,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,72 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-10-26T00:00:00",
+      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.26日清食品「カップヌードル 異世界合体」シリーズ3品 (11月9日発売)",
+      "url": "https://www.nissin.com/jp/news/13968/",
+      "published_at": "2026-10-26T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.26日清食品「ユニバーサル・スタジオ・ジャパン 日清食品貸切ナイトキャンペーン」(11月2日からスタート)",
+      "url": "https://www.nissin.com/jp/news/13962/",
+      "published_at": "2026-10-26T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.26日清食品2026年11月発売商品のご案内",
+      "url": "https://www.nissin.com/jp/news/13961/",
+      "published_at": "2026-10-26T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.26日清食品チルド「行列のできる店のラーメン 今だけ麺増量キャンペーン」(11月2日スタート)",
+      "url": "https://www.nissin.com/jp/news/13967/",
+      "published_at": "2026-10-26T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "“끊임없는 진화와 혁신”… “국내 넘어 세계인 식탁으로 한국식 밥문화 전파”  출시 30주년 맞은 CJ제일...2026.10.25",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1840",
+      "published_at": "2026-10-25T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -78,17 +144,6 @@
       "summary": "",
       "level": "S",
       "level_reason": "营销创新"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-10-22T00:00:00",
-      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
-      "level": "B",
-      "level_reason": "企业动态"
     },
     {
       "brand": "CJ",
