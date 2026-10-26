@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-26T13:31:51",
+  "last_updated": "2026-10-26T17:59:40",
   "retention_days": 7,
-  "total": 713,
+  "total": 717,
   "s_count": 50,
   "a_count": 7,
-  "b_count": 656,
+  "b_count": 660,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -87,6 +87,39 @@
       "url": "https://www.nissin.com/jp/news/13967/",
       "published_at": "2026-10-26T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.26湖池屋「パーティーサイズ」3品 (10月26日発売)",
+      "url": "https://www.nissin.com/jp/news/13964/",
+      "published_at": "2026-10-26T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "[햇반의 30년을 따라가다] 세계인의 식탁에 밥을 올리는 법FoodPeople2026.10.26",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/128",
+      "published_at": "2026-10-26T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "조선일보서른 살 햇반, 누적 매출 10조원 눈앞… 美식탁 발판으로 글로벌 입맛 잡는다",
+      "url": "https://www.chosun.com/economy/market_trend/2026/10/26/EX4NXZICE5BUREOLMCMG2YID4E/",
+      "published_at": "2026-10-26T00:00:00",
+      "summary": "Food & Beverage Magazine",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -7873,6 +7906,17 @@
       "region": "日本",
       "title": "体験・エンタメTOP",
       "url": "https://www.meg-snow.com/enjoy/",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "동아일보“맨밥 사먹어?” 통념 깬 30살 햇반… K붐 타고 이젠 세계인의 식탁으로",
+      "url": "https://www.donga.com/news/Economy/article/all/20261025/134905002/2",
       "published_at": "",
       "summary": "",
       "level": "B",
