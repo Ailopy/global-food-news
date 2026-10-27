@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-27T17:43:04.846857+08:00",
+  "last_updated": "2026-10-27T23:00:48.941195+08:00",
   "retention_days": 7,
-  "total": 511,
+  "total": 505,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,6 +18,114 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "82f8b3cb2423536c",
+      "title": "Vaca Chips Raises $5.6M For Second Investment This Year",
+      "summary": "Beef tallow tortilla chip brand Vaca Chips has raised a fresh $5.6 million, led by Barrel Ventures, after raising $1.5M over the summer.",
+      "url": "https://www.nosh.com/news/2026/vaca-chips-raises-5-6m-for-second-investment-this-year",
+      "published_at": "2026-10-27T22:19:53+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "799093ebc4edbc5e",
+      "title": "Confido Launches the First AI-Powered Foodservice Trade and Deductions Automation Platform",
+      "summary": "Foodservice manufacturers have long struggled with rebate losses and limited visibility into who is buying their products. AI-powered platforms like Confido are turning existing billback and claims…",
+      "url": "https://foodinstitute.com/focus/confido-launches-the-first-ai-powered-foodservice-trade-and-deductions-automation-platform/?utm_source=rss&utm_medium=rss&utm_campaign=confido-launches-the-first-ai-powered-foodservice-trade-and-deductions-automation-platform",
+      "published_at": "2026-10-27T22:00:44+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "08f87ba02ecde8c3",
+      "title": "Boston Beer CEO says hard sports drinks are alcohol’s ‘next big thing’",
+      "summary": "The Sam Adams maker has entered the emerging vodka ade space, which has “exploded faster” than hard teas or seltzers, according to Jim Koch.",
+      "url": "https://www.fooddive.com/news/boston-beer-rally-dog-vodka-ade/872852/",
+      "published_at": "2026-10-27T21:29:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "41887b55a28fef06",
+      "title": "Review: David Protein Delivers Distinctive Take on RTD Shakes",
+      "summary": "Chocolate is the stronger of the two flavors, with a pleasant cocoa note and enough richness to feel almost indulgent despite the restrained calorie and sugar content.",
+      "url": "https://www.bevnet.com/news/2026/review-david-protein-delivers-distinctive-take-on-rtd-shakes",
+      "published_at": "2026-10-27T20:30:41+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "e81e27951236a24d",
+      "title": "Nearly 20% of US Adults Drank an Alcohol Alternative In The Past Six Months",
+      "summary": "Almost one in five (18%) U.S. adults 21 and older drank non-alcoholic beer, wine, spirits, ready-to-drink (RTD) cocktails, or THC-infused beverages in the past six months.",
+      "url": "https://www.bevnet.com/spirits/2026/nearly-20-of-us-adults-drank-an-alcohol-alternative-in-the-past-six-months",
+      "published_at": "2026-10-27T20:30:11+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8b6b19333a0c28b1",
+      "title": "Sunshine Buns on a roll with major retail expansion",
+      "summary": "Frozen cinnamon roll brand launches in Target stores across the US and secures series A funding. The post Sunshine Buns on a roll with major retail expansion appeared first on Sweets & Savoury Snacks…",
+      "url": "https://www.sweetsandsnacksworld.com/news/31027/sunshine-buns-on-a-roll-with-major-retail-expansion/",
+      "published_at": "2026-10-27T20:10:34+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "b6ad6471d8293036",
+      "title": "Deep Brands Bets on Thai After Flagship Brand Hits $100M Sales Milestone",
+      "summary": "Deep Brands is seeding future growth after its falgship brand surpassed $100 million in annual sales: from debuting a new Thai-focused brand, to bringing back SVP of marketing Maria McManus.",
+      "url": "https://www.nosh.com/news/2026/deep-indian-kitchen-hits-100m-as-business-builds-tem-toa",
+      "published_at": "2026-10-27T20:00:30+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "02eb58da91697f1c",
+      "title": "コカ・コーラBJ、物流改革で輸送距離23%短縮 自動化と共同配送で効率向上",
+      "summary": "コカ・コーラ ボトラーズジャパンは、2025年の製品の総輸送距離を2022年比で23%短縮した。消費地に近い工場で製造する「地産地消」の推進や全社横断の需給管理などによって効率化を図った。同社はAIやデータと現場の知見を...",
+      "url": "https://www.ssnp.co.jp/beverage/709081/",
+      "published_at": "2026-10-27T19:35:25+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "34cdcf89c1bdc5f2",
+      "title": "Parmalat reveals latest drinks innovation: Parmalat Multipack",
+      "summary": "Parmalat Multipack makes it easy to enjoy nutritious, fresh-tasting milk wherever the day takes you, with no refrigeration needed until opened, the company says. The post Parmalat reveals latest…",
+      "url": "https://www.sweetsandsnacksworld.com/news/31023/parmalat-reveals-latest-drinks-innovation-parmalat-multipack/",
+      "published_at": "2026-10-27T19:07:36+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "1cddbfee476ad32f",
       "title": "今週新発売のチーズまとめ！『クリスプ　チェダーチーズ味』、『ティラミス　北海道産クリームチーズ使用』など♪",
@@ -139,6 +247,18 @@
       "language": "en"
     },
     {
+      "id": "a509e2c0a2d54a1c",
+      "title": "Why full dose disclosure is about to become the price of entry for DTC supplement brands",
+      "summary": "For decades, supplement brands have competed in terms of how much they could fit in the blend and on the label. Johnny Meagher, founder of Proco, says the winners of the future will be those who are…",
+      "url": "https://nutraceuticalbusinessreview.com/why-full-dose-disclosure-entry-dtc-supplement-brands",
+      "published_at": "2026-10-27T16:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
       "id": "b469d8ed8e3c5d11",
       "title": "イオン、「グリーンビーンズ」の新物流拠点を公開、冷凍エリアでの自動化システムなど導入",
       "summary": "ネット専用スーパー「Green Beans(グリーンビーンズ)」を運営するイオンネクストは10月22日、物流拠点「八王子CFC(顧客フルフィルメントセンター)」(東京都八王子市)の正式稼働を開始した。2拠点目となるCFC...",
@@ -149,6 +269,18 @@
       "category": "综合",
       "level": "B",
       "language": "ja"
+    },
+    {
+      "id": "44ce880e1f3db4bf",
+      "title": "The gut health category is crowded: how can brands truly stand out?",
+      "summary": "For formulators, the challenge is no longer simply finding a gut health ingredient, but a product that provides the credible science, relevant benefits and the flexibility to support innovative…",
+      "url": "https://nutraceuticalbusinessreview.com/the-gut-health-category-is-crowded-how-can",
+      "published_at": "2026-10-27T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
     },
     {
       "id": "80f7d1eecbf5d221",
@@ -775,10 +907,10 @@
       "language": "ja"
     },
     {
-      "id": "3899e304fa67a7c4",
-      "title": "Why masking taste technologies are the differentiator CPGs need",
-      "summary": "Discover how masking taste technologies help CPGs deliver better-for-you products without compromise.",
-      "url": "https://www.fooddive.com/spons/why-masking-taste-technologies-are-the-differentiator-cpgs-need/833311/",
+      "id": "6e0c5903a9324443",
+      "title": "Glass packaging for pasta sauces and salsas",
+      "summary": "Learn how glass packaging helps brands build trust, stand out in crowded grocery aisles and meet evolving consumer expectations.",
+      "url": "https://www.fooddive.com/spons/glass-packaging-for-pasta-sauces-and-salsas/833044/",
       "published_at": "2026-10-26T17:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
@@ -787,10 +919,10 @@
       "language": "en"
     },
     {
-      "id": "6e0c5903a9324443",
-      "title": "Glass packaging for pasta sauces and salsas",
-      "summary": "Learn how glass packaging helps brands build trust, stand out in crowded grocery aisles and meet evolving consumer expectations.",
-      "url": "https://www.fooddive.com/spons/glass-packaging-for-pasta-sauces-and-salsas/833044/",
+      "id": "3899e304fa67a7c4",
+      "title": "Why masking taste technologies are the differentiator CPGs need",
+      "summary": "Discover how masking taste technologies help CPGs deliver better-for-you products without compromise.",
+      "url": "https://www.fooddive.com/spons/why-masking-taste-technologies-are-the-differentiator-cpgs-need/833311/",
       "published_at": "2026-10-26T17:00:00+08:00",
       "source": "Food Dive",
       "region": "北美",
@@ -4795,6 +4927,18 @@
       "language": "en"
     },
     {
+      "id": "fd51c1bd5b0f3ad0",
+      "title": "Lindt CEO’s exit speaks to wider major confectionery challenges",
+      "summary": "The decision, seemingly made by Lindt & Sprüngli’s board to usher out its CEO, who had been a long-serving member of the company for the past three decades, speaks to far broader concerns in the…",
+      "url": "https://www.sweetsandsnacksworld.com/news/31046/lindt-ceos-exit-speaks-to-wider-major-confectionery-challenges/",
+      "published_at": "2026-10-21T21:23:00+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
       "id": "2df70ca7200d079a",
       "title": "Distribution: Jocko Fuel Heads to Target with Shakes and Powders",
       "summary": "Jocko Fuel is bringing its protein shakes and powders nationwide to Target stores. The brand, co-founded by retired Navy SEAL officer and podcast host Jocko Willink, now adds Target to a national…",
@@ -5933,222 +6077,6 @@
       "category": "综合",
       "level": "A+",
       "language": "en"
-    },
-    {
-      "id": "5b20dc403e67f498",
-      "title": "Mondelēz launches gluten-free Ritz crackers",
-      "summary": "The snack giant has previously released gluten-free versions of Oreo and Chips Ahoy! as brands look for growth by catering to a range of dietary needs.",
-      "url": "https://www.fooddive.com/news/mondelezs-ritz-gluten-free-cracker-oreo-soup-cheezits/833395/",
-      "published_at": "2026-10-20T23:00:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "6e11b75835cee158",
-      "title": "Nestlé to close Ohio factory by end of 2027",
-      "summary": "The food giant will move production to South Carolina, saying it is \"the most sustainable path forward\" as consumer needs and volumes shift.",
-      "url": "https://www.fooddive.com/news/nestle-plant-closure-ohio/833464/",
-      "published_at": "2026-10-20T23:00:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "aa5029afdba95497",
-      "title": "‘Friendship as Alchemy’: the refreshing new message from Biela beer",
-      "summary": "Elmwood has designed a new brand identity and positioning for Ecuadorian beer Biela Elmwood, the global brand and design consultancy, has partnered with Ecuadorian beer Biela to refresh its visual…",
-      "url": "https://fabnews.live/friendship-as-alchemy-the-refreshing-new-message-from-biela-beer/",
-      "published_at": "2026-10-20T22:31:39+08:00",
-      "source": "Fab News",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "b3bac36d07267feb",
-      "title": "NOW launches GLP-1 Metabolic Support supplement with Metabolaid and Reducose",
-      "summary": "The firm has launched a metabolic health supplement combining Metabolaid, Reducose and berberine HCl to support post-meal glucose responses, appetite regulation and muscle maintenance, as…",
-      "url": "https://nutraceuticalbusinessreview.com/now-launches-glp-1-metabolic-support-supplement-metabolaid-reducose",
-      "published_at": "2026-10-20T22:16:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "9e981559c6cea522",
-      "title": "Tracking CPG Growth: Q3 US Retail Launches – Calebrate October 2026",
-      "summary": "CPG retail launch activity accelerated throughout Q3 2026, but the underlying data reveals an important distinction between new product innovation and distribution expansion. Calebrate’s latest…",
-      "url": "https://www.nombase.com/datahub/tracking-cpg-growth-q3-us-retail-launches",
-      "published_at": "2026-10-20T22:13:54+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "5130b8f80369cc8d",
-      "title": "Tracking CPG Growth: Q3 US Retail Launches – Calebrate October 2026",
-      "summary": "CPG retail launch activity accelerated throughout Q3 2026, but the underlying data reveals an important distinction between new product innovation and distribution expansion. Calebrate’s latest…",
-      "url": "https://www.bevnet.com/news/2026/tracking-cpg-growth-q3-us-retail-launches-calebrate-october-2026",
-      "published_at": "2026-10-20T22:13:45+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "b17a3060c466857c",
-      "title": "CLEAN Cause Brings In New Leadership Team",
-      "summary": "Canned yerba mate brand CLEAN Cause prepares new marketing initiatives and a packaging redesign under new CEO Jeff Arnold.",
-      "url": "https://www.bevnet.com/news/2026/clean-cause-brings-in-new-leadership-team",
-      "published_at": "2026-10-20T22:11:44+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "177221a328380d63",
-      "title": "PepsiCo shutters Tennessee bottling plant amid soda slump",
-      "summary": "The closure comes after the beverage giant's CEO laid out a cost-cutting plan to improve flattening growth.",
-      "url": "https://www.fooddive.com/news/pepsico-beverage-plant-closure-knoxville-tennessee/833457/",
-      "published_at": "2026-10-20T22:08:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "167a9db97e8d7bc0",
-      "title": "Botanic Healthcare reports clinical results for IRONNOX in iron-deficiency anaemia study",
-      "summary": "Liposomal iron ingredient demonstrates improvements in key iron-status markers and gastrointestinal tolerability",
-      "url": "https://nutraceuticalbusinessreview.com/botanic-healthcare-reports-clinical-results-for-ironnox-in",
-      "published_at": "2026-10-20T21:35:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "6971f9be48977b16",
-      "title": "How Zero-Proof Spirits Are Finding Success in Bars and Restaurants",
-      "summary": "For years, adult non-alc (ANA) spirits have chased after major retail placements. Now, as they turn to bars and restaurants, is it too late to make a splash?",
-      "url": "https://www.bevnet.com/spirits/2026/how-zero-proof-spirits-are-finding-success-in-bars-and-restaurants",
-      "published_at": "2026-10-20T21:30:05+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "a515ceb1088705d8",
-      "title": "dsm-firmenich shareholders elect Richard Ridinger as Chairman",
-      "summary": "Richard Ridinger succeeds Thomas Leysen following his retirement from the board",
-      "url": "https://nutraceuticalbusinessreview.com/dsm-firmenich-shareholders-elect-richard-ridinger-as-chairman",
-      "published_at": "2026-10-20T21:15:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "31731c0a31e3b6f7",
-      "title": "Review: Bare Brew Cold Brew Brings the Buzz",
-      "summary": "Bare Brew Black Coffee Cold Brew is built around a deliberately simple concept: it's just filtered water and coffee, with 20 calories and zero added sugar, milk or flavorings-- plus a whopping 320 mg…",
-      "url": "https://www.bevnet.com/news/2026/review-bare-brew-cold-brew-brings-the-buzz",
-      "published_at": "2026-10-20T20:30:23+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "41d9fc9a7b04eb83",
-      "title": "FDA finalises guidance on new dietary ingredient safety",
-      "summary": "The US Food and Drug Administration has issued final guidance on identity and safety evidence for new dietary ingredient notifications, helping dietary supplement manufacturers to prepare pre-market…",
-      "url": "https://nutraceuticalbusinessreview.com/fda-finalises-guidance-on-new-dietary-ingredient-safety",
-      "published_at": "2026-10-20T20:02:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "582cbf4d8d753d0d",
-      "title": "BeatBox Packaging Draws UK Watchdog Rebuke as RTD Brands Test Nostalgia Marketing Limits",
-      "summary": "Anheuser-Busch InBev’s (A-B) BeatBox has agreed to modify its packaging after a UK alcohol industry watchdog upheld a public complaint that the drinks could appeal to underage drinkers.",
-      "url": "https://www.bevnet.com/spirits/2026/beatbox-packaging-draws-uk-watchdog-rebuke-as-rtd-brands-test-nostalgia-marketing-limits",
-      "published_at": "2026-10-20T20:00:16+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "ad28a353cbe84bc7",
-      "title": "Ethical Naturals debuts new joint health ingredient and matcha L-theanine blend at SupplySide Global",
-      "summary": "GreenGrown-GCS offers a plant-based alternative to animal-sourced glucosamine and chondroitin, while MachaWave pairs TGA-approved AlphaWave L-Theanine with organic matcha for calm energy and…",
-      "url": "https://nutraceuticalbusinessreview.com/ethical-naturals-new-joint-health-ingredient-matcha-supplyside",
-      "published_at": "2026-10-20T18:20:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "3da138d0c1df777c",
-      "title": "最新グミのおすすめTOP3！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「グミ」のおすすめランキングです♪（2026年10月16日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基に、…",
-      "url": "https://mognavi.jp/news/matome/gen-tagRanking-29053/?utm_source=rss&utm_medium=mognavinews_20261021",
-      "published_at": "2026-10-20T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "ef023d4aab4dd648",
-      "title": "最新グミのおすすめTOP3！",
-      "summary": "もぐナビ編集部です！今回ご紹介するのは「グミ」のおすすめランキングです♪（2026年10月16日更新）食品クチコミサイト「もぐナビ」に投稿されたデータを基に、…",
-      "url": "https://mognavi.jp/news/matome/gen-tagRanking-29053/?utm_source=rss&utm_medium=mognavinews_20261020",
-      "published_at": "2026-10-20T18:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "9e9a3af7189d3669",
-      "title": "セブンプレミアムの大判クッキーから「ラムレーズン&チョコチップ」「塩バタースコッチ&アーモンド」など新フレーバーが登場",
-      "summary": "セブン‐イレブンは、『セブンプレミアム』で人気の大判クッキーシリーズを10月20日から順次発売する。 定番の「チョコチップ」や「宇治抹茶」の商品名とパッケージをリニューアルし、新フレーバーとして「ラムレーズン&チ...",
-      "url": "https://www.ssnp.co.jp/distribution/707867/",
-      "published_at": "2026-10-20T17:46:51+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
     }
   ]
 }
