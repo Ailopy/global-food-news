@@ -1,33 +1,480 @@
 {
-  "total": 351,
-  "s_plus_count": 36,
+  "total": 371,
+  "s_plus_count": 38,
   "sites": [
-    "Packaging Digest",
-    "日経新聞",
     "日経xTrend",
-    "Food Dive",
-    "朝日グループYouTube"
+    "日経新聞",
+    "Packaging Digest",
+    "朝日グループYouTube",
+    "Food Dive"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "其他": 203,
-    "营销创新": 17,
-    "品牌故事": 24,
+    "营销创新": 18,
+    "新包装": 9,
+    "新产品": 55,
+    "其他": 206,
+    "品牌故事": 35,
     "联名营销": 10,
-    "新产品": 51,
     "渠道新物种": 12,
-    "新包装": 8,
     "行业政策": 16,
     "新技术": 2,
     "新原料": 5,
     "并购融资": 3
   },
-  "last_updated": "2026-10-27 13:47",
-  "last_updated_iso": "2026-10-27T13:47:13.226662+08:00",
+  "last_updated": "2026-10-27 23:00",
+  "last_updated_iso": "2026-10-27T23:00:59.278189+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "自販機不況でも絶好調 グリコ・セブンティーンアイスの高校生戦略とは",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01318/00013/?n_cid=nbpnxr_rss",
+      "summary": "飲料の自販機が不振に陥るのを尻目に、「セブンティーンアイス」（江崎グリコ）が過去最高の売り上げを連続で更新する好調ぶりを見せている。背景にあったのは、ブランドの原点でもある「17歳」を改めて見つめ直した戦略の転換劇だった。自販機に「しかない」アイスとして、令和の17歳に積極攻勢をかけるセブンティーンアイスのマーケティング戦略を読み解く。",
+      "published_at": "2026-10-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-10-27T23:00:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「ビックリマン」の売り上げを10倍に ロッテ“IP活用の達人”のコラボ術",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01494/00003/?n_cid=nbpnxr_rss",
+      "summary": "ブランド資産を生かすために、どんな視点を持つべきか。日経デザイン発の特集「企業の新IP戦略」の第2回は、ロッテのIP活用。「ビックリマンチョコ」のシールや「パイの実」のパッケージなど、独自の着眼点で社内のIPを活用し、売り上げアップにつなげてきたロッテの本原正明氏に活用の極意を聞いた。",
+      "published_at": "2026-10-28T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-10-27T23:00:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "同機能で2万円高く売る パナソニックが示した“見た目”の価値",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01500/00001/?n_cid=nbpnxr_rss",
+      "summary": "“多枚刃競争”の次に、シェーバーは何で選ばれるのか。パナソニックが2026年6月に発売した「ラムダッシュ パームイン PRO METAL EDITION」のES-P680Uは、税込みで約7万5000円。同じ機能の下位モデルより約2万円も高い。しかも違いはボディーなどのデザインのみ。それでもこの高級シェーバーの売れ行きは好調だという。この価格差に、消費者はどんな価値を見いだしているのか。パームインを筆頭に、新たな価値提案で好調なメンズ美容家電の開発の舞台裏を同社に聞いた。",
+      "published_at": "2026-10-28T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "見た目",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-27T23:00:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「健康疲れ」の生活者向けにネスレが新商品 頑張らない栄養ケア食品",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02993/?n_cid=nbpnxr_rss",
+      "summary": "ネスレ日本は2026年10月1日、「健康疲れ」に着目した「大人の健康計画」シリーズ3製品を発売した。同社調査では約2人に1人が健康について考えること自体に疲れを感じているという。そこで新たな健康法を増やすのではなく、日常的に飲むコーヒーやミロを通じて、たんぱく質などを摂取できる商品を開発。“頑張らない健康習慣”として、健康長寿市場の新たな需要を掘り起こそうとしている。",
+      "published_at": "2026-10-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-27T23:00:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "カウシェの持続的成長を支えるKPI 中国トップアプリも採用する新指標",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00008/00192/?n_cid=nbpnxr_rss",
+      "summary": "「シェア買い」から「野菜をもらえる」アプリへの転身が奏功し、急成長しているスマートフォン向けアプリ「カウシェ」。運営する上で重視するKPIは「キャリング・キャパシティ」だという。",
+      "published_at": "2026-10-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-27T23:00:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ソニーXperiaが打ち出す「推し活スマホ」 性能据え置きでも売れるか",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02992/?n_cid=nbpnxr_rss",
+      "summary": "円安やメモリー不足に苦しむスマートフォン業界。ソニーが2026年10月8日に発売した新機種「Xperia 10 VIII」も、前機種からディスプレーや音響性能、使い勝手などは向上したが、基本性能はほぼ変わらず、価格は2万円以上高くなっている。性能面の進化が限られる中、推し活体験を新たな差別化の軸に据え、性能や価格に依存しない独自の付加価値に力を入れるようだ。",
+      "published_at": "2026-10-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-27T23:00:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "カインズのクッションが売れすぎで即増産 ヒットを生む分業型の新組織",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01483/00008/?n_cid=nbpnxr_rss",
+      "summary": "カインズが2026年8月に発売した大型クッション「NEDOCORO」が品薄になるほど売れている。大型で在庫リスクも高い商品をヒットにつなげた背景には、生活者の過ごし方を捉えた企画と、小規模な試験販売による需要調査があった。PB比率が売上高の約3分の1を占めるが、商品の数ではなく開発の成功率を重視する。他社へのPB供給も進める上席執行役員CPO兼商品統括本部長の吉井純人氏に、PB戦略と商品開発改革を聞いた。",
+      "published_at": "2026-10-28T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-27T23:00:42+08:00"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "クリアアサヒ＜生＞ WEBCM「比べてほしい」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=yD33ScCDByI",
+      "summary": "木村拓哉さんが出演する『クリアアサヒ＜生＞』のWEBCM 「比べてほしい」篇 15秒 出演者：木村拓哉 ▼クリアアサヒ ブランドサイト https://www.asahibeer.co.jp/brand/clear/",
+      "published_at": "2026-10-27T01:00:27Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/yD33ScCDByI/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "クリアアサヒ＜生＞ WEBCM「飲む木村さん」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=LSRHXGPgJqI",
+      "summary": "木村拓哉さんが出演する『クリアアサヒ＜生＞』のWEBCM 「飲む木村さん」篇 15秒 出演者：木村拓哉 ▼クリアアサヒ ブランドサイト https://www.asahibeer.co.jp/brand/clear/",
+      "published_at": "2026-10-27T01:00:25Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i1.ytimg.com/vi/LSRHXGPgJqI/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "クリアアサヒ＜生＞ WEBCM「クリアアサヒが、生ビールになった」篇 6秒",
+      "url": "https://www.youtube.com/watch?v=Dih1dPVOUbg",
+      "summary": "木村拓哉さんが出演する『クリアアサヒ＜生＞』のWEBCM 「クリアアサヒが、生ビールになった」篇 6秒 出演者：木村拓哉 ▼クリアアサヒ ブランドサイト https://www.asahibeer.co.jp/brand/clear/",
+      "published_at": "2026-10-27T01:00:22Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i1.ytimg.com/vi/Dih1dPVOUbg/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "クリアアサヒ＜生＞ WEBCM「注ぐ木村さん」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=k-bdqzVtG4A",
+      "summary": "木村拓哉さんが出演する『クリアアサヒ＜生＞』のWEBCM 「注ぐ木村さん」篇 15秒 出演者：木村拓哉 ▼クリアアサヒ ブランドサイト https://www.asahibeer.co.jp/brand/clear/",
+      "published_at": "2026-10-27T01:00:19Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/k-bdqzVtG4A/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ WEBCM「刷新 BEER is DRY! ビールのど真ん中へ。3分冷凍庫DRY 長澤まさみ」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=u99xTZmJwwg",
+      "summary": "アサヒスーパードライ WEBCM「刷新 BEER is DRY! ビールのど真ん中へ。3分冷凍庫DRY 長澤まさみ」篇 15秒 出演者：長澤まさみ 楽曲：ONE OK ROCK / We are ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-10-27T01:00:16Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/u99xTZmJwwg/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ WEBCM「刷新 BEER is DRY! ビールのど真ん中へ。 アツアツキンキン 阿部寛」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=yJa7qTV5s3s",
+      "summary": "アサヒスーパードライ WEBCM「刷新 BEER is DRY! ビールのど真ん中へ。 アツアツキンキン 阿部寛」篇 15秒 出演者：阿部寛 楽曲：ONE OK ROCK / We are ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-10-27T01:00:14Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/yJa7qTV5s3s/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ WEBCM「刷新 BEER is DRY! ビールのど真ん中へ。 アツアツキンキン 阿部寛」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=-c1nl7R_1Po",
+      "summary": "アサヒスーパードライ WEBCM「刷新 BEER is DRY! ビールのど真ん中へ。 アツアツキンキン 阿部寛」篇 15秒 出演者：阿部寛 楽曲：ONE OK ROCK / We are ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-10-27T01:00:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/-c1nl7R_1Po/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ WEBCM「刷新 BEER is DRY! ビールのど真ん中へ。3分冷凍庫DRY 長澤まさみ」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=xwa5GA1m7qM",
+      "summary": "アサヒスーパードライ WEBCM「刷新 BEER is DRY! ビールのど真ん中へ。3分冷凍庫DRY 長澤まさみ」篇 15秒 出演者：長澤まさみ 楽曲：ONE OK ROCK / We are ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-10-27T01:00:10Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i1.ytimg.com/vi/xwa5GA1m7qM/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "未来のノンアルレモンサワーWEBCM「通年販売」篇",
+      "url": "https://www.youtube.com/watch?v=s0GwLi43tw8",
+      "summary": "未来のノンアルレモンサワー「通年販売」篇 ▼未来のノンアルレモンサワー ブランドサイト https://www.asahibeer.co.jp/brand/mirai_nonal/",
+      "published_at": "2026-10-27T01:00:09Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/s0GwLi43tw8/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "未来のノンアルレモンサワーWEBCM「本物レモンのご褒美ノンアル」篇",
+      "url": "https://www.youtube.com/watch?v=LvE9AWvROp0",
+      "summary": "未来のノンアルレモンサワー「本物レモンのご褒美ノンアル」篇 ▼未来のノンアルレモンサワー ブランドサイト https://www.asahibeer.co.jp/brand/mirai_nonal/",
+      "published_at": "2026-10-27T01:00:06Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i1.ytimg.com/vi/LvE9AWvROp0/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "未来のノンアルレモンサワーWEBCM「研ぎ澄まされた美味しさ」篇",
+      "url": "https://www.youtube.com/watch?v=EIj4RLW6-3g",
+      "summary": "未来のノンアルレモンサワー「研ぎ澄まされた美味しさ」篇 ▼未来のノンアルレモンサワー ブランドサイト https://www.asahibeer.co.jp/brand/mirai_nonal/",
+      "published_at": "2026-10-27T01:00:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T23:00:59+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/EIj4RLW6-3g/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -8076,6 +8523,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-26T23:37:12+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Leftovers: Lays gives thanks with holiday flavors | Dogfish Head brews ‘ancient’ beer",
+      "url": "https://www.fooddive.com/news/lays-thanksgiving-dogfish-midas-touch-tajin-chamoy/833834/",
+      "summary": "The potato chip brand is releasing a seasonal lineup based on Thanksgiving favorites, while Tajín introduces a swicy chamoy sauce.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-27T23:00:54+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Glass packaging for pasta sauces and salsas",
+      "url": "https://www.fooddive.com/spons/glass-packaging-for-pasta-sauces-and-salsas/833044/",
+      "summary": "Tony Frederick Photography",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-27T23:00:54+08:00"
     }
   ]
 }
