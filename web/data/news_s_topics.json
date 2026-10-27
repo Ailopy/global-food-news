@@ -1,32 +1,32 @@
 {
-  "total": 356,
-  "s_plus_count": 37,
+  "total": 351,
+  "s_plus_count": 36,
   "sites": [
     "Packaging Digest",
+    "日経新聞",
     "日経xTrend",
     "Food Dive",
-    "朝日グループYouTube",
-    "日経新聞"
+    "朝日グループYouTube"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "其他": 209,
+    "其他": 203,
     "营销创新": 17,
-    "品牌故事": 23,
+    "品牌故事": 24,
     "联名营销": 10,
-    "新产品": 50,
+    "新产品": 51,
     "渠道新物种": 12,
     "新包装": 8,
-    "行业政策": 17,
+    "行业政策": 16,
     "新技术": 2,
     "新原料": 5,
     "并购融资": 3
   },
-  "last_updated": "2026-10-26 23:37",
-  "last_updated_iso": "2026-10-26T23:37:16.410046+08:00",
+  "last_updated": "2026-10-27 13:47",
+  "last_updated_iso": "2026-10-27T13:47:13.226662+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -143,6 +143,28 @@
       ],
       "primary_category": "品牌故事",
       "scraped_at": "2026-10-26T23:37:01+08:00"
+    },
+    {
+      "site_name": "Packaging Digest",
+      "site_name_en": "Packaging Digest",
+      "region": "北美",
+      "positioning": "包装&设计",
+      "title": "Kraft Heinz, PepsiCo, P&amp;G Join FPA’s New Brand Owner Council",
+      "url": "https://www.packagingdigest.com/flexible-packaging/kraft-heinz-pepsico-p-g-join-fpa-s-new-brand-owner-council",
+      "summary": "Flexible Packaging Association President &amp; CEO Dan Felton explains how the new members will benefit from the association’s mission of connecting, advancing, and leading the flexible packaging industry.",
+      "published_at": "2026-10-26T16:55:59Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-27T13:47:11+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -4044,6 +4066,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "ＵＮＩＶＡ・Ｏａｋホールディングス[3113]：連結子会社・UNIVA Marketing Limitedによる新製品「IZUMIO AIR」供給開始に関するお知らせ 2026年10月5日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xbE9FVG8yRjFZdzU0dWtwMUdRaHcyMTQ2dW82OGJwTHlvbTJWNlN0MWpLWnRfdnA5OFFTeWhtYjVxakxRUjBsU0czd3VBOE1yQkRWeXBnd05RSzQybHZaSU12X2RjaEcxNVE?oc=5",
+      "summary": "ＵＮＩＶＡ・Ｏａｋホールディングス[3113]：連結子会社・UNIVA Marketing Limitedによる新製品「IZUMIO AIR」供給開始に関するお知らせ 2026年10月5日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+      "published_at": "2026-10-05T07:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-27T13:46:55+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "食品・飲料（209ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85YkhmMVppNUlCeUdzSUh3QndBRkNXRFAtR3dpWXY0aEhiRWY4VWd0dlp5eHV3Yi01bHQyWDV4cVRjM3NtUnM0THltQlBPZ3NRNGYyQXFIRmpHM2VfejlXTTE0V1JfYXM?oc=5",
       "summary": "食品・飲料（209ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -6168,28 +6212,6 @@
       "site_name_en": "Packaging Digest",
       "region": "北美",
       "positioning": "包装&设计",
-      "title": "Plaintiffs Talk Trash About KDP's 'Recyclable' Claims",
-      "url": "https://www.packagingdigest.com/sustainability/plaintiffs-talk-trash-about-kdp-s-recyclable-claims",
-      "summary": "Is Keurig Dr Pepper legally liable when local facilities can't recycle its &quot;recyclable*&quot; coffee pods — but the label tells shoppers to &quot;*check locally?&quot;",
-      "published_at": "2026-09-25T16:33:35Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-26T13:40:46+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
       "title": "Pre-filled Pouches Take the Prep Out of Foodservice Condiments",
       "url": "https://www.packagingdigest.com/food-packaging/pre-filled-pouches-take-the-prep-out-of-foodservice-condiments",
       "summary": "Sealed Air’s Cryovac ZeroPrep pouches help foodservice operators save labor, reduce waste, and support food safety while replacing squeeze bottles.",
@@ -6272,50 +6294,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-27T13:56:45+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（344ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82Um1hNUl2M3RtdFlLM3RlUkxROHlFbWZPZ0pGWmxWYWZIWTZPVy1qRVBnelFyVUhzdF9vMS1CeklsbExoOXM4Z3l5SThoSms0OW1Uci1rUUpPTXN5V1hqNWNWT3ZGX1E?oc=5",
-      "summary": "食品・飲料（344ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-24T05:55:01Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-26T13:40:32+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（164ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWVhRYkdmblE5RWhkTmRtdEpWMFFxS1FHQkppNUN2NHRKNFk0YlUtOUNhNDBtOHY0cUZHcWtCT19samhXb0p1bDNzNTFKU3NhOVNrQUdxUGRnNWtNYUR0WFF1Z2d3bjA?oc=5",
-      "summary": "食品・飲料（164ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-24T05:36:17Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-26T13:40:32+08:00"
     },
     {
       "site_name": "Packaging Digest",
@@ -6630,28 +6608,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "食品・飲料（174ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9weDh4cFlNUHJuU0ROWU94aUw4RDQxVldZS21ZNEJpb2VzNnRwYktja3Q0bkFaNl83M1F4UGh6Unc5b01PaDZSWWRtZUhwNWZlVDF2QTIyekJYZEZZTUR5Si1mSlF0UUk?oc=5",
-      "summary": "食品・飲料（174ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-01T20:33:52Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-26T13:40:32+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（40ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDV3F2VXpWTGVjRmJKN3BrQnBKcHhoTDFpYTV0ck9wbDBDMWJOR3prUHN1VlIydFlBVTlUVmtmS0h4czlBaHBKUVBKZER2aVl5TXFZZy16ZllzT0F4VG15bmVUYk95dw?oc=5",
       "summary": "食品・飲料（40ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -6712,72 +6668,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-09-28T14:03:13+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（24ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44c1JIYWxyTmtVUEZ0Q0ZVbEpwZFRLaEprZWpDa0FvUkN2ZmJRSk01YUQtUFFvS2FMdTlKeFpGR2lSUFdqWUJ5bHRhRzVnN045dnpqME8wT2N6bFRzenJKeWZOSTd1Zw?oc=5",
-      "summary": "食品・飲料（24ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-08-31T20:14:39Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-26T13:40:32+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Grocery inflation is primed to rise",
-      "url": "https://www.fooddive.com/news/grocery-inflation-fuel-prices-fmi/831249/",
-      "summary": "Elevated fuel costs could soon wear down food companies that have so far kept price increases contained, industry experts said at an FMI briefing.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-26T13:40:44+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Ferrero relaunches Wonka candy brand",
-      "url": "https://www.fooddive.com/news/ferrero-relaunches-wonka-candy-brand-netflix/831147/",
-      "summary": "The food giant is releasing a line of limited-edition treats with unexpected colors and texture combinations to attract a new generation of consumers.",
-      "published_at": "",
-      "is_s_plus": true,
-      "s_plus_reason": "limited-edition",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-09-26T13:40:44+08:00"
     },
     {
       "site_name": "Food Dive",

@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-26T21:46:43",
+  "last_updated": "2026-10-27T13:46:54",
   "retention_days": 7,
-  "total": 717,
-  "s_count": 50,
+  "total": 721,
+  "s_count": 51,
   "a_count": 7,
-  "b_count": 660,
+  "b_count": 663,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,13 +36,46 @@
   ],
   "articles": [
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「キリングッドエール」より、限定メッセージ缶を発売 綾瀬はるかさんをはじめとしたブランドリーダーが日常を明るくする“エール”を届ける",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1027_01.html",
+      "published_at": "2026-10-27T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-10-26T00:00:00",
+      "published_at": "2026-10-27T00:00:00",
       "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.27明星食品「明星 一平ちゃん夜店の焼そば 大盛 だっくだくタルタルソース えびフライ味」を11月9日に発売",
+      "url": "https://www.nissin.com/jp/news/13966/",
+      "published_at": "2026-10-27T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.27明星食品「明星 中華三昧」、漫画「ラーメン大好き小泉さん」コラボ企画を、2026年10月27日(火)から開始」",
+      "url": "https://www.nissin.com/jp/news/13971/",
+      "published_at": "2026-10-27T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -120,6 +153,17 @@
       "url": "https://www.chosun.com/economy/market_trend/2026/10/26/EX4NXZICE5BUREOLMCMG2YID4E/",
       "published_at": "2026-10-26T00:00:00",
       "summary": "Food & Beverage Magazine",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 비비고, ‘2026 한식페스타’서 K-푸드 리더십 선보여2026.10.26",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1841",
+      "published_at": "2026-10-26T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
