@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-28T14:25:45",
+  "last_updated": "2026-10-28T18:29:37",
   "retention_days": 7,
-  "total": 725,
+  "total": 726,
   "s_count": 51,
   "a_count": 7,
-  "b_count": 667,
+  "b_count": 668,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -8005,6 +8005,17 @@
       "region": "韩国",
       "title": "동아일보“맨밥 사먹어?” 통념 깬 30살 햇반… K붐 타고 이젠 세계인의 식탁으로",
       "url": "https://www.donga.com/news/Economy/article/all/20261025/134905002/2",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Coca-Cola",
+      "brand_cn": "可口可乐",
+      "region": "中国",
+      "title": "可口可乐公司2026Q3全球单箱销量增5% 中国市场助力亚太增长6%",
+      "url": "https://www.coca-cola.com/cn/zh/media-center/q3_2026_financial_report",
       "published_at": "",
       "summary": "",
       "level": "B",
