@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-27T20:53:47",
+  "last_updated": "2026-10-28T14:25:45",
   "retention_days": 7,
-  "total": 721,
+  "total": 725,
   "s_count": 51,
   "a_count": 7,
-  "b_count": 663,
+  "b_count": 667,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -39,12 +39,23 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
-      "title": "「キリングッドエール」より、限定メッセージ缶を発売 綾瀬はるかさんをはじめとしたブランドリーダーが日常を明るくする“エール”を届ける",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1027_01.html",
-      "published_at": "2026-10-27T02:00:05",
+      "title": "「次のキリン」を伝える新オウンドメディア「KIRINK（キリンク）」を10月28日に公開",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1028_02.html",
+      "published_at": "2026-10-28T06:00:05",
       "summary": "",
-      "level": "S",
-      "level_reason": "营销创新"
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「プリン体ゼロ・糖質ゼロ」の「淡麗プラチナダブル」が3年ぶりにリニューアル 「淡麗」らしい爽快なキレと飲みごたえが進化",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1028_01.html",
+      "published_at": "2026-10-28T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Asahi",
@@ -52,10 +63,21 @@
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-10-27T00:00:00",
+      "published_at": "2026-10-28T00:00:00",
       "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
       "level": "B",
       "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「キリングッドエール」より、限定メッセージ缶を発売 綾瀬はるかさんをはじめとしたブランドリーダーが日常を明るくする“エール”を届ける",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1027_01.html",
+      "published_at": "2026-10-27T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
     },
     {
       "brand": "Nissin",
@@ -76,6 +98,17 @@
       "url": "https://www.nissin.com/jp/news/13971/",
       "published_at": "2026-10-27T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Walmart.com",
+      "url": "https://www.walmart.com/ip/Honey-Nut-Cheerios-Pantryseal/21042807635",
+      "published_at": "2026-10-27T00:00:00",
+      "summary": "You Asked. Cheerios™ & Ziploc® Brand Delivered: New Cheerios with Ziploc PantrySeal™ Makes It Easier to Pour and Reseal Cereal",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -1981,6 +2014,17 @@
       "summary": "Partnership brings together two brands with deep ties to the Sun City.",
       "level": "A",
       "level_reason": "常规新品/营销"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "You Asked. Cheerios™ & Ziploc® Brand Delivered: New Cheerios with  Ziploc PantrySeal™ Makes It Easier to Pour and Reseal Cereal",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/new-cheerios-with-ziploc-pantryseal",
+      "published_at": "2026-08-30T00:00:00",
+      "summary": "The No. 1 cereal brand* and the No. 1 most trusted food storage brand** bring freshness you can reseal to the cereal aisle – available exclusively atWalmart.combeginning Oct. 27.",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Ito En",
