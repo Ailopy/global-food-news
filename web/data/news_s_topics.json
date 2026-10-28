@@ -1,12 +1,12 @@
 {
-  "total": 371,
-  "s_plus_count": 38,
+  "total": 375,
+  "s_plus_count": 40,
   "sites": [
-    "日経xTrend",
-    "日経新聞",
     "Packaging Digest",
+    "Food Dive",
     "朝日グループYouTube",
-    "Food Dive"
+    "日経新聞",
+    "日経xTrend"
   ],
   "regions": [
     "日本",
@@ -15,18 +15,18 @@
   "category_stats": {
     "营销创新": 18,
     "新包装": 9,
-    "新产品": 55,
+    "新产品": 56,
     "其他": 206,
+    "联名营销": 11,
     "品牌故事": 35,
-    "联名营销": 10,
     "渠道新物种": 12,
-    "行业政策": 16,
+    "行业政策": 17,
     "新技术": 2,
     "新原料": 5,
-    "并购融资": 3
+    "并购融资": 4
   },
-  "last_updated": "2026-10-27 23:00",
-  "last_updated_iso": "2026-10-27T23:00:59.278189+08:00",
+  "last_updated": "2026-10-28 14:26",
+  "last_updated_iso": "2026-10-28T14:26:06.064944+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -199,6 +199,50 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-10-27T23:00:42+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「健康疲れ」の生活者向けにネスレが新商品 頑張らない栄養ケア食品",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSclVtdUphbDRUOUdqQWdDX1ZNSWZaOHJXWWZwaVlaYXdLLUxMQTR3RTVKbTdnSGVZemJTZlRYYVpfZC1qbk9WV2RJQUhPSXBhR3JWaUt1QkpRV2JlMlh5bEFlSmt1RnNvY1E?oc=5",
+      "summary": "「健康疲れ」の生活者向けにネスレが新商品 頑張らない栄養ケア食品&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-27T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-28T14:25:46+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「ビックリマン」の売り上げを10倍に ロッテ“IP活用の達人”のコラボ術",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1Z6ay1GNDE3WXpadlJWZTMwdkxURDlkUlR1Z0J2WjdULVpuTmFMSURfUjNiVk9RVUVRMWo5a3BpN0ZCODNLSGhwM1hZa1EwMXQxOVk5clRuaGlRRFlsbWFyTlhtbmNFeTlyNDBIUHY5MFNrQnJyenpIa1NUamk0Ql8xckZQb01pOHBJ?oc=5",
+      "summary": "「ビックリマン」の売り上げを10倍に ロッテ“IP活用の達人”のコラボ術&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-27T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-10-28T14:25:46+08:00"
     },
     {
       "site_name": "朝日グループYouTube",
@@ -1443,6 +1487,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-25T21:26:37+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "70歳以上限定でも毎年完売 星野リゾート定期券ヒットにシニアの本音",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CV3dkZkN5Vk0tdWFlamNncHpacEZaeDZiSDJjZFQ2OVdTd2JzQ2lrbkJ3Um1XZHRnekF5cklqb244aG1oUEhpVk42NVhmaDAxWmRKX2tOUjhhU2JQOU02SDFRX3JfUQ?oc=5",
+      "summary": "70歳以上限定でも毎年完売 星野リゾート定期券ヒットにシニアの本音&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-20T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "完売",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T14:25:46+08:00"
     },
     {
       "site_name": "朝日グループYouTube",
@@ -3487,6 +3553,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-16T11:40:27+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "400万枚超のレシート分析 ドラッグで食品を買うのは女性よりも男性",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmVnFNNVR4UzM2c0RvRVg3RTdHd1VyOElKZGttSWhqZ09QX2xjb05kVlhveTdqeS1OeDE3QmJQTFhGYW16aF9oU3V4RFVZSDVjdVg2X2VHLXVTaXZGd1FjdU5CUkwzQQ?oc=5",
+      "summary": "400万枚超のレシート分析 ドラッグで食品を買うのは女性よりも男性&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-09T07:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T14:25:46+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -6721,28 +6809,6 @@
       "scraped_at": "2026-09-29T14:21:36+08:00"
     },
     {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（168ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fM09uc1RiNWpOVHdfZ3dOTlhweUNwWVFaTzVFSUpZMUYwcU5yQUMtQmdJYVBVZnBNdlJrTTh0d25SWUI3RmpmUDhoTk1KRm9JTjRFRDlFQTlaa3pQejVCZjRLbmhTSVE?oc=5",
-      "summary": "食品・飲料（168ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-24T06:19:34Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-27T13:56:45+08:00"
-    },
-    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -6901,28 +6967,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "食品・飲料（111ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSWdpS2RSR0s1ZEhNaXBLN0ZTLXE2N2s2dF9laS1uUDZVdlZQdVlqNmlUaHJHR0tLeUJHNmJBZEl0RmNuZ3ZoVG5GUDBMTHR3VExfUlBWbU9aQ0hYX3JjRHZmbVJBNlE?oc=5",
-      "summary": "食品・飲料（111ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-08T09:02:20Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-27T13:56:45+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（99ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMb0ZvaVY4Z1h4aEtBMS1ralBiMU1Sbl9rTWNBX25mVjdPeDZuOUhwT2s2Q3dTSFUzdVZQNVd3MjlWVnIyVm1rUFhDWE5tQ2ZaVmw5MEREZUVRbnp0NEJsdXFJRU92dw?oc=5",
       "summary": "食品・飲料（99ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -6961,28 +7005,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-01T14:40:12+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（138ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pQWR0Z0hvREt6SzZBZzB4OTJaY2FnS2FJVGwzRlE2RExmRWo5d3RXTzZ5N01LejBaRFE2OUhDbkt3SFQ1ellXTTlsdnZDTF9uRE9JelRrQ19XRXoxT3JSTDRQcTBvR1U?oc=5",
-      "summary": "食品・飲料（138ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-02T12:44:16Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-09-27T13:56:45+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -8567,6 +8589,78 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-27T23:00:54+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Zevia nabs $20M investment to fund turnaround",
+      "url": "https://www.fooddive.com/news/zevia-20-million-investment-turnaround-plan/833924/",
+      "summary": "The money from GP Investments will help the better-for-you soda brand diversify its product offerings and increase distribution.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-10-28T14:26:01+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Nestlé turnaround taking shape a year after new CEO",
+      "url": "https://www.fooddive.com/news/Nestle-turnaround-ceo-frozen-coffee-snacking/833742/",
+      "summary": "Philipp Navratil said innovations and category divestitures have helped lead to improvements in key markets like North America, but he’s still “not satisfied” with the company’s performance.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T14:26:01+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Right on the Dot’s: Why the pretzel brand is key to Hershey’s salty snack ambitions",
+      "url": "https://www.fooddive.com/news/hersheys-dots-brand-targets-snacks-growth-beyond-pretzels/831292/",
+      "summary": "The food manufacturer is aiming for $1 billion in sales for Dot’s by entering other categories, such as snack mixes, that are ripe for disruption.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "行业政策",
+          "icon": "📋",
+          "color": "#374151",
+          "score": 1
+        }
+      ],
+      "primary_category": "行业政策",
+      "scraped_at": "2026-10-28T14:26:01+08:00"
     }
   ]
 }
