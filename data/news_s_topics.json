@@ -1,23 +1,23 @@
 {
-  "total": 375,
-  "s_plus_count": 40,
+  "total": 385,
+  "s_plus_count": 41,
   "sites": [
-    "Packaging Digest",
-    "Food Dive",
-    "朝日グループYouTube",
     "日経新聞",
+    "朝日グループYouTube",
+    "Food Dive",
+    "Packaging Digest",
     "日経xTrend"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "营销创新": 18,
+    "其他": 214,
+    "营销创新": 19,
     "新包装": 9,
     "新产品": 56,
-    "其他": 206,
-    "联名营销": 11,
+    "联名营销": 12,
     "品牌故事": 35,
     "渠道新物种": 12,
     "行业政策": 17,
@@ -25,9 +25,163 @@
     "新原料": 5,
     "并购融资": 4
   },
-  "last_updated": "2026-10-28 14:26",
-  "last_updated_iso": "2026-10-28T14:26:06.064944+08:00",
+  "last_updated": "2026-10-28 23:36",
+  "last_updated_iso": "2026-10-28T23:36:56.531589+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Amazon系スーパーが2027年の食ヒット予測 日本の洋食が米国でブレーク間近？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00109/00237/?n_cid=nbpnxr_rss",
+      "summary": "訪日外国人観光客がSNSで発信したことで米国に“輸入された”食体験から、「洋食エフェクト」が起こる――。高級食品スーパーチェーンの米Whole Foods Marketは、こんな食トレンドが2027年に勃興すると予測する。その的中率は、いかに。",
+      "published_at": "2026-10-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T23:36:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ロッテがぶつかったAI調査の限界 生活者2700人参加の研究施設が稼働",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01980/?n_cid=nbpnxr_rss",
+      "summary": "なぜ「おいしい」だけでは売れないのか。ロッテは生活空間そっくりの研究施設を新設し、2700人の生活者を継続観察。AI調査などでは見えない無意識の反応を探り、新たなヒットづくりに挑む。その先には、配合から嗜好を予測する壮大な構想があった。その全貌とは？",
+      "published_at": "2026-10-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T23:36:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Metaが突然TikTokに誘導する広告掲載を禁止 日本を含む7カ国に影響",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00009/?n_cid=nbpnxr_rss",
+      "summary": "米Metaが「TikTok」など中国ByteDance関連サービスへのリンク広告を、日本を含む7カ国で禁止した。制限はTikTok自身だけでなく、TikTokへ利用者を誘導する広告主のキャンペーンにも及ぶ。突然のポリシー変更はクリエイター施策に影響を与えるとともに、特定の広告プラットフォームに依存するリスクを改めて浮き彫りにした。米有力メディアの「ADWEEK」がリポートする。",
+      "published_at": "2026-10-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 3
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-10-28T23:36:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "メルカリ越境EC、AI経由の集客が2倍に増加 始まる「発見」の競争",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01977/?n_cid=nbpnxr_rss",
+      "summary": "「AIトラフィックは未来の話ではない」。メルカリで執行役員を務める翁素文氏はそう語る。同社ではAIに対応した商品データの整備を進めた結果、米国からのAI経由トラフィックが、26年5月末のAIエージェント開放後、数カ月で約2倍に増加したという。背景にあるのが、AIが商品を探し、比較し、購入する「エージェンティックコマース」の広がりだ。AI時代のEC競争の最前線を追った。",
+      "published_at": "2026-10-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T23:36:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "イオンのネットスーパー拡大策はAIエージェント 120万会員の活性化狙う",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01483/00009/?n_cid=nbpnxr_rss",
+      "summary": "イオングループでネットスーパー「Green Beans」を運営するイオンネクストは、2027年頭にもエージェンティックコマースを実装する。米Googleの技術を使って、AIエージェントと音声で対話するだけで希望やニーズにあった商品が提案され、配送枠の選択、注文、決済までを完結できるようにする。いち早くエージェンティックコマースに取り組む背景にあるのは、一般的なECサービスとは異なる、ネットスーパーならではの課題だ。",
+      "published_at": "2026-10-29T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T23:36:42+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "イオンがネットスーパーにエージェンティック・コマースを実装",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmdQenlLNlY5UnhkVHkxclBjOW5KTm1UcV9VX01WQ3ZSakxnUS1aSUlpcGR3ZXlsYWJZZ1lJeWZnc1JEVjE5WVVoMUFNUzdQdFY0YXpUdERlTjNRaTZsMVFQY1dZNlFXam50eGZ2d3pENGR3YWVmY0hMSUpGT3RPcGZ2RXNqT1RnMWgtU1gzbw?oc=5",
+      "summary": "イオンがネットスーパーにエージェンティック・コマースを実装&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-28T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T23:36:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ロッテがぶつかったAI調査の限界 生活者2700人参加の研究施設が稼働",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0RYbUpYd3Z2ZUEteWFFNEVVdmx2QVJMNDRmLXZibG5KUjVFTXQzSFQ0SjRTVGxScEVzTlM2Q2xUZ2tFX1ZKSmVJMFNKbnBHVE5CUmM4aWFBLVlwTTg2Rk9ZNWNLTFgxeFZiOFlPUjhLX29EQTgyTnp1aTJWYzBTWXE5d2FGeDNUdW41aHhoanVEUFRzdk9qVQ?oc=5",
+      "summary": "ロッテがぶつかったAI調査の限界 生活者2700人参加の研究施設が稼働&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-28T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T23:36:40+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -243,6 +397,50 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-10-28T14:25:46+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "自販機不況でも絶好調 グリコ・セブンティーンアイスの高校生戦略とは",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PdUMtSFFlczVqTFp1SHpRQlAzdDVHWTVZMEhOYmwtcFNqUjl3SXJ4cnpWTndSckN6Ui15MVJrWXpYNnNpTVhYaFVHQjdwcXdzT0JWdE81a1MzY2lMQ2xENURpVEloZw?oc=5",
+      "summary": "自販機不況でも絶好調 グリコ・セブンティーンアイスの高校生戦略とは&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-27T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T23:36:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「ビックリマン」の売り上げを10倍に ロッテ“IP活用の達人”のコラボ術",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rSDFtSW8tb1VyUkhZNExqT1VXNWgyTjFIVXNSV0NORlNtYVpORFdiUW81QTZydmpubEtXWnBYT1lDVEYwUnR2ZWVEZEdaMmlVemswWXRtaXdfSnJ4OTVhNnNvY3lkZw?oc=5",
+      "summary": "「ビックリマン」の売り上げを10倍に ロッテ“IP活用の達人”のコラボ術&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-27T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-10-28T23:36:40+08:00"
     },
     {
       "site_name": "朝日グループYouTube",
@@ -8661,6 +8859,28 @@
       ],
       "primary_category": "行业政策",
       "scraped_at": "2026-10-28T14:26:01+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Why candy prices are scary high ahead of Halloween",
+      "url": "https://www.fooddive.com/news/halloween-candy-inflation-2026-hershey-mondelez/833754/",
+      "summary": "Rising ingredient costs have prompted confectionery giants such as Hershey to broaden trick-or-treating options to include salty snacks.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-28T23:36:52+08:00"
     }
   ]
 }
