@@ -1,7 +1,103 @@
 {
-  "last_updated": "2026-10-28T18:28:20.433398+08:00",
-  "total": 13141,
+  "last_updated": "2026-10-28T23:36:42.890804+08:00",
+  "total": 13151,
   "articles": [
+    {
+      "id": "b5cbabb26f65516e",
+      "title": "Ultra-Processed Foods Face a Definition Dilemma",
+      "summary": "Americans are increasingly avoiding ultra-processed foods, despite confusion over their definition and as federal regulations stall. The post Ultra-Processed Foods Face a Definition Dilemma appeared…",
+      "url": "https://foodinstitute.com/focus/ultra-processed-foods-face-a-definition-dilemma/?utm_source=rss&utm_medium=rss&utm_campaign=ultra-processed-foods-face-a-definition-dilemma",
+      "published_at": "2026-10-28T22:22:49+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "de60cd0d41b69fca",
+      "title": "Danone joins Nestlé, Coca-Cola in revising recycling labels after EU greenwashing probe",
+      "summary": "The Evian owner committed to specifying what parts of its water bottles are made from 100% recycled plastics and will refrain from misleading marketing claims.",
+      "url": "https://www.fooddive.com/news/danone-joins-nestle-coca-cola-revises-recycling-labels-after-eu-greenwashing-complaint/872777/",
+      "published_at": "2026-10-28T22:18:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "be3637a315790de3",
+      "title": "DR. WILL’S EXPANDS INTO FRESH CATEGORY WITH NEW DIP POTS IN TESCO",
+      "summary": "Dr. Will’s is set to enter a new category with the launch of its dip pots. The launch will see Dr. Will’s’ first foray into the refrigerated dips category with the new pots sitting within the Fresh…",
+      "url": "https://fabnews.live/dr-wills-expands-into-fresh-category-with-new-dip-pots-in-tesco/",
+      "published_at": "2026-10-28T22:10:35+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "2e92321629f737cc",
+      "title": "The Natural List: Natural Halloween candies. A trick or a treat?",
+      "summary": "Can natural Halloween candy actually beat the originals? Find out as Adrienne Smith, Meredith Kaufmann and our special guest put the classics to the test.",
+      "url": "https://www.newhope.com/food-and-beverage/the-natural-list-these-natural-halloween-candies-are-better-than-the-og-s",
+      "published_at": "2026-10-28T22:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "b48b8b8272d43786",
+      "title": "Mystery flavors keep consumers guessing",
+      "summary": "From Chips! Ahoy to Hi-Chew, brands are leaning into gamified experiences and nostalgia to engage shoppers.",
+      "url": "https://www.fooddive.com/news/mystery-flavors-consumer-engagement-chips-ahoy-sunny-d/873010/",
+      "published_at": "2026-10-28T21:59:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "4cd233a1c020f686",
+      "title": "Doughy Unveils New Branding, Cookie ‘Puck’ Flatpacks At Target",
+      "summary": "Edible cookie dough brand Doughy has revamped its visual identity as it launches its new flat-pack format in Target for the holidays.",
+      "url": "https://www.nosh.com/news/2026/doughy-unveils-new-branding-cookie-puck-flatpacks-at-target",
+      "published_at": "2026-10-28T21:48:28+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "24bbe4dc82a25023",
+      "title": "Former Poppi Exec Jenny Danzi Joins Liquid I.V. as CMO",
+      "summary": "Liquid I.V. has appointed former Poppi chief marketing officer Jenny Danzi as its new CMO, bringing Danzi’s nearly two decades of marketing experience to the brand’s leadership team.",
+      "url": "https://www.bevnet.com/news/2026/former-poppi-exec-jenny-danzi-joins-liquid-i-v-as-cmo",
+      "published_at": "2026-10-28T20:46:16+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "42aae6b3323356de",
+      "title": "PURE PET FOOD PUTS MINDFUL TREATING ON THE MENU THIS CHRISTMAS",
+      "summary": "Yorkshire pet nutrition brand expands festive offer with new food and treats alongside its first Christmas selection box Pure Pet Food is expanding its Christmas offer for 2026 with a new line-up of…",
+      "url": "https://fabnews.live/pure-pet-food-puts-mindful-treating-on-the-menu-this-christmas/",
+      "published_at": "2026-10-28T20:25:12+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "c5d0dd59af069b0f",
       "title": "ヨーグルトのトレンド人気ランキング！",
@@ -345,6 +441,18 @@
       "url": "https://www.foodsafetynews.com/2026/10/halloween-food-safety-tips-for-trick-or-treaters-and-party-hosts/",
       "published_at": "2026-10-28T12:01:00+08:00",
       "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "de2f3a7c930e9b74",
+      "title": "FI Fast Break audio news: Oct. 28, 2026",
+      "summary": "The latest FI Fast Break news podcast touches on the latest holiday menu items hitting restaurant menus, such as Country Fried Turkey. The post FI Fast Break audio news: Oct. 28, 2026 appeared first…",
+      "url": "https://foodinstitute.com/podcast/fi-fast-break-audio-news-oct-28-2026/?utm_source=rss&utm_medium=rss&utm_campaign=fi-fast-break-audio-news-oct-28-2026",
+      "published_at": "2026-10-28T12:00:47+08:00",
+      "source": "The Food Institute",
       "region": "北美",
       "category": "综合",
       "level": "A",
@@ -804,6 +912,18 @@
       "region": "北美",
       "category": "综合",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "af7609b98e617e72",
+      "title": "General Mills upgrades Cheerios cereal boxes with resealable bags",
+      "summary": "The cereal giant is teaming with Ziploc to help consumers preserve freshness and prevent spills.",
+      "url": "https://www.fooddive.com/news/General-mills-cheerios-cereal-packaging/872906/",
+      "published_at": "2026-10-28T04:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
