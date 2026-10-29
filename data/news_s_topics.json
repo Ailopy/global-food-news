@@ -1,33 +1,215 @@
 {
-  "total": 375,
+  "total": 385,
   "s_plus_count": 39,
   "sites": [
-    "朝日グループYouTube",
+    "日経xTrend",
     "日経新聞",
     "Food Dive",
-    "日経xTrend",
-    "Packaging Digest"
+    "Packaging Digest",
+    "朝日グループYouTube"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "其他": 211,
-    "营销创新": 18,
+    "并购融资": 5,
+    "其他": 216,
+    "新产品": 52,
+    "品牌故事": 36,
+    "营销创新": 19,
     "新包装": 9,
-    "新产品": 51,
     "联名营销": 12,
-    "品牌故事": 34,
     "渠道新物种": 12,
     "行业政策": 17,
     "新技术": 2,
-    "新原料": 5,
-    "并购融资": 4
+    "新原料": 5
   },
-  "last_updated": "2026-10-29 14:36",
-  "last_updated_iso": "2026-10-29T14:36:10.079027+08:00",
+  "last_updated": "2026-10-29 23:43",
+  "last_updated_iso": "2026-10-29T23:43:38.673610+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "中国製部品に依存する「国産」ロボ 未成熟市場でもメーカー続々の理由",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01497/00003/?n_cid=nbpnxr_rss",
+      "summary": "米Appleや韓国サムスンがけん引したスマートフォンに象徴されるように、これまではメーカーが求める高い水準を満たす部品をつくることでサプライチェーンは発展してきた。しかし、ヒューマノイドロボットはサプライチェーンが先に革新を起こし、それをメーカーが取り込んで進歩しているという。部品への先行投資をどう捉えるか。日本企業にとってのチャンスはここにあるのではないか。",
+      "published_at": "2026-10-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-10-29T23:43:22+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "TKPやGENDA参入、35万人超え施設登場 今のVR体験ブームもバブル？",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01413/00005/?n_cid=nbpnxr_rss",
+      "summary": "米メタがVRの本格的な開発を始めてから10年以上たつが、対応ヘッドセットが普及する兆候はまだ見られない。一方で、VR体験施設は日本でにわかに盛り上がっているのをご存じだろうか。累計来場者数が35万人を突破した人気施設もあるほどだ。振り返れば、VR元年と呼ばれた2016年に体験施設が数多くオープンしたが、その後、ほとんどが閉業してしまった。では、現在のブームは果たして定着するのか。識者が考察する。",
+      "published_at": "2026-10-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-29T23:43:22+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "最強スーパー「成城石井」 驚きの現場に見たヒット量産の“奥義”",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01511/00001/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドの新刊『成城石井 最強スーパーの新・哲学 ～なぜ“愛され”続けるのか、次にどこへ向かうのか～』が、全国の書店などで2026年11月2日に発売される。27年2月に創業100年を迎えるスーパー「成城石井」の強さの源泉を、現場から経営まで多面的に解明する1冊だ。発売を記念して、冒頭7ページを本日全文公開する。",
+      "published_at": "2026-10-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-10-29T23:43:22+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「伊右衛門」はサントリー、では「綾鷹」は？ ブランド→企業想起調査",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01981/?n_cid=nbpnxr_rss",
+      "summary": "「伊右衛門」はサントリー、では「綾鷹」は？ 普段何気なく手に取っている商品ブランドでも、その製造販売元をすぐに答えられる人は意外と少ないのではないか。そこで、各ブランドについて企業名を選択式で選んでもらうアンケートを実施した。対象は、ビール、カップめん、ペットボトル入り茶飲料、ヨーグルト、缶コーヒー、ウインナー、エアコン、洗濯用洗剤の8カテゴリー、計42ブランド。ブランド名からの企業想起「正答率」トップは？ 記事末尾から調査データをダウンロードできる。",
+      "published_at": "2026-10-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-29T23:43:22+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "月見商戦でマクドナルドのCMが好感度1位 モス、KFCとの違いを分析",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02989/?n_cid=nbpnxr_rss",
+      "summary": "「月見バーガーのCMを見ると秋が来たと感じる」。そんな視聴者の声が、CM好感度首位となったマクドナルドの強さを物語る。月見商戦で存在感を示すモスバーガーやKFCとの違いを分析。さらに、25年前のヒット曲を活用した「マックフルーリー」CMから、世代を超えて共感を生む広告手法も探った。",
+      "published_at": "2026-10-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-10-29T23:43:22+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "キッコーマンが見いだした1人食市場の勝ち筋 拡大する「うどん」を狙え",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02994/?n_cid=nbpnxr_rss",
+      "summary": "単身・少人数世帯の増加やライフスタイルの変化を背景に、鍋つゆ市場では従来の商品だけでは需要を取り込めなくなってきている。そこでキッコーマン食品は、時短や利便性ではなく「温活」や「プチぜいたく」といった“ご自愛ニーズ”を重視。レンジ調理の手軽さなどと本格的な味を組み合わせることで支持を獲得した。",
+      "published_at": "2026-10-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-29T23:43:22+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ハドソンのDNAが根付く札幌 産官学の有機的な連携でゲーム人材育成",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00094/?n_cid=nbpnxr_rss",
+      "summary": "札幌市と市内のゲーム企業21社が運営するゲームイベント「Sapporo Game Camp」。会場にはゲーム系の専攻がある札幌周辺の大学や専門学校も集結し、様々な企画を実施した。ここまで多くのゲーム関連企業や学校が集まる都市は全国でも珍しい。現地で取材してみると、その背景が見えてきた。",
+      "published_at": "2026-10-30T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-29T23:43:22+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「伊右衛門」はサントリー、では「綾鷹」は？ ブランド→企業想起調査",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS3RJNDFSUEpoYWxBZXFPdkFnTndYVl9RZXhCRmFfWEw0SkRWbnd4c3drdXEtODg3aDJvdWNXa0dROTFKNE5pSTFyWlpyV3dZYzBGS3RRZmQtQUpSTUZ1cS1xZjFtU2pQQkZhcEZiNURpbTJobWRFY3RSZHM3TGEtQ3NIaDRtdFc0TkMxV3RvRGtUNEtl?oc=5",
+      "summary": "「伊右衛門」はサントリー、では「綾鷹」は？ ブランド→企業想起調査&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-29T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-29T23:43:20+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -507,6 +689,28 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-10-28T23:36:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "【写真特集】高級ホテルの秋限定アフタヌーンティー6選",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vR2kwWk9lRVVkNjRmSElodTRka2NWQVBJd3RNUjdPVzRsYy05NHFUYVZNVEhNczhwQXNtSnBiUElQUEdzUmc2cmVKR1NKRy1rWmdDRl9NcG5Ld0NIaGVYZW9vajllcGdVREdMZ2Vud21MUQ?oc=5",
+      "summary": "【写真特集】高級ホテルの秋限定アフタヌーンティー6選&nbsp;&nbsp;THE NIKKEI MAGAZINE",
+      "published_at": "2026-10-27T10:35:31Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-29T23:43:20+08:00"
     },
     {
       "site_name": "朝日グループYouTube",
@@ -8649,6 +8853,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-28T23:36:52+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Ultraprocessed food labels could cost industry $14B a year",
+      "url": "https://www.fooddive.com/news/ultraprocessed-foods-cost-label-definition-research/872888/",
+      "summary": "A labeling mandate would apply to 72% of packaged foods and lead to higher reformulation and ingredient costs, according to a study by the University of Chicago.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-29T23:43:34+08:00"
     }
   ]
 }

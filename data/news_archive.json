@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-10-29T18:48:48.777806+08:00",
-  "total": 13205,
+  "last_updated": "2026-10-29T23:43:12.504046+08:00",
+  "total": 13235,
   "articles": [
+    {
+      "id": "e5baea278ac2a2f4",
+      "title": "Why decaf coffee, alternative energy drinks are buzzing",
+      "summary": "As health-conscious shoppers rethink their relationship with alcohol, caffeine could be next.",
+      "url": "https://www.fooddive.com/news/consumer-embrace-caffeine-alternatives-decaf-ltheanine/831936/",
+      "published_at": "2026-10-29T23:22:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "8be222927f9f7857",
+      "title": "1M Chicks Slaughtered in New Bird Flu Outbreak",
+      "summary": "FI Fast Facts: A bird flu outbreak triggered the culling of 934,600 Illinois birds. Meanwhile, Screwworm cases have prompted livestock protections. Additionally, the USDA has allocated $8 billion to…",
+      "url": "https://foodinstitute.com/focus/1m-chicks-slaughtered-in-new-bird-flu-outbreak/?utm_source=rss&utm_medium=rss&utm_campaign=1m-chicks-slaughtered-in-new-bird-flu-outbreak",
+      "published_at": "2026-10-29T22:34:33+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "37f468e93fb43fc5",
+      "title": "CPG Week: Cracking Into Vita Coco’s Success, Food Industry Layoffs Mount",
+      "summary": "In this episode, the podcast explores Vita Coco’s continued success, mass layoffs plaguing the food and beverage industry and Whole Foods 2027 trend predictions.",
+      "url": "https://www.nosh.com/cpgweek/cracking-into-vita-cocos-success-food-industry-layoffs-mount",
+      "published_at": "2026-10-29T22:00:23+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "18e23453208c79c7",
+      "title": "CPG Week: Cracking Into Vita Coco’s Success, Food Industry Layoffs Mount",
+      "summary": "In this episode, the podcast explores Vita Coco’s continued success, mass layoffs plaguing the food and beverage industry and Whole Foods 2027 trend predictions.",
+      "url": "https://www.bevnet.com/news/2026/cpg-week-cracking-into-vita-cocos-success-food-industry-layoffs-mount",
+      "published_at": "2026-10-29T22:00:19+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "89744dfd87f1c989",
+      "title": "Danone changes US leadership in ‘offensive phase’ of its turnaround",
+      "summary": "The Oikos maker named Francois Lacombe as president of Danone U.S. to improve performance in the region, which has been mired by surging demand and lagging customer service.",
+      "url": "https://www.fooddive.com/news/Danone-US-protein-glp1-oikos-production-customer-service-disruption/873125/",
+      "published_at": "2026-10-29T22:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "ae00cb50c218c4f5",
+      "title": "DoorDash to Buy Instacart for $17B",
+      "summary": "DoorDash is doubling down on grocery, announcing today a $17 billion agreement to acquire Instacart, combining two of the largest food delivery platforms and expanding their reach across retail and…",
+      "url": "https://www.nosh.com/news/2026/doordash-to-buy-instacart-for-17b",
+      "published_at": "2026-10-29T21:43:53+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "a341396f50a3267c",
+      "title": "Review: Mingle Mocktails Makes an Impressive Zero-Proof Espresso Martini",
+      "summary": "The flavor does a surprisingly good job of capturing the essence of an espresso martini. There’s plenty of coffee flavor, while the sweetness and added flavorings create a profile that feels more…",
+      "url": "https://www.bevnet.com/news/2026/review-mingle-mocktails-makes-an-impressive-zero-proof-espresso-martini",
+      "published_at": "2026-10-29T20:30:52+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "7f8b5c46f79e88b3",
+      "title": "BACK BY POPULAR DEMAND: PENRHOS AND ODDBOX BRING BACK SELL-OUT PEAR & CHILLI GIN FOR CHRISTMAS 2026",
+      "summary": "The sweet-meets-heat festive favourite returns for a limited time, with an exclusive UK-wide Flight Club bar partnership The gin that brought the heat last Christmas is back. Following a sell-out…",
+      "url": "https://fabnews.live/back-by-popular-demand-penrhos-and-oddbox-bring-back-sell-out-pear-chilli-gin-for-christmas-2026/",
+      "published_at": "2026-10-29T20:10:27+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "607ccea60e3669d5",
+      "title": "Will Gamified Employee Engagement Catch on Across Foodservice?",
+      "summary": "What if the best way to keep restaurant employees off their phones was to give them another smartphone app? That's the rationale behind Pryze, a gamified employee engagement platform that rewards…",
+      "url": "https://foodinstitute.com/focus/will-gamified-employee-engagement-catch-on-across-foodservice/?utm_source=rss&utm_medium=rss&utm_campaign=will-gamified-employee-engagement-catch-on-across-foodservice",
+      "published_at": "2026-10-29T19:00:57+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8e69120544d3cc76",
+      "title": "いちご味人気！アイスクリームのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「アイスクリーム」の最新・注目度ランキングです♪（2026年10月23日更新）食品クチコミサイト「もぐナビ」に投稿された…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-29515/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-29T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "b0c4899f42cb8f7f",
       "title": "イオン物流改革、最新自動化モデルセンター まいばす専用「川口東XD」稼働 業界初、店舗別に混載パレタイズロボット",
@@ -9,6 +129,18 @@
       "url": "https://shokuhin.net/159231/2026/10/29/ryutu/%e7%89%a9%e6%b5%81/",
       "published_at": "2026-10-29T17:47:52+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8493a3b8b948ae2d",
+      "title": "今週新発売のスイーツ🍰まとめ！『Ｓｕｉｃａのペンギンマカロン　抹茶』、『茨城県産笠間栗のモンブラン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！スイーツの新商品情報をお届けします。今週新発売の#スイーツニューデイズ ニュータスSweets Suicaのペンギンマカロン …",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102908/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-29T17:30:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -24,6 +156,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "b74fe7d39c340a59",
+      "title": "ファミマの贅沢エクレア登場！　とろけるクリーム無限のおいしさ！：今週のコンビニスイーツランキング",
+      "summary": "週間コンビニスイーツランキングTOP3：2026年10月第5週今週もやってまいりました。2026年10月第5週、コンビニスイーツランキングのコーナーです。それ…",
+      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182747/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-29T17:00:18+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -75,6 +219,18 @@
       "language": "en"
     },
     {
+      "id": "2eb3976a42d52c15",
+      "title": "今週新発売の菓子パン🍫まとめ！『どでかデニッシュ　クリームチーズ』、『チョコザックロール』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン どでかデニッシュ クリームチーズ 袋1個デニッシュ生地…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102907/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-29T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "c003d0481f8949f8",
       "title": "MANE debuts natural tropical flavours inspired by Costa Rican fruits and consumer insights",
       "summary": "Taste of the Tropics helps food and beverage manufacturers create distinctive, true-to-fruit experiences",
@@ -120,6 +276,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "de22db0bd0964914",
+      "title": "今週新発売の菓子パン🍫まとめ！『オールドファッション　シュガー』、『もちもちリング　チョコとクランチ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン オールドファッション シュガー 袋1個コーティングシュ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102906/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-29T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -195,6 +363,18 @@
       "language": "ja"
     },
     {
+      "id": "c9476141c160bb9f",
+      "title": "今週新発売の菓子パン🍫まとめ！『ビッグサンド　ハム入りコールスロー』、『パン屋さんのチーズケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン ビッグサンド ハム入りコールスロー 袋1個山型食パンに…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102905/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-29T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "2a9df5f11b2c5d64",
       "title": "「紗々ミルクレープ」に新作の抹茶が加わり2種展開に【銀座コージーコーナー】",
       "summary": "銀座コージーコーナーは、ロッテと共同開発した「紗々ミルクレープ(抹茶)」を、2026年11月1日から全国の生ケーキ取扱店で販売する。 ※北海道･九州地方及び、福井県･京都府･滋賀県･鳥取県･島根県･山口県･愛媛県･高知県...",
@@ -243,6 +423,18 @@
       "language": "en"
     },
     {
+      "id": "82cd858db1186eb6",
+      "title": "今週新発売の菓子パン🍫まとめ！『ヤキリンゴ　コーヒー』、『ブラックロールケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン ヤキリンゴ コーヒー 袋4個コーヒーゼリー入りコーヒー…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102904/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-29T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "da0b9280b9b140d8",
       "title": "今週新発売の菓子パン🍫まとめ！『ヤキリンゴ　コーヒー』、『ブラックロールケーキ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンリョーユーパン ヤキリンゴ コーヒー 袋4個コーヒーゼリー入りコーヒー…",
@@ -288,6 +480,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "6103f2926de45783",
+      "title": "今週新発売の菓子パン🍫まとめ！『黒豆と黒ごまのむしぱん』、『北海道メロンリング』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パン木村屋 黒豆と黒ごまのむしぱん 袋1個香ばしい黒ごま風味のむしぱん生地…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102903/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-29T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -339,6 +543,18 @@
       "language": "ja"
     },
     {
+      "id": "1a2d3e2562e70076",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『ジャンバラヤ＆ペペロンチーノ』、『こんがり焼いたクリーミー海老ドリア』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ミニストップ ジャンバラヤ＆ペペロ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102902/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-29T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "7cb24b12ff14a421",
       "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『ジャンバラヤ＆ペペロンチーノ』、『こんがり焼いたクリーミー海老ドリア』など♪",
       "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ミニストップ ジャンバラヤ＆ペペロ…",
@@ -360,6 +576,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "7ccc259897349458",
+      "title": "今週新発売のおやつ🍩まとめ！『きなこシフォン＆きなこクリーム』、『冷やして食べるしっとり食感のバナナバウム』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！おやつの新商品情報をお届けします。今週新発売の#おやつセブン-イレブン きなこシフォン＆きなこクリーム神奈川県の在来品種である…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102901/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-29T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -555,6 +783,18 @@
       "language": "en"
     },
     {
+      "id": "f51747c7d429c167",
+      "title": "ヨーグルトのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ヨーグルト」の最新・注目度ランキングです♪（2026年10月23日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-29482/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-28T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "97238f944cc4049a",
       "title": "ヨーグルトのトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ヨーグルト」の最新・注目度ランキングです♪（2026年10月23日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
@@ -572,6 +812,18 @@
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ヨーグルト」の最新・注目度ランキングです♪（2026年10月23日更新）食品クチコミサイト「もぐナビ」に投稿されたデー…",
       "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-29482/?utm_source=rss&utm_medium=mognavinews_20261028",
       "published_at": "2026-10-28T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "01a9838a1f14df82",
+      "title": "今週新発売の味噌まとめ！『１食分の野菜が摂れる　信州味噌ラーメン』、『東北限定　辛味噌ラーメン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！味噌の新商品情報をお届けします。今週新発売の#味噌ローソン 1食分の野菜が摂れる 信州味噌ラーメン1食分の野菜が摂取できる、2…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102808/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-28T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -711,6 +963,18 @@
       "language": "ja"
     },
     {
+      "id": "57bea8957a74a712",
+      "title": "【2026年10月第5週】コンビニドリンク・コンビニカップ飲料の新商品！猿田彦珈琲カフェラテやのむフルーチェなど話題作まとめ",
+      "summary": "今週のコンビニドリンク・カップ飲料コーナーには、秋らしい温かみのある新作から、健康志向の一杯まで、バラエティ豊かな新商品が揃いました。コーヒー、紅茶、スープ、…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-29457/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-28T15:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "0144dcbcdab010f1",
       "title": "【2026年10月第5週】コンビニドリンク・コンビニカップ飲料の新商品！猿田彦珈琲カフェラテやのむフルーチェなど話題作まとめ",
       "summary": "今週のコンビニドリンク・カップ飲料コーナーには、秋らしい温かみのある新作から、健康志向の一杯まで、バラエティ豊かな新商品が揃いました。コーヒー、紅茶、スープ、…",
@@ -735,6 +999,18 @@
       "language": "ja"
     },
     {
+      "id": "344e7ff46b3728c9",
+      "title": "今週新発売のジューシーな食べものまとめ！『パンチェッタのバジルクリーム』、『ジューシーハムサンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ジューシーの新商品情報をお届けします。今週新発売の#ジューシーニューデイズ パンチェッタのバジルクリームもちっとした食感の生パ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102807/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-28T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "8c82a85b36087e4b",
       "title": "今週新発売のジューシーな食べものまとめ！『パンチェッタのバジルクリーム』、『ジューシーハムサンド』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ジューシーの新商品情報をお届けします。今週新発売の#ジューシーニューデイズ パンチェッタのバジルクリームもちっとした食感の生パ…",
@@ -752,6 +1028,18 @@
       "summary": "こんにちは、もぐナビ編集部です！ジューシーの新商品情報をお届けします。今週新発売の#ジューシーニューデイズ パンチェッタのバジルクリームもちっとした食感の生パ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102807/?utm_source=rss&utm_medium=mognavinews_20261028",
       "published_at": "2026-10-28T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "696c186ea827c74f",
+      "title": "【2026年10月第5週】コンビニホットスナックの新商品！ロールキャベツや鶏からなど個性派ぞろいまとめ",
+      "summary": "今週のコンビニホットスナックコーナーに、気になる新商品が続々と登場しています。ローソン、ファミリーマート、セブン-イレブンの3チェーンからバラエティ豊かなライ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-29456/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-28T14:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -792,6 +1080,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "84b4005d1aacdd63",
+      "title": "【2026年10月第5週】コンビニスイーツの新商品！とろける杏仁豆腐やティラミス、さつまいもスイーツなどまとめ",
+      "summary": "今週のコンビニスイーツには、秋らしい素材を使った和スイーツから、チョコレートブランドとのコラボスイーツまで、バラエティ豊かな新商品が揃いました。セブン-イレブ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-29455/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-28T14:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -855,6 +1155,18 @@
       "language": "ja"
     },
     {
+      "id": "e8e026fd8db0b5bc",
+      "title": "今週新発売の海老まとめ！『プライドポテト１００％　甘えび唐揚げ　金沢』、『海老のビスク風』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！海老の新商品情報をお届けします。今週新発売の#海老湖池屋 プライドポテト100％ 甘えび唐揚げ 金沢 袋52g“金沢の甘えび”…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102806/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-28T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "f4a3686125356e79",
       "title": "今週新発売の海老まとめ！『プライドポテト１００％　甘えび唐揚げ　金沢』、『海老のビスク風』など♪",
       "summary": "こんにちは、もぐナビ編集部です！海老の新商品情報をお届けします。今週新発売の#海老湖池屋 プライドポテト100％ 甘えび唐揚げ 金沢 袋52g“金沢の甘えび”…",
@@ -903,6 +1215,18 @@
       "language": "ja"
     },
     {
+      "id": "0e35fa06ad234e45",
+      "title": "【2026年10月第4週】ドリンクランキング1位はスタバの蜜芋フラペチーノ！秋の新作＆急上昇まとめ",
+      "summary": "2026年10月第4週のドリンクランキングが出揃いました。秋の味覚をたっぷり感じられるドリンクが続々と顔を見せ、今週もバラエティ豊かなラインナップになっていま…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29261/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-28T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "1821852888083b0c",
       "title": "【2026年10月第4週】ドリンクランキング1位はスタバの蜜芋フラペチーノ！秋の新作＆急上昇まとめ",
       "summary": "2026年10月第4週のドリンクランキングが出揃いました。秋の味覚をたっぷり感じられるドリンクが続々と顔を見せ、今週もバラエティ豊かなラインナップになっていま…",
@@ -920,6 +1244,18 @@
       "summary": "2026年10月第4週のドリンクランキングが出揃いました。秋の味覚をたっぷり感じられるドリンクが続々と顔を見せ、今週もバラエティ豊かなラインナップになっていま…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29261/?utm_source=rss&utm_medium=mognavinews_20261028",
       "published_at": "2026-10-28T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f5e8de1e53c61b04",
+      "title": "今週新発売の甘辛まとめ！『ポテトチップス　ヤンニョムケジャンマヨ味』、『ピリ辛ねぎメンマおむすび』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！甘辛の新商品情報をお届けします。今週新発売の#甘辛カルビー ポテトチップス ヤンニョムケジャンマヨ味やみつき必至のこってり甘辛…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026102805/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-28T12:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -1021,6 +1357,18 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "20a37ae07c6114e3",
+      "title": "【2026年10月第4週】ドーナツ・パンランキング1位はさつまいもド クレームブリュレ！ポン・デ・ショコラ新登場＆急上昇まとめ",
+      "summary": "今週のドーナツ・パンランキングは、秋らしいさつまいも系や濃厚チョコ系がずらりと顔をそろえる結果となりました。ミスタードーナツの存在感が際立つ週になりましたが、…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29260/?utm_source=rss&utm_medium=mognavinews_20261030",
+      "published_at": "2026-10-28T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "e2a7c7afa45894b3",
@@ -1951,6 +2299,18 @@
       "title": "The gut health category is crowded: how can brands truly stand out?",
       "summary": "For formulators, the challenge is no longer simply finding a gut health ingredient, but a product that provides the credible science, relevant benefits and the flexibility to support innovative…",
       "url": "https://nutraceuticalbusinessreview.com/the-gut-health-category-is-crowded-how-can",
+      "published_at": "2026-10-27T15:00:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "ef3ab11bd946338d",
+      "title": "Beyond melatonin: a new perspective on sleep support",
+      "summary": "A clinical study compares patented black cumin seed oil with synthetic melatonin, exploring sleep duration, daytime sleepiness and the body’s natural sleep-regulating processes",
+      "url": "https://nutraceuticalbusinessreview.com/beyond-melatonin-a-new-perspective-on-sleep-support",
       "published_at": "2026-10-27T15:00:00+08:00",
       "source": "Nutraceutical Business Review",
       "region": "欧洲",
