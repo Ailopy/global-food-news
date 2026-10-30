@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-29T21:52:28",
+  "last_updated": "2026-10-30T14:35:29",
   "retention_days": 7,
-  "total": 727,
+  "total": 729,
   "s_count": 52,
   "a_count": 7,
-  "b_count": 668,
+  "b_count": 670,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,39 @@
   ],
   "articles": [
     {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-10-30T00:00:00",
+      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.30日清食品ホールディングス「日清食品グループ カスタマーハラスメントに対する基本方針」の策定について",
+      "url": "https://www.nissin.com/jp/company/sustainability/management/policy/customer-harassment-policy/",
+      "published_at": "2026-10-30T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.10.30湖池屋「VIVANTポテトチップス 別班まんじゅう / シンシー麻辣チキン」(11月2日発売)",
+      "url": "https://www.nissin.com/jp/news/13972/",
+      "published_at": "2026-10-30T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
@@ -45,17 +78,6 @@
       "summary": "",
       "level": "S",
       "level_reason": "营销创新"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-10-29T00:00:00",
-      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
-      "level": "B",
-      "level_reason": "企业动态"
     },
     {
       "brand": "Kirin",
