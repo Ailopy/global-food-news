@@ -1,22 +1,22 @@
 {
-  "total": 371,
+  "total": 375,
   "s_plus_count": 38,
   "sites": [
-    "日経xTrend",
     "Food Dive",
+    "日経新聞",
     "朝日グループYouTube",
-    "Packaging Digest",
-    "日経新聞"
+    "日経xTrend",
+    "Packaging Digest"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
+    "品牌故事": 37,
     "并购融资": 5,
-    "其他": 211,
+    "其他": 214,
     "新产品": 50,
-    "品牌故事": 36,
     "营销创新": 16,
     "新包装": 8,
     "联名营销": 11,
@@ -25,9 +25,34 @@
     "新技术": 2,
     "新原料": 4
   },
-  "last_updated": "2026-10-30 14:35",
-  "last_updated_iso": "2026-10-30T14:35:55.808557+08:00",
+  "last_updated": "2026-10-30 23:25",
+  "last_updated_iso": "2026-10-30T23:25:49.542427+08:00",
   "articles": [
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "クリアアサヒ＜生＞ 「クリア、Ready？」篇 TVCMメイキング 木村拓哉",
+      "url": "https://www.youtube.com/watch?v=r_Ga6xlxmb4",
+      "summary": "木村拓哉さんが出演する『クリアアサヒ＜生＞』のTVCM 「クリア、Ready？」篇 メイキング 出演者：木村拓哉 ▼クリアアサヒ ブランドサイト https://www.asahibeer.co.jp/brand/clear/",
+      "published_at": "2026-10-30T09:00:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-10-30T23:25:49+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i3.ytimg.com/vi/r_Ga6xlxmb4/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -1516,6 +1541,28 @@
       "is_video": true,
       "video_thumbnail": "https://i2.ytimg.com/vi/QzfvKJHseoE/hqdefault.jpg",
       "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米国発 AIに読まれないウェブサイトは「ないもの」と同じ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jb1M3WS1IbmNtMUtzTEN0eXdqMmdNRzdkS25fcFJ2SFlDclBqV2p6U09TUHRXQ0xLZVUyOFpLT0JTS212NWJrNjFmTTFTYlJaLVZuRHNidHRSaDhPWGQzX1llX0JEZw?oc=5",
+      "summary": "米国発 AIに読まれないウェブサイトは「ないもの」と同じ&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-22T07:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-30T23:25:31+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -8537,6 +8584,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-30T14:35:51+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "General Mills upgrades Cheerios cereal boxes with resealable bags",
+      "url": "https://www.fooddive.com/news/General-mills-cheerios-cereal-packaging/872906/",
+      "summary": "The food giant is teaming up with Ziploc to help consumers preserve freshness and prevent spills.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-30T23:25:45+08:00"
+    },
+    {
+      "site_name": "Food Dive",
+      "site_name_en": "Food Dive",
+      "region": "北美",
+      "positioning": "行业分析",
+      "title": "Danone joins Nestlé, Coca-Cola in revising recycling labels after EU greenwashing probe",
+      "url": "https://www.fooddive.com/news/danone-joins-nestle-coca-cola-revises-recycling-labels-after-eu-greenwashing-complaint/872777/",
+      "summary": "The Evian owner committed to specifying what parts of its water bottles are made from 100% recycled plastics and will refrain from misleading marketing.",
+      "published_at": "",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-30T23:25:45+08:00"
     }
   ]
 }
