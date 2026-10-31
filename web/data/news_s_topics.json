@@ -1,19 +1,19 @@
 {
-  "total": 363,
+  "total": 364,
   "s_plus_count": 38,
   "sites": [
-    "Packaging Digest",
     "Food Dive",
+    "Packaging Digest",
     "朝日グループYouTube",
     "日経新聞",
     "日経xTrend"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "其他": 208,
+    "其他": 209,
     "联名营销": 12,
     "品牌故事": 37,
     "并购融资": 5,
@@ -25,8 +25,8 @@
     "新技术": 2,
     "新原料": 4
   },
-  "last_updated": "2026-10-31 14:25",
-  "last_updated_iso": "2026-10-31T14:25:19.230615+08:00",
+  "last_updated": "2026-10-31 22:54",
+  "last_updated_iso": "2026-10-31T22:54:31.513849+08:00",
   "articles": [
     {
       "site_name": "Packaging Digest",
@@ -2745,6 +2745,28 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-10-20T00:00:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（55ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrdktlRnR3VFlaSW5RRjhkRWxxUDdwamd5cWtMYm5zVDh1My1mUnNOSTFwM3h4VXY5RU12MF8tdHNrWWJLR3kxYVRvX29ra2pyQkNza1VXWG9ZcHl1UkVELUxTU2cxUQ?oc=5",
+      "summary": "食品・飲料（55ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-10-17T22:10:21Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-10-31T22:54:14+08:00"
     },
     {
       "site_name": "日経新聞",
