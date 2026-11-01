@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-01T19:10:48.238766+08:00",
+  "last_updated": "2026-11-01T23:34:44.693018+08:00",
   "retention_days": 7,
-  "total": 477,
+  "total": 498,
   "sources": [
     "BevNET",
     "Fab News",
@@ -18,11 +18,59 @@
   ],
   "articles": [
     {
+      "id": "dee20b90ce7c5068",
+      "title": "Sunday Edition: Hunting season",
+      "summary": "Hunters and anglers manage their own food safety, and it's complicated.",
+      "url": "https://www.foodsafetynews.com/2026/11/sunday-edition-hunting-season/",
+      "published_at": "2026-11-01T21:00:00+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "9d80d128a6c8a0f0",
+      "title": "「コカ・コーラ」、サンタを描いた「ウィンターボトル」発売　購入者向けキャンペーンも",
+      "summary": "コカ・コーラシステムは10月26日、「コカ・コーラ」「コカ・コーラ ゼロ」「コカ・コーラ ゼロカフェイン」のウィンターボトルを全国で発売した。 今年は、クリスマスを象徴するサンタクロースをあしらったデザインが登場。ギフト...",
+      "url": "https://www.ssnp.co.jp/beverage/709656/",
+      "published_at": "2026-11-01T19:38:10+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "a8219b550ef8e0b3",
+      "title": "温か麺も充実！セブン-イレブンの麺のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「セブン-イレブンの麺」の最新・注目度ランキングです♪（2026年10月30日更新）食品クチコミサイト「もぐナビ」に投稿…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-29746/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e141961b19c05d6b",
       "title": "温か麺も充実！セブン-イレブンの麺のトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「セブン-イレブンの麺」の最新・注目度ランキングです♪（2026年10月30日更新）食品クチコミサイト「もぐナビ」に投稿…",
       "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-29746/?utm_source=rss&utm_medium=mognavinews_20261101",
       "published_at": "2026-11-01T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "82eff4e6e1231bb7",
+      "title": "今週新発売の惣菜パンまとめ！『モスチーズバーガー風』、『焼き鳥風タレ　串鳥監修』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンヤマザキ ランチパック モスチーズバーガー風「モスバーガー」をイメージ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110108/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -42,11 +90,35 @@
       "language": "ja"
     },
     {
+      "id": "ec51f1e6cf3ef3c2",
+      "title": "今週新発売の菓子パン🍫まとめ！『カフェモカチョコラ』、『あずきミルクブレッド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パン第一パン カフェモカチョコラコーヒークリームをサンドし、ミルクチョコで…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110107/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "6c7b34c09349bcb9",
       "title": "今週新発売の菓子パン🍫まとめ！『カフェモカチョコラ』、『あずきミルクブレッド』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パン第一パン カフェモカチョコラコーヒークリームをサンドし、ミルクチョコで…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110107/?utm_source=rss&utm_medium=mognavinews_20261101",
       "published_at": "2026-11-01T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7783c75da3b3d3cb",
+      "title": "今週新発売の菓子パン🍫まとめ！『ピカチュウのスイートポテトクリームパン』、『わたぼく牛乳入りクリーム』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パン第一パン ピカチュウのスイートポテトクリームパンスイートポテトクリーム…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110106/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T13:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -66,11 +138,35 @@
       "language": "ja"
     },
     {
+      "id": "b3ffe6226394aea9",
+      "title": "【2026年10月第5週】ポテトチップス・スナックランキング1位は湖池屋 金のポテト やみつき塩！新商品・急上昇アイテムまとめ",
+      "summary": "2026年10月第5週のポテトチップス・スナックランキングが出揃いました。秋の味覚を感じさせる商品や話題の新フレーバーが顔を揃え、今週も目が離せない展開となっ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29686/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "f384824692b7a0e4",
       "title": "【2026年10月第5週】ポテトチップス・スナックランキング1位は湖池屋 金のポテト やみつき塩！新商品・急上昇アイテムまとめ",
       "summary": "2026年10月第5週のポテトチップス・スナックランキングが出揃いました。秋の味覚を感じさせる商品や話題の新フレーバーが顔を揃え、今週も目が離せない展開となっ…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29686/?utm_source=rss&utm_medium=mognavinews_20261101",
       "published_at": "2026-11-01T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "88f5dea53e1719a6",
+      "title": "今週新発売の菓子パン🍫まとめ！『大きなデニッシュ　キャラメルアーモンド』、『マスカルポーネホイップシュー』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パン第一パン 大きなデニッシュ キャラメルアーモンドデニッシュ生地でアーモ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110105/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T12:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -90,11 +186,35 @@
       "language": "ja"
     },
     {
+      "id": "d10c799e03b1e59d",
+      "title": "【2026年10月第5週】せんべい・駄菓子ランキング1位は堅ぶつ旨塩！新商品・急上昇注目商品まとめ",
+      "summary": "今週のせんべい・駄菓子ランキングの結果が出ました！定番の人気商品から急上昇の注目株まで、バラエティ豊かなラインナップが揃っています。お気に入りの一品はランクイ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29685/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "0a4e2cc452aa1d8b",
       "title": "【2026年10月第5週】せんべい・駄菓子ランキング1位は堅ぶつ旨塩！新商品・急上昇注目商品まとめ",
       "summary": "今週のせんべい・駄菓子ランキングの結果が出ました！定番の人気商品から急上昇の注目株まで、バラエティ豊かなラインナップが揃っています。お気に入りの一品はランクイ…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29685/?utm_source=rss&utm_medium=mognavinews_20261101",
       "published_at": "2026-11-01T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "821d0670561de8e3",
+      "title": "今週新発売の菓子パン🍫まとめ！『むらさきいもあんぱん』、『板チョコ＆ザクザクチョコクリーム』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンYKベーキング むらさきいもあんぱんしっとりとした生地で京都府産紫芋あ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110104/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T11:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -114,11 +234,35 @@
       "language": "ja"
     },
     {
+      "id": "24f02d9eb17ef712",
+      "title": "【2026年10月第5週】クッキー・パイ・ビスケットランキング1位はブラックムーンガレットサンド！新商品・急上昇アイテムまとめ",
+      "summary": "2026年10月第5週のクッキー・パイ・ビスケットランキングをお届けします。秋も深まるこの季節、ほっと一息つきたいときのお供にしたい商品が勢揃いしました。今週…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29684/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "0994e16fc9ff6dcf",
       "title": "【2026年10月第5週】クッキー・パイ・ビスケットランキング1位はブラックムーンガレットサンド！新商品・急上昇アイテムまとめ",
       "summary": "2026年10月第5週のクッキー・パイ・ビスケットランキングをお届けします。秋も深まるこの季節、ほっと一息つきたいときのお供にしたい商品が勢揃いしました。今週…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29684/?utm_source=rss&utm_medium=mognavinews_20261101",
       "published_at": "2026-11-01T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "98b2ba698b1ada8f",
+      "title": "今週新発売の菓子パン🍫まとめ！『牛乳仕込みのサンドロール　ミルククリーム』、『宇治抹茶ラテヨンミー　京都』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンYKベーキング 牛乳仕込みのサンドロール ミルククリーム木次パスチャラ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110103/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T10:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -162,6 +306,18 @@
       "language": "ja"
     },
     {
+      "id": "34c8cb69da8ef85d",
+      "title": "【2026年10月第5週】チョコレートランキング1位はプレミアムガーナ！新商品＆急上昇商品まとめ",
+      "summary": "秋の深まりとともに、チョコレートがますます恋しくなる季節がやってきました。2026年10月第5週のチョコレートランキングには、定番の人気商品から新しい顔ぶれま…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29683/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "491495d37db49d3d",
       "title": "【2026年10月第5週】チョコレートランキング1位はプレミアムガーナ！新商品＆急上昇商品まとめ",
       "summary": "秋の深まりとともに、チョコレートがますます恋しくなる季節がやってきました。2026年10月第5週のチョコレートランキングには、定番の人気商品から新しい顔ぶれま…",
@@ -174,11 +330,35 @@
       "language": "ja"
     },
     {
+      "id": "f67f04c7151dbf1c",
+      "title": "今週新発売の菓子パン🍫まとめ！『恋する芋のすいーとぱん』、『濃厚焼きそばドーナツ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンYKベーキング 恋する芋のすいーとぱん生地と夢シルクのペースト使用のお…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110102/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "611a7e4b85f3e598",
       "title": "今週新発売の菓子パン🍫まとめ！『恋する芋のすいーとぱん』、『濃厚焼きそばドーナツ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パンYKベーキング 恋する芋のすいーとぱん生地と夢シルクのペースト使用のお…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110102/?utm_source=rss&utm_medium=mognavinews_20261101",
       "published_at": "2026-11-01T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "528fa0d0278e2377",
+      "title": "【2026年10月第5週】飴・キャラメルランキング1位はピュレグミプレミアム！森永製菓が久しぶりランクインまとめ",
+      "summary": "飴・キャラメルカテゴリの2026年10月第5週ランキングをお届けします。秋の深まりとともに、ベリーやぶどうなど果実感あふれるフレーバーが存在感を放った一週間と…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29682/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T09:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -294,6 +474,18 @@
       "language": "ja"
     },
     {
+      "id": "e75d5b34bbed13c0",
+      "title": "今週新発売の大豆まとめ！『あまおうフィナンシェ』、『栗大福』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！大豆の新商品情報をお届けします。今週新発売の#大豆リョーユーパン メゾンブランシュ あまおうフィナンシェ 袋1個あまおうのピュ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110101/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-11-01T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "7a448262c1127084",
       "title": "今週新発売の大豆まとめ！『あまおうフィナンシェ』、『栗大福』など♪",
       "summary": "こんにちは、もぐナビ編集部です！大豆の新商品情報をお届けします。今週新発売の#大豆リョーユーパン メゾンブランシュ あまおうフィナンシェ 袋1個あまおうのピュ…",
@@ -378,6 +570,18 @@
       "language": "ja"
     },
     {
+      "id": "56bfe195dfac28d8",
+      "title": "今週新発売の大豆製品まとめ！『ちょこれーと大福』、『いちごみるく大福』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！大豆製品の新商品情報をお届けします。今週新発売の#大豆製品リョーユーパン 菓心堂 ちょこれーと大福 1個チョコ風味フィリングと…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026103108/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-10-31T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "2bbd086a5f825059",
       "title": "今週新発売の大豆製品まとめ！『ちょこれーと大福』、『いちごみるく大福』など♪",
       "summary": "こんにちは、もぐナビ編集部です！大豆製品の新商品情報をお届けします。今週新発売の#大豆製品リョーユーパン 菓心堂 ちょこれーと大福 1個チョコ風味フィリングと…",
@@ -395,6 +599,30 @@
       "summary": "こんにちは、もぐナビ編集部です！大豆製品の新商品情報をお届けします。今週新発売の#大豆製品リョーユーパン 菓心堂 ちょこれーと大福 1個チョコ風味フィリングと…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026103108/?utm_source=rss&utm_medium=mognavinews_20261031",
       "published_at": "2026-10-31T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c7909f7ac5faba80",
+      "title": "今週新発売の塩味まとめ！『ポテトチップスザ厚切り　のためののりしお味』、『たべっ子どうぶつチョコビスケット』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩味の新商品情報をお届けします。今週新発売の#塩味リニューアルカルビー ポテトチップスザ厚切り のためののりしお味 袋55g青…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026103107/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-10-31T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c1176e3c1bdfc484",
+      "title": "【2026年10月第5週】和菓子・その他ランキング1位はヤマザキ月どら宇治抹茶あん！秋の新作・急上昇商品まとめ",
+      "summary": "秋の和菓子シーズン到来とともに、もぐナビの「和菓子・その他」ランキングも盛り上がりを見せています。2026年10月第5週は、秋らしい素材を使ったスイーツがずら…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29681/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-10-31T15:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -462,6 +690,18 @@
       "language": "ja"
     },
     {
+      "id": "28fb7c126a4a70c0",
+      "title": "【2026年10月第5週】アイス・コンビニアイスランキング1位はハーゲンダッツ パパパパンプキンタルト！新商品・急上昇アイスまとめ",
+      "summary": "2026年10月第5週のアイス・コンビニアイスランキングが出そろいました。秋の味覚をたっぷり楽しめる季節限定フレーバーから、長年愛されてきた定番の名品まで、今…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29680/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-10-31T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "738b4717653995cf",
       "title": "【2026年10月第5週】アイス・コンビニアイスランキング1位はハーゲンダッツ パパパパンプキンタルト！新商品・急上昇アイスまとめ",
       "summary": "2026年10月第5週のアイス・コンビニアイスランキングが出そろいました。秋の味覚をたっぷり楽しめる季節限定フレーバーから、長年愛されてきた定番の名品まで、今…",
@@ -486,6 +726,18 @@
       "language": "ja"
     },
     {
+      "id": "ce239afcf61e9df2",
+      "title": "今週新発売の惣菜パンまとめ！『罪悪感は明日の自分にもっと丸投げマヨパン』、『ピザフォカッチャ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンPasco 罪悪感は明日の自分にもっと丸投げマヨパン 袋1個明日の自分…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026103106/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-10-31T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "c1ef7af9d6bbb85c",
       "title": "今週新発売の惣菜パンまとめ！『罪悪感は明日の自分にもっと丸投げマヨパン』、『ピザフォカッチャ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンPasco 罪悪感は明日の自分にもっと丸投げマヨパン 袋1個明日の自分…",
@@ -503,6 +755,18 @@
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。今週新発売の惣菜パンPasco 罪悪感は明日の自分にもっと丸投げマヨパン 袋1個明日の自分…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026103106/?utm_source=rss&utm_medium=mognavinews_20261031",
       "published_at": "2026-10-31T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "1e49a61289a64a12",
+      "title": "【2026年10月第5週】プリン・ゼリー・カップデザートランキング1位は蜜芋クリーム！秋の芋・栗・りんごスイーツまとめ",
+      "summary": "肌寒さが増してくるこの時期、ほっと一息つきたいときに恋しくなるのがカップデザートの甘い誘惑ですね。2026年10月第5週のプリン・ゼリー・カップデザートランキ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29649/?utm_source=rss&utm_medium=mognavinews_20261102",
+      "published_at": "2026-10-31T13:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -846,18 +1110,6 @@
       "language": "en"
     },
     {
-      "id": "37c575291c67ea44",
-      "title": "Does the supplement bottle's lot code open that lot's lab report?",
-      "summary": "\"Third-party tested\" is a standard label line now, but it rarely shares data on the lot in shoppers' hands. Find out how to quickly access the certificate of analysis.",
-      "url": "https://www.newhope.com/brands/how-to-find-dietary-supplement-lots-lab-report",
-      "published_at": "2026-10-30T22:00:00+08:00",
-      "source": "New Hope Network",
-      "region": "北美",
-      "category": "功能性食品",
-      "level": "A",
-      "language": "en"
-    },
-    {
       "id": "c654f117da26b557",
       "title": "The Cult of Crunch: Apple Varieties Engender Fierce Loyalty",
       "summary": "Honeycrisp and Cosmic Crisp lead a fierce consumer loyalty contest, proving crispness and juiciness matter. Discover how apple breeding, branded varieties, and premium pricing shape the fresh produce…",
@@ -866,6 +1118,18 @@
       "source": "The Food Institute",
       "region": "北美",
       "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "37c575291c67ea44",
+      "title": "Does the supplement bottle's lot code open that lot's lab report?",
+      "summary": "\"Third-party tested\" is a standard label line now, but it rarely shares data on the lot in shoppers' hands. Find out how to quickly access the certificate of analysis.",
+      "url": "https://www.newhope.com/brands/how-to-find-dietary-supplement-lots-lab-report",
+      "published_at": "2026-10-30T22:00:00+08:00",
+      "source": "New Hope Network",
+      "region": "北美",
+      "category": "功能性食品",
       "level": "A",
       "language": "en"
     },
@@ -5724,18 +5988,6 @@
       "url": "https://www.nosh.com/news/2026/the-cpg-insider-weekly-13",
       "published_at": "2026-10-26T03:38:32+08:00",
       "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "58f6ba29f650fc11",
-      "title": "The Sunday Edition: UPF defined",
-      "summary": "The FDA has already missed last April’s deadline for coming up with a definition.",
-      "url": "https://www.foodsafetynews.com/2026/10/the-sunday-edition-upf-defined/",
-      "published_at": "2026-10-25T20:00:00+08:00",
-      "source": "Food Safety News",
       "region": "北美",
       "category": "综合",
       "level": "A",
