@@ -1,23 +1,23 @@
 {
-  "total": 338,
-  "s_plus_count": 36,
+  "total": 349,
+  "s_plus_count": 39,
   "sites": [
     "Food Dive",
-    "日経xTrend",
     "日経新聞",
     "Packaging Digest",
-    "朝日グループYouTube"
+    "朝日グループYouTube",
+    "日経xTrend"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "其他": 193,
+    "其他": 198,
+    "新产品": 45,
+    "品牌故事": 38,
     "联名营销": 12,
-    "品牌故事": 34,
     "并购融资": 5,
-    "新产品": 43,
     "营销创新": 13,
     "新包装": 8,
     "渠道新物种": 8,
@@ -25,9 +25,263 @@
     "新技术": 2,
     "新原料": 4
   },
-  "last_updated": "2026-11-01 14:58",
-  "last_updated_iso": "2026-11-01T14:58:46.972679+08:00",
+  "last_updated": "2026-11-01 23:34",
+  "last_updated_iso": "2026-11-01T23:34:57.552526+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "AIの主戦場は“エージェント”へ 米大手4社の一斉参入でマーケが大変革",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01502/00003/?n_cid=nbpnxr_rss",
+      "summary": "激烈な生成AIサービスの競争に今、大きな変革期が訪れている。「最も賢い答えを返すか」から、「仕事や生活の情報を預けてもらえるか」へと主戦場が移りつつあるのだ。各社は、常時稼働し生活者やビジネスパーソンに伴奏する「パーソナルAIエージェント」の開発を急ぎ、主導権を握るつばぜり合いが勃発。米OpenAI、Google、Anthropic、そこにMetaも加わった乱戦。果たして勝負の行方は……。",
+      "published_at": "2026-11-02T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-01T23:34:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "“逆境”セブン、商品本部・女性トップが明かす「我々が考えていること」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00373/?n_cid=nbpnxr_rss",
+      "summary": "2026年8月、セブンイレブンの弁当が話題をさらった。従来は蓋が透明だった弁当容器を、実際の中身は見えないものに切り替えたのだ。“業界の常識”に逆らったにもかかわらず、この商品は大ヒットを記録した。近年は「競合に比べて勢いを欠く」と評されることもあるセブンだが、この一手はまさに画期的。セブンは変わり始めているのか、それとも一過性のヒットを生んだだけなのか。セブン-イレブン・ジャパン商品本部のトップに話を聞いた。",
+      "published_at": "2026-11-02T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-01T23:34:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「トモコレ」13年ぶり新作が“郷愁消費”でヒット 推しとの疑似生活も",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00371/?n_cid=nbpnxr_rss",
+      "summary": "自分や友人、家族などとそっくりのキャラクターをつくって、彼らが生活する様子を画面越しに観察したり、世話をしたり――。2026年4月に発売された、Nintendo Switchソフト「トモダチコレクション わくわく生活」が世界セルスルー（小売店から消費者への実売数）800万本以上（26年8月5日時点、任天堂公表）とヒットしている。やり込み要素のない「眺める」だけのゲームが、これほど支持されているのはなぜか。",
+      "published_at": "2026-11-02T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-01T23:34:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Apple、新型「MacBook Pro」14インチモデル発売 未来消費カレンダー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00253/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年11月6日「Apple、新型『MacBook Pro』14インチモデル発売」ほか14件の情報を追加した。",
+      "published_at": "2026-11-02T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-01T23:34:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ポケモン新イベント「XP」、米国で世界大会と同時開催 混雑という課題も",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00093/?n_cid=nbpnxr_rss",
+      "summary": "2026年8月に開催された「ポケットモンスター」シリーズのゲーム世界大会「ポケモンワールドチャンピオンシップス」。4競技で日本勢が世界チャンピオンに輝く活躍で、大会自体も盛り上がった。同大会が例年と異なったのは、新たなファン向けイベント「ポケモンXP」を同時開催したこと。会場には事前の抽選に当たった約5万人が来場した。ただ、人気ゆえに混雑という課題もあった。",
+      "published_at": "2026-11-02T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-01T23:34:42+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「カンロの『1万円のあめ』が9時間で完売 ギフトで価値の再定義に成功」 ちょうど1年前振り返りランキング",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00137/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年11月2日～29日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
+      "published_at": "2026-11-02T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "完売",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-01T23:34:42+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "AIの主戦場は“エージェント”へ 米大手4社の一斉参入でマーケが大変革",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORm4ycTMtOEFvZ2JUWVA2c2h5N0VseFhINHY1cVBDdlNwdXpjM0l0RmxNWFdFSnZSeXBpY05LQjBKX1d3aHM4bjFZcWFORVFfTjBWbXRWcFNHX2kta21ta2FrZjRaWnZPX0J1clJUVTJPcUpUSnE1a2tiSU1NYWx4X3B1QVBmd2dveEtj?oc=5",
+      "summary": "AIの主戦場は“エージェント”へ 米大手4社の一斉参入でマーケが大変革&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-01T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-01T23:34:39+08:00"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ TVCM「刷新 BEER is DRY! ビールのど真ん中へ。 山田杏奈」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=O1_KMqLUqQk",
+      "summary": "アサヒスーパードライ TVCM「刷新 BEER is DRY! ビールのど真ん中へ。 山田杏奈」篇 15秒 出演者：山田杏奈 楽曲：ONE OK ROCK / We are ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-10-31T15:17:12Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-01T23:34:57+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/O1_KMqLUqQk/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ TVCM「刷新 BEER is DRY! ビールのど真ん中へ。 横浜流星」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=_uTf61DgGAY",
+      "summary": "アサヒスーパードライ TVCM「刷新 BEER is DRY! ビールのど真ん中へ。 横浜流星」篇 15秒 出演者：横浜流星 楽曲：ONE OK ROCK / We are ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-10-31T15:17:09Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-01T23:34:57+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/_uTf61DgGAY/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ TVCM「刷新 BEER is DRY! ビールのど真ん中へ。 長澤まさみ」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=MB7YIIQe8yA",
+      "summary": "アサヒスーパードライ TVCM「刷新 BEER is DRY! ビールのど真ん中へ。 長澤まさみ」篇 15秒 出演者：長澤まさみ 楽曲：ONE OK ROCK / We are ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-10-31T15:17:07Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-01T23:34:57+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/MB7YIIQe8yA/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "アサヒスーパードライ TVCM「刷新 BEER is DRY! ビールのど真ん中へ。 阿部寛」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=wg2_HnlRxgo",
+      "summary": "アサヒスーパードライ TVCM「刷新 BEER is DRY! ビールのど真ん中へ。 阿部寛」篇 15秒 出演者：阿部寛 楽曲：ONE OK ROCK / We are ▼アサヒスーパードライ ブランドサイト https://www.asahibeer.co.jp/superdry/",
+      "published_at": "2026-10-31T15:17:04Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-01T23:34:57+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i4.ytimg.com/vi/wg2_HnlRxgo/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
     {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
