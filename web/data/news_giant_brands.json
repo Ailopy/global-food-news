@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-02T20:13:22",
+  "last_updated": "2026-11-03T00:43:21",
   "retention_days": 7,
-  "total": 736,
+  "total": 737,
   "s_count": 52,
-  "a_count": 7,
+  "a_count": 8,
   "b_count": 677,
   "brands": [
     "亿滋",
@@ -144,6 +144,17 @@
       "summary": "",
       "level": "S",
       "level_reason": "营销创新"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/blue-buffalo-to-match-up-to-200000-dollar-in-donations-to-advance-pet-cancer",
+      "published_at": "2026-10-29T00:00:00",
+      "summary": "Blue Buffalo to Match up to $200,000 in Donations to Advance Pet Cancer Research in Partnership with Morris Animal Foundation",
+      "level": "A",
+      "level_reason": "常规新品/营销"
     },
     {
       "brand": "Kirin",
