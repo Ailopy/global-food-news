@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-01T21:57:19",
+  "last_updated": "2026-11-02T14:58:07",
   "retention_days": 7,
-  "total": 729,
+  "total": 736,
   "s_count": 52,
   "a_count": 7,
-  "b_count": 670,
+  "b_count": 677,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -41,8 +41,74 @@
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-10-30T00:00:00",
+      "published_at": "2026-11-02T00:00:00",
       "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.02日清食品ホールディングス会社人事・機構改革について",
+      "url": "https://cdn.nissin.com/gr-documents/attachments/news_posts/13983/09a606ff8947c6d4/original/20261102-7.pdf",
+      "published_at": "2026-11-02T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.02日清食品ホールディングス子会社の商号変更のお知らせ",
+      "url": "https://www.nissin.com/jp/news/13958/",
+      "published_at": "2026-11-02T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.02日清食品ホールディングス「日清食品カップ 第42回全国小学生陸上競技交流大会」(11月22日開催)",
+      "url": "https://www.nissin.com/jp/news/13981/",
+      "published_at": "2026-11-02T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.02日清食品「背徳BLACK」シリーズ3品 (11月6日発売)",
+      "url": "https://www.nissin.com/jp/news/13973/",
+      "published_at": "2026-11-02T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 ‘퀴진케이’, 한식 차세대 셰프 지원 결실… 팝업 경험 발판 삼은 ‘오닐(ONIL)’ 정식 오...2026.11.02",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1843",
+      "published_at": "2026-11-02T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "머니투데이\"슈퍼에서 밥을?\" 발상의 전환 이재현의 혜안",
+      "url": "https://www.mt.co.kr/industry/2026/11/02/2026110119284725590",
+      "published_at": "2026-11-02T00:00:00",
+      "summary": "Food & Beverage Magazine",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -8051,6 +8117,17 @@
       "url": "https://www.coca-cola.com/cn/zh/media-center/q3_2026_financial_report",
       "published_at": "",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mars",
+      "brand_cn": "玛氏",
+      "region": "日本",
+      "title": "サステナビリティへの取り組み",
+      "url": "https://www.mars.com/ja-jp/sustainability-plan",
+      "published_at": "",
+      "summary": "マースは、パートナーや事業を展開している地域社会のために、安全で健康的、持続可能な世界の創造を支援することを約束しています。",
       "level": "B",
       "level_reason": "企业动态"
     }
