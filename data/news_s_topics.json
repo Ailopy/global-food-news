@@ -1,22 +1,22 @@
 {
-  "total": 335,
-  "s_plus_count": 36,
+  "total": 336,
+  "s_plus_count": 37,
   "sites": [
-    "日経新聞",
+    "日経xTrend",
+    "Packaging Digest",
     "Food Dive",
     "朝日グループYouTube",
-    "日経xTrend",
-    "Packaging Digest"
+    "日経新聞"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
+    "联名营销": 13,
     "其他": 192,
     "新产品": 42,
     "品牌故事": 37,
-    "联名营销": 12,
     "并购融资": 5,
     "营销创新": 12,
     "新包装": 8,
@@ -25,9 +25,46 @@
     "新技术": 2,
     "新原料": 4
   },
-  "last_updated": "2026-11-02 14:58",
-  "last_updated_iso": "2026-11-02T14:58:25.895108+08:00",
+  "last_updated": "2026-11-03 02:58",
+  "last_updated_iso": "2026-11-03T02:58:16.873105+08:00",
   "articles": [
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "未来のレモンサワー×攻殻機動隊 TGITS WEBCM「草薙素子×トグサ」篇 15秒",
+      "url": "https://www.youtube.com/watch?v=UOE2GN-SvP8",
+      "summary": "未来のレモンサワー×攻殻機動隊 THE GHOST IN THE SHELL WEBCM「草薙素子×トグサ」篇 15秒 ▼未来のレモンサワー ブランドサイト https://www.asahibeer.co.jp/brand/osakenomirai/ ▼未来のレモンサワー×攻殻機動隊 THE GHOST IN THE SHELL コラボキャンペーンサイト https://mirailemon-campaign-gits.jp/",
+      "published_at": "2026-11-02T01:00:05Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 2
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-11-03T02:58:16+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/UOE2GN-SvP8/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
