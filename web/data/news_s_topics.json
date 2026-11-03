@@ -1,20 +1,20 @@
 {
-  "total": 336,
+  "total": 332,
   "s_plus_count": 37,
   "sites": [
-    "日経xTrend",
+    "朝日グループYouTube",
     "Packaging Digest",
     "Food Dive",
-    "朝日グループYouTube",
-    "日経新聞"
+    "日経新聞",
+    "日経xTrend"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
+    "其他": 188,
     "联名营销": 13,
-    "其他": 192,
     "新产品": 42,
     "品牌故事": 37,
     "并购融资": 5,
@@ -25,9 +25,31 @@
     "新技术": 2,
     "新原料": 4
   },
-  "last_updated": "2026-11-03 02:58",
-  "last_updated_iso": "2026-11-03T02:58:16.873105+08:00",
+  "last_updated": "2026-11-03 15:21",
+  "last_updated_iso": "2026-11-03T15:21:30.078816+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "2027年の流行を日経トレンディが大予測 「アンチAI」の流れが加速",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00001/?n_cid=nbpnxr_rss",
+      "summary": "AIが自律的に情報発信やコミュニケーションを担う時代が到来し、デジタル空間では「相手が人かAIか」が判別しづらくなりつつある。一方で、レコメンド機能が支配する生活の中で、人々は偶然の出合いやリアルな体験の価値を再評価し始めた。日経トレンディが選んだ2027年ヒット予測ランキングには、「人間証明書」や「生鮮食品クレーンゲーム」など、新たな消費行動を映し出す30の商品・サービスが並ぶ。その背景にある5つの潮流を探る。",
+      "published_at": "2026-11-03T10:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-03T15:21:15+08:00"
+    },
     {
       "site_name": "朝日グループYouTube",
       "site_name_en": "Asahi Group YouTube",
@@ -6073,28 +6095,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "アサヒビールは小売との接点を大改革 テレビCMでは届かない客層に焦点",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWTJtb2hhRmxiRTRVdGY0NFN6aVY1a050SW8wSHR2cHVuQW9DZGF3U3RmV25PRXQ3SjI0QklVem9oSFpDWmZKUjRLUGpwTy03Szktb1Zyd2tua0NuV0FEaE5qd0x3QnpCTEdwOXpabVNMdlV2cUdqTzBFOVU4a3U4cHJKVEFha1RnY05PUw?oc=5",
-      "summary": "アサヒビールは小売との接点を大改革 テレビCMでは届かない客層に焦点&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-01T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-03T13:52:58+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "ファミマ、新食感パンが3000万食 ミスド「もっちゅりん」にない生地の妙",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3pYVFpROXRMVTdqc3BTSXRDVEpnSklHRnotMVVFYTQzSkJsN1NwbDdDS0ZPMk9EcmFSMmJudnFhYlZKYnU3eW9mMHZycXVnLXFkZ1dyRmdTeDFkNDBCVkZfb29wVld5UTZUXzlhM2dIUDM2dXhuelFtdFowMUg2T2VJYVJwUm5yWng4VXNrUWpSRVROOElYaA?oc=5",
       "summary": "ファミマ、新食感パンが3000万食 ミスド「もっちゅりん」にない生地の妙&nbsp;&nbsp;日経クロストレンド",
@@ -6199,28 +6199,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-04T14:29:32+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "ピックルボールに続く新定番。全米熱狂の珍競技「コーンホール」とは",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kQ3NnV3dTTFh0d0ZfWkVycmNwMkZRZnB4S1dzUDZfSnNlcDN0RDVxeEZ2MnE1QnoybjAzU0VSUWlJeWJQNWMxWmRlSFlYNUExdzYyNjliTVZHMTBER1FfaW9yUzhoZw?oc=5",
-      "summary": "ピックルボールに続く新定番。全米熱狂の珍競技「コーンホール」とは&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-29T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-03T13:52:58+08:00"
     },
     {
       "site_name": "Packaging Digest",
@@ -6353,72 +6331,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-07T14:40:04+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "日清カレーメシ級のヒット 王者サトウのごはんの死角を突く“熱湯5分”飯",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uQVg5SFhoU0NxaExtTHl3d0ZIcEFtSnA0eGFkQ1BZVTNrRTU4MWdMUjVXYnBtUEhfLXVOTGJHX0ZGWDFRM3M0dzM2NFdJSFYwRVVHa3Y2VUR5Z3FrcmNqczZMb2xMUQ?oc=5",
-      "summary": "日清カレーメシ級のヒット 王者サトウのごはんの死角を突く“熱湯5分”飯&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-02T07:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-03T13:52:58+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "How PepsiCo uses chefs to think differently about innovation",
-      "url": "https://www.fooddive.com/news/pepsico-innovation-snacking-chefs-doritos-lays-chipsnk-differently-about-innovation-flavors/830085/",
-      "summary": "The snack giant is tapping into culinary expertise to remain competitive and uncover flavors that will resonate with fickle consumers.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-03T13:53:14+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Cheerios maker General Mills names company veteran as CEO",
-      "url": "https://www.fooddive.com/news/General-mills-ceo-leadership-change-cereal/831741/",
-      "summary": "Dana McNabb, who has been with the food maker since 1999, will take over from Jeff Harmening in January.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-03T13:53:14+08:00"
     },
     {
       "site_name": "Food Dive",

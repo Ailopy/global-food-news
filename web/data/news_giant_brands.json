@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-03T00:43:21",
+  "last_updated": "2026-11-03T15:21:12",
   "retention_days": 7,
-  "total": 737,
+  "total": 739,
   "s_count": 52,
   "a_count": 8,
-  "b_count": 677,
+  "b_count": 679,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -113,6 +113,17 @@
       "level_reason": "企业动态"
     },
     {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/ctc-reeses-puffs-and-golden-grahams-are-bringing-your-favorite-dunkin-flavors-to-the-cereal-bowl",
+      "published_at": "2026-11-02T00:00:00",
+      "summary": "Cinnamon Toast Crunch™, Reese’s Puffs and Golden Grahams™ Are Bringing Your Favorite Dunkin’® Flavors to the Cereal Bowl",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Nissin",
       "brand_cn": "日清食品",
       "region": "日本",
@@ -131,6 +142,17 @@
       "url": "https://www.nissin.com/jp/news/13972/",
       "published_at": "2026-10-30T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "벼 실은 트랙터가 향하는 곳…햇반과 농가의 ‘동행’을 만나다Food2026.10.30",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/129",
+      "published_at": "2026-10-30T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
       "level": "B",
       "level_reason": "企业动态"
     },
