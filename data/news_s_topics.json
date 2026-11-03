@@ -1,11 +1,11 @@
 {
-  "total": 332,
-  "s_plus_count": 37,
+  "total": 339,
+  "s_plus_count": 38,
   "sites": [
+    "日経新聞",
     "朝日グループYouTube",
     "Packaging Digest",
     "Food Dive",
-    "日経新聞",
     "日経xTrend"
   ],
   "regions": [
@@ -13,21 +13,187 @@
     "日本"
   ],
   "category_stats": {
-    "其他": 188,
+    "其他": 189,
+    "渠道新物种": 9,
+    "新产品": 45,
+    "营销创新": 13,
     "联名营销": 13,
-    "新产品": 42,
     "品牌故事": 37,
     "并购融资": 5,
-    "营销创新": 12,
     "新包装": 8,
-    "渠道新物种": 7,
     "行业政策": 14,
     "新技术": 2,
     "新原料": 4
   },
-  "last_updated": "2026-11-03 15:21",
-  "last_updated_iso": "2026-11-03T15:21:30.078816+08:00",
+  "last_updated": "2026-11-04 00:43",
+  "last_updated_iso": "2026-11-04T00:43:27.128861+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "圧倒的コスパで浮上「中国AI」という選択 動画生成で強烈な存在感",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01502/00001/?n_cid=nbpnxr_rss",
+      "summary": "AIをフル活用しているときに「利用できるトークンが上限に達してしまった……」という経験を持つ人もいるだろう。AIの業務利用が広がる中、利用コストがビジネス上の大きな課題となっている。米国発のAIに代わる選択肢として、低コストで利用できる「中国製AI」が浮上してきた。中国AIに詳しいマーケ支援会社の幹部に最新事情を聞いた。",
+      "published_at": "2026-11-04T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-04T00:43:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "“優等生”セブンが変貌 商品開発・女性トップ「後発デカ盛りの真意」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00374/?n_cid=nbpnxr_rss",
+      "summary": "ヒット商品が生まれるコンビニエンスストア各社の業績を確認すると、近年、勢いがあるように見えるファミリーマートやローソンのチェーン全店売上高はいずれも3兆円台前半。一方、セブン-イレブン・ジャパンは5兆円台半ばと断トツだ。同社は商品開発トップが代わり、総重量1kg超えのラーメンを大胆にも商品化するなど、従来と一線を画する新しい取り組みを進める。今、何を考えているのか、“直球”の質問をいくつもぶつけた。",
+      "published_at": "2026-11-04T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-11-04T00:43:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ディープフェイク時代の新認証技術。虹彩や埋め込みチップで本人を証明",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00002/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。画面の向こうにいる相手は、本当に人間なのか。生成AIによるなりすましやディープフェイクが広がる中、虹彩認証で「実在する人間」を証明するWorld IDが注目を集めている。ZoomやDocusign、Tinderとの連係も進み、本人確認は新たな局面へ。体内埋め込み型NFCチップやフェイク判定AIも含め、人と情報の信頼を守る「人間証明」技術の現在地を追う。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-11-04T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-04T00:43:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "12月号表紙は大森元貴 『POPS』を掲げ、音楽の外へも挑むミセスの覚悟",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00960/00067/?n_cid=nbpnxr_rss",
+      "summary": "Mrs. GREEN APPLEの大森元貴が2026年11月4日発売のエンタメ専門誌『日経エンタテインメント！』12月号の表紙に登場。音楽の外にまで活動を広げる理由やアルバム『POPS』に込めた覚悟などを16ページにわたるロングインタビューで語り尽くしている。",
+      "published_at": "2026-11-04T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-04T00:43:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "伝統技術×AIのスマート眼鏡がヒット​‌ シールやカプセルトイブームが商機に",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00616/00044/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月3日発売の「日経トレンディ2026年12月号」では、2026年の地方発ヒットを特集。大賞に選ばれたAI搭載スマート眼鏡「SABERA」をはじめ、地域の技術や資産、SNSで広がる話題を生かしてヒットにつなげた、全国各地発の23個の商品を取り上げる。本文の最後には、2026年地方発ヒットに選ばれた商品を掲載した「日経トレンディ」の該当ページをPDFで表示するリンクを用意している。",
+      "published_at": "2026-11-04T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-04T00:43:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ChatGPT広告の運用で見えた活用法 バイセル、マネフォに学ぶ最適解",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01502/00004/?n_cid=nbpnxr_rss",
+      "summary": "米OpenAIの「ChatGPT広告」の配信が日本で始まって、約5カ月が経過した。生成AIとの対話の中で、文脈に合った広告を表示する新たなサービスに、広告主と広告代理店は試行錯誤を続けている。先進活用企業であるバイセルとマネーフォワードの運用法を通じて、AIプラットフォーマーの広告ビジネスの試金石となるChatGPT広告の現在地を見る。",
+      "published_at": "2026-11-04T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-11-04T00:43:13+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "八代目儀兵衛が流入25％減からのAIO対策 AI経由の流入が4.5倍に増加",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01405/00029/?n_cid=nbpnxr_rss",
+      "summary": "2026年7月30日に開催された「日経クロストレンドFORUM 2026」のオンライン講演に、八代目儀兵衛 取締役 CMOの神徳昭裕氏が登壇した。お米ギフトを中核に通販事業を展開する同社は、AIオーバービューや生成AIの普及により、従来の検索流入に変化が起きていることを早期に把握。SEOを根本から見直し、AIに選ばれるためのサイト改善と、ブランド想起を高める取り組みを進めている。その実践と成果を語った。",
+      "published_at": "2026-11-04T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-11-04T00:43:13+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
