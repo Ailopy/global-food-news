@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-03T22:47:31",
+  "last_updated": "2026-11-04T15:03:14",
   "retention_days": 7,
-  "total": 739,
+  "total": 747,
   "s_count": 52,
   "a_count": 8,
-  "b_count": 679,
+  "b_count": 687,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,13 +36,90 @@
   ],
   "articles": [
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "熊本産「不知火」の規格外果実を活用した「キリン 氷結&reg;mottainai 不知火」の売上の一部を令和8年熊本地震災害義援金として拠出",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1104_01.html",
+      "published_at": "2026-11-04T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "Asahi",
       "brand_cn": "朝日",
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-11-02T00:00:00",
+      "published_at": "2026-11-04T00:00:00",
       "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.04明星食品「明星 一平ちゃん夜店の焼そば スタミナキムチ味」(11月16日発売)",
+      "url": "https://www.nissin.com/jp/news/13980/",
+      "published_at": "2026-11-04T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.04日清食品「ヒアルモイストシリーズ 宝塚歌劇S席ご招待キャンペーン 第2弾」(11月4日からスタート)",
+      "url": "https://www.nissin.com/jp/news/13984/",
+      "published_at": "2026-11-04T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.04日清食品ホールディングス弊社代表取締役社長・CEO 安藤 宏基が「旭日重光章」を受章",
+      "url": "https://www.nissin.com/jp/news/13982/",
+      "published_at": "2026-11-04T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "自己株式の取得状況に関するお知らせ[適時開示]",
+      "url": "https://news.ajinomoto.co.jp/2026/11/2026_11_04.pdf",
+      "published_at": "2026-11-04T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 사료 배합 분석 플랫폼 ‘뉴트리솔루션’ 출시…영양과 수익성, 탄소배출까지 한번에 잡는다2026.11.04",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1844",
+      "published_at": "2026-11-04T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 햇반 30주년 기념 소비자 참여형 ‘갓 지은 AI디어 공모전’ 개최2026.11.03",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1845",
+      "published_at": "2026-11-03T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -153,6 +230,17 @@
       "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/129",
       "published_at": "2026-10-30T00:00:00",
       "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Yakult",
+      "brand_cn": "养乐多",
+      "region": "日本",
+      "title": "2026.10.30当社ホームページへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ【第２報】",
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261104_2.pdf",
+      "published_at": "2026-10-30T00:00:00",
+      "summary": "当社ホームページ不正アクセスに関する重要なお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
