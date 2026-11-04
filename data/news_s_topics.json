@@ -1,22 +1,22 @@
 {
-  "total": 336,
-  "s_plus_count": 37,
+  "total": 345,
+  "s_plus_count": 39,
   "sites": [
-    "朝日グループYouTube",
-    "Packaging Digest",
     "Food Dive",
+    "Packaging Digest",
+    "日経xTrend",
     "日経新聞",
-    "日経xTrend"
+    "朝日グループYouTube"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "其他": 186,
+    "新产品": 48,
+    "营销创新": 16,
+    "其他": 189,
     "渠道新物种": 9,
-    "新产品": 45,
-    "营销创新": 13,
     "联名营销": 13,
     "品牌故事": 37,
     "并购融资": 5,
@@ -25,9 +25,237 @@
     "新技术": 2,
     "新原料": 4
   },
-  "last_updated": "2026-11-04 15:03",
-  "last_updated_iso": "2026-11-04T15:03:30.512087+08:00",
+  "last_updated": "2026-11-05 00:40",
+  "last_updated_iso": "2026-11-05T00:40:30.759484+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "海外発の“日本未上陸”トレンドを先取り NEXTピックルボールに注目",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00693/00041/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、世界で話題の“日本未上陸”トレンドを先取りできる「海外発ヒット」の総集編ページを設けた。穴を狙って布袋を投げる新スポーツ「コーンホール」、甘口の「ジンジャービール」、ジョーカー入り米国流マージャンなどを一挙紹介する。記事の最後には6つのトレンドを一目で見られるPDFへのリンクを用意している。",
+      "published_at": "2026-11-05T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-05T00:40:17+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "テレビCMに頼らない辛ラーメンのマーケ戦略、SNSでのバズが鍵",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01970/?n_cid=nbpnxr_rss",
+      "summary": "日本ではおなじみとなった韓国発の「辛ラーメン」が、国内売上高を直近10年で約5倍に伸ばしている。テレビCMへの投資を抑え、新商品の投入も年間2～3商品程度。それでも着実に売り上げを拡大できた背景には、SNSでのアレンジ文化やファンとの共創を重視した広告戦略があった。大手食品メーカーの王道とは異なる、そのマーケティング手法を解き明かす。",
+      "published_at": "2026-11-05T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "バズ",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        },
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-11-05T00:40:17+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Walmartが放つAIコマース普及に3本の矢 Amazonと対照的な戦略を分析",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00109/00238/?n_cid=nbpnxr_rss",
+      "summary": "米国小売企業の巨人Walmartが、「エージェンティックコマース」の普及に向けて、日本企業も取り入れるべき重要な“3本の矢”を放った。米OpenAIなどに情報を中抜きされないために打った先手であり、既存企業がAI企業と対峙・共存するために新たな道筋を示したと言えそうだ。",
+      "published_at": "2026-11-05T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-05T00:40:17+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Netflix広告収入、2年連続倍増なるか 計測強化と15カ国へ新拡大",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00010/?n_cid=nbpnxr_rss",
+      "summary": "2022年から広告付きの低価格プランの提供を開始したNetflixは、25年比で2倍の成長を掲げていた予測を下方修正したものの、広告収入を伸ばし続けている。新たな広告機能のアップデートを発表し、広告主に対して高い成果を提供すると説明した。広告やマーケティングの米有力誌「ADWEEK」がリポートする。",
+      "published_at": "2026-11-05T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        },
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-11-05T00:40:17+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「認知9割」サッポロ黒ラベルの限界 元日清マーケターが戦略を大改革",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01965/?n_cid=nbpnxr_rss",
+      "summary": "「サッポロ生ビール黒ラベル」好調の裏で進む大改革に迫る。2026年6月、サッポロビールのマーケティング本部長に就任したのは、日清食品で「どん兵衛」や「完全メシ」など主要ブランドを率いてきた中村洋一氏だ。認知率が9割近いブランドは、何を追うべきか。その鍵は店頭での「想起」にある。",
+      "published_at": "2026-11-05T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-11-05T00:40:17+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "イオン系生鮮食品クレーンゲームが店舗3.8倍へ 冷凍ステーキ肉も100円",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00003/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。クレーンゲームの景品が、ぬいぐるみから今夜のおかずへ進化している。イオンファンタジーの「クレーン横丁 極」は、野菜や肉、卵、果物などをそろえ、買い物前の客を遊びへ誘う。シニア夫婦の寄り道、親子の節約、偶然手にした食材から始まる献立づくり。推し活よりも実利を重んじる新たな消費スタイルは、ゲームセンターと食品スーパーの関係をどう変えるのか。生鮮食品クレーンゲームの広がりを追う。",
+      "published_at": "2026-11-05T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-05T00:40:17+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "CEPとSTPに大きな誤解 『ブランディングの科学』加藤氏と松本氏が議論",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01416/00006/?n_cid=nbpnxr_rss",
+      "summary": "バイロン・シャープ氏の『ブランディングの科学』（朝日新聞出版）シリーズの監訳者として知られる加藤巧氏はP＆G、江崎グリコでリサーチ部門をけん引した経歴を持つ。同氏はマーケティング理論の実践法を解説する初著書『マーケティングの真実 P＆G・グリコで学んだ失敗と成長の法則』（日経BP）を2026年6月に発売した。データサイエンティストの松本健太郎氏と、現在の日本のマーケティング業界にはびこる「理論の誤解」について徹底議論する。",
+      "published_at": "2026-11-05T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-05T00:40:17+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "イオン系生鮮食品クレーンゲームが店舗3.8倍へ 冷凍ステーキ肉も100円",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFAtTVA0YXdvVXRrOUVKVVRod2otSDEtRnNHOFlPVlJmSnBvUzl2ZzZkaHNvekNBbmFFZV83N1QzUGY5WlRfVDk3VF90Mm9MUkxURHY3ZWlid1lLVVg0LTQ4TjYxTUNOLUVHMm4wbEc3N0dYbUdORmUwMXFpU0wyaUVpRzZIY1lDZWdz?oc=5",
+      "summary": "イオン系生鮮食品クレーンゲームが店舗3.8倍へ 冷凍ステーキ肉も100円&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-04T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-05T00:40:15+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「認知9割」サッポロ黒ラベルの限界 元日清マーケターが戦略を大改革",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0JGbE1QZnlSWEU0X01FRF9xdVYybFRHWUNwSG8yel9kdmFLbTNUcGo2dGFUQVU2TmlLM1dWR1ZqZWFzdnBhLW9DamQ3V05xRHUzT0gyRUU0cUt4NnFpU0doeUVReVZNT3IxanJVY1d0RWVYaW81Q05KcXliaDZ0RS1vRmNfVmR6VUJYTVY3T2ZRc3Nh?oc=5",
+      "summary": "「認知9割」サッポロ黒ラベルの限界 元日清マーケターが戦略を大改革&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-04T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-05T00:40:15+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
