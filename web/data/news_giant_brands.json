@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-04T22:59:42",
+  "last_updated": "2026-11-05T15:29:56",
   "retention_days": 7,
-  "total": 748,
-  "s_count": 52,
+  "total": 754,
+  "s_count": 54,
   "a_count": 8,
-  "b_count": 688,
+  "b_count": 692,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,72 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "みずみずしいグリーンアップルのおいしさ！大人の心浮き立つノンアルコール「キリン 氷ゼロ スパークリング グリーンアップル（期間限定）」新発売！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1105_01.html",
+      "published_at": "2026-11-05T06:00:10",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「令和8年度関東地方発明表彰」で「発明奨励賞」を受賞 会員制生ビールサービス「キリン ホームタップ」の泡生成技術が評価",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1105_02.html",
+      "published_at": "2026-11-05T06:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.05湖池屋湖池屋×神戸コロッケ SNSキャンペーン (11月5日より実施)",
+      "url": "https://www.nissin.com/jp/news/13977/",
+      "published_at": "2026-11-05T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.05湖池屋「ゆめいころ ポテトチップス 芋を味わう岩塩 / たまねぎコンソメ」(11月5日より数量限定販売)",
+      "url": "https://www.nissin.com/jp/news/13985/",
+      "published_at": "2026-11-05T00:00:00",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.05湖池屋「金のポテト」大好評! プレゼントキャンペーン (11月5日より実施)",
+      "url": "https://www.nissin.com/jp/news/13979/",
+      "published_at": "2026-11-05T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Yakult",
+      "brand_cn": "养乐多",
+      "region": "日本",
+      "title": "2026.11.05お知らせ自己株式の取得状況に関するお知らせ",
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261105_2.pdf",
+      "published_at": "2026-11-05T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
