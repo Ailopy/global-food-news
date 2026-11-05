@@ -1,33 +1,177 @@
 {
-  "total": 336,
-  "s_plus_count": 38,
+  "total": 342,
+  "s_plus_count": 39,
   "sites": [
-    "朝日グループYouTube",
+    "Food Dive",
     "Packaging Digest",
-    "日経新聞",
     "日経xTrend",
-    "Food Dive"
+    "日経新聞",
+    "朝日グループYouTube"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "新产品": 44,
-    "营销创新": 16,
-    "其他": 184,
+    "新产品": 47,
+    "其他": 185,
+    "营销创新": 17,
+    "新包装": 9,
     "渠道新物种": 9,
     "联名营销": 13,
     "品牌故事": 37,
     "并购融资": 5,
-    "新包装": 8,
     "行业政策": 14,
     "新技术": 2,
     "新原料": 4
   },
-  "last_updated": "2026-11-05 15:30",
-  "last_updated_iso": "2026-11-05T15:30:14.482884+08:00",
+  "last_updated": "2026-11-06 00:56",
+  "last_updated_iso": "2026-11-06T00:56:51.835207+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "2026年「若者ヒット大賞」を発表 大賞は意外なアレを使ったチャーム",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00622/00048/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月3日発売の「日経トレンディ2026年12月号」では、この1年、若者に最も支持された商品・サービスを決める「若者ヒット大賞」の総集編ページを設けた。若者は独自の感性やアンテナを持っている。キーキャップ風アクセサリー、異色の芋焼酎、“逆輸入”ファッションスクーターなど、26年も様々な商品が若者に売れた。PR会社マテリアルのトレンドを研究する組織「若者リアルラボ」の協力を得て、10～20代に人気の商品を探った。",
+      "published_at": "2026-11-06T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-06T00:56:37+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "対ClaudeでMetaが本気 “無料エージェントAI”が小型アクセサリー化",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00004/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。AIが予約も買い物も代行する時代が、いよいよ現実味を帯びてきた。Metaが投入を準備する携帯型AI端末「Muse Charm」は、バッグに付けて持ち歩き、指先ひとつでAIエージェントと対話できる。仕事から家族の予定管理まで担う存在として注目を集める中、人とAIの関係は「便利なツール」から「暮らしのパートナー」へと進化しようとしている。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-11-06T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-06T00:56:37+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "OpenAIのAI司令塔「dots」、驚異の実力 企画作業の全自動化で検証",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01502/00006/?n_cid=nbpnxr_rss",
+      "summary": "生成AI企業が次々と投入する「パーソナルAIエージェント」。プライベート用途に向く「Muse」に話題が集中しがちだが、実は業務の世界も激変させるインパクトを秘める。そこで、米OpenAIの「dots」に、洗濯洗剤のリニューアル商品の企画進行を任せてみた。やってみて分かった、驚きの実力とは……。",
+      "published_at": "2026-11-06T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-06T00:56:37+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "カルビー白黒化で87％が「ポテチ」離れ 高齢層ほど顕著な影響",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01986/?n_cid=nbpnxr_rss",
+      "summary": "カルビーは2026年11月6日、26年7～9月期の決算を発表する。注目されるのが、26年5月25日から主要14品のパッケージを白黒に順次変えたことが、売り上げに与えた影響だ。カルビー自身が影響について口を閉ざす中、日経クロストレンドはロイヤリティマーケティングの協力を得て、ポイントカード「Ponta」会員の購買行動の変化を分析した。約9万人分のID-POSデータから見えたのは、売り上げは減少傾向にあり、特に高年層の購入減が目立つこと。さらに意外にも、離脱者の86.8％は競合に流れず、ポテトチップスというカテゴリー自体を買わなくなっていた。分析担当者への取材から、その背景を読み解く。",
+      "published_at": "2026-11-06T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-06T00:56:37+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「差別化」と「独自性」はどう違う？ マーケ理論の本当の実践法",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01416/00007/?n_cid=nbpnxr_rss",
+      "summary": "バイロン・シャープ氏の『ブランディングの科学』（朝日新聞出版）シリーズの監訳者であり、初著書『マーケティングの真実 P＆G・グリコで学んだ失敗と成長の法則』（日経BP）を出版した加藤巧氏と、マーケティング理論への造詣が深いデータサイエンティストの松本健太郎氏が現在の日本のマーケティング界にはびこる誤解を徹底議論。後編では、フィリップ・コトラー氏が説く「差別化」とシャープ氏が説く「独自性」の違いを議論した。",
+      "published_at": "2026-11-06T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-11-06T00:56:37+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "カルビーのポテチ、白黒パッケージで顧客が消えた？",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOWp5aU9ZeDVHYVJmN0pFNGI5ZHp2ek9YbGJERF9zNXVfb1ZMWDkzS2h1OVRTN2VzcmZuMUxHcVVmMGtSNm9HOFNxMlQ0RmUtQkNXLTlPenNMaVpZMXJxSHFGc1FPT21XWnV6eGZ0WWVkTzcwTjFjMmZNQWR6UWxHUDIxV3BTNTR6RzhkVzYzTTlsSTlxVlFSeE1CYmJ6Ujg?oc=5",
+      "summary": "カルビーのポテチ、白黒パッケージで顧客が消えた？&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-05T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-11-06T00:56:35+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
