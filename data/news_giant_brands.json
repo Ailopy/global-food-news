@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-05T15:29:56",
+  "last_updated": "2026-11-05T20:07:14",
   "retention_days": 7,
-  "total": 754,
+  "total": 756,
   "s_count": 54,
   "a_count": 8,
-  "b_count": 692,
+  "b_count": 694,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "Ziftomenib/FLT3阻害剤の併用療法に関する初の臨床試験データを2026年ASH年次総会で発表",
+      "url": "https://www.kyowakirin.co.jp/pressroom/news_releases/2026/pdf/20261105_01.pdf",
+      "published_at": "2026-11-05T08:01:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "2027年3月「キリンチャレンジカップ2027」が広島・東京で開催決定",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1105_03.html",
+      "published_at": "2026-11-05T08:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
