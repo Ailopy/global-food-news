@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-06T19:58:00.863217+08:00",
+  "last_updated": "2026-11-07T00:28:36.780317+08:00",
   "retention_days": 7,
-  "total": 502,
+  "total": 522,
   "sources": [
     "BevNET",
     "Fab News",
@@ -17,6 +17,150 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "26b9fa82711f1f87",
+      "title": "Monster Energy Growth Accelerates Despite Aluminum Costs, Tariff Pressure",
+      "summary": "Monster energy third quarter net sales grew as the company topped $2.5 billion in revenue and positive growth across its segments.",
+      "url": "https://www.bevnet.com/news/2026/monster-energy-growth-accelerates-despite-aluminum-costs-tariff-pressure",
+      "published_at": "2026-11-07T00:07:02+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d508baefd20a1e45",
+      "title": "A new chapter of the Wonderful World of Wonka arrives",
+      "summary": "Ferrero reimagines Wonka with four new limited-edition Wonka treats across chocolate and sugar confectionery, and a hunt for digital Golden Tickets. The post A new chapter of the Wonderful World of…",
+      "url": "https://www.sweetsandsnacksworld.com/news/31068/a-new-chapter-of-the-wonderful-world-of-wonka-arrives/",
+      "published_at": "2026-11-07T00:01:09+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "d2544313b62ad6c8",
+      "title": "Lantmännen launches Swedish pea protein isolate NordPea",
+      "summary": "The new plant-based protein ingredient will be manufactured at Lantmännen’s €100m facility in Lidköping, Sweden, which can process up to 40,000 tonnes of peas and faba beans annually",
+      "url": "https://nutraceuticalbusinessreview.com/lantm%C3%A4nnen-launches-swedish-pea-protein-isolate-nordpea",
+      "published_at": "2026-11-06T23:55:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "b4918e35713ac511",
+      "title": "Bertolli Parent Sells To Spanish Olive Oil Leaders For $586M",
+      "summary": "Deoleo, parent to brands such as Bertolli, San Giorgio, Carapelli, and Carbonell, has sold to Spanish olive oil conglomerate Acesur and Dcoop for $586 million.",
+      "url": "https://www.nosh.com/news/2026/bertolli-parent-sells-to-spanish-olive-oil-leaders-for-586m",
+      "published_at": "2026-11-06T23:53:43+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "ffe460c73f64bf38",
+      "title": "SNAP Restrictions Gain Ground as Four More States Enact Waivers",
+      "summary": "The list of foods and beverages eligible for purchase with Supplemental Nutrition Assistance Program (SNAP) benefits is shrinking in four more states, as Montana, North Dakota, South Carolina and…",
+      "url": "https://www.nosh.com/news/2026/snap-restrictions-gain-ground-as-four-more-states-enact-waivers",
+      "published_at": "2026-11-06T23:36:25+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "841e76d4946af1e0",
+      "title": "A New CurcuVail study on muscle recovery is coming",
+      "summary": "Anyone who trains regularly knows how the day after a hard session can feel. Your legs ache, walking down the stairs takes more effort than it should, and sometimes you skip the next workout because…",
+      "url": "https://nutraceuticalbusinessreview.com/a-new-curcuvail-study-on-muscle-recovery-is",
+      "published_at": "2026-11-06T23:17:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "6a54467632e29b77",
+      "title": "Why Drinks Are Getting Weirder: 4 Uncanny Beverage Trends",
+      "summary": "Oatly’s 2026 Future of Taste Report identifies multiple beverage trends shaping café menus and retail drinks. Functional botanicals and fermented flavors should be especially popular in the months…",
+      "url": "https://foodinstitute.com/focus/why-drinks-are-getting-weirder-4-uncanny-beverage-trends/?utm_source=rss&utm_medium=rss&utm_campaign=why-drinks-are-getting-weirder-4-uncanny-beverage-trends",
+      "published_at": "2026-11-06T23:00:58+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "ab345d10bb92c200",
+      "title": "Hershey’s CEO highlights softness in c-store sales",
+      "summary": "Kirk Tanner said during the company’s Q3 earnings call that the convenience channel is a particularly challenging one for the candy maker right now.",
+      "url": "https://www.fooddive.com/news/hersheys-ceo-highlights-softness-in-c-store-sales/873926/",
+      "published_at": "2026-11-06T22:47:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "c4194513e3ec78c0",
+      "title": "Leftovers: General Mills dunks into Dunkin’ inspired cereal | Knorr takes pasta and rice dishes on the go",
+      "summary": "The food giant and coffee chain put a new twist on Reese’s Puffs and other cereals, while Vita Coco targets the next generation of coconut water drinkers.",
+      "url": "https://www.fooddive.com/news/dunkin-general-mills-cereal-vita-coco-kids-knorr-cups/873984/",
+      "published_at": "2026-11-06T22:46:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "76de5428069d76b3",
+      "title": "Elysium Health expands into peptides as HHS eases compounding rules",
+      "summary": "The longevity brand will offer six compounded peptides through Elysium Health Rx and launch research programmes, as new US policy puts the line between supplements and drugs in focus",
+      "url": "https://nutraceuticalbusinessreview.com/elysium-health-peptides-hhs-compounding-rules-longevity",
+      "published_at": "2026-11-06T22:38:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "b9fb8ae444530fc1",
+      "title": "New Beverages: Bloom’s Sweet Treat; Nello, Ryze, 5-Hr Energy Get Festive",
+      "summary": "The winter holiday season is in the air, and in the coolers, as we track seasonal releases from Ryze, Tazo and Nello, plus 5-Hour Energy's festive new variety pack.",
+      "url": "https://www.bevnet.com/news/2026/new-beverages-blooms-sweet-treat-nello-ryze-5-hr-energy-get-festive",
+      "published_at": "2026-11-06T22:31:27+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "654641f749df627a",
+      "title": "New Products: Backflip Gets Frosty; Kraft Mac & Cheese Turns Up the Heat",
+      "summary": "In this week’s new products roundup, Kraft Mac & Cheese experiments with limited-edition sweet and spicy flavors, Backflip gets frosty with a limited-edition cereal and Jeni’s Splendid Ice Cream…",
+      "url": "https://www.nosh.com/news/2026/new-products-backflip-gets-frosty-kraft-mac-cheese-turns-up-the-heat",
+      "published_at": "2026-11-06T22:00:33+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "e5aad9b7cd559afa",
       "title": "Two Fatal Mistakes Doomed Hain Celestial",
@@ -40,6 +184,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "d5b28eedf335a59b",
+      "title": "今週新発売のスイーツ🍰まとめ！『マロンもこ』、『ことりっぷ　小さなチョコパイ　馬車道十番館のティラミス』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！スイーツの新商品情報をお届けします。今週新発売の#スイーツセブン-イレブン マロンもこもちっとした食感の生地に、焼き栗の香ばし…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110608/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "fa7916f1057833d1",
@@ -138,6 +294,18 @@
       "language": "ja"
     },
     {
+      "id": "bd8837a72b2edc22",
+      "title": "今週新発売のおやつ🍩まとめ！『ジャイアントコーンＰｒｅｍｉｏ　一番摘み抹茶あずき』、『なめらかチーズプリン＆カラメルムース』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！おやつの新商品情報をお届けします。今週新発売の#おやつ江崎グリコ ジャイアントコーンPremio 一番摘み抹茶あずき 130m…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110607/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "ac9debcec355992a",
       "title": "今週新発売のおやつ🍩まとめ！『ジャイアントコーンＰｒｅｍｉｏ　一番摘み抹茶あずき』、『なめらかチーズプリン＆カラメルムース』など♪",
       "summary": "こんにちは、もぐナビ編集部です！おやつの新商品情報をお届けします。今週新発売の#おやつ江崎グリコ ジャイアントコーンPremio 一番摘み抹茶あずき 130m…",
@@ -219,6 +387,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "79abbc3186b4a23b",
+      "title": "今週新発売の菓子パン🍫まとめ！『チョコ凸パン』、『どでかデニッシュ　クリームチーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン チョコ凸パン 袋1個チョコフィリングを折り込んだ生地に、ダ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110606/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -306,6 +486,18 @@
       "language": "en"
     },
     {
+      "id": "a32d9a6e7f2af878",
+      "title": "【2026年11月第1週】コンビニドーナツランキング1位はチョコづくめのケーキドーナツ！きなこもち新商品も登場まとめ",
+      "summary": "2026年11月第1週のコンビニドーナツランキングが出ました！きなこ系やチョコ系など、今週も各コンビニから個性豊かなドーナツが顔をそろえています。さっそく気に…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30013/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5b4f3bb3283d4fef",
       "title": "【2026年11月第1週】コンビニドーナツランキング1位はチョコづくめのケーキドーナツ！きなこもち新商品も登場まとめ",
       "summary": "2026年11月第1週のコンビニドーナツランキングが出ました！きなこ系やチョコ系など、今週も各コンビニから個性豊かなドーナツが顔をそろえています。さっそく気に…",
@@ -324,6 +516,18 @@
       "url": "https://shokuhin.net/159713/2026/11/06/sonota/%e4%bc%81%e6%a5%ad%e6%b4%bb%e5%8b%95/",
       "published_at": "2026-11-06T12:59:11+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "cc88e23bd10ddecd",
+      "title": "今週新発売の菓子パン🍫まとめ！『北海道メロンリング』、『バームロール』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン 北海道メロンリング 袋1個メロン風味のビスケット生地をかぶ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110605/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T12:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -378,6 +582,18 @@
       "language": "ja"
     },
     {
+      "id": "39240816e7d510d4",
+      "title": "【2026年11月第1週】コンビニコーヒーランキング1位はセブンカフェ アイスティー！新作アイスミルクティーも登場まとめ",
+      "summary": "2026年11月第1週のコンビニコーヒーランキングが発表されました。秋も深まるこの季節、温かいコーヒーからフルーツ系フラッペまで、バラエティ豊かな顔ぶれが揃っ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30012/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "b2ee41284f2f14a5",
       "title": "【2026年11月第1週】コンビニコーヒーランキング1位はセブンカフェ アイスティー！新作アイスミルクティーも登場まとめ",
       "summary": "2026年11月第1週のコンビニコーヒーランキングが発表されました。秋も深まるこの季節、温かいコーヒーからフルーツ系フラッペまで、バラエティ豊かな顔ぶれが揃っ…",
@@ -426,6 +642,18 @@
       "language": "ja"
     },
     {
+      "id": "1fcd92d84fdcd40a",
+      "title": "今週新発売の菓子パン🍫まとめ！『パン屋さんのチーズケーキ』、『もちもちリング　チョコとクランチ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン パン屋さんのチーズケーキ 袋1個ふんわり焼き上げたチーズ風…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110604/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "357189a209a4e2ca",
       "title": "今週新発売の菓子パン🍫まとめ！『パン屋さんのチーズケーキ』、『もちもちリング　チョコとクランチ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン パン屋さんのチーズケーキ 袋1個ふんわり焼き上げたチーズ風…",
@@ -450,11 +678,35 @@
       "language": "ja"
     },
     {
+      "id": "5e5290c654002aaa",
+      "title": "【2026年11月第1週】コンビニドリンク・コンビニカップ飲料ランキング1位はライチ香るジャスミンティー！新商品・注目アイテムまとめ",
+      "summary": "コンビニドリンクのクチコミランキング、2026年11月第1週の結果が出ました！今週はファミリーマートの商品が上位を席巻し、読み応えたっぷりの顔ぶれが揃いました…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30011/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "216161e85afd93b2",
       "title": "【2026年11月第1週】コンビニドリンク・コンビニカップ飲料ランキング1位はライチ香るジャスミンティー！新商品・注目アイテムまとめ",
       "summary": "コンビニドリンクのクチコミランキング、2026年11月第1週の結果が出ました！今週はファミリーマートの商品が上位を席巻し、読み応えたっぷりの顔ぶれが揃いました…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30011/?utm_source=rss&utm_medium=mognavinews_20261106",
       "published_at": "2026-11-06T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "99e34a504adbd238",
+      "title": "今週新発売の菓子パン🍫まとめ！『もちもちリング　いちご』、『チロルチョコ牛乳サンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン もちもちリング いちご 袋1個いちご風味チョコでコーティン…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110603/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T10:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -534,6 +786,18 @@
       "language": "ja"
     },
     {
+      "id": "a363c24790fd9739",
+      "title": "【2026年11月第1週】コンビニホットスナックランキング1位はグーコロ男爵！新商品・急上昇続々まとめ",
+      "summary": "今週のコンビニホットスナックランキングが出揃いました！寒さが増してきた11月第1週、カウンターでほかほかのスナックに思わず手が伸びてしまう季節にぴったりの顔ぶ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30010/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "0ddbea1de4975ee7",
       "title": "【2026年11月第1週】コンビニホットスナックランキング1位はグーコロ男爵！新商品・急上昇続々まとめ",
       "summary": "今週のコンビニホットスナックランキングが出揃いました！寒さが増してきた11月第1週、カウンターでほかほかのスナックに思わず手が伸びてしまう季節にぴったりの顔ぶ…",
@@ -558,11 +822,35 @@
       "language": "ja"
     },
     {
+      "id": "7f3ce013d01d7f66",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『こんがり焼いたクリーミー海老ドリア』、『かしわめし』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン こんがり焼いたク…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110602/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "2c44e7ae8424c089",
       "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『こんがり焼いたクリーミー海老ドリア』、『かしわめし』など♪",
       "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン こんがり焼いたク…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110602/?utm_source=rss&utm_medium=mognavinews_20261106",
       "published_at": "2026-11-06T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "98e22ee0459c37c4",
+      "title": "【2026年11月第1週】コンビニスイーツランキング1位はほぼクリームのケーキ！ゴディバコラボ新商品も続々登場まとめ",
+      "summary": "2026年11月第1週のコンビニスイーツランキングが出そろいました。今週はクリームたっぷりのスイーツや、人気コラボ商品が上位を賑わせています。さっそく気になる…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-29977/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T09:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -639,6 +927,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "fc1bccb33275a84b",
+      "title": "今週新発売の菓子パン🍫まとめ！『なめらかミルクのシュークリームパン』、『黒豆と黒ごまのむしぱん』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンリョーユーパン なめらかミルクのシュークリームパン 袋1個北海道牛乳入りカ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110601/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-06T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -918,6 +1218,18 @@
       "language": "en"
     },
     {
+      "id": "aba73bb391c74a73",
+      "title": "スナック菓子のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック菓子」の最新・注目度ランキングです♪（2026年10月30日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiCategoryRanking-29944/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-05T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "6ed2635619c71a08",
       "title": "スナック菓子のトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「スナック菓子」の最新・注目度ランキングです♪（2026年10月30日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
@@ -966,6 +1278,18 @@
       "language": "ja"
     },
     {
+      "id": "970737f9eaa695e3",
+      "title": "今週新発売の惣菜パンまとめ！『スナックサンド　タルたまポテト』、『ガブッとコロッケバーガー　北海道産じゃがいも』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン スナックサンド タルたまポテト 袋2個タルタルソース入りごろっと…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110508/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-05T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "e5feb2d8df06ff07",
       "title": "今週新発売の惣菜パンまとめ！『スナックサンド　タルたまポテト』、『ガブッとコロッケバーガー　北海道産じゃがいも』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン スナックサンド タルたまポテト 袋2個タルタルソース入りごろっと…",
@@ -996,6 +1320,18 @@
       "url": "https://shokuhin.net/159641/2026/11/05/kakou/choumi/",
       "published_at": "2026-11-05T17:29:09+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e2f967f0af2abf5b",
+      "title": "セブンが制したこのランキング！　プリンにもこが大躍進！：今週のコンビニスイーツランキング",
+      "summary": "週間コンビニスイーツランキングTOP3：2026年11月第1週今週もやってまいりました。2026年11月第1週、コンビニスイーツランキングのコーナーです。それ…",
+      "url": "https://mognavi.jp/news/ranking-konbini-dessert/182765/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-05T17:00:33+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -1059,6 +1395,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "d98cef05af25d58f",
+      "title": "今週新発売の惣菜パンまとめ！『ずっしりデニッシュ　カレー』、『ちくわパン　カマンベールチーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ずっしりデニッシュ カレー 袋1個デニッシュ生地にカレーを絞って…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110507/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-05T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -1158,6 +1506,18 @@
       "language": "ja"
     },
     {
+      "id": "a89170e94cc92854",
+      "title": "今週新発売の惣菜パンまとめ！『じゅわっと明太フランス』、『ちいかまん　ドミグラスハンバーグ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン じゅわっと明太フランス 袋1個明太子入りマーガリンが染み込んだ、…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110506/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-05T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "aedf0676a7876f91",
       "title": "今週新発売の惣菜パンまとめ！『じゅわっと明太フランス』、『ちいかまん　ドミグラスハンバーグ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンフジパン じゅわっと明太フランス 袋1個明太子入りマーガリンが染み込んだ、…",
@@ -1230,6 +1590,18 @@
       "language": "en"
     },
     {
+      "id": "530c611b640adebd",
+      "title": "今週新発売の食パン・ロールパンまとめ！『国産小麦　クラシックレトロカンパーニュ』、『チーズクロワッサン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンPasco 国産小麦 クラシックレトロカンパーニュ 袋…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110505/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-05T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "d173bfee3532f603",
       "title": "今週新発売の食パン・ロールパンまとめ！『国産小麦　クラシックレトロカンパーニュ』、『チーズクロワッサン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンPasco 国産小麦 クラシックレトロカンパーニュ 袋…",
@@ -1247,6 +1619,18 @@
       "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンPasco 国産小麦 クラシックレトロカンパーニュ 袋…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110505/?utm_source=rss&utm_medium=mognavinews_20261105",
       "published_at": "2026-11-05T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5ba633131687fca4",
+      "title": "今週新発売の菓子パン🍫まとめ！『薄皮　スイートポテトクリームパン』、『スナックサンド　カスタード＆ホイップ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンヤマザキ 薄皮 スイートポテトクリームパン 袋4個しっとりとした生地でスイ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110504/?utm_source=rss&utm_medium=mognavinews_20261107",
+      "published_at": "2026-11-05T11:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -5892,150 +6276,6 @@
       "url": "https://www.nosh.com/news/2026/non-ultraprocessed-labeling-gains-ground-but-scientific-and-regulatory-questions-remain",
       "published_at": "2026-10-31T01:39:45+08:00",
       "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "5819ed8d083f0d0c",
-      "title": "The Zero Proof Adds Sales and Finance Leads",
-      "summary": "The Zero Proof has named beverage veteran Jill Sites as vice president of sales and former Coca-Cola finance director Montaser Aboshady as vice president of finance, the company announced Thursday.",
-      "url": "https://www.bevnet.com/spirits/2026/the-zero-proof-adds-sales-and-finance-leads",
-      "published_at": "2026-10-31T00:20:47+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "c6f93c89b71c55e2",
-      "title": "Taste Radio: Has Liquid Death Lost Its Edge? And, Is Jetty Real?",
-      "summary": "Liquid Death built a billion-dollar business by challenging convention, but as its collaborations multiply and its products move beyond water, some are questioning whether the brand is evolving or…",
-      "url": "https://www.bevnet.com/news/2026/taste-radio-has-liquid-death-lost-its-edge-and-is-jetty-real",
-      "published_at": "2026-10-31T00:00:22+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "f129e05cb5e7061a",
-      "title": "Leftovers: Pop-Tarts launches flavor inspired by Liquid Death | Bachan’s enters Japanese mayo",
-      "summary": "The breakfast pastry and canned water brands are joining together for a second collaboration, while That's it. fruit bars extend into granola.",
-      "url": "https://www.fooddive.com/news/pop-tarts-liquid-death-bachans-japanese-mayo-thats-it-granola/873310/",
-      "published_at": "2026-10-30T22:44:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "74be4d93a0c5cfe3",
-      "title": "Are grocers ready to help shoppers getting off GLP-1s?",
-      "summary": "Retailers need to think about the long game to support people whose shopping habits change after they come off the weight loss medications, experts said.",
-      "url": "https://www.fooddive.com/news/how-grocers-can-cater-to-shoppers-coming-off-weight-loss-medication-health-nutrition-GLP1-hy-vee/873295/",
-      "published_at": "2026-10-30T22:02:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "c654f117da26b557",
-      "title": "The Cult of Crunch: Apple Varieties Engender Fierce Loyalty",
-      "summary": "Honeycrisp and Cosmic Crisp lead a fierce consumer loyalty contest, proving crispness and juiciness matter. Discover how apple breeding, branded varieties, and premium pricing shape the fresh produce…",
-      "url": "https://foodinstitute.com/focus/the-cult-of-crunch-apple-varieties-engender-fierce-loyalty/?utm_source=rss&utm_medium=rss&utm_campaign=the-cult-of-crunch-apple-varieties-engender-fierce-loyalty",
-      "published_at": "2026-10-30T22:00:00+08:00",
-      "source": "The Food Institute",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "37c575291c67ea44",
-      "title": "Does the supplement bottle's lot code open that lot's lab report?",
-      "summary": "\"Third-party tested\" is a standard label line now, but it rarely shares data on the lot in shoppers' hands. Find out how to quickly access the certificate of analysis.",
-      "url": "https://www.newhope.com/brands/how-to-find-dietary-supplement-lots-lab-report",
-      "published_at": "2026-10-30T22:00:00+08:00",
-      "source": "New Hope Network",
-      "region": "北美",
-      "category": "功能性食品",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "e7917f06eecc3f59",
-      "title": "New Beverages: Vita Coco Kids, Red Bull Winter Edition, Owen’s x MGK",
-      "summary": "This week saw more seasonal LTOs rolling in from Red Bull and Trip, more sweet-treat protein from Slate, and Owen's collaborating with one of its celebrity investors.",
-      "url": "https://www.bevnet.com/news/2026/new-beverages-vita-coco-kids-red-bull-winter-edition-owens-x-mgk",
-      "published_at": "2026-10-30T21:20:11+08:00",
-      "source": "BevNET",
-      "region": "北美",
-      "category": "饮料",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "7ab7dbce90e84a79",
-      "title": "Undercover Snacks Acquisition Extends Mondelez’s Bolt-On M&A Push",
-      "summary": "Mondelez is bolstering its better-for-you snack business, announcing its acquisition of a majority stake in Undercover Snacks.",
-      "url": "https://www.nosh.com/news/2026/undercover-snacks-acquisition-extends-mondelezs-bolt-on-ma-push",
-      "published_at": "2026-10-30T21:16:08+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "61b5439375970799",
-      "title": "New Products: Little Spoon Dives into Cereal; Liquid Death Teams Up with Pop-Tarts",
-      "summary": "In this week’s new products roundup, Pop-Tarts teams up with Liquid Death for a citrus-inspired toaster pastry, Little Spoon dives into the cereal aisle for the first time, and TRUBAR expands beyond…",
-      "url": "https://www.nosh.com/news/2026/new-products-little-spoon-dives-into-cereal-liquid-death-teams-up-with-pop-tarts",
-      "published_at": "2026-10-30T21:00:10+08:00",
-      "source": "NOSH",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "2f4a14879a96eb5f",
-      "title": "Vitaquest appoints Martin Gargiule as chief financial officer",
-      "summary": "He joins Vitaquest from medical device manufacturer Spectrum Vascular, where he served as vice-president of finance and corporate controller",
-      "url": "https://nutraceuticalbusinessreview.com/vitaquest-appoints-martin-gargiule-as-chief-financial-officer",
-      "published_at": "2026-10-30T20:33:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "1aacc24e1f6bdec3",
-      "title": "Beyond emulsification: the antimicrobial power of mono- and diglycerides",
-      "summary": "Developing safe, palatable and commercially viable food and beverages requires balancing microbial stability, cost, regulation and consumer expectations for taste, texture and ingredient transparency",
-      "url": "https://nutraceuticalbusinessreview.com/beyond-emulsification-the-antimicrobial-power-of-mono-and",
-      "published_at": "2026-10-30T20:30:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "d3a97623c2d0473e",
-      "title": "C-Store Foodservice Evolution: What Brands Must Do to Win",
-      "summary": "Convenience stores are increasingly competing for the same foodservice occasions as restaurants. Leaders from CROSSMARK and CORE Away From Home join The Food Institute to examine what’s driving the…",
-      "url": "https://foodinstitute.com/video/c-store-foodservice-evolution-what-brands-must-do-to-win/?utm_source=rss&utm_medium=rss&utm_campaign=c-store-foodservice-evolution-what-brands-must-do-to-win",
-      "published_at": "2026-10-30T20:25:34+08:00",
-      "source": "The Food Institute",
       "region": "北美",
       "category": "综合",
       "level": "A",
