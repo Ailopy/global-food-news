@@ -1,33 +1,89 @@
 {
-  "total": 324,
-  "s_plus_count": 36,
+  "total": 326,
+  "s_plus_count": 37,
   "sites": [
     "Food Dive",
-    "朝日グループYouTube",
-    "Packaging Digest",
     "日経新聞",
-    "日経xTrend"
+    "日経xTrend",
+    "Packaging Digest",
+    "朝日グループYouTube"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
+    "渠道新物种": 10,
+    "品牌故事": 38,
     "新产品": 41,
     "其他": 179,
     "营销创新": 17,
     "新包装": 9,
-    "渠道新物种": 9,
     "联名营销": 12,
-    "品牌故事": 37,
     "并购融资": 5,
     "行业政策": 9,
     "新技术": 2,
     "新原料": 4
   },
-  "last_updated": "2026-11-06 15:29",
-  "last_updated_iso": "2026-11-06T15:29:40.548690+08:00",
+  "last_updated": "2026-11-07 00:28",
+  "last_updated_iso": "2026-11-07T00:28:51.363508+08:00",
   "articles": [
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "ザ・ビタリスト WEBCM「それがええねん。」篇 30秒 くっきー！",
+      "url": "https://www.youtube.com/watch?v=eYrbStkGePs",
+      "summary": "くっきー！さん出演！それがええねん。 コンビニで周りに流されず「ビタリスト」を選ぶくっきー！さん。 流行りよりも自分の直感やこだわりを信じて選ぶ姿を描いています。 ザ・ビタリスト WEBCM「それがええねん。」篇 30秒 出演者：くっきー！ ▼ブランドサイトはこちら▼ https://www.asahibeer.co.jp/brand/bitter-ist/",
+      "published_at": "2026-11-06T01:00:11Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-11-07T00:28:51+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/eYrbStkGePs/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "ザ・ビタリスト WEBCM「くっきー！初めての新ビタリスト。」篇 30秒 くっきー！",
+      "url": "https://www.youtube.com/watch?v=RRAI2hpDIOE",
+      "summary": "くっきー！さん出演！苦味を貫く、\"\"わかる大人\"\"専用のビール。 くっきー！さんがグラスに丁寧に注ぎ、一口。 流行を追わず「苦味」をこだわり抜いた、新ビタリストの味わいと魅力を表情で語ります！ ザ・ビタリスト WEBCM「くっきー！初めての新ビタリスト。」篇 30秒 出演者：くっきー！ ▼ブランドサイトはこちら▼ https://www.asahibeer.co.jp/brand/bitter-ist/",
+      "published_at": "2026-11-06T01:00:06Z",
+      "is_s_plus": true,
+      "s_plus_reason": "初めて",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-07T00:28:51+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i3.ytimg.com/vi/RRAI2hpDIOE/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
