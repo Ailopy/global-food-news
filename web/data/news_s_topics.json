@@ -1,12 +1,12 @@
 {
-  "total": 326,
-  "s_plus_count": 37,
+  "total": 308,
+  "s_plus_count": 35,
   "sites": [
-    "Food Dive",
-    "日経新聞",
     "日経xTrend",
-    "Packaging Digest",
-    "朝日グループYouTube"
+    "朝日グループYouTube",
+    "日経新聞",
+    "Food Dive",
+    "Packaging Digest"
   ],
   "regions": [
     "北美",
@@ -14,19 +14,19 @@
   ],
   "category_stats": {
     "渠道新物种": 10,
-    "品牌故事": 38,
-    "新产品": 41,
-    "其他": 179,
+    "品牌故事": 36,
+    "新产品": 40,
+    "其他": 167,
     "营销创新": 17,
     "新包装": 9,
     "联名营销": 12,
     "并购融资": 5,
-    "行业政策": 9,
+    "行业政策": 7,
     "新技术": 2,
-    "新原料": 4
+    "新原料": 3
   },
-  "last_updated": "2026-11-07 00:28",
-  "last_updated_iso": "2026-11-07T00:28:51.363508+08:00",
+  "last_updated": "2026-11-07 14:42",
+  "last_updated_iso": "2026-11-07T14:42:21.879223+08:00",
   "articles": [
     {
       "site_name": "朝日グループYouTube",
@@ -5759,116 +5759,6 @@
       "scraped_at": "2026-10-08T14:46:20+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01483/00004/?n_cid=nbpnxr_rss",
-      "summary": "なぜ、イオンはグループ内の“競合店”に客を送るのか。マックスバリュとウエルシア薬局の実証では、双方のLTVが上昇した。鍵となるのは、年間4兆4000億円の購買データ。思い込みを排し、顧客を8タイプで捉え直すことで見えた、値下げ競争に頼らないイオングループ独自の勝ち筋に迫る。",
-      "published_at": "2026-10-07T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:06+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "カルビー、明治に続きグリコも“腸活事業”参入 強気の約8万円でも好感触",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01954/?n_cid=nbpnxr_rss",
-      "summary": "スナックやチョコレート菓子で知られる江崎グリコが、2026年9月14日から「腸活」の新規事業を立ち上げた。検査キットから腸内細菌を調べ、それに合わせた食生活の提案を行うパーソナライズ型の健康支援サービスだ。価格は初回キットが7万9200円で、結果に応じて食品やサプリメントの販売も推奨していく。すでにカルビーや明治も腸活事業に参入している中、後発ながら高価格帯のサービスを打ち出した狙いとは。",
-      "published_at": "2026-10-07T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:06+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "縮む高級ビール市場 “20円安い”グッドエールがつかんだプチご褒美需要",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01493/00003/?n_cid=nbpnxr_rss",
-      "summary": "ビール市場の競争が新たな局面を迎えている。2017年度税制改正に基づく26年10月1日の酒税改定で、ビール系飲料の酒税が350mL当たり54.25円に一本化。それに伴い、ビールは「値下げ」された。酒税改定で“有利”な立場にいるプレミアムビール市場では、スタンダードビールで高いシェアを持つアサヒビールやキリンビールが斬新な価格帯や味わいの商品を投下している。迎え撃つプレミアムビールの老舗ブランド「ヱビスビール」や「ザ・プレミアム・モルツ」は、若年層の獲得に動き出した。変わり始めたプレミアムビール市場の行方を占う。",
-      "published_at": "2026-10-07T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-10-07T14:40:06+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "中身の“見える化”でエアフライヤー再ブーム ニトリ参入で定番家電に",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00589/00364/?n_cid=nbpnxr_rss",
-      "summary": "油を使わず唐揚げやフライドポテトを作れるエアフライヤー（ノンフライヤー）が、およそ10年ぶりに再流行している。けん引役は、食材を入れる部分に透明なガラスを使った製品群。調理の様子が見える「ライブ感」がSNSなどで話題を呼び、各社で欠品が相次ぐほどの人気となった。目新しさだけでなく強化された利便性も武器に、調理家電の新定番になりつつある。",
-      "published_at": "2026-10-07T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "話題",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:06+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "【独占】好調レゴがサンリオと提携 幹部が語る「大人と女性」開拓戦略",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01958/?n_cid=nbpnxr_rss",
-      "summary": "レゴグループが次に狙うのは、日本発の「かわいい文化」を入り口とした顧客層の拡大だ。2026年10月6日、サンリオとの複数年にわたる提携を発表した。27年には人気キャラクター「ハローキティ」を軸に協業製品を発売する。2026年上期の売上高は前年同期比21％増と好調。子ども向け玩具のイメージを脱し、女性や家族を取り込む戦略とは。CPO&amp;CMOのジュリア・ゴールディン氏に聞いた。",
-      "published_at": "2026-10-06T17:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 2
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-10-07T14:40:06+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5889,72 +5779,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-10T14:30:35+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "カルビー、明治に続きグリコも“腸活事業”参入 強気の約8万円でも好感触",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWmlWM1JCV1R1cGMxT0ZOX0x3cFdxaHh1eTZCajlNMi1DdlY2N1dReFN0cndQY2xsV29IZm1sRXFiZ01NM2IwSGVFd1ZnclZyeU5jQnZIblVWSnpldHI2dUFVTXpNZUYyV0xlQW9HQ0JqOUNqSE1uRHcxQkFMVWpjci16eVVFckk?oc=5",
-      "summary": "カルビー、明治に続きグリコも“腸活事業”参入 強気の約8万円でも好感触&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-06T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:04+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OUzUxMUtTN05uMWxBck1udFp6a3VRNTFKbmhjcldrSnJQczdOVmFOMkRva3B5V1VkR0xKTWZMTG43SUFTS1FEQjA5b2lfR251dUdjMUlqZnB0cUxKQ1hFbjhlRmhvbDZNRllMb0NMcG9fQW1GcFhMcGRMSGo5dw?oc=5",
-      "summary": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-06T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:04+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "縮む高級ビール市場 “20円安い”グッドエールがつかんだプチご褒美需要",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdW1obTJtUmRVbF9HbHBnZU5HU1FYcWFmOVVEaE56amgwT0xrY1dhVFFTVTVja1ZwVHFGR1NwODVxVE4zSHAtbGtjQmw3cXpyNjByYy1uZFQ5ZlBYUVZ2dFNMdGpOdDNmeENGaTNQZzI1ZmxrdEo1bDZVUlo3eFZuNW04X1RZYmlrQjZn?oc=5",
-      "summary": "縮む高級ビール市場 “20円安い”グッドエールがつかんだプチご褒美需要&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-06T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:04+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -6050,28 +5874,6 @@
       "region": "日本",
       "positioning": "新品&产业",
       "title": "サントリー金麦は一番搾り超え？ 発泡酒のビール化、4社の姿勢に濃淡",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yREs3aElSQWxJSnhHRVdsYmNPZlUzcTRWSERjUEFscV9pZTJWN3dEd1RwU3VWQTBqYTNOWjRpNm1vOHBsMk1SOXN4cnYybzN5TTI4TnV2cTB6SWNXajdFbjNRWVl4UQ?oc=5",
-      "summary": "サントリー金麦は一番搾り超え？ 発泡酒のビール化、4社の姿勢に濃淡&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-05T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:04+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "サントリー金麦は一番搾り超え？ 発泡酒のビール化、4社の姿勢に濃淡",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXdQaDZUclZuX2Y4Y3ZlVjk4TERsc2lHWDhxc1FJd0N1Wkl4cjNEaUJXdHRaLTUwMVVMRzdDTE5oLWdpV1VIY3hMbHdrZ2hrVjFaQkx5dW4wcS1YNHBpczhkU2luVkhTR29ucXN0WEtCSWR0WldDRXhJTmxDaUVkYkpVZVpfM3BFcF9RcU94MVM3aFhLY2c?oc=5",
       "summary": "サントリー金麦は一番搾り超え？ 発泡酒のビール化、4社の姿勢に濃淡&nbsp;&nbsp;日経クロストレンド",
       "published_at": "2026-10-05T15:00:00Z",
@@ -6109,72 +5911,6 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-10-27T13:46:55+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（318ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQSl9VUkpoeEo4YWxJQnk1WDdqSFV4MTNZOTgwUHNKX0g2UFV1dU05Q0NrUUtDc09PcEh0REIxc2tFWlJrcWRQNnNfT1dVUXhJa1pqal9uWnltV05QSHRFc2FPazJTaTQ?oc=5",
-      "summary": "食品・飲料（318ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-05T03:29:25Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:04+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（319ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JT3pnZjF3NHoyYjhVRWRGRmVZcE90aTJHWWxmMmhXT0JHVWc5RTdoNll0SzZDTVhtRWtfZGk1QWFnaVE5T3FIRFVRMmo4eVNQN3Z4blpPQmJScW91dzZZWnllLVJDZWs?oc=5",
-      "summary": "食品・飲料（319ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-05T03:04:27Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:04+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（32ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQzZsX05HcXlOWTloQldDcGREWHl6MnhKR2J6NzFkWFhGbVFnb2tmeHB4Z3k2ekNiNXZiWkU5YXQyZzFkd2hKdjlKUFZjRnVBaDFneF9RTXB5d20wYWdsZ0Z3aDZwZw?oc=5",
-      "summary": "食品・飲料（32ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-04T18:51:39Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:04+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -6247,28 +5983,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "ファミマ、新食感パンが3000万食 ミスド「もっちゅりん」にない生地の妙",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemRkSjE3NU1ibWlTQ3VnREhJTjhxTUJJNlBqRXpuZzdPSzJQNmhDTGZnVFJJamI1U3pSZWdlWUsyME5sZlJ6TnJjU0xHWFlUajNRSWdXQ0hEUWVzVnlnYUJqMnNOdGkwdy02RTFPRWp3eEw4WkRRLU5nVDE5emtVSm10VUpzVXNuejhlMTl5bw?oc=5",
-      "summary": "ファミマ、新食感パンが3000万食 ミスド「もっちゅりん」にない生地の妙&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-01T15:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "食感",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:04+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（351ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44WVdNekhZei1OdzRxTUcybjVYUDFHN19GZEFtNXRVT3Q5c00xSHZkcnU1SG9pN3EzbnBka0ZKSTd3dGZBV2tuR2J0ZFNBT1l3X1c3WHFVdUtRUDZzWDRUTjVyeWRFVGs?oc=5",
       "summary": "食品・飲料（351ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -6307,122 +6021,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-12T14:41:44+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（99ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMb0ZvaVY4Z1h4aEtBMS1ralBiMU1Sbl9rTWNBX25mVjdPeDZuOUhwT2s2Q3dTSFUzdVZQNVd3MjlWVnIyVm1rUFhDWE5tQ2ZaVmw5MEREZUVRbnp0NEJsdXFJRU92dw?oc=5",
-      "summary": "食品・飲料（99ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-08T08:30:36Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-07T14:40:04+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Once Upon a Farm joins crowded kids electrolyte space",
-      "url": "https://www.fooddive.com/news/once-upon-a-farm-debuts-kids-electrolyte-product-nestle/832106/",
-      "summary": "The pouch offering by the baby and infant brand is aimed at active children and comes a month after food giant Nestlé's Gerber entered the pediatric rehydration sector.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-10-07T14:40:16+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Leftovers: Skittles gives gummies some crunch | Cup Noodles bites back for Halloween",
-      "url": "https://www.fooddive.com/news/leftovers-skittles-gives-gummies-some-crunch-cup-noodles-bites-back-for/832000/",
-      "summary": "The Mars-owned brand leans into multi-textural experiences with Skittles Gummy Crystals, while the founders of THC cocktail brand Nowadays launch a relaxation-focused functional beverage.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-10-07T14:40:16+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "6 food manufacturers talk supply chain tactics",
-      "url": "https://www.fooddive.com/news/6-food-manufacturers-talk-supply-chain-tactics/832033/",
-      "summary": "General Mills, Nestlé and more discussed how they are cutting operational costs, navigating uneven freight rates and sharpening demand forecasting at a Barclays conference.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-10-07T14:40:16+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Saputo creates ingredients division to capitalize on protein demand",
-      "url": "https://www.fooddive.com/news/saputo-ingredients-whey-protein/831924/",
-      "summary": "The new business unit comes as the cheesemaker invests to increase production of whey protein amid industry-wide shortages.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新原料",
-      "scraped_at": "2026-10-07T14:40:16+08:00"
     },
     {
       "site_name": "Food Dive",
