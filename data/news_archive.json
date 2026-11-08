@@ -1,13 +1,49 @@
 {
-  "last_updated": "2026-11-08T19:11:17.061329+08:00",
-  "total": 13923,
+  "last_updated": "2026-11-08T23:39:49.942523+08:00",
+  "total": 13944,
   "articles": [
+    {
+      "id": "f82f16e71ba43004",
+      "title": "Sunday Edition: Farm Bill 2.0",
+      "summary": "Quick bites from around the food safety arena this week Infant formula maker ByHeart has “discontinued” manufacturing its products after getting caught up in an outbreak of infant botulism. ByHeart’s…",
+      "url": "https://www.foodsafetynews.com/2026/11/sunday-edition-farm-bill-2-0-2/",
+      "published_at": "2026-11-08T21:00:00+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "bc9f038fa8c236af",
+      "title": "クリーム以外にも注目！ファミマのスイーツのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマのスイーツ」の最新・注目度ランキングです♪（2026年11月6日更新）食品クチコミサイト「もぐナビ」に投稿され…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-30109/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "6588b41275434e79",
       "title": "クリーム以外にも注目！ファミマのスイーツのトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマのスイーツ」の最新・注目度ランキングです♪（2026年11月6日更新）食品クチコミサイト「もぐナビ」に投稿され…",
       "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-30109/?utm_source=rss&utm_medium=mognavinews_20261108",
       "published_at": "2026-11-08T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8f60181fb2e5c8d4",
+      "title": "今週新発売の塩味まとめ！『ベビースタードデカイラーメン　ミツカン　味ぽん味』、『ＶＩＶＡＮＴポテトチップス　別班まんじゅう』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩味の新商品情報をお届けします。今週新発売の#塩味おやつカンパニー ベビースタードデカイラーメン ミツカン 味ぽん味 袋60g…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110808/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -27,11 +63,35 @@
       "language": "ja"
     },
     {
+      "id": "f0b5a152231e6cce",
+      "title": "今週新発売のセブンイレブンパンまとめ！『ビーフ＆マッケンチーズ』、『ごろっとみかんサンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ビーフ＆マッケンチーズホットロ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110807/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "2e7476ba4911e457",
       "title": "今週新発売のセブンイレブンパンまとめ！『ビーフ＆マッケンチーズ』、『ごろっとみかんサンド』など♪",
       "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ビーフ＆マッケンチーズホットロ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110807/?utm_source=rss&utm_medium=mognavinews_20261108",
       "published_at": "2026-11-08T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "97686d124cc2f37c",
+      "title": "今週新発売の惣菜パンまとめ！『朝のフレッシュ　ロースハム使用　ハム＆たまご』、『ピザフォカッチャ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンPasco 朝のフレッシュ ロースハム使用 ハム＆たまご 袋1個伊藤ハム「…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110806/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T13:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -63,11 +123,35 @@
       "language": "ja"
     },
     {
+      "id": "371282c62f1c011e",
+      "title": "【2026年11月第1週】ポテトチップス・スナックランキング1位はカルビー堅あげポテト柚子こしょう味！急上昇商品も注目まとめ",
+      "summary": "秋の味覚や定番フレーバーが顔をそろえた2026年11月第1週のポテトチップス・スナックランキング。今週はどんな商品がトップに輝いたのでしょうか。さっそく結果を…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30025/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "c88ea47f348ebb05",
       "title": "【2026年11月第1週】ポテトチップス・スナックランキング1位はカルビー堅あげポテト柚子こしょう味！急上昇商品も注目まとめ",
       "summary": "秋の味覚や定番フレーバーが顔をそろえた2026年11月第1週のポテトチップス・スナックランキング。今週はどんな商品がトップに輝いたのでしょうか。さっそく結果を…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30025/?utm_source=rss&utm_medium=mognavinews_20261108",
       "published_at": "2026-11-08T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c86f6d0eef88fd67",
+      "title": "今週新発売の惣菜パンまとめ！『６種のチーズパン』、『３種のキノコシチューデニッシュ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンPasco 6種のチーズパン 袋1個6種のチーズを楽しめます！ もちっとし…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110805/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T12:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -87,6 +171,18 @@
       "language": "ja"
     },
     {
+      "id": "61b6cc563ba0718a",
+      "title": "【2026年11月第1週】せんべい・駄菓子ランキング1位は堅ぶつ旨塩！新商品・急上昇商品まとめ",
+      "summary": "2026年11月第1週のせんべい・駄菓子ランキングが発表されました！寒さが増してきたこの季節、ほっとひと息つきながら食べる米菓やせんべいはひと際おいしく感じま…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30024/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "403e66d8659c3c5f",
       "title": "【2026年11月第1週】せんべい・駄菓子ランキング1位は堅ぶつ旨塩！新商品・急上昇商品まとめ",
       "summary": "2026年11月第1週のせんべい・駄菓子ランキングが発表されました！寒さが増してきたこの季節、ほっとひと息つきながら食べる米菓やせんべいはひと際おいしく感じま…",
@@ -99,11 +195,35 @@
       "language": "ja"
     },
     {
+      "id": "9fd7e34f848d22a3",
+      "title": "今週新発売の食パン・ロールパンまとめ！『国産小麦　やわらかカスクート全粒粉入り』、『熊本和栗あんトースト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンPasco 国産小麦 やわらかカスクート全粒粉入り 袋…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110804/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "aa1a496e772bfaff",
       "title": "今週新発売の食パン・ロールパンまとめ！『国産小麦　やわらかカスクート全粒粉入り』、『熊本和栗あんトースト』など♪",
       "summary": "こんにちは、もぐナビ編集部です！食パン・ロールパンの新商品情報をお届けします。発売中の食パン・ロールパンPasco 国産小麦 やわらかカスクート全粒粉入り 袋…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110804/?utm_source=rss&utm_medium=mognavinews_20261108",
       "published_at": "2026-11-08T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "f5acbc34a1f9ce8e",
+      "title": "【2026年11月第1週】クッキー・パイ・ビスケットランキング1位はブラックムーンガレットサンド！新商品・急上昇商品まとめ",
+      "summary": "2026年11月第1週のクッキー・パイ・ビスケットランキングが出揃いました。秋深まるこの季節、ほっこりしたいときにぴったりの焼き菓子たちが顔をそろえています。…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30023/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T11:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -135,11 +255,35 @@
       "language": "en"
     },
     {
+      "id": "30e538ed32347d57",
+      "title": "今週新発売の菓子パン🍫まとめ！『キャラメルロール』、『たっぷりホイップロール　いちご』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンPasco キャラメルロール 袋1個シナモンロールシリーズから新味種が登場…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110803/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "6df79ac13629cc55",
       "title": "今週新発売の菓子パン🍫まとめ！『キャラメルロール』、『たっぷりホイップロール　いちご』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンPasco キャラメルロール 袋1個シナモンロールシリーズから新味種が登場…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110803/?utm_source=rss&utm_medium=mognavinews_20261108",
       "published_at": "2026-11-08T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c42e54b10b40f5f8",
+      "title": "【2026年11月第1週】チョコレートランキング1位はプレミアムガーナ！新商品・急上昇アイテムまとめ",
+      "summary": "2026年11月第1週のチョコレートランキングが出揃いました。今週は定番の人気商品から急上昇の話題作まで、目が離せないラインナップとなっています。寒さが増して…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30022/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T10:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -159,6 +303,18 @@
       "language": "ja"
     },
     {
+      "id": "fe3bf140d0368666",
+      "title": "今週新発売の菓子パン🍫まとめ！『冷やして食べるとろけるくりーむパンミルク』、『パンになった！？雪見だいふく』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パン八天堂 冷やして食べるとろけるくりーむパンミルク「八天堂」の冷やして食…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110802/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "132e5a114c95a5ac",
       "title": "今週新発売の菓子パン🍫まとめ！『冷やして食べるとろけるくりーむパンミルク』、『パンになった！？雪見だいふく』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。今週新発売の菓子パン八天堂 冷やして食べるとろけるくりーむパンミルク「八天堂」の冷やして食…",
@@ -171,11 +327,35 @@
       "language": "ja"
     },
     {
+      "id": "a0809d2e8621ebe8",
+      "title": "【2026年11月第1週】飴・キャラメルランキング1位はピュレグミプレミアム！急上昇チョコマシュマロも注目まとめ",
+      "summary": "2026年11月第1週の飴・キャラメルランキングが出揃いました。秋の深まりとともに、ベリーやぶどうなど実りの季節を感じる商品がずらりと顔を揃えています。今週は…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30021/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "18a4f86e763acb10",
       "title": "【2026年11月第1週】飴・キャラメルランキング1位はピュレグミプレミアム！急上昇チョコマシュマロも注目まとめ",
       "summary": "2026年11月第1週の飴・キャラメルランキングが出揃いました。秋の深まりとともに、ベリーやぶどうなど実りの季節を感じる商品がずらりと顔を揃えています。今週は…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30021/?utm_source=rss&utm_medium=mognavinews_20261108",
       "published_at": "2026-11-08T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "fb85155ce5889e99",
+      "title": "今週新発売のコンビニホットスナックまとめ！『からアゲ串』、『プリッと食感！えびかつ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。今週新発売のコンビニホットスナックファミリーマート からアゲ串ザクザクした衣…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110801/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-08T06:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -207,6 +387,18 @@
       "language": "ja"
     },
     {
+      "id": "dd2e89dd2d6295df",
+      "title": "今週新発売のセブンイレブンお弁当🍱まとめ！『お好みおかず弁当』、『野菜の旨み　うま煮チャーハン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンお弁当の新商品情報をお届けします。今週新発売の#セブンイレブンお弁当セブン-イレブン お好みおかず弁当人気のおか…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110708/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-07T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "fbf3c16dd5a00f58",
       "title": "今週新発売のセブンイレブンお弁当🍱まとめ！『お好みおかず弁当』、『野菜の旨み　うま煮チャーハン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！セブンイレブンお弁当の新商品情報をお届けします。今週新発売の#セブンイレブンお弁当セブン-イレブン お好みおかず弁当人気のおか…",
@@ -224,6 +416,30 @@
       "summary": "こんにちは、もぐナビ編集部です！セブンイレブンお弁当の新商品情報をお届けします。今週新発売の#セブンイレブンお弁当セブン-イレブン お好みおかず弁当人気のおか…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110708/?utm_source=rss&utm_medium=mognavinews_20261107",
       "published_at": "2026-11-07T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "516ea6bc80ca0e14",
+      "title": "今週新発売のセブンイレブン麺🍜まとめ！『ラーメンＷａｌｋｅｒ監修　博多豚骨×札幌味噌ラーメン』、『飯田商店監修　飯田将太のチャーシュー麺』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブン麺の新商品情報をお届けします。今週新発売の#セブンイレブン麺セブン-イレブン ラーメンWalker監修 博多豚骨…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110707/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-07T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3bb22f7fb86da0d3",
+      "title": "【2026年11月第1週】和菓子・その他ランキング1位はパンプキンもみじ！秋の芋・かぼちゃスイーツ急上昇まとめ",
+      "summary": "秋の味覚がぎゅっと詰まった和菓子たちが、今週もランキングに勢ぞろいしました。さつまいもや栗、かぼちゃなど、この季節ならではの素材を使ったスイーツが上位に並び、…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30020/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-07T15:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -279,6 +495,18 @@
       "language": "ja"
     },
     {
+      "id": "ec300f3fdfead822",
+      "title": "【2026年11月第1週】アイス・コンビニアイスランキング1位はパパパパンプキンタルト！新作ショコラや急上昇アイスまとめ",
+      "summary": "秋の深まりとともに、コンビニアイスの売り場もぐっと魅力的な顔ぶれになってきました。今週のもぐナビアイス・コンビニアイスランキングは、旬の素材を生かしたフレーバ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30019/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-07T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "1c1bf8222c5c9267",
       "title": "【2026年11月第1週】アイス・コンビニアイスランキング1位はパパパパンプキンタルト！新作ショコラや急上昇アイスまとめ",
       "summary": "秋の深まりとともに、コンビニアイスの売り場もぐっと魅力的な顔ぶれになってきました。今週のもぐナビアイス・コンビニアイスランキングは、旬の素材を生かしたフレーバ…",
@@ -303,6 +531,18 @@
       "language": "ja"
     },
     {
+      "id": "265f6303ac32dc7c",
+      "title": "今週新発売のお弁当🍱まとめ！『北海道産秋鮭ほぐしのだしごはん　もち麦』、『トマトの旨み広がる　バターチキンカレー』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！お弁当の新商品情報をお届けします。今週新発売の#お弁当セブン-イレブン 北海道産秋鮭ほぐしのだしごはん もち麦北海道産秋鮭と秋…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110706/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-07T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "8028d783d9c74e96",
       "title": "今週新発売のお弁当🍱まとめ！『北海道産秋鮭ほぐしのだしごはん　もち麦』、『トマトの旨み広がる　バターチキンカレー』など♪",
       "summary": "こんにちは、もぐナビ編集部です！お弁当の新商品情報をお届けします。今週新発売の#お弁当セブン-イレブン 北海道産秋鮭ほぐしのだしごはん もち麦北海道産秋鮭と秋…",
@@ -320,6 +560,18 @@
       "summary": "こんにちは、もぐナビ編集部です！お弁当の新商品情報をお届けします。今週新発売の#お弁当セブン-イレブン 北海道産秋鮭ほぐしのだしごはん もち麦北海道産秋鮭と秋…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110706/?utm_source=rss&utm_medium=mognavinews_20261107",
       "published_at": "2026-11-07T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e4ba7bf91aa32914",
+      "title": "【2026年11月第1週】プリン・ゼリー・カップデザートランキング1位はドンレミー アップルパイパフェ！秋の新商品・急上昇まとめ",
+      "summary": "2026年11月第1週のプリン・ゼリー・カップデザートランキングが出そろいました。秋の味覚を感じさせる商品や定番の人気作がズラリと顔をそろえ、今週も目が離せな…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30018/?utm_source=rss&utm_medium=mognavinews_20261109",
+      "published_at": "2026-11-07T13:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
