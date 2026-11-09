@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-09T15:20:44",
+  "last_updated": "2026-11-09T20:44:19",
   "retention_days": 7,
-  "total": 763,
+  "total": 764,
   "s_count": 55,
   "a_count": 8,
-  "b_count": 700,
+  "b_count": 701,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "熊本地震復興応援プロジェクト「JFA・キリン ビッグスマイルフィールド」11月14日（土）熊本県八代市で開催！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1109_01.pdf",
+      "published_at": "2026-11-09T08:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Nissin",
       "brand_cn": "日清食品",
