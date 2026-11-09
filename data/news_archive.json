@@ -1,7 +1,139 @@
 {
-  "last_updated": "2026-11-09T20:43:01.412149+08:00",
-  "total": 13998,
+  "last_updated": "2026-11-10T03:19:42.120446+08:00",
+  "total": 14029,
   "articles": [
+    {
+      "id": "dd7a702806ed8f91",
+      "title": "Peanut Protein Brand Raises $2M To Fuel Target Retail Growth",
+      "summary": "Peanut protein powder brand Scoops has secured $2 million in seed investment to support its growing Target footprint.",
+      "url": "https://www.nosh.com/news/2026/peanut-protein-brand-raises-2m-to-fuel-target-retail-growth",
+      "published_at": "2026-11-10T00:40:01+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "f465ba8680a48807",
+      "title": "LifeBiotic launches Phase II trial of botanical bladder cancer treatment",
+      "summary": "The biopharma company is evaluating its multi-target botanical formulation LCS103 in a 60-patient trial to investigate its potential to prevent recurrence of non-muscle-invasive bladder cancer",
+      "url": "https://nutraceuticalbusinessreview.com/lifebiotic-launches-phase-ii-trial-of-botanical-bladder",
+      "published_at": "2026-11-10T00:14:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "423ab2452986bbd8",
+      "title": "Utz names new CEO ahead of $2.9B go-private deal",
+      "summary": "John Lindeman will become CEO, replacing Howard Friedman, who plans to step down after the pretzel and potato chip maker is acquired.",
+      "url": "https://www.fooddive.com/news/utz-ceo-merger-snacking/874104/",
+      "published_at": "2026-11-10T00:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "8542039a23d1336d",
+      "title": "Why Bimuno? 10 reasons to consider a targeted prebiotic for gut health",
+      "summary": "Discover how clinically researched GOS prebiotic Bimuno selectively nourishes beneficial gut bacteria and supports digestive well-being",
+      "url": "https://nutraceuticalbusinessreview.com/why-bimuno-10-reasons-to-consider-a-targeted",
+      "published_at": "2026-11-09T23:40:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "3c0449cd0e7be5e5",
+      "title": "Triphala: a traditional three-fruit approach to gut health",
+      "summary": "Probiotics started Europe's gut health conversation. What comes next may be a centuries-old Ayurvedic recipe of just three fruits. Discover the story behind Triphala, why its polyphenols travel to…",
+      "url": "https://nutraceuticalbusinessreview.com/triphala-a-traditional-three-fruit-approach-to-gut",
+      "published_at": "2026-11-09T23:30:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "b3ba2716212c75ff",
+      "title": "Kraft Heinz adds Nordstrom CFO, ex-Kroger finance chief to board",
+      "summary": "The board appointments come as the food giant aims to use $500 million in proceeds from the divestment of its North American coffee business to pay down debt.",
+      "url": "https://www.fooddive.com/news/kraft-heinz-adds-nordstrom-cfo-kroger-board-kellanova-investment/874100/",
+      "published_at": "2026-11-09T23:03:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "13dbcd9dd505d2c1",
+      "title": "4 Key Factors That Drive Gen Z Dining Decisions",
+      "summary": "Chartwells Higher Education’s latest report reveals what drives Gen Z and Gen Alpha dining decisions, including consistent food quality, personalized value, flexible mealtimes, digital convenience,…",
+      "url": "https://foodinstitute.com/focus/4-key-factors-that-drive-gen-z-dining-decisions/?utm_source=rss&utm_medium=rss&utm_campaign=4-key-factors-that-drive-gen-z-dining-decisions",
+      "published_at": "2026-11-09T23:00:22+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "bcb360ca3219cdfd",
+      "title": "Poppi founders launch hydration brand",
+      "summary": "Jetty is a line of electrolyte powders and ready-to-drink offerings that looks to stand out by targeting everyday consumers.",
+      "url": "https://www.fooddive.com/news/poppi-cofounders-launch-hydration-brand-jetty/874094/",
+      "published_at": "2026-11-09T22:47:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "beae6b1725d993d6",
+      "title": "General Mills wants a bigger bite of $32B salty snack space",
+      "summary": "The cereal giant is intensifying the flavors and adding new packaging options for Chex Mix and its other snacks, aiming to boost its 1% share of the category.",
+      "url": "https://www.fooddive.com/news/General-mills-snacking-chex-mix-pepsico-packaging-flavor/831513/",
+      "published_at": "2026-11-09T22:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "cd3d8ed7584a7651",
+      "title": "Forvis Mazars Insights: Why Big Food is Buying Small Brands to Succeed",
+      "summary": "At the Forvis Mazars Food and Beverage Forum, industry leaders examined shifting consumer demands, innovation, and M&A trends shaping food and beverage growth strategies for 2027. The post Forvis…",
+      "url": "https://foodinstitute.com/video/forvis-mazars-insights-why-big-food-is-buying-small-brands-to-succeed/?utm_source=rss&utm_medium=rss&utm_campaign=forvis-mazars-insights-why-big-food-is-buying-small-brands-to-succeed",
+      "published_at": "2026-11-09T21:05:44+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "c33aa95770a74610",
+      "title": "NAD blood levels don’t fall with age, study finds, challenging longevity claims",
+      "summary": "Vilnius University research challenges the ‘molecule of youth’ premise, raising fresh questions for NMN and NR brands marketing NAD-boosting supplements",
+      "url": "https://nutraceuticalbusinessreview.com/nad-blood-levels-age-study-longevity-vilnius",
+      "published_at": "2026-11-09T20:19:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "1159c176ffdf3e2b",
       "title": "NATURAL ODDITY TAKES A STAND FOR BETTER-FOR-YOU MILK CHOCOLATE",
@@ -39,6 +171,18 @@
       "language": "en"
     },
     {
+      "id": "f79483b83db40d42",
+      "title": "ファミマのおにぎりのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマのおにぎり」の最新・注目度ランキングです♪（2026年11月6日更新）食品クチコミサイト「もぐナビ」に投稿され…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-30142/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "95d0b755f26e09ef",
       "title": "NOVOS Core improves cardiovascular health markers in University of Surrey trial",
       "summary": "A six-month, placebo-controlled study found that NOVOS Core improved three measures of vascular health, adding human clinical evidence to the company's longevity-focused supplement portfolio",
@@ -49,6 +193,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "b28933fedbf992f2",
+      "title": "今週新発売の菓子パン🍫まとめ！『ホイップｉｎチョコクロワッサン』、『あんバター』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング ホイップinチョコクロワッサンプレートチョコを1枚包んだチ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110908/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "3ba1899904585309",
@@ -159,6 +315,18 @@
       "language": "ja"
     },
     {
+      "id": "e5190a4f7d281c0b",
+      "title": "今週新発売の菓子パン🍫まとめ！『むらさきいもあんぱん』、『クッキーデニッシュラムレーズン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンYKベーキング むらさきいもあんぱんしっとりとした生地で京都府産紫芋あんを…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110907/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "742c805251bdf615",
       "title": "「食卓までの帰り道」 子どもたちの安全な帰宅を応援 ハウス食品グループ本社が地域共創プロジェクト",
       "summary": "ハウス食品グループ本社は10月から地域共創プロジェクト「食卓までの帰り道プロジェクト」を開始した。家族が安心して食卓を囲める毎日を支えることを目指し、地域社会とともに子どもたちの健やかな成長を応援する狙いだ。 初年度 […] ソース",
@@ -225,6 +393,30 @@
       "url": "https://shokuhin.net/159772/2026/11/09/sonota/sdgs/",
       "published_at": "2026-11-09T14:24:08+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "061f82d06c6e770c",
+      "title": "【2026年11月第1週】コンビニ惣菜ランキング1位はかぼちゃスイーツサラダ！新商品レバニラ炒めも登場まとめ",
+      "summary": "2026年11月第1週のコンビニ惣菜ランキングが出揃いました。秋の味覚を活かした季節感たっぷりの商品から、定番のサラダチキン系まで幅広いラインアップとなってい…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30031/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "89f2f6cc9fdfab52",
+      "title": "今週新発売のアイスクリーム🍨🍦まとめ！『ぎっしりたっぷりアーモンドバー　黒糖』、『爽　贅沢濃味バニラ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！アイスクリームの新商品情報をお届けします。今週新発売の#アイスクリーム森永製菓 ぎっしりたっぷりアーモンドバー 黒糖沖縄県産黒…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110906/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T13:30:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -303,12 +495,36 @@
       "language": "en"
     },
     {
+      "id": "dcc9209525785f29",
+      "title": "【2026年11月第1週】コンビニ麺・コンビニパスタランキング1位はラーメンWalker監修 冷やしコショウそば！新商品3品も登場まとめ",
+      "summary": "コンビニ麺・コンビニパスタのランキング、2026年11月第1週の結果が出ました！寒さが増すこの季節、温かい麺ものから個性派パスタまで、今週も気になる商品がずら…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30030/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "09b9f07363d03d6c",
       "title": "「フランス 美食の余韻」（大使館） 高級食材・飲料など30銘柄超 食卓彩る菓子・ワインなど逸品ぞろい",
       "summary": "在日フランス大使館貿易投資庁―ビジネスフランスは、フランスの高級食材・飲料の商談展示会として、このほど第5回「フランス 美食の余韻」を大使公邸で開催した。現地企業30以上のブランドが出展。日本のインポーター、飲食店・メ […] ソース",
       "url": "https://shokuhin.net/159831/2026/11/09/sonota/event/",
       "published_at": "2026-11-09T12:58:56+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9bfabde1de9630e8",
+      "title": "今週新発売の卵料理まとめ！『サンドおむすび　豚焼肉マヨネーズと玉子焼』、『炙りつくねと味付けたまご』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！卵料理の新商品情報をお届けします。今週新発売の#卵料理ファミリーマート サンドおむすび 豚焼肉マヨネーズと玉子焼豚焼肉、玉ねぎ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110905/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T12:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -351,6 +567,18 @@
       "language": "ja"
     },
     {
+      "id": "2997f6ff1c65eb98",
+      "title": "【2026年11月第1週】コンビニスープ・コンビニ味噌汁ランキング1位は麻辣湯！新商品ぶた汁＆鶏だし旨塩スープも登場まとめ",
+      "summary": "朝晩の冷え込みが増してきた11月第1週、コンビニスープ・味噌汁ランキングはどんな顔ぶれになったのでしょうか。今週も体を温めてくれる一杯がずらりと集まりました。…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30029/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "522eaa1c1537a15f",
       "title": "【2026年11月第1週】コンビニスープ・コンビニ味噌汁ランキング1位は麻辣湯！新商品ぶた汁＆鶏だし旨塩スープも登場まとめ",
       "summary": "朝晩の冷え込みが増してきた11月第1週、コンビニスープ・味噌汁ランキングはどんな顔ぶれになったのでしょうか。今週も体を温めてくれる一杯がずらりと集まりました。…",
@@ -387,6 +615,18 @@
       "language": "ja"
     },
     {
+      "id": "192118fb9d0a20e6",
+      "title": "今週新発売のファミマスイーツ🍰まとめ！『ガトーショコラ』、『デビルズチョコケーキ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマスイーツの新商品情報をお届けします。発売中の#ファミマスイーツファミリーマート ファミマルSweets ガトーショコラ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110904/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "631880421ccb262e",
       "title": "今週新発売のファミマスイーツ🍰まとめ！『ガトーショコラ』、『デビルズチョコケーキ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ファミマスイーツの新商品情報をお届けします。発売中の#ファミマスイーツファミリーマート ファミマルSweets ガトーショコラ…",
@@ -399,11 +639,35 @@
       "language": "ja"
     },
     {
+      "id": "361dd38ddfdeb58a",
+      "title": "【2026年11月第1週】コンビニパンランキング1位はチョコデニッシュメロンパン！新商品＆急上昇商品まとめ",
+      "summary": "2026年11月第1週のコンビニサンドイッチ・コンビニパンランキングをお届けします。今週はチョコレートをたっぷりと使ったファミマルBakeryの「本気のチョコ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30028/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "d4dd9c1a042038ee",
       "title": "【2026年11月第1週】コンビニパンランキング1位はチョコデニッシュメロンパン！新商品＆急上昇商品まとめ",
       "summary": "2026年11月第1週のコンビニサンドイッチ・コンビニパンランキングをお届けします。今週はチョコレートをたっぷりと使ったファミマルBakeryの「本気のチョコ…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30028/?utm_source=rss&utm_medium=mognavinews_20261109",
       "published_at": "2026-11-09T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b038cd9170e3c943",
+      "title": "今週新発売のセブンイレブンスイーツ🍰まとめ！『狭山茶もこ』、『さつまいもっち　バナナカスタード入り』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンスイーツの新商品情報をお届けします。発売中の#セブンイレブンスイーツセブン-イレブン 狭山茶もこもちもち食感の生…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110903/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T10:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -483,6 +747,18 @@
       "language": "ja"
     },
     {
+      "id": "a946d1f19df325ad",
+      "title": "【2026年11月第1週】コンビニ寿司・コンビニ弁当ランキング1位はSuage監修スープカレー！新商品・急上昇注目商品まとめ",
+      "summary": "コンビニグルメがますます充実してきた2026年11月第1週、もぐナビのランキングにも気になる商品がズラリと並びました。今週はセブン-イレブンの独占状態となった…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30027/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "f5be7e401a086897",
       "title": "【2026年11月第1週】コンビニ寿司・コンビニ弁当ランキング1位はSuage監修スープカレー！新商品・急上昇注目商品まとめ",
       "summary": "コンビニグルメがますます充実してきた2026年11月第1週、もぐナビのランキングにも気になる商品がズラリと並びました。今週はセブン-イレブンの独占状態となった…",
@@ -519,11 +795,35 @@
       "language": "ja"
     },
     {
+      "id": "26bc9700f3a80bfb",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『温玉とりそぼろ丼　もち麦』、『金武町監修タコライス』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン 温玉とりそぼろ丼…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110902/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "24c6d92acf3ccd1d",
       "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『温玉とりそぼろ丼　もち麦』、『金武町監修タコライス』など♪",
       "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当セブン-イレブン 温玉とりそぼろ丼…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110902/?utm_source=rss&utm_medium=mognavinews_20261109",
       "published_at": "2026-11-09T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4a8f83681dab6cef",
+      "title": "【2026年11月第1週】コンビニおにぎり・コンビニ手巻寿司ランキング1位はシーチキンマヨネーズ！もち麦・梅系が急上昇まとめ",
+      "summary": "コンビニおにぎり・手巻寿司のランキング、2026年11月第1週の結果が出ました！朝のお供から小腹を満たす一品まで、今週はどんな顔ぶれが上位を賑わせたのでしょう…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30026/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T09:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -603,6 +903,18 @@
       "language": "en"
     },
     {
+      "id": "605e8af0728248b4",
+      "title": "今週新発売の菓子パン🍫まとめ！『モスシェイク風　バニラとコーヒー』、『板チョコ＆ザクザクチョコクリーム』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンヤマザキ ランチパック モスシェイク風 バニラとコーヒー「モスシェイク」を…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110901/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-09T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "c60f2b4862d54e2b",
       "title": "今週新発売の菓子パン🍫まとめ！『モスシェイク風　バニラとコーヒー』、『板チョコ＆ザクザクチョコクリーム』など♪",
       "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンヤマザキ ランチパック モスシェイク風 バニラとコーヒー「モスシェイク」を…",
@@ -651,6 +963,18 @@
       "language": "en"
     },
     {
+      "id": "fb28fe982c36d294",
+      "title": "クリーム以外にも注目！ファミマのスイーツのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマのスイーツ」の最新・注目度ランキングです♪（2026年11月6日更新）食品クチコミサイト「もぐナビ」に投稿され…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-30109/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-08T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "bc9f038fa8c236af",
       "title": "クリーム以外にも注目！ファミマのスイーツのトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマのスイーツ」の最新・注目度ランキングです♪（2026年11月6日更新）食品クチコミサイト「もぐナビ」に投稿され…",
@@ -668,6 +992,18 @@
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマのスイーツ」の最新・注目度ランキングです♪（2026年11月6日更新）食品クチコミサイト「もぐナビ」に投稿され…",
       "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-30109/?utm_source=rss&utm_medium=mognavinews_20261108",
       "published_at": "2026-11-08T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "88f4c5a538bb2120",
+      "title": "今週新発売の塩味まとめ！『ベビースタードデカイラーメン　ミツカン　味ぽん味』、『ＶＩＶＡＮＴポテトチップス　別班まんじゅう』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！塩味の新商品情報をお届けします。今週新発売の#塩味おやつカンパニー ベビースタードデカイラーメン ミツカン 味ぽん味 袋60g…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110808/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-08T17:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -699,6 +1035,18 @@
       "language": "ja"
     },
     {
+      "id": "1384a4cd05b6936d",
+      "title": "今週新発売のセブンイレブンパンまとめ！『ビーフ＆マッケンチーズ』、『ごろっとみかんサンド』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ビーフ＆マッケンチーズホットロ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110807/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-08T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "f0b5a152231e6cce",
       "title": "今週新発売のセブンイレブンパンまとめ！『ビーフ＆マッケンチーズ』、『ごろっとみかんサンド』など♪",
       "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ビーフ＆マッケンチーズホットロ…",
@@ -716,6 +1064,18 @@
       "summary": "こんにちは、もぐナビ編集部です！セブンイレブンパンの新商品情報をお届けします。今週新発売の#セブンイレブンパンセブン-イレブン ビーフ＆マッケンチーズホットロ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110807/?utm_source=rss&utm_medium=mognavinews_20261108",
       "published_at": "2026-11-08T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "952f221ed46b36d0",
+      "title": "今週新発売の惣菜パンまとめ！『朝のフレッシュ　ロースハム使用　ハム＆たまご』、『ピザフォカッチャ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンPasco 朝のフレッシュ ロースハム使用 ハム＆たまご 袋1個伊藤ハム「…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026110806/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-08T13:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -756,6 +1116,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "390754cdf7c61dbc",
+      "title": "【2026年11月第1週】ポテトチップス・スナックランキング1位はカルビー堅あげポテト柚子こしょう味！急上昇商品も注目まとめ",
+      "summary": "秋の味覚や定番フレーバーが顔をそろえた2026年11月第1週のポテトチップス・スナックランキング。今週はどんな商品がトップに輝いたのでしょうか。さっそく結果を…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30025/?utm_source=rss&utm_medium=mognavinews_20261110",
+      "published_at": "2026-11-08T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
