@@ -1,21 +1,21 @@
 {
-  "total": 284,
-  "s_plus_count": 34,
+  "total": 292,
+  "s_plus_count": 37,
   "sites": [
-    "Food Dive",
     "朝日グループYouTube",
     "日経xTrend",
-    "日経新聞",
-    "Packaging Digest"
+    "Packaging Digest",
+    "Food Dive",
+    "日経新聞"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
+    "新产品": 47,
+    "其他": 147,
     "营销创新": 17,
-    "新产品": 41,
-    "其他": 145,
     "新原料": 4,
     "渠道新物种": 6,
     "品牌故事": 36,
@@ -25,9 +25,163 @@
     "行业政策": 7,
     "新技术": 2
   },
-  "last_updated": "2026-11-09 15:21",
-  "last_updated_iso": "2026-11-09T15:21:01.230974+08:00",
+  "last_updated": "2026-11-10 03:19",
+  "last_updated_iso": "2026-11-10T03:19:41.475415+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【日経トレンディヒット予測8、9位】食洗機の75％の不満を解消する洗剤",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00008/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。推し活は「消費」から「資産形成」へ変わるのか。純金製トレーディングカード「キントレ」は、日本発の人気IPと金という実物資産を組み合わせ、コレクション価値と資産価値の両立を狙う新発想の商品だ。一方、家事領域ではライオンの「CHARMYクリスタ 予洗い専用泡スプレー」が、食洗機利用者の不満だった予洗いの手間を解消する。2027年は、従来にない付加価値を提供する商品が、需要を生み出す年になりそうだ。",
+      "published_at": "2026-11-10T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-10T03:19:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "発売150日で1億本出荷 賛否両論のNOPEで炭酸飲料市場が爆伸び",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00005/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。「ギルティ炭酸 NOPE」は若年層が炭酸飲料を飲みたくなる「ストレスを発散する時間」に着目。“甘濃い”味わいに仕上げ、あえてカロリーを気にせず欲望のままに楽しむ「ギルティ消費」を生み出した。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。",
+      "published_at": "2026-11-10T00:01:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "億本",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-10T03:19:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "KFCが看板バーガー刷新 1兆円市場で起きている「利用時間帯」争奪戦",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/03000/?n_cid=nbpnxr_rss",
+      "summary": "日本ケンタッキー・フライド・チキンは、1983年発売の「チキンフィレサンド」をルーツとする定番バーガーを43年ぶりに刷新し、「オリジナルチキンバーガーズ」として発売した。その背景には、1兆円を超えて拡大するハンバーガー市場と、各チェーンによる利用時間帯の獲得競争がある。",
+      "published_at": "2026-11-10T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-10T03:19:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【日経トレンディヒット予測6、7位】おすすめ疲れを解消する音楽SNS",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00007/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。「熟成を待つ楽しみ」と「偶然の出合い」を消費価値に変える動きが広がっている。缶の中で2次発酵が進み、好みのタイミングで味わえるスパークリングワインや、街ですれ違った人が聞いている楽曲と出合える音楽SNSが登場。待つ時間や人との接点まで価値化する発想が、新たな市場を切り開こうとしている。そんな“体験型消費”を象徴する2つの注目サービスを追う。",
+      "published_at": "2026-11-10T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-10T03:19:27+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "大盛況の「ボンボンドロップ」。ブームの“熱源”は推し活＆平成女児",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00004/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。ぷっくりとした見た目が特徴の「ボンボンドロップシール」は、「平成女児ブーム」と“推し活”を背景に市場が急拡大。平成時代にシール帳遊びに夢中だった子供たちが大人になり、懐かしさや「推し」のキャラクター目当てに、シールの収集や交換に熱中している。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。",
+      "published_at": "2026-11-10T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "見た目",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-10T03:19:27+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "発売150日で1億本出荷 賛否両論のNOPEで炭酸飲料市場が爆伸び",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjdDVkVzMkFOZEhldU4xeVhGYjVKX1BzUXBPNFJZVjNSZVpZb2toS1ZsU08tWDFIZEJ2dkp1UlhiNVNoS1pZbU5OaVRRM0NRQVRBWWJLci1hdzVQSV9XWUM4ZXJ3eW1tdjRWTzlDeXlRM1o5by1FYTZZWVRjeERkZGZWVzNjWFVOM3h6UGhRaw?oc=5",
+      "summary": "発売150日で1億本出荷 賛否両論のNOPEで炭酸飲料市場が爆伸び&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-09T15:01:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "億本",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-10T03:19:25+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "缶の中で熟成するスパークリングワイン 音楽と偶然出合うSNSに注目",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFdEbW5rZE45VkVHQUd2V1ZWLW1BZ1N2QndySU5vcHM1ZkFUTVh1NVZHbThyOEhfWnpjYUFGUnJTdVRSSFRjRXFFR2ZPWkpSeFNkeWxxeE5HQ1ZaV1ZSekI0cFhEdC1tV0Rzckl1RjVLam8yd1hfdDJfVGNVOTFnYnF4b2hMNG9ORHA4?oc=5",
+      "summary": "缶の中で熟成するスパークリングワイン 音楽と偶然出合うSNSに注目&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-09T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-10T03:19:25+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -253,6 +407,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-09T15:20:45+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "－196〈マンゴー〉",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaDNDSHhWc1FvcWw0ei1HWVMwd3d1VWpVYWxZaC1KTkh4MmhzWmNlYkF4dzVvNDFTSzZRREZOZ2ZLNEJMS1ZGeFBqWk83UDhKb2c0TUIzcFZJOU9ucUJNSERiN3AydkZDZ0xfNzhDM1ZjSVRSY1o0eEJMU2JIS0lvMk1UbVZfVGVucnc?oc=5",
+      "summary": "－196〈マンゴー〉&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-08T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-10T03:19:25+08:00"
     },
     {
       "site_name": "朝日グループYouTube",
