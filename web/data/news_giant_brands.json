@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-08T21:59:48",
+  "last_updated": "2026-11-09T15:20:44",
   "retention_days": 7,
-  "total": 759,
+  "total": 763,
   "s_count": 55,
   "a_count": 8,
-  "b_count": 696,
+  "b_count": 700,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,39 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.09日清ヨーク「ピルクル ミラクルケア 65ml」「ピルクル 免疫スタイル 65ml」(11月17日発売)",
+      "url": "https://www.nissin.com/jp/news/13991/",
+      "published_at": "2026-11-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.09湖池屋「季節の揚げたて直送便 燻製サーモン味」(11月9日より受注販売開始)",
+      "url": "https://www.nissin.com/jp/news/13988/",
+      "published_at": "2026-11-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Ajinomoto",
+      "brand_cn": "味之素",
+      "region": "日本",
+      "title": "2027年3月期 第2四半期決算短信[適時開示]",
+      "url": "https://news.ajinomoto.co.jp/2026/11/2026_11_09_02.pdf",
+      "published_at": "2026-11-09T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Asahi",
       "brand_cn": "朝日",
@@ -8381,6 +8414,17 @@
       "url": "https://www.mars.com/ja-jp/sustainability-plan",
       "published_at": "",
       "summary": "マースは、パートナーや事業を展開している地域社会のために、安全で健康的、持続可能な世界の創造を支援することを約束しています。",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "Asia Food JournalCJ Foods rebrands O-right as “Heroes of Fun” with new Puff POP snacks in Thailand",
+      "url": "https://asiafoodjournal.com/cj-foods-rebrands-o-right-as-heroes-of-fun-with-new-puff-pop-snacks-in-thailand/",
+      "published_at": "",
+      "summary": "Food & Beverage Magazine",
       "level": "B",
       "level_reason": "企业动态"
     }
