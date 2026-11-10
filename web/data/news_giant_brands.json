@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-10T15:51:58",
+  "last_updated": "2026-11-10T20:26:29",
   "retention_days": 7,
-  "total": 771,
+  "total": 776,
   "s_count": 55,
   "a_count": 8,
-  "b_count": 708,
+  "b_count": 713,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -120,6 +120,17 @@
       "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1847",
       "published_at": "2026-11-10T00:00:00",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Continue Reading",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-announces-new-operating-model-senior-leadership-appointments",
+      "published_at": "2026-11-10T00:00:00",
+      "summary": "General Mills Announces New Operating Model, Senior Leadership Appointments",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -8513,6 +8524,50 @@
       "url": "https://asiafoodjournal.com/cj-foods-rebrands-o-right-as-heroes-of-fun-with-new-puff-pop-snacks-in-thailand/",
       "published_at": "",
       "summary": "Food & Beverage Magazine",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mondelez",
+      "brand_cn": "亿滋",
+      "region": "北美",
+      "title": "Overview",
+      "url": "https://www.mondelezinternational.com/investors/",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mondelez",
+      "brand_cn": "亿滋",
+      "region": "北美",
+      "title": "Overview",
+      "url": "https://www.mondelezinternational.com/media/",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mondelez",
+      "brand_cn": "亿滋",
+      "region": "北美",
+      "title": "AMEA Region",
+      "url": "https://www.mondelezinternational.com/amea/",
+      "published_at": "",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Mondelez",
+      "brand_cn": "亿滋",
+      "region": "北美",
+      "title": "Contact Us",
+      "url": "https://www.mondelezinternational.com/contact-us/",
+      "published_at": "",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     }
