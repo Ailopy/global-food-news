@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-10T01:00:52",
+  "last_updated": "2026-11-10T15:51:58",
   "retention_days": 7,
-  "total": 764,
+  "total": 771,
   "s_count": 55,
   "a_count": 8,
-  "b_count": 701,
+  "b_count": 708,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,94 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "業務委託先への不正アクセスによるお客様情報漏えいに関するお詫びとお知らせ",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1110_03.pdf",
+      "published_at": "2026-11-10T02:00:15",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "キリンサプリメントシリーズ1～9月の販売金額が前年比約1割増と過去最高を更新！",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1110_01.html",
+      "published_at": "2026-11-10T02:00:10",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "冬にぴったりなりんごの華やかな味わいと澄んだ後味を楽しめる「キリン 本搾り&trade;チューハイ りんご＜季節厳選＞」発売",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1110_02.html",
+      "published_at": "2026-11-10T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-11-10T00:00:00",
+      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.10明星食品「明星 麺神カップ 札幌風ブラック醤油ラーメン」(11月23日発売)",
+      "url": "https://www.nissin.com/jp/news/13989/",
+      "published_at": "2026-11-10T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.10日清食品冷凍「モナキに会おう! キャンペーン」(11月13日からスタート)",
+      "url": "https://www.nissin.com/jp/news/13992/",
+      "published_at": "2026-11-10T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Yakult",
+      "brand_cn": "养乐多",
+      "region": "日本",
+      "title": "2026.11.10ニュースリリース世界初、ヒト腸内ビフィズス菌が周囲のＤＮＡを染色体に取り込み、新たな性質を獲得するしくみを発見",
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261110.pdf",
+      "published_at": "2026-11-10T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 3분기 매출 4조2,300억 원•영업이익 2,030억 원2026.11.10",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1847",
+      "published_at": "2026-11-10T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -76,17 +164,6 @@
       "url": "https://news.ajinomoto.co.jp/2026/11/2026_11_09_02.pdf",
       "published_at": "2026-11-09T00:00:00",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-11-06T00:00:00",
-      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
