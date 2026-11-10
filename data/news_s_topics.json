@@ -1,33 +1,309 @@
 {
-  "total": 289,
-  "s_plus_count": 37,
+  "total": 302,
+  "s_plus_count": 38,
   "sites": [
+    "Food Dive",
     "日経新聞",
-    "朝日グループYouTube",
-    "日経xTrend",
     "Packaging Digest",
-    "Food Dive"
+    "朝日グループYouTube",
+    "日経xTrend"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "新产品": 47,
-    "其他": 146,
+    "新产品": 51,
+    "品牌故事": 37,
+    "其他": 152,
+    "新包装": 11,
     "营销创新": 17,
     "新原料": 3,
     "渠道新物种": 5,
-    "品牌故事": 36,
-    "新包装": 9,
     "联名营销": 12,
     "并购融资": 5,
     "行业政策": 7,
     "新技术": 2
   },
-  "last_updated": "2026-11-10 15:52",
-  "last_updated_iso": "2026-11-10T15:52:15.222587+08:00",
+  "last_updated": "2026-11-11 00:40",
+  "last_updated_iso": "2026-11-11T00:40:28.919431+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【日経トレンディヒット商品6、7位】花王発・毛穴黒ずみ対策の決定版",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00007/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。第6位は、プレー人口が前年の約7倍に増加した「ピックルボール」。無理なく続けられる生涯スポーツとして注目を集める。第7位には、26年3月の先行発売以降、9月末までに出荷本数が197万本に達した花王の技術の集大成ともいえる「ディープクレイ洗顔」がランクインした。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-11-11T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-11T00:40:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【日経トレンディヒット予測12～14位】コカ・コーラ“豆なしコーヒー”",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00011/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。2027年は既存カテゴリーの常識を覆す商品が注目を集めそうだ。コーヒーでも水でもない新飲料、ペットボトルからかき氷を生み出す次世代マシン、そして“集める”から“使う”へ進化するシール文化発の文房具。生活者の潜在ニーズを捉え、新たな市場を切り開くヒット候補の共通点とは何か。次代の消費トレンドを占う3商品を追った。",
+      "published_at": "2026-11-11T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-11T00:40:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "SUBARUが自社IPグッズを積極展開 米国からの要望がきっかけ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01494/00007/?n_cid=nbpnxr_rss",
+      "summary": "SUBARUが顧客とのタッチポイントを増やすため、ライセンス事業を本格化。Webサイトを新設し、本社のショールームに商品の展示スペースも設けている。かつて製造・販売していたスクーターも再評価され、ブランドを象徴する存在に。",
+      "published_at": "2026-11-11T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-11T00:40:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "日清公式「熱湯禁止」が刺さった意外な客 冷しカップヌードルを総括",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00006/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。「冷水を注いで5分」という即席カップ麺の新たな作り方を提案した「冷しカップヌードル」は、「カップ麺の歴史が動いた」と消費者を驚かせた。この意外性も含めて、ヒットした理由を分析した。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。こちらもぜひ確認してほしい。",
+      "published_at": "2026-11-11T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-11T00:40:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "『Nintendo Switch Sports Resort』は新定番に 斬新な操作の種目も",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01184/00097/?n_cid=nbpnxr_rss",
+      "summary": "2026年10月22日に発売されたNintendo Switch 2用ソフト『Nintendo Switch Sports Resort』は、コントローラーそのものを振ってプレーする直感的な操作で楽しめるスポーツゲームだ。完成度が抜群に高く、年齢・性別を問わずに誰もがすぐに楽しめるファミリー向けゲームとして、ロングランヒットが期待できそうだ。その中味を紹介しよう。",
+      "published_at": "2026-11-11T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-11T00:40:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "松屋 古屋社長の語る突破術 「自分は八合目の山小屋のおやじ」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01347/00009/?n_cid=nbpnxr_rss",
+      "summary": "大ヒット商品や新規事業が生まれる背景には、時に逆風を突破して形にしてきた人たちが必ず存在する。とはいえ、企業の中で何か新しいことにチャレンジする際、これまでのものさしでは計り知れないが故に、自分の上司が判断しきれず、それが壁になることも多々ある。何かを成してきた人たちは、新たな価値を生み出すために、どんな“突破する動力”で壁を乗り越えたのか。今回の突破者は、百貨店の松屋 代表取締役 社長執行役員である古屋毅彦氏だ。",
+      "published_at": "2026-11-11T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-11T00:40:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "季節外れのBBQ場がオープン 猛暑で需要が分散、うなぎ食べ放題で集客も",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01983/?n_cid=nbpnxr_rss",
+      "summary": "秋から春までの期間限定で都心にバーベキュー場がオープンした。バーベキューは夏を代表するレジャーだったが、猛暑で打撃を受けている。最盛期だった7～8月の売り上げが落ち、ニーズの春秋シフトが顕著になっている。会社帰りに手ぶらでバーベキューを楽しむ新たなスタイルで、職場の懇親会など新たな需要を取り込もうとしている。",
+      "published_at": "2026-11-11T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-11T00:40:15+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "フェイシャルタオルでも強い「鼻セレブ」 パッケージの購入意向は7割超",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00002/00121/?n_cid=nbpnxr_rss",
+      "summary": "王子ネピアの「ネピア 鼻セレブ洗顔専用」とユニ・チャームの「シルコット フェイシャルタオル 素肌おもい」のパッケージデザインを比較した。2商品とも、既存ブランドのイメージや信頼感を生かして展開する商品だ。「どちらの商品を買いたいか」と聞くと、鼻セレブが7割を超える支持を集めた。",
+      "published_at": "2026-11-11T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-11-11T00:40:15+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "【日経トレンディヒット予測12～14位】コカ・コーラ“豆なしコーヒー”",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnNkbktMUlhsRmlqVkgwQ2wxRkRINGFwQmp3RkVzaE0zaW9ULWU1Smc5ZjNGSFlRTnBLcExHS3FKbFRqSFdTSDNnWjcxelNTb3NVV3BRSG9oOU84VDNNZkdYREd6b2VzTVc2WTlsY3FLbWM1UlVERTB2cnBjU3hUeXJ5SzNTb21mRTNQTGhmQQ?oc=5",
+      "summary": "【日経トレンディヒット予測12～14位】コカ・コーラ“豆なしコーヒー”&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-10T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-11T00:40:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "日清公式「熱湯禁止」が刺さった意外な客 冷しカップヌードルを総括",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFFIMVVJM1NOc3Z5cHVzdXlUOE10MVB3Mm45QTYwZGYyb24tb1U3QU5NN0Y5R01sTVVfeVNMX0RXNEhjczg5VHR6UUNtazFRUi0yOTloV1pQNXZ0akNFODZqNkNGd25ZQmR4dzhzaWJSc2hqeFVKWHBwRzlzRGVRUVpLRC10QllwZnpV?oc=5",
+      "summary": "日清公式「熱湯禁止」が刺さった意外な客 冷しカップヌードルを総括&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-10T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-11T00:40:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "フェイシャルタオルでも強い「鼻セレブ」 パッケージの購入意向は7割超",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWV1M1Y1QW5CUkZReHBSLUtaMjBLSVJOTG1WQkF1VXlUcWVCbzlmWE5EQXRPUkFIQkNJSHF0MExBS0x2NU96OHk5el9jZG9sdlpCenphZ0pRZFl0dVkteEZJMnhIaE9VYWJydFpNVkxDUHltUkljcjhUbHB2YWlCMk1LYXpMalBwMUJJ?oc=5",
+      "summary": "フェイシャルタオルでも強い「鼻セレブ」 パッケージの購入意向は7割超&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-10T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-11-11T00:40:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "松屋 古屋社長の語る突破術 「自分は八合目の山小屋のおやじ」",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObHN2NWJVNFFKNkNkM0VYRkNHZlV1Y0VpYXF6ZzdXdndCTDBDRi12QlU4VGMtSlpyZzFuXzA2ckZFaF9tMXNWQWE2SEdxNmRVWFpHQkJPSkZPazZaVmpETVlKTFlLQWFOZFdMSHZFZVNqMDhkZjhoOVRSSXY2cGFTTEVTZGwtVnU2bFkw?oc=5",
+      "summary": "松屋 古屋社長の語る突破術 「自分は八合目の山小屋のおやじ」&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-10T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-11T00:40:13+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -181,6 +457,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-10T03:19:25+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "缶の中で熟成するスパークリングワイン 音楽と偶然出合うSNSに注目",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xaW13YUlUb2w5NUR0dnBFeU0yQkhwaEE1WDN0Ynh5RENSQ0ctbGRpRExWaHVKdlB6QjZ0bVllcUs0ekdFalBHMTVoWFgyVTBRcWI5d2oxczhHdkp6dHg3akhsV1ZSUQ?oc=5",
+      "summary": "缶の中で熟成するスパークリングワイン 音楽と偶然出合うSNSに注目&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-09T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-11T00:40:13+08:00"
     },
     {
       "site_name": "日経xTrend",
