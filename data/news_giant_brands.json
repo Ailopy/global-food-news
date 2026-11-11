@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-11T19:47:46",
+  "last_updated": "2026-11-11T22:51:14",
   "retention_days": 7,
-  "total": 780,
+  "total": 781,
   "s_count": 56,
   "a_count": 8,
-  "b_count": 716,
+  "b_count": 717,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -8612,6 +8612,17 @@
       "url": "https://www.mondelezinternational.com/contact-us/",
       "published_at": "",
       "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Blue Buffalo’s Love Made Fresh Gives Dogs a Seat at the Thanksgiving Table with Limited-Edition Dinnerware Collection",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/blue-buffalos-love-made-fresh-gives-dogs-a-seat-at-the-thanksgiving-table",
+      "published_at": "",
+      "summary": "Because dogs are family, the Blue Buffalo Dinnerware Collection includes salad plates, dinner plates and a matching dog bowl and a coupon for free Love Made Fresh.",
       "level": "B",
       "level_reason": "企业动态"
     }
