@@ -1,11 +1,11 @@
 {
-  "total": 303,
-  "s_plus_count": 38,
+  "total": 312,
+  "s_plus_count": 39,
   "sites": [
-    "日経xTrend",
-    "Food Dive",
     "朝日グループYouTube",
     "Packaging Digest",
+    "日経xTrend",
+    "Food Dive",
     "日経新聞"
   ],
   "regions": [
@@ -13,21 +13,175 @@
     "日本"
   ],
   "category_stats": {
-    "新产品": 51,
+    "新产品": 54,
+    "营销创新": 18,
+    "并购融资": 6,
+    "其他": 156,
+    "联名营销": 13,
     "品牌故事": 37,
-    "其他": 153,
     "新包装": 11,
-    "营销创新": 17,
     "新原料": 3,
     "渠道新物种": 5,
-    "联名营销": 12,
-    "并购融资": 5,
     "行业政策": 7,
     "新技术": 2
   },
-  "last_updated": "2026-11-11 15:20",
-  "last_updated_iso": "2026-11-11T15:20:08.621521+08:00",
+  "last_updated": "2026-11-12 00:45",
+  "last_updated_iso": "2026-11-12T00:45:40.775537+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【日経トレンディヒット商品10～12位】映画ちいかわ興収180億円の理由",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00009/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。10位はAIエージェントの機能が向上する中、非エンジニアの間にも瞬く間に広がったAnthropicの「Claude Code」。11位は、サントリービバレッジ＆フードの「特水」。発売から3カ月間の販売実績は計画比1.3倍で推移した。12位は「ちいかわ」初の映画化作品『映画ちいかわ 人魚の島のひみつ』。公開後、ちいかわの「推しファン」人数は、公開前1年間の月平均と比べてほぼ倍増した。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。",
+      "published_at": "2026-11-12T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-12T00:45:26+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【日経トレンディヒット商品8、9位】超小型デジカメに若者世代が夢中",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00008/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。8位は血糖値の上昇が気になる中高年層の支持を集めた「HbA1c対策ヨーグルト」。累計販売本数は、同社計画の1.9倍となる5000万本に達している。9位は、あえて低スペックな写真を楽しむデジカメ「トイデジ」だ。チャームとして持ち運べる点も時代にマッチした。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。",
+      "published_at": "2026-11-12T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "累計販売",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-12T00:45:26+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "コカ・コーラ「40億ドル」契約攻防 北米はオムニコムが電通に勝利",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00011/?n_cid=nbpnxr_rss",
+      "summary": "飲料大手の米Coca-Colaは、グローバルと北米地域について今後の広告代理店契約の競合プレゼン（コンペ）を実施した。その結果、英WPPがグローバル契約を維持し、北米地域は米Omnicomが契約を勝ち取った。米有力メディア「ADWEEK」がリポートする。",
+      "published_at": "2026-11-12T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-11-12T00:45:26+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【日経トレンディヒット予測15～18位】「マチアプ疲れ」解消“AI仲人”",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00012/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。生活者の心を動かすのは、もはや機能の優劣だけではない。周囲に知られず尿漏れケアができるSmaSheeや、婚活に伴うストレスを減らすnaco-do ONEなど、利用者が抱える心理的な負担や面倒に着目した商品・サービスが存在感を高めている。さらに、口全体を泡で洗う新習慣や、ライフイベントに向けたポイント積み立てといった新しい提案も登場。ヒットの背景にある消費者心理の変化を追った。",
+      "published_at": "2026-11-12T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-12T00:45:26+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "米国で急拡大ピックルボール商談 ゴルフ接待に代わる新定番浮上",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00109/00242/?n_cid=nbpnxr_rss",
+      "summary": "米国でラケット競技「ピックルボール」が接待や商談の場になりつつある。ゴルフに比べてプレー時間が1～2時間と短いことに加え、道具やプレー費も安い利点がある。ネットを挟んで最短14フィート（約4.2メートル）という近い距離感でプレーをするため、自然な雑談や冗談を交わしやすい点が受けている。シリコンバレーやウォール街では専用施設が相次ぎ開業しており、大型の取引や出資案件、人材採用につながる事例が生まれている。",
+      "published_at": "2026-11-12T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-11-12T00:45:26+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米国で急拡大ピックルボール商談 ゴルフ接待に代わる新定番浮上",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlFzSlVUcGNfd3BMU3NtYzFQd1N6UTRtcGoxazRiZ3NyQzJHZG9lMDR1eEJBMWJTaGVPMFN3UTRfMmk3SUlHeHRCbGxKMmF6T1RHRUtybWJxTms1b0FLU2lKRFRWVW1YczE2U21KQUQycnlwbm8teFYyWkZsWkppNjE5TWpoZHpCNHNr?oc=5",
+      "summary": "米国で急拡大ピックルボール商談 ゴルフ接待に代わる新定番浮上&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-11T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-12T00:45:24+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "集英社、JETRO×ゲーム、サントリー・伊藤園・宝酒造も出展 英国HYPER JAPANの商機",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRkNQRnAzYk1fNnUtVXpaX2ZBRGNEcmMxMlY3cFpVUWM5b2gzODgwNFNvMVNISWw3WEM1Q3FSSHcwclVJNU9FOElwa2VfY3FOQWxLTlpza2Qwam1CV05kQU9FUmQtTThFTGJGemRIQ1lORWJTdmhfaUxBd1Y3d3Y2UV9IdkNqUEVQZ2gw?oc=5",
+      "summary": "集英社、JETRO×ゲーム、サントリー・伊藤園・宝酒造も出展 英国HYPER JAPANの商機&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-11T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-11-12T00:45:24+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -243,6 +397,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "【日経トレンディヒット予測12～14位】コカ・コーラ“豆なしコーヒー”",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GbVpzTmNIM0dPR2FKcElCeWJYelY5YndyRVVmaUdTdktGVldicHU2aFFvXzJxVnoxTDc3S0wtRFVzeG9aQ3lMNmc4SjVKekNMN2RVNC0zdThTa1k4czU5Z0dlRy1CQQ?oc=5",
+      "summary": "【日経トレンディヒット予測12～14位】コカ・コーラ“豆なしコーヒー”&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-10T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-12T00:45:24+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "日清公式「熱湯禁止」が刺さった意外な客 冷しカップヌードルを総括",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFFIMVVJM1NOc3Z5cHVzdXlUOE10MVB3Mm45QTYwZGYyb24tb1U3QU5NN0Y5R01sTVVfeVNMX0RXNEhjczg5VHR6UUNtazFRUi0yOTloV1pQNXZ0akNFODZqNkNGd25ZQmR4dzhzaWJSc2hqeFVKWHBwRzlzRGVRUVpLRC10QllwZnpV?oc=5",
       "summary": "日清公式「熱湯禁止」が刺さった意外な客 冷しカップヌードルを総括&nbsp;&nbsp;日経クロストレンド",
@@ -325,6 +501,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-11T15:19:52+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "日清公式「熱湯禁止」が刺さった意外な客 冷しカップヌードルを総括",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xOWRkZXE0Mjc5aXc1cTI0VWdjR3lMNWZrcXV1ZVBOZ0ttdThtZTRkYnJEN0pCZGtwNTlwQWdxVjUxcUdiVFNBTVp4UE9aR3ZOUXFhZ2pVdnNTT2JBUzQzdEdzeGRMdw?oc=5",
+      "summary": "日清公式「熱湯禁止」が刺さった意外な客 冷しカップヌードルを総括&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-10T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-12T00:45:24+08:00"
     },
     {
       "site_name": "日経xTrend",
