@@ -1,21 +1,21 @@
 {
-  "total": 302,
+  "total": 303,
   "s_plus_count": 38,
   "sites": [
+    "日経xTrend",
     "Food Dive",
-    "日経新聞",
-    "Packaging Digest",
     "朝日グループYouTube",
-    "日経xTrend"
+    "Packaging Digest",
+    "日経新聞"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
     "新产品": 51,
     "品牌故事": 37,
-    "其他": 152,
+    "其他": 153,
     "新包装": 11,
     "营销创新": 17,
     "新原料": 3,
@@ -25,8 +25,8 @@
     "行业政策": 7,
     "新技术": 2
   },
-  "last_updated": "2026-11-11 00:40",
-  "last_updated_iso": "2026-11-11T00:40:28.919431+08:00",
+  "last_updated": "2026-11-11 15:20",
+  "last_updated_iso": "2026-11-11T15:20:08.621521+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -303,6 +303,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-11T00:40:13+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "松屋 古屋社長の語る突破術 「自分は八合目の山小屋のおやじ」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vT2NERjBRVUlHdHp3MkV0c3lOSWthbElyd00yWEpTU01uRV9HVTNoZDFvcmNpVFFrR1lRSE5oNENnSEROd3pvXzdJOGFIei00YWowR01JYTBRQlpmTmg2X0JPR3JEQQ?oc=5",
+      "summary": "松屋 古屋社長の語る突破術 「自分は八合目の山小屋のおやじ」&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-10T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-11T15:19:52+08:00"
     },
     {
       "site_name": "日経xTrend",
