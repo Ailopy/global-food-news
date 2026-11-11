@@ -1,7 +1,127 @@
 {
-  "last_updated": "2026-11-11T19:46:27.189762+08:00",
-  "total": 14152,
+  "last_updated": "2026-11-12T00:45:25.957829+08:00",
+  "total": 14182,
   "articles": [
+    {
+      "id": "f031c6e0a1ca90d5",
+      "title": "Goodles CEO Jen Zeszut Outlines Next Chapter Following Barilla Deal",
+      "summary": "With acquirer Barilla Group’s backing, Goodles co-founder and CEO Jennifer Zeszut plans to build on the unconventional approach that has helped turn the better-for-you mac and cheese maker into one…",
+      "url": "https://www.nosh.com/news/2026/goodles-ceo-jen-zeszut-outlines-next-chapter-following-barilla-deal",
+      "published_at": "2026-11-12T00:27:05+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "da6ce4e879235c61",
+      "title": "Poppi Creators Out to Disrupt Hydration With jetty",
+      "summary": "Poppi co-founders Allison and Stephen Ellsworth are challenging Gatorade with jetty, a lower-sugar, lower-sodium hydration brand featuring added fiber and minerals. The post Poppi Creators Out to…",
+      "url": "https://foodinstitute.com/focus/poppi-creators-out-to-disrupt-hydration-with-jetty/?utm_source=rss&utm_medium=rss&utm_campaign=poppi-creators-out-to-disrupt-hydration-with-jetty",
+      "published_at": "2026-11-12T00:00:34+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "99066b1450e3e0b6",
+      "title": "McCormick and Unilever’s $45B food merger hits antitrust snag in UK",
+      "summary": "A regulator ruled the tie-up could harm competition and is requiring the companies to address concerns or face a more in-depth investigation.",
+      "url": "https://www.fooddive.com/news/mccormick-unilever-antitrust-review-merger-UK/874361/",
+      "published_at": "2026-11-12T00:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "a94913ea1cb537f7",
+      "title": "Spirits Marketing: Tito’s Rots, Johnnie Walker Taps Oscar-Winner, Stateside Refreshes",
+      "summary": "The latest marketing news from the spirits world, including the return of Tito's low-energy holiday celebration, Stateside Vodka's branding revamp and Sabrina Carpenter's latest collaboration with…",
+      "url": "https://www.bevnet.com/spirits/2026/spirits-marketing-titos-rots-johnnie-walker-taps-oscar-winner-stateside-refreshes",
+      "published_at": "2026-11-11T23:44:06+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "bd743e5b19375b8f",
+      "title": "Hi-Chew releases new Hi-Chew Holiday Mix",
+      "summary": "The limited-edition assortment introduces three festive new flavours, Cherry Vanilla, Sugar Plum and Apple Crumble, wrapped in winter-inspired packaging. The post Hi-Chew releases new Hi-Chew Holiday…",
+      "url": "https://www.sweetsandsnacksworld.com/news/31076/hi-chew-releases-new-hi-chew-holiday-mix/",
+      "published_at": "2026-11-11T23:41:55+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "2d29d6c142ccf50b",
+      "title": "Maryland Revises Distribution Rules for RTDs",
+      "summary": "As ready-to-drink (RTD) cocktails’ sales growth continues to outpace the broader industry, RTD suppliers in one state now have a little more freedom to choose how their products are distributed.",
+      "url": "https://www.bevnet.com/spirits/2026/maryland-revises-distribution-rules-for-rtds",
+      "published_at": "2026-11-11T23:35:01+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "556baaefef22aee3",
+      "title": "Godiva celebrates its 100th anniversary with new limited edition launches",
+      "summary": "Continuing its 100th anniversary celebration, Godiva is releasing its latest collection of limited-edition treats. The post Godiva celebrates its 100th anniversary with new limited edition launches…",
+      "url": "https://www.sweetsandsnacksworld.com/news/31073/godiva-celebrates-its-100th-anniversary-with-new-limited-edition-launches/",
+      "published_at": "2026-11-11T23:27:33+08:00",
+      "source": "Sweets & Snacks World",
+      "region": "欧洲",
+      "category": "糕点糖巧",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "8513b91489489221",
+      "title": "Just Ice Tea ups the caffeine with cold brew teas",
+      "summary": "Awaken, which has caffeine levels equivalent to two espresso shots, is positioning itself as a more natural alternative to energy drinks and sugary coffee beverages.",
+      "url": "https://www.fooddive.com/news/just-ice-tea-caffeine-energy-drink-alternative/874372/",
+      "published_at": "2026-11-11T23:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "7de53631ebbc63e3",
+      "title": "Less protein may support longevity, major review finds",
+      "summary": "A review of 350+ studies suggests lower protein intake could aid healthy ageing, raising questions for protein manufacturers and longevity brands as the number of fortified products surges",
+      "url": "https://nutraceuticalbusinessreview.com/protein-restriction-longevity-review-ageing-intake",
+      "published_at": "2026-11-11T22:47:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
+    {
+      "id": "9867241e48914dee",
+      "title": "Hikma Ventures invests in Rem3dy Health to take 3D-printed supplements to seven MENA markets",
+      "summary": "The undisclosed investment pairs Rem3dy’s seven-layer personalised gummy technology with Hikma’s regional distribution network, with launches planned in the UAE, Saudi Arabia and Jordan in Q1 2027",
+      "url": "https://nutraceuticalbusinessreview.com/hikma-invests-rem3dy-health-supplements-3d",
+      "published_at": "2026-11-11T19:26:00+08:00",
+      "source": "Nutraceutical Business Review",
+      "region": "欧洲",
+      "category": "功能性食品",
+      "level": "B",
+      "language": "en"
+    },
     {
       "id": "818602f14ec25892",
       "title": "Why cell studies are becoming a key differentiator for ingredient suppliers",
@@ -13,6 +133,30 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "8a6c90a29aeaef6d",
+      "title": "ファミマのホットスナックのトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ファミマのホットスナック」の最新・注目度ランキングです♪（2026年11月6日更新）食品クチコミサイト「もぐナビ」に投…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-30241/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b1b3cfbda78f75aa",
+      "title": "今週新発売のコンビニラーメンまとめ！『ごま香る担々風ラーメンサラダ』、『１／２日分の野菜ピリ辛スタミナ白菜ラーメン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニラーメンの新商品情報をお届けします。今週新発売の#コンビニラーメンセブン-イレブン ごま香る担々風ラーメンサラダ玉ねぎ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111108/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "35fdcbe5e026adaa",
@@ -111,6 +255,18 @@
       "language": "ja"
     },
     {
+      "id": "0c7a04342f24a3cb",
+      "title": "今週新発売のホイップまとめ！『クレープケーキ　チョコ』、『生ドーナツ　ホイップ＆こしあん』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ホイップの新商品情報をお届けします。今週新発売の#ホイップローソン クレープケーキ チョコクレープ生地とチョコホイップの組み合…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111107/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "a22ffa16552aba93",
       "title": "【くら寿司】「ぶりととろ」フェア、寒ぶりやみなみまぐろ中とろ登場、QRクーポンで「寒ぶり」一皿無料に",
       "summary": "くら寿司は、「ぶりととろ」フェアを11月13日（金）から期間限定で開催する。冬の味覚である脂の乗った「寒ぶり」（税込280円）・「寒ぶりとろ（一貫）」（税込190円）、「みなみまぐろ中とろ」（税込280円）などを販売する...",
@@ -123,12 +279,36 @@
       "language": "ja"
     },
     {
+      "id": "bc16fa62da90d484",
+      "title": "【2026年11月第2週】コンビニホットスナックの新商品！ポークハムカツや抹茶ショコラあずきまんなどまとめ",
+      "summary": "今週のコンビニホットスナックコーナーに、個性豊かな新商品が揃って登場しました。ボリュームのある揚げ物系から、ほっこり温まる肉まん系、スパイシーな一品まで、バラ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30215/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T14:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "ab01dd4ab6e3c31c",
       "title": "ピックルスHDが恒例の子ども食堂食育ツアー開催 野菜収穫とキムチ作りを体験",
       "summary": "ピックルスホールディングスは11月7日、埼玉県内の子ども食堂を利用する児童らを招き、野菜の収穫やキムチ作りを体験する「子ども食堂食育ツアー」を開催した。今回は鶴瀬地区の「なかよし食堂」から親子ら27人が参加。農業体験を […] ソース",
       "url": "https://shokuhin.net/159988/2026/11/11/kakou/tsukemono/",
       "published_at": "2026-11-11T14:44:38+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7c48d64b70d88822",
+      "title": "【2026年11月第2週】コンビニスイーツの新商品！どらもっちやチーズケーキアソートなど旬の甘いもの続々まとめ",
+      "summary": "今週のコンビニスイーツは、定番のどら焼きやチーズケーキから、地域限定のプリン・シューまで、個性豊かな新商品が顔を揃えました。秋の深まりとともに、ほっこりとした…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30214/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T14:15:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -156,6 +336,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "87d1d758854cbdb6",
+      "title": "今週新発売の惣菜パンまとめ！『とんかつロール　チーズソース』、『鹿児島黒豚カレーパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンイトーパン とんかつロール チーズソース 袋1個ソースで味付けしたとんかつ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111106/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -219,6 +411,18 @@
       "language": "en"
     },
     {
+      "id": "8a449605044d7e37",
+      "title": "【2026年11月第1週】ドリンクランキング1位はとろり蜜芋フラペチーノ！秋の芋スイーツ＆新作アールグレイまとめ",
+      "summary": "秋の味覚がドリンクにも続々と登場し、今週のもぐナビ ドリンクランキングも旬の顔ぶれが勢ぞろいしました。さつまいもやかぼちゃのフレーバーが上位を賑わせる中、ファ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30081/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "9360185a361576c0",
       "title": "One death reported in relation to pumpkin patch outbreak in California",
       "summary": "San Luis Obispo County Public Health confirmed on Nov. 10, that one person tied to the E. coli O157 outbreak linked to Brookshire Farms has died. Department spokesman Tom Cuddy told The Tribune that…",
@@ -237,6 +441,18 @@
       "url": "https://shokuhin.net/159900/2026/11/11/kakou/pbf/",
       "published_at": "2026-11-11T12:47:01+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "ac5ff65c7d4b1c8e",
+      "title": "今週新発売の惣菜パンまとめ！『１００時間カレー監修バターチキンカレーパン』、『ポケモンＷチーズパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パン第一パン 100時間カレー監修バターチキンカレーパンカレー激戦区・神田神保…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111105/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T12:45:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -303,11 +519,35 @@
       "language": "ja"
     },
     {
+      "id": "71ca03d766331f60",
+      "title": "【2026年11月第1週】ドーナツ・パンランキング1位はさつまいもド 香ばしクレームブリュレ！ピカチュウ新商品も登場まとめ",
+      "summary": "2026年11月第1週のドーナツ・パンランキングが出揃いました。秋の深まりとともに、さつまいもを使ったドーナツや定番チョコ系が勢ぞろいした今週のラインナップ。…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30080/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "b57a238cd4e51f05",
       "title": "【2026年11月第1週】ドーナツ・パンランキング1位はさつまいもド 香ばしクレームブリュレ！ピカチュウ新商品も登場まとめ",
       "summary": "2026年11月第1週のドーナツ・パンランキングが出揃いました。秋の深まりとともに、さつまいもを使ったドーナツや定番チョコ系が勢ぞろいした今週のラインナップ。…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30080/?utm_source=rss&utm_medium=mognavinews_20261111",
       "published_at": "2026-11-11T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8388c8408faca772",
+      "title": "【2026年11月第2週】コンビニ惣菜の新商品！たことブロッコリーバジルサラダや白和えなどまとめ",
+      "summary": "コンビニ惣菜コーナーに、今週も個性豊かな新商品が並びました。野菜たっぷりのサラダからボリューム感のある鍋商品まで、バラエティ豊かなラインナップをぜひチェックし…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30213/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T11:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -327,11 +567,35 @@
       "language": "ja"
     },
     {
+      "id": "940f18ab7e9e36b5",
+      "title": "今週新発売の惣菜パンまとめ！『ドーナツステーション　ツナドーナツ』、『３種のチーズパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ドーナツステーション ツナドーナツ ディズニーキャラクター 袋1…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111104/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "0f4e1ed9ecf9afd5",
       "title": "今週新発売の惣菜パンまとめ！『ドーナツステーション　ツナドーナツ』、『３種のチーズパン』など♪",
       "summary": "こんにちは、もぐナビ編集部です！惣菜パンの新商品情報をお届けします。発売中の惣菜パンヤマザキ ドーナツステーション ツナドーナツ ディズニーキャラクター 袋1…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111104/?utm_source=rss&utm_medium=mognavinews_20261111",
       "published_at": "2026-11-11T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "dd8d068d86f31038",
+      "title": "【2026年11月第2週】コンビニスープ・コンビニ味噌汁の新商品！だんご汁やオニオングラタンスープなど個性派ぞろいまとめ",
+      "summary": "コンビニのスープ・味噌汁コーナーに、今週も個性豊かな新商品が揃いました。地元の食材や郷土料理にちなんだ一杯から、寒い季節にうれしいボリューム系まで、バラエティ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30212/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T11:15:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -351,11 +615,47 @@
       "language": "ja"
     },
     {
+      "id": "4c853a8f6ace4829",
+      "title": "【2026年11月第1週】スイーツ・デザートランキング1位はスタバの青森りんごアップルパイ！秋の新作スイーツまとめ",
+      "summary": "肌寒い季節にぴったりのスイーツが顔をそろえた2026年11月第1週のランキング。秋冬の定番から気になる新顔まで、もぐナビユーザーが実際に食べて評価した注目商品…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30079/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "53adee086290395f",
       "title": "【2026年11月第1週】スイーツ・デザートランキング1位はスタバの青森りんごアップルパイ！秋の新作スイーツまとめ",
       "summary": "肌寒い季節にぴったりのスイーツが顔をそろえた2026年11月第1週のランキング。秋冬の定番から気になる新顔まで、もぐナビユーザーが実際に食べて評価した注目商品…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30079/?utm_source=rss&utm_medium=mognavinews_20261111",
       "published_at": "2026-11-11T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c2d1fc66695285bb",
+      "title": "【2026年11月第2週】コンビニ麺・コンビニパスタの新商品！ラーメンサラダやきのこバター醤油パスタなどまとめ",
+      "summary": "今週のコンビニ麺・パスタカテゴリには、秋冬らしい温かいメニューからさっぱり系まで、バラエティ豊かな新商品が揃いました。セブン-イレブンを中心に地域限定品も多数…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30211/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "465a86382c59498f",
+      "title": "今週新発売の菓子パン🍫まとめ！『ドーナツステーション　もっちわ』、『ルレクチェデニッシュ　新潟県産ルレクチェのジャム使用』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！菓子パンの新商品情報をお届けします。発売中の菓子パンヤマザキ ドーナツステーション もっちわ ディズニーキャラクター 袋1個シ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111103/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T10:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -411,6 +711,18 @@
       "language": "ja"
     },
     {
+      "id": "5e2159d91f04a613",
+      "title": "【2026年11月第2週】コンビニサンドイッチ・コンビニパンの新商品！チキン＆チリやチョコクロワッサンなど注目作まとめ",
+      "summary": "今週のコンビニ・パン新商品は、たんぱく質を意識したヘルシー系からチョコ系スイーツパンまで、バラエティ豊かな10アイテムが揃いました。セブン-イレブン、ローソン…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30210/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T10:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "19d5b6dcb072c204",
       "title": "【2026年11月第2週】コンビニサンドイッチ・コンビニパンの新商品！チキン＆チリやチョコクロワッサンなど注目作まとめ",
       "summary": "今週のコンビニ・パン新商品は、たんぱく質を意識したヘルシー系からチョコ系スイーツパンまで、バラエティ豊かな10アイテムが揃いました。セブン-イレブン、ローソン…",
@@ -453,6 +765,18 @@
       "url": "https://shokuhin.net/159927/2026/11/11/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
       "published_at": "2026-11-11T10:03:25+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d35d44e1bf039d94",
+      "title": "【2026年11月第1週】レトルトカレーランキング1位は丸大食品 シェフの匠 バターチキンカレー！久しぶりランクインの銀座カリーも注目まとめ",
+      "summary": "2026年11月第1週のレトルトカレーランキングが出揃いました。定番の人気商品から久しぶりのランクインまで、今週も個性豊かな顔ぶれが並んでいます。さっそくトッ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30078/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T10:00:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -507,6 +831,30 @@
       "language": "ja"
     },
     {
+      "id": "48c26a33aa4a5ac2",
+      "title": "【2026年11月第2週】コンビニ寿司・コンビニ弁当の新商品！豚焼肉弁当唐辛子マヨやロースカツカレーなどまとめ",
+      "summary": "セブン-イレブンから、2026年11月10日に各地域でさまざまなお弁当・丼が登場します。ボリュームたっぷりのカツ系からヘルシー志向の野菜炒め丼まで、ラインナッ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30209/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "954fb54215e6fdaa",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『海老と根菜かき揚げの天丼』、『ＮＬ　ブランパン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ローソン 海老と根菜かき揚げの天丼…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111102/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "f87a13a12a7c1f68",
       "title": "【2026年11月第2週】コンビニ寿司・コンビニ弁当の新商品！豚焼肉弁当唐辛子マヨやロースカツカレーなどまとめ",
       "summary": "セブン-イレブンから、2026年11月10日に各地域でさまざまなお弁当・丼が登場します。ボリュームたっぷりのカツ系からヘルシー志向の野菜炒め丼まで、ラインナッ…",
@@ -537,6 +885,18 @@
       "url": "https://shokuhin.net/159887/2026/11/11/%e8%be%b2%e6%b0%b4%e7%95%9c%e7%94%a3%e6%a5%ad/%e7%b1%b3%ef%bc%88%e3%82%b3%e3%83%a1%ef%bc%89/",
       "published_at": "2026-11-11T09:40:36+08:00",
       "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d294fb083ad66548",
+      "title": "【2026年11月第2週】コンビニおにぎり・コンビニ手巻寿司の新商品！カリカリ梅たくあんやかにめし、紅鮭など個性派おむすびまとめ",
+      "summary": "今週のコンビニおにぎり・手巻寿司の新商品は、地域限定のこだわり素材を使ったひと品や、旬の味わいを楽しめるラインナップが揃いました。セブン-イレブンもファミリー…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30208/?utm_source=rss&utm_medium=mognavinews_20261112",
+      "published_at": "2026-11-11T09:15:00+08:00",
+      "source": "Mognavi",
       "region": "日本",
       "category": "综合",
       "level": "A",
