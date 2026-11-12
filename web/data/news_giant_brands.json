@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-11T22:51:14",
+  "last_updated": "2026-11-12T15:50:24",
   "retention_days": 7,
-  "total": 781,
-  "s_count": 56,
+  "total": 785,
+  "s_count": 57,
   "a_count": 8,
-  "b_count": 717,
+  "b_count": 720,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "年末年始に。“果物の女王”を使用した、甘くないのに華やかに香る「キリン 氷結&reg;無糖 マスカット オブ アレキサンドリア ALC.7％（期間限定）」登場",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1112_01.html",
+      "published_at": "2026-11-12T02:00:05",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.12湖池屋「金のポテト」キャラクター名投票キャンペーン (11月12日より開始)",
+      "url": "https://www.nissin.com/jp/news/13990/",
+      "published_at": "2026-11-12T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -507,6 +529,17 @@
       "summary": "Blue Buffalo™ Launches New Wilderness Bone Broth Boosted Cat Food with Two Ways to Serve: Wet or Dry",
       "level": "S",
       "level_reason": "新产品"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "2026년 10월 신제품을 소개합니다Food2026.10.31",
+      "url": "https://www.cj.co.kr/kr/newsroom/stories/detail/130",
+      "published_at": "2026-10-31T00:00:00",
+      "summary": "다양한 CJ제일제당의 소식과 업계 트렌드를 만나볼 수 있습니다",
+      "level": "B",
+      "level_reason": "企业动态"
     },
     {
       "brand": "Nissin",
@@ -8623,6 +8656,17 @@
       "url": "https://www.generalmills.com/news-and-stories/press-releases/blue-buffalos-love-made-fresh-gives-dogs-a-seat-at-the-thanksgiving-table",
       "published_at": "",
       "summary": "Because dogs are family, the Blue Buffalo Dinnerware Collection includes salad plates, dinner plates and a matching dog bowl and a coupon for free Love Made Fresh.",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "매일경제‘한국의 바다’ 요리할 글로벌 셰프 키운다",
+      "url": "https://www.mk.co.kr/news/economy/12205431",
+      "published_at": "",
+      "summary": "Food & Beverage Magazine",
       "level": "B",
       "level_reason": "企业动态"
     }
