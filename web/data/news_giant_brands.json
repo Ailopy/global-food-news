@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-12T23:42:38",
+  "last_updated": "2026-11-13T15:27:47",
   "retention_days": 7,
-  "total": 785,
+  "total": 787,
   "s_count": 57,
   "a_count": 8,
-  "b_count": 720,
+  "b_count": 722,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,39 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-11-13T00:00:00",
+      "summary": "2026年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "2026年12月期 第3四半期 決算業績について",
+      "url": "https://www.asahigroup-holdings.com/newsroom/detail/20261113-0101.html",
+      "published_at": "2026-11-13T00:00:00",
+      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Yakult",
+      "brand_cn": "养乐多",
+      "region": "日本",
+      "title": "2026.11.13ニュースリリースＩＲ情報決算短信",
+      "url": "https://www.yakult.co.jp/maintenance/news/pdf/20261113.pdf",
+      "published_at": "2026-11-13T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -76,17 +109,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1111_02.html",
       "published_at": "2026-11-11T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-11-11T00:00:00",
-      "summary": "「サステナビリティレポート」「People & Cultureレポート」「コーポレートガバナンス・レポート」発行のお知らせ",
       "level": "B",
       "level_reason": "企业动态"
     },
