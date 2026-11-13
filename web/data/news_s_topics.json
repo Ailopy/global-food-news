@@ -1,23 +1,23 @@
 {
-  "total": 319,
+  "total": 321,
   "s_plus_count": 43,
   "sites": [
     "Packaging Digest",
-    "Food Dive",
-    "日経xTrend",
     "日経新聞",
+    "日経xTrend",
+    "Food Dive",
     "朝日グループYouTube"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
     "新产品": 59,
-    "其他": 158,
+    "其他": 159,
     "营销创新": 18,
     "并购融资": 6,
-    "联名营销": 13,
+    "联名营销": 14,
     "品牌故事": 37,
     "新包装": 11,
     "新原料": 3,
@@ -25,8 +25,8 @@
     "行业政策": 7,
     "新技术": 2
   },
-  "last_updated": "2026-11-13 15:28",
-  "last_updated_iso": "2026-11-13T15:28:04.851118+08:00",
+  "last_updated": "2026-11-14 00:51",
+  "last_updated_iso": "2026-11-14T00:51:05.326321+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -205,6 +205,28 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
+      "title": "Shopifyイベントで明らかにされた、AIコマースの影響",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44NU5iWnM0SmFEZXM1MmxoVnFiYWhseXFWdE1DT0k3N0p5Zm5YT1otcEMwYjk5ZHF1UHBkRkhYTUhDVTdSUjFoT3FqbGhpMTNUanJuTUJjOE9LSjBSVlpIRFBqUXUyQQ?oc=5",
+      "summary": "Shopifyイベントで明らかにされた、AIコマースの影響&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-12T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-14T00:50:43+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
       "title": "「キリンでは作れない」と言われたクラフトジン 5年で売り上げ10倍",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zTXJuck0wYVRaMjYxajI4M0VmLXpDWWVCY2lrc0dnZjJhZlYxMFFVQnJFME8yUXdGTkdmUmF2VEtIY3RreExreW5oRWg2cEJPT0pVRmIweHpTWEtpQWdQT0dXSUpMQQ?oc=5",
       "summary": "「キリンでは作れない」と言われたクラフトジン 5年で売り上げ10倍&nbsp;&nbsp;日経クロストレンド",
@@ -375,6 +397,28 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-11-12T00:45:24+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "集英社、JETRO×ゲーム、サントリー・伊藤園・宝酒造も出展 英国HYPER JAPANの商機",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEOEdTUmR2TWp4am1HaXVZaFowQWdWekF6RTdyd1g0LS00aFZXc1kyQ2hNa0NUTFU5aHc2dnMxNlZRSFR0WFZWSUtscC1ZSlJzb3BqOEVrOHJBSUc2NjJkVm1mOFNGdw?oc=5",
+      "summary": "集英社、JETRO×ゲーム、サントリー・伊藤園・宝酒造も出展 英国HYPER JAPANの商機&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-11T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-11-14T00:50:43+08:00"
     },
     {
       "site_name": "日経xTrend",
