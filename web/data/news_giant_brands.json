@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-13T15:27:47",
+  "last_updated": "2026-11-13T20:02:51",
   "retention_days": 7,
-  "total": 787,
+  "total": 788,
   "s_count": 57,
   "a_count": 8,
-  "b_count": 722,
+  "b_count": 723,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,17 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "12月30日（水）「キリンチャレンジカップ2026」開催中止のお知らせ",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1113_01.pdf",
+      "published_at": "2026-11-13T08:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Asahi",
       "brand_cn": "朝日",
