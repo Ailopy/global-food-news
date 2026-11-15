@@ -1,33 +1,281 @@
 {
-  "total": 321,
-  "s_plus_count": 43,
+  "total": 332,
+  "s_plus_count": 49,
   "sites": [
-    "Packaging Digest",
     "朝日グループYouTube",
+    "日経xTrend",
     "日経新聞",
     "Food Dive",
-    "日経xTrend"
+    "Packaging Digest"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
-    "新产品": 59,
-    "其他": 159,
+    "渠道新物种": 6,
+    "新产品": 65,
+    "其他": 163,
     "营销创新": 18,
     "并购融资": 6,
     "联名营销": 14,
     "品牌故事": 37,
     "新包装": 11,
     "新原料": 3,
-    "渠道新物种": 5,
     "行业政策": 7,
     "新技术": 2
   },
-  "last_updated": "2026-11-15 15:19",
-  "last_updated_iso": "2026-11-15T15:19:54.601663+08:00",
+  "last_updated": "2026-11-15 23:57",
+  "last_updated_iso": "2026-11-15T23:57:57.958129+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "デニーズ、真っ二つのパフェがヒット PR部長が商品開発者になった日",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01313/00015/?n_cid=nbpnxr_rss",
+      "summary": "その甘さで消費者を幸せな気持ちにさせるスイーツのヒット商品は、近年、コンビニエンスストア発というケースが多い。しかし、この2026年にスイーツ好きの注目を一手に引き受けたのは、ファミリーレストランから誕生した斬新なパフェだ。一見、“奇妙”なスイーツを生み出した「非」商品開発者の仕事術を解き明かす。",
+      "published_at": "2026-11-16T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "渠道新物种",
+      "scraped_at": "2026-11-15T23:57:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【ヒット商品25～28位】レイバンも中華系も売れたAIスマートグラス",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00013/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。25位は愛らしさがストレスの癒やしになる「ローテクペットロボ」。26位は米国の歯科医が開発した口臭ケア用マウスウオッシュ「ザ・ブレスコ」。26年8月末時点で累計出荷数130万個を突破した。27位は“もちとろ触感”が支持を集めた「水感スクイーズ」。特に「メロジョイ」が業界をけん引している。28位は「日常系AIスマートグラス」。クラウドファンディングで6億円超を集め、話題となった商品も。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。",
+      "published_at": "2026-11-16T00:01:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-15T23:57:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "26年12月、「PlayStation Portal プレーヤー」発売 未来消費カレンダー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00255/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年12月10日「携帯型ゲーム機『PlayStation Portal』 プレーヤー」発売ほか18件の情報を追加した。",
+      "published_at": "2026-11-16T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-15T23:57:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "米国本社破綻もルンバ ミニはヒット 山田毅社長のChatGPT“妄想開発”",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01313/00013/?n_cid=nbpnxr_rss",
+      "summary": "日本ではロボット掃除機の代名詞となっている「ルンバ」。しかし、開発元の米アイロボットは2025年12月に米連邦破産法第11条の適用を申請するなど、苦しい状況にあった。そんな中、26年2月に日本で先行発売した「ルンバ ミニ」が大ヒットしている。グローバル企業でありながら、日本向けの企画をなぜ通せたのか。同モデルを発案したアイロボットジャパンの山田毅社長に、発想と社内交渉のプロセスを聞いた。",
+      "published_at": "2026-11-16T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-15T23:57:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "日本酒拡販の秘策は「だし割り」 酒販店や昆布茶が仕掛ける需要創造",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/03001/?n_cid=nbpnxr_rss",
+      "summary": "商品の価値を訴求するだけでは市場は広がらない。日本酒市場が縮小するなか、酒販各社が立ち上げた「出汁割りプロジェクト」が始動した。Z世代や訪日客を中心に、だしで割る飲み方で新たな飲酒体験を提案する。また、昆布茶メーカーも酒類向け商品を投入。飲み方の革新による需要創造の可能性を探る。",
+      "published_at": "2026-11-16T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "仕掛け",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-15T23:57:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "1位は「業績不振の資生堂が頼った90歳の開発者 “グミ洗顔”が計画比2.4倍の好調」 ちょうど1年前振り返りランキング",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00139/?n_cid=nbpnxr_rss",
+      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年11月16日～12月13日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
+      "published_at": "2026-11-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-15T23:57:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【ヒット商品21～24位】Vlog共有SNS「setlog」に若者が熱狂した理由",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00012/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。21位はSNSの新顔「setlog」。26年5月には133万ダウンロードを記録した。22位は「中が見えるエアフライヤー」。調理の様子を確認しながら、卓上で手軽にほったらかし調理ができる。23位は約6週間にわたってカビの発生を抑える「マジックリン お風呂にピタッ」。24位は「韓流メガサイズコーヒー店」。顔よりも大きなサイズのドリンクがSNSで話題を集めた。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。",
+      "published_at": "2026-11-16T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-15T23:57:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【ヒット予測23～26位】未来のレモンサワーの次？ 本物の梅干しRTD",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00014/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。梅干しを後入れして楽しむRTD、温熱・振動で足をケアする電動サンダル、袋麺をその場で調理する新型マシン、荷物の受け取りでポイントがたまるサービス。2027年のヒット予測には、体験価値やポイ活といった消費者ニーズを巧みに取り込む商品・サービスが並ぶ。日常の何気ない行動を新たな市場へ変える発想に注目したい。",
+      "published_at": "2026-11-16T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "体験価値",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-15T23:57:44+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「消せるボールペン」実は欧州生まれ バリエーションで価値広める",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01103/00007/?n_cid=nbpnxr_rss",
+      "summary": "2006年に欧州で先行発売、翌年に日本で発売した「フリクションボール」。「消せる」という独自価値を提案し、「フリクション」は定番ブランドに成長した。今も、使用シーンに合わせて商品ラインアップを増やし、その価値を広め続けている。",
+      "published_at": "2026-11-16T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-15T23:57:44+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "【ヒット予測23～26位】未来のレモンサワーの次？ 本物の梅干しRTD",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemhlc2VUcEpHcnVjdVlVRzk0bC0xYzVLdTNGWVJwQThzTWZKZFJNc1pYWndOSkFhTDRwOUdQQk56ZFBKZXJ1UkhTUGotSXp1QWt6bW8yaHUwWWZldUQzZ3gxSFVReXlPZG1GWHJ1cUszUjR5NVcxdkpFeE1LWWZFZ1E2bXE5TWx4MHlSVG5PUQ?oc=5",
+      "summary": "【ヒット予測23～26位】未来のレモンサワーの次？ 本物の梅干しRTD&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-15T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-15T23:57:41+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米国本社破綻もルンバ ミニはヒット 山田毅社長のChatGPT“妄想開発”",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1hpQ2Vsbldpa2hSWTIyMkZaY25hYWVrNmhpVld3SlNYYW5aeE9wN24tXzRVSUlKSDV6QnN1aWtiYmJSblpVVllDV1psY2VEWEVKLWY1WlFsRlNRNXd4WHdSYmhIdlFYUWNfbzZkRDBrOTJIT3RydHNwWVR6dFNHUGp5WExpaWtiUlZaU3BYOA?oc=5",
+      "summary": "米国本社破綻もルンバ ミニはヒット 山田毅社長のChatGPT“妄想開発”&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-15T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-15T23:57:41+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
