@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T12:39:19.176357+08:00",
-  "total": 14439,
+  "last_updated": "2026-11-15T19:51:54.131835+08:00",
+  "total": 14441,
   "articles": [
     {
       "id": "123e7c90a8b59a25",
@@ -321,6 +321,18 @@
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30351/?utm_source=rss&utm_medium=mognavinews_20261114",
       "published_at": "2026-11-14T15:00:00+08:00",
       "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e39fc95ae3cb23c9",
+      "title": "創業111周年迎えた杉本屋製菓　「未来へ踏み出す年にしていく」古田盛彦社長が意欲　フルタ製菓との共創で売上高倍増を計画",
+      "summary": "2022年12月にフルタ製菓グループ入りした杉本屋製菓（愛知県豊橋市）は、フルタ製菓との共創を加速させるなどして売上高を現在のほぼ倍増となる60億円へと引き上げていく。目標達成の期限を設けず顧客接点拡大に邁進していく。 […] ソース",
+      "url": "https://shokuhin.net/159240/2026/11/14/kakou/kashi/",
+      "published_at": "2026-11-14T14:06:27+08:00",
+      "source": "食品新聞",
       "region": "日本",
       "category": "综合",
       "level": "A",
@@ -1152,6 +1164,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "7100171a7e1b82c3",
+      "title": "片岡物産「匠のカフェオレ」2ケタ伸長続く 「砂糖以外の甘味料不使用」に支持拡大",
+      "summary": "片岡物産の「匠のカフェオレ」シリーズ=写真=が好調だ｡数量･金額ともに前年同期比二ケタ増が続いており､「今後も計画以上の需要が見込まれる」(片岡物産)という｡ 支持が広がっている背景には､原材料へのこだわりがある｡「 […] ソース",
+      "url": "https://shokuhin.net/160075/2026/11/13/inryou/inryou-inryou/%e5%97%9c%e5%a5%bd%e9%a3%b2%e6%96%99/",
+      "published_at": "2026-11-13T14:16:04+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
