@@ -1,32 +1,32 @@
 {
-  "total": 332,
-  "s_plus_count": 49,
+  "total": 289,
+  "s_plus_count": 44,
   "sites": [
-    "朝日グループYouTube",
     "日経xTrend",
-    "日経新聞",
     "Food Dive",
+    "日経新聞",
+    "朝日グループYouTube",
     "Packaging Digest"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
     "渠道新物种": 6,
-    "新产品": 65,
-    "其他": 163,
-    "营销创新": 18,
-    "并购融资": 6,
-    "联名营销": 14,
-    "品牌故事": 37,
-    "新包装": 11,
-    "新原料": 3,
-    "行业政策": 7,
-    "新技术": 2
+    "新产品": 61,
+    "其他": 139,
+    "营销创新": 15,
+    "并购融资": 5,
+    "联名营销": 11,
+    "品牌故事": 36,
+    "新包装": 10,
+    "新原料": 1,
+    "行业政策": 4,
+    "新技术": 1
   },
-  "last_updated": "2026-11-15 23:57",
-  "last_updated_iso": "2026-11-15T23:57:57.958129+08:00",
+  "last_updated": "2026-11-16 15:27",
+  "last_updated_iso": "2026-11-16T15:27:22.558973+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -275,6 +275,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-15T23:57:41+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "【ヒット予測23～26位】未来のレモンサワーの次？ 本物の梅干しRTD",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01UmxIMVBHMVRfanpOeGtSRWJpNWZQcUI4NDJWMXYtNVk1NmNHMnBLbXBJb3B6Z2JBdDZPQmFkMzJnUUN0NlVBTlJhUll0WGZrNnBwQUFoSXFrVXdNUjhzZktJdEtTZw?oc=5",
+      "summary": "【ヒット予測23～26位】未来のレモンサワーの次？ 本物の梅干しRTD&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-15T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-16T15:27:08+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米国本社破綻もルンバ ミニはヒット 山田毅社長のChatGPT“妄想開発”",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10c0cxLWJaNjg3NGo4Vm5BbjQ3WkI0dDVTSmZybXdJeXJTSVFJUGl3T25WZWNRVnpUN3RTOW9Jc0ZCT1Axa0Z2NF9FdVJIcm95enRTTWNyXzRSeGlaVmR0SnhzbTJlQQ?oc=5",
+      "summary": "米国本社破綻もルンバ ミニはヒット 山田毅社長のChatGPT“妄想開発”&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-15T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-16T15:27:08+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -5302,50 +5346,6 @@
       "scraped_at": "2026-10-18T13:15:04+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "なぜ認知No.1商品が負けるのか？ マーケターが知らない小売の論理",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01092/00015/?n_cid=nbpnxr_rss",
-      "summary": "認知度が高く、広告も成功しているのに売り上げにつながらない。そんな現象の背景には、多くのマーケターが見落としがちな「小売の論理」がある。日経クロストレンド新刊『モノが棚に並ぶしくみを言語化する』は、イトーヨーカドーや西友での実務経験を持つ富永朋信氏が、商品が店頭に並び、消費者の手に渡るまでの仕組みを解説。チェーンストアの意思決定や棚割りの実態から、「買いたい」と「買える」の間にある壁を読み解く。",
-      "published_at": "2026-10-16T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "東京駅の京葉線は有楽町から 羽田、成田、ディズニーへの最得ルート",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01491/00007/?n_cid=nbpnxr_rss",
-      "summary": "2026年10月2日発売の「日経トレンディ2026年11月号」では、「細かすぎる東京駅最新案内2026」を特集。空の玄関・成田空港、羽田空港へ。あるいは東京ディズニーリゾートや、渋谷の繁華街へ──。日本の交通の中心である東京駅からは、都内及び近郊の定番スポットに向かうルートが無数に伸びている。特に需要の高い定番スポットをピックアップし、“速”“安”“楽”の観点からそれぞれの“最得ルート”を探った。なお、本文の最後には各ルートの詳細を「日経トレンディ」誌面そのままに確認できるリンクを用意した。ぜひ活用してほしい。",
-      "published_at": "2026-10-16T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5368,50 +5368,6 @@
       "scraped_at": "2026-10-17T20:33:55+08:00"
     },
     {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Q3 Food Recalls: Label Mistakes &amp; Foreign Materials",
-      "url": "https://www.packagingdigest.com/food-safety/q3-food-recalls-label-mistakes-foreign-materials",
-      "summary": "Beyond the food-borne illness headlines, there were several packaging-related FDA and USDA recalls in the food and beverage sector.",
-      "published_at": "2026-10-15T15:15:45Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 2
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-10-16T11:40:41+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "2026年マイヒット商品は、「ほったらかし」マシン 肉乃小路ニクヨ",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0hXanlpRTF5NVljNVpzTnpjNkhTalFsT2xsU0JHQlFpM0JILVBTNEREeEtFLWRrd1dvRzlXYnZTSVFTRFpQd1kyV25hNjVKbzhtV1ZVanp3eS04ZFRTQ3NEcC1GN05tU0FjWnpVbFZ1TUlUSS12MW5uRGl4VzJINm5HbGEwTG8zWlRKSQ?oc=5",
-      "summary": "2026年マイヒット商品は、「ほったらかし」マシン 肉乃小路ニクヨ&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-10-15T15:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5432,150 +5388,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-22T22:13:16+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "大ヒット、花王“肉球”日焼止めのN＝1開発 平均では見えない顧客の本音",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01484/00005/?n_cid=nbpnxr_rss",
-      "summary": "「マーケター・オブ・ザ・イヤー2026」、4番目に紹介する受賞者は、花王 ヘルスビューティケア事業部門 スキンケア事業部 ブランドダイレクターの小林達郎氏と、グローバルコンシューマー部門 作成センター 第2ブランドクリエイティブ部 クリエイティブディレクターの鈴木愛佳氏。両氏が手掛けた子ども向け日焼け止め「ビオレ キッズスタンプUV」は、肌に押し当てると猫の“肉球”の形で日焼け止めが出てくる仕掛けで、計画比2倍の売り上げを記録した。子どもが嫌がる機能商品を、なぜ「自分で使いたい」商品に変えられたのか。生活者観察から生まれたN=1開発の舞台裏に迫る。",
-      "published_at": "2026-10-15T00:01:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "大ヒット",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "アルコール飲み放題のラウンジも 東京駅の“穴場”ワークスペース",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01491/00006/?n_cid=nbpnxr_rss",
-      "summary": "2026年10月2日発売の「日経トレンディ2026年11月号」では、「細かすぎる東京駅最新案内2026」を特集。実は東京駅の構内や周辺には、電源やWi-Fiを備えた無料スペースから、個室や会議室を完備した有料施設まで、いくつものワークスペースが点在している。さらに、通話禁止で集中できる施設や、アルコール飲み放題で仕事以外の時間も楽しめる“穴場”も存在する。東京駅を単なる移動拠点ではなく、「第2の仕事場」として使いこなすための最新活用術を紹介する。なお、本文の最後にはマップで位置が確認できる「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
-      "published_at": "2026-10-15T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "米大手小売りがChatGPTと相次ぎ連係 レシピを開くだけで食材を一括購入",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00109/00235/?n_cid=nbpnxr_rss",
-      "summary": "対話型AI上で完結する購買体験を好み始めた生活者をいち早く狙え——。米国小売業界で今、米OpenAIがChatGPTで用意するプラグインを生活者との接点に生かす動きが強まっている。いずれ日本に上陸する最新トレンドは、消費のあり方をどう変えようとしているのか。",
-      "published_at": "2026-10-15T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "エスティ ローダーがWPPと組んだ理由 AI時代のブランド構築を議論",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01405/00027/?n_cid=nbpnxr_rss",
-      "summary": "AI技術が急速に進歩し、消費者行動も大きく変化している。マーケティングを取り巻く環境は、もはや従来の「ファネル」では捉えきれないほど複雑化した。米大手化粧品ブランド「エスティ ローダー」のオード・ガンドン氏は、その変化の中心で組織を束ね、データ活用とブランド構築を推進している。マーケティングリーダーシップの専門家であるトーマス・バルタ氏が、AI時代のブランド構築とリーダーシップのあり方について議論した。",
-      "published_at": "2026-10-15T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "米マクドナルドが広告事業に参入 店舗メディア化で1600億円の収入狙う",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00007/?n_cid=nbpnxr_rss",
-      "summary": "米マクドナルドが店舗のキオスク端末やアプリを活用した新たな広告メディアの構築を公表した。膨大な顧客データと世界規模の店舗網を生かし、広告収入10億ドルを目指す。非小売系コマースメディアは、米Amazon.comなどリテールメディアに続く新たな広告市場を生み出すのか。米有力誌「ADWEEK」が解説する。",
-      "published_at": "2026-10-15T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "欧米視点で売るだけでは通用しない アジア成長をつかむ3つの条件",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00894/00020/?n_cid=nbpnxr_rss",
-      "summary": "世界のイノベーションにおけるアジアの存在感が高まっている。成長を支える分野は、ロボットなどの新技術から、食文化、化粧品やK-POPなどのカルチャーまで広がる。マーケターはアジアを単なる販売先ではなく、ビジネスや消費行動を生み出すアイデアの源泉として捉え直す必要がある。マーケティングリーダーシップの専門家、トーマス・バルタ氏が解説する。",
-      "published_at": "2026-10-15T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新技术",
-          "icon": "⚡",
-          "color": "#0891b2",
-          "score": 1
-        },
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "新技术",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5604,56 +5416,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "食品・飲料（92ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLZXNWOGltUXJFb3ByMkRWOHV3UkxGYWRHVWhpZHl0YWh2eEN2U1hHcWFHeUcwc1RDa2NmS3lXbmx3dmRBRWtrRFdtRTlTMkRhM0JjcWFtZHZob20tdThvamFNdlEydw?oc=5",
-      "summary": "食品・飲料（92ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-14T22:11:48Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Turns Out, Sustainable Packaging is Complicated",
-      "url": "https://www.packagingdigest.com/sustainability/turns-out-sustainable-packaging-is-complicated",
-      "summary": "At the Sustainable Packaging Coalition’s fall conference, I learned there’s a real difference between a sustainable material and a sustainable system. And the hard, unglamorous work of building the latter — through economics, regulation, and consumer trust — is where actual progress happens.",
-      "published_at": "2026-10-14T20:56:52Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 2
-        },
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-10-16T11:40:41+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（293ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qVVpfbnNQNk9vVEkzcWdlLUQtdzZZTUM4aFdQQWp2a21Zd3d3WHBST1RBZ0Nsa0dhVFVoOVRRNFhtOEktY1kyZXZ1RTZYUHd1aF9uQ3N0bzVZbE1Ua25DVUN0dTNRb1E?oc=5",
       "summary": "食品・飲料（293ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -5670,94 +5432,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-25T13:27:12+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "大ヒットの「ビオレ キッズスタンプUV」。肉球型スタンプが誕生するまでにどのような生活者リサーチがあったのか",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12VC1yYjhLeWFqSHFMRTBGWHRqMkluQ1Y3ajJ4ZkJsSktrejI2ZmpTVG9sdTk3Mm92bGxVbEUxRlFEVC1tbTRCWExMS0t3WlZ4S2RmblJjdERpRGNkWnJ4TGRWX2RBZw?oc=5",
-      "summary": "大ヒットの「ビオレ キッズスタンプUV」。肉球型スタンプが誕生するまでにどのような生活者リサーチがあったのか&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-14T15:01:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "大ヒット",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "米大手小売りがChatGPTと相次ぎ連係 レシピを開くだけで食材を一括購入",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnVMN2ZvMUVFVVFsTDFncVVpdXJ3SEpTQ3ZTQkdWWXNJRUxjU2tzWE5ncDlENm9iMm9fV3l0VHhUSVR4MnRUMTM1SzYybnBfSlpGcGVVZG1BXzlidnhKcHBsYmw3RDlteS1DcElqUk9XUWx3Wld5c1hxNWNEdVZXdnVsYWpOUkZUY0Zz?oc=5",
-      "summary": "米大手小売りがChatGPTと相次ぎ連係 レシピを開くだけで食材を一括購入&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-14T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "日清食品",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lXy1vUzVNX1BQSGd1OWNuT0Z4OVlreFdDYnViV20zZzdCci1fdlgtNkRJNzJMT0wyQnAwYlM5RzBOM1dHdE1IQlVVbmF3dExGV1N5dFhvMXE5T29hZjYwQ09iNVJhZw?oc=5",
-      "summary": "日清食品&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-14T10:39:51Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（229ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DZkhpbUZIWFpNT2tvSHNZSzQ0OGNmeVZFUTJzeUNpV255MElSc2d6OVY0U3daVldDNE9ybHREMlpTUkV2RXdDYlZlRHloLUg3dXQ1ZXBaS1VKMHlVbExVcmdmbW1FMEE?oc=5",
-      "summary": "食品・飲料（229ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-14T03:35:39Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
     },
     {
       "site_name": "朝日グループYouTube",
@@ -6135,188 +5809,6 @@
       "channel_name": "朝日グループYouTube"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "「あっさり」と「特盛」が同時に伸びた 日経POSで探る麺市場の異変",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01492/00001/?n_cid=nbpnxr_rss",
-      "summary": "「令和の米騒動」で米の価格が高かった2年の間に、うどん、パスタ、即席麺などの麺類は存在感が一気に増した。とはいえ、その内側では激しい入れ替わりや新興勢力・コラボなどの台頭が起きている。今、本当に売れているのはどのような商品なのか。今後も麺類は伸び続けるといえるのか。日経POSデータの販売実績で検証した。",
-      "published_at": "2026-10-14T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "コラボ",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ヤエチカ→東京駅が遠回り？ 羽田や渋谷などへの最速ルート6選",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01491/00005/?n_cid=nbpnxr_rss",
-      "summary": "2026年10月2日発売の「日経トレンディ2026年11月号」では、「細かすぎる東京駅最新案内2026」を特集。高速バスで東京・八重洲に到着した後、わざわざJR東京駅を目指す必要はない。ヤエチカを中心に、「東京ミッドタウン八重洲」や新施設「TOFROM YAESU」へ地下通路が広がり、宝町、京橋、日本橋の各駅がより身近になった。羽田空港や渋谷へ乗り換えなしで向かうルートから、意外に迷いやすい美術館への道順まで、八重洲の地下街の賢い歩き方を紹介する。記事の後半には、写真入りのマップを確認できる誌面のPDFへのリンクを用意した。ぜひ活用してほしい。",
-      "published_at": "2026-10-14T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "コーヒーとタピオカ 捨てた選択と集中 ゴンチャV字回復にNPS運用の徹底",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01484/00002/?n_cid=nbpnxr_rss",
-      "summary": "台湾発のお茶専門店「ゴンチャ」が、日本で異例の成長を続けている。かつてタピオカブームの終息とコロナ禍が重なり、売上高はピーク時の3分の1以下まで落ち込んだ。そこからわずか数年で、日本事業が世界トップの売り上げに駆け上がろうとしている。その変革を主導したのが、「マーケター・オブ・ザ・イヤー2026」受賞者2人目である、ゴンチャジャパン代表取締役社長の角田淳氏だ。看板商品だったタピオカを主役から外し、コーヒーの提供もやめた。思い切った決断の裏に、どんな勝算があったのか。",
-      "published_at": "2026-10-14T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:29+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（208ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91aWJXcHBZNG9oSG5abUJzTzNTV3VYV1ZqcTN2cXN5VWNBc2t6REk0bm9vTUJGUHpoODNGeTZSOTRuYzNzUXZaUFRCX193VDlBeW1YUU8xRW9wUGhJTFdxX2h1U21oWWs?oc=5",
-      "summary": "食品・飲料（208ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-13T23:22:54Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（146ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FcUxfb3lDQkw2ZmdJZlFJVHRoTVlyWXpBbVUxT0RzVl9rNDdSQkN4MU9iUTAtWXdxLUtYVnR6U3dpYmdlTXNhRXZ6QndSaG5VM3lHQ3JxdWI2LUFkS2luWk5UV3h0aUE?oc=5",
-      "summary": "食品・飲料（146ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-13T22:48:35Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "9 Co-Branded Food &amp; Beverage Mashups Creating Buzz in 2026",
-      "url": "https://www.packagingdigest.com/packaging-design/9-co-branded-food-beverage-mashups-creating-buzz-in-2026",
-      "summary": "Cheez-It x Coors Light, Mountain Dew x Trolli, and more unexpected co-branded launches are creating buzz and standing out in a crowded retail marketplace.",
-      "published_at": "2026-10-13T20:01:34Z",
-      "is_s_plus": true,
-      "s_plus_reason": "co-branded",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 3
-        },
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-10-16T11:40:41+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（226ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxZXFTLVMtOWduX09qZTNZZElWZjM3MndBRFlIc0RSSVQtN01aMkFNWkZJMmMwS1lXbDY4N2RJRUhtTmpXRWlGbFk5dmZCUVFkZmhMLWlOZ3RlQ2p5blVQX1ZtTnNIVlE?oc=5",
-      "summary": "食品・飲料（226ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-13T18:52:03Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（273ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XUFdvS0lmYXB5amNBY0tyYnNIVkNNVEdqVTZ3OTZwcGZoeGNsTkhZOVVqVGtMS0J1a3RxN3UzdzJtdW96dWwwaWdCdEhWd1h3ekkzR1RUX3RKUHA2MGdHX3ZnNlJJVGc?oc=5",
-      "summary": "食品・飲料（273ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-13T18:49:03Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -6337,94 +5829,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-25T13:27:12+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（280ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5Nk9DSUo4SGIzdkxTQXBmOFBHNmJRazV2T2xFNXBmc2ZFT3VpdHhCUXBBRDNoclBVWGZkMFR2N1BTRVl2T1poZGg5M2dMeWc4UGVUWE9XSHZ0MjhXUDB5U05UUGJRUEU?oc=5",
-      "summary": "食品・飲料（280ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-13T16:36:23Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（291ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MajZ3QVhDSGpiTzg1LVZrQ1F6dFBvbkl4VjM3UGRYaTJkSWtOZVN5ZWd6ODFoX1VSajZpNjFHN0hvSGhLWnU1S1o5SlYyWjB4eGVOcEF2SS04a2dZSjZBVVlxb21uaXM?oc=5",
-      "summary": "食品・飲料（291ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-13T16:36:22Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（216ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wTUZHZkMyQU5JN3JKTE51TV9DNUFxak1FTl81THdBaFpIYjVHOFMycTRfMllHWVJDOHNCM1JNUmJETE54M0M0eC03T1BFbHdEaUViOHVTb1hhOVhKN3lvMXB3LWwxQms?oc=5",
-      "summary": "食品・飲料（216ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-13T15:05:52Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "“マツケンまみれ”のシーパラが集客26％増 驚愕のコラボ成功の全貌",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkNWbEc2S1JmOXM3QWVVMWdJb21PLXZIM0duWlBLeGVhUTdZa0s1MF80VHZJMzVmbWhQLUw1OWVDT3lrbkxGVE9IZl9qU0Z0SnhnNW02UVN0c1ZDRS1VdVRSVGlZdFdZRE5MZFpkcG1aOEhnRmdkQXgxRzRLZnBjY0ZNb0pnc1IwOUtKZG81NXNJNUNJ?oc=5",
-      "summary": "“マツケンまみれ”のシーパラが集客26％増 驚愕のコラボ成功の全貌&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-13T15:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "コラボ",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -6491,160 +5895,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-25T21:26:37+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（143ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54aWZvelBPSjhEdEV2VTFkQ2hVY1JTZDdtRzQ5UElSX2N4Zy1SZ0x1WkJxVTFTdzFVSVdHeFRvU0dCWWk0Qm40RUNmMXByYjVjWC1XblNWRHZ3bDkwSEo5S1NDd2tHazA?oc=5",
-      "summary": "食品・飲料（143ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-12T21:39:59Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（214ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVjU0b3MyTDY4UVphS2lBMjJmMDBUeGIzRUJOQVZFbjdEWjBjRFNST09FaDRUaGRianFsckltbTlGa3NyNjZKVGZjV0xZLTFzZXM0aHdhRVdlS1cwanU5UmRGbDhvVHc?oc=5",
-      "summary": "食品・飲料（214ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-12T18:11:27Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（258ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zQWU5SGM2NjBGZURvWUR0cHdMTjJUQmZtTl9YM3ZNYzVha3M1MExUWlNzS0JPdEtPejFjMEk1U3VZdTFVaFhXVThmOG1nUm9yTkNfS0ZCTkphMndYSlFYZG9PRGxEX2s?oc=5",
-      "summary": "食品・飲料（258ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-12T17:58:42Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（305ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yYmlNeWw4ekJsR19EcHZwUEprYkptdFNSSGRQYTFPUWJ5ajJtbi1seDdRelBJdzN1MFExTXBVbVNsaVdQSHJicnRVaWFpNFRsZGladnlzSi1feEMxLUhFeC00TVF5SVk?oc=5",
-      "summary": "食品・飲料（305ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-12T17:14:36Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（316ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94b3VnaXZKc18yLU91NU15bngtUXRxQVNTd3JzLXo3LWRYMGNvTmlub1FWN3VZaWV6WkRIMGdTdDRRaksxQThSWTlfcVlxSDBORUdfaVRERUJlM0Iya3hCdGQ1M3F6M1k?oc=5",
-      "summary": "食品・飲料（316ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-10T13:33:24Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
-    },
-    {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "New Packaging Strategies for At-Home Diagnostic Kits",
-      "url": "https://www.packagingdigest.com/pharma-medical/new-packaging-strategies-for-at-home-diagnostic-kits",
-      "summary": "New approaches help kit companies in this booming segment balance complexities in packaging, marketing, and design as they expand across retail channels.",
-      "published_at": "2026-10-10T02:52:35Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        }
-      ],
-      "primary_category": "新包装",
-      "scraped_at": "2026-10-16T11:40:41+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（266ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16WEZULTh0X3BEUUpLaGppTmlhWFY2QmUxYU1zQ1UxVjg2ZzlhTlFselQya1JVVlN4dkhKRjcydnpGRnlyc0VPRnQ3M1NUd3MxUnVxc2x2YnZ2Nk9nWTdfQll2VjFQRU0?oc=5",
-      "summary": "食品・飲料（266ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-09T23:34:05Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:27+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -6777,244 +6027,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-22T22:13:16+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（351ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44WVdNekhZei1OdzRxTUcybjVYUDFHN19GZEFtNXRVT3Q5c00xSHZkcnU1SG9pN3EzbnBka0ZKSTd3dGZBV2tuR2J0ZFNBT1l3X1c3WHFVdUtRUDZzWDRUTjVyeWRFVGs?oc=5",
-      "summary": "食品・飲料（351ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-09-25T03:21:54Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:39:06+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Justin Timberlake, Jessica Biel enter protein soda market",
-      "url": "https://www.fooddive.com/news/justin-timberlake-jessica-biel-protein-soda-proda/832787/",
-      "summary": "Proda is betting the celebrity backing will help the brand enter more mainstream retail outlets.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:38+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "PepsiCo puts ‘all the urgency’ into turning around soft drinks",
-      "url": "https://www.fooddive.com/news/pepsico-soda-business-turnaround-poppi-mountain-dew/832737/",
-      "summary": "The beverage giant is planning to add more functional benefits to Poppi, its newly acquired better-for-you soda brand.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "并购融资",
-      "scraped_at": "2026-10-16T11:40:38+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "US consumer trust in food safety falls to record low",
-      "url": "https://www.fooddive.com/news/food-safety-consumer-confidence-gallup/832856/",
-      "summary": "A Cyclospora outbreak and a series of food recalls has shaken consumer confidence and led to a shift in buying habits, according to Gallup.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 2
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-10-16T11:40:38+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Leftovers: BeatBox jams with Cinnabon | Topo Chico launches premium canned water",
-      "url": "https://www.fooddive.com/news/leftovers-beatbox-cinnabon-topo-chico-canned-water-Bauducco-skippy/832606/",
-      "summary": "The party punch brand is bringing an April Fools’ joke to life, while Bauducco looks to introduce Americans to panettone made with Skippy peanut butter.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 2
-        },
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-10-16T11:40:38+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Keurig Dr Pepper bets on iced coffee with espresso concentrate",
-      "url": "https://www.fooddive.com/news/keurig-dr-pepper-liquid-espress-concentrate-cpg-cold-brew/832502/",
-      "summary": "The coffee giant’s new innovation will be available across four of its global coffee brands in black, caramel and mocha flavors.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:38+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Molson Coors taps chief supply chain officer for Americas",
-      "url": "https://www.fooddive.com/news/molson-coors-taps-chief-supply-chain-officer-for-americas/832543/",
-      "summary": "Matthew Hook will step into the role with a mandate of continuing to modernize operations and boost service levels.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:38+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Oterra teams with HowGood to track sustainability of natural colors",
-      "url": "https://www.fooddive.com/news/oterra-howgood-sustainability-natural-colors/832530/",
-      "summary": "As demand for natural dyes grows, companies are investing in environmental reporting metrics common within mainstream ingredients.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新原料",
-      "scraped_at": "2026-10-16T11:40:38+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "How Olipop’s new CEO plans to reach $1B in sales",
-      "url": "https://www.fooddive.com/news/olipop-ceo-christian-patino-webb-interview-1-billion-sales-better-for-you-soda/831539/",
-      "summary": "Christian Patiño Webb says he’s focused on execution as the prebiotic soda brand faces mounting competition from a steady stream of new rivals.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新原料",
-          "icon": "🧪",
-          "color": "#059669",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "新原料",
-      "scraped_at": "2026-10-16T11:40:38+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "PepsiCo plans cost cuts as North American struggles persist",
-      "url": "https://www.fooddive.com/news/PepsiCo-snacking-north-america-inflation-beverages/832484/",
-      "summary": "CEO Ramon Laguarta said the company plans to raise prices on select offerings and evaluate “every cost with aggressive lenses.”",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T11:40:38+08:00"
     },
     {
       "site_name": "Food Dive",
