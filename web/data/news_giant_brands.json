@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T20:36:34",
+  "last_updated": "2026-11-17T00:39:42",
   "retention_days": 7,
   "total": 795,
   "s_count": 57,
@@ -2694,6 +2694,17 @@
       "url": "https://www.generalmills.com/news-and-stories/press-releases/new-cheerios-with-ziploc-pantryseal",
       "published_at": "2026-08-30T00:00:00",
       "summary": "The No. 1 cereal brand* and the No. 1 most trusted food storage brand** bring freshness you can reseal to the cereal aisle – available exclusively atWalmart.combeginning Oct. 27.",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "General Mills",
+      "brand_cn": "通用磨坊",
+      "region": "北美",
+      "title": "Blue Buffalo’s Love Made Fresh Gives Dogs a Seat at the Thanksgiving Table with Limited-Edition Dinnerware Collection",
+      "url": "https://www.generalmills.com/news-and-stories/press-releases/blue-buffalos-love-made-fresh-gives-dogs-a-seat-at-the-thanksgiving-table",
+      "published_at": "2026-08-30T00:00:00",
+      "summary": "Because dogs are family, the Blue Buffalo Dinnerware Collection includes salad plates, dinner plates and a matching dog bowl and a coupon for free Love Made Fresh.",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -8755,17 +8766,6 @@
       "url": "https://www.mondelezinternational.com/contact-us/",
       "published_at": "",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "General Mills",
-      "brand_cn": "通用磨坊",
-      "region": "北美",
-      "title": "Blue Buffalo’s Love Made Fresh Gives Dogs a Seat at the Thanksgiving Table with Limited-Edition Dinnerware Collection",
-      "url": "https://www.generalmills.com/news-and-stories/press-releases/blue-buffalos-love-made-fresh-gives-dogs-a-seat-at-the-thanksgiving-table",
-      "published_at": "",
-      "summary": "Because dogs are family, the Blue Buffalo Dinnerware Collection includes salad plates, dinner plates and a matching dog bowl and a coupon for free Love Made Fresh.",
       "level": "B",
       "level_reason": "企业动态"
     },
