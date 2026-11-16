@@ -1,11 +1,11 @@
 {
-  "total": 289,
-  "s_plus_count": 44,
+  "total": 288,
+  "s_plus_count": 47,
   "sites": [
+    "朝日グループYouTube",
+    "日経新聞",
     "日経xTrend",
     "Food Dive",
-    "日経新聞",
-    "朝日グループYouTube",
     "Packaging Digest"
   ],
   "regions": [
@@ -13,21 +13,369 @@
     "日本"
   ],
   "category_stats": {
+    "新产品": 65,
+    "其他": 129,
+    "品牌故事": 38,
+    "联名营销": 13,
+    "新包装": 11,
     "渠道新物种": 6,
-    "新产品": 61,
-    "其他": 139,
     "营销创新": 15,
     "并购融资": 5,
-    "联名营销": 11,
-    "品牌故事": 36,
-    "新包装": 10,
     "新原料": 1,
     "行业政策": 4,
     "新技术": 1
   },
-  "last_updated": "2026-11-16 15:27",
-  "last_updated_iso": "2026-11-16T15:27:22.558973+08:00",
+  "last_updated": "2026-11-17 03:02",
+  "last_updated_iso": "2026-11-17T03:02:04.712920+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ライオン元営業社員がヒット連発 家事嫌い×小売店に好かれる商品開発",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01313/00014/?n_cid=nbpnxr_rss",
+      "summary": "洗剤という成熟市場で、さまざまなヒット商品を生み出してきたのが、ライオンの片山美智子氏だ。2026年に発売された2商品は、「日経トレンディ2026年12月号」の「業界別ヒット」と「2027年ヒット予測100」に選出。2児の母でもある片山氏は、子育てで培った生活者視点と、営業経験で身に付けた販売現場視点という“2つの武器”を商品開発に生かしてきた。身近な困りごとをヒットにつなげる「二刀流の開発術」に迫る。",
+      "published_at": "2026-11-17T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-17T03:01:50+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【ヒット商品29～30位】スター・ウォーズのグローグーは誰に好かれたか",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00014/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。29位はパン入りカップスープ「クノール サクサクdeコパン」。「サクサクのパン」を主役に据え、腹持ちのよいオフィスランチや軽食を求める需要を捉えた。30位は『スター・ウォーズ／マンダロリアン・アンド・グローグー』に登場する「グローグー」。関連書籍も好調で、親子向けシールブックの累計発行部数は12万5000部に達した。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。",
+      "published_at": "2026-11-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-17T03:01:50+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "780万個ヒットの裏にチョコの弱点 明治「生のとき」開発者の視点",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01313/00019/?n_cid=nbpnxr_rss",
+      "summary": "まさにチョコのいいとこ取りをした商品が、大ヒットだ。生チョコのような食感とコクがありながら、一般的なチョコレートと同じように手軽に食べられる明治の菓子「生のときしっとりミルク」が、発売から僅か1年半で累計販売数780万個を記録。「日経トレンディ2026年12月号」の「2026年ヒット商品ベスト30」で16位に選出された。原料のカカオが高騰する中、このヒットはいかにして生まれたのか。開発を主導した明治の黒須充春氏に聞いた。",
+      "published_at": "2026-11-17T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-17T03:01:50+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【ヒット予測27～30位】パウチのまま1分50秒 究極の“手抜き麺”登場",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00015/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。宿泊費高騰を背景にした築古ビル再生ホテル、ロンジェビティ研究から生まれる細胞テックコスメ、調理も片付けも極限まで省いた“洗い物キャンセル”対応のパウチ麺、そしてSNS映えと食品ロス削減を両立する半分サイズのパフェ。2027年のヒット予測には、節約や効率化だけでなく、体験価値や自己実現ニーズを巧みに捉えた商品・サービスが並ぶ。その共通点と市場拡大の背景を探る。なお、本文の最後には「日経トレンディ」該当ページの誌面をそのままPDFで表示するリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-11-17T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "体験価値",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-17T03:01:50+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "米中間選挙、テック業界最大の衝撃は州司法長官選での民主党勝利か",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00079/00375/?n_cid=nbpnxr_rss",
+      "summary": "米国中間選挙と同時に実施された州司法長官選挙におけるテキサス州、アリゾナ州、ウィスコンシン州、ミシガン州、ネバダ州での勝利により、民主党は米テック業界の将来を決める法廷闘争の構図を塗り替える可能性がある。",
+      "published_at": "2026-11-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T03:01:50+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "過去最多10万人超が来場、SCAJ2026で見えたコーヒー業界の新潮流",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/03003/?n_cid=nbpnxr_rss",
+      "summary": "SCAJ2026には過去最多の10万114人が来場した。会場で目立ったのは、1杯の体験価値を追求する製品やサービス、そしてサステナビリティーを意識した取り組みだ。コーヒー2050年問題の影響も含めて、コーヒー大手から全国のロースターまで個性化が進む市場の現在と、産業の持続可能性を探る取り組みをリポートする。",
+      "published_at": "2026-11-17T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "体験価値",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T03:01:50+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "情報漏洩時代に問われるCDPの意義 不要なデータは持たない決断も選択に",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00008/00193/?n_cid=nbpnxr_rss",
+      "summary": "生成AIの進化によって、高度なデータ分析が誰でもできるようになった。一方で、企業を狙うサイバー攻撃と情報漏洩事件は後を絶たず「むやみに顧客データを持つべきではないのでは」という議論も広がり始めた。CDPのような顧客データ基盤は、AI時代にどう変化していくのか。CDP市場をけん引してきた米トレジャーデータの創業者3人に聞いた。",
+      "published_at": "2026-11-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-17T03:01:50+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "紅葉の名所に平時の30倍の人出 大洗あんこう祭はガルパンコラボで盛況",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01501/00005/?n_cid=nbpnxr_rss",
+      "summary": "秋の味覚を堪能するイベントが各地で行われ、茨城県の大洗あんこう祭や北海道のあっけし牡蠣まつりは多くの人でにぎわった。また、紅葉の名所として知られる愛知県の香嵐渓と新潟県の弥彦公園では、若い世代を含む多くの人の姿が見られた。静岡県の富士スピードウェイでは「スーパー耐久シリーズ2026」の最終戦が開催され、レースの展開とともに人流にも大きな変化が見られた。2026年11月9日から15日までの人々の動きを読み解く。",
+      "published_at": "2026-11-17T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-11-17T03:01:50+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "贅沢ビールはプレモル、ヱビスの2強 小腹にチョコパイ、食品想起分析",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01508/00002/?n_cid=nbpnxr_rss",
+      "summary": "贅沢な気分を味わうと言えば、どのビールブランドが想起されるのか。5000人調査で見えたのはプレモル・ヱビスの独走だ。チョコレートでは明治の強さが明らかになるなど、食品カテゴリーの想起ランキングを解説。想起と購買の相関をデータで解明し、消費者の頭の中を制するブランド戦略に迫る。",
+      "published_at": "2026-11-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-17T03:01:50+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "森永乳業のアイス「MOW」が「もう...」と嘆く、バニラ市場の強敵とは",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00921/00072/?n_cid=nbpnxr_rss",
+      "summary": "スーパーやコンビニエンスストアのアイスケースでよく目にする森永乳業「MOW」のロゴが、なぜか「もう…」に。ひらがなのかわいらしさに目を奪われるが、そこには人気ブランドが胸に秘めてきた、切実な想いがあった。MOWがこれまで伝えられなかったこととは何か。大胆なパッケージ変更のプロモーションから、バニラアイス市場の競争と、消費者の心を動かす戦略が見えてくる。",
+      "published_at": "2026-11-17T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-11-17T03:01:50+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ライオン元営業社員がヒット連発 家事嫌い×小売店に好かれる商品開発",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXQmxRVXRySDBRWWFkSDg2TUxKbk00Ri1fbUh0UlRUd0FjcmYwUzBMUm8wY1BFVEVNOFg1d2lpZDZpVElhaUJJTmdKVExNWGl1T1RfNlNFMjdUWExodzRFR2JBSGhEUQ?oc=5",
+      "summary": "ライオン元営業社員がヒット連発 家事嫌い×小売店に好かれる商品開発&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-16T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-11-17T03:01:48+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "780万個ヒットの裏にチョコの弱点 明治「生のとき」開発者の視点",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObHdIeVNURHJlZXY5UVRTS2x5WUMycmFtd2VIMzdjTTd1RXh3aUdRT2tFY1RSbExJNkt3cDNMM0JZVDc0ZWdhVEdBR2VxT01TQmtKdURlNk1ST01QNHBJb0FFVUJreVVkb3RKajVxdUpUWFpOelhPMXljTDZNWVdfVGNXOFpzUXRpOFhV?oc=5",
+      "summary": "780万個ヒットの裏にチョコの弱点 明治「生のとき」開発者の視点&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T03:01:48+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "贅沢ビールはプレモル、ヱビスの2強 小腹にチョコパイ、食品想起分析",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeG5VbnY5bTF0SEx2OUtTUkJEc0dVWFFOTkJuYVU1cWxkZEswSlJ1NFpmem5pbHBRZ28wdjIxNHNKTEhVcF9JYUtKOFQ2RDFCY0NJSnBNYXRNbmRIZzViY25MQVpYZjNWYVQtY0FOUGk4aUhmSUVqXzNmUHQ2Y2RPeTZhcHBIemtPbUhv?oc=5",
+      "summary": "贅沢ビールはプレモル、ヱビスの2強 小腹にチョコパイ、食品想起分析&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T03:01:48+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "【ヒット予測27～30位】パウチのまま1分50秒 究極の“手抜き麺”登場",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMkJkdkVtRGN0eGd5WGoxSWVuUHdIX3JldWZWNTJtZ3kycU9wVWhlMERjU0Z3anlSWklzYkdQQTFQTnAwcUFUcG1xRGtycnpXUk9NeEZSd0lNek1nY25ZSnN2RS1lM0N1aWtkd0J4N0xya0NmVDMzTU5hejJrVGpzblFwSXhIbjJTWFdJ?oc=5",
+      "summary": "【ヒット予測27～30位】パウチのまま1分50秒 究極の“手抜き麺”登場&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T03:01:48+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "森永乳業のアイス「MOW」が「もう...」と嘆く、バニラ市場の強敵とは",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOEwxSXM2TnpiaGxtQ2FoLW1pWWlKZDk5SnI1MGdFQ3NMdzVvamhFM3dUX0tFVm9raF9Oblo1OWxfMDJ3VlhRUm54ZHJTTXdINlhzaDBRSy1Vc1AxSnU5NmMxdFpuLTZfSGZnOEhTaUZqdkp2X0tVUVFERW9vSWlfeXFNWUNqemI5bzJ0b2UxU1prMmVuRnc?oc=5",
+      "summary": "森永乳業のアイス「MOW」が「もう...」と嘆く、バニラ市場の強敵とは&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T03:01:48+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -5434,381 +5782,6 @@
       "scraped_at": "2026-10-25T13:27:12+08:00"
     },
     {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ＜カロリーゼロ＞WEBCM 西日本のみなさま篇 15秒",
-      "url": "https://www.youtube.com/watch?v=VqYuoATqBDo",
-      "summary": "アサヒゼロ＜カロリーゼロ＞誕生 ＃カロリーゼロの衝撃 https://www.asahibeer.co.jp/brand/asahizero/calzero/",
-      "published_at": "2026-10-14T01:06:33Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i3.ytimg.com/vi/VqYuoATqBDo/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ＜カロリーゼロ＞WEBCM 裏の本音篇 30秒",
-      "url": "https://www.youtube.com/watch?v=5yb1S-xxbWc",
-      "summary": "アサヒゼロ＜カロリーゼロ＞誕生 ＃カロリーゼロの衝撃 https://www.asahibeer.co.jp/brand/asahizero/calzero/",
-      "published_at": "2026-10-14T01:06:11Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i2.ytimg.com/vi/5yb1S-xxbWc/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ＜カロリーゼロ＞WEBCM 風間さんに質問③篇 15秒",
-      "url": "https://www.youtube.com/watch?v=32HHlpy8fW8",
-      "summary": "アサヒゼロ＜カロリーゼロ＞誕生 ＃カロリーゼロの衝撃 https://www.asahibeer.co.jp/brand/asahizero/calzero/",
-      "published_at": "2026-10-14T01:05:50Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i4.ytimg.com/vi/32HHlpy8fW8/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ＜カロリーゼロ＞WEBCM 風間さんに質問②篇 15秒",
-      "url": "https://www.youtube.com/watch?v=_cJk_rFzrt4",
-      "summary": "アサヒゼロ＜カロリーゼロ＞誕生 ＃カロリーゼロの衝撃 https://www.asahibeer.co.jp/brand/asahizero/calzero/",
-      "published_at": "2026-10-14T01:05:31Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i4.ytimg.com/vi/_cJk_rFzrt4/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ＜カロリーゼロ＞WEBCM 風間さんに質問➀篇 15秒",
-      "url": "https://www.youtube.com/watch?v=2TOq1NzX14E",
-      "summary": "アサヒゼロ＜カロリーゼロ＞誕生 ＃カロリーゼロの衝撃 https://www.asahibeer.co.jp/brand/asahizero/calzero/",
-      "published_at": "2026-10-14T01:05:07Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i3.ytimg.com/vi/2TOq1NzX14E/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ WEBCM「そりゃうまいわけやで！」篇改訂 15秒",
-      "url": "https://www.youtube.com/watch?v=VSAyNkvuI04",
-      "summary": "ビールのうまさにこだわる人のAlc.0.00％、アサヒゼロ。＃ZEROの衝撃 https://www.asahibeer.co.jp/asahizero/",
-      "published_at": "2026-10-14T01:03:17Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i3.ytimg.com/vi/VSAyNkvuI04/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ WEBCM「うまさの理由は、製法」篇改訂 15秒",
-      "url": "https://www.youtube.com/watch?v=dH2luO61LIA",
-      "summary": "ビールのうまさにこだわる人のAlc.0.00％、アサヒゼロ。＃ZEROの衝撃 https://www.asahibeer.co.jp/asahizero/",
-      "published_at": "2026-10-14T01:02:51Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i1.ytimg.com/vi/dH2luO61LIA/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ WEBCMシンプルインパクト篇 15秒",
-      "url": "https://www.youtube.com/watch?v=PIN1CiGuLmY",
-      "summary": "ビールのうまさにこだわる人のAlc.0.00％、アサヒゼロ。＃ZEROの衝撃 https://www.asahibeer.co.jp/asahizero/",
-      "published_at": "2026-10-14T01:02:30Z",
-      "is_s_plus": true,
-      "s_plus_reason": "インパクト",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i1.ytimg.com/vi/PIN1CiGuLmY/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ WEBCM飲み比べ篇 15秒 縦",
-      "url": "https://www.youtube.com/watch?v=R7x9mkqVf5M",
-      "summary": "ビールのうまさにこだわる人のAlc.0.00％、アサヒゼロ。＃ZEROの衝撃 https://www.asahibeer.co.jp/asahizero/",
-      "published_at": "2026-10-14T01:02:08Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i3.ytimg.com/vi/R7x9mkqVf5M/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ WEBCM飲み比べ篇 15秒 横",
-      "url": "https://www.youtube.com/watch?v=o3h-g71o8VY",
-      "summary": "ビールのうまさにこだわる人のAlc.0.00％、アサヒゼロ。＃ZEROの衝撃 https://www.asahibeer.co.jp/asahizero/",
-      "published_at": "2026-10-14T01:01:44Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i4.ytimg.com/vi/o3h-g71o8VY/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ WEBCM飲み比べ篇 30秒 縦",
-      "url": "https://www.youtube.com/watch?v=y_pdYxDP1Yg",
-      "summary": "ビールのうまさにこだわる人のAlc.0.00％、アサヒゼロ。＃ZEROの衝撃 https://www.asahibeer.co.jp/asahizero/",
-      "published_at": "2026-10-14T01:01:10Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i2.ytimg.com/vi/y_pdYxDP1Yg/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロ WEBCM飲み比べ篇 30秒 横",
-      "url": "https://www.youtube.com/watch?v=raN3hdUOOvc",
-      "summary": "ビールのうまさにこだわる人のAlc.0.00％、アサヒゼロ。＃ZEROの衝撃 https://www.asahibeer.co.jp/asahizero/",
-      "published_at": "2026-10-14T01:00:41Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i3.ytimg.com/vi/raN3hdUOOvc/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロWEBCM「だからおいしい」篇",
-      "url": "https://www.youtube.com/watch?v=tynsFqMntD0",
-      "summary": "ビールのうまさにこだわる人のAlc.0.00％、アサヒゼロ。＃ZEROの衝撃 https://www.asahibeer.co.jp/asahizero/",
-      "published_at": "2026-10-14T01:00:20Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i1.ytimg.com/vi/tynsFqMntD0/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロWEBCM「この時間がなによりもしあわせ」篇",
-      "url": "https://www.youtube.com/watch?v=zCBIcyjFuEU",
-      "summary": "ビールのうまさにこだわる人のAlc.0.00％、アサヒゼロ。＃ZEROの衝撃 https://www.asahibeer.co.jp/asahizero/",
-      "published_at": "2026-10-14T01:00:18Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i3.ytimg.com/vi/zCBIcyjFuEU/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "アサヒゼロWEBCM「毎日がちょっと楽しくなってきた」篇",
-      "url": "https://www.youtube.com/watch?v=5V-5OsznPyU",
-      "summary": "ビールのうまさにこだわる人のAlc.0.00％、アサヒゼロ。＃ZEROの衝撃 https://www.asahibeer.co.jp/asahizero/",
-      "published_at": "2026-10-14T01:00:15Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:37+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i2.ytimg.com/vi/5V-5OsznPyU/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5983,28 +5956,6 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-10-27T13:46:55+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（321ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LOTMwZ0pWaVZ4aHB3Z1huN2VLSnFGa3k5Z3I5dGNUNlVBNTFuWGRFbVhsenA3bTJkSGRseUxtT0o0QXlFNUtjUGdYY2MzQ3dZVGhVX1ZCYlhXbHQxQTJnRjF2eGRtR1k?oc=5",
-      "summary": "食品・飲料（321ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-02T11:13:56Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-16T21:37:21+08:00"
     },
     {
       "site_name": "日経新聞",
