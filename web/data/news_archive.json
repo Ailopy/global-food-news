@@ -1,7 +1,163 @@
 {
-  "last_updated": "2026-11-17T21:00:24.233707+08:00",
-  "total": 14626,
+  "last_updated": "2026-11-18T01:58:52.391876+08:00",
+  "total": 14640,
   "articles": [
+    {
+      "id": "85c0eced546071dd",
+      "title": "Owl’s Brew Rebrands, Doubles Down on Spiked Pop",
+      "summary": "After 13 years, Owl’s Brew is rebranding itself as Drink Wise and positioning its hard soda, Spiked Pop, at the forefront of its portfolio.",
+      "url": "https://www.bevnet.com/spirits/2026/owls-brew-rebrands-doubles-down-on-spiked-pop",
+      "published_at": "2026-11-18T01:40:53+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "b3bbb4dd5d879f72",
+      "title": "BevNET Live L.A. 2026 Agenda Now Available: Hear From Olipop, Primo Brands, Oats Overnight, Hellbent Cocktails & More",
+      "summary": "The agenda for BevNET Live L.A. 2026 is here, filled with insights designed to help entrepreneurial beverage companies grow and thrive. On Dec. 6–8, the beverage industry heads to the Marriott Marina…",
+      "url": "https://www.bevnet.com/news/events/bevnetlivewinter26/bevnet-live-l-a-2026-agenda-now-available-hear-from-olipop-primo-brands-oats-overnight-hellbent-cocktails-more",
+      "published_at": "2026-11-18T01:35:35+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "76627d2447af3c02",
+      "title": "Taste Radio: A Bigger Buzz: How Honey Stinger Is Broadening Its Reach",
+      "summary": "Honey Stinger has spent more than two decades fueling athletes. Now, the brand is finding new ways to fuel its own growth. CEO John D’Alessandro discusses how Honey Stinger, known for its energy…",
+      "url": "https://www.bevnet.com/news/2026/taste-radio-a-bigger-buzz-how-honey-stinger-is-broadening-its-reach",
+      "published_at": "2026-11-18T01:16:11+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "5b75c2f724e87f04",
+      "title": "Ancient Ritual. Contemporary Wine Packaging.",
+      "summary": "A wine brand designed to be held, experienced, and remembered. RHEYN — Rhyton Reserve is a wine branding and creative packaging design project by DEEEZ that brings a new perspective to the red wine…",
+      "url": "https://fabnews.live/ancient-ritual-contemporary-wine-packaging/",
+      "published_at": "2026-11-18T01:02:57+08:00",
+      "source": "Fab News",
+      "region": "欧洲",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "322dfd4054fb1117",
+      "title": "Chomps Sells Minority Stake in $350M Sixth Street Deal",
+      "summary": "Chomps has secured a new investor, with investment firm Sixth Street paying $350 million to existing shareholders in exchange for a minority stake in the company.",
+      "url": "https://www.nosh.com/news/2026/chomps-sells-minority-stake-in-350m-sixth-street-deal",
+      "published_at": "2026-11-18T00:45:38+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "ba167da09710c6ec",
+      "title": "Air Water Ventures Acquires Proud Source",
+      "summary": "Water-tech company Air Water Ventures announced a definitive agreement to acquire aluminum bottled Proud Source Water for $100 million.",
+      "url": "https://www.bevnet.com/news/2026/air-water-ventures-acquires-proud-source",
+      "published_at": "2026-11-18T00:32:55+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "d43f2a0c4dd297d5",
+      "title": "The food health and ingredient claims driving lawsuits",
+      "summary": "An uptick in litigation around zero-sugar labels and ultraprocessed foods reflect changing risks for the industry.",
+      "url": "https://www.fooddive.com/news/lawsuits-food-beverage-ultraprocessed-zero-sugar/874890/",
+      "published_at": "2026-11-18T00:03:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "634d2d3393948d0e",
+      "title": "Acadian Kitchens Acquires Cookwell to Expand Brands Beyond Texas",
+      "summary": "Texas-based Cookwell has been acquired by Acadian Kitchens as it seeks to expand its reach beyond its home market.",
+      "url": "https://www.nosh.com/news/2026/acadian-kitchens-acquires-cookwell-to-expand-brands-beyond-texas",
+      "published_at": "2026-11-17T23:36:29+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "6b5184b357ac927a",
+      "title": "Freestyle Snacks Raises $5M in Cutting Horse-Led Seed Round, Makes Walmart Debut",
+      "summary": "Freestyle Snacks has secured $5 million in its first institutional funding round as it expands into Walmart and Costco, bringing its olive and pickle snacks to more than 7,000 stores nationwide.",
+      "url": "https://www.nosh.com/news/2026/freestyle-snacks-raises-5m-in-cutting-horse-led-seed-round-makes-walmart-debut",
+      "published_at": "2026-11-17T23:02:35+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "8bb07a617367c3c4",
+      "title": "Food for Thought Leadership – The Biggest Food Technology Trends to Watch at CES 2027",
+      "summary": "Brian Comiskey, VP of innovation and trends at the Consumer Technology Association, about the technologies to be on display at CES 2027. The post Food for Thought Leadership – The Biggest Food…",
+      "url": "https://foodinstitute.com/video/food-for-thought-leadership-biggest-food-technology-trends-to-watch-at-ces-2027/?utm_source=rss&utm_medium=rss&utm_campaign=food-for-thought-leadership-biggest-food-technology-trends-to-watch-at-ces-2027",
+      "published_at": "2026-11-17T23:00:59+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "0af6b5b101ca71c3",
+      "title": "MAHA is in chaos as Democrats seek to wrestle food policy back from RFK Jr",
+      "summary": "The left and right are fighting for control of the food and public health agenda, writes Sean McBride. But control without purpose is meaningless in the battle against obesity and related diseases.",
+      "url": "https://www.fooddive.com/news/democrats-maha-congress-food-policy-maha/874875/",
+      "published_at": "2026-11-17T22:38:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "fb262243ab32fb05",
+      "title": "Jim Beam won’t resume production at flagship distillery next year",
+      "summary": "The Suntory-owned whiskey is moving production to another facility in Kentucky as value spirits brands continue to struggle.",
+      "url": "https://www.fooddive.com/news/jim-beam-flagship-distillery-production-pause/874870/",
+      "published_at": "2026-11-17T22:25:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "c4c42233d4baff10",
+      "title": "Review: Solzi Offers A Sparkling Twist on Espresso",
+      "summary": "Espresso, bright citrus (grapefruit and lime), and restrained sweetness from date syrup create a refreshing, well-balanced profile.",
+      "url": "https://www.bevnet.com/news/2026/review-solzi-offers-a-sparkling-twist-on-espresso",
+      "published_at": "2026-11-17T21:30:15+08:00",
+      "source": "BevNET",
+      "region": "北美",
+      "category": "饮料",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "3cc1df9894893d41",
       "title": "HAPPi embarks on full rebrand with new bar formats",
@@ -147,18 +303,6 @@
       "language": "ja"
     },
     {
-      "id": "444ae7e47f578f9b",
-      "title": "今週新発売のキャベツまとめ！『手包みロールキャベツ入りポトフ』、『おつまみキャベツ　新潟県産キャベツ使用』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！キャベツの新商品情報をお届けします。今週新発売の#キャベツセブン-イレブン 手包みロールキャベツ入りポトフ１／３日分の野菜がと…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111707/?utm_source=rss&utm_medium=mognavinews_20261117",
-      "published_at": "2026-11-17T15:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
       "id": "9eaa5086315b9baf",
       "title": "BioVivo Science brings US-made botanical extracts to Fi Europe 2026",
       "summary": "The US ingredient manufacturer will showcase organic broccoli seed and authenticated Florida saw palmetto extracts, highlighting its expanding domestic production capabilities and traceable botanical…",
@@ -181,6 +325,18 @@
       "category": "功能性食品",
       "level": "B",
       "language": "en"
+    },
+    {
+      "id": "444ae7e47f578f9b",
+      "title": "今週新発売のキャベツまとめ！『手包みロールキャベツ入りポトフ』、『おつまみキャベツ　新潟県産キャベツ使用』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！キャベツの新商品情報をお届けします。今週新発売の#キャベツセブン-イレブン 手包みロールキャベツ入りポトフ１／３日分の野菜がと…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111707/?utm_source=rss&utm_medium=mognavinews_20261117",
+      "published_at": "2026-11-17T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "8e451cc30aeb62a1",
@@ -756,6 +912,18 @@
       "region": "北美",
       "category": "综合",
       "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "60e4e05290653132",
+      "title": "Popcorn makers look to butter up stagnant sales",
+      "summary": "Surging ready-to-eat demand hasn’t offset a drop in microwavable options. Orville Redenbacher, Pop Secret and others are embracing trendy ingredients and flavors to heat up the category.",
+      "url": "https://www.fooddive.com/news/snacking-popcorn-innovation-conagra-hershey-innovation/823188/",
+      "published_at": "2026-11-16T23:00:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
       "language": "en"
     },
     {
