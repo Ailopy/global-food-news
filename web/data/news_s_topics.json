@@ -1,22 +1,22 @@
 {
-  "total": 289,
-  "s_plus_count": 47,
+  "total": 305,
+  "s_plus_count": 51,
   "sites": [
     "朝日グループYouTube",
+    "日経xTrend",
     "Packaging Digest",
     "Food Dive",
-    "日経新聞",
-    "日経xTrend"
+    "日経新聞"
   ],
   "regions": [
     "北美",
     "日本"
   ],
   "category_stats": {
-    "新产品": 65,
-    "其他": 131,
-    "品牌故事": 38,
-    "联名营销": 13,
+    "新产品": 71,
+    "品牌故事": 41,
+    "联名营销": 14,
+    "其他": 137,
     "新包装": 11,
     "渠道新物种": 6,
     "营销创新": 15,
@@ -25,9 +25,357 @@
     "行业政策": 3,
     "新技术": 1
   },
-  "last_updated": "2026-11-17 16:39",
-  "last_updated_iso": "2026-11-17T16:39:13.193224+08:00",
+  "last_updated": "2026-11-18 01:59",
+  "last_updated_iso": "2026-11-18T01:59:01.547400+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ヒット商品【家電・デジタル他】炎上しにくい半固体電池はなぜ増えた",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00018/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。今回は家電、日用品・雑貨、コンビニ、外食部門で、ランキングには入らなかったが、26年に話題になった商品を紹介する。売れ行きが計画の2倍を超えた「Roomba Mini」、日常使い向けの低価格MacBook「MacBook Neo」、のりを巻かない手ごろ価格の「銀しゃりむすび」などが注目を集めた。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。",
+      "published_at": "2026-11-18T00:01:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-18T01:58:48+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "キッコーマン「ピュレフルーツ」 “構想止まり”を元営業が逆転ヒット",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01313/00016/?n_cid=nbpnxr_rss",
+      "summary": "果物を食べたいのに、日持ちしないことや皮をむく手間がネックになる。そんな悩みに応えてヒットしているのが、すりおろした果実を手軽に味わえる「デルモンテ ピュレフルーツ」だ。日経トレンディが選ぶ「2026年ヒット商品ベスト30」では、17位に入った。ただ、発売当初から順調だったわけではない。時間をかけてヒット商品へと育てたのが、キッコーマン食品の野中亮佑氏だ。営業や販促企画の経験があったからこそ実現した、売り場の見直しやパッケージの刷新を追う。",
+      "published_at": "2026-11-18T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-18T01:58:48+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "アリエールの強襲で花王「アタック」に危機 第一想起を守った反撃策",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01508/00004/?n_cid=nbpnxr_rss",
+      "summary": "花王「アタック」にアリエールが肉薄。原因は、急増した部屋干し需要への出遅れだった。反撃を支えたのはネーミングと店頭・家庭で毎日目に入るブランドロゴだった。取り組みが奏功し、第一想起は23年から約10ポイント上昇、シェアも47.1％へ。競合に勝つブランド戦略とは？",
+      "published_at": "2026-11-18T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-18T01:58:48+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ヒット予測【飲料・酒類】糖質・カロリー50%オフの甘くないピルクル",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00017/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。今回は酒類、飲料、食品、菓子部門で、ランキングには入らなかったが、2027年に期待できると言える商品を紹介する。深いコクが特徴の「キリン 生茶 熟成」や強炭酸のサワー「THE DRY」、濃厚な味わいに変化する調味料「背徳ブースター マシマシにんにく唐がらし」などが注目を集めた。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-11-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-18T01:58:48+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "不二家「ホームサクッと」計画比570％のヒット 開発者の超朝型仕事術",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01313/00017/?n_cid=nbpnxr_rss",
+      "summary": "ロングセラーブランドが店頭の未開拓ゾーンを“ホーム”に変えた。甘いパイ菓子の代表格「ホームパイ」から派生したおつまみが売れている。不二家が2026年3月に発売した「ホームサクッと」は、発売初月の販売数が計画比570％を記録。開発を手掛けたのは、2020年発売のヒット商品「カントリーマアムチョコまみれ」などにも携わった福田達也氏だ。午前6時半に出社し、管理職としての仕事と商品開発を両立する福田氏に、ヒットを生む秘訣を聞いた。",
+      "published_at": "2026-11-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-18T01:58:48+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ヒット商品【酒類・飲料】アサヒ飲料の「罪悪感なく」飲めるコーラ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00017/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2026年ヒット商品ベスト30」を特集。今回は酒類、飲料、食品、菓子部門で、ランキングには入らなかったが、26年に話題になった商品を紹介する。健康志向に応えた「アサヒスタイルフリー トリプルゼロ」や砂糖・保存料不使用の「green cola」、約3週間で約150万個を売り上げた「マグカップでふっくらケーキ！ モコモコ」などが注目を集めた。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。",
+      "published_at": "2026-11-18T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "話題",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-18T01:58:48+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "モスのEC、2度撤退乗り越え成長軌道に 店舗と共存可能な商品開発が鍵",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01985/?n_cid=nbpnxr_rss",
+      "summary": "モスバーガーが、店舗外での収益拡大に本腰を入れている。2022年に公式ECサイトを開設し、26年9月には家庭用の冷凍食品ブランド「モスデリ」を立ち上げ、スーパーやドラッグストアへの本格進出を開始した。しかし、ECや物販事業の道のりは、決して順風満帆ではなかった。モスはいかにして店舗外でのビジネスを成長させてきたのか。",
+      "published_at": "2026-11-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-18T01:58:48+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "スポンジと固形洗剤で世界を目指す 様々なデザイナーとコラボ",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00947/00334/?n_cid=nbpnxr_rss",
+      "summary": "キッチン用の固形洗剤やスポンジで注目のダイニチ・コーポレーション。TENTやKIGI、kenmaなどのデザイナーと組み、様々な商品を展開中だ。家族4人の企業ながら、独自のデザイン経営を実践している。",
+      "published_at": "2026-11-18T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-11-18T01:58:48+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "初週で世界興収100億円 『ゴジラ-0.0』日米ヒットを読み解く",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01001/00015/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月3日公開の『ゴジラ-0.0』が日米で歴史的なロケットスタートを記録している。なぜヒットしているのか。北米での熱狂の背景を追うとともに、東宝のゴジラ戦略、さらには『ゴジラ-1.0』『ゴジラ-0.0』と続く山崎ゴジラが描いてきた物語を、エンタメ社会学者の中山淳雄氏が分析する。",
+      "published_at": "2026-11-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-18T01:58:48+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ニッチ商品を量産化に導くアサヒの謎の組織 直販と開発一体の新モデル",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01509/00004/?n_cid=nbpnxr_rss",
+      "summary": "アサヒビールは、若者の酒離れや顧客ニーズの細分化という課題に対し、全く新しいアプローチで挑む。専門組織を立ち上げ、新商品テストEC（電子商取引）サイト「アサヒ空想開発局」を活用した独自の開発手法を導入。徹底的な「N＝1」インタビューを通じて消費者の潜在ニーズを引き出して、従来にない価値を提供する商品を次々と発売している。22商品をテスト販売し、その中から8商品を全国発売につなげた。",
+      "published_at": "2026-11-18T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 2
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-18T01:58:48+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ヒット予測【飲料・酒類】糖質・カロリー50%オフの甘くないピルクル",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkZ0RERJd3NhZ21TdjZqcTNYZ0Q1VkMtS1doQzk2cHpoNHVKNFBJRGhleUhPZ1J6aHZXNmZvbDlJcE9kbDBONWw5SVcyMVJrNnBYSFIxZFZURVZWYUY2bURxY0VjdktQQXRzYVptbjljWmpKd3V1RzJQXzV2eDJyUktNVlAxcEtCbjlF?oc=5",
+      "summary": "ヒット予測【飲料・酒類】糖質・カロリー50%オフの甘くないピルクル&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-17T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T01:58:45+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "3000セットが5日で完売 アサヒが量産化の壁を破った方法",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVA1azl2R203X0lBM3ZzVkJENnVuWTd6QnNTMjBMUmFGMDFDbzhSbExQNkw5NFlWRWVVMG05SnlmV0h6eW1ScnBWM3h3RnJULTREM0F5bnVFN2xZSDZvM2ZISk5IZXlkNHhXaWgxbnBHV0pTY3VqenBtRUxWeHRSTERMYkZGUC1nRmhrSEhlOVRyVmZzVGc?oc=5",
+      "summary": "3000セットが5日で完売 アサヒが量産化の壁を破った方法&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-17T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "完売",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T01:58:45+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "不二家「ホームサクッと」計画比570％のヒット 開発者の超朝型仕事術",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXIyVmpVT19wbUtDQlRIWXVNRmdnUjA3SFc0Q3pwNTUyc0VURnM1U0Ffd3JVNF9wdlI5bWJ6eVFKMXRzbzJIc3A5b19HQzlkWERFQmQ1VDFKN3BkenhPMmo5UDVYdExyb1J0WTNOSkt6MUJfRzg0OGo5YUhuWlVqbW82TzdXenMzSzVv?oc=5",
+      "summary": "不二家「ホームサクッと」計画比570％のヒット 開発者の超朝型仕事術&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-17T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T01:58:45+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ヒット商品【酒類・飲料】アサヒ飲料の「罪悪感なく」飲めるコーラ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPREplX3d2OGx3LUM1YkNFZll2RW1GN3pBQVN6ZnBqUmNGXzVwSlByUXJiMl9HRzZIR3RhajFYc29Ebll5aWIwUVhJbVZiQVRrRGZVZ2NIZ3pLWXNBSEdqTEk4VExpbkhSSnRiclpsNHlVTWRMOTdKRTg4VUNkTmR4d1BuekJKSTlnTFJN?oc=5",
+      "summary": "ヒット商品【酒類・飲料】アサヒ飲料の「罪悪感なく」飲めるコーラ&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-17T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T01:58:45+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "初週で世界興収100億円 『ゴジラ-0.0』日米ヒットを読み解く",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdW84Y2o3UFdfR3Q1Z2szM1NGendxMHZLOTFkQ25Td2hMS21tejBuOVZaLTBQNG1TY0daNzg1d29OQXBLZ2FhWExENHpvSGcxWXlQZzJwQk9ENG1PcTE4cHQyMUxRTmt6NkpJbDBjbVozWWNRM0t4M2VfX090RFNrT25YTWJXSk9NdXZj?oc=5",
+      "summary": "初週で世界興収100億円 『ゴジラ-0.0』日米ヒットを読み解く&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-17T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T01:58:45+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -463,6 +811,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-17T16:38:57+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "【ヒット予測27～30位】パウチのまま1分50秒 究極の“手抜き麺”登場",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkTWRDN29oUVhVNWlNMXZHX3dPYlN5S3p4a3N5RUM3Qm5LQnByRnA3TmhoRUd0S19LZnl1NmhJZDBVSFQ3MGE1N2NuM3c0MDN1amx2eE5VQ2N3N1BYcjFSUndWdHduZw?oc=5",
+      "summary": "【ヒット予測27～30位】パウチのまま1分50秒 究極の“手抜き麺”登場&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T01:58:45+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -1357,6 +1727,28 @@
       ],
       "primary_category": "新包装",
       "scraped_at": "2026-11-11T00:40:15+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料（17ページ目）",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IMlZ2a1lkaS0yODdzTS1oa3RrWUZtQ254ZXVRQ2RsNmlsbllvUmRSeUtSamVBT0w0NV9YZkl0UFV1TlYxQUI2RnZ1NnhRMThELWljQlhocnBUbncyQzBNVGtBa2J2Zw?oc=5",
+      "summary": "食品・飲料（17ページ目）&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-10T21:39:55Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T01:58:45+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5780,28 +6172,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-18T13:15:04+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（10ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MVnF0dEg1Rk9jZUlRWXZESG9GSHB3VmpDRGJVZHZPNjJKRDdIMUVMcHpCRFdiNDgyYmVKTjlRb1dWeVB6MXk3ODlURVNhSjZSU3NfVVZyVDZTZFZtdDY5dG0yVTdTUQ?oc=5",
-      "summary": "食品・飲料（10ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-15T15:36:44Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-17T20:33:55+08:00"
     },
     {
       "site_name": "日経新聞",
