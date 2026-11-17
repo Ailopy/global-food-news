@@ -1,12 +1,12 @@
 {
-  "total": 288,
+  "total": 289,
   "s_plus_count": 47,
   "sites": [
     "朝日グループYouTube",
-    "日経新聞",
-    "日経xTrend",
+    "Packaging Digest",
     "Food Dive",
-    "Packaging Digest"
+    "日経新聞",
+    "日経xTrend"
   ],
   "regions": [
     "北美",
@@ -14,7 +14,7 @@
   ],
   "category_stats": {
     "新产品": 65,
-    "其他": 129,
+    "其他": 131,
     "品牌故事": 38,
     "联名营销": 13,
     "新包装": 11,
@@ -22,11 +22,11 @@
     "营销创新": 15,
     "并购融资": 5,
     "新原料": 1,
-    "行业政策": 4,
+    "行业政策": 3,
     "新技术": 1
   },
-  "last_updated": "2026-11-17 03:02",
-  "last_updated_iso": "2026-11-17T03:02:04.712920+08:00",
+  "last_updated": "2026-11-17 16:39",
+  "last_updated_iso": "2026-11-17T16:39:13.193224+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -375,6 +375,94 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-17T03:01:48+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "780万個ヒットの裏にチョコの弱点 明治「生のとき」開発者の視点",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tcy1zWjZUcHJCNGwwREpKUlQyVkJzZnJrM0d6d2pTVl8xOXViV2RmNmtKQkhTc0tfWFdSc01mLW1tYTdaM0FVRGQ2MzFSZ0oxbUZEenlZWGMzZEdqUzZ4OF80dkpQUQ?oc=5",
+      "summary": "780万個ヒットの裏にチョコの弱点 明治「生のとき」開発者の視点&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T16:38:57+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "贅沢ビールはプレモル、ヱビスの2強 小腹にチョコパイ、食品想起分析",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13WXNNaHRLc2JWWkI0SHhsOG5PWXc2bDNKc2kwMW5GOGlRUEVXS2Y4NXlPZE5fYi02U2VET0EzMkR1NEEwUzFQWUl3dFhRVlVXQ3A1dU5OZ2d1YkxhTGF2XzEwOHVBdw?oc=5",
+      "summary": "贅沢ビールはプレモル、ヱビスの2強 小腹にチョコパイ、食品想起分析&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T16:38:57+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "森永乳業のアイス「MOW」が「もう...」と嘆く、バニラ市場の強敵とは",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEZW9mdXN2U18tVUpHNzNDQ01STk5NbWhCTnlxS0FVclVJUFp3cGU5TzFXNE1BczI5b0V5elctNjc1SmZGR21Nd2NkUzJxY0ZxakJfU2t2XzJKOHdZOFVJaFJscGlzZw?oc=5",
+      "summary": "森永乳業のアイス「MOW」が「もう...」と嘆く、バニラ市場の強敵とは&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T16:38:57+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米中間選挙、テック業界最大の衝撃は州司法長官選での民主党勝利か",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ucnd1UFgwSklzQmU1NGVpUmd2OWdwYWtzMXRoeV9BQ0dBS01hZ1phdTh2WWswXzgzei1xVlBlQVlTWHpHX05iT3VQaGFDQmpWTjlFeXVJU2JPY0t1bDBVVmlLX0dpUQ?oc=5",
+      "summary": "米中間選挙、テック業界最大の衝撃は州司法長官選での民主党勝利か&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-16T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T16:38:57+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -1059,6 +1147,28 @@
       ],
       "primary_category": "联名营销",
       "scraped_at": "2026-11-14T00:50:43+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米国で急拡大ピックルボール商談 ゴルフ接待に代わる新定番浮上",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tdzV5eFJHUDdfQUZlVmlhMURnNThZMllWOFBzSWYzVENSRU9ja2lNM19IQ3JUTGlnNm5Bc1lLT05uMUJ2UXRnR2sxLVlqWHQya2Nudll4SUxnRWY5ZGVpNHNTUGEtZw?oc=5",
+      "summary": "米国で急拡大ピックルボール商談 ゴルフ接待に代わる新定番浮上&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-11T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-17T16:38:57+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -5650,28 +5760,6 @@
       "scraped_at": "2026-10-18T20:52:01+08:00"
     },
     {
-      "site_name": "Packaging Digest",
-      "site_name_en": "Packaging Digest",
-      "region": "北美",
-      "positioning": "包装&设计",
-      "title": "Figuring Out the Gen Z Wine Consumer",
-      "url": "https://www.packagingdigest.com/beer-wine-spirits/figuring-out-the-gen-z-wine-consumer",
-      "summary": "The wine industry is in experimental mode, throwing packaging options at Gen Z to see what sticks with this vitally important up-and-coming generation.",
-      "published_at": "2026-10-16T15:20:11Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-17T13:09:42+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5830,28 +5918,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "イオン[8267]：イオン（株）9月度連結営業概況 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oOFVESDNOWjRQREZ0UEZ4SFU0Q0dvNk9IYWZ6X0cwQzZHZkFnVkpyU29Ybk4tclEyalNvSUpfVjU5QWl2YTh1em1IRkthTVc2OFhXRDJya1JiVkVqUzJNVlZTb0lBMnNNQkE?oc=5",
-      "summary": "イオン[8267]：イオン（株）9月度連結営業概況 2026年10月13日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-10-13T06:30:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-17T13:09:26+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "食品・飲料（218ページ目）",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VOFo2aHcydG4xUnNnaHpCNWFaZ3B3d1FScVVIU3Vxd19MSXZiVTdfOHpjYWQ3RHo0X3ktX2MtRk1TZm9DREFxdUhqLVFPWjZmTG05ekdId1VkdDdDRjhhYU5BVzVPUWs?oc=5",
       "summary": "食品・飲料（218ページ目）&nbsp;&nbsp;日経クロストレンド",
@@ -5978,50 +6044,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-22T22:13:16+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Beyond Meat adds caffeine to protein drink as competition mounts",
-      "url": "https://www.fooddive.com/news/beyond-meat-protein-beverage-immerse-energy-caffeine/833100/",
-      "summary": "The company continues to innovate its protein beverages while looking to differentiate from the plant-based meat segment it became known for.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-17T13:09:39+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "FDA paves the way for salt reduction in dozens of food categories",
-      "url": "https://www.fooddive.com/news/fda-salt-substitutes-sodium-reduction-food/832970/",
-      "summary": "The department will allow salt substitutes in bread, milk, condiments and other staple foods as part of an effort to reduce Americans’ sodium consumption.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "行业政策",
-          "icon": "📋",
-          "color": "#374151",
-          "score": 1
-        }
-      ],
-      "primary_category": "行业政策",
-      "scraped_at": "2026-10-17T13:09:39+08:00"
     },
     {
       "site_name": "Food Dive",
