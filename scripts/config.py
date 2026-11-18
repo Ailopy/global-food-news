@@ -33,7 +33,7 @@ def get_settings(cfg: dict) -> dict:
     """返回 settings 配置项，并补充默认值（兼容新旧字段名）"""
     s = cfg.get("settings", {})
     return {
-        "retention_days": s.get("keep_days", s.get("retention_days", 7)),
+        "retention_hours": s.get("keep_hours", s.get("retention_hours", s.get("keep_days", s.get("retention_days", 7)) * 24)),
         "summary_max_length": s.get("summary_max_length", 200),
         "request_timeout": s.get("fetch_timeout", s.get("request_timeout", 15)),
         "max_workers": s.get("max_workers", 6),

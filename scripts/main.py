@@ -45,9 +45,9 @@ def deduplicate(articles: list) -> list:
     return list(seen.values())
 
 
-def filter_by_days(articles: list, retention_days: int) -> list:
-    """只保留 retention_days 天内的文章"""
-    cutoff = datetime.now(TZ_CST) - timedelta(days=retention_days)
+def filter_by_hours(articles: list, retention_hours: int) -> list:
+    """只保留最近 retention_hours 小时内发布/更新的文章（按北京时间 UTC+8 计算）"""
+    cutoff = datetime.now(TZ_CST) - timedelta(hours=retention_hours)
     result = []
     for art in articles:
         try:
@@ -93,7 +93,7 @@ def main():
 
     timeout = settings["request_timeout"]
     max_workers = settings["max_workers"]
-    retention_days = settings["retention_days"]
+    retention_hours = settings["retention_hours"]
     summary_max_len = settings["summary_max_length"]
     data_dir = settings["data_dir"]
 
@@ -102,7 +102,7 @@ def main():
     latest_path = os.path.join(data_dir_abs, "news_latest.json")
     archive_path = os.path.join(data_dir_abs, "news_archive.json")
 
-    logger.info(f"已配置来源: {len(sources)} 个，保留天数: {retention_days}")
+    logger.info(f"已配置来源: {len(sources)} 个，保留小时数: {retention_hours}")
 
     # ── 并发抓取 ────────────────────────────────────────────
     all_new_articles = []
@@ -139,17 +139,17 @@ def main():
     }
     save_json(archive_out, archive_path)
 
-    # ── 过滤最近 N 天，保存最新数据 ────────────────────────
-    recent = filter_by_days(deduped, retention_days)
+    # ── 过滤最近 N 小时（北京时间），保存最新数据 ────────────────
+    recent = filter_by_hours(deduped, retention_hours)
     recent_sorted = sort_by_time(recent)
-    logger.info(f"近 {retention_days} 天内: {len(recent_sorted)} 条")
+    logger.info(f"近 {retention_hours} 小时内: {len(recent_sorted)} 条")
 
     # 收集来源列表
     source_names = sorted(set(a["source"] for a in recent_sorted))
 
     latest_out = {
         "last_updated": datetime.now(TZ_CST).isoformat(),
-        "retention_days": retention_days,
+        "retention_hours": retention_hours,
         "total": len(recent_sorted),
         "sources": source_names,
         "articles": recent_sorted,

@@ -7,7 +7,7 @@
 # =============================================================
 
 settings:
-  keep_days: 7          # 保留最近N天资讯
+  keep_hours: 24        # 只保留最近N小时资讯（24=近24小时，按北京时间计算）
   max_per_source: 50    # 每个来源最多保留条数
   fetch_timeout: 15     # 抓取超时秒数
   output_dir: web/data  # JSON 输出目录

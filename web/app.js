@@ -408,7 +408,7 @@ function updateStats(count) {
     || activeRegions.size < allRegions.length || activeCategories.size < allCategories.length;
   statsText.textContent = isFiltered
     ? `筛选结果：${count} 条 / 共 ${total} 条`
-    : `共 ${total} 条资讯，近 7 天`;
+    : `共 ${total} 条资讯，近 24 小时`;
 }
 
 // ── 筛选逻辑 ───────────────────────────────────────────────────
