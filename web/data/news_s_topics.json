@@ -1,33 +1,243 @@
 {
-  "total": 309,
-  "s_plus_count": 52,
+  "total": 317,
+  "s_plus_count": 53,
   "sites": [
-    "Packaging Digest",
-    "日経xTrend",
     "Food Dive",
     "朝日グループYouTube",
-    "日経新聞"
+    "日経xTrend",
+    "日経新聞",
+    "Packaging Digest"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
-    "新产品": 71,
-    "品牌故事": 41,
+    "品牌故事": 43,
+    "新产品": 72,
+    "营销创新": 16,
+    "新包装": 12,
+    "其他": 144,
     "联名营销": 14,
-    "其他": 141,
-    "新包装": 11,
     "渠道新物种": 6,
-    "营销创新": 15,
     "并购融资": 5,
     "新原料": 1,
     "行业政策": 3,
     "新技术": 1
   },
-  "last_updated": "2026-11-18 16:01",
-  "last_updated_iso": "2026-11-18T16:01:50.420349+08:00",
+  "last_updated": "2026-11-19 01:40",
+  "last_updated_iso": "2026-11-19T01:40:52.993338+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "チョコレートの想起率で圧倒の「明治」 商品より企業名が強い理由",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01508/00008/?n_cid=nbpnxr_rss",
+      "summary": "「チョコレートといえば明治」は、なぜここまで強いのか。第一想起32.4％で2位「ガーナ」の3倍超。一方、思い出される企業名が、個々の商品の購入には直結しない。100年守ったロゴを“傘”に、明治が挑む企業ブランドと商品ブランドのつなぎ方を追った。その舞台裏とは。",
+      "published_at": "2026-11-19T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-19T01:40:39+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "【今年の顔】髙石あかり「『ばけばけ』は挑戦も失敗もたくさんできた」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01313/00012/?n_cid=nbpnxr_rss",
+      "summary": "朝ドラ「ばけばけ」のヒロインとして全国的な知名度を獲得し、CMやブランドアンバサダーへの起用が相次ぐ髙石あかり。俳優としての評価を高めながら、ランコムや日本マクドナルドなど幅広い企業から支持を集める背景には何があるのか。役柄ごとに異なる表現を追求する姿勢と、周囲への感謝を忘れない髙石が、多くの人を引きつける理由に迫る。",
+      "published_at": "2026-11-19T00:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-19T01:40:39+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ヒット予測【家電・デジタル他】アップル初のAIスマートディスプレー",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01507/00018/?n_cid=nbpnxr_rss",
+      "summary": "2026年11月4日発売の「日経トレンディ2026年12月号」では、「2027年ヒット予測ベスト30」を特集。今回は外食、美容・アパレル、家電・デジタル部門で、ランキングには入らなかったが、2027年に期待できると言える商品を紹介する。韓国発の「MOM’S TOUCH」は渋谷に直営1号店をオープン。アップルのスマートディスプレー「Apple HomeView」は会話性能が向上した「Siri AI」を搭載。ヘアアイロン「ReFa HEART COMB IRON」は旅先で重宝する。なお記事の最後には、本誌の該当ページの図版などをそのまま確認できるPDFへのリンクを用意している。ぜひ活用してほしい。",
+      "published_at": "2026-11-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-19T01:40:39+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "Amazon広告でWalmartなどリアル店の消費者もターゲティング可能に",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00012/?n_cid=nbpnxr_rss",
+      "summary": "数あるリテールメディアの中でも最大の規模と存在感を持つ企業と言えば、米Amazon.comであることは間違いない。同社はそのターゲティングのカバー範囲をECだけでなく、多彩な小売業者の購買傾向にまで拡大しようとしている。広告やマーケティングの有力専門メディア「ADWEEK」がリポートする。",
+      "published_at": "2026-11-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 2
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-11-19T01:40:39+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "55周年は「熱湯禁止」 日清カップヌードルマネジャー「人を動かす熱」",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01313/00018/?n_cid=nbpnxr_rss",
+      "summary": "2026年夏、斬新な商品がコンビニエンスストアなどの店頭に並び、僅か1週間程度でほぼ完売した。日清食品が「カップヌードル」初とうたう冷水専用「冷しカップヌードル」だ。パッケージの蓋に躍るのは、「熱湯禁止」という、即席カップ麺を食べる際のつくり方を否定する刺激的な言葉。このヒット商品を仕掛けたのが、ブランドマネジャーの土岡洋平氏だ。2019年度に国内年間売り上げ1000億円を達成したカップヌードルブランドの責任者を、25年から務める。同氏の地道な習慣と、人を動かす熱意の表し方とは――。",
+      "published_at": "2026-11-19T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "完売",
+      "categories": [
+        {
+          "name": "新包装",
+          "icon": "📦",
+          "color": "#7c3aed",
+          "score": 1
+        },
+        {
+          "name": "渠道新物种",
+          "icon": "🏪",
+          "color": "#0f766e",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新包装",
+      "scraped_at": "2026-11-19T01:40:39+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ChatGPTに決済機能、カード3社と提携 AIコマースで“財布”の奪い合い",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00109/00243/?n_cid=nbpnxr_rss",
+      "summary": "米OpenAIが、今度はパーソナルAIエージェント向けの決済機能で妙手を打ち出してきた。米Visaなどカード大手3社と組み、ECサイト側が改修することなく購入を受け付ける新たなエージェントコマース時代の“財布”を提案。米Meta Platformsや米Googleとは異なるアングルからデファクトスタンダードの確立を目指す。果たして勝算はあるのか。",
+      "published_at": "2026-11-19T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-19T01:40:39+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "チョコレートの想起率で圧倒の「明治」 商品より企業名が強い理由",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oQ1JHRy14TUVSaUZRWGVKbWxaRTluQS1fc0Q4Y0JPYVo3bHJPSm5oY0dCQlpsRG54UnJvcHJmcHRrZVN2NEhjSnU3alpSNXU5c05ucnFvRDIxcG1NdGVwYjQxZkloZw?oc=5",
+      "summary": "チョコレートの想起率で圧倒の「明治」 商品より企業名が強い理由&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-18T15:01:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-19T01:40:37+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "55周年は「熱湯禁止」 日清カップヌードルマネジャー「人を動かす熱」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KVlJPUFE4MHphQlB4cEZzZ1hpd0pEaVBWTDdrbmN4dGlSSWhUOUcwTllBbU5ETGhISWFXbXZsdkFUTFlOWjhfUjRvWWhURElGQ0Nrd29PWEFySUNCUy1HVlJvY1hwQQ?oc=5",
+      "summary": "55周年は「熱湯禁止」 日清カップヌードルマネジャー「人を動かす熱」&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-18T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-19T01:40:37+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ChatGPTに決済機能、カード3社と提携 AIコマースで“財布”の奪い合い",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CcFFsc2tDaXNOQlhNeHRyNWVPX3hYeGpTVnZOZkMzNXlfSWc0OHNMMmNQRXZ5UFRCLVpzTTdSRDRGY1R2dFdGYVRRWE9JYktqTEhKdEp2NmYteGtndW1UUlFTUjh4UQ?oc=5",
+      "summary": "ChatGPTに決済機能、カード3社と提携 AIコマースで“財布”の奪い合い&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-18T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-19T01:40:37+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -6238,28 +6448,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-31T22:54:14+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（51ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Q1RDX2M2QlZndWFOZ1d1Y0VBNE5OQldleGxxR2xWckhyOS16akFMREFGU3dnQWdHaDA3N1NtRnBLNGpKczREUTlIVVNjcWt3NVp0WGRhaXlubG52ZExCUnNmQVR1dw?oc=5",
-      "summary": "食品・飲料（51ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-16T18:39:58Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-18T20:52:01+08:00"
     },
     {
       "site_name": "日経新聞",
