@@ -1,6 +1,7 @@
 {
-  "last_updated": "2026-11-18T11:48:05.667030+08:00",
-  "total": 48,
+  "last_updated": "2026-11-18T11:48:24.625495+08:00",
+  "retention_hours": 24,
+  "total": 86,
   "sources": [
     "BevNET",
     "Fab News",
@@ -15,6 +16,378 @@
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "c4feb47170c0913f",
+      "title": "【2026年11月下旬】コンビニ惣菜の新商品！おつまみ3種キムチや砂肝ぽん酢など旬のおつまみ系まとめ",
+      "summary": "セブン-イレブンから、今週も個性豊かなコンビニ惣菜が登場しました。サラダからおつまみ系、ボリューム感のある一品まで、バリエーション豊かなラインナップが揃ってい…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30506/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T11:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "79527d2aaa8a74d3",
+      "title": "少子高齢化で学校給食調理場も効率化が必要、有識者、細かい部屋分けの解消と下処理・洗浄の機械化を提案",
+      "summary": "11月11日に東京ビッグサイトで開催された学校給食の専門展示会フードシステムソリューションのセミナーで、株式会社オフィス田中代表(元文部科学省学校給食調査官)である田中延子氏は、学校給食が抱える課題の1つとして、少子高齢...",
+      "url": "https://www.ssnp.co.jp/feeding/711989/",
+      "published_at": "2026-11-18T11:36:36+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "1022b1d593a463e7",
+      "title": "今週新発売のおつまみまとめ！『ザーサイと食べるピリ辛ラー油白菜』、『砂肝ぽん酢』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！おつまみの新商品情報をお届けします。今週新発売の#おつまみセブン-イレブン ザーサイと食べるピリ辛ラー油白菜ニンニクと唐辛子が…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111804/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "7dfb9809a32545b7",
+      "title": "フレッシュネスバーガー「ムーミン」福袋2027発売　3500円で限定グッズ3点と3000円分チケット入り",
+      "summary": "コロワイドグループのバーガーカフェチェーン「フレッシュネスバーガー」は11月25日から、人気キャラクター「ムーミン」とコラボレーションした福袋「HAPPY BAG 2027」（税込3,500円）の事前予約を開始する。 福...",
+      "url": "https://www.ssnp.co.jp/foodservice/711949/",
+      "published_at": "2026-11-18T11:20:45+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "7d61ec21c29cf790",
+      "title": "Publisher's Platform: A Modest Proposal: The Donald J. Trump Safe Food Act, aka the Make Food Safety Great Again Act",
+      "summary": "Mr. President, the name is yours if you want it. All I ask is that the thirty-five things come with it. If you pass, I will keep the boring name, and the offer stays open to anyone in either party…",
+      "url": "https://www.foodsafetynews.com/2026/11/publishers-platform-a-modest-proposal-the-donald-j-trump-safe-food-act-aka-the-make-food-safety-great-again-act/",
+      "published_at": "2026-11-18T11:19:57+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "2541b057b9a6513f",
+      "title": "【2026年11月下旬】コンビニスープ・コンビニ味噌汁の新商品！麻辣湯やポトフ、豚汁など旨辛・洋風・和風スープまとめ",
+      "summary": "今週のコンビニスープ・味噌汁コーナーには、寒い季節にうれしい新商品が10アイテム登場しました。麻辣湯やポトフ、芋煮、ミネストローネとバラエティ豊かなラインナッ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30505/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T11:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e858468b127a76a4",
+      "title": "なか卯「明太クリームうどん」発売、ほうれん草入りなど全3品を展開",
+      "summary": "なか卯は11月25日（水）午前11時から、「明太クリームうどん」を期間限定で販売する。 「明太クリームうどん」は、鰹や昆布の旨みを含んだうどんだしに、北海道産生クリームを使用したホワイトクリームソースを合わせた商品。もち...",
+      "url": "https://www.ssnp.co.jp/foodservice/711971/",
+      "published_at": "2026-11-18T11:09:12+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "fe744cb7bfd7b9e7",
+      "title": "サガミの秋冬スイーツ「蜜芋」フェアが11月18日スタート!丸ごと焼き芋のキャラメリゼやテイクアウト可能なシェイクなど7品",
+      "summary": "和食麺処サガミは、2026年11月18日から169店舗で、「蜜芋デザートフェア」を開催し、「蜜芋」を使用した季節限定デザートを販売している。 【メニュー画像一覧はこちら】 【販売商品ラインアップ ※いずれも税込価格】 ◆...",
+      "url": "https://www.ssnp.co.jp/foodservice/711958/",
+      "published_at": "2026-11-18T11:04:09+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "09b9e866a65a12bd",
+      "title": "【2026年11月第2週】スイーツ・デザートランキング1位はスタバの青森りんごアップルパイ！三角チョコパイも上位独占まとめ",
+      "summary": "2026年11月第2週のスイーツ・デザートランキングが出そろいました。秋冬の定番商品が顔をそろえ、今週も目が離せない争いとなっています。チェーン店スイーツから…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30370/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "16c9f329c3b272d6",
+      "title": "ヤオコー新店「大宮市場店」オープン、市場直送の野菜も",
+      "summary": "ヤオコーは11月17日、新店舗「ヤオコー大宮市場店」をオープンした。デリカ商品を充実させたほか、隣接する市場から直接仕入れた野菜も販売する。精肉ではミートデリカとして自社製造のローストビーフをのせたサラダや丼ぶりなども扱...",
+      "url": "https://www.ssnp.co.jp/distribution/711944/",
+      "published_at": "2026-11-18T10:45:42+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "9899b9c992d7ca13",
+      "title": "【2026年11月下旬】コンビニ麺・コンビニパスタの新商品！札幌すみれ監修みそラーメンやラーメンサラダなど話題作まとめ",
+      "summary": "2026年11月第3週のコンビニ麺・コンビニパスタに、個性豊かな新商品が揃いました。ご当地の味を楽しめるラーメンから、パスタ、そばやうどんまで幅広いラインアッ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30475/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9e14999b1044d8af",
+      "title": "今週新発売のボリュームのある食べものまとめ！『ふんわりコッペ　きなこホイップ　当別町産大豆のきなこ使用』、『ハンバーグと目玉焼きのナポリタン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ボリュームの新商品情報をお届けします。今週新発売の#ボリュームセブン-イレブン ふんわりコッペ きなこホイップ 当別町産大豆の…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111803/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T10:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "4ea7eb9efd75adcc",
+      "title": "価格改定は目標に対して 50～60%、下期に早期に実勢化を目指す-日清オイリオG",
+      "summary": "日清オイリオグループは11月17日、本社で 26年度第2四半期決算説明会を開催した。国内汎用油の価格改定の実勢化について、加工用は先行して実勢化が進展し、家庭用と業務用については7月以降に理解が進み交渉が進展したという。...",
+      "url": "https://www.ssnp.co.jp/soy/711940/",
+      "published_at": "2026-11-18T10:18:39+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "3f73e2bd667c731b",
+      "title": "【2026年11月下旬】コンビニサンドイッチ・コンビニパンの新商品！たんぱく質チキンやチーズベーグルなどまとめ",
+      "summary": "今週（2026年11月15日〜11月21日）のコンビニ新商品は、チーズやベーコン、チキンなどボリューム感のあるサンドイッチから、もっちりベーグルや塩バターパン…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30474/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T10:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b884ef1e5a1a5e39",
+      "title": "Trump pulls Overton from consideration for FDA Commissioner",
+      "summary": "The Trump Administration has pulled Heidi Overton from consideration as FDA Commissioner amid reports that she would not have enough votes to gain approval by a Senate committee tomorrow. In recent…",
+      "url": "https://www.foodsafetynews.com/2026/11/trump-pulls-overton-from-consideration-for-fda-commissioner/",
+      "published_at": "2026-11-18T10:07:26+08:00",
+      "source": "Food Safety News",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
+      "id": "2bae706f6d721019",
+      "title": "【2026年11月第2週】レトルトカレーランキング1位は丸大食品 シェフの匠 バターチキンカレー！久しぶりランクインも話題のまとめ",
+      "summary": "今週も市販レトルトカレーのランキング結果が出ました！寒い季節にうれしい、スパイス香るカレーたちが顔を揃えています。定番の人気商品から久しぶりのランクインまで、…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30369/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "c9a1dc5a9d16822b",
+      "title": "「エニタイムウイスキー名古屋」 5年目迎えファンに定着",
+      "summary": "ウイスキーを楽しみ、ウイスキーを盛り上げるイベント「Anytime Whiskey（エニタイムウイスキー）2026」が11月7～8日、名古屋市中区のサカエヒロバスで開催された。今年も全国各地の蒸留所やインポーター、バー […] ソース",
+      "url": "https://shokuhin.net/160441/2026/11/18/inryou/sake/",
+      "published_at": "2026-11-18T09:58:00+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "6001493ffe22b225",
+      "title": "すき家「食べラー白髪ねぎ牛丼」新登場、にんにく入りやみそらーめんも",
+      "summary": "牛丼チェーン「すき家」は11月25日午前9時から、期間限定メニュー「白髪ねぎ牛丼」「食べラー白髪ねぎ牛丼」を販売する。 定番の「白髪ねぎ牛丼」(並盛税込690円)に加え、新商品「食べラー白髪ねぎ牛丼」(同690円)が登場...",
+      "url": "https://www.ssnp.co.jp/foodservice/711924/",
+      "published_at": "2026-11-18T09:46:55+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "e786d59ddca3d3b1",
+      "title": "【2026年11月下旬】コンビニ寿司・コンビニ弁当の新商品！ガラスープ肉あんかけチャーハンやチキンケバブライスなど話題作まとめ",
+      "summary": "コンビニ各社から気になる新商品が続々と登場した今週。ボリューム満点のお弁当から手軽なおむすびまで、バラエティ豊かなラインナップが揃っています。ぜひチェックして…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30473/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "bb3746c83964164b",
+      "title": "今週新発売のコンビニ寿司・コンビニ弁当🍣🍱まとめ！『マルチョンらーめん監修　チャーシュー弁当』、『西京焼の銀鮭のり弁当　もち麦入りご飯』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ寿司・コンビニ弁当の新商品情報をお届けします。今週新発売のコンビニ寿司・コンビニ弁当ローソン マルチョンらーめん監修 …",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111802/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T09:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b4842fb5d8bfd0d1",
+      "title": "【2026年11月下旬】コンビニおにぎり・コンビニ手巻寿司の新商品！鶏そぼろや海老マヨなどセブン新作まとめ",
+      "summary": "今週（2026年11月15日〜21日）のコンビニおにぎり・手巻寿司カテゴリには、全部で10件の新商品が登場しました。セブン-イレブンを中心に、ローソンやデイリ…",
+      "url": "https://mognavi.jp/news/matome/gen-newProduct-30472/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T09:15:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "30f16819204eced9",
+      "title": "おうちでお魚を食べよう 「ピエトロ秋のフードチャレンジ」 未利用魚を学ぶ",
+      "summary": "ピエトロは11月7日、本社のピエトロ秘密のキッチンで小学4年生から6年生までの10人を対象とした秋のフードチャレンジ「おうちでお魚を食べよう」を開催した。 同イベントはピエトロが魚のフードロス削減のためのプラットフォ […] ソース",
+      "url": "https://shokuhin.net/160444/2026/11/18/sonota/event/",
+      "published_at": "2026-11-18T09:13:48+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "9abf2b9db66f71da",
+      "title": "東洋製罐GHD 上期は売上高・営業利益・経常利益が過去最高 国産ナフサなど一層のコストアップ見込む",
+      "summary": "東洋製罐グループホールディングス（GHD）の上期（3月期）業績は、中東情勢の影響などにより原材料価格が上昇したものの、価格改定を推進し北米エンジニアリング事業が回復したことで、四半期開示制度の導入以降、売上高、営業利益 […] ソース",
+      "url": "https://shokuhin.net/160428/2026/11/18/sonota/kikai/",
+      "published_at": "2026-11-18T09:08:47+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "62a0db6eb4d49fcd",
+      "title": "【2026年11月第2週】ヨーグルトランキング1位は小岩井プレーン！レモン＆ぶどう急上昇まとめ",
+      "summary": "2026年11月第2週のヨーグルトランキングが出そろいました。今週はプレーンの定番商品が首位に輝いたほか、フルーツ系のフレーバーも存在感を発揮した週となってい…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30368/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "5d01b7435891b75e",
+      "title": "農研機構 コメの省人化と多収化・米粉利用・高温対策 などの研究成果を発表",
+      "summary": "農研機構は11月4日、大手町プレイス（東京都千代田区）で「コメ生産と利用を支える農研機構の研究開発最前線 ～つくる、拡大する、適応する～」を開催した。「コメ」をテーマとして、乾田直播による省人化と多収化、米粉用品種の開 […] ソース",
+      "url": "https://shokuhin.net/160458/2026/11/18/%e8%be%b2%e6%b0%b4%e7%95%9c%e7%94%a3%e6%a5%ad/",
+      "published_at": "2026-11-18T08:56:10+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "3501fff9271ba38f",
+      "title": "暮らしに喜びを灯す食",
+      "summary": "年を重ねるにつれ、和菓子の甘みや相撲、落語の味わいが身に染みるようになった。大阪に出張した先日は、初めて回転焼き「御座候」を買い求めた。かつては母への土産だった品に、いまは自ら手が伸びる変化が面白い。 ▼回転焼き、大判 […] ソース",
+      "url": "https://shokuhin.net/160419/2026/11/18/gyakukousen/",
+      "published_at": "2026-11-18T08:40:27+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "78711769bea7b686",
+      "title": "総合流通特集Part2",
+      "summary": "GMS・SM 上期苦戦、各社挽回急ぐ 価格強化・荒利改善に注力 ・コメ反動・コスト高が重荷 ・エリア間の競争激化 ・食料品減税の影響は？ ◇ ◇ ・イオン 食品小売、下期改善へ 価格信頼度を高める ・ライフコーポレ […] ソース",
+      "url": "https://shokuhin.net/160416/2026/11/18/toku-info/",
+      "published_at": "2026-11-18T08:12:01+08:00",
+      "source": "食品新聞",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b489b6100b73a754",
+      "title": "今週新発売のマヨネーズ味まとめ！『ＢＩＧバーガー　オニオンマヨネーズ』、『そばめしおむすびからしマヨソース入り』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！マヨネーズ味の新商品情報をお届けします。今週新発売の#マヨネーズ味セブン-イレブン BIGバーガー オニオンマヨネーズ肉の食感…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111801/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-18T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "b54775497ec70edd",
+      "title": "【4日間限定】餃子の王将、会計500円ごとに餃子半額券を配布　「大感謝祭」開催",
+      "summary": "中華料理チェーン「餃子の王将」「GYOZA OHSHO」は、11月20日から23日までの4日間限定で、「大感謝祭」を開催する。 期間中は、各種割引処理後の会計金額が税込500円ごとに、「餃子1人前半額券（2枚綴り）」を1...",
+      "url": "https://www.ssnp.co.jp/foodservice/711856/",
+      "published_at": "2026-11-18T05:13:00+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "2d67399da9442cbe",
+      "title": "Anheuser-Busch invests in flagship Cutwater plant to expand production",
+      "summary": "The brand beloved by Gen Z will use the money to expand its cream-based cocktail lines and fund future innovation.",
+      "url": "https://www.fooddive.com/news/anheuser-busch-invests-cutwater-plant-expansion/874944/",
+      "published_at": "2026-11-18T03:17:00+08:00",
+      "source": "Food Dive",
+      "region": "北美",
+      "category": "综合",
+      "level": "A+",
+      "language": "en"
+    },
+    {
+      "id": "1fa8552f393bdd45",
+      "title": "Who You’ll Meet at Nosh Live 2026: The Brands, Retailers, Investors and Partners Shaping Packaged Food",
+      "summary": "The best conversations happen at Nosh Live. The first-time founder meets the buyer, a growing brand and the investor who’s been watching its category finally sit down together, a broker or supplier…",
+      "url": "https://www.nosh.com/news/events/noshlivewinter26/who-youll-meet-at-nosh-live-2026-the-brands-retailers-investors-and-partners-shaping-packaged-food",
+      "published_at": "2026-11-18T02:23:51+08:00",
+      "source": "NOSH",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
     {
       "id": "85c0eced546071dd",
       "title": "Owl’s Brew Rebrands, Doubles Down on Spiked Pop",
@@ -232,6 +605,18 @@
       "language": "en"
     },
     {
+      "id": "799e022fcb874dd3",
+      "title": "今週新発売の味噌まとめ！『具だくさん味噌汁　ひろしまっこ汁』、『信州味噌使用もつ煮込み煮卵入り』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！味噌の新商品情報をお届けします。今週新発売の#味噌セブン-イレブン 具だくさん味噌汁 ひろしまっこ汁広島県の給食で馴染みがあり…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111708/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-17T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "065ee58aee8942d6",
       "title": "今週新発売の味噌まとめ！『具だくさん味噌汁　ひろしまっこ汁』、『信州味噌使用もつ煮込み煮卵入り』など♪",
       "summary": "こんにちは、もぐナビ編集部です！味噌の新商品情報をお届けします。今週新発売の#味噌セブン-イレブン 具だくさん味噌汁 ひろしまっこ汁広島県の給食で馴染みがあり…",
@@ -340,6 +725,18 @@
       "language": "en"
     },
     {
+      "id": "06bba6fdc0798ac7",
+      "title": "今週新発売のキャベツまとめ！『手包みロールキャベツ入りポトフ』、『おつまみキャベツ　新潟県産キャベツ使用』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！キャベツの新商品情報をお届けします。今週新発売の#キャベツセブン-イレブン 手包みロールキャベツ入りポトフ１／３日分の野菜がと…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111707/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-17T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "444ae7e47f578f9b",
       "title": "今週新発売のキャベツまとめ！『手包みロールキャベツ入りポトフ』、『おつまみキャベツ　新潟県産キャベツ使用』など♪",
       "summary": "こんにちは、もぐナビ編集部です！キャベツの新商品情報をお届けします。今週新発売の#キャベツセブン-イレブン 手包みロールキャベツ入りポトフ１／３日分の野菜がと…",
@@ -409,6 +806,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "033c7c1a52dcb119",
+      "title": "今週新発売のいちご味🍓まとめ！『ロアンヌ　濃苺』、『ＭＯＷ　ＰＲＩＭＥ　ストロベリーラバーズ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！いちご味の新商品情報をお届けします。今週新発売の#いちご味ブルボン ロアンヌ 濃苺 袋2枚×8サクッとやさしい食感の香ばしいゴ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111706/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-17T13:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -496,6 +905,18 @@
       "language": "en"
     },
     {
+      "id": "df81f90cafe1eeb5",
+      "title": "FI Fast Break audio news: Nov. 18, 2026",
+      "summary": "In this week's food industry news in 2 minutes, we examine the impact that wars around the world are having on ingredients. The post FI Fast Break audio news: Nov. 18, 2026 appeared first on The Food…",
+      "url": "https://foodinstitute.com/podcast/fi-fast-break-audio-news-nov-18-2026-2/?utm_source=rss&utm_medium=rss&utm_campaign=fi-fast-break-audio-news-nov-18-2026-2",
+      "published_at": "2026-11-17T13:00:09+08:00",
+      "source": "The Food Institute",
+      "region": "北美",
+      "category": "综合",
+      "level": "A",
+      "language": "en"
+    },
+    {
       "id": "ee0ce7eb4aa73cbf",
       "title": "Howard Lyman dies at age 88",
       "summary": "Howard Lyman, who rode to a role in food safety on the back of the mad cow disease scare, died on Oct. 27 at his home in Damariscotta, ME. He was 88. Lyman was a fourth generation cattleman whose…",
@@ -506,6 +927,18 @@
       "category": "综合",
       "level": "A",
       "language": "en"
+    },
+    {
+      "id": "a9fd002b4184c786",
+      "title": "【2026年11月第2週】カップうどん・そばランキング1位はどん兵衛クラムチャウダーうどん！久しぶりランクインも見逃せないまとめ",
+      "summary": "2026年11月第2週のカップうどん・そばランキングが出揃いました。今週は定番の人気商品から意外性あふれる新顔まで、バラエティ豊かなラインナップが顔をそろえて…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30367/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-17T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
     },
     {
       "id": "73db9605382052e6",
@@ -529,6 +962,18 @@
       "region": "日本",
       "category": "综合",
       "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "aabf3bf55f5a3b46",
+      "title": "今週新発売の甘辛まとめ！『全粒粉サンド　チキン＆きんぴらごぼう』、『具だくさん！炙り焼鶏つくね　つくば鶏使用』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！甘辛の新商品情報をお届けします。今週新発売の#甘辛ファミリーマート 全粒粉サンド チキン＆きんぴらごぼう甘辛いきんぴらごぼうと…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026111705/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-17T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
       "language": "ja"
     },
     {
@@ -568,6 +1013,18 @@
       "language": "ja"
     },
     {
+      "id": "45454ec8f579fce1",
+      "title": "【2026年11月第2週】カップ焼きそば・パスタランキング1位はU.F.O.メキシカンタコス味！急上昇のデカうまWマヨも注目まとめ",
+      "summary": "2026年11月第2週のカップ焼きそば・パスタランキングが出揃いました。今週はタコスやたこ焼き、にんにく醤油といった個性豊かなフレーバーが顔を揃え、眺めるだけ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30366/?utm_source=rss&utm_medium=mognavinews_20261118",
+      "published_at": "2026-11-17T12:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5a2cc43c3d95a938",
       "title": "【2026年11月第2週】カップ焼きそば・パスタランキング1位はU.F.O.メキシカンタコス味！急上昇のデカうまWマヨも注目まとめ",
       "summary": "2026年11月第2週のカップ焼きそば・パスタランキングが出揃いました。今週はタコスやたこ焼き、にんにく醤油といった個性豊かなフレーバーが顔を揃え、眺めるだけ…",
@@ -591,6 +1048,5 @@
       "level": "B",
       "language": "ja"
     }
-  ],
-  "retention_hours": 24
+  ]
 }
