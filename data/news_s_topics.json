@@ -1,22 +1,22 @@
 {
-  "total": 305,
-  "s_plus_count": 51,
+  "total": 309,
+  "s_plus_count": 52,
   "sites": [
-    "朝日グループYouTube",
-    "日経xTrend",
     "Packaging Digest",
+    "日経xTrend",
     "Food Dive",
+    "朝日グループYouTube",
     "日経新聞"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
     "新产品": 71,
     "品牌故事": 41,
     "联名营销": 14,
-    "其他": 137,
+    "其他": 141,
     "新包装": 11,
     "渠道新物种": 6,
     "营销创新": 15,
@@ -25,8 +25,8 @@
     "行业政策": 3,
     "新技术": 1
   },
-  "last_updated": "2026-11-18 01:59",
-  "last_updated_iso": "2026-11-18T01:59:01.547400+08:00",
+  "last_updated": "2026-11-18 16:01",
+  "last_updated_iso": "2026-11-18T16:01:50.420349+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -375,6 +375,94 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-18T01:58:45+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ヒット予測【飲料・酒類】糖質・カロリー50%オフの甘くないピルクル",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sdjhCM0RNbXZBLXpibmN1YnhxSi0wS3JUSW84U0F2dlpTNEtwejJtTVZNWHpJMjZLaWs3YlhRRXQ4T2RDTlp6OENvLUJ5YURfcG1EbnlUYXVFeGM5VXMyMWFFQUtIdw?oc=5",
+      "summary": "ヒット予測【飲料・酒類】糖質・カロリー50%オフの甘くないピルクル&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-17T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T16:01:36+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "3000セットが5日で完売 アサヒが量産化の壁を破った方法",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oNHZjdlR5ZVhULWJLSmdGLVhRUUZsTFFjTVZwMTk5SXNMUU8zQ1l2bUFtWlpKQmI1ekhsMVRPa2RlV2NOMzRJTlllZXF4b2NaT2pWVFE1R2FzRDFDdzZfLW94a1hPZw?oc=5",
+      "summary": "3000セットが5日で完売 アサヒが量産化の壁を破った方法&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-17T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "完売",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T16:01:36+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "不二家「ホームサクッと」計画比570％のヒット 開発者の超朝型仕事術",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oTHB1Z1RrWndZYkNmMHZpbFlkQW9EX1dHdUxPTUI3T1VCeEFCNzJJWTRfcF9rMW1qMEtFNnlBWm5XLXBLQnpteTZTNmVrNFd5TWlNWEozSGVlMjdWendOMWtvcURhZw?oc=5",
+      "summary": "不二家「ホームサクッと」計画比570％のヒット 開発者の超朝型仕事術&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-17T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T16:01:36+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "初週で世界興収100億円 『ゴジラ-0.0』日米ヒットを読み解く",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZGxiODQzZXlVc1F5TE1ubS1UNEhBRFMyOUpvYmtUYlBwcmNsVHJ5d3VSS2RUUFI1UXRqZzVYODY1MEhRNEEtb2lySnNXMmlrRlpNOXUzU0dXWFZDVElCYmlZMDJnUQ?oc=5",
+      "summary": "初週で世界興収100億円 『ゴジラ-0.0』日米ヒットを読み解く&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-17T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T16:01:36+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -1125,6 +1213,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-16T15:27:08+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "「日本酒好きには不評」なのに広げたい理由",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRFdxNnN2RGlFMjZvYWczcXJPMmIycmMtX0Z2RWVqbkhZRGo5cWxFWlZUUk1KdkxidHZnTHJFaFdjV1gtZXp2WjVBNThrVW1nbmUtZ2ZEMXFQWnpycFo2ZFJPRFJlcDF2Ymc?oc=5",
+      "summary": "「日本酒好きには不評」なのに広げたい理由&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-15T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-18T16:01:36+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -6150,28 +6260,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-18T20:52:01+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（215ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52V2g1R3Jfc3lUeldEVXZxTnF6ajBrbElzQnpjcVQ4eUxEeXBHUUNxOXJrS1FLb091RHluYUpYZnI3bTRucFZnLTdDM1dYWEJIV3VYdjhEUGRDTUNaRGZGQXU2ZFdvbXc?oc=5",
-      "summary": "食品・飲料（215ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-16T12:38:13Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-18T13:15:04+08:00"
     },
     {
       "site_name": "日経新聞",
