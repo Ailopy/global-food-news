@@ -1,12 +1,12 @@
 {
-  "total": 317,
-  "s_plus_count": 53,
+  "total": 310,
+  "s_plus_count": 50,
   "sites": [
-    "Food Dive",
     "朝日グループYouTube",
-    "日経xTrend",
+    "Packaging Digest",
     "日経新聞",
-    "Packaging Digest"
+    "Food Dive",
+    "日経xTrend"
   ],
   "regions": [
     "北美",
@@ -14,19 +14,19 @@
   ],
   "category_stats": {
     "品牌故事": 43,
-    "新产品": 72,
-    "营销创新": 16,
+    "新产品": 69,
+    "营销创新": 15,
     "新包装": 12,
-    "其他": 144,
+    "其他": 142,
     "联名营销": 14,
-    "渠道新物种": 6,
+    "渠道新物种": 5,
     "并购融资": 5,
     "新原料": 1,
     "行业政策": 3,
     "新技术": 1
   },
-  "last_updated": "2026-11-19 01:40",
-  "last_updated_iso": "2026-11-19T01:40:52.993338+08:00",
+  "last_updated": "2026-11-19 16:06",
+  "last_updated_iso": "2026-11-19T16:06:21.657601+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -6124,28 +6124,6 @@
       "scraped_at": "2026-10-24T13:10:47+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "AI時代「マーケティング大予測2030」",
-      "url": "https://xtrend.nikkei.com/info/podcast/19/00427/?n_cid=nbpnxr_rss",
-      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の最新トレンドをチェックする「WEEKLY TREND KEYWORDS」は、食感トレンドとして人気の麺類の「ワシワシ」と、菓子・スイーツ、パン・ベーカリーの「ふわもち」の実態をピックアップ。後半は「AI時代『マーケティング大予測2030』」をお送りします。AI（人工知能）エンジン最適化（AIO）や、AIエージェントが人間の代わりに商品を探し、購入・決済まで完了させる新しい購買形態「エージェンティック・コマース」など、AIを活用した新しい技術が次々登場しています。今回は2030年のマーケティングはどうなるのか、業界動向の変化を実例とともに紹介します。解説は日経クロストレンドの中村勇介編集長。",
-      "published_at": "2026-10-19T05:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "食感",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-10-19T13:26:58+08:00"
-    },
-    {
       "site_name": "朝日グループYouTube",
       "site_name_en": "Asahi Group YouTube",
       "region": "日本",
@@ -6246,100 +6224,6 @@
       "channel_name": "朝日グループYouTube"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "盤ゲーム「ドラゴンクエスト 人生ゲーム」発売 未来消費カレンダー",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00480/00251/?n_cid=nbpnxr_rss",
-      "summary": "日経クロストレンド「未来消費カレンダー」は、将来話題となりそうな新製品、新施設、商戦・イベントなどの予定を一覧できるサービスだ。新着情報を毎週更新している。2026年10月31日「タカラトミー、盤ゲーム『ドラゴンクエスト 人生ゲーム』発売」ほか19件の情報を追加した。",
-      "published_at": "2026-10-19T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "話題",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 2
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-10-19T13:26:58+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "博物館や庭園が無料のKITTEは穴場 東京駅周辺の4時間最適観光ルート",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01491/00008/?n_cid=nbpnxr_rss",
-      "summary": "2026年10月2日発売の「日経トレンディ2026年11月号」では、「細かすぎる東京駅最新案内2026」を特集。出張や旅行の帰路、新幹線までの空き時間をどう使うか。実は東京駅周辺には、歴史的建築から最新商業施設、無料で楽しめる博物館まで見どころが集まっている。丸の内駅舎や皇居周辺の名所、話題の新スポット、東京駅限定の土産店を効率よく巡れば、移動の合間が充実した観光時間に変わる。4時間で回れる“最強ルート”を紹介する。本文の最後には、地図上でルートを確認できる「日経トレンディ」該当ページの誌面を、そのままPDFで表示するリンクを用意している。",
-      "published_at": "2026-10-19T00:00:00Z",
-      "is_s_plus": true,
-      "s_plus_reason": "話題",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-10-19T13:26:58+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "「脱・TSUTAYA」を加速させるCCC ホテル・サーキットの企画業が好調",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01490/00001/?n_cid=nbpnxr_rss",
-      "summary": "ビデオやCDのレンタル店「TSUTAYA」や共通ポイント「Tポイント」を生み出したカルチュア・コンビニエンス・クラブ（CCC）。しかし、どちらの事業も今ではCCC本体から切り離されている。髙橋誉則社長は「CCCのコアは変わらず、新しい事業を生み出し続けていく企画会社だ」と話す。ライバルだったゲオホールディングスはリユース分野をコアに位置づける。では、企画会社としてのCCCはどこへ向かうのだろうか。",
-      "published_at": "2026-10-19T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "渠道新物种",
-          "icon": "🏪",
-          "color": "#0f766e",
-          "score": 1
-        }
-      ],
-      "primary_category": "渠道新物种",
-      "scraped_at": "2026-10-19T13:26:58+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "1位は「ハウス食品、3色のカレーが3カ月で100万個販売 消費者7セグメント起点」 ちょうど1年前振り返りランキング",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00961/00135/?n_cid=nbpnxr_rss",
-      "summary": "日経クロストレンドで、ちょうど1年前に公開した記事をランキング形式でご紹介。今回は2025年10月19日～11月15日に読まれた記事の1～10位を、1週間限定の「無料登録で読める記事」としてお届けします。",
-      "published_at": "2026-10-19T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-19T13:26:58+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -6360,50 +6244,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-21T13:28:55+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "100万個売れた3色カレーが首位 1年前の人気記事TOP10",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFMURxWjFVLTFpSlZ4RVQtMGI5Q3pwRWF6b2YwV0RtcFBsNXNuU1A0UUV0em5vQlZlTHgwMHZPSFZ6azdSOFNSUGhfUTE0VURDY05fOTZjMTdLTUoybkhDYTAzcjZuUQ?oc=5",
-      "summary": "100万個売れた3色カレーが首位 1年前の人気記事TOP10&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-18T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-19T13:26:56+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "盤ゲーム「ドラゴンクエスト 人生ゲーム」発売 未来消費カレンダー",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQU5ZT1FGNV95RXkzalVtZ3FrdGNMQm1DNUFFRDFQMmEtakZkNUxRMnBmZXZyRVBlWTBQbzY2QVpGUExHNTZpTjBQWllSV0pGcE1IejNnN2ZpSElORGd0NlJob1FocGxVdG1MQU1Zcm40YkhNMFJOYTd1OFozVnN2QVhOMG5IUVJSTkY0?oc=5",
-      "summary": "盤ゲーム「ドラゴンクエスト 人生ゲーム」発売 未来消費カレンダー&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-18T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 1
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-10-19T13:26:56+08:00"
     },
     {
       "site_name": "日経新聞",

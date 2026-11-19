@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-19T00:05:18",
+  "last_updated": "2026-11-19T16:06:04",
   "retention_days": 7,
-  "total": 809,
-  "s_count": 60,
+  "total": 811,
+  "s_count": 61,
   "a_count": 8,
-  "b_count": 741,
+  "b_count": 742,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,28 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.19湖池屋「鯨乃友 あわせて旨みが華やぐセット」(11月19日より数量限定販売)",
+      "url": "https://www.nissin.com/jp/news/13998/",
+      "published_at": "2026-11-19T00:00:00",
+      "summary": "",
+      "level": "S",
+      "level_reason": "营销创新"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 ‘퀴진케이’, 한국수산회와 함께 한국의 바다 세계 식탁에 전했다… 영국∙베트남∙미국서 ‘K-씨...2026.11.19",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1853",
+      "published_at": "2026-11-19T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
