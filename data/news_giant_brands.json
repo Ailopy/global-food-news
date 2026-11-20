@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-20T15:52:39",
+  "last_updated": "2026-11-20T20:42:52",
   "retention_days": 7,
-  "total": 813,
+  "total": 814,
   "s_count": 61,
   "a_count": 8,
-  "b_count": 744,
+  "b_count": 745,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -65,6 +65,17 @@
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
       "published_at": "2026-11-20T00:00:00",
       "summary": "2026年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Yakult",
+      "brand_cn": "养乐多",
+      "region": "日本",
+      "title": "2026.11.20ＩＲ Information”Financial Results Briefing” updated",
+      "url": "https://c-hotline.net/Viewer/Default/6616db6e9ff376d68fcc1e817256a1636d15",
+      "published_at": "2026-11-20T00:00:00",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
