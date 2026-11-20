@@ -1,32 +1,32 @@
 {
-  "total": 301,
-  "s_plus_count": 51,
+  "total": 299,
+  "s_plus_count": 50,
   "sites": [
-    "日経xTrend",
-    "日経新聞",
-    "Packaging Digest",
     "朝日グループYouTube",
-    "Food Dive"
+    "Food Dive",
+    "Packaging Digest",
+    "日経xTrend",
+    "日経新聞"
   ],
   "regions": [
-    "日本",
-    "北美"
+    "北美",
+    "日本"
   ],
   "category_stats": {
     "新产品": 69,
-    "品牌故事": 40,
+    "品牌故事": 39,
     "其他": 143,
     "营销创新": 15,
     "新包装": 8,
-    "联名营销": 13,
+    "联名营销": 12,
     "渠道新物种": 5,
     "并购融资": 4,
     "新原料": 1,
     "新技术": 1,
     "行业政策": 2
   },
-  "last_updated": "2026-11-20 15:52",
-  "last_updated_iso": "2026-11-20T15:52:56.576006+08:00",
+  "last_updated": "2026-11-21 01:25",
+  "last_updated_iso": "2026-11-21T01:25:08.346765+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -205,6 +205,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-20T15:52:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "『盛れミ』が連れてきた人を13年分の曲が迎えた、 Juice=Juice日本武道館公演",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vQzMwVmRFc1dUQ1lLdnljNVJRZDNwX0JqNFlEcVl0NnNJa1pSM0lFTFJFbXlpeDE5Tlk5cGROaXVzMWJOZGh0NFFRVld6dlZhYjE5YzlpWExCTFA0RW9nUTU1YW83NVhJam5OTFdrRUozZDBRb2haWTQ2bXpqdw?oc=5",
+      "summary": "『盛れミ』が連れてきた人を13年分の曲が迎えた、 Juice=Juice日本武道館公演&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-21T01:24:52+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -5993,93 +6015,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-28T14:25:46+08:00"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "スパイスビール「うまいじゃん！」篇",
-      "url": "https://www.youtube.com/watch?v=m6Biq22tvbs",
-      "summary": "スパイスビール WEBCM 「うまいじゃん！」篇 30秒 出演者：江頭2:50 楽曲：オリジナル楽曲 ▼アサヒスパイスビール ブランドサイト https://www.asahibeer.co.jp/brand/spicebeer/",
-      "published_at": "2026-10-20T01:06:57Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-10-20T21:57:55+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i2.ytimg.com/vi/m6Biq22tvbs/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "未来のレモンサワー×攻殻機動隊 TGITS WEBCM「草薙素子×バトー」篇 15秒",
-      "url": "https://www.youtube.com/watch?v=IEDKFx6Kp2o",
-      "summary": "未来のレモンサワー×攻殻機動隊 THE GHOST IN THE SHELL WEBCM「草薙素子×バトー」篇 15秒 ▼未来のレモンサワー ブランドサイト https://www.asahibeer.co.jp/brand/osakenomirai/ ▼未来のレモンサワー×攻殻機動隊 THE GHOST IN THE SHELL コラボキャンペーンサイト https://mirailemon-campaign-gits.jp/",
-      "published_at": "2026-10-20T01:00:08Z",
-      "is_s_plus": true,
-      "s_plus_reason": "コラボ",
-      "categories": [
-        {
-          "name": "联名营销",
-          "icon": "🤝",
-          "color": "#c2410c",
-          "score": 2
-        },
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        },
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "联名营销",
-      "scraped_at": "2026-10-20T21:57:55+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i2.ytimg.com/vi/IEDKFx6Kp2o/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "未来のレモンサワーCM「通年販売」篇 15秒",
-      "url": "https://www.youtube.com/watch?v=3Zw6X1Lfgb4",
-      "summary": "未来のレモンサワーCM「通年販売」篇 15秒",
-      "published_at": "2026-10-20T01:00:05Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-20T21:57:55+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i4.ytimg.com/vi/3Zw6X1Lfgb4/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
     },
     {
       "site_name": "日経新聞",
