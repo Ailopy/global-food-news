@@ -4,20 +4,20 @@
   "sites": [
     "日経xTrend",
     "日経新聞",
-    "朝日グループYouTube",
     "Packaging Digest",
+    "朝日グループYouTube",
     "Food Dive"
   ],
   "regions": [
-    "北美",
-    "日本"
+    "日本",
+    "北美"
   ],
   "category_stats": {
     "新产品": 69,
     "品牌故事": 40,
-    "其他": 141,
+    "其他": 143,
     "营销创新": 15,
-    "新包装": 10,
+    "新包装": 8,
     "联名营销": 13,
     "渠道新物种": 5,
     "并购融资": 4,
@@ -25,8 +25,8 @@
     "新技术": 1,
     "行业政策": 2
   },
-  "last_updated": "2026-11-20 01:49",
-  "last_updated_iso": "2026-11-20T01:49:40.014592+08:00",
+  "last_updated": "2026-11-20 15:52",
+  "last_updated_iso": "2026-11-20T15:52:56.576006+08:00",
   "articles": [
     {
       "site_name": "日経xTrend",
@@ -161,6 +161,50 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-20T01:49:23+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "テレビ朝日が世界市場を見据えて挑む新時代劇、初回が世界中でTOP10入り",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94UWNENzNiZTNEQnlwVEE4elhNRHlBUkcyblNNMUpfYVBxQnZmN1o5NFdrZkZxNnEycGJEdTl2LUpKVGtaWEgzUmtrOTU0NEZfTUVISE5tenFWeUVEdkd2VC03NzZyTmpZa1JwZ3NZVzVYTDZrRFZVaHpYdkhzQQ?oc=5",
+      "summary": "テレビ朝日が世界市場を見据えて挑む新時代劇、初回が世界中でTOP10入り&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-20T15:52:40+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "サカナクション、ミセス、米津玄師のファンダムに見る「伸びの正体」とは",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHJIMFJfa2lDckZvYkphQlVlcDM2M25pMS1mNmg4TGplZ2FvaERrRlIxc2hQVXl2MktMcU9hWUxyT08yQWZhMVNIeXRiQVdLTTRxeEZzVGxNNUdSR2d3SUpjWEo3VVcyY0RyT1lQa2R4Tm8telp3VGk2NEZvUDFFdDAybkxmYTBRbFI4?oc=5",
+      "summary": "サカナクション、ミセス、米津玄師のファンダムに見る「伸びの正体」とは&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-19T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-20T15:52:40+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -371,6 +415,28 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-11-19T01:40:37+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "日清食品",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lXy1vUzVNX1BQSGd1OWNuT0Z4OVlreFdDYnViV20zZzdCci1fdlgtNkRJNzJMT0wyQnAwYlM5RzBOM1dHdE1IQlVVbmF3dExGV1N5dFhvMXE5T29hZjYwQ09iNVJhZw?oc=5",
+      "summary": "日清食品&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-18T00:05:08Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-20T15:52:40+08:00"
     },
     {
       "site_name": "日経xTrend",
@@ -6042,50 +6108,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WEZEazlyY0QwNmxQMEs5UUkzSEtnVTRfVjJkUFBNOUxhRVl4QlNmSEcyeHItTUppby1od3dFa21VQXIzYnBoX3NJZzdMMnpZR2w0LW5OamRZbXlSbk9lanV4b3FTQQ?oc=5",
-      "summary": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-19T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        }
-      ],
-      "primary_category": "新包装",
-      "scraped_at": "2026-10-20T13:29:01+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnlKUlpZZGRZbVg0ekFkd2ZPNUxsS2hlZ0tKZG1BcTkwM3hXckdkT1ZvcTZ6UUY4WnR5czJsb3lyb3V0T3BHemh5N0FseUJiQ1FKS2FDZXdxWXoyRmNZb0N4T01PSWpuNWxZaDY1RDZEaTRjcHFyOUZWWWV4MFZXSlAwejhUUVFMQVp4cmZUdGk2VEZf?oc=5",
-      "summary": "機能性食品32商品のパッケージ比較 好意度と機能訴求は無関係？&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-19T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新包装",
-          "icon": "📦",
-          "color": "#7c3aed",
-          "score": 1
-        }
-      ],
-      "primary_category": "新包装",
-      "scraped_at": "2026-10-20T13:29:01+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "プロが人気駅弁を実食比較 東京駅のベストは牛肉弁当かロケ弁カレーか",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XMGhmbEtmbDlaWVpKaHhialNQYUFxV21PbmZOeEttVWo1QkI2bTh5YmtHaWwwZVVLT2M0VWdzOE1XWlNxeWxkcjlSekdVQjg3R0gtRnV3MWxEWVNNTXlVWVpTZnZwUQ?oc=5",
       "summary": "プロが人気駅弁を実食比較 東京駅のベストは牛肉弁当かロケ弁カレーか&nbsp;&nbsp;日経クロストレンド",
@@ -6344,28 +6366,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-21T13:28:55+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WQnVZNkVsTUp4M2phT0VRMDBvS3BacVJ2U2VzcGs1TXo4bVRJVDI2MVU1blpXTi1hdmRoa0xmUnJwY1d3T2JkLTBYOTRPWDBKWkdDekU0NDQ1UFd3d1hfekx5Ylhvdw?oc=5",
-      "summary": "イオンが集める購買データは4兆円超 業態の枠をなくす相互送客&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-07T07:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-20T13:29:01+08:00"
     },
     {
       "site_name": "日経新聞",
