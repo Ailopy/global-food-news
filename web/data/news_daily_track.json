@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-21 15:51",
-  "total": 705,
-  "s_count": 13,
+  "last_updated": "2026-11-21 23:03",
+  "total": 712,
+  "s_count": 14,
   "retention_days": 7,
   "markets": {
     "日本": "🇯🇵",
@@ -21,7 +21,7 @@
       "key": "prtimes",
       "name": "PRTIMES",
       "market": "日本",
-      "count": 50,
+      "count": 48,
       "status": "ok"
     },
     {
@@ -75,14 +75,339 @@
       "source": "food today",
       "market": "韩国",
       "lang": "ko",
-      "published_at": "2026-11-21",
+      "published_at": "2026-11-22",
       "category": "其他",
       "s_level": true,
       "s_reason": "최초",
       "abstract": "[푸드투데이 = 노태영기자] 농림축산식품부(장관 송미령, 이하 농식품부)는 오는 22일 김치의 날을 맞아 서울 양재동 aT센터에서 제7회 김치의 날 기념행사를 성황리에 마무리했다고 20일 밝혔다. 김치의 날은 2020년 식품 분야 최초로 제정된 법정기념일로, 올해 행사는 기존 관계자 중심의 기념식에서 벗어나 국민 누구나 국산 김치를 맛보고 구매하며 직접 김"
     },
     {
-      "title": "【长达11小时！ 【想喝多少就喝多少】1,490日元（含税），12月限定30种清酒、生啤酒、酸酒等“无限畅饮”|所有 Sake Sake Brewery 商店",
+      "title": "最少的原材料和加工...Binggrae 推出优质冰淇淋“清洁标签”",
+      "title_original": "최소한의 원료와 가공...빙그레, 프리미엄 아이스크림 ‘클린라벨’ 출시",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209925",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新原料",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 조성윤기자] 빙그레가 프리미엄 아이스크림 브랜드 ‘클린라벨’을 출시했다고 밝혔다. ‘클린라벨’은 최소한의 원재료 사용과 가공을 지향하는 클린라벨 트렌드를 반영하여 개발한 프리미엄 아이스크림이다. 클린라벨은 최소한의 원료를 사용하고 가공 방식을 단순화해 소비자가 원재료와 제품을 쉽게 이해할 수 있도록 하는 식품 개발 트렌드다. 미국과 유럽 등"
+    },
+    {
+      "title": "Erom推出含有99.57%国产药用大豆浓缩物的“不加糖豆奶”",
+      "title_original": "이롬, 국산 약콩 원액 99.57% 담은 '무가당 두유' 출시",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209920",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新产品",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 이롬이 국산 약콩 원액 99.57%를 담은 ‘황성주 박사의 이롬 국산콩 두유 무가당 약콩 99’(이하 ‘이롬 국산콩 두유 무가당 약콩 99’)를 출시했다고 20일 밝혔다. 이번 신제품은 지난 10월 출시한 ‘이롬 국산콩 두유 99 고칼슘’에 이어 새롭게 선보이는 프리미엄 통두유 제품이다. 국산 특등급 약콩 원액 함량을 99.57"
+    },
+    {
+      "title": "Pulmuone Healthcare 为糖尿病患者推出“211糖护理饮食”……蔬菜、蛋白质、全谷物 2:1:1",
+      "title_original": "풀무원헬스케어, 당뇨환자용 '211 당케어식단' 출시…채소·단백질·통곡물 2:1:1",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209870",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "政策法规",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 풀무원헬스케어(대표 김진홍)는 개인 맞춤형 식단 브랜드 ‘디자인밀’ 신제품으로 당뇨환자용 식단형 식품 ‘211 당케어식단’을 선보였다고 19일 밝혔다. ‘디자인밀 211 당케어식단’은 식품의약품안전처의 당뇨환자용 식단형 식품의 제조·가공 기준을 준수하고, 더 나아가 풀무원의 ‘211 식사법’을 함께 적용해 당뇨환자의 식단 관리에"
+    },
+    {
+      "title": "Bonjuk 和 GS25 推出类似东记红豆粥的“巧克力蛋糕”……别具一格的甜点",
+      "title_original": "본죽·GS25, 동지팥죽 닮은 '초코케이크' 출시…반전 디저트",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209858",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新包装",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 본아이에프의 한식 브랜드 본죽·본죽&비빔밥이 GS25와 협업한 동지 시즌 디저트 '본죽 동지 품은 초코케이크'를 출시했다고 18일 밝혔다. 이번 제품은 12월 22일 동지를 앞두고 본죽의 시그니처 죽 용기를 활용해 선보이는 시즌 디저트다. 외식 매장을 넘어 편의점까지 고객 접점을 넓혀, 2030을 비롯한 새로운 고객들에게"
+    },
+    {
+      "title": "Binggrae 推出 40 克高含量蛋白质饮料“The: Protein Drink Chestnut Latte”",
+      "title_original": "빙그레, 40g 고함량 단백질 드링크 ‘더:단백 드링크 밤라떼’ 출시",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209849",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新原料",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 조성윤기자] 빙그레가 단백질 함량을 한층 높인 프리미엄 고함량 프로틴 드링크 신제품 ‘더:단백 드링크 밤라떼’를 출시했다. 신제품 ‘더:단백 드링크 밤라떼’는 유럽산 프리미엄 우유단백질을 100% 사용한 제품으로, 350ml 한 병에 단백질 40g을 담은 고함량 단백질 음료이다. 우유단백질 특유의 부드럽고 고소한 풍미에 밤의 달콤하고 은은한"
+    },
+    {
+      "title": "Jamba限量发售3种“济州金香”年末饮品",
+      "title_original": "잠바(Jamba), ‘제주 황금향’ 담은 연말 시즌 음료 3종 한정 판매",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209846",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新产品",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 조성윤기자] 잠바(Jamba)가 제철 과일 제주 황금향을 활용한 연말 시즌 음료 3종을 출시한다. 잠바는 제철 과일 등 원재료 본연의 맛을 살린 다양한 시즌 메뉴를 꾸준히 선보이고 있다. 이번 신제품은 제철 과일 황금향을 활용해 특유의 밝고 화사한 황금빛 색상과 달콤한 풍미로 크리스마스와 연말의 포근한 분위기를 담아냈다. 다양한 과일과 허브"
+    },
+    {
+      "title": "乐天七星推出三款2026年帽酒“Georges Dubeuf Beaujolais Nouveau”",
+      "title_original": "롯데칠성, 2026 햇와인 ‘조르쥐 뒤뵈프 보졸레 누보’ 3종 출시",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209844",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新技术",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 조성윤기자] 롯데칠성음료가 2026년산 햇와인 ‘보졸레 누보(Beaujolais Nouveau)’를 선보인다. 이번에 선보이는 ‘보졸레 누보’는 프랑스 보졸레 지역을 대표하는 포도 품종인 ‘가메(Gamay)’로 만든 레드와인으로 조르쥐 뒤뵈프 보졸레 누보(Georges Duboeuf Beaujolais Nouveau) 1종, 조르쥐 뒤뵈프"
+    },
+    {
+      "title": "Daesang Welllife Gutsys 推出用于肠道健康和免疫管理的乳酸菌",
+      "title_original": "대상웰라이프 것시스, 장 건강·면역 관리 유산균 출시",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209825",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新产品",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 대상웰라이프의 프로바이오틱스 브랜드 ‘것시스’가 장 건강과 면역기능을 함께 관리할 수 있는 ‘것시스 면역 앤 비피더스 유산균’을 출시한다고 18일 밝혔다. 비피더스균은 장 내부를 산성 환경으로 유지해 유해균 억제와 원활한 배변활동에 도움을 주는 유익균이다. 연령대가 높아질수록 장내 비피더스균이 줄어들기 때문에 일상에서 꾸준히 챙"
+    },
+    {
+      "title": "大象清净院推出含糖量降低87%的牛排骨和烤肉调味料",
+      "title_original": "대상 청정원, 당류 87% 낮춘 소갈비·불고기 양념 출시",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209820",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新产品",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 대상 청정원이 저당·저칼로리 자체 엠블럼 ‘LOWTAG(로우태그)’를 부착한 저당 소갈비·소불고기 양념 신제품을 출시하며, 저당 제품 카테고리를 또 한 번 확대한다. 최근 건강한 식생활과 당류 함량에 대한 관심이 높아지면서 음료와 스낵은 물론, 각종 조미식품까지 저당 제품 수요가 확대되고 있다. 이에 대상 청정원은 식약처의 저("
+    },
+    {
+      "title": "农心推出“辣蛋黄酱炒Neoguri”、Modisure Recipe 容器面条...扩大产品阵容",
+      "title_original": "농심, 모디슈어 레시피 용기면 ‘매콤마요 볶음너구리’ 출시... 라인업 확대",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209797",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新包装",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 조성윤기자] 소비자 요청에 힘입어 한정 재출시된 ‘볶음너구리’가 내년부터 연중 판매된다. 농심은 재출시 이후 볶음너구리에 대한 시장 반응과 판매 추이를 고려한 결정이라고 밝혔다. 또한, 볶음너구리의 첫 신제품 '매콤마요 볶음너구리 큰사발면'을 출시하면서 소비자 성원에 보답하는 동시에 제품 라인업도 본격 확장하기로 했다. 농심은 지난 10월"
+    },
+    {
+      "title": "“Maunjaro韩国29万韩元，日本105,000韩元”…呼吁引入管理福利",
+      "title_original": "“마운자로 한국 29만원·일본 10.5만원”…관리급여 도입 촉구",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209850",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 비만치료제 마운자로의 국내 판매가격이 일본과 중국보다 높게 형성돼 있다는 지적이 제기되면서 비급여 의약품의 가격 관리체계를 개선해야 한다는 목소리가 나왔다. 소비자주권시민회의는 18일 성명을 내고 마운자로 등 GLP-1 계열 비만치료제의 가격 투명성을 확보하기 위해 정부가 관리급여 도입을 적극 추진해야 한다고 촉구했다. 소비자주"
+    },
+    {
+      "title": "日东·胡迪斯与张珉豪连续8年续约...“张珉豪蛋白质”合作",
+      "title_original": "일동후디스, 장민호와 8년 연속 재계약… ‘장민호 단백질’ 파트너십 동행",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209845",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新原料",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 조성윤기자] 일동후디스의 대한민국 1등 단백질 브랜드 ‘하이뮨’이 가수 장민호와 전속 모델 계약을 1년 연장하며 8년 동행을 이어간다고 밝혔다. 장민호는 지난 2020년 하이뮨의 전속 모델로 발탁된 이후 특유의 밝고 건강한 이미지로 브랜드 성장에 기여해왔다. 특히, 장기간 이어온 파트너십을 통해 ‘장민호 단백질’이라는 애칭이 생겨날 만큼 브"
+    },
+    {
+      "title": "密阳啤酒厂“密阳阿里郎马格利酒”被召回……虚假延长保质期",
+      "title_original": "밀양주조 '밀양아리랑막걸리' 회수…소비기한 허위 연장 표시",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209862",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新原料",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 식품의약품안전처(처장 오유경)는 경상남도 밀양시에 소재한 식품제조가공업체 밀양주조가 제조·판매한 '밀양아리랑막걸리'(식품유형: 탁주) 제품에서 소비기한을 사실과 다르게 연장 표시한 사실이 확인돼 판매 중단하고 회수한다고 18일 밝혔다. 회수 대상은 소비기한이 2026년 12월 24일, 25일, 26일로 표시된 제품이다. 식약처는"
+    },
+    {
+      "title": "36% 购买 5 种或更多类型的健康食品，信任人工智能……复杂的摄入安全管理“警示灯”",
+      "title_original": "AI 믿고 건기식 5종 이상 구매 36%…복합 섭취 안전관리 '경고등'",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209891",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新技术",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 생성형 인공지능(AI)을 활용한 건강기능식품 구매가 확산하면서 여러 제품을 한꺼번에 고르는 'AI 기반 건기식 복합 구매'의 안전관리 문제가 부각되고 있다. AI 정보를 활용한 자가 선택.이용 경험자 10명 중 6명 이상이 건강기능식품을 샀고, 3명 중 1명 이상은 5종 이상을 조합해 구매한 것으로 나타났다. 한국소비자원(원장"
+    },
+    {
+      "title": "Samyang Foods、Uzi Jjajang 拉面“Charle”在全国 Costco 商店推出",
+      "title_original": "삼양식품, 우지 짜장라면 '짜르르' 코스트코 전국 매장 입점",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209857",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新产品",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 삼양식품은 우지 짜장라면 ‘짜르르’를 코스트코 전국 20개 매장에서 판매를 시작한다고 18일 밝혔다. 이번에 선보이는 제품은 코스트코 고객의 대용량 구매 수요를 고려한 16개입 상품이다. 삼양식품은 전국 코스트코 매장에서 시식 행사를 진행해 소비자들이 제품의 맛을 직접 경험할 수 있도록 할 계획이다. 지난 7월 출시된 ‘짜르르’"
+    },
+    {
+      "title": "BBQ Alltteok、淑明女子大学入口店开业...针对大学地区的“My Pick”菜单",
+      "title_original": "BBQ 올떡, 숙대입구점 오픈...'마이 픽' 메뉴 대학가 공략",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209832",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 노태영기자] 치킨 프랜차이즈 제너시스BBQ 그룹(회장 윤홍근)은 서울 용산구 숙대입구역과 숙명여대를 연결하는 상권에 올떡 숙대입구점을 오픈했다고 18일 밝혔다. 새롭게 문을 연 숙대입구점은 약 15평 규모로 총 20석을 갖췄으며, 숙명여대 학생들의 공강과 수업 종료 후 식사·간식 수요를 비롯해 인근 직장인과 지역 거주민의 방문 수요를 고려해"
+    },
+    {
+      "title": "“我也穿零食”Saeumkkang T恤、番茄酱连帽衫……食品工业，通过时尚瞄准2030年",
+      "title_original": "“과자도 입는다” 새우깡 티셔츠·케챂 후드티…식품업계, 패션으로 2030 공략",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209859",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新包装",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 조성윤기자] 식품업계가 패션업계와의 이종 협업을 확대하고 있다. 장수 식품 브랜드의 로고와 패키지 디자인을 의류와 패션잡화에 접목해 기존 브랜드에 새로운 이미지를 더하고 젊은 소비자와의 접점을 넓히려는 전략이다. 최근에는 티셔츠와 운동복뿐 아니라 키링, 향수, 카드지갑 등 라이프스타일 상품으로 협업 영역이 확대되는 추세다. 18일 업계에 따"
+    },
+    {
+      "title": "当地儿童中心的烧烤、鸡肉烹饪体验和分享活动",
+      "title_original": "BBQ, 지역아동센터 찾아 치킨 조리 체험·나눔 활동",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209864",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 노태영기자] 치킨 프랜차이즈 제너시스BBQ 그룹(회장 윤홍근)는 서울 노원구 상계동 열림지역아동센터 토요문화학교 ‘둥지탐험대’에 참여하는 초·중학생을 대상으로 ‘찾아가는 치킨캠프’와 ‘찾아가는 치킨릴레이’를 진행했다고 19일 밝혔다. 이번 행사는 BBQ를 접한 지역아동센터 측이 평소 치킨을 좋아하고 요리사를 꿈꾸는 아이들이 있다는 사연을 계"
+    },
+    {
+      "title": "查获2.3吨无生产日期“Namdomeju”…食品药品安全部“停止食用”",
+      "title_original": "제조일자 없는 '남도메주' 2.3톤 회수…식약처 \"섭취 중단\"",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209903",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 제조일자를 표시하지 않은 한식메주 제품 2.3톤이 회수 조치됐다. 식품의약품안전처(처장 오유경)는 농업회사법인 선재전통식품2가 제조·판매한 ‘남도메주’에서 제조일자 미표시 사실이 확인돼 해당 제품의 판매를 중단하고 회수 조치한다고 19일 밝혔다. 회수 대상은 식품유형이 한식메주인 ‘남도메주’ 제품으로, 내용량은 1.2kg부터 1"
+    },
+    {
+      "title": "新闻 康津食品“清子谷鲜豆腐”检出大肠菌群...食品医药品安全部、暂停销售及召回 [今日食品=记者黄仁善] 食品医药品安全部（吴裕庆部长）宣布，康津食品（全罗南道康津郡光州统一特别市）生产的“清子谷鲜豆腐”（食品种类：豆腐）被确认不符合大肠菌群标准和规格，当地政府康津郡办公室正在采取暂停销售和召回该产品的措施。此次召回的对象是青瓷骨鲜豆腐，产品上标注的有效期为“2029年11月26日”。然而，有效期的标注有误，实际的有效期是“2026年11月29日”。食品药品安全部要求储存该产品的销售者立即停止销售，并退回代收企业。此外，还要求购买该产品的消费者不要食用该产品，并配合召回措施，例如将其退回购买地或召回对象的企业。",
+      "title_original": "뉴스 강진식품 '청자골싱싱두부' 대장균군 검출…식약처, 판매 중단·회수 [푸드투데이 = 황인선기자] 식품의약품안전처(처장 오유경)는 강진식품(전남광주통합특별시 강진군)이 제조한 '청자골싱싱두부'(식품유형: 두부)가 대장균군 기준·규격 부적합으로 확인돼 관할 지방자치단체인 강진군청에서 판매 중단 및 회수 조치를 진행하고 있다고 밝혔다. 회수 대상은 제품에 소비기한이 '2029년 11월 26일'로 표시된 청자골싱싱두부다. 다만 해당 소비기한은 오표기된 것으로, 실제 소비기한은 '2026년 11월 29일'이다. 식약처는 해당 제품을 보관 중인 판매자에게 즉시 판매를 중단하고 회수 영업자에게 반품할 것을 요청했다. 아울러 해당 제품을 구매한 소비자에게는 섭취하지 말고 구입처 또는 회수 대상 업소에 반품하는 등 회수 조치에 협조해 줄 것을 당부했다.",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209947",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "政策法规",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 식품의약품안전처(처장 오유경)는 강진식품(전남광주통합특별시 강진군)이 제조한 '청자골싱싱두부'(식품유형: 두부)가 대장균군 기준·규격 부적합으로 확인돼 관할 지방자치단체인 강진군청에서 판매 중단 및 회수 조치를 진행하고 있다고 밝혔다. 회수 대상은 제품에 소비기한이 '2029년 11월 26일'로 표시된 청자골싱싱두부다. 다만 해"
+    },
+    {
+      "title": "10,699 名 Curly 策展人的个人信息泄露...连社会安全号码和账号都被泄露 [今日食品 = 记者 Tae-young Noh] 零售科技公司 Curly 发生了 10,699 名策展人的个人信息被泄露的事件。由于已确认一些受害者的居民登记号码和帐号被泄露，对个人信息管理的担忧日益增加。据Curly 20日报道，17日，外部攻击者以非正常方式访问系统，窃取认证信息，并利用其获得对业务系统的非授权访问。此次事件中，10,699名卷毛策展人计划参与者的个人信息以及两名普通客户的会员号码被泄露。策展人泄露的信息包括姓名、ID、电话号码、电子邮件和SNS频道信息。一些策展人的情况已被证实包含帐号、居民登记号码，甚至商业登记号码。 Curly 策展人是通过社交媒体渠道推广 Curly 产品或分享产品购买链接的用户和影响者。",
+      "title_original": "뉴스 컬리 큐레이터 1만699명 개인정보 유출…주민번호·계좌번호까지 [푸드투데이 = 노태영 기자] 리테일 테크 기업 컬리에서 큐레이터 1만699명의 개인정보가 유출되는 사고가 발생했다. 일부 피해자의 주민등록번호와 계좌번호까지 유출된 것으로 확인되면서 개인정보 관리에 대한 우려가 커지고 있다. 20일 컬리에 따르면 지난 17일 외부 공격자가 비정상적인 방법으로 시스템에 접근해 인증정보를 탈취한 뒤 이를 이용해 업무 시스템에 무단으로 접근했다. 이번 사고로 컬리 큐레이터 프로그램에 참여한 1만699명의 개인정보와 일반 고객 2명의 회원번호가 유출됐다. 큐레이터의 유출 정보는 이름, 아이디, 전화번호, 이메일, SNS 채널 정보 등이다. 일부 큐레이터의 경우 계좌번호와 주민등록번호 또는 사업자등록번호까지 포함된 것으로 확인됐다. 컬리 큐레이터는 자신의 SNS 채널을 통해 컬리 제품을 홍보하거나 제품 구매 링크를 공유하는 이용자 및 인플루언서를 말한다. 다만 일반 고객 2명의 경우 회원번호만 유출됐으며 이름, 전화번호, 주소, 비밀번호, 결제수단 정보 등은 포함되지 않았다고 컬리는 설명했다. 컬리는 외부 공격 사실을 인지한 직후 긴급 차단 조치를 진행하고 지난 18일 관계기관에 침해사고를 신고했다. 이후 추가 조사 과정에서 개인정",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209946",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "政策法规",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 노태영 기자] 리테일 테크 기업 컬리에서 큐레이터 1만699명의 개인정보가 유출되는 사고가 발생했다. 일부 피해자의 주민등록번호와 계좌번호까지 유출된 것으로 확인되면서 개인정보 관리에 대한 우려가 커지고 있다. 20일 컬리에 따르면 지난 17일 외부 공격자가 비정상적인 방법으로 시스템에 접근해 인증정보를 탈취한 뒤 이를 이용해 업무 시스템에"
+    },
+    {
+      "title": "新闻 农协使用新万金工业园区作为野草饲料…促进畜牧业者饲料成本的降低 [今日食品=记者黄仁善] 农协经济控股畜牧经济公司（代表安秉宇）20日宣布，与益山群山畜牧合作社（代表社长沉载植）和韩国乡村社区公社（代表金仁中）在益山群山畜牧合作社会议室使用新万金工业园区的原生野草作为饲料资源。根据协议，韩国农村社区公社将提供收集野草所需的场地和管理信息，农协畜产经济公司和益山群山畜牧合作社计划收集和出口野草，并将其作为饲料原料供应给当地畜牧场。使用本地野生草而不需要单独的饲料作物预计将导致资源利用和景观改善。因此，农协畜牧经济计划审查使用野草的饲料成本降低效果和环境影响，并与相关组织合作寻求确保可持续饲料资源的方法。农协牲畜饲料部门负责人姜贤基表示：“我们使用尚未被用作畜牧场饲料资源的野草。",
+      "title_original": "뉴스 농협, 새만금산단 들풀 사료로 활용…축산농가 사료비 절감 추진 [푸드투데이 = 황인선기자] 농협경제지주 축산경제(대표이사 안병우)는 20일 익산군산축협 회의실에서 익산군산축협(조합장 심재집), 한국농어촌공사(사장 김인중)와 함께 새만금산업단지 내 자생 들풀을 조사료 자원으로 활용하기 위한 업무협약을 체결했다고 밝혔다. 협약에 따라 한국농어촌공사는 들풀 수거에 필요한 부지 및 관리 정보를 제공하고, 농협 축산경제와 익산군산축협은 들풀을 수거·반출해 지역 축산농가에 사료 원료로 공급할 계획이다. 별도의 사료작물 재배 없이 자생 들풀을 활용한다는 점에서 자원 활용과 경관 개선 효과도 기대된다. 이에 농협 축산경제는 들풀 활용에 따른 사료비 절감 효과와 환경적 영향을 검토하고, 관계기관과 협력해 지속 가능한 조사료 자원 확보 방안을 모색하고자 한다. 강현기 농협 축산사료자재부장은 “그동안 활용되지 못했던 들풀을 축산농가에 필요한 사료 자원으로 활용한다는 점에서 의미가 크다”며 “농협은 앞으로도 유관기관과 협력해 농가의 사료비 부담을 줄이고, 지역 자원을 활용한 상생협력 모델을 만들어 나가겠다”고 밝혔다.",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209945",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "人事",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 농협경제지주 축산경제(대표이사 안병우)는 20일 익산군산축협 회의실에서 익산군산축협(조합장 심재집), 한국농어촌공사(사장 김인중)와 함께 새만금산업단지 내 자생 들풀을 조사료 자원으로 활용하기 위한 업무협약을 체결했다고 밝혔다. 협약에 따라 한국농어촌공사는 들풀 수거에 필요한 부지 및 관리 정보를 제공하고, 농협 축산경제와 익산"
+    },
+    {
+      "title": "新闻 韩国10年来首例霍乱病例...感染途径、症状和预防方法是什么？ （图像=生成式人工智能的利用）",
+      "title_original": "뉴스 국내 콜레라 환자 10년 만에 발생…감염 경로·증상·예방법은? (이미지 = 생성형 AI 활용)",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209944",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "新技术",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "(이미지 = 생성형 AI 활용)"
+    },
+    {
+      "title": "新闻 食品药品安全部与农业食品农村部就功能性农产品标签制度发生冲突...立法司法委员会刹车【今日食品=记者黄仁宣】农业食品农村部与食品农村部关于功能性农产品标签和广告管理权的冲突，在国会立法阶段正面冲突。在农业食品农村部力求推出单独的功能性农产品标签制度的同时，食品药品安全部也宣布计划于2027年改革包括功能性农产品在内的保健功能食品管理体系，引发了法律冲突和监管重叠的问题。据国会20日消息，食品药品安全部计划修订《食品标签和广告法》，建立农产品标签和验证制度，并在2027年修订保健功能食品管理体系，将功能性农产品纳入其中。这是一项重组内部系统的政策，增加了与现行食品相关法律发生冲突的可能性，各部委之间的工作重复，以及对最近批准的引入功能性农产品标签制度提案的双重监管。国会农业、食品、农村事务、海洋和渔业委员会。此前，11日，韩国民主党尹俊炳公布了农业和海水水位。",
+      "title_original": "뉴스 기능성 농산물 표시제 놓고 식약처·농식품부 충돌…법사위 제동 [푸드투데이 = 황인선기자] 기능성 농산물의 표시·광고 관리 권한을 둘러싼 농림축산식품부와 식품의약품안전처의 갈등이 국회 입법 단계에서 정면충돌하고 있다. 농식품부가 별도의 기능성 농산물 표시제 도입을 추진하는 가운데, 식약처도 2027년 기능성 농산물을 포함하는 건강기능식품 관리체계 개편 계획을 밝히면서 법률 간 충돌과 중복 규제 문제가 쟁점으로 떠오르고 있다. 20일 국회에 따르면 식약처는 농산물 표시·실증 체계 마련을 위해 '식품표시광고법'을 정비하고, 2027년에는 기능성 농산물을 포함하도록 건강기능식품 관리체계를 개편할 계획이다. 이는 최근 국회 농림축산식품해양수산위원회가 의결한 기능성 농산물 표시제 도입안에 대해 기존 식품 관련 법률과의 충돌, 부처 간 업무 중복, 이중규제 가능성을 제기하면서 밝힌 자체 제도 정비 방침이다. 앞서 농해수위는 지난 11일 더불어민주당 윤준병 의원과 국민의힘 박형수 의원이 각각 대표발의한 '농수산물 품질관리법' 개정안을 통합·조정한 대안을 의결했다. 개정안은 기능성 농산물의 정의를 신설하고, 농식품부 장관이 식약처장과 협의해 표시·광고 기준을 정하도록 했다. 또한 표시·광고 주체에게 과학적 실증 책임을 부여하고, 자료",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209942",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-22",
+      "category": "政策法规",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "[푸드투데이 = 황인선기자] 기능성 농산물의 표시·광고 관리 권한을 둘러싼 농림축산식품부와 식품의약품안전처의 갈등이 국회 입법 단계에서 정면충돌하고 있다. 농식품부가 별도의 기능성 농산물 표시제 도입을 추진하는 가운데, 식약처도 2027년 기능성 농산물을 포함하는 건강기능식품 관리체계 개편 계획을 밝히면서 법률 간 충돌과 중복 규제 문제가 쟁점으로 떠오르고"
+    },
+    {
+      "title": "肥美的金枪鱼、海胆等50种高级寿司3,900日元畅吃！ 12月的预订将于11月24日开始！每次预约100组400人以上，5分钟售完的超人气套餐！ [FUJIYAMA TOKYO 秋叶原店]",
+      "title_original": "大トロ・うに含む高級寿司50品食べ放題が3,900円！12月分の予約受付は11月24日に開始！毎回100組400名以上の予約が5分で完売する大好評プラン！【FUJIYAMA TOKYO秋葉原店】",
+      "url": "https://prtimes.jp/main/html/rd/p/000000936.000014510.html",
+      "source": "PRTIMES",
+      "market": "日本",
+      "lang": "ja",
+      "published_at": "2026-11-21",
+      "category": "企业动态",
+      "s_level": true,
+      "s_reason": "完売",
+      "abstract": "株式会社Globridgeのプレスリリース（2026年11月21日 14時00分）大トロ・うに含む高級寿司50品食べ放題が3,900円！12月分の予約受付は11月24日に開始！毎回100組400名以上の予約が5分で完売する大好評プラン！【FUJIYAMA TOKYO秋葉原店】"
+    },
+    {
+      "title": "【长达11小时！ 【无限畅饮】1,490日元（含税），12月限定日本酒、生啤酒、酸酒等30种“无限畅饮”｜所有 Sake Sake Brewery 商店",
       "title_original": "【最大11時間！好きなだけ飲める】1,490円(税込)で日本酒・生ビール・サワーなど30種の「時間無制限飲み放題」を12月限定で開催｜日本酒原価酒蔵 全店",
       "url": "https://prtimes.jp/main/html/rd/p/000000586.000055180.html",
       "source": "PRTIMES",
@@ -108,19 +433,6 @@
       "abstract": "株式会社Globridgeのプレスリリース（2026年11月21日 12時00分）高級寿司50品食べ放題が3,900円！12月分の予約受付は11月23日に開始！大トロもウニもいくらも食べ放題！1日先着5組様、早い者勝ちの豪華な美食体験！【FUJIYAMA TOKYO 梅田】"
     },
     {
-      "title": "【官方十三乌冬面邮购【十三三店】】由于人气很高，第三届感恩节已经决定了！我们将限量销售 100 套“Shiki Logo 降温袋套装”！ / 11 月 21 日星期六上午 9 点开始接受订单！",
-      "title_original": "【資さんうどん公式通販《資さんストア》】大好評につき、大感謝祭第3弾決定！ 『資ロゴ保冷バッグセット』を限定100セット販売します！／11月21日（土）9時～注文開始！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000438.000037031.html",
-      "source": "PRTIMES",
-      "market": "日本",
-      "lang": "ja",
-      "published_at": "2026-11-21",
-      "category": "新营销",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "株式会社資さんのプレスリリース（2026年11月21日 09時00分）【資さんうどん公式通販《資さんストア》】大好評につき、大感謝祭第3弾決定！ 『資ロゴ保冷バッグセット』を限定100セット販売します！／11月21日（土）9時～注文開始！"
-    },
-    {
       "title": "<横滨的新特产> 以“红鞋”为标志的横滨新西点店“蜀蜀”，推出了新的3种组合“蜀蜀精选”。",
       "title_original": "〈横浜の新しい手土産に〉“赤い靴”が目印の新・横濱西洋菓子「Shu Shu」より、3種詰合せ『Shu Shuセレクション』が新発売いたしました。",
       "url": "https://prtimes.jp/main/html/rd/p/000001830.000016051.html",
@@ -134,9 +446,22 @@
       "abstract": "株式会社シュクレイのプレスリリース（2026年11月21日 14時10分）〈横浜の新しい手土産に〉“赤い靴”が目印の新・横濱西洋菓子「Shu Shu」より、3種詰合せ『Shu Shuセレクション』が新発売いたしました。"
     },
     {
-      "title": "肥美的金枪鱼、海胆等50种高级寿司3,900日元畅吃！ 12月的预订将于11月24日开始！每次100组400多人...",
-      "title_original": "大トロ・うに含む高級寿司50品食べ放題が3,900円！12月分の予約受付は11月24日に開始！毎回100組400名以上の...",
-      "url": "https://prtimes.jp/main/html/rd/p/000000936.000014510.html",
+      "title": "【官方十三乌冬面邮购【十三三店】】由于人气很高，第三届感恩节已经决定了！我们将限量发售100套“Shiki Logo降温袋套装”！ / 11 月 21 日星期六上午 9 点开始接受订单！",
+      "title_original": "【資さんうどん公式通販《資さんストア》】大好評につき、大感謝祭第3弾決定！ 『資ロゴ保冷バッグセット』を限定100セット販売します！／11月21日（土）9時～注文開始！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000438.000037031.html",
+      "source": "PRTIMES",
+      "market": "日本",
+      "lang": "ja",
+      "published_at": "2026-11-21",
+      "category": "新营销",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "株式会社資さんのプレスリリース（2026年11月21日 09時00分）【資さんうどん公式通販《資さんストア》】大好評につき、大感謝祭第3弾決定！ 『資ロゴ保冷バッグセット』を限定100セット販売します！／11月21日（土）9時～注文開始！"
+    },
+    {
+      "title": "今年的“神户圣诞集市2026”将推出更多美食。备有许多原创的特别菜单。新增了 Hutte 商店和拖车咖啡馆。白天和晚上都可以在园内各处的圣诞空间享用特别菜单！",
+      "title_original": "今年の「神戸クリスマスマーケット2026」はグルメがさらに充実。オリジナルの特製メニューが多数登場。ヒュッテ店舗やトレーラーカフェが増設。昼も夜も園内各所のクリスマス空間で特製メニューが楽しめます！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000273.000031184.html",
       "source": "PRTIMES",
       "market": "日本",
       "lang": "ja",
@@ -144,7 +469,85 @@
       "category": "企业动态",
       "s_level": false,
       "s_reason": "",
-      "abstract": "株式会社Globridgeのプレスリリース（2026年11月21日 14時00分）大トロ・うに含む高級寿司50品食べ放題が3,900円！12月分の予約受付は11月24日に開始！毎回100組400名以上の予約が5分で完売する大好評プラン！【FUJIYAMA TOKYO秋葉原店】"
+      "abstract": "神戸リゾートサービス株式会社のプレスリリース（2026年11月21日 18時03分）今年の「神戸クリスマスマーケット2026」はグルメがさらに充実。オリジナルの特製メニューが多数登場。ヒュッテ店舗やトレーラーカフェが増設。昼も夜も園内各所のクリスマス空間で特製メニューが楽しめます！"
+    },
+    {
+      "title": "[爱知/濑户]秘书必看！牡蛎小屋今年尾牙聚会干杯！仅限 12 月，享受 90 分钟的无限量牡蛎、烧烤和无限畅饮……",
+      "title_original": "【愛知・瀬戸】幹事さん必見！今年の忘年会は牡蠣小屋で乾杯！12月限定、牡蠣食べ放題＆BBQに90分飲み放題ま...",
+      "url": "https://prtimes.jp/main/html/rd/p/000001205.000045400.html",
+      "source": "PRTIMES",
+      "market": "日本",
+      "lang": "ja",
+      "published_at": "2026-11-21",
+      "category": "新营销",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "ウッドデザインパーク株式会社のプレスリリース（2026年11月21日 20時09分）【愛知・瀬戸】幹事さん必見！今年の忘年会は牡蠣小屋で乾杯！12月限定、牡蠣食べ放題＆BBQに90分飲み放題まで付いて6,000円ぽっきり！ウッドデザインパーク瀬戸"
+    },
+    {
+      "title": "喜剧二人组“Ginshari”报道清酒酿酒厂的鲜榨清酒！元旦当天送鲜榨生酒！ 「第一次在元旦...",
+      "title_original": "お笑いコンビ「銀シャリ」が酒蔵で搾りたての日本酒をレポート！元日にしぼりたての生酒をお届け！『元日初し...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000348.000022125.html",
+      "source": "PRTIMES",
+      "market": "日本",
+      "lang": "ja",
+      "published_at": "2026-11-21",
+      "category": "新营销",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "株式会社カクヤスのプレスリリース（2026年11月21日 18時10分）お笑いコンビ「銀シャリ」が酒蔵で搾りたての日本酒をレポート！元日にしぼりたての生酒をお届け！『元日初しぼり2027』タイアップ動画を銀シャリ公式チャンネルで公開"
+    },
+    {
+      "title": "[11 月 21 日下午 6 点开始] 黑色星期五促销将在 Miyachiku 网上商店举行！特别产品限时供应！",
+      "title_original": "【11月21日18時スタート】ミヤチクオンラインショップでBLACK FRIDAY SALE開催！期間限定のお得な商品が登場！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000171.000148344.html",
+      "source": "PRTIMES",
+      "market": "日本",
+      "lang": "ja",
+      "published_at": "2026-11-21",
+      "category": "新营销",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "株式会社ミヤチクのプレスリリース（2026年11月21日 18時00分）【11月21日18時スタート】ミヤチクオンラインショップでBLACK FRIDAY SALE開催！期間限定のお得な商品が登場！"
+    },
+    {
+      "title": "[爱知/Obu]与当地制作人的首次合作！ 11月29日第一次“好肉日” 11月29日是“好肉日”...",
+      "title_original": "【愛知・大府】地元の生産者さんと初タッグ！はじめてづくしの11/29「いい肉の日」11月29日「いい肉の日」に...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000080.000133649.html",
+      "source": "PRTIMES",
+      "market": "日本",
+      "lang": "ja",
+      "published_at": "2026-11-21",
+      "category": "企业动态",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "株式会社　下村畜産食肉のプレスリリース（2026年11月21日 17時34分）【愛知・大府】地元の生産者さんと初タッグ！はじめてづくしの11/29「いい肉の日」11月29日「いい肉の日」に『下村牛朝市』を初開催！地元・大府の“おいしい”が三代目下村牛駐車場に大集合"
+    },
+    {
+      "title": "紧急时刻，Oshi为您提供帮助——罐装丹麦面包“Oshikan”开始接受订购",
+      "title_original": "非常時に推しが助けてくれる—缶入りデニッシュパン「推カン」受注受付開始",
+      "url": "https://prtimes.jp/main/html/rd/p/000000076.000110924.html",
+      "source": "PRTIMES",
+      "market": "日本",
+      "lang": "ja",
+      "published_at": "2026-11-21",
+      "category": "新包装",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "株式会社AttendMeのプレスリリース（2026年11月21日 17時03分）非常時に推しが助けてくれる—缶入りデニッシュパン「推カン」受注受付開始"
+    },
+    {
+      "title": "酿造啤酒并享受在城里度过的时光。千叶县稻毛市的啤酒厂将举办第11届稻那谷寄濑...",
+      "title_original": "ビールをつくり、町で過ごす楽しみもつくる。千葉・稲毛のビール醸造所が第11回いなびや寄席を...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000159459.html",
+      "source": "PRTIMES",
+      "market": "日本",
+      "lang": "ja",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
     },
     {
       "title": "≪“享受圣诞节”活动通知≫ [Francais]将在Plasta Gift品川（JR品川站新干线南检票口内）出售...",
@@ -154,10 +557,10 @@
       "market": "日本",
       "lang": "ja",
       "published_at": "2026-11-21",
-      "category": "新营销",
+      "category": "其他",
       "s_level": false,
       "s_reason": "",
-      "abstract": "株式会社シュクレイのプレスリリース（2026年11月21日 12時10分）≪ “クリスマスをたのしむ”催事のお知らせ ≫ 【フランセ】がプラスタギフト品川（JR品川駅 新幹線南改札内）に11月25日(水)より、期間限定出店いたします。"
+      "abstract": ""
     },
     {
       "title": "【11月19日重新开业】鹿儿岛射马场“比居酒屋还不如割烹餐厅”的新餐厅。创意日本餐厅“Yoi...",
@@ -170,7 +573,7 @@
       "category": "新包装",
       "s_level": false,
       "s_reason": "",
-      "abstract": "株式会社　Ｍ＆Ｓのプレスリリース（2026年11月21日 11時41分）[１１月１９日リニューアルオープン]鹿児島・騎射場に「居酒屋以上・割烹未満」の新たな一軒。創作和食店「宵ノ肴」が誕生！！"
+      "abstract": ""
     },
     {
       "title": "[Apaman Shop]“熊君AR摄影大赛”将于11月21日在新丰洲开始",
@@ -180,10 +583,10 @@
       "market": "日本",
       "lang": "ja",
       "published_at": "2026-11-21",
-      "category": "企业动态",
+      "category": "其他",
       "s_level": false,
       "s_reason": "",
-      "abstract": "APAMAN株式会社のプレスリリース（2026年11月21日 11時00分）【アパマンショップ】新豊洲で「べあ～君ARフォトコンテスト」を11月21日開始"
+      "abstract": ""
     },
     {
       "title": "铜锣烧是我祖母送给我的，现在是我孙子送给我的。大阪大学生创业者制作的“持朵”日销量150件",
@@ -193,10 +596,10 @@
       "market": "日本",
       "lang": "ja",
       "published_at": "2026-11-21",
-      "category": "企业动态",
+      "category": "其他",
       "s_level": false,
       "s_reason": "",
-      "abstract": "株式会社紡のプレスリリース（2026年11月21日 11時00分）祖母がくれたどら焼きを、今度は孫から。大阪の大学生起業家が作った「もちどら」1日150個を販売"
+      "abstract": ""
     },
     {
       "title": "【11月23日开业】海鲜居酒屋“鱼船”在大阪京桥首次开业。在包间享用著名的“云海造森”和当地酒",
@@ -225,9 +628,9 @@
       "abstract": ""
     },
     {
-      "title": "[Apaman Shop]“圣诞美术馆”在新丰洲开业！部分商品从第一天起就售空",
-      "title_original": "【アパマンショップ】新豊洲に「クリスマスアートギャラリー」がオープン！初日から売り切れ商品も",
-      "url": "https://prtimes.jp/main/html/rd/p/000000494.000049635.html",
+      "title": "Village Vanguard Diner镰仓店盛大开业！介绍本店特制的和牛汉堡以及新店的魅力",
+      "title_original": "ヴィレッジヴァンガードダイナー鎌倉店がグランドオープン！こだわりの和牛バーガーや新店舗の魅力をご紹介",
+      "url": "https://prtimes.jp/main/html/rd/p/000000019.000190751.html",
       "source": "PRTIMES",
       "market": "日本",
       "lang": "ja",
@@ -238,9 +641,9 @@
       "abstract": ""
     },
     {
-      "title": "Village Vanguard Diner镰仓店盛大开业！介绍本店特色和牛汉堡以及新店的魅力",
-      "title_original": "ヴィレッジヴァンガードダイナー鎌倉店がグランドオープン！こだわりの和牛バーガーや新店舗の魅力をご紹介",
-      "url": "https://prtimes.jp/main/html/rd/p/000000019.000190751.html",
+      "title": "[Apaman Shop]“圣诞美术馆”在新丰洲开业！部分商品从第一天起就售空",
+      "title_original": "【アパマンショップ】新豊洲に「クリスマスアートギャラリー」がオープン！初日から売り切れ商品も",
+      "url": "https://prtimes.jp/main/html/rd/p/000000494.000049635.html",
       "source": "PRTIMES",
       "market": "日本",
       "lang": "ja",
@@ -290,7 +693,7 @@
       "abstract": ""
     },
     {
-      "title": "一定要尽早准备好年越荞麦面。永平寺传承的手工十张荞麦面限时10%折扣|井上株式会社",
+      "title": "一定要尽早准备好年越荞麦面。限时10％折扣，仅限永平寺传世的手工十张荞麦面|井上株式会社",
       "title_original": "年越しそばのご用意はお早めに。永平寺に伝わる手打ち十割そばが、期間限定で10%OFF｜いのうえ株式会社",
       "url": "https://prtimes.jp/main/html/rd/p/000000007.000174343.html",
       "source": "PRTIMES",
@@ -472,7 +875,7 @@
       "abstract": ""
     },
     {
-      "title": "“Nijisanji”内容打印现在​​可在 7-11 多功能复印机上使用",
+      "title": "“Nijisanji”内容印刷现在可在 7-11 多功能复印机上使用",
       "title_original": "『にじさんじ』のコンテンツプリントがセブン‐イレブンのマルチコピー機に登場",
       "url": "https://prtimes.jp/main/html/rd/p/000001366.000155396.html",
       "source": "PRTIMES",
@@ -493,6 +896,318 @@
       "lang": "ja",
       "published_at": "2026-11-21",
       "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "新闻 Twosome Place，使用现代卡 M 积分付款可享受高达 60% 的折扣...Twosome Heart 应用程序促销正在进行中 [今日食品 = 记者 Jo Seong-yoon] Twosome Place（代表文英珠）正在为现代卡用户举办联属促销活动，直至 12 月 31 日为止，客户可以使用 M 积分最多购买金额的 60%。通过与现代卡的持续合作，Twosome Place 提供了优惠，使顾客可以在日常生活中使用 M 积分享受各种菜单。此促销活动面向所有可累积和使用 M 积分的现代卡会员。当您通过Twosome Heart应用程序订购菜单或预订蛋糕时，您可以使用M积分最多抵扣付款金额的60%。在店内（包括自助终端）订购时，M 积分最多可用于支付金额的 50%，使用积分后的剩余金额可使用符合条件的现代卡支付。通过这项优惠，您不仅可以以合理的价格获得咖啡和饮料，还可以买到和平蛋糕和整块蛋糕。",
+      "title_original": "뉴스 현대카드 M포인트 결제시 투썸플레이스, 최대 60% 할인...투썸하트 앱 프로모션 진행 [푸드투데이 = 조성윤기자] 투썸플레이스(대표이사 문영주)가 현대카드 이용 고객 대상으로 구매 금액의 최대 60%까지 M포인트를 사용할 수 있는 제휴 프로모션을 12월 31일까지 진행한다. 투썸플레이스는 현대카드와의 지속적인 제휴를 통해 고객들이 일상에서 M포인트로 다양한 메뉴를 즐길 수 있도록 혜택을 제공해 왔다. 이번 프로모션은 M포인트 적립 및 사용이 가능한 모든 현대카드 회원을 대상으로 진행된다. 투썸하트 앱에서 메뉴를 주문하거나 케이크를 예약하면 결제 금액의 최대 60%까지 M포인트를 사용할 수 있다. 키오스크를 포함한 매장 내 주문 시에는 결제 금액의 최대 50%까지 M포인트 사용이 가능하며, 포인트 사용 후 남은 금액은 대상 현대카드로 결제하면 된다. 이번 혜택을 통해 커피·음료는 물론 피스 케이크와 홀케이크까지 합리적인 가격에 만나볼 수 있어, 커피와 디저트가 어우러지는 투썸플레이스만의 페어링 경험을 더욱 부담 없이 즐길 수 있다. 투썸플레이스 관계자는 “연말이 다가오는 가운데 고객들이 케이크와 커피·음료를 더욱 부담 없이 즐길 수 있도록 현대카드 M포인트 혜택을 확대했다”며, “투썸하트 앱에서 케이크를 예약할 때도 혜택을 받을 수 있는 만큼",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209941",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "人事",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "新闻“比真正的啤酒更受欢迎”...海特、OB、乐天争夺无酒精啤酒市场的领导地位 [今日食品 = 记者曹成润]随着国内无酒精啤酒市场的快速增长，海特真露（代表张仁燮）、OB啤酒（彼得·卡默斯、周宇）和乐天七星饮料（代表朴润基）争夺市场主导地位的竞争正在加剧。继现有市场领先的海特真露和凭借产品线扩大市场份额的OB啤酒之后，乐天七星饮料也在差异化制造技术和新产品方面迎头赶上。市场竞争也日益受到关注，海特真露饮料“Terra Zero”上市第一年就斩获品牌、广告、公关三项大奖。 20日业内人士表示，国内无酒精啤酒市场从2019年的约150亿韩元增长到2021年的400亿韩元，2024年突破700亿韩元。市场研究公司Euromonitor预测，国内市场规模将从2024年的704亿韩元扩大到2027年的956亿韩元。海特真露和欧比是市场领导人。",
+      "title_original": "뉴스 “진짜 맥주보다 대세”...하이트·오비·롯데, 무알코올 맥주 시장 주도권 경쟁 [푸드투데이 = 조성윤기자] 국내 무·비알코올 맥주 시장이 빠르게 성장하면서 하이트진로(대표 장인섭) 오비맥주(피터 캐머츠·저우유), 롯데칠성음료(대표 박윤기)의 시장 선점 경쟁이 치열해지고 있다. 기존 시장을 주도해온 하이트진로와 제품군을 앞세워 점유율을 확대하는 오비맥주에 이어 롯데칠성음료도 차별화된 제조 기술과 신제품으로 추격에 나섰다. 하이트진로음료의 '테라 제로'가 출시 첫해 브랜드·광고·PR 분야에서 3관왕을 차지하면서 시장 경쟁도 한층 주목받고 있다. 20일 업계에 따르면 국내 무·비알코올 맥주 시장은 2019년 약 150억원에서 2021년 400억원대로 성장했으며 2024년에는 700억원을 넘어섰다. 시장조사업체 유로모니터는 국내 시장 규모가 2024년 704억원에서 2027년 956억원으로 확대될 것으로 전망했다. 시장 선두권에서는 하이트진로와 오비맥주가 경쟁하고 있다. 시장조사업체 닐슨아이큐(NIQ)코리아의 2025년 판매액 기준 자료에 따르면 하이트진로음료의 '하이트제로0.00'은 점유율 36.8%로 1위를 차지했다. 오비맥주의 '카스 0.0'은 23.7%, '카스 0.0 레몬'은 9.7%로 두 제품의 합산 점유율은 33.4%다. 롯데칠성",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209939",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "政策法规",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "东亚社会集团选出两位70年代出生的总裁... 23名高管晋升",
+      "title_original": "동아쏘시오그룹, 70년대생 사장 2명 발탁…임원 23명 승진",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209134",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "人事",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "Paris Croissant任命三星电子前副总裁Kang Shin-bong为新任首席执行官",
+      "title_original": "파리크라상, 신임 대표이사에 강신봉 전 삼성전자 부사장 내정",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=208444",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "人事",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "[采访] 啤酒？ “我们也喜欢……但是”为什么一个来自浦项科技大学的20多岁的年轻人开始戒酒呢？",
+      "title_original": "[인터뷰]맥주? “우리도 좋아해요...그치만요” 포스텍 출신 20대 청년이 논알콜에 빠진 이유는?",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=207214",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "【专访】“家常早餐，舒适休息”……海上游轮酒店代表金惠京的酒店理念",
+      "title_original": "[인터뷰] '집밥 같은 조식과 편안한 휴식'… 김혜경 씨크루즈호텔 대표의 호텔 철학",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=206638",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "[照片]金惠京夫人在“泡菜日”之前体验泡菜",
+      "title_original": "[포토] 김혜경 여사, '김치의 날' 앞두고 김장 체험",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209935",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "[图]2026泡菜日纪念仪式，李东俊和小百合爱上泡菜文化",
+      "title_original": "[포토] 2026 김치의날 기념식, 이동준·사유리 김장문화에 빠지다",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209933",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "[照片]泡菜文化延续家庭烹饪……泡菜日庆祝活动",
+      "title_original": "[포토] 손맛으로 이어가는 김장문화…김치의 날 기념식",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209932",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "[图]农业农村部与aT举行泡菜日纪念仪式",
+      "title_original": "[포토] 농식품부·aT, 김치의 날 기념식 개최",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209931",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "[照片] Linebake 在首尔快闪店推出 Fruit Sando 和 Dubai Chewy Cookies",
+      "title_original": "[포토] 리니베이크, 서울 팝업스토어 과일산도·두바이쫀득쿠키 선봬",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209902",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "[图]“决定性的一天”，值得信赖的忠清北道知事亲临CSAT考点并鼓励考生",
+      "title_original": "[포토] '결전의 날' 신용한 충북도지사, 수능 고사장 찾아 수험생 격려",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=209873",
+      "source": "food today",
+      "market": "韩国",
+      "lang": "ko",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "新闻 DMK 交易后 Arla 工作面临风险 Satarupa Bhowmik",
+      "title_original": "News Arla jobs at risk in wake of DMK deal Satarupa Bhowmik",
+      "url": "https://www.just-food.com/news/arla-dmk-deal-jobs-risk/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "丹麦皇冠首席执行官退出，董事会寻求“更强的运营重点”Shivam Mishra",
+      "title_original": "News Danish Crown CEO exits as board seeks “stronger operational focus” Shivam Mishra",
+      "url": "https://www.just-food.com/news/danish-crown-ceo-steps-down/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "高级新闻 Once Upon a Farm 因召回而导致 EBITDA 损失，预计 2027 年将实现收支平衡 Simon Harvey",
+      "title_original": "Premium News Once Upon a Farm flags EBITDA loss from recall, eyes break-even in 2027 Simon Harvey",
+      "url": "https://www.just-food.com/news/once-upon-a-farm-recall-costs/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "政策法规",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "新闻 玛氏投资英国宠物食品制造商 Satarupa Bhowmik",
+      "title_original": "News Mars invests in UK pet-food manufacturing Satarupa Bhowmik",
+      "url": "https://www.just-food.com/news/mars-invests-uk-pet-food/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "企业动态",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "由于销量压力持续存在，花卉食品公司降低了指引 Simon Harvey",
+      "title_original": "News Flowers Foods lowers guidance as volume pressures persist Simon Harvey",
+      "url": "https://www.just-food.com/news/flowers-foods-lowers-guidance-as-volume-pressures-persist/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "财报",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "英国即食食品公司 Strathmore 收购私募股权公司所有者 Satarupa Bhowmik",
+      "title_original": "News UK ready-meals firm Strathmore gets PE owner Satarupa Bhowmik",
+      "url": "https://www.just-food.com/news/strathmore-gets-pe-owner/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "新闻 康尼格拉品牌因密苏里州工厂关闭而裁员 442 人 Simon Harvey",
+      "title_original": "News Conagra Brands to shed 442 jobs as Missouri plant closes Simon Harvey",
+      "url": "https://www.just-food.com/news/conagra-brands-to-shed-442-jobs-as-missouri-plant-closes/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "新营销",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "英国炎热夏季迫使凯恩斯食品公司进入破产管理程序 Dean Best",
+      "title_original": "News Hot UK summer pushes Kanes Foods into administration Dean Best",
+      "url": "https://www.just-food.com/news/hot-uk-summer-pushes-kanes-foods-into-administration/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "其他",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "新闻 Andriani 收购自有品牌酱料供应商 Pu-Ma Shivam Mishra",
+      "title_original": "News Andriani buys private-label sauces supplier Pu-Ma Shivam Mishra",
+      "url": "https://www.just-food.com/news/andriani-buys-sauces-supplier-pu-ma/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "新包装",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "披萨制造商 Valsa 获得新私募股权投资者 Aninda Chakraborty",
+      "title_original": "News Pizza maker Valsa gets new private-equity investor Aninda Chakraborty",
+      "url": "https://www.just-food.com/news/pizza-maker-valsa-gets-new-private-equity-investor/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "新营销",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "新闻 联合利华/麦考密克合并：英国监管机构寻求补救措施以减轻竞争担忧 Aninda Chakraborty",
+      "title_original": "News Unilever/McCormick merger: UK regulator seeks remedies to allay competition fears Aninda Chakraborty",
+      "url": "https://www.just-food.com/news/unilever-mccormick-merger-uk-regulator-seeks-remedies-to-allay-competition-fears/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "企业动态",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": ""
+    },
+    {
+      "title": "新闻 欧盟推进禁止笼养鸡蛋养殖的计划 西蒙·哈维",
+      "title_original": "News EU pushes ahead with plan to ban caged hen egg farming Simon Harvey",
+      "url": "https://www.just-food.com/news/eu-pushes-ahead-with-plan-to-ban-caged-hen-egg-farming/",
+      "source": "Just Food",
+      "market": "欧洲",
+      "lang": "en",
+      "published_at": "2026-11-21",
+      "category": "政策法规",
       "s_level": false,
       "s_reason": "",
       "abstract": ""
@@ -589,630 +1304,6 @@
       "abstract": ""
     },
     {
-      "title": "最少的原材料和加工...Binggrae 推出优质冰淇淋“清洁标签”",
-      "title_original": "최소한의 원료와 가공...빙그레, 프리미엄 아이스크림 ‘클린라벨’ 출시",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209925",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新原料",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 조성윤기자] 빙그레가 프리미엄 아이스크림 브랜드 ‘클린라벨’을 출시했다고 밝혔다. ‘클린라벨’은 최소한의 원재료 사용과 가공을 지향하는 클린라벨 트렌드를 반영하여 개발한 프리미엄 아이스크림이다. 클린라벨은 최소한의 원료를 사용하고 가공 방식을 단순화해 소비자가 원재료와 제품을 쉽게 이해할 수 있도록 하는 식품 개발 트렌드다. 미국과 유럽 등"
-    },
-    {
-      "title": "Erom推出含有99.57%国产药用大豆浓缩物的“不加糖豆奶”",
-      "title_original": "이롬, 국산 약콩 원액 99.57% 담은 '무가당 두유' 출시",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209920",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新产品",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 이롬이 국산 약콩 원액 99.57%를 담은 ‘황성주 박사의 이롬 국산콩 두유 무가당 약콩 99’(이하 ‘이롬 국산콩 두유 무가당 약콩 99’)를 출시했다고 20일 밝혔다. 이번 신제품은 지난 10월 출시한 ‘이롬 국산콩 두유 99 고칼슘’에 이어 새롭게 선보이는 프리미엄 통두유 제품이다. 국산 특등급 약콩 원액 함량을 99.57"
-    },
-    {
-      "title": "Pulmuone Healthcare为糖尿病患者推出“211糖护理饮食”……蔬菜、蛋白质、全谷物2:1:1",
-      "title_original": "풀무원헬스케어, 당뇨환자용 '211 당케어식단' 출시…채소·단백질·통곡물 2:1:1",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209870",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "政策法规",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 풀무원헬스케어(대표 김진홍)는 개인 맞춤형 식단 브랜드 ‘디자인밀’ 신제품으로 당뇨환자용 식단형 식품 ‘211 당케어식단’을 선보였다고 19일 밝혔다. ‘디자인밀 211 당케어식단’은 식품의약품안전처의 당뇨환자용 식단형 식품의 제조·가공 기준을 준수하고, 더 나아가 풀무원의 ‘211 식사법’을 함께 적용해 당뇨환자의 식단 관리에"
-    },
-    {
-      "title": "Bonjuk 和 GS25 推出类似东记红豆粥的“巧克力蛋糕”……别具一格的甜点",
-      "title_original": "본죽·GS25, 동지팥죽 닮은 '초코케이크' 출시…반전 디저트",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209858",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新包装",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 본아이에프의 한식 브랜드 본죽·본죽&비빔밥이 GS25와 협업한 동지 시즌 디저트 '본죽 동지 품은 초코케이크'를 출시했다고 18일 밝혔다. 이번 제품은 12월 22일 동지를 앞두고 본죽의 시그니처 죽 용기를 활용해 선보이는 시즌 디저트다. 외식 매장을 넘어 편의점까지 고객 접점을 넓혀, 2030을 비롯한 새로운 고객들에게"
-    },
-    {
-      "title": "Binggrae 推出 40 克高含量蛋白质饮料“The: Protein Drink Chestnut Latte”",
-      "title_original": "빙그레, 40g 고함량 단백질 드링크 ‘더:단백 드링크 밤라떼’ 출시",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209849",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新原料",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 조성윤기자] 빙그레가 단백질 함량을 한층 높인 프리미엄 고함량 프로틴 드링크 신제품 ‘더:단백 드링크 밤라떼’를 출시했다. 신제품 ‘더:단백 드링크 밤라떼’는 유럽산 프리미엄 우유단백질을 100% 사용한 제품으로, 350ml 한 병에 단백질 40g을 담은 고함량 단백질 음료이다. 우유단백질 특유의 부드럽고 고소한 풍미에 밤의 달콤하고 은은한"
-    },
-    {
-      "title": "Jamba限量发售3种“济州金香”年末饮品",
-      "title_original": "잠바(Jamba), ‘제주 황금향’ 담은 연말 시즌 음료 3종 한정 판매",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209846",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新产品",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 조성윤기자] 잠바(Jamba)가 제철 과일 제주 황금향을 활용한 연말 시즌 음료 3종을 출시한다. 잠바는 제철 과일 등 원재료 본연의 맛을 살린 다양한 시즌 메뉴를 꾸준히 선보이고 있다. 이번 신제품은 제철 과일 황금향을 활용해 특유의 밝고 화사한 황금빛 색상과 달콤한 풍미로 크리스마스와 연말의 포근한 분위기를 담아냈다. 다양한 과일과 허브"
-    },
-    {
-      "title": "乐天七星推出三款2026年帽酒“Georges Dubeuf Beaujolais Nouveau”",
-      "title_original": "롯데칠성, 2026 햇와인 ‘조르쥐 뒤뵈프 보졸레 누보’ 3종 출시",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209844",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新技术",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 조성윤기자] 롯데칠성음료가 2026년산 햇와인 ‘보졸레 누보(Beaujolais Nouveau)’를 선보인다. 이번에 선보이는 ‘보졸레 누보’는 프랑스 보졸레 지역을 대표하는 포도 품종인 ‘가메(Gamay)’로 만든 레드와인으로 조르쥐 뒤뵈프 보졸레 누보(Georges Duboeuf Beaujolais Nouveau) 1종, 조르쥐 뒤뵈프"
-    },
-    {
-      "title": "Daesang Welllife Gutsys 推出用于肠道健康和免疫管理的乳酸菌",
-      "title_original": "대상웰라이프 것시스, 장 건강·면역 관리 유산균 출시",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209825",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新产品",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 대상웰라이프의 프로바이오틱스 브랜드 ‘것시스’가 장 건강과 면역기능을 함께 관리할 수 있는 ‘것시스 면역 앤 비피더스 유산균’을 출시한다고 18일 밝혔다. 비피더스균은 장 내부를 산성 환경으로 유지해 유해균 억제와 원활한 배변활동에 도움을 주는 유익균이다. 연령대가 높아질수록 장내 비피더스균이 줄어들기 때문에 일상에서 꾸준히 챙"
-    },
-    {
-      "title": "大象清净院推出含糖量降低87%的牛排骨和烤肉调味料",
-      "title_original": "대상 청정원, 당류 87% 낮춘 소갈비·불고기 양념 출시",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209820",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新产品",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 대상 청정원이 저당·저칼로리 자체 엠블럼 ‘LOWTAG(로우태그)’를 부착한 저당 소갈비·소불고기 양념 신제품을 출시하며, 저당 제품 카테고리를 또 한 번 확대한다. 최근 건강한 식생활과 당류 함량에 대한 관심이 높아지면서 음료와 스낵은 물론, 각종 조미식품까지 저당 제품 수요가 확대되고 있다. 이에 대상 청정원은 식약처의 저("
-    },
-    {
-      "title": "农心推出“辣蛋黄酱炒Neoguri”、Modisure Recipe容器面...扩大产品阵容",
-      "title_original": "농심, 모디슈어 레시피 용기면 ‘매콤마요 볶음너구리’ 출시... 라인업 확대",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209797",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新包装",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 조성윤기자] 소비자 요청에 힘입어 한정 재출시된 ‘볶음너구리’가 내년부터 연중 판매된다. 농심은 재출시 이후 볶음너구리에 대한 시장 반응과 판매 추이를 고려한 결정이라고 밝혔다. 또한, 볶음너구리의 첫 신제품 '매콤마요 볶음너구리 큰사발면'을 출시하면서 소비자 성원에 보답하는 동시에 제품 라인업도 본격 확장하기로 했다. 농심은 지난 10월"
-    },
-    {
-      "title": "“Maunjaro韩国29万韩元，日本105,000韩元”…呼吁引入管理福利",
-      "title_original": "“마운자로 한국 29만원·일본 10.5만원”…관리급여 도입 촉구",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209850",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 비만치료제 마운자로의 국내 판매가격이 일본과 중국보다 높게 형성돼 있다는 지적이 제기되면서 비급여 의약품의 가격 관리체계를 개선해야 한다는 목소리가 나왔다. 소비자주권시민회의는 18일 성명을 내고 마운자로 등 GLP-1 계열 비만치료제의 가격 투명성을 확보하기 위해 정부가 관리급여 도입을 적극 추진해야 한다고 촉구했다. 소비자주"
-    },
-    {
-      "title": "日东·胡迪斯与张珉豪连续8年续约...“张珉豪蛋白质”合作",
-      "title_original": "일동후디스, 장민호와 8년 연속 재계약… ‘장민호 단백질’ 파트너십 동행",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209845",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新原料",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 조성윤기자] 일동후디스의 대한민국 1등 단백질 브랜드 ‘하이뮨’이 가수 장민호와 전속 모델 계약을 1년 연장하며 8년 동행을 이어간다고 밝혔다. 장민호는 지난 2020년 하이뮨의 전속 모델로 발탁된 이후 특유의 밝고 건강한 이미지로 브랜드 성장에 기여해왔다. 특히, 장기간 이어온 파트너십을 통해 ‘장민호 단백질’이라는 애칭이 생겨날 만큼 브"
-    },
-    {
-      "title": "密阳啤酒厂“密阳阿里郎马格利酒”被召回……虚假延长保质期",
-      "title_original": "밀양주조 '밀양아리랑막걸리' 회수…소비기한 허위 연장 표시",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209862",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新原料",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 식품의약품안전처(처장 오유경)는 경상남도 밀양시에 소재한 식품제조가공업체 밀양주조가 제조·판매한 '밀양아리랑막걸리'(식품유형: 탁주) 제품에서 소비기한을 사실과 다르게 연장 표시한 사실이 확인돼 판매 중단하고 회수한다고 18일 밝혔다. 회수 대상은 소비기한이 2026년 12월 24일, 25일, 26일로 표시된 제품이다. 식약처는"
-    },
-    {
-      "title": "36% 购买 5 种或更多类型的健康食品，信任人工智能……复杂的摄入安全管理“警示灯”",
-      "title_original": "AI 믿고 건기식 5종 이상 구매 36%…복합 섭취 안전관리 '경고등'",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209891",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新技术",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 생성형 인공지능(AI)을 활용한 건강기능식품 구매가 확산하면서 여러 제품을 한꺼번에 고르는 'AI 기반 건기식 복합 구매'의 안전관리 문제가 부각되고 있다. AI 정보를 활용한 자가 선택.이용 경험자 10명 중 6명 이상이 건강기능식품을 샀고, 3명 중 1명 이상은 5종 이상을 조합해 구매한 것으로 나타났다. 한국소비자원(원장"
-    },
-    {
-      "title": "Samyang Foods、Uzi Jjajang 拉面“Charle”在全国 Costco 商店推出",
-      "title_original": "삼양식품, 우지 짜장라면 '짜르르' 코스트코 전국 매장 입점",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209857",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新产品",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 삼양식품은 우지 짜장라면 ‘짜르르’를 코스트코 전국 20개 매장에서 판매를 시작한다고 18일 밝혔다. 이번에 선보이는 제품은 코스트코 고객의 대용량 구매 수요를 고려한 16개입 상품이다. 삼양식품은 전국 코스트코 매장에서 시식 행사를 진행해 소비자들이 제품의 맛을 직접 경험할 수 있도록 할 계획이다. 지난 7월 출시된 ‘짜르르’"
-    },
-    {
-      "title": "BBQ Alltteok、淑明女子大学入口店开业...针对大学地区的“My Pick”菜单",
-      "title_original": "BBQ 올떡, 숙대입구점 오픈...'마이 픽' 메뉴 대학가 공략",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209832",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 노태영기자] 치킨 프랜차이즈 제너시스BBQ 그룹(회장 윤홍근)은 서울 용산구 숙대입구역과 숙명여대를 연결하는 상권에 올떡 숙대입구점을 오픈했다고 18일 밝혔다. 새롭게 문을 연 숙대입구점은 약 15평 규모로 총 20석을 갖췄으며, 숙명여대 학생들의 공강과 수업 종료 후 식사·간식 수요를 비롯해 인근 직장인과 지역 거주민의 방문 수요를 고려해"
-    },
-    {
-      "title": "“我也穿零食”Saeumkkang T恤、番茄酱连帽衫……食品工业，通过时尚瞄准2030年",
-      "title_original": "“과자도 입는다” 새우깡 티셔츠·케챂 후드티…식품업계, 패션으로 2030 공략",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209859",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新包装",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 조성윤기자] 식품업계가 패션업계와의 이종 협업을 확대하고 있다. 장수 식품 브랜드의 로고와 패키지 디자인을 의류와 패션잡화에 접목해 기존 브랜드에 새로운 이미지를 더하고 젊은 소비자와의 접점을 넓히려는 전략이다. 최근에는 티셔츠와 운동복뿐 아니라 키링, 향수, 카드지갑 등 라이프스타일 상품으로 협업 영역이 확대되는 추세다. 18일 업계에 따"
-    },
-    {
-      "title": "当地儿童中心的烧烤、鸡肉烹饪体验和分享活动",
-      "title_original": "BBQ, 지역아동센터 찾아 치킨 조리 체험·나눔 활동",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209864",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 노태영기자] 치킨 프랜차이즈 제너시스BBQ 그룹(회장 윤홍근)는 서울 노원구 상계동 열림지역아동센터 토요문화학교 ‘둥지탐험대’에 참여하는 초·중학생을 대상으로 ‘찾아가는 치킨캠프’와 ‘찾아가는 치킨릴레이’를 진행했다고 19일 밝혔다. 이번 행사는 BBQ를 접한 지역아동센터 측이 평소 치킨을 좋아하고 요리사를 꿈꾸는 아이들이 있다는 사연을 계"
-    },
-    {
-      "title": "查获2.3吨无生产日期“Namdomeju”…食品药品安全部“停止食用”",
-      "title_original": "제조일자 없는 '남도메주' 2.3톤 회수…식약처 \"섭취 중단\"",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209903",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 제조일자를 표시하지 않은 한식메주 제품 2.3톤이 회수 조치됐다. 식품의약품안전처(처장 오유경)는 농업회사법인 선재전통식품2가 제조·판매한 ‘남도메주’에서 제조일자 미표시 사실이 확인돼 해당 제품의 판매를 중단하고 회수 조치한다고 19일 밝혔다. 회수 대상은 식품유형이 한식메주인 ‘남도메주’ 제품으로, 내용량은 1.2kg부터 1"
-    },
-    {
-      "title": "新闻 康津食品“清子谷鲜豆腐”检出大肠菌群...食品医药品安全部、暂停销售及召回 [今日食品=记者黄仁善] 食品医药品安全部（吴裕庆部长）宣布，康津食品（全罗南道康津郡光州统一特别市）生产的“清子谷鲜豆腐”（食品种类：豆腐）被确认不符合大肠菌群标准和规格，当地政府康津郡办公室正在采取暂停销售和召回该产品的措施。此次召回的对象是青瓷骨鲜豆腐，产品上标注的有效期为“2029年11月26日”。然而，有效期的标注有误，实际的有效期是“2026年11月29日”。食品药品安全部要求储存该产品的销售者立即停止销售，并退回代收企业。此外，还要求购买该产品的消费者不要食用该产品，并配合召回措施，例如将其退回购买地或召回对象的企业。",
-      "title_original": "뉴스 강진식품 '청자골싱싱두부' 대장균군 검출…식약처, 판매 중단·회수 [푸드투데이 = 황인선기자] 식품의약품안전처(처장 오유경)는 강진식품(전남광주통합특별시 강진군)이 제조한 '청자골싱싱두부'(식품유형: 두부)가 대장균군 기준·규격 부적합으로 확인돼 관할 지방자치단체인 강진군청에서 판매 중단 및 회수 조치를 진행하고 있다고 밝혔다. 회수 대상은 제품에 소비기한이 '2029년 11월 26일'로 표시된 청자골싱싱두부다. 다만 해당 소비기한은 오표기된 것으로, 실제 소비기한은 '2026년 11월 29일'이다. 식약처는 해당 제품을 보관 중인 판매자에게 즉시 판매를 중단하고 회수 영업자에게 반품할 것을 요청했다. 아울러 해당 제품을 구매한 소비자에게는 섭취하지 말고 구입처 또는 회수 대상 업소에 반품하는 등 회수 조치에 협조해 줄 것을 당부했다.",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209947",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "政策法规",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 식품의약품안전처(처장 오유경)는 강진식품(전남광주통합특별시 강진군)이 제조한 '청자골싱싱두부'(식품유형: 두부)가 대장균군 기준·규격 부적합으로 확인돼 관할 지방자치단체인 강진군청에서 판매 중단 및 회수 조치를 진행하고 있다고 밝혔다. 회수 대상은 제품에 소비기한이 '2029년 11월 26일'로 표시된 청자골싱싱두부다. 다만 해"
-    },
-    {
-      "title": "10,699 名 Curly 策展人的个人信息泄露...连社会安全号码和账号都被泄露 [今日食品 = 记者卢泰英] 零售科技公司 Curly 发生了 10,699 名策展人的个人信息被泄露的事件。由于已确认一些受害者的居民登记号码和帐号被泄露，对个人信息管理的担忧日益增加。据Curly 20日报道，17日，外部攻击者以非正常方式访问系统，窃取认证信息，并利用其获得对业务系统的非授权访问。此次事件中，10,699名卷毛策展人计划参与者的个人信息以及两名普通客户的会员号码被泄露。策展人泄露的信息包括姓名、ID、电话号码、电子邮件和SNS频道信息。一些策展人的情况已被证实包含帐号、居民登记号码，甚至商业登记号码。 Curly 策展人是通过社交媒体渠道推广 Curly 产品或分享产品购买链接的用户和影响者。",
-      "title_original": "뉴스 컬리 큐레이터 1만699명 개인정보 유출…주민번호·계좌번호까지 [푸드투데이 = 노태영 기자] 리테일 테크 기업 컬리에서 큐레이터 1만699명의 개인정보가 유출되는 사고가 발생했다. 일부 피해자의 주민등록번호와 계좌번호까지 유출된 것으로 확인되면서 개인정보 관리에 대한 우려가 커지고 있다. 20일 컬리에 따르면 지난 17일 외부 공격자가 비정상적인 방법으로 시스템에 접근해 인증정보를 탈취한 뒤 이를 이용해 업무 시스템에 무단으로 접근했다. 이번 사고로 컬리 큐레이터 프로그램에 참여한 1만699명의 개인정보와 일반 고객 2명의 회원번호가 유출됐다. 큐레이터의 유출 정보는 이름, 아이디, 전화번호, 이메일, SNS 채널 정보 등이다. 일부 큐레이터의 경우 계좌번호와 주민등록번호 또는 사업자등록번호까지 포함된 것으로 확인됐다. 컬리 큐레이터는 자신의 SNS 채널을 통해 컬리 제품을 홍보하거나 제품 구매 링크를 공유하는 이용자 및 인플루언서를 말한다. 다만 일반 고객 2명의 경우 회원번호만 유출됐으며 이름, 전화번호, 주소, 비밀번호, 결제수단 정보 등은 포함되지 않았다고 컬리는 설명했다. 컬리는 외부 공격 사실을 인지한 직후 긴급 차단 조치를 진행하고 지난 18일 관계기관에 침해사고를 신고했다. 이후 추가 조사 과정에서 개인정",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209946",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "政策法规",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 노태영 기자] 리테일 테크 기업 컬리에서 큐레이터 1만699명의 개인정보가 유출되는 사고가 발생했다. 일부 피해자의 주민등록번호와 계좌번호까지 유출된 것으로 확인되면서 개인정보 관리에 대한 우려가 커지고 있다. 20일 컬리에 따르면 지난 17일 외부 공격자가 비정상적인 방법으로 시스템에 접근해 인증정보를 탈취한 뒤 이를 이용해 업무 시스템에"
-    },
-    {
-      "title": "新闻 农协使用新万金工业园区作为野草饲料…促进畜牧业者饲料成本的降低 [今日食品=记者黄仁善] 农协经济控股畜牧经济公司（代表安秉宇）20日宣布，与益山群山畜牧合作社（代表社长沉载植）和韩国乡村社区公社（代表金仁中）在益山群山畜牧合作社会议室使用新万金工业园区的原生野草作为饲料资源。根据协议，韩国农村社区公社将提供收集野草所需的场地和管理信息，农协畜产经济公司和益山群山畜牧合作社计划收集和出口野草，并将其作为饲料原料供应给当地畜牧场。使用本地野生草而不需要单独的饲料作物预计将导致资源利用和景观改善。因此，农协畜牧经济计划审查使用野草的饲料成本降低效果和环境影响，并与相关组织合作寻求确保可持续饲料资源的方法。农协牲畜饲料部门负责人姜贤基表示：“我们使用尚未被用作畜牧场饲料资源的野草。",
-      "title_original": "뉴스 농협, 새만금산단 들풀 사료로 활용…축산농가 사료비 절감 추진 [푸드투데이 = 황인선기자] 농협경제지주 축산경제(대표이사 안병우)는 20일 익산군산축협 회의실에서 익산군산축협(조합장 심재집), 한국농어촌공사(사장 김인중)와 함께 새만금산업단지 내 자생 들풀을 조사료 자원으로 활용하기 위한 업무협약을 체결했다고 밝혔다. 협약에 따라 한국농어촌공사는 들풀 수거에 필요한 부지 및 관리 정보를 제공하고, 농협 축산경제와 익산군산축협은 들풀을 수거·반출해 지역 축산농가에 사료 원료로 공급할 계획이다. 별도의 사료작물 재배 없이 자생 들풀을 활용한다는 점에서 자원 활용과 경관 개선 효과도 기대된다. 이에 농협 축산경제는 들풀 활용에 따른 사료비 절감 효과와 환경적 영향을 검토하고, 관계기관과 협력해 지속 가능한 조사료 자원 확보 방안을 모색하고자 한다. 강현기 농협 축산사료자재부장은 “그동안 활용되지 못했던 들풀을 축산농가에 필요한 사료 자원으로 활용한다는 점에서 의미가 크다”며 “농협은 앞으로도 유관기관과 협력해 농가의 사료비 부담을 줄이고, 지역 자원을 활용한 상생협력 모델을 만들어 나가겠다”고 밝혔다.",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209945",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "人事",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 농협경제지주 축산경제(대표이사 안병우)는 20일 익산군산축협 회의실에서 익산군산축협(조합장 심재집), 한국농어촌공사(사장 김인중)와 함께 새만금산업단지 내 자생 들풀을 조사료 자원으로 활용하기 위한 업무협약을 체결했다고 밝혔다. 협약에 따라 한국농어촌공사는 들풀 수거에 필요한 부지 및 관리 정보를 제공하고, 농협 축산경제와 익산"
-    },
-    {
-      "title": "뉴스 국내 콜레라 환자 10년 만에 발생...感染途径、症状和预防方法是什么？ （图像=生成式人工智能的利用）",
-      "title_original": "뉴스 국내 콜레라 환자 10년 만에 발생…감염 경로·증상·예방법은? (이미지 = 생성형 AI 활용)",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209944",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "新技术",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "(이미지 = 생성형 AI 활용)"
-    },
-    {
-      "title": "新闻 食品药品安全部与农业食品安全部就功能性农产品标签制度发生冲突…立法司法委员会刹车 [今日食品=记者黄仁善] 农业食品农村部与食品药品安全部围绕功能性农产品标签和广告管理权的冲突，在国会立法阶段正面冲突。在农业食品农村部力求推出单独的功能性农产品标签制度的同时，食品药品安全部也宣布计划于2027年改革包括功能性农产品在内的保健功能食品管理体系，引发了法律冲突和监管重叠的问题。据国会20日消息，食品药品安全部计划修订《食品标签和广告法》，建立农产品标签和验证制度，并在2027年修订保健功能食品管理体系，将功能性农产品纳入其中。这是国会农业、食品、农村事务、海洋和渔业委员会最近宣布的一项内部制度重组政策，增加了与现行食品相关法律冲突、重复的可能性。部委之间的工作，以及关于引入功能性农产品标签制度提案的双重规定。此前，11日，韩国民主党尹俊炳公布了农业和海洋层面的情况。",
-      "title_original": "뉴스 기능성 농산물 표시제 놓고 식약처·농식품부 충돌…법사위 제동 [푸드투데이 = 황인선기자] 기능성 농산물의 표시·광고 관리 권한을 둘러싼 농림축산식품부와 식품의약품안전처의 갈등이 국회 입법 단계에서 정면충돌하고 있다. 농식품부가 별도의 기능성 농산물 표시제 도입을 추진하는 가운데, 식약처도 2027년 기능성 농산물을 포함하는 건강기능식품 관리체계 개편 계획을 밝히면서 법률 간 충돌과 중복 규제 문제가 쟁점으로 떠오르고 있다. 20일 국회에 따르면 식약처는 농산물 표시·실증 체계 마련을 위해 '식품표시광고법'을 정비하고, 2027년에는 기능성 농산물을 포함하도록 건강기능식품 관리체계를 개편할 계획이다. 이는 최근 국회 농림축산식품해양수산위원회가 의결한 기능성 농산물 표시제 도입안에 대해 기존 식품 관련 법률과의 충돌, 부처 간 업무 중복, 이중규제 가능성을 제기하면서 밝힌 자체 제도 정비 방침이다. 앞서 농해수위는 지난 11일 더불어민주당 윤준병 의원과 국민의힘 박형수 의원이 각각 대표발의한 '농수산물 품질관리법' 개정안을 통합·조정한 대안을 의결했다. 개정안은 기능성 농산물의 정의를 신설하고, 농식품부 장관이 식약처장과 협의해 표시·광고 기준을 정하도록 했다. 또한 표시·광고 주체에게 과학적 실증 책임을 부여하고, 자료",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209942",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "政策法规",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "[푸드투데이 = 황인선기자] 기능성 농산물의 표시·광고 관리 권한을 둘러싼 농림축산식품부와 식품의약품안전처의 갈등이 국회 입법 단계에서 정면충돌하고 있다. 농식품부가 별도의 기능성 농산물 표시제 도입을 추진하는 가운데, 식약처도 2027년 기능성 농산물을 포함하는 건강기능식품 관리체계 개편 계획을 밝히면서 법률 간 충돌과 중복 규제 문제가 쟁점으로 떠오르고"
-    },
-    {
-      "title": "新闻 Twosome Place，使用现代卡 M 积分付款可享受高达 60% 的折扣...Twosome Heart 应用程序促销正在进行中 [今日食品 = 记者 Jo Seong-yoon] Twosome Place（代表文英珠）正在为现代卡用户举办联属促销活动，直至 12 月 31 日为止，客户可以使用 M 积分最多购买金额的 60%。通过与现代卡的持续合作，Twosome Place 提供了优惠，使顾客可以在日常生活中使用 M 积分享受各种菜单。此促销活动面向所有可累积和使用 M 积分的现代卡会员。当您通过Twosome Heart应用程序订购菜单或预订蛋糕时，您可以使用M积分最多抵扣付款金额的60%。在店内（包括自助终端）订购时，M 积分最多可用于支付金额的 50%，使用积分后的剩余金额可使用符合条件的现代卡支付。通过这个优惠，您不仅可以以合理的价格获得咖啡和饮料，还可以买到和平蛋糕和整块蛋糕。",
-      "title_original": "뉴스 현대카드 M포인트 결제시 투썸플레이스, 최대 60% 할인...투썸하트 앱 프로모션 진행 [푸드투데이 = 조성윤기자] 투썸플레이스(대표이사 문영주)가 현대카드 이용 고객 대상으로 구매 금액의 최대 60%까지 M포인트를 사용할 수 있는 제휴 프로모션을 12월 31일까지 진행한다. 투썸플레이스는 현대카드와의 지속적인 제휴를 통해 고객들이 일상에서 M포인트로 다양한 메뉴를 즐길 수 있도록 혜택을 제공해 왔다. 이번 프로모션은 M포인트 적립 및 사용이 가능한 모든 현대카드 회원을 대상으로 진행된다. 투썸하트 앱에서 메뉴를 주문하거나 케이크를 예약하면 결제 금액의 최대 60%까지 M포인트를 사용할 수 있다. 키오스크를 포함한 매장 내 주문 시에는 결제 금액의 최대 50%까지 M포인트 사용이 가능하며, 포인트 사용 후 남은 금액은 대상 현대카드로 결제하면 된다. 이번 혜택을 통해 커피·음료는 물론 피스 케이크와 홀케이크까지 합리적인 가격에 만나볼 수 있어, 커피와 디저트가 어우러지는 투썸플레이스만의 페어링 경험을 더욱 부담 없이 즐길 수 있다. 투썸플레이스 관계자는 “연말이 다가오는 가운데 고객들이 케이크와 커피·음료를 더욱 부담 없이 즐길 수 있도록 현대카드 M포인트 혜택을 확대했다”며, “투썸하트 앱에서 케이크를 예약할 때도 혜택을 받을 수 있는 만큼",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209941",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "人事",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻 “比真正的啤酒更受欢迎”...海特、OB、乐天争夺无酒精啤酒市场的领导地位 [今日食品 = 记者 Jo Seong-yoon] 随着国内无酒精啤酒市场的快速增长，海特真露（代表张仁燮）、OB 啤酒（彼得·卡默斯、周宇）和乐天七星饮料（代表朴润基）争夺市场主导地位的竞争正在加剧。继现有市场领先的海特真露和凭借产品线扩大市场份额的OB啤酒之后，乐天七星饮料也在差异化制造技术和新产品方面迎头赶上。市场竞争也日益受到关注，海特真露饮料“Terra Zero”上市第一年就斩获品牌、广告、公关三项大奖。 20日业内人士表示，国内无酒精啤酒市场从2019年的约150亿韩元增长到2021年的400亿韩元，2024年突破700亿韩元。市场研究公司Euromonitor预测，国内市场规模将从2024年的704亿韩元扩大到2027年的956亿韩元。海特真露和欧比是市场领导人。",
-      "title_original": "뉴스 “진짜 맥주보다 대세”...하이트·오비·롯데, 무알코올 맥주 시장 주도권 경쟁 [푸드투데이 = 조성윤기자] 국내 무·비알코올 맥주 시장이 빠르게 성장하면서 하이트진로(대표 장인섭) 오비맥주(피터 캐머츠·저우유), 롯데칠성음료(대표 박윤기)의 시장 선점 경쟁이 치열해지고 있다. 기존 시장을 주도해온 하이트진로와 제품군을 앞세워 점유율을 확대하는 오비맥주에 이어 롯데칠성음료도 차별화된 제조 기술과 신제품으로 추격에 나섰다. 하이트진로음료의 '테라 제로'가 출시 첫해 브랜드·광고·PR 분야에서 3관왕을 차지하면서 시장 경쟁도 한층 주목받고 있다. 20일 업계에 따르면 국내 무·비알코올 맥주 시장은 2019년 약 150억원에서 2021년 400억원대로 성장했으며 2024년에는 700억원을 넘어섰다. 시장조사업체 유로모니터는 국내 시장 규모가 2024년 704억원에서 2027년 956억원으로 확대될 것으로 전망했다. 시장 선두권에서는 하이트진로와 오비맥주가 경쟁하고 있다. 시장조사업체 닐슨아이큐(NIQ)코리아의 2025년 판매액 기준 자료에 따르면 하이트진로음료의 '하이트제로0.00'은 점유율 36.8%로 1위를 차지했다. 오비맥주의 '카스 0.0'은 23.7%, '카스 0.0 레몬'은 9.7%로 두 제품의 합산 점유율은 33.4%다. 롯데칠성",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209939",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "政策法规",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "东亚社会集团选出两位70后总裁... 23名高管晋升",
-      "title_original": "동아쏘시오그룹, 70년대생 사장 2명 발탁…임원 23명 승진",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209134",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "人事",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "Paris Croissant任命三星电子前副总裁Kang Shin-bong为新任首席执行官",
-      "title_original": "파리크라상, 신임 대표이사에 강신봉 전 삼성전자 부사장 내정",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=208444",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "人事",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "[采访] 啤酒？ “我们也喜欢……但是”为什么一个来自浦项科技大学的20多岁的年轻人开始戒酒呢？",
-      "title_original": "[인터뷰]맥주? “우리도 좋아해요...그치만요” 포스텍 출신 20대 청년이 논알콜에 빠진 이유는?",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=207214",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "【专访】“家常早餐，舒适休息”……海上游轮酒店代表金惠京的酒店理念",
-      "title_original": "[인터뷰] '집밥 같은 조식과 편안한 휴식'… 김혜경 씨크루즈호텔 대표의 호텔 철학",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=206638",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "[照片]金惠京夫人在“泡菜日”之前体验泡菜",
-      "title_original": "[포토] 김혜경 여사, '김치의 날' 앞두고 김장 체험",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209935",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "【照片】2026年泡菜日纪念仪式，李东俊和纱由里沉浸在腌制泡菜的文化中",
-      "title_original": "[포토] 2026 김치의날 기념식, 이동준·사유리 김장문화에 빠지다",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209933",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "[照片] 传承手工制作的腌制泡菜文化……泡菜日纪念仪式",
-      "title_original": "[포토] 손맛으로 이어가는 김장문화…김치의 날 기념식",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209932",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "【图片】农林畜产食品部和aT举办泡菜日纪念仪式",
-      "title_original": "[포토] 농식품부·aT, 김치의 날 기념식 개최",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209931",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "【图片】Lini Bake 在首尔快闪店推出水果三明治和迪拜软糯饼干",
-      "title_original": "[포토] 리니베이크, 서울 팝업스토어 과일산도·두바이쫀득쿠키 선봬",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209902",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "[照片] “决战日”忠清北道知事金英焕前往高考考场为考生加油鼓劲",
-      "title_original": "[포토] '결전의 날' 신용한 충북도지사, 수능 고사장 찾아 수험생 격려",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=209873",
-      "source": "food today",
-      "market": "韩国",
-      "lang": "ko",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻 DMK收购案后，Arla的职位岌岌可危 Satarupa Bhowmik",
-      "title_original": "News Arla jobs at risk in wake of DMK deal Satarupa Bhowmik",
-      "url": "https://www.just-food.com/news/arla-dmk-deal-jobs-risk/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻 Danish Crown首席执行官离职，董事会寻求“更强有力的运营重点” Shivam Mishra",
-      "title_original": "News Danish Crown CEO exits as board seeks “stronger operational focus” Shivam Mishra",
-      "url": "https://www.just-food.com/news/danish-crown-ceo-steps-down/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "付费新闻 Once Upon a Farm指出召回导致EBITDA亏损，预计2027年实现盈亏平衡 Simon Harvey",
-      "title_original": "Premium News Once Upon a Farm flags EBITDA loss from recall, eyes break-even in 2027 Simon Harvey",
-      "url": "https://www.just-food.com/news/once-upon-a-farm-recall-costs/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "政策法规",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻 马氏投资英国宠物食品制造商 Satarupa Bhowmik",
-      "title_original": "News Mars invests in UK pet-food manufacturing Satarupa Bhowmik",
-      "url": "https://www.just-food.com/news/mars-invests-uk-pet-food/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "企业动态",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻 Flowers Foods下调业绩指引，因销量压力持续存在 Simon Harvey",
-      "title_original": "News Flowers Foods lowers guidance as volume pressures persist Simon Harvey",
-      "url": "https://www.just-food.com/news/flowers-foods-lowers-guidance-as-volume-pressures-persist/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "财报",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻：英国即食餐企Strathmore迎来私募股权所有者Satarupa Bhowmik",
-      "title_original": "News UK ready-meals firm Strathmore gets PE owner Satarupa Bhowmik",
-      "url": "https://www.just-food.com/news/strathmore-gets-pe-owner/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻 Conagra Brands将裁撤442个工作岗位，密苏里州工厂关闭 Simon Harvey",
-      "title_original": "News Conagra Brands to shed 442 jobs as Missouri plant closes Simon Harvey",
-      "url": "https://www.just-food.com/news/conagra-brands-to-shed-442-jobs-as-missouri-plant-closes/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "新营销",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻热点 英国炎夏致使Kanes Foods进入破产管理程序 Dean Best",
-      "title_original": "News Hot UK summer pushes Kanes Foods into administration Dean Best",
-      "url": "https://www.just-food.com/news/hot-uk-summer-pushes-kanes-foods-into-administration/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "其他",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻 Andriani收购自有品牌酱料供应商Pu-Ma Shivam Mishra",
-      "title_original": "News Andriani buys private-label sauces supplier Pu-Ma Shivam Mishra",
-      "url": "https://www.just-food.com/news/andriani-buys-sauces-supplier-pu-ma/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "新包装",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻：披萨制造商Valsa迎来新私募股权投资者Aninda Chakraborty",
-      "title_original": "News Pizza maker Valsa gets new private-equity investor Aninda Chakraborty",
-      "url": "https://www.just-food.com/news/pizza-maker-valsa-gets-new-private-equity-investor/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "新营销",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻 联合利华/味好美合并：英国监管机构寻求补救措施以消除对竞争的担忧 Aninda Chakraborty",
-      "title_original": "News Unilever/McCormick merger: UK regulator seeks remedies to allay competition fears Aninda Chakraborty",
-      "url": "https://www.just-food.com/news/unilever-mccormick-merger-uk-regulator-seeks-remedies-to-allay-competition-fears/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "企业动态",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
-      "title": "新闻：欧盟推进禁止笼养蛋鸡养殖的计划 Simon Harvey",
-      "title_original": "News EU pushes ahead with plan to ban caged hen egg farming Simon Harvey",
-      "url": "https://www.just-food.com/news/eu-pushes-ahead-with-plan-to-ban-caged-hen-egg-farming/",
-      "source": "Just Food",
-      "market": "欧洲",
-      "lang": "en",
-      "published_at": "2026-11-21",
-      "category": "政策法规",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": ""
-    },
-    {
       "title": "YOSHIKI生日当天发布第一款威士忌 网上预售后57分钟全部售罄",
       "title_original": "YOSHIKI 初のウイスキー、誕生日に登場 オンライン先行発売から57分で全3種完売",
       "url": "https://prtimes.jp/main/html/rd/p/000000660.000021123.html",
@@ -1278,7 +1369,7 @@
       "abstract": "清涼飲料業界で推進する使用済みPETボトルの水平リサイクル「ボトルtoボトル（BtoB）」比率が30年度の目標である50％達成に向けて前進した。PETボトルリサイクル推進協議会（推進協議会）は17日、国内で販売された指 […] 投稿 【速報】清涼飲料業界　「BtoB」比率40％台に　50％目標に向け前進 は 日本食糧新聞・電子版 に最初に表示されました。"
     },
     {
-      "title": "【突发新闻】各大冷冻食品企业财报显示上半年利润接连下滑，强化增量措施，检讨经营策略。",
+      "title": "【爆料】各大冷冻食品企业财报：上半年利润下滑接连，增量力度加大，经营策略检讨",
       "title_original": "【速報】冷食大手決算 上期減益相次ぐ 数量増へ打ち手強化 事業戦略見直しも",
       "url": "https://news.nissyoku.co.jp/flash/1337271",
       "source": "日本食粮新闻",
@@ -1356,19 +1447,6 @@
       "abstract": "株式会社カフェヨシノのプレスリリース（2026年11月20日 12時00分）ふわっ、もちっ。生ドーナツと具だくさんサンドイッチが名駅に！「ヨシノベーカリーサンロード店」12月9日オープン"
     },
     {
-      "title": "由于大众的需求，Suica企鹅又回来吃饭团了！！ “Omusubidokoro Hontoriya Original Acrylic Keychain”赠品活动",
-      "title_original": "好評につき再登場Suicaのペンギンたちがおむすびを食べている!!「おむすび処 ほんのり屋オリジナル アクリルキーホルダー」プレゼントキャンペーン",
-      "url": "https://prtimes.jp/main/html/rd/p/000001301.000082978.html",
-      "source": "PRTIMES",
-      "market": "日本",
-      "lang": "ja",
-      "published_at": "2026-11-20",
-      "category": "新营销",
-      "s_level": false,
-      "s_reason": "",
-      "abstract": "株式会社JR東日本クロスステーションのプレスリリース（2026年11月20日 14時00分）好評につき再登場Suicaのペンギンたちがおむすびを食べている!!「おむすび処 ほんのり屋オリジナル アクリルキーホルダー」プレゼントキャンペーン"
-    },
-    {
       "title": "展示绫濑遥、大森元树、滨边南、铃木良平制作的包包！ “杀掉好啤酒“GOOD DAY Bag”快闪店”与今日开幕同时发布的特别视频",
       "title_original": "綾瀬はるかさん・大森元貴さん・浜辺美波さん・鈴木亮平さんプロデュースのバッグを披露！「キリングッドエール『GOOD DAYバッグ』ポップアップ」本日開幕に合わせ、特別映像解禁",
       "url": "https://prtimes.jp/main/html/rd/p/000000037.000138083.html",
@@ -1395,7 +1473,7 @@
       "abstract": ""
     },
     {
-      "title": "英国表示已与欧盟就食品出口达成协议",
+      "title": "英国称与欧盟就食品出口达成协议",
       "title_original": "Deal reached with EU on food exports, UK says",
       "url": "https://www.just-food.com/news/deal-reached-with-eu-on-food-exports-uk-says/",
       "source": "Just Food",
@@ -1408,7 +1486,7 @@
       "abstract": "The UK says it has reached a deal with the European Union in Brussels, which includes an agreement on food and drink exports."
     },
     {
-      "title": "最新消息：Just Food的数字杂志探讨范围3、人工智能和零售业网络攻击",
+      "title": "现已发布新闻：Just Food 的数字杂志探讨了范围 3、人工智能和零售网络攻击",
       "title_original": "News Out now: Just Food’s digital magazine explores Scope 3, AI and retail cyberattacks",
       "url": "https://www.just-food.com/news/out-now-just-foods-digital-magazine-explores-scope-3-ai-and-retail-cyberattacks/",
       "source": "Just Food",
@@ -1421,7 +1499,7 @@
       "abstract": "Issue 65 of the Just Food digital magazine is live, examining Scope 3 emissions progress, AI shopping agents and retail cyber risks."
     },
     {
-      "title": "沃尔玛透露，人工智能购物助手可使购物车金额增加40%",
+      "title": "沃尔玛透露，人工智能购物代理推动购物篮增加 40%",
       "title_original": "AI shopping agent drives 40% larger baskets, Walmart reveals",
       "url": "https://www.just-food.com/news/ai-shopping-agent-drives-40-larger-baskets-walmart-reveals/",
       "source": "Just Food",
@@ -1434,7 +1512,7 @@
       "abstract": "Walmart has said the use of its Sparky AI agent has led to a 40% increase in basket size, a sign of how consumers are using tools when shopping online."
     },
     {
-      "title": "Sysco GB 投资新建 Fairfax Meadow 食物服务厂",
+      "title": "Sysco GB 投资新建 Fairfax Meadow 食品服务工厂",
       "title_original": "Sysco GB invests in new Fairfax Meadow foodservice plant",
       "url": "https://www.just-food.com/news/sysco-gb-invests-in-new-fairfax-meadow-foodservice-plant/",
       "source": "Just Food",
@@ -1447,7 +1525,7 @@
       "abstract": "UK foodservice supplier Sysco GB, previously trading as Brakes Brothers, is investing in a new meat and fresh foods facility in England."
     },
     {
-      "title": "在与DMK合并后，Arla正在考虑退出冰淇淋业务",
+      "title": "DMK 合并后 Arla 考虑退出冰淇淋业务",
       "title_original": "Arla weighs ice-cream exit after DMK merger",
       "url": "https://www.just-food.com/news/arla-reviews-ice-cream-exit/",
       "source": "Just Food",
@@ -1460,7 +1538,7 @@
       "abstract": "Arla Foods is reviewing options for the future ownership of its ice-cream business, less than six months after completing its merger with German peer DMK."
     },
     {
-      "title": "Post Holdings董事长Rob Vitale再次休病假",
+      "title": "Post Holdings 董事长罗布·维塔莱 (Rob Vitale) 进一步休病假",
       "title_original": "Post Holdings chair Rob Vitale takes further medical leave",
       "url": "https://www.just-food.com/news/post-holdings-chair-rob-vitale-takes-further-medical-leave/",
       "source": "Just Food",
@@ -1471,6 +1549,19 @@
       "s_level": false,
       "s_reason": "",
       "abstract": "Post Holdings executive chairman Robert Vitale has taken medical leave as new president and CEO Nicolas Catoggio assumes “principal” control."
+    },
+    {
+      "title": "由于大众的需求，Suica企鹅又回来吃饭团了！！ “Omusubidokoro Hontoriya Original Acrylic Keychain”赠品活动",
+      "title_original": "好評につき再登場Suicaのペンギンたちがおむすびを食べている!!「おむすび処 ほんのり屋オリジナル アクリルキーホルダー」プレゼントキャンペーン",
+      "url": "https://prtimes.jp/main/html/rd/p/000001301.000082978.html",
+      "source": "PRTIMES",
+      "market": "日本",
+      "lang": "ja",
+      "published_at": "2026-11-20",
+      "category": "新营销",
+      "s_level": false,
+      "s_reason": "",
+      "abstract": "株式会社JR東日本クロスステーションのプレスリリース（2026年11月20日 14時00分）好評につき再登場Suicaのペンギンたちがおむすびを食べている!!「おむすび処 ほんのり屋オリジナル アクリルキーホルダー」プレゼントキャンペーン"
     },
     {
       "title": "【11月24日至27日·官方应用程序限定】针对持续高涨的物价提供紧急支持！“社区餐桌”Joyfull将针对“Joyfull盐味炸鸡定食”、“大份薯条”等5款人气菜品，在工作日晚餐时段限时优惠100日元！",
@@ -3098,7 +3189,7 @@
       "abstract": "ファミリーマートは飲料補充業務を自動化する「飲料補充ロボット（TX GHOST）」と「デジタル在庫棚（スマートシェルフ）」の本格導入を来年1月から順次開始する。飲料補充作業時間を1店当たり1日約7割の削減する。店の作業 […] 投稿 ファミリーマート、飲料補充ロボなど本格導入　在庫管理も効率化 は 日本食糧新聞・電子版 に最初に表示されました。"
     },
     {
-      "title": "三井物产等四家公司强强联手，拉近美食与美的距离，强强联手开拓市场",
+      "title": "三井物产等四家公司联手，拉近食品与美容的距离，强强联手开拓市场",
       "title_original": "三井物産ら4社提携 「食」と「美容」接近 強み合わせ市場創出",
       "url": "https://news.nissyoku.co.jp/news/aoyagi20261119084207711",
       "source": "日本食粮新闻",
@@ -3150,7 +3241,7 @@
       "abstract": "株式会社ゼンショーホールディングスのプレスリリース（2026年11月19日 13時00分）【ゼッテリア】～2027年ゼッテリア福袋企画～　ゼッテーお得！限定グッズと3,900円分のクーポン付き　年末年始を彩る「ゼッテリアHAPPY BAG 2027」発売！"
     },
     {
-      "title": "雀巢将关闭位于哥伦比亚的受地震影响的饼干厂",
+      "title": "雀巢将关闭哥伦比亚受地震影响的饼干厂",
       "title_original": "Nestlé to close quake-hit biscuits plant in Colombia",
       "url": "https://www.just-food.com/news/nestle-to-close-quake-hit-biscuits-plant-in-colombia/",
       "source": "Just Food",
@@ -3163,7 +3254,7 @@
       "abstract": "Nestlé is closing a production facility in Colombia for biscuits and confectionery due to damage sustained from the August earthquake."
     },
     {
-      "title": "LT Foods收购Maya Kaimal印度酱料业务",
+      "title": "LT Foods 收购 Maya Kaimal 印度酱料业务",
       "title_original": "LT Foods buys Maya Kaimal Indian sauces business",
       "url": "https://www.just-food.com/news/lt-foods-buys-maya-kaimal-indian-sauces/",
       "source": "Just Food",
@@ -3176,7 +3267,7 @@
       "abstract": "India’s LT Foods has agreed to acquire US packaged-foods company MK Foods Holdings, the owner of Indian-inspired brand Maya Kaimal."
     },
     {
-      "title": "新闻 马氏投资法国宠物食品厂 Aninda Chakraborty",
+      "title": "玛氏投资法国宠物食品工厂 Aninda Chakraborty",
       "title_original": "News Mars ploughs investment into France pet-food facility Aninda Chakraborty",
       "url": "https://www.just-food.com/news/mars-ploughs-investment-into-france-pet-food-facility/",
       "source": "Just Food",
@@ -3189,7 +3280,7 @@
       "abstract": "Mars is investing €60m ($66m) to modernise its pet-food plant in Ernolsheim-Bruche, in the Bas-Rhin department of Alsace, eastern France."
     },
     {
-      "title": "新闻 GLP-1药物使英国杂货支出减少10亿英镑 Dean Best",
+      "title": "GLP-1 药物从英国食品杂货支出中损失了 10 亿英镑 Dean Best",
       "title_original": "News GLP-1 drugs take £1bn bite from Britain grocery spending Dean Best",
       "url": "https://www.just-food.com/news/glp-1-drugs-take-1bn-bite-from-britain-grocery-spending/",
       "source": "Just Food",
@@ -3202,7 +3293,7 @@
       "abstract": "Households in Britain with a user of GLP-1 drugs are spending £1bn ($1.31bn) less on grocery products, data has suggested."
     },
     {
-      "title": "新闻：Cal-Maine工厂爆发禽流感 Aninda Chakraborty",
+      "title": "新闻 加州缅因州禽流感现场 Aninda Chakraborty",
       "title_original": "News Bird flu at Cal-Maine site Aninda Chakraborty",
       "url": "https://www.just-food.com/news/bird-flu-at-cal-maine-site/",
       "source": "Just Food",
@@ -3215,7 +3306,7 @@
       "abstract": "US-based egg major Cal-Maine Foods has confirmed yesterday a bird flu outbreak at one of its facilities in Florida."
     },
     {
-      "title": "随着乳制品价格差距扩大，英国农业工会要求更严格地执行牛奶合同规定",
+      "title": "随着乳制品价格差距扩大，英国农业工会要求加强牛奶合同规则的执行",
       "title_original": "UK farming unions demand stronger enforcement of milk contract rules as dairy price gap widens",
       "url": "https://www.dairyreporter.com/Article/2026/11/19/uk-farming-unions-demand-stronger-enforcement-of-milk-contract-rules-as-dairy-price-gap-widens/",
       "source": "Dairy Reporter",
@@ -4606,7 +4697,7 @@
       "abstract": ""
     },
     {
-      "title": "肉类零食企业Chomps吸引新投资",
+      "title": "肉类零食业务 Chomps 吸引新投资",
       "title_original": "Meat snacks business Chomps attracts new investment",
       "url": "https://www.just-food.com/news/meat-snacks-business-chomps-investment/",
       "source": "Just Food",
@@ -4619,7 +4710,7 @@
       "abstract": "US meat snacks maker Chomps has secured $350m in investment from Sixth Street, granting the private equity firm a minority stake in the business."
     },
     {
-      "title": "研究显示，GLP-1药物影响着美洲五分之一成年人的饮食习惯 Dean Best",
+      "title": "Dean Best 研究显示，GLP-1 影响了美洲五分之一成年人的饮食",
       "title_original": "News GLP-1s shape diets of one in five adults in Americas, study shows Dean Best",
       "url": "https://www.just-food.com/news/glp-1s-shape-diets-of-one-in-five-adults-in-americas-study-shows/",
       "source": "Just Food",
@@ -4632,7 +4723,7 @@
       "abstract": "GLP-1 drugs are influencing what more than one in five adults across the Americas eat and drink, according to research by Dunnhumby."
     },
     {
-      "title": "新闻 BellRing 瞄准便利店，力推 Premier Protein Shivam Mishra",
+      "title": "BellRing 瞄准便利店推出 Premier Protein Shivam Mishra",
       "title_original": "News BellRing targets c-stores with Premier Protein push Shivam Mishra",
       "url": "https://www.just-food.com/news/bellring-premier-protein-7-eleven/",
       "source": "Just Food",
@@ -4645,7 +4736,7 @@
       "abstract": "BellRing Brands is rolling out its Premier Protein RTD line across the US via a nationwide distribution deal with 7-Eleven."
     },
     {
-      "title": "新闻 Acadian Kitchens收购Cookwell，以扩大其在美国的零售业务 Aninda Chakraborty",
+      "title": "新闻 Acadian Kitchens 收购 Cookwell 以扩大美国零售业务 Aninda Chakraborty",
       "title_original": "News Acadian Kitchens acquires Cookwell to boost US retail reach Aninda Chakraborty",
       "url": "https://www.just-food.com/news/acadian-kitchens-acquires-cookwell-to-boost-us-retail-reach/",
       "source": "Just Food",
@@ -4658,7 +4749,7 @@
       "abstract": "Acadian Kitchens has acquired Cookwell & Company in a bid to take the Texas-based brand to retail partners beyond its home state."
     },
     {
-      "title": "新闻 Cloetta与Haribo的商标纠纷 Shivam Mishra",
+      "title": "新闻 Cloetta 与 Haribo Shivam Mishra 发生商标纠纷",
       "title_original": "News Cloetta in trademark spat with Haribo Shivam Mishra",
       "url": "https://www.just-food.com/news/cloetta-trademark-spat-haribo/",
       "source": "Just Food",
@@ -4671,7 +4762,7 @@
       "abstract": "Cloetta has taken legal action against Haribo in Sweden over the German confectionery company’s Jul&Skum product."
     },
     {
-      "title": "新闻 Royal A-Ware 任命收购型荷兰乳制品集团新任首席执行官 Simon Harvey",
+      "title": "新闻 Royal A-Ware 任命收购荷兰乳制品集团 Simon Harvey 为新首席执行官",
       "title_original": "News Royal A-Ware appoints new CEO at acquisitive Dutch dairy group Simon Harvey",
       "url": "https://www.just-food.com/news/royal-a-ware-appoints-new-ceo-to-acquisitive-dutch-dairy-group/",
       "source": "Just Food",
@@ -4684,7 +4775,7 @@
       "abstract": "Marit van Egmond succeeds Antonio Rodriguez with immediate effect."
     },
     {
-      "title": "随着排放量下降26%，恒天然和雀巢将“净零排放奶牛场”项目延长",
+      "title": "恒天然和雀巢扩大净零奶牛场项目，排放量下降 26%",
       "title_original": "Fonterra and Nestlé extend Net Zero Dairy Farm project as emissions fall 26%",
       "url": "https://www.dairyreporter.com/Article/2026/11/18/fonterra-and-nestle-extend-net-zero-dairy-farm-project-as-emissions-fall-26/",
       "source": "Dairy Reporter",
@@ -4697,7 +4788,7 @@
       "abstract": ""
     },
     {
-      "title": "Baladna在动荡中仍保持盈利，推动阿尔及利亚和叙利亚业务增长",
+      "title": "巴拉德纳在动荡中保持盈利，推动阿尔及利亚和叙利亚增长",
       "title_original": "Baladna stays profitable amid turmoil, pushes Algeria and Syria growth",
       "url": "https://www.dairyreporter.com/Article/2026/11/18/baladna-stays-profitable-amid-turmoil-pushes-algeria-and-syria-growth/",
       "source": "Dairy Reporter",
@@ -5945,7 +6036,7 @@
       "abstract": "アークランドサービスホールディングス株式会社のプレスリリース（2026年11月17日 10時00分）かつやのブラックフライデーを飾る3種の肉料理が魅せる“黒の一杯”「黒の肉盛り丼」新登場！"
     },
     {
-      "title": "【感谢石先生五十周年！年末感恩节】11月19日（周四）起将举办“御保天乌冬面”特别促销！",
+      "title": "【感谢石先生五十周年！年末感恩节】11月19日（周四）起将举办“御保天乌冬面”特卖！",
       "title_original": "【資さん50周年ありがとう！年末大感謝祭】11/19（木）～『ごぼ天うどん』特別セール開催！",
       "url": "https://prtimes.jp/main/html/rd/p/000000433.000037031.html",
       "source": "PRTIMES",
@@ -5958,7 +6049,7 @@
       "abstract": "株式会社資さんのプレスリリース（2026年11月17日 09時00分）【資さん50周年ありがとう！年末大感謝祭】11/19（木）～『ごぼ天うどん』特別セール開催！"
     },
     {
-      "title": "卡夫亨氏将2028年定为增长的转折年",
+      "title": "卡夫亨氏将 2028 年定为增长转型年",
       "title_original": "Kraft Heinz targets 2028 as turnaround year for growth",
       "url": "https://www.just-food.com/news/kraft-heinz-targets-2028-as-turnaround-year-for-growth/",
       "source": "Just Food",
@@ -5971,7 +6062,7 @@
       "abstract": "Kraft Heinz CEO Steve Cahillane has earmarked 2028 as the year the US group fully returns to growth, signalling a longer wait for investors."
     },
     {
-      "title": "Princes Group将收购Mondelez在法国的资产",
+      "title": "王子集团将收购亿滋在法国的资产",
       "title_original": "Princes Group to buy Mondelez assets in France",
       "url": "https://www.just-food.com/news/princes-group-buys-mondelez-assets/",
       "source": "Just Food",
@@ -5984,7 +6075,7 @@
       "abstract": "Princes Group has agreed to acquire a clutch of Mondelez International’s assets in France."
     },
     {
-      "title": "食品和饮料巨头签署再生农业倡议",
+      "title": "食品、饮料巨头签署再生农业倡议",
       "title_original": "Food, drinks majors sign regenerative agriculture initiative",
       "url": "https://www.just-food.com/news/food-drinks-majors-sign-regenerative-agriculture-initiative/",
       "source": "Just Food",
@@ -5997,7 +6088,7 @@
       "abstract": "Fourteen global food businesses have signed a global initiative looking to speed up adoption of regenerative agricultural practices."
     },
     {
-      "title": "新闻 Grupo Tello通过与Moreno Plaza的交易拓展生鲜肉业务 Shivam Mishra",
+      "title": "Grupo Tello 与 Moreno Plaza 交易扩大鲜肉业务 Shivam Mishra",
       "title_original": "News Grupo Tello expands fresh-meat arm with Moreno Plaza deal Shivam Mishra",
       "url": "https://www.just-food.com/news/grupo-tello-moreno-plaza-deal/",
       "source": "Just Food",
@@ -6010,7 +6101,7 @@
       "abstract": "Spain’s Grupo Tello Alimentación has acquired meat processor Moreno Plaza to strengthen position in the country’s fresh-meat market."
     },
     {
-      "title": "新闻 Ferrara在产能评估后将关闭芝加哥工厂 Dean Best",
+      "title": "费拉拉在产能审查后将关闭芝加哥工厂 Dean Best",
       "title_original": "News Ferrara to shut Chicago site after capacity review Dean Best",
       "url": "https://www.just-food.com/news/ferrara-to-shut-chicago-site-after-capacity-review/",
       "source": "Just Food",
@@ -6023,7 +6114,7 @@
       "abstract": "Ferrara Candy Co. is closing a factory in Chicago in a bid to more effectively match production with demand."
     },
     {
-      "title": "新闻 Woolworths、Coles面临澳大利亚竞争与消费者委员会（ACCC）对八大产品领域的利润率审查 Satarupa Bhowmik",
+      "title": "Woolworths、Coles 面临 ACCC 对八个产品领域的利润检查 Satarupa Bhowmik",
       "title_original": "News Woolworths, Coles face ACCC margin checks on eight product areas Satarupa Bhowmik",
       "url": "https://www.just-food.com/news/woolworths-coles-accc-margin-checks/",
       "source": "Just Food",
@@ -6036,7 +6127,7 @@
       "abstract": "Australia’s competition watchdog is examining retail margins across eight product categories at Woolworths and Coles under new laws to curb excessive pricing."
     },
     {
-      "title": "DairyNZ：强劲的牛奶销售收入和产量增加使农场利润飙升70%",
+      "title": "DairyNZ：由于牛奶支出强劲和产量增加，农场利润跃升 70%",
       "title_original": "DairyNZ: Farm profits jump 70% on strong milk payouts and increased production",
       "url": "https://www.dairyreporter.com/Article/2026/11/17/dairynz-owner-operator-farm-profits-jump-70-on-strong-milk-payouts-and-increased-production/",
       "source": "Dairy Reporter",
@@ -6049,7 +6140,7 @@
       "abstract": ""
     },
     {
-      "title": "New Culture的精密发酵马苏里拉奶酪获得加州批准",
+      "title": "New Culture 精密发酵马苏里拉奶酪获得加州批准",
       "title_original": "New Culture lands California approval for precision fermentation-derived mozzarella",
       "url": "https://www.dairyreporter.com/Article/2026/11/17/california-approves-new-cultures-animal-free-mozzarella/",
       "source": "Dairy Reporter",
@@ -6062,7 +6153,7 @@
       "abstract": ""
     },
     {
-      "title": "FrieslandCampina 通过生物甲烷燃料合作伙伴关系拓展可持续牛奶运输",
+      "title": "菲仕兰坎皮纳与生物甲烷燃料合作扩大可持续牛奶运输",
       "title_original": "FrieslandCampina expands sustainable milk transport with biomethane fuel partnership",
       "url": "https://www.dairyreporter.com/Article/2026/11/17/frieslandcampina-expands-sustainable-milk-transport-with-biomethane-fuel-partnership/",
       "source": "Dairy Reporter",
@@ -7479,7 +7570,7 @@
       "abstract": "ニラックス株式会社のプレスリリース（2026年11月16日 09時00分）【至福の無限ループを満喫♪】12/25迄！ふわとろフレンチトースト食べ放題に加え、溺れるほどのホイップも絞り放題！ニラックスブッフェにてLINE予約限定『無限フレンチトースト＆ホイップコース』が登場！"
     },
     {
-      "title": "金枪鱼是 Juju Kalbi 冬季集市的明星！除了烤肉和牛油碗外，还提供乐天合作甜点。",
+      "title": "金枪鱼是 Juju Kalbi 冬季集市的明星！除了烤肉和牛杂碗外，还提供乐天合作甜点。",
       "title_original": "じゅうじゅうカルビの冬フェアはまぐろが主役！炙り焼きやユッケ丼に加え、ロッテコラボデザートも登場",
       "url": "https://prtimes.jp/main/html/rd/p/000000309.000065562.html",
       "source": "PRTIMES",
@@ -7505,7 +7596,7 @@
       "abstract": ""
     },
     {
-      "title": "新闻 Tyson Foods预测2027财年牛肉利润将进一步下滑 Simon Harvey",
+      "title": "泰森食品 (Tyson Foods) 预计 2027 财年牛肉利润将面临更多困难 Simon Harvey",
       "title_original": "News Tyson Foods forecasts more pain for beef profits in fiscal 2027 Simon Harvey",
       "url": "https://www.just-food.com/news/tyson-foods-forecasts-more-pain-for-beef-profits-in-fiscal-2027/",
       "source": "Just Food",
@@ -7518,7 +7609,7 @@
       "abstract": "Tyson Foods anticipates more pain for beef profits in its new year as cattle shortages persist, accompanied by a drop in group sales."
     },
     {
-      "title": "高蛋白热潮推动Leprino斥资3.50亿美元扩张乳清业务",
+      "title": "高蛋白热潮推动 Leprino 价值 3500 万美元的乳清扩张",
       "title_original": "High-protein boom fuels Leprino’s $35 million whey expansion",
       "url": "https://www.dairyreporter.com/Article/2026/11/16/leprino-quadruples-microparticulated-whey-protein-capacity/",
       "source": "Dairy Reporter",
@@ -7531,7 +7622,7 @@
       "abstract": ""
     },
     {
-      "title": "风土的崛起：餐饮业可以从产地趋势中汲取哪些经验",
+      "title": "风土的崛起：餐饮业可以从产地趋势中学到什么",
       "title_original": "The rise of terroir: What F&B can learn from the provenance trend",
       "url": "https://www.dairyreporter.com/Article/2026/11/16/what-is-terroir-how-taste-of-place-shapes-food-quality/",
       "source": "Dairy Reporter",
@@ -7544,7 +7635,7 @@
       "abstract": ""
     },
     {
-      "title": "达能完成对Made Group的收购",
+      "title": "达能完成对 Made Group 的收购",
       "title_original": "Danone completes Made Group acquisition",
       "url": "https://www.dairyreporter.com/Article/2026/11/16/danone-completes-made-group-deal-to-boost-asia-pacific-growth/",
       "source": "Dairy Reporter",
@@ -7557,7 +7648,7 @@
       "abstract": ""
     },
     {
-      "title": "受全球需求推动，2026年美国乳制品出口额将突破100亿美元",
+      "title": "全球需求推动增长，2026 年美国乳制品出口额将突破 100 亿美元",
       "title_original": "US dairy exports set to top $10bn in 2026 as global demand drives growth",
       "url": "https://www.dairyreporter.com/Article/2026/11/16/us-dairy-exports-set-to-top-10bn-in-2026-as-global-demand-drives-growth/",
       "source": "Dairy Reporter",
