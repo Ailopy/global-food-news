@@ -1,18 +1,86 @@
 {
-  "last_updated": "2026-11-21T22:24:53.487091+08:00",
+  "last_updated": "2026-11-22T09:46:22.901721+08:00",
   "retention_hours": 24,
-  "total": 45,
+  "total": 48,
   "sources": [
-    "Fab News",
-    "Food Dive",
     "Food Safety News",
     "Mognavi",
-    "Nutraceutical Business Review",
-    "The Food Institute",
     "食品新聞",
     "食品産業新聞社"
   ],
   "articles": [
+    {
+      "id": "314f6fcb5768599b",
+      "title": "スシロー、「おぱんちゅうさぎ」「んぽちゃむ」コラボ第3弾　限定ピック付きすしやポーチ、マスコットなど",
+      "summary": "スシローは11月25日から、クリエイター・可哀想に！さんとのコラボレーションキャンペーンを開催する。 2023年11月に実施した「おぱんちゅうさぎ」との初コラボ、2025年10月に「んぽちゃむ」も加わった第2弾に続く第3...",
+      "url": "https://www.ssnp.co.jp/foodservice/712656/",
+      "published_at": "2026-11-22T09:13:00+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "476bb97a4443b41c",
+      "title": "【2026年11月第3週】飴・キャラメルランキング1位はバウンシーグミ！急上昇＆久々登場商品まとめ",
+      "summary": "2026年11月第3週の飴・キャラメルランキングが出揃いました。グミにマシュマロ、ハイチュウにべっこう飴と、今週も個性豊かなラインナップです。さっそく上位から…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30550/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-22T09:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "8f5edb45f9655ac8",
+      "title": "ケンタッキー冬の定番「チキンクリームポットパイ」が11月25日から数量限定で登場！",
+      "summary": "日本ケンタッキー･フライド･チキン(日本KFC)は、全国のケンタッキーフライドチキン店舗で、「チキンクリームポットパイ」を11月25日から数量限定で発売する。 【商品画像はこちら】 〈24層のサクサクパイ×野菜とチキンの...",
+      "url": "https://www.ssnp.co.jp/foodservice/712535/",
+      "published_at": "2026-11-22T08:24:00+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "2947e8a80cbe4655",
+      "title": "ローソン、約50％増量の「盛りすぎ」第2弾　高菜明太おにぎり203円、バスチー324円など",
+      "summary": "ローソンは11月24日から、全国のローソン店舗で「超ハッピーすぎチャレンジ」の第2弾商品を発売する。おにぎりや焼そば、ちゃんぽん、スイーツなど8品を展開し、価格を据え置いたまま具材や重量などを約50％増量する。一部商品は...",
+      "url": "https://www.ssnp.co.jp/distribution/712231/",
+      "published_at": "2026-11-22T07:13:00+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "e4c28b00f13279c0",
+      "title": "1990年11月4日:「ティラミス」狂騒曲　バブル絶頂期のスイーツトレンドはいかに育まれたか【食品産業あの日あの時】",
+      "summary": "「イタリアン・デザートの新しい女王、ティラミスの緊急大情報 今都会的な女性は、おいしいティラミスを食べさせる店すべてを知らなければならない」 1990年、マガジンハウスの女性向け情報誌『Hanako』(4月12日号)は「...",
+      "url": "https://www.ssnp.co.jp/foodservice/712725/",
+      "published_at": "2026-11-22T06:57:28+08:00",
+      "source": "食品産業新聞社",
+      "region": "日本",
+      "category": "综合",
+      "level": "B",
+      "language": "ja"
+    },
+    {
+      "id": "65ff611d654e41bc",
+      "title": "今週新発売のおやつ🍩まとめ！『×　八天堂　クロッカンシュー　とろけるカスタード』、『×　八天堂　とろ～りカスタードタルト』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！おやつの新商品情報をお届けします。今週新発売の#おやつローソン Uchi Cafe’ × 八天堂 クロッカンシュー とろけるカ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112201/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-22T06:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
     {
       "id": "539caad6f7dae725",
       "title": "味の素AGF、ファンの熱量が新たなファン生み出す「カフェラトリー」スティック　発売10周年の感謝伝える体験型イベントで勢い加速",
@@ -170,6 +238,18 @@
       "language": "ja"
     },
     {
+      "id": "3625531c39ccfb5d",
+      "title": "ロメスパバルボアがローソンに！麺のトレンド人気ランキング！",
+      "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンの麺」の最新・注目度ランキングです♪（2026年11月20日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
+      "url": "https://mognavi.jp/news/matome/gen-tabetaiTagRanking-30571/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T18:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "07c8cb2a5a712036",
       "title": "ロメスパバルボアがローソンに！麺のトレンド人気ランキング！",
       "summary": "もぐナビ編集部です！今回ご紹介するのは「ローソンの麺」の最新・注目度ランキングです♪（2026年11月20日更新）食品クチコミサイト「もぐナビ」に投稿されたデ…",
@@ -182,11 +262,47 @@
       "language": "ja"
     },
     {
+      "id": "3403865d61838619",
+      "title": "今週新発売の焼き菓子🍫まとめ！『厚焼きたべっ子どうぶつ　キャラメルチョコビスケット』、『エリーゼ　パキーラワイン味』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！焼き菓子の新商品情報をお届けします。来週新発売の#焼き菓子ギンビス 厚焼きたべっ子どうぶつ キャラメルチョコビスケット 袋45…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112108/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "9da5c96b053ac0b1",
       "title": "今週新発売の焼き菓子🍫まとめ！『厚焼きたべっ子どうぶつ　キャラメルチョコビスケット』、『エリーゼ　パキーラワイン味』など♪",
       "summary": "こんにちは、もぐナビ編集部です！焼き菓子の新商品情報をお届けします。来週新発売の#焼き菓子ギンビス 厚焼きたべっ子どうぶつ キャラメルチョコビスケット 袋45…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112108/?utm_source=rss&utm_medium=mognavinews_20261121",
       "published_at": "2026-11-21T17:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "0287b952f030ea68",
+      "title": "今週新発売の海老まとめ！『ふわっとえび塩味』、『甘辛仕立てのエビチリチャーハン』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！海老の新商品情報をお届けします。今週新発売の#海老ローソン ふわっとえび塩味サクッと軽い食感です。2026/11/17発売セブ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112107/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T15:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "693434642dd50946",
+      "title": "【2026年11月第3週】和菓子・その他ランキング1位はヤマザキ雪どら！新商品・急上昇商品まとめ",
+      "summary": "秋の深まりとともに、和菓子・その他カテゴリにも食欲をくすぐる商品が続々とランクインした2026年11月第3週。今週はどんな商品がランキングを賑わせたのでしょう…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30549/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T15:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -218,11 +334,35 @@
       "language": "ja"
     },
     {
+      "id": "9d0eaca939c06825",
+      "title": "【2026年11月第3週】アイス・コンビニアイスランキング1位はハーゲンダッツ 香るショコラ！新商品・急上昇アイスまとめ",
+      "summary": "2026年11月第3週のアイス・コンビニアイスランキングが出ました！ 冬に近づくこの季節、コンビニアイスは深みのあるフレーバーが続々と登場しています。今週はど…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30548/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "531470078017c7d9",
       "title": "【2026年11月第3週】アイス・コンビニアイスランキング1位はハーゲンダッツ 香るショコラ！新商品・急上昇アイスまとめ",
       "summary": "2026年11月第3週のアイス・コンビニアイスランキングが出ました！ 冬に近づくこの季節、コンビニアイスは深みのあるフレーバーが続々と登場しています。今週はど…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30548/?utm_source=rss&utm_medium=mognavinews_20261121",
       "published_at": "2026-11-21T14:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "e1e73dbdae838485",
+      "title": "今週新発売のコンビニ焼菓子🍫まとめ！『Ａｆｔｅｒｎｏｏｎ　Ｔｅａ監修　芳醇なアールグレイ紅茶クッキー』、『ホワイトチョコフィナンシェ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ焼菓子の新商品情報をお届けします。今週新発売の#コンビニ焼菓子ファミリーマート ファミマル Afternoon Tea…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112106/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T13:30:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -242,6 +382,18 @@
       "language": "ja"
     },
     {
+      "id": "1d7fd2177177aa04",
+      "title": "【2026年11月第3週】プリン・ゼリー・カップデザートランキング1位はドンレミー ごちそう果実 国産りんごのアップルパイパフェ！新商品・急上昇アイテムまとめ",
+      "summary": "2026年11月第3週のプリン・ゼリー・カップデザートランキングが出ました！秋らしいフルーツやかぼちゃを使ったデザートが顔を揃え、今週もバラエティ豊かな顔ぶれ…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30547/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T13:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "1f2699a15abe181c",
       "title": "【2026年11月第3週】プリン・ゼリー・カップデザートランキング1位はドンレミー ごちそう果実 国産りんごのアップルパイパフェ！新商品・急上昇アイテムまとめ",
       "summary": "2026年11月第3週のプリン・ゼリー・カップデザートランキングが出ました！秋らしいフルーツやかぼちゃを使ったデザートが顔を揃え、今週もバラエティ豊かな顔ぶれ…",
@@ -254,11 +406,35 @@
       "language": "ja"
     },
     {
+      "id": "2d43ad723035208f",
+      "title": "今週新発売のコンビニ低カロリー スイーツ🍰まとめ！『なめらか狭山茶プリン　ラテ仕立て』、『濃厚牛乳寒天　岩手葛巻町産牛乳使用』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！コンビニ低カロリー スイーツの新商品情報をお届けします。発売中のコンビニ低カロリー スイーツセブン-イレブン なめらか狭山茶プ…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112105/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "33af6d25638ebf9d",
       "title": "今週新発売のコンビニ低カロリー スイーツ🍰まとめ！『なめらか狭山茶プリン　ラテ仕立て』、『濃厚牛乳寒天　岩手葛巻町産牛乳使用』など♪",
       "summary": "こんにちは、もぐナビ編集部です！コンビニ低カロリー スイーツの新商品情報をお届けします。発売中のコンビニ低カロリー スイーツセブン-イレブン なめらか狭山茶プ…",
       "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112105/?utm_source=rss&utm_medium=mognavinews_20261121",
       "published_at": "2026-11-21T12:45:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "98c8d730a4082e24",
+      "title": "【2026年11月第3週】ケーキ・洋菓子ランキング1位はPascoのラムレーズンタルト！新商品・急上昇注目商品まとめ",
+      "summary": "2026年11月第3週のケーキ・洋菓子ランキングが出揃いました。秋の深まりとともに、心も体も温まるスイーツへの注目が高まっています。今週はどんな顔ぶれがランク…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30546/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T12:00:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -290,6 +466,18 @@
       "language": "en"
     },
     {
+      "id": "91e70f71eb87efe6",
+      "title": "今週新発売のファミマ麺🍜まとめ！『カップ麺　首里そば』、『ヨナサルウテ監修　海老ときのこのトマトクリームパスタ』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！ファミマ麺の新商品情報をお届けします。今週新発売の#ファミマ麺ファミリーマート ファミマル カップ麺 首里そば鰹の一番出汁と豚…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112104/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T11:30:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "fb091b2b9df52d53",
       "title": "今週新発売のファミマ麺🍜まとめ！『カップ麺　首里そば』、『ヨナサルウテ監修　海老ときのこのトマトクリームパスタ』など♪",
       "summary": "こんにちは、もぐナビ編集部です！ファミマ麺の新商品情報をお届けします。今週新発売の#ファミマ麺ファミリーマート ファミマル カップ麺 首里そば鰹の一番出汁と豚…",
@@ -302,11 +490,35 @@
       "language": "ja"
     },
     {
+      "id": "2d23353768e666b1",
+      "title": "【2026年11月第3週】惣菜パンランキング1位はちいかまん ドミグラスハンバーグ！新商品・急上昇注目まとめ",
+      "summary": "2026年11月第3週の惣菜パンランキングが出そろいました。秋から冬へと移りゆくこの季節、ボリューム感のある一品が続々とランクインしています。今週はどんな商品…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30545/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "5d1363c599366747",
       "title": "【2026年11月第3週】惣菜パンランキング1位はちいかまん ドミグラスハンバーグ！新商品・急上昇注目まとめ",
       "summary": "2026年11月第3週の惣菜パンランキングが出そろいました。秋から冬へと移りゆくこの季節、ボリューム感のある一品が続々とランクインしています。今週はどんな商品…",
       "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30545/?utm_source=rss&utm_medium=mognavinews_20261121",
       "published_at": "2026-11-21T11:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
+      "id": "d4e9ceb93af14806",
+      "title": "今週新発売の北海道まとめ！『ピュアポテト　凄じゃが　北海道産バター　ひかる』、『ピーチミルク』など♪",
+      "summary": "こんにちは、もぐナビ編集部です！北海道の新商品情報をお届けします。今週新発売の#北海道湖池屋 ピュアポテト 凄じゃが 北海道産バター ひかる 袋52g北海道産…",
+      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112103/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T10:45:00+08:00",
       "source": "Mognavi",
       "region": "日本",
       "category": "综合",
@@ -338,6 +550,18 @@
       "language": "ja"
     },
     {
+      "id": "6c6a08355e68cbd2",
+      "title": "【2026年11月第3週】シリアル・その他パンランキング1位はごろグラ チョコナッツ！新商品＆急上昇注目まとめ",
+      "summary": "2026年11月第3週のシリアル・その他パンランキングが出揃いました。朝の食卓を彩るグラノーラやシリアルが顔を揃え、今週もバラエティ豊かなラインナップとなって…",
+      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30544/?utm_source=rss&utm_medium=mognavinews_20261122",
+      "published_at": "2026-11-21T10:00:00+08:00",
+      "source": "Mognavi",
+      "region": "日本",
+      "category": "综合",
+      "level": "A",
+      "language": "ja"
+    },
+    {
       "id": "b17a3079a52ba352",
       "title": "【2026年11月第3週】シリアル・その他パンランキング1位はごろグラ チョコナッツ！新商品＆急上昇注目まとめ",
       "summary": "2026年11月第3週のシリアル・その他パンランキングが出揃いました。朝の食卓を彩るグラノーラやシリアルが顔を揃え、今週もバラエティ豊かなラインナップとなって…",
@@ -359,198 +583,6 @@
       "region": "北美",
       "category": "综合",
       "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "f85bcfdeb1b17165",
-      "title": "今週新発売の和風食品まとめ！『６種具材入り　鶏つくねの和風生姜スープ』、『ロメスパバルボア監修　ペペロンチーノ』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！和風の新商品情報をお届けします。今週新発売の#和風ローソン 6種具材入り 鶏つくねの和風生姜スープ鶏の旨みと出汁感のある和風生…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112102/?utm_source=rss&utm_medium=mognavinews_20261121",
-      "published_at": "2026-11-21T09:45:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "ac447313b06f6767",
-      "title": "Lunch Box brand biscuit sandwiches recalled because of Listeria risk",
-      "summary": "Grand Strand Sandwich Company Inc. is recalling several biscuit sandwiches because of potential contamination with Listeria monocytogenes. The recalled products were distributed between March 2 and…",
-      "url": "https://www.foodsafetynews.com/2026/11/lunch-box-brand-biscuit-sandwiches-recalled-because-of-listeria-risk/",
-      "published_at": "2026-11-21T09:43:43+08:00",
-      "source": "Food Safety News",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "23fe8c644fce3d42",
-      "title": "遅くなる平日の夕食時間 新習慣「プレ夕食」提案 親と子の課題解決図る 伊藤ハム",
-      "summary": "伊藤ハムは、共働き世帯増加に伴い夕食開始時間が遅くなっている社会潮流に対し、夕食前に空腹時間を解決する新習慣「プレ夕食」を提案し、子どもの機嫌安定や空腹解消、それによるスムーズな夕食準備など、親と子両面の課題解決を図る […] ソース",
-      "url": "https://shokuhin.net/160591/2026/11/21/%e8%be%b2%e6%b0%b4%e7%95%9c%e7%94%a3%e6%a5%ad/shokuniku/%e9%a3%9f%e8%82%89%e5%8a%a0%e5%b7%a5%e5%93%81/",
-      "published_at": "2026-11-21T09:24:01+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "e3e7762c7d3387dc",
-      "title": "関西の地域卸R-net 共同企画販売が120％",
-      "summary": "関西の地域卸連合、R-netは11日、大阪市の天王殿で情報交換会を開催。メンバー社7社、メーカー49社から合わせて75人が参加した。 酒井修司社長（大楠屋社長）があいさつに立ち「この会はメーカーの皆さまとわれわれが情 […] ソース",
-      "url": "https://shokuhin.net/160555/2026/11/21/ryutu/orosi/",
-      "published_at": "2026-11-21T09:23:58+08:00",
-      "source": "食品新聞",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "fd4b40ca686b76d6",
-      "title": "ゴディバ ジャパン「2027ニューイヤー ハッピーバッグ」発売へ、キルティングバッグに限定チョコやクッキー詰め合わせ",
-      "summary": "ゴディバ ジャパンは2027年1月1日から、「2027ニューイヤー ハッピーバッグ」を全国のゴディバショップ･ゴディバアウトレット店･ゴディバ オンラインショップで数量限定販売する。 全国の一部有名百貨店オンラインでは2...",
-      "url": "https://www.ssnp.co.jp/snack/712566/",
-      "published_at": "2026-11-21T09:09:00+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "1b944ce91fcdd9c1",
-      "title": "【2026年11月第3週】菓子パンランキング1位はホイップあんぱん！新商品・急上昇続出まとめ",
-      "summary": "2026年11月第3週の菓子パンランキングが発表されました。秋の味覚を感じさせる商品や、話題の新商品がズラリと顔をそろえた今週のランキング、さっそくチェックし…",
-      "url": "https://mognavi.jp/news/matome/gen-pickupRanking-30543/?utm_source=rss&utm_medium=mognavinews_20261121",
-      "published_at": "2026-11-21T09:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "fa55a2596c5af9ca",
-      "title": "【8日間限定】焼肉の和民、和牛サーロインを1241円で販売　通常価格から1487円引き",
-      "summary": "ワタミが展開する焼肉チェーン「焼肉の和民」は11月22日の「いい夫婦の日」から11月29日の「いい肉の日」までの8日間、「和牛サーロイン」を特別価格で販売する。 通常価格2,728円（税込、以下同）のところ、1,487円...",
-      "url": "https://www.ssnp.co.jp/foodservice/712624/",
-      "published_at": "2026-11-21T07:43:00+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "89bfc027ba3f09ef",
-      "title": "【3日間限定】幸楽苑、郡山ブラックを税込500円で販売　漆黒スープのご当地ラーメン",
-      "summary": "ラーメンチェーン「幸楽苑」は11月27日から29日までの3日間限定で、「ブラックフライデー 郡山ブラックフェア」を開催する。 同フェアでは、幸楽苑本社がある福島県郡山市のご当地ラーメン「郡山ブラック」と、「郡山ブラック ...",
-      "url": "https://www.ssnp.co.jp/foodservice/711878/",
-      "published_at": "2026-11-21T07:13:00+08:00",
-      "source": "食品産業新聞社",
-      "region": "日本",
-      "category": "综合",
-      "level": "B",
-      "language": "ja"
-    },
-    {
-      "id": "6abfaa0509ab3252",
-      "title": "今週新発売のコンビニホットスナックまとめ！『江戸清　大きな豚まん』、『黄金チキンレッド　骨つき』など♪",
-      "summary": "こんにちは、もぐナビ編集部です！コンビニホットスナックの新商品情報をお届けします。来週新発売のコンビニホットスナックローソン 江戸清 大きな豚まん1食で満足で…",
-      "url": "https://mognavi.jp/news/recommend-hot/recommend-hot2026112101/?utm_source=rss&utm_medium=mognavinews_20261121",
-      "published_at": "2026-11-21T06:00:00+08:00",
-      "source": "Mognavi",
-      "region": "日本",
-      "category": "综合",
-      "level": "A",
-      "language": "ja"
-    },
-    {
-      "id": "ac9bb32dc3270307",
-      "title": "Boston Beer names next CEO",
-      "summary": "Chief Operating Officer Phil Hodges will succeed founder Jim Koch, who returned to the helm last year.",
-      "url": "https://www.fooddive.com/news/boston-beer-promotes-new-ceo-phil-hodges-jim-koch/875350/",
-      "published_at": "2026-11-21T01:00:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "88108ed911d516f8",
-      "title": "RFI Ingredients launches Cranova cranberry platform for wider nutraceutical applications",
-      "summary": "The US-developed ingredient portfolio combines whole-fruit cranberry powders, standardised proanthocyanidin content and formulation support to target applications spanning gut health, oral care and…",
-      "url": "https://nutraceuticalbusinessreview.com/rfi-ingredients-launches-cranova-cranberry-platform-nutraceutical",
-      "published_at": "2026-11-20T23:52:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "0bad54d39e41c23b",
-      "title": "Premium is easy to imitate. Distinctive brand meaning isn’t.",
-      "summary": "By Ben Martin – Founder & Creative Director, Royal Flush Premium has always had a visual language. Gold foils, matt substrates, restrained typography, elegant photography, provenance cues and…",
-      "url": "https://fabnews.live/premium-is-easy-to-imitate-distinctive-brand-meaning-isnt/",
-      "published_at": "2026-11-20T23:26:23+08:00",
-      "source": "Fab News",
-      "region": "欧洲",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "784ef7589024b486",
-      "title": "From Pineapple Farms to Poke Bowls: A Culinary Tour of Maui",
-      "summary": "A recent culinary tour of Maui highlighted growing food and beverage trends, from agritourism to banana-infused treats, macadamia nuts, ube, and fresh seafood. The post From Pineapple Farms to Poke…",
-      "url": "https://foodinstitute.com/healthwellness/from-pineapple-farms-to-poke-bowls-a-culinary-tour-of-maui/?utm_source=rss&utm_medium=rss&utm_campaign=from-pineapple-farms-to-poke-bowls-a-culinary-tour-of-maui",
-      "published_at": "2026-11-20T23:00:21+08:00",
-      "source": "The Food Institute",
-      "region": "北美",
-      "category": "综合",
-      "level": "A",
-      "language": "en"
-    },
-    {
-      "id": "94e28319adc09084",
-      "title": "Leftovers: Ferrero Rocher spices up the holidays | Jeni’s scoops red pepper jelly ice cream",
-      "summary": "The brand's chocolate squares line is launching its first limited-edition flavor with cinnamon spice, and PepsiCo expands dirty soda mixes for restaurants.",
-      "url": "https://www.fooddive.com/news/ferrero-rocher-squares-spice-jenis-red-pepper-jelly-pepsi-drips-syrups/875307/",
-      "published_at": "2026-11-20T22:54:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
-      "language": "en"
-    },
-    {
-      "id": "60fc0e0b6f3d8b1c",
-      "title": "Tonum Health partners with Euvita to integrate supplements into personalised healthcare",
-      "summary": "The partnership will bring Tonum's metabolic health, cognitive wellness and functional nutrition products into Euvita's physician-led longevity programmes, with recommendations tailored to patients'…",
-      "url": "https://nutraceuticalbusinessreview.com/tonum-health-partners-euvita-supplements-healthcare",
-      "published_at": "2026-11-20T22:51:00+08:00",
-      "source": "Nutraceutical Business Review",
-      "region": "欧洲",
-      "category": "功能性食品",
-      "level": "B",
-      "language": "en"
-    },
-    {
-      "id": "207c2a943afc6ddc",
-      "title": "PepsiCo improves deforestation-free sourcing for key commodities",
-      "summary": "The Doritos maker sourced 94% of ingredients such as palm oil and sugar cane without forest clearance in 2025, up from 90% the year before.",
-      "url": "https://www.fooddive.com/news/pepsico-improves-deforestation-free-sourcing-for-key-commodities/875130/",
-      "published_at": "2026-11-20T22:29:00+08:00",
-      "source": "Food Dive",
-      "region": "北美",
-      "category": "综合",
-      "level": "A+",
       "language": "en"
     }
   ]
