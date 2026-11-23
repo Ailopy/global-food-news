@@ -1,21 +1,21 @@
 {
-  "total": 272,
+  "total": 266,
   "s_plus_count": 47,
   "sites": [
-    "Food Dive",
-    "朝日グループYouTube",
-    "Packaging Digest",
     "日経新聞",
-    "日経xTrend"
+    "Packaging Digest",
+    "朝日グループYouTube",
+    "日経xTrend",
+    "Food Dive"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "其他": 131,
-    "新产品": 65,
-    "品牌故事": 36,
+    "新产品": 66,
+    "其他": 126,
+    "品牌故事": 34,
     "营销创新": 12,
     "新包装": 8,
     "联名营销": 11,
@@ -24,9 +24,59 @@
     "新原料": 1,
     "行业政策": 1
   },
-  "last_updated": "2026-11-23 00:46",
-  "last_updated_iso": "2026-11-23T00:46:36.717719+08:00",
+  "last_updated": "2026-11-23 16:23",
+  "last_updated_iso": "2026-11-23T16:23:32.963645+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "マーケター・オブ・ザ・イヤー2026",
+      "url": "https://xtrend.nikkei.com/info/podcast/19/00432/?n_cid=nbpnxr_rss",
+      "summary": "編集部のトレンド・キーワード解説を音声で聴けるポッドキャスト。前半の「WEEKLY TREND KEYWORDS」は、サントリーが2026年10月に発売した、新しい缶チューハイブランド「THE DRY」をピックアップ。後半は「マーケター・オブ・ザ・イヤー2026」をお送りします。2026年で9回目を迎えた、「マーケター・オブ・ザ・イヤー」は、新しい市場を創造した人や、エポックメイキングなビジネスモデルを構築した人を表彰するアワードです。今回は、今年優れたマーケターとして選出された受賞者と評価されたポイントを紹介します。解説は日経クロストレンドの中村勇介編集長。",
+      "published_at": "2026-11-23T05:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-23T16:23:20+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "食品・飲料",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yd2k3UFR3UFdQMVliOURGRGhKSzVvVW94OEFDTWk4UGZWU2tqSEVhaTBKTnZTZWNreUdsRG1tM0lEUWtTXzJsYkItME5QUQ?oc=5",
+      "summary": "食品・飲料&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-22T05:24:56Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-23T16:23:17+08:00"
+    },
     {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
@@ -5464,116 +5514,6 @@
       "scraped_at": "2026-10-26T13:31:52+08:00"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "シェア買いで大失敗のカウシェ 「野菜をもらえる」価値の発明で急成長",
-      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00008/00191/?n_cid=nbpnxr_rss",
-      "summary": "マニュアル化された業務をAIが担う時代において、人間が取り組むべきは「意味の発明」だ。意味の発明とは商品、ブランドの価値の明文化とも言い換えられる。カウシェは意味の発明によって、再成長につなげた。",
-      "published_at": "2026-10-23T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-10-23T13:31:52+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "米小売りがAIコマースへ動く理由 商品より顧客の目的を重視せよ",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01973/?n_cid=nbpnxr_rss",
-      "summary": "「Shoptalk」は、米国で開かれる小売業向けとしては世界最大級のカンファレンスだ。直近開催のShoptalk Fall 2026では、AIエージェントによって生活者の購買行動がどう変わるかに注目が集まった。2回にわたるリポートの後編をお届けする。",
-      "published_at": "2026-10-23T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-23T13:31:52+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "シェア買いで大失敗のカウシェ 「野菜をもらえる」価値の発明で急成長",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa3lMS0Fib1dxVUM4ek8yanl0cm0wX3MtbWxnMWV5aFlGWTNYVkFPVi04ZmlPVmhuZ1RuWEN3WlRwUFBUdnFMY3BvTzR2WVVobFdTNmZNTTN2MEVLdzZRbVh6Z3lHREpfb011QzJqV3Q2R0NjaDdudE5sbm9wUEhRS2p6Mnp0eTdyY2EwNWZKbw?oc=5",
-      "summary": "シェア買いで大失敗のカウシェ 「野菜をもらえる」価値の発明で急成長&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-22T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-23T13:31:50+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "米小売りがAIコマースへ動く理由 商品より顧客の目的を重視せよ",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOThBM2YzUWhUWlE5WS1PRUtfbUhrcmk5TGlzcEdEbzNsYlREYml0QWR3Vi1QVzNpUkNqenFvY2VsamVHZk1jX2ZnaXRnenVybDNjaTVZV0c5T0U2Zzh4VUJVLS0ycEJqSWIxbjhXSnRrYWF2UXdtbzRSZVBnc0JNVmZMcmdacWlreW9yZDBiZUYtTmMt?oc=5",
-      "summary": "米小売りがAIコマースへ動く理由 商品より顧客の目的を重視せよ&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-22T15:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-23T13:31:50+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yd2k3UFR3UFdQMVliOURGRGhKSzVvVW94OEFDTWk4UGZWU2tqSEVhaTBKTnZTZWNreUdsRG1tM0lEUWtTXzJsYkItME5QUQ?oc=5",
-      "summary": "食品・飲料&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-22T10:00:21Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-23T13:31:50+08:00"
-    },
-    {
       "site_name": "日経新聞",
       "site_name_en": "Nikkei News",
       "region": "日本",
@@ -5638,28 +5578,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-25T21:26:37+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（53ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EVEYwUGR0emcxQjFSS1JMY3MtMVpmbHlCSVM5M3NzelUyaEVUaWhGeUFNNTVXQVJKV3pYVWxKWFJfREplbi1kSEtqb1FsQlFWZDJJZExRa1pzNmx6MnJ6VEJvUHFNUQ?oc=5",
-      "summary": "食品・飲料（53ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-20T19:43:53Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-23T13:31:50+08:00"
     },
     {
       "site_name": "日経新聞",
@@ -5880,50 +5798,6 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-10-27T13:46:55+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "PepsiCo shutters Tennessee bottling plant amid soda slump",
-      "url": "https://www.fooddive.com/news/pepsico-beverage-plant-closure-knoxville-tennessee/833457/",
-      "summary": "The closure comes after the beverage giant's CEO laid out a cost-cutting plan to improve flattening growth.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-23T13:32:02+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Danone partners on $40M facility turning yogurt waste to renewable energy",
-      "url": "https://www.fooddive.com/news/danone-yogurt-ohio-renewable-energy-biogas/833572/",
-      "summary": "The project, commissioned by PurposeEnergy, comes as the dairy giant boosts production to meet accelerating demand for high-protein yogurt.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 2
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-10-23T13:32:02+08:00"
     },
     {
       "site_name": "Food Dive",
