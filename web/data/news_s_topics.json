@@ -1,32 +1,126 @@
 {
-  "total": 269,
-  "s_plus_count": 49,
+  "total": 273,
+  "s_plus_count": 50,
   "sites": [
-    "日経xTrend",
-    "日経新聞",
     "朝日グループYouTube",
+    "日経xTrend",
     "Food Dive",
-    "Packaging Digest"
+    "Packaging Digest",
+    "日経新聞"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
+    "品牌故事": 35,
+    "并购融资": 4,
+    "其他": 127,
+    "营销创新": 16,
     "新产品": 67,
-    "其他": 126,
-    "营销创新": 15,
-    "品牌故事": 34,
     "新包装": 7,
     "联名营销": 11,
     "渠道新物种": 4,
-    "并购融资": 3,
     "新原料": 1,
     "行业政策": 1
   },
-  "last_updated": "2026-11-24 18:32",
-  "last_updated_iso": "2026-11-24T18:32:04.748857+08:00",
+  "last_updated": "2026-11-25 03:48",
+  "last_updated_iso": "2026-11-25T03:48:05.663005+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "BAKEが売上9割減から再起 復活の鍵は創業時の成功モデルからの脱却",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01991/?n_cid=nbpnxr_rss",
+      "summary": "創業からわずか5年で国内外100店舗を突破するなど、急成長を遂げたお菓子メーカーのBAKE。しかし、新型コロナウイルス禍では売り上げが一時9割近く減少し、会社の存続すら危ぶまれたという。そこから見直したのは、創業当時から貫いてきた経営戦略だった。10周年を控えた看板ブランド「PRESS BUTTER SAND」をはじめ、現在展開しているブランドの事例を通じて、ヒット商品を長く育てるための戦略を追う。",
+      "published_at": "2026-11-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 2
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-25T03:47:52+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ClaudeやChatGPTに課金したのに仕上がりが「何か違う…」のはなぜか",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01516/00001/?n_cid=nbpnxr_rss",
+      "summary": "生成AI「Claude」を開発する米アンソロピックが、米ナスダック市場に上場。存在感を一層増すことになった。ところが日々の仕事では、AIエージェントの「Claude Code」や「Codex」に手元の作業を任せても、仕上がりに不満を覚える場面は珍しくない。目を通してみると、どこかで見たような一般論が並んでいる。指示を追加すること3回、結局、自分で直した方が早かったのでは――。AIエージェント全般にまつわるこのような問題は、どうして起きるのか。",
+      "published_at": "2026-11-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "并购融资",
+          "icon": "💼",
+          "color": "#b45309",
+          "score": 1
+        }
+      ],
+      "primary_category": "并购融资",
+      "scraped_at": "2026-11-25T03:47:52+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "4万個出荷のぬいぐるみ型ロボ 「想定外」の顧客に照準を当て大ヒット",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01994/?n_cid=nbpnxr_rss",
+      "summary": "ユカイ工学のぬいぐるみ型ロボット「mirumi」は、若者のスクールバッグ向けという想定に反し、高級バッグを持つ大人の女性に好評だった。展示会での反響を受け、日本製素材や上質な包装を採用。価格を1万5000円程度から税込み2万2000円に引き上げ、販路も世界観を伝えられる店舗に絞った。想定外の顧客層の発見を、品質・価格・販路の再設計につなげた。",
+      "published_at": "2026-11-25T00:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "大ヒット",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-25T03:47:52+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "「沖縄のテーマパーク」にマーケターが学ぶべきこと バルタ氏対談",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00008/00194/?n_cid=nbpnxr_rss",
+      "summary": "成功すれば妬まれ、失敗すれば批判を受ける。急激に変化し続ける時代の中でマーケターはいかにハンドルを操り、アクセルを踏み込むか。来日したトーマス・バルタ氏が、ベントレー モーターズ ジャパンの遠藤克之輔氏と対談し、AI時代のブランド構築からマーケティングを事業成長へつなげるリーダーの条件まで、多彩な議論を繰り広げた。",
+      "published_at": "2026-11-25T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        },
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "营销创新",
+      "scraped_at": "2026-11-25T03:47:52+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
