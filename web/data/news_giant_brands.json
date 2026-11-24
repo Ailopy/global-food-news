@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-24T02:54:03",
+  "last_updated": "2026-11-24T18:31:47",
   "retention_days": 7,
-  "total": 815,
+  "total": 818,
   "s_count": 61,
   "a_count": 8,
-  "b_count": 746,
+  "b_count": 749,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -36,6 +36,50 @@
   ],
   "articles": [
     {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「廃棄コーヒーチェリーの有効活用による新規CSV素材の開発」が全国清涼飲料連合会賞を受賞",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1124_01.html",
+      "published_at": "2026-11-24T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-11-24T00:00:00",
+      "summary": "2026年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.24湖池屋「湖池屋ストロング ガリとまチキン」(11月23日より先行発売)",
+      "url": "https://www.nissin.com/jp/news/14000/",
+      "published_at": "2026-11-24T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, CJ더마켓서 고객 대상 ‘홀리데이 쿠킹 클래스’ 운영… “스타 셰프와 함께하는 연말 홈파티 ...2026.11.24",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1855",
+      "published_at": "2026-11-24T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
       "brand": "CJ",
       "brand_cn": "希杰",
       "region": "韩国",
@@ -65,17 +109,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1120_01.html",
       "published_at": "2026-11-20T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-11-20T00:00:00",
-      "summary": "2026年12月期 第3四半期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
