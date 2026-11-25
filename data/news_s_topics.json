@@ -1,21 +1,21 @@
 {
-  "total": 273,
+  "total": 272,
   "s_plus_count": 50,
   "sites": [
-    "朝日グループYouTube",
-    "日経xTrend",
     "Food Dive",
+    "朝日グループYouTube",
+    "日経新聞",
     "Packaging Digest",
-    "日経新聞"
+    "日経xTrend"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
-    "品牌故事": 35,
+    "品牌故事": 36,
     "并购融资": 4,
-    "其他": 127,
+    "其他": 125,
     "营销创新": 16,
     "新产品": 67,
     "新包装": 7,
@@ -24,9 +24,34 @@
     "新原料": 1,
     "行业政策": 1
   },
-  "last_updated": "2026-11-25 03:48",
-  "last_updated_iso": "2026-11-25T03:48:05.663005+08:00",
+  "last_updated": "2026-11-25 17:21",
+  "last_updated_iso": "2026-11-25T17:21:10.540743+08:00",
   "articles": [
+    {
+      "site_name": "朝日グループYouTube",
+      "site_name_en": "Asahi Group YouTube",
+      "region": "日本",
+      "positioning": "产品广告&视频",
+      "title": "1800テキーラ 「グアチモントン」篇",
+      "url": "https://www.youtube.com/watch?v=UH3cgnshdLU",
+      "summary": "「1800 グアチモントン」は、世界遺産「ロス・グアチモントネス」が立つ豊かな赤土の畑で育まれたブルーアガベを100％使用したプレミアムテキーラです。アメリカンオーク樽で12カ月以上熟成した後、さらにオレンジテキーラリキュールの樽で熟成させています。 ▼「1800テキーラ」ブランドサイト https://www.asahibeer.co.jp/brand/1800tequila/",
+      "published_at": "2026-11-25T01:00:05Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "品牌故事",
+          "icon": "✨",
+          "color": "#6b7280",
+          "score": 1
+        }
+      ],
+      "primary_category": "品牌故事",
+      "scraped_at": "2026-11-25T17:21:10+08:00",
+      "is_video": true,
+      "video_thumbnail": "https://i2.ytimg.com/vi/UH3cgnshdLU/hqdefault.jpg",
+      "channel_name": "朝日グループYouTube"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -5892,50 +5917,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-31T22:54:14+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（293ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qVVpfbnNQNk9vVEkzcWdlLUQtdzZZTUM4aFdQQWp2a21Zd3d3WHBST1RBZ0Nsa0dhVFVoOVRRNFhtOEktY1kyZXZ1RTZYUHd1aF9uQ3N0bzVZbE1Ua25DVUN0dTNRb1E?oc=5",
-      "summary": "食品・飲料（293ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-14T15:51:05Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-25T13:27:12+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（307ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kaElzNkgzbzZvTm83aHlZYmdaR0RIUHlTc1BzSlJSMkZSOW9hdzk3d3VESmJZYjRvdDhyS0Yzb2YwOGVEMFJ6b0YyTk0zZmlNbVlaTlprOXhNWlR1RFB2Z3NsbHR4YTA?oc=5",
-      "summary": "食品・飲料（307ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-13T18:19:12Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-25T13:27:12+08:00"
     },
     {
       "site_name": "日経新聞",
