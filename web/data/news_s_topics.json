@@ -1,32 +1,142 @@
 {
-  "total": 272,
+  "total": 273,
   "s_plus_count": 50,
   "sites": [
-    "Food Dive",
-    "朝日グループYouTube",
     "日経新聞",
+    "朝日グループYouTube",
+    "日経xTrend",
     "Packaging Digest",
-    "日経xTrend"
+    "Food Dive"
   ],
   "regions": [
     "日本",
     "北美"
   ],
   "category_stats": {
+    "新产品": 68,
+    "其他": 125,
     "品牌故事": 36,
     "并购融资": 4,
-    "其他": 125,
     "营销创新": 16,
-    "新产品": 67,
     "新包装": 7,
     "联名营销": 11,
     "渠道新物种": 4,
     "新原料": 1,
     "行业政策": 1
   },
-  "last_updated": "2026-11-25 17:21",
-  "last_updated_iso": "2026-11-25T17:21:10.540743+08:00",
+  "last_updated": "2026-11-26 02:53",
+  "last_updated_iso": "2026-11-26T02:53:48.764010+08:00",
   "articles": [
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ディズニー、富士急、レゴ… 27年「新コースター四天王」先取り格付け",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01413/00006/?n_cid=nbpnxr_rss",
+      "summary": "2027年は、30年ぶりのジェットコースターの当たり年だ。高低差が15m以上ある大型機の新設が、既に4機も発表されている。しかも、体験できる施設は東京ディズニーランド、富士急ハイランド、レゴランド・ジャパン、ハウステンボスと、いずれも有名どころだ。本記事では、これら4つをランキング形式で紹介。体験の質とオリジナリティーの観点で、それぞれの魅力を徹底予測する。",
+      "published_at": "2026-11-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-26T02:53:35+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ニトリ、40万円のAIベッドを販路拡大 8万人超がはまった“万博技術”",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01514/00005/?n_cid=nbpnxr_rss",
+      "summary": "2026年2月、手ごろな価格帯の商品を取り扱うニトリが約40万円の家庭用ベッドを発売し、注目を集めている。このベッドの開発をセンサーやAI技術で支えたのが、売上高1.6兆円超の精密部品大手・ミネベアミツミだ。このベッドには、大阪・関西万博で8万人超を魅了した新体験の睡眠空間「未来の眠り」に使われた技術の一部が盛り込まれている。ミネベアミツミがこの事業領域で29年3月期に見込んでいる売上高はまだ僅か9億円だが、同社が掲げる戦略は壮大だ。",
+      "published_at": "2026-11-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-26T02:53:35+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "米アマゾンが小売店を無料で囲う AIコマースで主導権奪取の野望",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00109/00244/?n_cid=nbpnxr_rss",
+      "summary": "米Amazon.comが、日本でも人気急上昇中のパーソナルAIエージェント「Muse」のアクセスを遮断したことは、記憶に新しい。このほど投入した新サービスによって、その真意が明らかになった。エージェンティックコマースの世界の旗振り役を、まさにAI企業から奪い取ろうとする、野心的な新戦略の全貌とは。",
+      "published_at": "2026-11-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-26T02:53:35+08:00"
+    },
+    {
+      "site_name": "日経xTrend",
+      "site_name_en": "Nikkei xTrend",
+      "region": "日本",
+      "positioning": "综合&分析",
+      "title": "ChatGPTがAIO分析ツールに参入 関連トピックなど管理画面で確認可能に",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01446/00013/?n_cid=nbpnxr_rss",
+      "summary": "米OpenAIは2026年11月10日、企業が自社の製品やサービスに関する情報を登録し、各種データを参照できる他、ユーザーとの接点となるAIエージェントを構築できる「Businesses in ChatGPT」のベータ版を公開した。急拡大しているGEOやAIOの関連サービスと競合する存在になる可能性もある。米国の有力メディア「ADWEEK」がリポートする。",
+      "published_at": "2026-11-26T00:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-26T02:53:35+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "米アマゾンが小売店を無料で囲う AIコマースで主導権奪取の野望",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVZYWE5ScGNlSk5FcjNsNjFQN3FGaExqR2hLQVM3aWdIeDgtRGdCWHRER21CWnROeUNsQTVqdjFMUF8tWHlDQWtmdWFsakF5a1J3OWJZeWM4cDBkUkE0bDFaVUUxSWlRczlFZEYwSWZNUEZtS1JadDMyVVBkR0RXY1dCNXZuVVQ5OTkw?oc=5",
+      "summary": "米アマゾンが小売店を無料で囲う AIコマースで主導権奪取の野望&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-25T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "其他",
+          "icon": "📰",
+          "color": "#6b7280",
+          "score": 0
+        }
+      ],
+      "primary_category": "其他",
+      "scraped_at": "2026-11-26T02:53:32+08:00"
+    },
     {
       "site_name": "朝日グループYouTube",
       "site_name_en": "Asahi Group YouTube",
@@ -5835,50 +5945,6 @@
       "site_name_en": "Nikkei News",
       "region": "日本",
       "positioning": "新品&产业",
-      "title": "カネ美食品[2669]：組織変更および人事異動に関するお知らせ 2026年10月21日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPMDc1SU9xRmhpU1J0SzYyQS1hYnpTaDNzc19QRHczcnIzQWhSQlZZcEp5VWZzM3hOSy0tWW1wSUxWTkVKMzRTTzdLdThCVk1XQ1FmbkViUDY0UUVKMVRlMlRGQTkxMDNCREE?oc=5",
-      "summary": "カネ美食品[2669]：組織変更および人事異動に関するお知らせ 2026年10月21日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-10-21T06:30:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-25T21:26:37+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "購買データで見るニューシニア消費の実像 菓子・酒が伸びる意外な理由",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wMXJTRnNjM3Boamd0VTl0anFPOGtEVF9GcFo2UjZKYjQzbDVqUzk2dDNuZ080UHBlTUNyTG9OZHRVNEc3QWdVS052c1lMd2NWeU5vLWpTbTl4ZkM4ZWxFUmdqaHpPUQ?oc=5",
-      "summary": "購買データで見るニューシニア消費の実像 菓子・酒が伸びる意外な理由&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-20T15:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-25T21:26:37+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
       "title": "70歳以上限定でも毎年完売 星野リゾート定期券ヒットにシニアの本音",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CV3dkZkN5Vk0tdWFlamNncHpacEZaeDZiSDJjZFQ2OVdTd2JzQ2lrbkJ3Um1XZHRnekF5cklqb244aG1oUEhpVk42NVhmaDAxWmRKX2tOUjhhU2JQOU02SDFRX3JfUQ?oc=5",
       "summary": "70歳以上限定でも毎年完売 星野リゾート定期券ヒットにシニアの本音&nbsp;&nbsp;日経クロストレンド",
@@ -5917,50 +5983,6 @@
       ],
       "primary_category": "其他",
       "scraped_at": "2026-10-31T22:54:14+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "ストリーム[3071]：子会社エックスワン、いつまでも、もっとはっきり、もっとくっきり、クリアな毎日に 機能性表示食品「はっきりアイ」を新発売 2026年10月13日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cjJHeDlNWDNFeEU4X1E2RmxyM1djSEU5aTBSYVh3UUlrYnJabS1YUV9Id3lsZUJIdmV1VkNya1BiYlFFeV9KTlRvckg3c08tODRMOWFyYUJkOXBER0h5dXlpUEIxeG5XVHc?oc=5",
-      "summary": "ストリーム[3071]：子会社エックスワン、いつまでも、もっとはっきり、もっとくっきり、クリアな毎日に 機能性表示食品「はっきりアイ」を新発売 2026年10月13日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-10-13T07:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "新产品",
-          "icon": "🆕",
-          "color": "#2563eb",
-          "score": 2
-        }
-      ],
-      "primary_category": "新产品",
-      "scraped_at": "2026-10-25T21:26:37+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "食品・飲料（218ページ目）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VOFo2aHcydG4xUnNnaHpCNWFaZ3B3d1FScVVIU3Vxd19MSXZiVTdfOHpjYWQ3RHo0X3ktX2MtRk1TZm9DREFxdUhqLVFPWjZmTG05ekdId1VkdDdDRjhhYU5BVzVPUWs?oc=5",
-      "summary": "食品・飲料（218ページ目）&nbsp;&nbsp;日経クロストレンド",
-      "published_at": "2026-10-13T05:51:55Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-25T21:26:37+08:00"
     },
     {
       "site_name": "日経新聞",
