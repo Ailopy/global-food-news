@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-25T02:31:08",
+  "last_updated": "2026-11-25T17:20:52",
   "retention_days": 7,
-  "total": 818,
+  "total": 821,
   "s_count": 61,
   "a_count": 8,
-  "b_count": 749,
+  "b_count": 752,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -39,9 +39,9 @@
       "brand": "Kirin",
       "brand_cn": "麒麟",
       "region": "日本",
-      "title": "「廃棄コーヒーチェリーの有効活用による新規CSV素材の開発」が全国清涼飲料連合会賞を受賞",
-      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1124_01.html",
-      "published_at": "2026-11-24T02:00:05",
+      "title": "キリン、「日経SDGs経営大賞2026」で「プライムシート企業」に選出",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1125_01.html",
+      "published_at": "2026-11-25T08:00:05",
       "summary": "",
       "level": "B",
       "level_reason": "企业动态"
@@ -52,8 +52,30 @@
       "region": "日本",
       "title": "Asahi Group Philosophy（グループ理念）",
       "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-11-24T00:00:00",
+      "published_at": "2026-11-25T00:00:00",
       "summary": "2026年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당 ‘퀴진케이’, 차세대 셰프들과 함께 한식의 뿌리 찾아… 경상도에서 일곱 번째 마스터 클래스 성...2026.11.25",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1856",
+      "published_at": "2026-11-25T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「廃棄コーヒーチェリーの有効活用による新規CSV素材の開発」が全国清涼飲料連合会賞を受賞",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1124_01.html",
+      "published_at": "2026-11-24T02:00:05",
+      "summary": "",
       "level": "B",
       "level_reason": "企业动态"
     },
@@ -9030,6 +9052,17 @@
       "url": "https://www.fb101.com/cuisine-k-k-seafood-culinary-program-seattle-302937590",
       "published_at": "",
       "summary": "Food & Beverage Magazine",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Yakult",
+      "brand_cn": "养乐多",
+      "region": "日本",
+      "title": "商品情報ヤクルトの製品情報や栄養成分などをご覧いただけます。›",
+      "url": "https://www.yakult.co.jp/maintenance/products/",
+      "published_at": "",
+      "summary": "ヤクルトの製品情報や栄養成分などをご覧いただけます。",
       "level": "B",
       "level_reason": "企业动态"
     }
