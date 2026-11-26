@@ -1,10 +1,10 @@
 {
-  "total": 267,
-  "s_plus_count": 47,
+  "total": 259,
+  "s_plus_count": 48,
   "sites": [
-    "日経xTrend",
     "Packaging Digest",
     "朝日グループYouTube",
+    "日経xTrend",
     "日経新聞",
     "Food Dive"
   ],
@@ -13,20 +13,70 @@
     "日本"
   ],
   "category_stats": {
-    "新产品": 66,
-    "其他": 124,
-    "品牌故事": 35,
+    "联名营销": 10,
+    "新产品": 67,
+    "其他": 118,
+    "品牌故事": 32,
     "并购融资": 4,
-    "营销创新": 16,
+    "营销创新": 15,
     "新包装": 7,
-    "联名营销": 9,
     "渠道新物种": 4,
     "新原料": 1,
     "行业政策": 1
   },
-  "last_updated": "2026-11-26 17:00",
-  "last_updated_iso": "2026-11-26T17:00:34.673105+08:00",
+  "last_updated": "2026-11-27 02:42",
+  "last_updated_iso": "2026-11-27T02:42:58.285528+08:00",
   "articles": [
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "ストリーミング全盛時代に異彩 様々なミュージシャンとコラボ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSE1xRjI0V2tSY1FJQnpJTzBVQmhiMWtOa1V2NXFDWkZpMXJZcmNudTJucnFNdGRLemdMbUs5c214elVjUnJ3Q0VGR3p4Zm15WjRTVV94b0NpZW5lWldCclZtdnNmWnBRT2U3ZENNWmdfTUU0UEpmdUhhTXZEWXBzN05DU1dFM1o2Z3hFS1BB?oc=5",
+      "summary": "ストリーミング全盛時代に異彩 様々なミュージシャンとコラボ&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-26T15:00:00Z",
+      "is_s_plus": true,
+      "s_plus_reason": "コラボ",
+      "categories": [
+        {
+          "name": "联名营销",
+          "icon": "🤝",
+          "color": "#c2410c",
+          "score": 1
+        }
+      ],
+      "primary_category": "联名营销",
+      "scraped_at": "2026-11-27T02:42:42+08:00"
+    },
+    {
+      "site_name": "日経新聞",
+      "site_name_en": "Nikkei News",
+      "region": "日本",
+      "positioning": "新品&产业",
+      "title": "『最新マーケティングの教科書2027』発売 AI本格活用時代に備えよ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhZXplOVF6ajVZZTBnaHlTNXNUdDRod3l0UmItY1FyT2FNZTRDa1QxUU9DTU1HYW9URGRHaHd5TWY2UzlTRmpXeS1VLTFBWFNaVzd6X1l0Qjg0MlJGblBCSktoaEgwcUl0LXhsYUZBUGNDNVE3U204Y01uOVN1YWM?oc=5",
+      "summary": "『最新マーケティングの教科書2027』発売 AI本格活用時代に備えよ&nbsp;&nbsp;日経クロストレンド",
+      "published_at": "2026-11-26T15:00:00Z",
+      "is_s_plus": false,
+      "s_plus_reason": "",
+      "categories": [
+        {
+          "name": "新产品",
+          "icon": "🆕",
+          "color": "#2563eb",
+          "score": 1
+        },
+        {
+          "name": "营销创新",
+          "icon": "🎯",
+          "color": "#9333ea",
+          "score": 1
+        }
+      ],
+      "primary_category": "新产品",
+      "scraped_at": "2026-11-27T02:42:42+08:00"
+    },
     {
       "site_name": "日経xTrend",
       "site_name_en": "Nikkei xTrend",
@@ -5568,122 +5618,6 @@
       "channel_name": "朝日グループYouTube"
     },
     {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "MIXIにとってゲーム事業とは何か 木村社長が語る変遷とその意義",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01186/00007/?n_cid=nbpnxr_rss",
-      "summary": "MIXIの業績は長年『モンスターストライク』頼りで、「モンスト一本足」などと言われてきた。だが、近年はベッティングを含むスポーツ事業が好調。子どもの写真・動画共有アプリ「家族アルバム みてね」をはじめとするライフスタイル事業も伸びている。有力事業が複数育ち、相対的な位置づけは下がる中、MIXIにとってゲーム事業はどのような価値を持つのか。MIXI代表取締役社長上級執行役員CEOの木村弘毅氏へのインタビュー後編は、MIXIにおけるゲームビジネスの変遷を語る。（聞き手は日経Gaming編集長 平野亜矢）",
-      "published_at": "2026-10-27T00:01:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-26T23:37:01+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "年9.5％の成長予測。豪州で広がる“ショウガ味”の「ジンジャービール」",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00693/00040/?n_cid=nbpnxr_rss",
-      "summary": "オーストラリアでショウガが原料の「ジンジャービール」が存在感を高めている。伝統的なノンアルコール飲料に加え、近年はアルコールを残した「ハードジンジャービール」が若者を中心に人気を拡大。クラフト酒ブームや低アルコール志向を追い風に、大手メーカーも参入し市場は急成長中だ。ビール離れが進む日本にとっても、新たな飲用シーンを切り開くヒントとなりそうだ。",
-      "published_at": "2026-10-27T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-26T23:37:01+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "サッポロ黒ラベル、広告投資は前年比2倍 喫食訴求の新CM投下で縦横戦略",
-      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01955/?n_cid=nbpnxr_rss",
-      "summary": "サッポロビールは2026年10月5日から、サッポロ黒ラベルの新CM「大人トレイン」を放映している。吉高由里子を起用した新作を投入しつつも、長寿シリーズ「大人エレベーター」の出稿も従来通り続け、26年10月の広告投資は前年同月比で約2倍に増加させる見通しだ。すでに人気シリーズを持つ中、なぜ今このタイミングで「2本柱」のコミュニケーションへ舵を切ったのか。新CMの内容や狙いとともに解説する。",
-      "published_at": "2026-10-27T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "营销创新",
-          "icon": "🎯",
-          "color": "#9333ea",
-          "score": 1
-        },
-        {
-          "name": "并购融资",
-          "icon": "💼",
-          "color": "#b45309",
-          "score": 1
-        }
-      ],
-      "primary_category": "营销创新",
-      "scraped_at": "2026-10-26T23:37:01+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "中川政七商店が目指すAI時代の接客 プロセスも学ばせる業務設計が必要",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00769/00023/?n_cid=nbpnxr_rss",
-      "summary": "中川政七商店のお客さまアンケートには、同じ表現が繰り返し現れる。「感じがいい」だ。「接心好感」という接客ポリシーを掲げる同社は、この言葉を要素に分解できるものではないと考えている。ブランドらしさをAIに渡すとき、渡すべきはブランドの成果物なのか、それとも別の何かなのか。同社でAI活用を推進する経営企画室の中田勇樹氏に、Sprocket代表取締役CEOの深田浩嗣が聞いた。",
-      "published_at": "2026-10-27T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-10-26T23:37:01+08:00"
-    },
-    {
-      "site_name": "日経xTrend",
-      "site_name_en": "Nikkei xTrend",
-      "region": "日本",
-      "positioning": "综合&分析",
-      "title": "ミンティアのV字回復にインサイト 現代人の「マイクロストレス」が鍵",
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/00665/00026/?n_cid=nbpnxr_rss",
-      "summary": "ブランドの価値を守りながら次の成長機会をどうつくるか。そのヒントは生活者がブランドを選び続ける理由へとつながる「習慣化」にある。ミンティアの事例を基に、既存の価値を捉え直し、再成長を図るための考え方と実践方法についてアサヒグループ食品の河口文彦氏が語った。聞き手はデコム代表の大松孝弘氏。",
-      "published_at": "2026-10-27T00:00:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-10-26T23:37:01+08:00"
-    },
-    {
       "site_name": "Packaging Digest",
       "site_name_en": "Packaging Digest",
       "region": "北美",
@@ -5704,53 +5638,6 @@
       ],
       "primary_category": "品牌故事",
       "scraped_at": "2026-10-27T13:47:11+08:00"
-    },
-    {
-      "site_name": "日経新聞",
-      "site_name_en": "Nikkei News",
-      "region": "日本",
-      "positioning": "新品&产业",
-      "title": "不二家[2211]：2026年12月期通期業績予想の修正に関するお知らせ 2026年10月26日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oUlpZejAtbUtuR2dNWDRoei16eFdBenhhOEdtV1hBTXdCQU4tbU1EeVp0WHVJWnY0TlZzZDRSaDVzcTFmT2FPM1RvYjNJeWppUi1jOVd0YTJDbmN1eXF3NWx0UFV2VVBEUlE?oc=5",
-      "summary": "不二家[2211]：2026年12月期通期業績予想の修正に関するお知らせ 2026年10月26日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-      "published_at": "2026-10-26T06:30:00Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-26T23:36:59+08:00"
-    },
-    {
-      "site_name": "朝日グループYouTube",
-      "site_name_en": "Asahi Group YouTube",
-      "region": "日本",
-      "positioning": "产品广告&视频",
-      "title": "クリアアサヒ＜生＞ CM「クリアな生ビールをはじめようか」篇 60秒 木村拓哉",
-      "url": "https://www.youtube.com/watch?v=BYwPol2pCFI",
-      "summary": "木村拓哉さんが出演する『クリアアサヒ＜生＞』のTVCM 「クリアな生ビールをはじめようか」篇 60秒 出演者：木村拓哉 ▼クリアアサヒ ブランドサイト https://www.asahibeer.co.jp/brand/clear/",
-      "published_at": "2026-10-26T01:00:05Z",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "品牌故事",
-          "icon": "✨",
-          "color": "#6b7280",
-          "score": 1
-        }
-      ],
-      "primary_category": "品牌故事",
-      "scraped_at": "2026-10-26T23:37:16+08:00",
-      "is_video": true,
-      "video_thumbnail": "https://i3.ytimg.com/vi/BYwPol2pCFI/hqdefault.jpg",
-      "channel_name": "朝日グループYouTube"
     },
     {
       "site_name": "日経新聞",
@@ -5883,72 +5770,6 @@
       ],
       "primary_category": "新产品",
       "scraped_at": "2026-10-27T13:46:55+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "How AB InBev built a culture of creative effectiveness that drives growth",
-      "url": "https://www.fooddive.com/news/how-ab-inbev-built-a-culture-of-creative-effectiveness-that-drives-growth/833830/",
-      "summary": "To focus its marketing efforts, the Bud Light owner looks for opportunities at the intersection of consumer needs and business problems, rather than chasing creative ideas intended to generate hype or buzz.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-26T23:37:12+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Why masking taste technologies are the differentiator CPGs need",
-      "url": "https://www.fooddive.com/spons/why-masking-taste-technologies-are-the-differentiator-cpgs-need/833311/",
-      "summary": "Discover how masking taste technologies help CPGs deliver better-for-you products without compromise.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-26T23:37:12+08:00"
-    },
-    {
-      "site_name": "Food Dive",
-      "site_name_en": "Food Dive",
-      "region": "北美",
-      "positioning": "行业分析",
-      "title": "Food and beverage layoffs accelerate",
-      "url": "https://www.fooddive.com/news/food-beverage-industry-layoffs-closures-increase/833710/",
-      "summary": "The sector has slashed close to 30,000 jobs as of September, up 76% from the same period last year.",
-      "published_at": "",
-      "is_s_plus": false,
-      "s_plus_reason": "",
-      "categories": [
-        {
-          "name": "其他",
-          "icon": "📰",
-          "color": "#6b7280",
-          "score": 0
-        }
-      ],
-      "primary_category": "其他",
-      "scraped_at": "2026-10-26T23:37:12+08:00"
     },
     {
       "site_name": "Food Dive",
