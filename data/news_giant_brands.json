@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-27T01:28:17",
+  "last_updated": "2026-11-27T17:12:45",
   "retention_days": 7,
-  "total": 829,
+  "total": 833,
   "s_count": 61,
   "a_count": 8,
-  "b_count": 760,
+  "b_count": 764,
   "brands": [
     "亿滋",
     "伊藤园",
@@ -35,6 +35,61 @@
     "韩国"
   ],
   "articles": [
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「免疫ケア推進園」全国累計1万園突破！「認定モデル園」制度を開始し、園と家庭で子どもの健康習慣を支える環境づくりを強化",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1127_01.html",
+      "published_at": "2026-11-27T02:00:10",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Kirin",
+      "brand_cn": "麒麟",
+      "region": "日本",
+      "title": "「L.ラクティス プラズマ」により誘導される抗ウイルス自然免疫記憶が、骨髄で長期に維持されることを新たに確認",
+      "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1127_02.html",
+      "published_at": "2026-11-27T02:00:05",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Asahi",
+      "brand_cn": "朝日",
+      "region": "日本",
+      "title": "Asahi Group Philosophy（グループ理念）",
+      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
+      "published_at": "2026-11-27T00:00:00",
+      "summary": "2026年12月期 第3四半期 決算業績について",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "Nissin",
+      "brand_cn": "日清食品",
+      "region": "日本",
+      "title": "2026.11.27日清シスコ「シスコーン」シリーズ6品 (3月22日リニューアル発売)",
+      "url": "https://www.nissin.com/jp/news/14007/",
+      "published_at": "2026-11-27T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
+    {
+      "brand": "CJ",
+      "brand_cn": "希杰",
+      "region": "韩国",
+      "title": "CJ제일제당, 맛밤∙맛콩 이어 ‘맛고구마’ 출시… 건강한 원물간식 포트폴리오 확대2026.11.27",
+      "url": "https://www.cj.co.kr/kr/newsroom/pressreleases/news-detail/1860",
+      "published_at": "2026-11-27T00:00:00",
+      "summary": "",
+      "level": "B",
+      "level_reason": "企业动态"
+    },
     {
       "brand": "Kirin",
       "brand_cn": "麒麟",
@@ -76,17 +131,6 @@
       "url": "https://www.kirinholdings.com/jp/newsroom/release/2026/1126_03.html",
       "published_at": "2026-11-26T02:00:05",
       "summary": "",
-      "level": "B",
-      "level_reason": "企业动态"
-    },
-    {
-      "brand": "Asahi",
-      "brand_cn": "朝日",
-      "region": "日本",
-      "title": "Asahi Group Philosophy（グループ理念）",
-      "url": "https://www.asahigroup-holdings.com/company/philosophy/",
-      "published_at": "2026-11-26T00:00:00",
-      "summary": "2026年12月期 第3四半期 決算業績について",
       "level": "B",
       "level_reason": "企业动态"
     },
